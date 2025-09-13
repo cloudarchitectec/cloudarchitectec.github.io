@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.2
+html2text==2024.2.25
+PyYAML==6.0.1
+requests==2.31.0

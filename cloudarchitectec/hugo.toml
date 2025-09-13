@@ -1,0 +1,33 @@
+baseURL = "https://example.org/"
+languageCode = "zh-Hant"
+defaultContentLanguage = "zh-Hant"
+title = "Cloud Architect EC"
+theme = "congo"
+
+[languages]
+  [languages.zh-hant]
+    languageName = "繁體中文"
+    title = "澳洲雲端架構師 EC"
+    weight = 1
+  [languages.en]
+    languageName = "English"
+    title = "Cloud Architect EC"
+    weight = 2
+
+[params]
+  # Primary theme color
+  colorScheme = "auto"
+  # Enable table of contents
+  enableTOC = true
+  # Show post reading time
+  showReadingTime = true
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    pageRef = "posts"
+    weight = 10
+  [[menu.main]]
+    name = "Tags"
+    pageRef = "tags"
+    weight = 20
