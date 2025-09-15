@@ -46,6 +46,21 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Debug submodule status
+        run: |
+          echo "Checking submodule status..."
+          git submodule status
+          echo "Checking theme directory..."
+          ls -la themes/
+          echo "Checking Congo theme files..."
+          ls -la themes/congo/ || echo "Congo directory not found"
+          echo "Checking for layouts..."
+          ls -la themes/congo/layouts/ || echo "Layouts directory not found"
+      - name: Force update submodules
+        run: |
+          git submodule update --init --recursive --force
+          echo "After force update:"
+          git submodule status
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
