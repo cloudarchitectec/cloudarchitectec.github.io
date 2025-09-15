@@ -1,0 +1,593 @@
+
+
+
+
+
+
+
+<!doctype html>
+<html
+  lang="zh-hant"
+  dir="ltr"
+  class="scroll-smooth"
+  data-default-appearance="light"
+  data-auto-appearance="true"
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#FFFFFF" />
+  
+  <title>[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07) &middot; 澳洲雲端架構師 EC</title>
+    <meta name="title" content="[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07) &middot; 澳洲雲端架構師 EC" />
+  
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="http://localhost:1313/js/appearance.min.8a082f81b27f3cb2ee528df0b0bdc39787034cf2cc34d4669fbc9977c929023c.js"
+    integrity="sha256-iggvgbJ/PLLuUo3wsL3Dl4cDTPLMNNRmn7yZd8kpAjw="
+  ></script>
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="http://localhost:1313/css/main.bundle.min.0fc2ef930d53c70c53effb01f12118005a26719d9223a1599730c1d26ee3f132.css"
+    integrity="sha256-D8Lvkw1TxwxT7/sB8SEYAFomcZ2SI6FZlzDB0m7j8TI="
+  />
+  
+  
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="
+      
+        
+[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07) #
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+  
+    
+      
+      
+      
+      
+        
+      
+      
+    
+  
+
+
+
+Photo by Social Estate on Unsplash
+(原文發表於 2021.07.24，現在轉發到 Medium 上。原來我曾經有這麼喜歡過坎培拉的時刻XD
+前情提要: 2021年3月我結束為期六個月的 AWS Tech U Graduate Program，從雪梨搬到坎培拉，正式加入Federal Team。後來我一直在坎培拉住 2022.12月才搬去布里斯本)
+搬來坎培拉也四個多月了，最近終於開始跟項目了！(不得不說大公司的步調真的好慢啊，一方面覺得很爽、很惜福，但有時候還是不免惴惴不安XD)
+前陣子做了一個澳洲國防部的實驗項目，用的技術是 Kubernetes (事實上我根本不懂 Containers, Docker 或是 k8s)，但是我跟的前輩完全就是這領域的專家，所有問題問他完全瞬間就可以找到答案，超級強！
+前輩們還放手讓我寫了一些小東西，算是我人生第一次正式提交 pull request 給客戶審核，覺得超級酷!!!
+客戶感覺對於我們的表現非常滿意，項目結束後好像有機會再繼續簽下一個項目(當然整個項目都是兩位前輩在carry，我完全就只貢獻了一小小小小部分)。
+目前手上還有兩個項目，一個是澳洲地球科學研究局的資安評估報告(security assessment)，另一個是澳洲統計局為期兩年的大項目，跟大數據相關。我還拿到了統計局的 contractor 員工證，真的覺得好酷喔!!!
+覺得在坎培拉工作最酷的地方就是客戶基本上都是政府機構，項目的影響力其實非常大！最麻煩的地方是拿到客戶權限的過程非常漫長，而且不小心洩漏機密還要罰款或是坐牢LOL
+另一個我前一陣子在忙的是公司內部的 Security Area of Depth Program，經過三個月的努力我終於成功通過了! 這個訓練program 是給專長非資安(security)的技術顧問 (technical consultant) 一個在資安領域進修的機會，成功通過後你就可以獲得一個 Security AoD 的頭銜(但這個頭銜其實好像也不能幹嘛哈哈)
+      
+    "
+  />
+  
+  
+  
+  
+    <link rel="canonical" href="http://localhost:1313/posts/2023-05-06-aws-cbr-life/" />
+  
+  
+  
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:url" content="http://localhost:1313/posts/2023-05-06-aws-cbr-life/">
+  <meta property="og:site_name" content="澳洲雲端架構師 EC">
+  <meta property="og:title" content="[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)">
+  <meta property="og:description" content="[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07) # Photo by Social Estate on Unsplash
+(原文發表於 2021.07.24，現在轉發到 Medium 上。原來我曾經有這麼喜歡過坎培拉的時刻XD
+前情提要: 2021年3月我結束為期六個月的 AWS Tech U Graduate Program，從雪梨搬到坎培拉，正式加入Federal Team。後來我一直在坎培拉住 2022.12月才搬去布里斯本)
+搬來坎培拉也四個多月了，最近終於開始跟項目了！(不得不說大公司的步調真的好慢啊，一方面覺得很爽、很惜福，但有時候還是不免惴惴不安XD)
+前陣子做了一個澳洲國防部的實驗項目，用的技術是 Kubernetes (事實上我根本不懂 Containers, Docker 或是 k8s)，但是我跟的前輩完全就是這領域的專家，所有問題問他完全瞬間就可以找到答案，超級強！
+前輩們還放手讓我寫了一些小東西，算是我人生第一次正式提交 pull request 給客戶審核，覺得超級酷!!!
+客戶感覺對於我們的表現非常滿意，項目結束後好像有機會再繼續簽下一個項目(當然整個項目都是兩位前輩在carry，我完全就只貢獻了一小小小小部分)。
+目前手上還有兩個項目，一個是澳洲地球科學研究局的資安評估報告(security assessment)，另一個是澳洲統計局為期兩年的大項目，跟大數據相關。我還拿到了統計局的 contractor 員工證，真的覺得好酷喔!!!
+覺得在坎培拉工作最酷的地方就是客戶基本上都是政府機構，項目的影響力其實非常大！最麻煩的地方是拿到客戶權限的過程非常漫長，而且不小心洩漏機密還要罰款或是坐牢LOL
+另一個我前一陣子在忙的是公司內部的 Security Area of Depth Program，經過三個月的努力我終於成功通過了! 這個訓練program 是給專長非資安(security)的技術顧問 (technical consultant) 一個在資安領域進修的機會，成功通過後你就可以獲得一個 Security AoD 的頭銜(但這個頭銜其實好像也不能幹嘛哈哈)">
+  <meta property="og:locale" content="zh_hant">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-05-06T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-05-06T00:00:00+00:00">
+    <meta property="og:image" content="http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b.jpg">
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b.jpg">
+  <meta name="twitter:title" content="[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)">
+  <meta name="twitter:description" content="[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07) # Photo by Social Estate on Unsplash
+(原文發表於 2021.07.24，現在轉發到 Medium 上。原來我曾經有這麼喜歡過坎培拉的時刻XD
+前情提要: 2021年3月我結束為期六個月的 AWS Tech U Graduate Program，從雪梨搬到坎培拉，正式加入Federal Team。後來我一直在坎培拉住 2022.12月才搬去布里斯本)
+搬來坎培拉也四個多月了，最近終於開始跟項目了！(不得不說大公司的步調真的好慢啊，一方面覺得很爽、很惜福，但有時候還是不免惴惴不安XD)
+前陣子做了一個澳洲國防部的實驗項目，用的技術是 Kubernetes (事實上我根本不懂 Containers, Docker 或是 k8s)，但是我跟的前輩完全就是這領域的專家，所有問題問他完全瞬間就可以找到答案，超級強！
+前輩們還放手讓我寫了一些小東西，算是我人生第一次正式提交 pull request 給客戶審核，覺得超級酷!!!
+客戶感覺對於我們的表現非常滿意，項目結束後好像有機會再繼續簽下一個項目(當然整個項目都是兩位前輩在carry，我完全就只貢獻了一小小小小部分)。
+目前手上還有兩個項目，一個是澳洲地球科學研究局的資安評估報告(security assessment)，另一個是澳洲統計局為期兩年的大項目，跟大數據相關。我還拿到了統計局的 contractor 員工證，真的覺得好酷喔!!!
+覺得在坎培拉工作最酷的地方就是客戶基本上都是政府機構，項目的影響力其實非常大！最麻煩的地方是拿到客戶權限的過程非常漫長，而且不小心洩漏機密還要罰款或是坐牢LOL
+另一個我前一陣子在忙的是公司內部的 Security Area of Depth Program，經過三個月的努力我終於成功通過了! 這個訓練program 是給專長非資安(security)的技術顧問 (technical consultant) 一個在資安領域進修的機會，成功通過後你就可以獲得一個 Security AoD 的頭銜(但這個頭銜其實好像也不能幹嘛哈哈)">
+
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "Posts",
+    "name": "[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)",
+    "headline": "[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)",
+    
+    "abstract": "\u003chr\u003e\n\u003ch3 id=\u0022生活-坎培拉aws生活四個月分享202103202107\u0022 class=\u0022relative group\u0022\u003e[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07) \u003cspan class=\u0022absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100\u0022\u003e\u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022 style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#%e7%94%9f%e6%b4%bb-%e5%9d%8e%e5%9f%b9%e6%8b%89aws%e7%94%9f%e6%b4%bb%e5%9b%9b%e5%80%8b%e6%9c%88%e5%88%86%e4%ba%ab202103202107\u0022 aria-label=\u0022定位點\u0022\u003e#\u003c\/a\u003e\u003c\/span\u003e\u003c\/h3\u003e\u003cp\u003e\n\n\n\n\n\n\u003cfigure\u003e\n    \n    \n\n\n\n\n\n\n\n\n  \n    \u003cpicture\n      class=\u0022mx-auto my-0 rounded-md\u0022\n      \n    \u003e\n      \n      \n      \n      \n        \u003csource\n          \n            srcset=\u0022http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b_hu_b25460ebbd1b25b1.webp 330w,http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b_hu_c8a9e6248686473f.webp 660w\n            \n              \n                ,http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b_hu_2512ee39047531fe.webp 800w\n              \n            \n            \n              \n                ,http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b_hu_2512ee39047531fe.webp 800w\n              \n            \u0022\n          \n          sizes=\u0022100vw\u0022\n          type=\u0022image\/webp\u0022\n        \/\u003e\n      \n      \u003cimg\n        width=\u0022800\u0022\n        height=\u0022514\u0022\n        class=\u0022mx-auto my-0 rounded-md\u0022\n        alt=\u0022坎培拉國會大廈\u0022\n        loading=\u0022lazy\u0022 decoding=\u0022async\u0022\n        \n          src=\u0022http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b_hu_84733f4e915a23fb.jpg\u0022 srcset=\u0022http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b_hu_d04584d0d13662b1.jpg 330w,http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b_hu_84733f4e915a23fb.jpg 660w\n          \n            ,http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b.jpg 800w\n          \n          \n            ,http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/images\/medium-0*pNETejXBiiEqjz9b.jpg 800w\n          \u0022\n          sizes=\u0022100vw\u0022\n        \n      \/\u003e\n    \u003c\/picture\u003e\n  \n\n\n\u003c\/figure\u003e\nPhoto by \u003ca href=\u0022https:\/\/unsplash.com\/@socialestate?utm_source=medium\u0026amp;utm_medium=referral\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer\u0022\u003eSocial Estate\u003c\/a\u003e on \u003ca href=\u0022https:\/\/unsplash.com?utm_source=medium\u0026amp;utm_medium=referral\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer\u0022\u003eUnsplash\u003c\/a\u003e\u003c\/p\u003e\n\u003cp\u003e(原文發表於 2021.07.24，現在轉發到 Medium 上。原來我曾經有這麼喜歡過坎培拉的時刻XD\u003c\/p\u003e\n\u003cp\u003e前情提要: 2021年3月我結束為期六個月的 AWS Tech U Graduate Program，從雪梨搬到坎培拉，正式加入Federal Team。後來我一直在坎培拉住 2022.12月才搬去布里斯本)\u003c\/p\u003e\n\u003cp\u003e搬來坎培拉也四個多月了，最近終於開始跟項目了！(不得不說大公司的步調真的好慢啊，一方面覺得很爽、很惜福，但有時候還是不免惴惴不安XD)\u003c\/p\u003e\n\u003cp\u003e前陣子做了一個澳洲國防部的實驗項目，用的技術是 Kubernetes (事實上我根本不懂 Containers, Docker 或是 k8s)，但是我跟的前輩完全就是這領域的專家，所有問題問他完全瞬間就可以找到答案，超級強！\u003c\/p\u003e\n\u003cp\u003e前輩們還放手讓我寫了一些小東西，算是我人生第一次正式提交 pull request 給客戶審核，覺得超級酷!!!\u003c\/p\u003e\n\u003cp\u003e客戶感覺對於我們的表現非常滿意，項目結束後好像有機會再繼續簽下一個項目(當然整個項目都是兩位前輩在carry，我完全就只貢獻了一小小小小部分)。\u003c\/p\u003e\n\u003cp\u003e目前手上還有兩個項目，一個是澳洲地球科學研究局的資安評估報告(security assessment)，另一個是澳洲統計局為期兩年的大項目，跟大數據相關。我還拿到了統計局的 contractor 員工證，真的覺得好酷喔!!!\u003c\/p\u003e\n\u003cp\u003e覺得在坎培拉工作最酷的地方就是客戶基本上都是政府機構，項目的影響力其實非常大！最麻煩的地方是拿到客戶權限的過程非常漫長，而且不小心洩漏機密還要罰款或是坐牢LOL\u003c\/p\u003e\n\u003cp\u003e另一個我前一陣子在忙的是公司內部的 Security Area of Depth Program，經過三個月的努力我終於成功通過了! 這個訓練program 是給專長非資安(security)的技術顧問 (technical consultant) 一個在資安領域進修的機會，成功通過後你就可以獲得一個 Security AoD 的頭銜(但這個頭銜其實好像也不能幹嘛哈哈)\u003c\/p\u003e",
+    "inLanguage": "zh-hant",
+    "url" : "http:\/\/localhost:1313\/posts\/2023-05-06-aws-cbr-life\/",
+    "author" : {
+      "@type": "Person",
+      "name": ""
+    },
+    "copyrightYear": "2023",
+    "dateCreated": "2023-05-06T00:00:00\u002b00:00",
+    "datePublished": "2023-05-06T00:00:00\u002b00:00",
+    
+    "dateModified": "2023-05-06T00:00:00\u002b00:00",
+    
+    
+    
+    "mainEntityOfPage": "true",
+    "wordCount": "100"
+  }
+  </script>
+    
+    <script type="application/ld+json">
+    {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+     {
+       "@type": "ListItem",
+       "item": "http://localhost:1313/",
+       "name": "澳洲雲端架構師 Ec",
+       "position": 1
+     },
+     {
+       "@type": "ListItem",
+       "item": "http://localhost:1313/posts/",
+       "name": "Posts",
+       "position": 2
+     },
+     {
+       "@type": "ListItem",
+       "name": "[生活] 坎培拉 Aws生活四個月分享(2021.03–2021.07)",
+       "position": 3
+     }
+   ]
+ }
+  </script>
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+</head>
+<body
+    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32"
+  >
+    <div id="the-top" class="absolute flex self-center">
+      <a
+        class="-translate-y-8 rounded-b-lg bg-primary-200 px-3 py-1 text-sm focus:translate-y-0 dark:bg-neutral-600"
+        href="#main-content"
+        ><span class="pe-2 font-bold text-primary-600 dark:text-primary-400">&darr;</span
+        >快轉到主要內容</a
+      >
+    </div>
+    
+    
+      <header class="py-6 font-semibold text-neutral-900 dark:text-neutral sm:py-10 print:hidden">
+  <nav class="flex items-start justify-between sm:items-center">
+    
+    <div class="flex flex-row items-center">
+      
+  <a
+    class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+    rel="me"
+    href="/"
+    >澳洲雲端架構師 EC</a
+  >
+
+    </div>
+    
+    
+      <ul class="flex list-none flex-col text-end sm:flex-row">
+        
+          
+            
+            <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0.5">
+              
+                <a
+                  href="/posts/"
+                  title="Posts"
+                  
+                  ><span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >Posts</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+            
+            <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0.5">
+              
+                <a
+                  href="/tags/"
+                  title="Tags"
+                  
+                  ><span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >Tags</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+          
+        
+      </ul>
+    
+  </nav>
+</header>
+
+    
+    <div class="relative flex grow flex-col">
+      <main id="main-content" class="grow">
+        
+  <article>
+    <header class="max-w-prose">
+      
+      <h1 class="mb-8 mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        [生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)
+      </h1>
+      
+        <div class="mb-10 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+          
+
+
+
+
+
+  
+  
+
+
+
+  
+
+  
+  
+    
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2023-05-06 00:00:00 &#43;0000 UTC">2023年5月6日</time><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">1 分鐘</span>
+    
+
+    
+    
+  </div>
+
+  
+  
+
+
+        </div>
+      
+      
+    </header>
+    <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
+      
+      <div class="min-h-0 min-w-0 max-w-prose grow">
+        <hr>
+<h3 id="生活-坎培拉aws生活四個月分享202103202107" class="relative group">[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07) <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e7%94%9f%e6%b4%bb-%e5%9d%8e%e5%9f%b9%e6%8b%89aws%e7%94%9f%e6%b4%bb%e5%9b%9b%e5%80%8b%e6%9c%88%e5%88%86%e4%ba%ab202103202107" aria-label="定位點">#</a></span></h3><p>
+
+
+
+
+
+<figure>
+    
+    
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mx-auto my-0 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b_hu_b25460ebbd1b25b1.webp 330w,http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b_hu_c8a9e6248686473f.webp 660w
+            
+              
+                ,http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b_hu_2512ee39047531fe.webp 800w
+              
+            
+            
+              
+                ,http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b_hu_2512ee39047531fe.webp 800w
+              
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="800"
+        height="514"
+        class="mx-auto my-0 rounded-md"
+        alt="坎培拉國會大廈"
+        loading="lazy" decoding="async"
+        
+          src="http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b_hu_84733f4e915a23fb.jpg" srcset="http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b_hu_d04584d0d13662b1.jpg 330w,http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b_hu_84733f4e915a23fb.jpg 660w
+          
+            ,http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b.jpg 800w
+          
+          
+            ,http://localhost:1313/posts/2023-05-06-aws-cbr-life/images/medium-0*pNETejXBiiEqjz9b.jpg 800w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+</figure>
+Photo by <a href="https://unsplash.com/@socialestate?utm_source=medium&amp;utm_medium=referral" target="_blank" rel="noreferrer">Social Estate</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" target="_blank" rel="noreferrer">Unsplash</a></p>
+<p>(原文發表於 2021.07.24，現在轉發到 Medium 上。原來我曾經有這麼喜歡過坎培拉的時刻XD</p>
+<p>前情提要: 2021年3月我結束為期六個月的 AWS Tech U Graduate Program，從雪梨搬到坎培拉，正式加入Federal Team。後來我一直在坎培拉住 2022.12月才搬去布里斯本)</p>
+<p>搬來坎培拉也四個多月了，最近終於開始跟項目了！(不得不說大公司的步調真的好慢啊，一方面覺得很爽、很惜福，但有時候還是不免惴惴不安XD)</p>
+<p>前陣子做了一個澳洲國防部的實驗項目，用的技術是 Kubernetes (事實上我根本不懂 Containers, Docker 或是 k8s)，但是我跟的前輩完全就是這領域的專家，所有問題問他完全瞬間就可以找到答案，超級強！</p>
+<p>前輩們還放手讓我寫了一些小東西，算是我人生第一次正式提交 pull request 給客戶審核，覺得超級酷!!!</p>
+<p>客戶感覺對於我們的表現非常滿意，項目結束後好像有機會再繼續簽下一個項目(當然整個項目都是兩位前輩在carry，我完全就只貢獻了一小小小小部分)。</p>
+<p>目前手上還有兩個項目，一個是澳洲地球科學研究局的資安評估報告(security assessment)，另一個是澳洲統計局為期兩年的大項目，跟大數據相關。我還拿到了統計局的 contractor 員工證，真的覺得好酷喔!!!</p>
+<p>覺得在坎培拉工作最酷的地方就是客戶基本上都是政府機構，項目的影響力其實非常大！最麻煩的地方是拿到客戶權限的過程非常漫長，而且不小心洩漏機密還要罰款或是坐牢LOL</p>
+<p>另一個我前一陣子在忙的是公司內部的 Security Area of Depth Program，經過三個月的努力我終於成功通過了! 這個訓練program 是給專長非資安(security)的技術顧問 (technical consultant) 一個在資安領域進修的機會，成功通過後你就可以獲得一個 Security AoD 的頭銜(但這個頭銜其實好像也不能幹嘛哈哈)</p>
+<p>為了這個 AoD 我寫了一個小資安挑戰(其實也就是一個超級簡單的 Lambda function 跟一個 CloudFormation stack 而已)。沒想到居然被人注意到了，他們打算要把這個挑戰放到今年八月 AWS 在美國休士頓舉辦的 re:inforce conference 上使用：<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Freinforce.awsevents.com%2F%3Ffbclid%3DIwAR3f3dVzBGEDyOjrJWn9zF0_64S9X-VTyZE0StlEoB59A6hIgnviKY56Bpg&amp;h=AT3dworzgH2zB7-tH3kJ9aEZ7aLAH08ZE76yAvRxiY_A11Z2ZKusNZDdQHHht4ti96A3zkfqC1J7Sc4yQWI8n9dHoHli0UqER4gmFlTppFNuUuRW26GWJgXhQ5cjVP0FOA&amp;__tn__=-UK-R&amp;c%5c[0%5c]=AT2Vfg0G04NAetq0IppfY35EQDDg9VUtzP_LjDshnh_o1MTo6BBYCIYlF0nhKFEjU9vVU7qVMmaT_UenIpbFW9OSb8r0TVebc5UkXqmH023P4CP-ebAtn-8UZS0K4gfTW9oC90IQWzOTjTKI8gaexAPlfq0" target="_blank" rel="noreferrer">https://reinforce.awsevents.com/</a></p>
+<p>負責的部門甚至還邀請我去休士頓現場參加會議跟協助挑戰的進行。這個為期conference 光是門票就要$1099美金，更別提機票跟住宿肯定是公司會負責，可是因為澳洲目前還在鎖國，所以我根本去不了(大哭，我恨 Covid)</p>
+<p>總之目前為止對於在坎培拉的生活非常滿意！工作上總是有很多新鮮事(因為我真的太菜了，所以什麼事對我來說都非常新鮮有趣)。</p>
+<p>同事們雖然層級都比我高，經驗也比我豐富(他們都是至少有10–25年工作經驗的人)，但是人都超好而且也超尊重我們。不管是前輩或經理想拉我進項目還會先問我有沒有興趣，完全沒有那種「你是新人我要你幹嘛你就去幹嘛」的態度。</p>
+<p>也非常喜歡我經理信任式的管理方式，我們可以自由選出哪天要進公司上班、哪天要在家工作，不需要打卡，也沒有表訂的上下班時間，反正你自己管好自己要做的事情就可以了。甚至我上次問了經理請假流程，他說「我相信你要是哪天要請假，你一定是把事情都安排好了、該通知的人都通知到了，所以請完你直接在我的 calendar 上做個紀錄就好，不需要事先問我能不能請假」，是不是超棒!!!</p>
+<p>坎培拉雖然小，但住在市中心的我生活機能還是非常便利的，去公司上班的日子我中午還會走回家吃午餐(我家到公司走路10分鐘)。</p>
+<p>在這邊也認識了一些新朋友(還有我本來就認識的老朋友)，假日我最喜歡跑去不同的地方探險~</p>
+<p>唯一的缺點就是這裡真的太冷了，希望冬天趕快過去，還有坎培拉不要再下雨了!</p>
+<p>—</p>
+<p>如果你喜歡我的文章，歡迎加入免費會員追蹤我的部落格，這樣你就不會錯過我每個週末的更新！也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！最近的粉絲數停滯不前，希望大家能多多幫我推廣！你們的鼓勵是支持我繼續寫作下去的動力 :)</p>
+<p>有任何問題或是想要看的主題，歡迎留言跟我互動 ^0^</p>
+<p><strong>延伸閱讀</strong></p>
+<ul>
+<li><a href="https://medium.com/@cloudarchitectec/%e4%bb%8b%e7%b4%b9-%e5%a4%a7%e5%ae%b6%e5%a5%bd-%e6%88%91%e6%98%afec-afcf45d128eb" target="_blank" rel="noreferrer">[介紹] 大家好，我是EC!</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/%e7%94%9f%e6%b4%bb-%e6%be%b3%e6%b4%b2%e9%a6%96%e6%ac%a1%e8%b2%b7%e6%88%bf%e6%b5%81%e7%a8%8b%e5%88%86%e4%ba%ab-2021-5bd28c444bfb" target="_blank" rel="noreferrer">[生活]澳洲首次買房流程分享</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/%E9%96%92%E8%81%8A-2022-%E6%BE%B3%E6%B4%B2%E8%B2%B7%E6%96%B0%E8%BB%8A-swift-mg3-c-hr-corolla-stonic-i30-%E8%A9%A6%E9%A7%95%E5%BF%83%E5%BE%97-170399f4d029" target="_blank" rel="noreferrer">[生活] 2022 澳洲買新車: Swift、MG3、C-HR、Corolla、Stonic、i30 試駕心得</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/%e8%81%b7%e5%a0%b4%e8%b6%a3%e8%81%9e-%e6%be%b3%e5%b7%9e%e5%b1%85%e6%b0%91%e5%b0%b1%e7%9c%9f%e7%9a%84%e6%af%94%e8%bc%83%e6%9c%89%e5%9c%8b%e9%9a%9b%e8%a7%80%e5%97%8e-40bc9d9b8abd" target="_blank" rel="noreferrer">[趣聞] 澳州居民就真的比較有國際觀嗎?</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4%E8%B6%A3%E8%81%9E-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%BE%A6%E5%85%AC%E5%AE%A4-it-%E8%87%AA%E5%8B%95%E8%B2%A9%E8%B3%A3%E6%A9%9F-abbf3a91ea21" target="_blank" rel="noreferrer">[趣聞] 你不知道的亞馬遜辦公室 — IT 自動販賣機</a></li>
+</ul>
+
+      </div>
+    </section>
+    <footer class="max-w-prose pt-8 print:hidden">
+      
+  <div class="flex">
+    
+    
+    
+    <div class="place-self-center">
+      
+      
+      <div class="text-2xl sm:text-lg">
+</div>
+    </div>
+  </div>
+
+
+      
+
+      
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-3">
+        <span>
+          
+            <a class="group flex" href="http://localhost:1313/posts/2023-05-05-2020-life/">
+              <span
+                class="me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+                ><span class="ltr:inline rtl:hidden">&larr;</span
+                ><span class="ltr:hidden rtl:inline">&rarr;</span></span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >[生活] 2020年回顧</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2023-05-05 00:00:00 &#43;0000 UTC">2023年5月5日</time>
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+            <a class="group flex text-right" href="http://localhost:1313/posts/2023-05-07-2023-life/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >[生活] 2023 年中回顧</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2023-05-07 00:00:00 &#43;0000 UTC">2023年5月7日</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[-2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+                ><span class="ltr:inline rtl:hidden">&rarr;</span
+                ><span class="ltr:hidden rtl:inline">&larr;</span></span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
+  
+
+
+      
+    </footer>
+  </article>
+
+      </main>
+      
+        <div
+          class="pointer-events-none absolute bottom-0 end-0 top-[100vh] w-12"
+          id="to-top"
+          hidden="true"
+        >
+          <a
+            href="#the-top"
+            class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+            aria-label="捲動到頁頂"
+            title="捲動到頁頂"
+          >
+            &uarr;
+          </a>
+        </div>
+      <footer class="py-10 print:hidden">
+  
+  
+  <div class="flex items-center justify-between">
+    <div>
+      
+      
+        <p class="text-sm text-neutral-500 dark:text-neutral-400">
+            &copy;
+            2025
+            
+        </p>
+      
+      
+      
+        <p class="text-xs text-neutral-500 dark:text-neutral-400">
+          
+          
+          以 <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+            href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://github.com/jpanther/congo" target="_blank" rel="noopener noreferrer">Congo</a> 製作
+        </p>
+      
+    </div>
+    <div class="flex flex-row items-center">
+      
+      
+      
+      
+    </div>
+  </div>
+  
+  
+</footer>
+
+    </div>
+  </body>
+</html>

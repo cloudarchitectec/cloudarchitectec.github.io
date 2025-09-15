@@ -1,0 +1,142 @@
+---
+title: "澳洲首次置業指南-昆士蘭篇III：2023 印花稅減免怎麼算？QLD First Home Concession 節稅懶人包"
+date: 2023-09-23
+slug: "2023-09-23-qld-first-home-3"
+image: "images/medium-0*-xt4stilIuFJcpXO.jpg"
+images: ['images/medium-0*-xt4stilIuFJcpXO.jpg', 'images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png.jpg']
+---
+
+* * *
+
+### **澳洲首次置業指南-昆士蘭篇III：2023 印花稅減免怎麼算？QLD First Home Concession 節稅懶人包**
+
+![](images/medium-0*-xt4stilIuFJcpXO.jpg) Photo by [Frames For Your Heart](https://unsplash.com/@framesforyourheart?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+
+這個系列要來跟大家分享在澳洲第一次買房有哪些政府福利措施可利用!
+
+如果你想要利用**置業擔保計劃 (Home Guarantee Scheme)** 讓澳洲政府擔任你的房貸擔保人，使用房價 2% 或 5% 的頭期款買下你在澳洲的第一套自住房，請參考第一集:
+
+[**澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme**  
+ _這篇文章是我整理 2023 澳洲首次置業擔保計畫（Home Guarantee Scheme）的實用懶人包，帶你一次搞懂申請資格、房價門檻、自備款比例等重點。只要準備 2% 或 5%…_ medium.com](https://medium.com/@cloudarchitectec/2023-australia-home-guarantee-scheme-15ff20791fe2)[](https://medium.com/@cloudarchitectec/2023-australia-home-guarantee-scheme-15ff20791fe2)
+
+如果你想要利用**昆士蘭首次置業補助金 (First Home Owner Grant)** ，在購入你的自住房的同時獲得一筆澳幣 15,000 的政府補助金，請參考第二集：
+
+[**澳洲首次置業指南-昆士蘭篇II：2023 首次購屋補助怎麼領？First Home Owner Grant 申請攻略**  
+ _想申請昆士蘭首次購屋補助金（First Home Owner Grant）卻不確定從哪開始？這篇文章是我整理的實用攻略，帶你了解申請資格、補助金條件與常見誤區。符合資格就有機會領取 $15,000…_ medium.com](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)[](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)
+
+按照慣例，在文章開始前必須來個免責聲明XD
+
+> 我只是一個近期致力於研究昆州房產的電腦工程師（並非房產相關專業人士），以下言論不能作為任何法律或是房產投資的建議。如需任何專業建議，請大家自行諮詢律師、過戶師、銀行、貸款經理人等等專業人士。
+
+> 本篇文章所有的資訊都來自政府的官方網站 [Queensland Revenue Office — First Home Consession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)，我只是幫大家翻譯跟分析而已。這裡要提醒大家網路上有很多資料 (這篇文章也是XD)，但我希望大家行有餘力的話，還是要看第一手官方資料，避免因為他人的錯誤解讀，而讓自己的權利受損 (by 自己搞定澳洲移民跟澳洲買房的 EC XD)
+
+### 昆士蘭首次置業印花稅減免 (QLD First Home Concession)
+
+  * 完整政府規定請參考：[**Queensland Revenue Office — First Home Consession**](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)
+
+
+
+### 金額
+
+  * 符合資格的申請人如果購買澳幣 55 萬以下的自住房，可以獲得**高達 $15,925 澳幣的印花稅減免** 。如果購入的房產價值高於澳幣 55 萬，那申請人還是可能透過 [home concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/home-concession/) 獲得相當程度的印花稅減免，只是幅度不會像昆士蘭首次置業印花稅減免 (QLD First Home Concession) 一樣高。
+
+
+
+### 重要提醒
+
+  * 申請人不需要擁有澳洲公民或是澳洲 PR 的身份資格，但如果是以外國人的身份來申請昆士蘭首次置業印花稅減免的話，需要參考額外的[Additional foreign acquirer duty](https://qro.qld.gov.au/duties/investors/afad/)。
+
+
+
+### 申請資格
+
+  * 年滿十八歲的自然人(意思就是公司法人是不能申請的)
+  * 沒有申請過 [first home vacant land concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home-vacant-land/)
+  * 申請人沒有在澳洲其他州/領地或是海外擁有過房產
+  * 房子過戶後的一年內申請人必須要入住你的自住房，並且在裡面連續居住至少一年。
+  * 在入住前不能分租或出售你的自住房，在入住後的一年內也不能分租或出售你的自住房 (例外：如果在你購房前，房子就已經有租客存在的話，租客最晚必須在房子過戶後的六個月搬出。)
+  * 如果你的自住房的價值在澳幣 $500,001 and $549,999 之間的話，你支付的房產價格必須為市場價 (market value)
+
+
+
+看了這麼多，如果你不確定自己是否符合**昆士蘭首次置業印花稅減免** 的申請資格，可以使用昆州政府提供的小工具： [home concession eligibility tester](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/eligibility-tester/)。
+
+### 印花稅 (Transfer Duty)的計算方式
+
+以下使用昆州政府提供的表格來簡單解釋一個印花稅的計算有多複雜XD
+
+  * 例子1 — 房價為 45 萬澳幣，結果為不需要付任何印花稅：因為房價 50 萬澳幣以下的房子不需要支付印花稅。
+  * 例子2 — 房價為 53 萬澳幣，結果為需要付澳幣 6,300 印花稅：首先因為 home concession，53萬的自住房需要支付澳幣 9,800 印花稅。接下來因為申請人符合昆士蘭首次置業印花稅減免，所以印花稅可以再進一步減少澳幣 3,500，最後需要支付澳幣 6,300 印花稅。
+  * 例子3 — 房價為 60 萬澳幣，結果為需要付澳幣 12,850 印花稅：首先因為 home concession， 60 萬的自住房需要支付澳幣 12,850印花稅。再來因為60 萬超過昆士蘭首次置業印花稅減免的房產資格，所以這裡申請人沒辦法再進一步獲得其他印花稅減免。
+
+![](images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png.jpg)昆州印花稅試算
+
+印花稅的計算方式相較於其他政府補助來說更加複雜，除了跟房價有關係，也跟申請人的資格有關係(例如一對夫妻一起申請，他們各自符合的減免可能不同)。如果你不確定自己可以獲得多少**昆士蘭首次置業印花稅減免** ，可以使用昆州政府提供的小工具：[transfer duty calculator](http://amun.osr.qld.gov.au/sap/osrqld/wd_tfr_calc_com?WDDISABLEUSERPERSONALIZATION=X)
+
+### 申請時間
+
+  * 印花稅減免的申請時間通常是在房子過戶 (settlement) 的過程中，你的律師再詢問你的買房目的跟資格後，會一併幫你申請。
+
+
+
+### 如何同時符合三項首次置業補助
+
+說了這麼多，讓我們來總結一下，身為昆州的首次置業者，如果你想要**同時符合這三項政府的首次購房補助並且最大化你的印花稅減免**
+
+  1. 置業擔保計劃 (Home Guarantee Scheme)
+  2. 昆士蘭首次置業補助金 (First Home Owner Grant)
+  3. 昆士蘭首次置業印花稅減免 (QLD First Home Concession)
+
+
+
+**那作為申請人你需要符合的條件有：**
+
+  * 年滿十八歲的澳洲公民或澳洲 PR (規定來源：首次置業者擔保 &昆士蘭首次置業補助金)
+  * 最少擁有房價 5%的自備款 (規定來源：首次置業者擔保)
+  * 單身的年收入不超過 $125,000 澳幣，聯合申請人雙方的年收入總和不超過 $200,000 澳幣 (規定來源：首次置業者擔保)
+  * 申請人以及申請人的配偶之前沒有在**澳洲其他州/領地** 或是**海外** 擁有過房產 (規定來源：昆士蘭首次置業補助金)
+  * 申請人以及申請人的配偶之前沒有在**澳洲其他州/領地領取過該州/領地的首次置業補助金** (規定來源：昆士蘭首次置業補助金)
+  * 申請人沒有申請過 [first home vacant land concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home-vacant-land/) (規定來源：昆士蘭首次置業印花稅減免)
+
+
+
+**你可以購買的房產的條件為：**
+
+  * 購入的房子只能作為**自住房** (規定來源：首次置業者擔保、昆士蘭首次置業補助金、昆士蘭首次置業印花稅減免)
+  * 如果要獲得最大化的印花稅減免的話，**購入的昆州房產房價須為 55 萬以下**(規定來源：昆士蘭首次置業印花稅減免)。如果房價超出這個範圍，那申請人還是可能透過 [home concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/home-concession/) 獲得相當程度的印花稅減免。
+  * 該房產必須是**新房** ，新房的定義為從未以被銷售過 (意即申請人必須為第一手屋主) 且從來沒被人居住過 (意即在申請人入住之前沒有其他人入住過) 的房產。 (規定來源：昆士蘭首次置業補助金)
+
+
+
+**購入自住房之後的居住條件為：**
+
+  * **房子過戶後的一年內申請人必須要入住你的自住房** ，並且在裡面**連續居住至少 12 個月** 。(規定來源：首次置業者擔保)
+  * 在申請人把房子的貸款還到房價的 80% 以下之前，**你不能出售或出租、分租你的房產** 。一旦你的貸款還款金額超過房價的 20%，澳洲政府的置業擔保計劃規定就不再適用了。(規定來源：首次置業者擔保)
+
+
+
+### 結語
+
+房產投資是一門非常複雜的學問，尤其是澳洲身為聯邦國家，除了聯邦政府有全國統一的規定之外，每個州/領地都有自己關於房地產買賣相關的規定跟不同的補助，建議大家除了諮詢相關專業人士之外，也可以自己好好上官方網站閱讀他們的相關規定。
+
+如果你對昆州購屋補助、貸款流程或首次置業的操作細節有任何問題，歡迎留言或點擊「拍手」支持我這個工程師的 side project 🚀
+
+未來我會持續分享更多澳洲生活、房產、職涯與 IT 相關資源，有興趣也歡迎訂閱、追蹤，或預約我聊聊職涯／技術轉職顧問諮詢！
+
+* * *
+
+📬 **不想錯過更多海外生活、澳洲職場、文組轉職工程師的精選文章？**  
+👉 按此訂閱[澳洲雲端架構師 EC 的 Medium 部落格](https://medium.com/@cloudarchitectec/subscribe)，不錯過最新文章！
+
+👩‍💻 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**
+
+👉點擊 [<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>](https://medium.com/@cloudarchitectec/career-consultation-services-943c23bea3e7)，開啟你的職涯新篇章!
+
+**📱 想追蹤更多？**
+
+  * 📘 Facebook 粉專：澳洲雲端架構師 EC
+  * 🧵****Threads：Cloud Architect EC
+  * ☕ 喜歡我的創作分享？[請 EC 喝杯咖啡吧](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
+
+

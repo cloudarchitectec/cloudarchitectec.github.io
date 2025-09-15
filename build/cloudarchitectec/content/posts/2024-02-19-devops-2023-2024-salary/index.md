@@ -1,0 +1,104 @@
+---
+title: "澳洲 DevOps 工程師薪資大揭秘：2023–2024 最新數據"
+date: 2024-02-19
+slug: "2024-02-19-devops-2023-2024-salary"
+image: "images/medium-0*wVIVFXLLPPZ4yFC4.jpg"
+images: ['images/medium-0*wVIVFXLLPPZ4yFC4.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+---
+
+* * *
+
+### 澳洲 DevOps 工程師薪資大揭秘：2023–2024 最新數據
+
+![](images/medium-0*wVIVFXLLPPZ4yFC4.jpg)Photo by [Eldar Nazarov](https://unsplash.com/@eldarnazarov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+
+閒來無事研究了一下澳洲 DevOps Engineers 的薪水(中文可翻為「開發維運工程師」，但其實 DevOps 這個詞通常直接用英文陳述居多)，想說順便可以跟大家分享一下。
+
+再繼續看下去之前，你們覺得澳洲 DevOps Engineers 薪資範圍大概會是多少呢？可以先在心中想好一個數字 (澳幣年薪，澳幣與台幣的匯率1:20來估算)，然後看看你有沒有猜對喔～
+
+### **DevOps Engineers vs Software Engineers**
+
+我覺得 DevOps Engineers 算是 Software Engineers (軟體工程師) 裡面的一個小眾分支，基本上職缺遠比 Software Engineers 少，但入行門檻通常遠比 Software Engineers 高。
+
+基本上 junior 的 DevOps Engineers 職缺非常少見，企業通常也只招聘 Mid-level or Senior DevOps Engineers。其實另一個跟 DevOps Engineers 相似的職缺稱為 SRE (Site Reliability Engineer)。關於 DevOps Engineers 的討論不少，例如有些人覺得 DevOps 是一個 practice (流派/文化)，而非一個職缺。有些人覺得 DevOps 跟 SRE 跟 ITops 之間的界線非常模糊，這裡我們就不多贅述。
+
+* * *
+
+非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/52aba80fc668?source=friends_link&sk=e54a3bf0ecdcba839b1cadd3f67566b3)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
+
+* * *
+
+### DevOps 工程師的技能樹：
+
+  * **cloud infrastructure:** AWS, Azure or GCP
+  * **infrastructure as code (IaC)** : 如果是 AWS 平台那就是 AWS CloudFormation in Json or YAML、SDK、CDK。如果是 Azure 平台那就是 Bicep 或 Azure Resource Manager。如果是要跨平台的話，目前業界最常用的工具是 Terraform。
+  * **程式語言** ：最常見的是 TypeScripte 或 Python。
+  * **CI/CD tools:** AWS 的 CodePipeline 系列、Azure 的 Azure DevOps、第三方軟體像是 Jenkins、OptusDeploy 等等
+  * **Logging/monitoring：** AWS CloudWatch、Azure Monitor、DataDog、Splunk 等等
+  * **Scripting** ：Bash script, PowerShell script
+
+
+
+### 2023 年 DevOps 工程師薪水
+
+在 2023 年轉職 DevOps 工程師之前，我做過一系列的薪水調查，但那時候我發現網路上的資訊眾說紛紜，薪資範圍的落差不小。以下我會透過幾個面向來提供盡可能全面的分析與資料來源：
+
+**當時的我利用人脈跟 LinkedIn Connections，聯繫到了兩位願意跟我分享薪資範圍的業界人士：**
+
+  * N (位於雪梨) 是 IBM SRE Team Lead ，他們的澳洲團隊大概有5–10人，IBM 在另外兩個時區各有一個 SRE 團隊，三個團隊各負責8個小時的 shift，這樣就達成了 IBM 24 小時的 SRE 維護。根據 N 的經驗，Junior DevOps 的薪水天花板大約是年薪 12萬澳幣 (約為台幣240萬)，Senior DevOps 則大概是年薪 15–20 萬澳幣 (約為台幣300–400萬)。
+  * S (位於布里斯本) 是 KPMG 的 in-house DevOps Engineer，他們基本上是個1–2人的小團隊，就可以負責整個組織的 DevOps 流程與維護。S 認為 Senior DevOps 的年薪大概就是 15–20 萬澳幣 (約為台幣 300 萬)。
+
+
+
+**除了業界人士的分享，根據我 2023 年轉職前的調查，全澳** DevOps 工程師**的薪水大致如下**
+
+  * **Junior: 年薪 9 萬澳幣 (約為台幣180 萬)** 。這裡要再次強調我大概只查到三個以內的 Junior 職缺，所以這個數字不一定具代表性。
+  * **Mid-level: 年薪 13–15 萬澳幣 (約為台幣260-300萬)**
+  * **Senior: 年薪 15–17 萬澳幣 (約為台幣300–340萬)**
+
+
+
+### 2024 年 DevOps 工程師薪水
+
+事隔一年，我又重新再做了一次 DevOps 工程師薪資調查。以下是我的資料來源：
+
+  * **Seek.com (澳洲最大求職網，大概就像是台灣的104人力銀行吧)** 公布的薪資範圍在年薪 12–14 萬澳幣(約為台幣240–280萬)之間。Seek 的資料來源就是他們自己的網站，他們只截取了過去三個月內、full-time 且雇主有名列薪資的職缺。網址：<https://www.seek.com.au/career-advice/role/devops-engineer/salary>
+  * **Glassdoor (全球知名薪資網站)** 公布的薪資範圍在 年薪 95–136K 澳幣之間(約為台幣 190–272萬)，平均年薪 124K 澳幣(約為台幣 248 萬)。Glassdoor 來源為 594 名澳洲 DevOps Engineers 提供的薪資資訊，網址：<https://www.glassdoor.com.au/Salaries/devops-engineer-salary-SRCH_KO0,15.htm>
+
+
+
+**這裡幫大家快速複習一下澳洲薪水結構：**
+
+  * **Base Salary 稅前年薪** : 以上我提到的年薪指的都是這個 base salary，澳洲大學新鮮人的年薪起薪約澳幣5萬5 (一般文職、會計、市場行銷等等)，如果是工程師的話，年薪則大約是澳幣6萬5。澳洲科技業起薪是澳幣 7–9萬 (這裡指的是FAANG等級的公司，如果是一般小公司可能大概也就是 5萬5–6萬5之間)。
+  * **Super 退休金** : 澳洲政府規定雇主必須提撥一定比例的退休金進員工的退休金帳戶(Super帳戶)，這筆錢會直接匯入工的退休金帳戶，而且在一般情況下，員工直到退休後才有辦法從退休金帳戶中提錢。目前退休金的提撥比例是 11% (澳洲政府已經規劃好這個比例回隨之增高，詳請請參考官方網站：<https://www.ato.gov.au/tax-rates-and-codes/key-superannuation-rates-and-thresholds/super-guarantee>)。
+
+
+
+也就是說一個年薪 15 萬的 DevOps Engineer，2024年的薪資整體 package 為：150,000 + 150,000 x 11% = 166,500 澳幣。
+
+看完我整理的澳洲 DevOps Engineers 薪資範圍，你們有什麼想法呢？這個資薪比你們想像中的要高，還是低呢？歡迎留言跟我分享你們的想法喔！
+
+* * *
+
+**如果你喜歡海外生活、澳洲職場、文組轉職工程師的相關文章，歡迎按下「拍手」給我鼓勵 (喜歡的話請多拍幾次！)。同時記得「**[**按此訂閱我的Medium部落格**](https://medium.com/@cloudarchitectec/subscribe)**」，這樣你就不會錯過我的更新囉～**
+
+**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
+
+**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
+
+[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+  * 歡迎追蹤[臉書粉專](https://www.facebook.com/cloudarchitectec/) / [脆](https://www.threads.net/@cloud_architect_ec)
+  * 合作請聯繫：[cloudarchitectec@gmail.com](http://cloudarchitectec@gmail.com)
+
+
+
+**延伸閱讀**
+
+  * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](https://medium.com/@cloudarchitectec/software-engineer-cloud-engineer-devops-engineer-what-do-they-do-56f3aedfe4ac)
+  * [科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?](https://medium.com/@cloudarchitectec/%E7%A7%91%E6%8A%80%E6%A5%AD%E9%BE%8D%E9%A0%AD-faang-%E7%9A%84%E8%96%AA%E8%B3%87%E7%B5%90%E6%A7%8B-%E4%BB%A5%E6%BE%B3%E6%B4%B2%E4%BA%9E%E9%A6%AC%E9%81%9C%E7%82%BA%E4%BE%8B-584e9c564079)
+  * [我在澳洲職場觀察到的薪資怪象 — 華人公司 vs 澳洲本地公司](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E6%88%91%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%89%80%E8%A6%8B%E7%9A%84%E8%96%AA%E8%B3%87%E6%80%AA%E8%B1%A1-53f8d0f713f4)
+  * [能源公司 DevOps Platform Engineer 面試心得 I (第一關: 技術面試)](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E8%83%BD%E6%BA%90%E5%85%AC%E5%8F%B8-devops-platform-engineer-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E7%AC%AC%E4%B8%80%E9%97%9C-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-c1f87fd52441)
+  * [澳洲最大的旅行社公司 DevOps Security Engineer 面試心得分享](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-flight-centre-devops-security-engineer-%E9%9D%A2%E8%A9%A6%E5%88%86%E4%BA%AB-cfa035427da3)
+
+

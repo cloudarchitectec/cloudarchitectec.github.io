@@ -1,0 +1,801 @@
+
+
+
+
+
+
+
+<!doctype html>
+<html
+  lang="zh-hant"
+  dir="ltr"
+  class="scroll-smooth"
+  data-default-appearance="light"
+  data-auto-appearance="true"
+><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#FFFFFF" />
+  
+  <title>[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting &middot; 澳洲雲端架構師 EC</title>
+    <meta name="title" content="[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting &middot; 澳洲雲端架構師 EC" />
+  
+  
+  
+  
+  
+  <script
+    type="text/javascript"
+    src="http://localhost:1313/js/appearance.min.8a082f81b27f3cb2ee528df0b0bdc39787034cf2cc34d4669fbc9977c929023c.js"
+    integrity="sha256-iggvgbJ/PLLuUo3wsL3Dl4cDTPLMNNRmn7yZd8kpAjw="
+  ></script>
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="http://localhost:1313/css/main.bundle.min.0fc2ef930d53c70c53effb01f12118005a26719d9223a1599730c1d26ee3f132.css"
+    integrity="sha256-D8Lvkw1TxwxT7/sB8SEYAFomcZ2SI6FZlzDB0m7j8TI="
+  />
+  
+  
+  
+  
+  
+  
+  
+  <meta
+    name="description"
+    content="
+      
+        
+[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart #
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+  
+    
+      
+      
+      
+      
+        
+      
+      
+    
+  
+
+
+
+Photo by Smartworks Coworking on Unsplash
+非 Medium 付費會員，請點此免費閱讀這篇文章！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
+
+前言 #跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解 (當然這有可能是因為我解釋得不夠好XD)。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。
+這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+
+Org Chart &raquo; 你正在閱讀的文章
+Solution Architecting
+Technical Guidance/Customer Meetings
+Technical Presentation/Workshops
+Sales Pipeline Management
+
+我希望大家在看完這個系列之後，可以留言告訴我:
+      
+    "
+  />
+  
+  
+  
+  
+    <link rel="canonical" href="http://localhost:1313/posts/2023-07-28-ms-csa-2/" />
+  
+  
+  
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+  
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:url" content="http://localhost:1313/posts/2023-07-28-ms-csa-2/">
+  <meta property="og:site_name" content="澳洲雲端架構師 EC">
+  <meta property="og:title" content="[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting">
+  <meta property="og:description" content="[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart # Photo by Smartworks Coworking on Unsplash
+非 Medium 付費會員，請點此免費閱讀這篇文章！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
+前言 #跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解 (當然這有可能是因為我解釋得不夠好XD)。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。
+這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+Org Chart » 你正在閱讀的文章 Solution Architecting Technical Guidance/Customer Meetings Technical Presentation/Workshops Sales Pipeline Management 我希望大家在看完這個系列之後，可以留言告訴我:">
+  <meta property="og:locale" content="zh_hant">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-07-28T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-07-28T00:00:00+00:00">
+    <meta property="og:image" content="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol.jpg">
+    <meta property="og:image" content="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png.jpg">
+    <meta property="og:image" content="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png.jpg">
+    <meta property="og:image" content="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg">
+
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol.jpg">
+  <meta name="twitter:title" content="[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting">
+  <meta name="twitter:description" content="[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart # Photo by Smartworks Coworking on Unsplash
+非 Medium 付費會員，請點此免費閱讀這篇文章！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
+前言 #跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解 (當然這有可能是因為我解釋得不夠好XD)。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。
+這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+Org Chart » 你正在閱讀的文章 Solution Architecting Technical Guidance/Customer Meetings Technical Presentation/Workshops Sales Pipeline Management 我希望大家在看完這個系列之後，可以留言告訴我:">
+
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "Posts",
+    "name": "[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart \u0026 Solution Architecting",
+    "headline": "[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart \u0026 Solution Architecting",
+    
+    "abstract": "\u003chr\u003e\n\u003ch3 id=\u0022職場-微軟雲端架構師-azure-cloud-solution-architect-到底在做什麼-第一集org-chart\u0022 class=\u0022relative group\u0022\u003e[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart \u003cspan class=\u0022absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100\u0022\u003e\u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022 style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#%e8%81%b7%e5%a0%b4-%e5%be%ae%e8%bb%9f%e9%9b%b2%e7%ab%af%e6%9e%b6%e6%a7%8b%e5%b8%ab-azure-cloud-solution-architect-%e5%88%b0%e5%ba%95%e5%9c%a8%e5%81%9a%e4%bb%80%e9%ba%bc-%e7%ac%ac%e4%b8%80%e9%9b%86org-chart\u0022 aria-label=\u0022定位點\u0022\u003e#\u003c\/a\u003e\u003c\/span\u003e\u003c\/h3\u003e\u003cp\u003e\n\n\n\n\n\n\u003cfigure\u003e\n    \n    \n\n\n\n\n\n\n\n\n  \n    \u003cpicture\n      class=\u0022mx-auto my-0 rounded-md\u0022\n      \n    \u003e\n      \n      \n      \n      \n        \u003csource\n          \n            srcset=\u0022http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol_hu_c770e6afc4213873.webp 330w,http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol_hu_43f05561710fcc4b.webp 660w\n            \n              \n                ,http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol_hu_e07ff0fd03982396.webp 800w\n              \n            \n            \n              \n                ,http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol_hu_e07ff0fd03982396.webp 800w\n              \n            \u0022\n          \n          sizes=\u0022100vw\u0022\n          type=\u0022image\/webp\u0022\n        \/\u003e\n      \n      \u003cimg\n        width=\u0022800\u0022\n        height=\u0022450\u0022\n        class=\u0022mx-auto my-0 rounded-md\u0022\n        \n        loading=\u0022lazy\u0022 decoding=\u0022async\u0022\n        \n          src=\u0022http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol_hu_b3383d19c29a3c4d.jpg\u0022 srcset=\u0022http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol_hu_28604ac846541832.jpg 330w,http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol_hu_b3383d19c29a3c4d.jpg 660w\n          \n            ,http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol.jpg 800w\n          \n          \n            ,http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/images\/medium-0*K1HNZvbky5n_Ejol.jpg 800w\n          \u0022\n          sizes=\u0022100vw\u0022\n        \n      \/\u003e\n    \u003c\/picture\u003e\n  \n\n\n\u003c\/figure\u003e\nPhoto by \u003ca href=\u0022https:\/\/unsplash.com\/@smartworkscoworking?utm_source=medium\u0026amp;utm_medium=referral\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer\u0022\u003eSmartworks Coworking\u003c\/a\u003e on \u003ca href=\u0022https:\/\/unsplash.com?utm_source=medium\u0026amp;utm_medium=referral\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer\u0022\u003eUnsplash\u003c\/a\u003e\u003c\/p\u003e\n\u003cp\u003e非 Medium 付費會員，請\u003ca href=\u0022https:\/\/medium.com\/@cloudarchitectec\/day-in-the-life-of-solution-architect-01-org-chart-3710bdec8416?source=friends_link\u0026amp;sk=09dae2a12f04fdede8b4c71603583958\u0022 target=\u0022_blank\u0022 rel=\u0022noreferrer\u0022\u003e點此免費閱讀這篇文章\u003c\/a\u003e！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！\u003c\/p\u003e\n\u003chr\u003e\n\u003ch3 id=\u0022前言\u0022 class=\u0022relative group\u0022\u003e前言 \u003cspan class=\u0022absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100\u0022\u003e\u003ca class=\u0022group-hover:text-primary-300 dark:group-hover:text-neutral-700\u0022 style=\u0022text-decoration-line: none !important;\u0022 href=\u0022#%e5%89%8d%e8%a8%80\u0022 aria-label=\u0022定位點\u0022\u003e#\u003c\/a\u003e\u003c\/span\u003e\u003c\/h3\u003e\u003cp\u003e跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解 (當然這有可能是因為我解釋得不夠好XD)。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。\u003c\/p\u003e\n\u003cp\u003e這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :\u003c\/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cstrong\u003eOrg Chart \u0026raquo; 你正在閱讀的文章\u003c\/strong\u003e\u003c\/li\u003e\n\u003cli\u003eSolution Architecting\u003c\/li\u003e\n\u003cli\u003eTechnical Guidance\/Customer Meetings\u003c\/li\u003e\n\u003cli\u003eTechnical Presentation\/Workshops\u003c\/li\u003e\n\u003cli\u003eSales Pipeline Management\u003c\/li\u003e\n\u003c\/ol\u003e\n\u003cp\u003e\u003cstrong\u003e我希望大家在看完這個系列之後，可以留言告訴我:\u003c\/strong\u003e\u003c\/p\u003e",
+    "inLanguage": "zh-hant",
+    "url" : "http:\/\/localhost:1313\/posts\/2023-07-28-ms-csa-2\/",
+    "author" : {
+      "@type": "Person",
+      "name": ""
+    },
+    "copyrightYear": "2023",
+    "dateCreated": "2023-07-28T00:00:00\u002b00:00",
+    "datePublished": "2023-07-28T00:00:00\u002b00:00",
+    
+    "dateModified": "2023-07-28T00:00:00\u002b00:00",
+    
+    
+    
+    "mainEntityOfPage": "true",
+    "wordCount": "325"
+  }
+  </script>
+    
+    <script type="application/ld+json">
+    {
+   "@context": "https://schema.org",
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+     {
+       "@type": "ListItem",
+       "item": "http://localhost:1313/",
+       "name": "澳洲雲端架構師 Ec",
+       "position": 1
+     },
+     {
+       "@type": "ListItem",
+       "item": "http://localhost:1313/posts/",
+       "name": "Posts",
+       "position": 2
+     },
+     {
+       "@type": "ListItem",
+       "name": "[職場] 微軟雲端架構師 ( Azure Cloud Solution Architect) 到底在做什麼? 第一集： Org Chart \u0026 Solution Architecting",
+       "position": 3
+     }
+   ]
+ }
+  </script>
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+</head>
+<body
+    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32"
+  >
+    <div id="the-top" class="absolute flex self-center">
+      <a
+        class="-translate-y-8 rounded-b-lg bg-primary-200 px-3 py-1 text-sm focus:translate-y-0 dark:bg-neutral-600"
+        href="#main-content"
+        ><span class="pe-2 font-bold text-primary-600 dark:text-primary-400">&darr;</span
+        >快轉到主要內容</a
+      >
+    </div>
+    
+    
+      <header class="py-6 font-semibold text-neutral-900 dark:text-neutral sm:py-10 print:hidden">
+  <nav class="flex items-start justify-between sm:items-center">
+    
+    <div class="flex flex-row items-center">
+      
+  <a
+    class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+    rel="me"
+    href="/"
+    >澳洲雲端架構師 EC</a
+  >
+
+    </div>
+    
+    
+      <ul class="flex list-none flex-col text-end sm:flex-row">
+        
+          
+            
+            <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0.5">
+              
+                <a
+                  href="/posts/"
+                  title="Posts"
+                  
+                  ><span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >Posts</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+            
+            <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0.5">
+              
+                <a
+                  href="/tags/"
+                  title="Tags"
+                  
+                  ><span
+                      class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2"
+                      >Tags</span
+                    >
+                  </a
+                >
+              
+            </li>
+          
+          
+        
+      </ul>
+    
+  </nav>
+</header>
+
+    
+    <div class="relative flex grow flex-col">
+      <main id="main-content" class="grow">
+        
+  <article>
+    <header class="max-w-prose">
+      
+      <h1 class="mb-8 mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+        [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting
+      </h1>
+      
+        <div class="mb-10 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+          
+
+
+
+
+
+  
+  
+
+
+
+  
+
+  
+  
+    
+  
+
+  
+
+  
+
+  
+    
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2023-07-28 00:00:00 &#43;0000 UTC">2023年7月28日</time><span class="px-2 text-primary-500">&middot;</span><span title="預計閱讀時間">2 分鐘</span>
+    
+
+    
+    
+  </div>
+
+  
+  
+
+
+        </div>
+      
+      
+    </header>
+    <section class="prose mt-0 flex max-w-full flex-col dark:prose-invert lg:flex-row">
+      
+      <div class="min-h-0 min-w-0 max-w-prose grow">
+        <hr>
+<h3 id="職場-微軟雲端架構師-azure-cloud-solution-architect-到底在做什麼-第一集org-chart" class="relative group">[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e8%81%b7%e5%a0%b4-%e5%be%ae%e8%bb%9f%e9%9b%b2%e7%ab%af%e6%9e%b6%e6%a7%8b%e5%b8%ab-azure-cloud-solution-architect-%e5%88%b0%e5%ba%95%e5%9c%a8%e5%81%9a%e4%bb%80%e9%ba%bc-%e7%ac%ac%e4%b8%80%e9%9b%86org-chart" aria-label="定位點">#</a></span></h3><p>
+
+
+
+
+
+<figure>
+    
+    
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mx-auto my-0 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol_hu_c770e6afc4213873.webp 330w,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol_hu_43f05561710fcc4b.webp 660w
+            
+              
+                ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol_hu_e07ff0fd03982396.webp 800w
+              
+            
+            
+              
+                ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol_hu_e07ff0fd03982396.webp 800w
+              
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="800"
+        height="450"
+        class="mx-auto my-0 rounded-md"
+        
+        loading="lazy" decoding="async"
+        
+          src="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol_hu_b3383d19c29a3c4d.jpg" srcset="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol_hu_28604ac846541832.jpg 330w,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol_hu_b3383d19c29a3c4d.jpg 660w
+          
+            ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol.jpg 800w
+          
+          
+            ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-0*K1HNZvbky5n_Ejol.jpg 800w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+</figure>
+Photo by <a href="https://unsplash.com/@smartworkscoworking?utm_source=medium&amp;utm_medium=referral" target="_blank" rel="noreferrer">Smartworks Coworking</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" target="_blank" rel="noreferrer">Unsplash</a></p>
+<p>非 Medium 付費會員，請<a href="https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-01-org-chart-3710bdec8416?source=friends_link&amp;sk=09dae2a12f04fdede8b4c71603583958" target="_blank" rel="noreferrer">點此免費閱讀這篇文章</a>！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！</p>
+<hr>
+<h3 id="前言" class="relative group">前言 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e5%89%8d%e8%a8%80" aria-label="定位點">#</a></span></h3><p>跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解 (當然這有可能是因為我解釋得不夠好XD)。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。</p>
+<p>這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :</p>
+<ol>
+<li><strong>Org Chart &raquo; 你正在閱讀的文章</strong></li>
+<li>Solution Architecting</li>
+<li>Technical Guidance/Customer Meetings</li>
+<li>Technical Presentation/Workshops</li>
+<li>Sales Pipeline Management</li>
+</ol>
+<p><strong>我希望大家在看完這個系列之後，可以留言告訴我:</strong></p>
+<ol>
+<li>如果你不是微軟雲端架構師 (Azure Cloud Solution Architect)，你覺得這個職位符合你對於技術職位 (technical role) 的想像嗎?</li>
+<li>如果你是微軟雲端架構師 (對，我最近發現有同事會看我的部落格! 太可怕了QAQ)，你覺得我對於 CSA 的工作描述還算客觀嗎?</li>
+</ol>
+<p><strong>當然，總是要先放一下免責聲明XD</strong></p>
+<p>這個系列完全是以我個人在澳洲微軟工作的親身經歷作為出發點，所以是我個人的主觀感受。雖然我敘述時會盡可能客觀呈現，讓各位讀者自行判斷。如果你在不同國家的微軟工作，甚至是你在不同的微軟團隊，你對於這個職位的感受可能會跟我略有出入或完全不同。</p>
+<hr>
+<h3 id="核心組織架構atustucsu" class="relative group">核心組織架構：ATU、STU、CSU <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e6%a0%b8%e5%bf%83%e7%b5%84%e7%b9%94%e6%9e%b6%e6%a7%8batustucsu" aria-label="定位點">#</a></span></h3><p>開始這個系列前，為了讓大家更了解架構師這個職位的背景，先來簡單講一下微軟目前的組織架構圖(PS: 這個東西每年都在改，所以我現在是以 FY24 的配置來講，上一個財政年 FY23 是沒有 Technical Specialist 的。)</p>
+<p>雲端架構師 (Cloud Solution Architect) 隸屬於 CSU (Customer Success Unit)，基本上分為三個領域: Core/Infrastructure、Application Innovation、Data &amp; AI。CSA 跟 Specialist「通常來說」是一對一的關係，也就是說 Specialist 有哪些客戶 (accounts)，CSA 負責的就是那些客戶。</p>
+<p><strong>微軟的銷售階段分為五個階段(我不能講太細，怕洩漏公司機密XD)，但簡單來說:</strong></p>
+<ul>
+<li><strong>階段 1 是 ATU 負責：</strong> AE 負責 account management，ATS 是 AE 的 technical counterpart，負責技術相關的部分。</li>
+<li><strong>階段 2 &amp; 3 由 STU 負責</strong>：Specialist 是銷售人員。FY24 之後會有一個 TS 職位，也就是 Specialist 的 technical counterpart，負責技術相關的部分。TS 雖然是 FY24的新職缺，但其實微軟以前是有這個職位的，只不過他們五年前因為組織改革 (re-orgnisation) 的原因，把這個職位移除了。沒想到五年後這個職位又復活了XD</li>
+<li>**階段 4 &amp; 5 由 CSU 負責：**在沒有 TS之前，CSA (也就是我)就是 Specialist 的 technical counterpart，也就是說當 Specialist 跟客戶談好，確定他們的 requirmetns, solution design, project plan &amp; expected Azure costs 之後，就由CSA接手，負責確保客戶最終在 Azure 上的部署能順利完成。</li>
+</ul>
+<p>
+
+
+
+
+
+<figure>
+    
+    
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mx-auto my-0 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png_hu_4f8322b635c6b77c.webp 330w,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png_hu_94c0292202c92859.webp 660w
+            
+              
+                ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png_hu_c75f420547ae5eb8.webp 800w
+              
+            
+            
+              
+                ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png_hu_c75f420547ae5eb8.webp 800w
+              
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="800"
+        height="859"
+        class="mx-auto my-0 rounded-md"
+        
+        loading="lazy" decoding="async"
+        
+          src="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png_hu_f1fade51ace0141c.jpg" srcset="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png_hu_67e4cbcb4d2e0d0d.jpg 330w,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png_hu_f1fade51ace0141c.jpg 660w
+          
+            ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png.jpg 800w
+          
+          
+            ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png.jpg 800w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+</figure>
+Core Org Chart</p>
+<p>好，請大家靜下心來看一下這張圖，你們覺得上面這張圖有什麼問題?</p>
+<p>答案是，請問一個客戶到底需要多少個技術/sales/account management 職位來 carry? 哈哈</p>
+<h3 id="外核心組織架構corp-csafastrackgbbsupportpg" class="relative group">外核心組織架構：<strong>Corp CSA、Fastrack、GBB、Support、PG</strong> <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e5%a4%96%e6%a0%b8%e5%bf%83%e7%b5%84%e7%b9%94%e6%9e%b6%e6%a7%8bcorp-csafastrackgbbsupportpg" aria-label="定位點">#</a></span></h3><p>但這還沒有結束喔~ 其實上面那張圖並不是全貌，在我身為 Azure Infra CSA 的日常生活中，其實我還要跟這些人打交道。以下這五組人馬分別屬於不同的 orgnisation unit，但顯然我用來畫圖的顏色已經用完了XD:</p>
+<ul>
+<li><strong>Corp CSA:</strong> 技術職，但也只能提供 technical advisory。基本上如果一般 CSA 搞不定時，就可以在內部系統上 lodge requests 找 Corp CSA 幫忙。這個是按 request 算的，基本上解決完一個 request 的問題他們就走了。下次要再找他們，就得要在內部系統上再提一次 request。</li>
+<li><strong>Fastrack:</strong> 技術職，但也只能提 technical advisory。雖然請他們的門檻其實不高，一個月在 Azure 上花一萬澳幣就可以了(一年 12 萬澳幣，約台幣 240 萬)。對於我負責的企業型客戶來說，根本小菜一碟(我的客戶一個月大概在 Azure上花幾十萬到幾百萬澳幣都有可能)。但是 FTA 資源有限，基本上是大型的項目才有可能請到他們，FTA算是比較長期的資源，沒有固定的時間長短。</li>
+<li><strong>GBB</strong> : 技術職，但也只能提 technical advisory。不過 GBB 可以說是微軟內部的技術菁英，雖然他們也是 advisory 的角色，但是他們通常都有豐富的業界實務經驗，而且GBB跟PG走得很近，他們常常可以獲得 Azure services 的第一手消息。所以如果你是一個 Azure 客戶，然後你的 Specialist/CSA 可以幫你找到GBB，那你就有福了!</li>
+<li><strong>Support:</strong> 技術職，Support 可以看到後端數據，這是上面三個組跟我本人都做不到的，所以如果客戶有 implementation 跟 troubleshooting 相關的問題，我們一律建議你直接在 Azure 平台上 raise support tickets 就可以了。你寄信給我是沒有用的，因為我沒有後台權限。而且說真的，不管是CSA、Corp CSA、FastTrack、GBB 能給的都是 advisory guidance，實作上面你問我們真的是沒有用，我們最多也只能在自己的 Azure portal 上試圖模擬一下。但如果你是相關人士，你就知道企業客戶的 production scale deployment 豈是我在自己的 Azure portal 上能模擬的XD</li>
+<li><strong>PG:</strong> 技術職，負責真正開發 Azure services 的工程師，通常都在西雅圖。基本上除非你的CSA有特殊關係，不然是找不到 PG 來幫忙的。(像我就沒有特殊關係lol)</li>
+</ul>
+<p>
+
+
+
+
+
+<figure>
+    
+    
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mx-auto my-0 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            srcset="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png_hu_88b828d2c96dfdb0.webp 330w,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png_hu_319e36872efcbae.webp 660w
+            
+              
+                ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png_hu_9d821c11356ffe24.webp 800w
+              
+            
+            
+              
+                ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png_hu_9d821c11356ffe24.webp 800w
+              
+            "
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="800"
+        height="686"
+        class="mx-auto my-0 rounded-md"
+        
+        loading="lazy" decoding="async"
+        
+          src="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png_hu_398ca709c81843b8.jpg" srcset="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png_hu_ae66bc76184a4afb.jpg 330w,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png_hu_398ca709c81843b8.jpg 660w
+          
+            ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png.jpg 800w
+          
+          
+            ,http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*U4ue47g8V7hSuywpvW0e0w.png.jpg 800w
+          "
+          sizes="100vw"
+        
+      />
+    </picture>
+  
+
+
+</figure>
+Extended Core Org Chart</p>
+<p>這也是為什麼我一開始加入微軟時總是昏頭轉向，因為光是技術職位就有 ATS、TS (這個是新的)、CSA x3、Corp CSA x 無限 (他們是分技術領域的，例如 networking、IoT、container 等等)、GBB x 10 (他們是分產品的，例如 networking、AVD、W365 等等)，還有 Support 跟 PG。一開始我遇到解決不了的技術問題，根本不知道要從哪個方向找資源，然後帶我的人也沒教。反正一切就是做中學，錯中學吧?XD</p>
+<h3 id="結論" class="relative group">結論 <span class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100"><a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700" style="text-decoration-line: none !important;" href="#%e7%b5%90%e8%ab%96" aria-label="定位點">#</a></span></h3><p>其實我一開始寫這個系列的時候，只規劃了三篇，結果我後來發現三篇寫不完我想要講的東西。例如今天這一篇本來只是個前言，結果我寫一寫就發現這篇已經太長了，只好先到這裡為止。</p>
+<p>下一篇要來講 Solution Architecting，也是我覺得CSA這個職位最專業，也最有技術力的地方，請大家敬請期待吧～</p>
+<p>我上次在一個好朋友(他是台灣的高中英文老師，非 IT 專業)面前跟另一個資工所的學生聊完 solution architecting/solution design，他看我的眼神立刻就不一樣了XDD 可能是因為我之前只有在他面前抱怨過工作，沒有講過技術內容，我一講完我可以感受到他看我的眼神立刻充滿了崇拜哈哈哈哈</p>
+<p>我發文的頻率通常是一週一篇，但據說如果拍手數或留言數增加的話，就會提高我的發文頻率喔～如果你等不及想看這個系列了，請多多拍手以及留言！</p>
+<hr>
+<p><strong>如果你喜歡海外生活、澳洲職場、文組轉職工程師的相關文章，歡迎按下「拍手」給我鼓勵 (喜歡的話請多拍幾次！)。同時記得「</strong><a href="https://medium.com/@cloudarchitectec/subscribe" target="_blank" rel="noreferrer"><strong>按此訂閱我的Medium部落格</strong></a><strong>」，這樣你就不會錯過我的更新囉～</strong></p>
+<p><strong>如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)</strong></p>
+<p><a href="https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ" target="_blank" rel="noreferrer">
+
+
+
+
+
+<figure>
+    
+    
+
+
+
+
+
+
+
+
+  
+    <picture
+      class="mx-auto my-0 rounded-md"
+      
+    >
+      
+      
+      
+      
+        <source
+          
+            
+              srcset="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png_hu_ef0e53605a4604f1.webp"
+            
+          
+          sizes="100vw"
+          type="image/webp"
+        />
+      
+      <img
+        width="538"
+        height="124"
+        class="mx-auto my-0 rounded-md"
+        
+        loading="lazy" decoding="async"
+        
+          src="http://localhost:1313/posts/2023-07-28-ms-csa-2/images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg"
+        
+      />
+    </picture>
+  
+
+
+</figure>
+</a></p>
+<hr>
+<p><strong>延伸閱讀</strong></p>
+<ul>
+<li><a href="https://medium.com/@cloudarchitectec/reflection-on-my-9-months-in-microsoft-9793a5f44430" target="_blank" rel="noreferrer">[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8" target="_blank" rel="noreferrer">[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E8%A9%95%E4%BC%B0%E7%8F%BE%E8%81%B7%E6%98%AF%E5%90%A6%E9%81%A9%E5%90%88%E4%BD%A0-%E5%B7%A5%E4%BD%9C%E5%B0%8F%E4%BB%BB%E5%8B%99-work-tasks-%E5%88%86%E6%9E%90-d07d09a192c" target="_blank" rel="noreferrer">[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%BE%AE%E8%BB%9F%E5%93%A1%E5%B7%A5-%E8%8F%9C%E9%B3%A5-azure-csa-%E7%9A%84%E4%B8%80%E5%A4%A9-226f1f333f78" target="_blank" rel="noreferrer">[職場] 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天</a></li>
+<li><a href="https://medium.com/@cloudarchitectec/faang-2023-q1-%E7%A7%91%E6%8A%80%E5%A4%A7%E5%BB%A0%E8%A3%81%E5%93%A1%E6%BD%AE-1ef287f0c68a" target="_blank" rel="noreferrer">[職場] 2023 Q1 科技大廠裁員潮 — 澳洲微軟員工心得</a></li>
+</ul>
+
+      </div>
+    </section>
+    <footer class="max-w-prose pt-8 print:hidden">
+      
+  <div class="flex">
+    
+    
+    
+    <div class="place-self-center">
+      
+      
+      <div class="text-2xl sm:text-lg">
+</div>
+    </div>
+  </div>
+
+
+      
+
+      
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-3">
+        <span>
+          
+            <a class="group flex" href="http://localhost:1313/posts/2023-07-28-ms-csa-3/">
+              <span
+                class="me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+                ><span class="ltr:inline rtl:hidden">&larr;</span
+                ><span class="ltr:hidden rtl:inline">&rarr;</span></span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2023-07-28 00:00:00 &#43;0000 UTC">2023年7月28日</time>
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+            <a class="group flex text-right" href="http://localhost:1313/posts/2023-09-01-cloud-roles/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Software Engineer、Cloud Engineer、DevOps Engineer 熱門職位技能樹大公開：都是工程師，我們寫的程式居然不一樣？</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2023-09-01 00:00:00 &#43;0000 UTC">2023年9月1日</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[-2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+                ><span class="ltr:inline rtl:hidden">&rarr;</span
+                ><span class="ltr:hidden rtl:inline">&larr;</span></span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
+  
+
+
+      
+    </footer>
+  </article>
+
+      </main>
+      
+        <div
+          class="pointer-events-none absolute bottom-0 end-0 top-[100vh] w-12"
+          id="to-top"
+          hidden="true"
+        >
+          <a
+            href="#the-top"
+            class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 backdrop-blur hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+            aria-label="捲動到頁頂"
+            title="捲動到頁頂"
+          >
+            &uarr;
+          </a>
+        </div>
+      <footer class="py-10 print:hidden">
+  
+  
+  <div class="flex items-center justify-between">
+    <div>
+      
+      
+        <p class="text-sm text-neutral-500 dark:text-neutral-400">
+            &copy;
+            2025
+            
+        </p>
+      
+      
+      
+        <p class="text-xs text-neutral-500 dark:text-neutral-400">
+          
+          
+          以 <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+            href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500" href="https://github.com/jpanther/congo" target="_blank" rel="noopener noreferrer">Congo</a> 製作
+        </p>
+      
+    </div>
+    <div class="flex flex-row items-center">
+      
+      
+      
+      
+    </div>
+  </div>
+  
+  
+</footer>
+
+    </div>
+  </body>
+</html>
