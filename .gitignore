@@ -18,8 +18,6 @@ env/
 # -----------------------
 # Distribution / packaging
 # -----------------------
-build/
-develop-eggs/
 dist/
 downloads/
 eggs/
@@ -35,6 +33,23 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# -----------------------
+# Hugo specific
+# -----------------------
+public/
+resources/_gen/
+.hugo_build.lock
+
+# -----------------------
+# GitHub Pages - not needed with GitHub Actions
+# -----------------------
+docs/
+
+# -----------------------
+# Build artifacts - not needed with new structure
+# -----------------------
+build/
 
 # -----------------------
 # Unit test / coverage reports
@@ -76,5 +91,7 @@ Thumbs.db
 # -----------------------
 .env
 .env.*
+*.env
+*.secret
 *.env
 *.secret
