@@ -1,5 +1,3 @@
-.DS_Store
-
 # -----------------------
 # Python bytecode
 # -----------------------
@@ -42,14 +40,9 @@ resources/_gen/
 .hugo_build.lock
 
 # -----------------------
-# GitHub Pages - not needed with GitHub Actions
+# Project documentation (private)
 # -----------------------
-docs/
-
-# -----------------------
-# Build artifacts - not needed with new structure
-# -----------------------
-build/
+EC.md
 
 # -----------------------
 # Unit test / coverage reports
@@ -68,11 +61,6 @@ coverage.xml
 .hypothesis/
 
 # -----------------------
-# Jupyter Notebook checkpoints
-# -----------------------
-.ipynb_checkpoints
-
-# -----------------------
 # IDE / Editor specific
 # -----------------------
 .vscode/
@@ -89,9 +77,6 @@ Thumbs.db
 # -----------------------
 # Environment / secrets
 # -----------------------
-.env
 .env.*
-*.env
-*.secret
 *.env
 *.secret
