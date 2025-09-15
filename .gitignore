@@ -43,6 +43,7 @@ resources/_gen/
 # Project documentation (private)
 # -----------------------
 EC.md
+intro.md
 
 # -----------------------
 # Unit test / coverage reports
