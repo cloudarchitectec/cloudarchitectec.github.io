@@ -14,8 +14,6 @@ tags: ["職涯", "微軟", "績效評估"]
 
 ![](images/medium-0*56iblj35IDs0Ee1S.jpg)Photo by [John Schnobrich](https://unsplash.com/@johnschno?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E5%BE%AE%E8%BB%9F%E5%93%A1%E5%B7%A5%E7%B8%BE%E6%95%88%E8%A9%95%E4%BC%B0-microsoft-employee-performance-review-7ad16f1c0eef?source=friends_link&sk=62507cb37b5a59a57578e32b83710ba4)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 今天要來跟大家分享微軟是怎麼進行員工績效評估。

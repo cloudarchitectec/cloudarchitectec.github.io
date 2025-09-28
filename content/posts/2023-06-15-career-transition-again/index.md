@@ -14,8 +14,6 @@ tags: ["職涯", "轉職", "薪資"]
 
 ![](images/medium-0*sB1VtMiyTXKqNZ3E.jpg)Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E8%81%B7%E6%B6%AF-%E8%BD%89%E8%81%B7%E5%8F%AF%E4%BB%A5%E4%B8%80%E8%BD%89%E5%86%8D%E8%BD%89%E5%97%8E-%E8%96%AA%E6%B0%B4%E6%98%AF%E8%BD%89%E8%81%B7%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%80%83%E9%87%8F-f6e9ee6e7d85?source=friends_link&sk=b68a373b0aada167e9a527e32a470c31)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### **前言**
