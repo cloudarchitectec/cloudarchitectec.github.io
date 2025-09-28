@@ -71,7 +71,7 @@ enableEmoji = true
     title = "澳洲雲端架構師 EC"
     weight = 1
     contentDir = "content"
-    [languages.zh-hant.homeInfoParams]
+    [languages.zh-hant.params.homeInfoParams]
       Title = "歡迎來到 Cloud Architect EC 的技術部落格"
       Content = "分享雲端架構、AWS、Azure 以及技術職涯的心得與經驗"
     [[languages.zh-hant.menu.main]]
@@ -92,7 +92,7 @@ enableEmoji = true
     title = "Cloud Architect EC"
     weight = 2
     contentDir = "content"
-    [languages.en.homeInfoParams]
+    [languages.en.params.homeInfoParams]
       Title = "Welcome to Cloud Architect EC's Tech Blog"
       Content = "Sharing insights on cloud architecture, AWS, Azure, and tech career experiences"
     [[languages.en.menu.main]]
