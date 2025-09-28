@@ -1,5 +1,5 @@
 ---
-title: "大家好，我是澳洲雲端架構師 EC!"
+title: "澳洲雲端架構師 EC ｜大家好，我是 EC"
 date: 2018-01-01
 slug: "2018-01-01-iam-ec"
 image: "images/medium-0*s8lY75qUNwwZVglG.jpg"
@@ -10,10 +10,6 @@ description: "從台灣英文系畢業到成功移民澳洲，再從會計師轉
 keywords: ["澳洲雲端架構師", "澳洲移民", "文組轉職工程師", "澳洲打工度假", "Amazon AWS", "微軟", "職涯轉換", "澳洲生活"]
 author: "EC"
 ---
-
-* * *
-
-### 大家好，我是澳洲雲端架構師 EC!
 
 ![Hello](images/medium-0*s8lY75qUNwwZVglG.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
