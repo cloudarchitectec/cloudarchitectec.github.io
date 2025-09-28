@@ -6,14 +6,8 @@ image: "images/medium-0*x2HBd4-Q6KDvwc5h.jpg"
 images: ['images/medium-0*x2HBd4-Q6KDvwc5h.jpg', 'images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg', 'images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg', 'images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg', 'images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
 categories: ["職涯"]
 tags: ["職涯"]
----le: "[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks) 評分表"
-date: 2023-04-01
-slug: "2023-04-01-work-tasks"
-image: "images/medium-0*x2HBd4-Q6KDvwc5h.jpg"
-images: ['images/medium-0*x2HBd4-Q6KDvwc5h.jpg', 'images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg', 'images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg', 'images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg', 'images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
 ---
-
-* * *
+---
 
 ### [職涯] 如何評估現職是否適合你 — 工作任務 (work tasks) 評分表
 
@@ -64,7 +58,7 @@ images: ['images/medium-0*x2HBd4-Q6KDvwc5h.jpg', 'images/medium-1*hxEXd4_ibLJK39
   * [[職場] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/職場-solution-architect-technical-consultant-software-developer-比較-1484a6401723)
   * [[澳洲職場] 如何準備職場英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
   * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/職涯-我為什麼選擇轉職-it-產業-e0507b5c98e1)
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](https://medium.com/@cloudarchitectec/澳洲職場-你該轉職嗎-來自轉職成功者的忠告-文組轉it-9bb2bb9485ca)
-  * [[](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)[澳洲職場](https://medium.com/@cloudarchitectec/澳洲職場-你該轉職嗎-來自轉職成功者的忠告-文組轉it-9bb2bb9485ca)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)
+  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
+  * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
 
 

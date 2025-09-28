@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "微軟", "雲端架構師"]
 ---
 
-* * *
-
 ### [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第五集：Sales Pipeline Management
 
 ![](images/medium-0*Sre5eGm5dFF7JeEH.jpg)Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -133,24 +131,13 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 希望這個系列可以幫助大家更了解這個職位～ 如果還有什麼其他想看的主題或是有任何問題，都歡迎在下方留言！
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
-  * [[職場] 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%BE%AE%E8%BB%9F%E5%93%A1%E5%B7%A5-%E8%8F%9C%E9%B3%A5-azure-csa-%E7%9A%84%E4%B8%80%E5%A4%A9-226f1f333f78)
-  * [[職場] 微軟員工績效評估 (Microsoft Employee Performance Review)](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E5%BE%AE%E8%BB%9F%E5%93%A1%E5%B7%A5%E7%B8%BE%E6%95%88%E8%A9%95%E4%BC%B0-microsoft-employee-performance-review-7ad16f1c0eef)
-  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E9%9B%B2%E7%AB%AF%E8%AD%89%E7%85%A7%E7%9C%9F%E7%9A%84%E6%9C%83%E7%82%BA%E8%81%B7%E5%A0%B4%E5%8A%A0%E5%88%86%E5%97%8E-aws-%E8%88%87-azure-%E8%AD%89%E7%85%A7%E6%AF%94%E8%BC%83-6fac635933b8)
+  * [[職場] 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天](/posts/2022-12-16-day-of-ms-csa/)
+  * [[職場] 微軟員工績效評估 (Microsoft Employee Performance Review)](/posts/2023-06-03-ms-performance-review/)
+  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](/posts/2023-02-04-cloud-certs/)
   * [[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思](https://medium.com/@cloudarchitectec/reflection-on-my-9-months-in-microsoft-9793a5f44430)
   * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-solution-architect-technical-consultant-software-developer-%E6%AF%94%E8%BC%83-1484a6401723)
 

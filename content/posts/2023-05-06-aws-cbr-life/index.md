@@ -56,10 +56,10 @@ tags: ["澳洲生活", "坎培拉", "AWS", "職涯"]
 
 **延伸閱讀**
 
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/介紹-大家好-我是ec-afcf45d128eb)
+  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[生活]澳洲首次買房流程分享](https://medium.com/@cloudarchitectec/生活-澳洲首次買房流程分享-2021-5bd28c444bfb)
   * [[生活] 2022 澳洲買新車: Swift、MG3、C-HR、Corolla、Stonic、i30 試駕心得](https://medium.com/@cloudarchitectec/%E9%96%92%E8%81%8A-2022-%E6%BE%B3%E6%B4%B2%E8%B2%B7%E6%96%B0%E8%BB%8A-swift-mg3-c-hr-corolla-stonic-i30-%E8%A9%A6%E9%A7%95%E5%BF%83%E5%BE%97-170399f4d029)
   * [[趣聞] 澳州居民就真的比較有國際觀嗎?](https://medium.com/@cloudarchitectec/職場趣聞-澳州居民就真的比較有國際觀嗎-40bc9d9b8abd)
-  * [[趣聞] 你不知道的亞馬遜辦公室 — IT 自動販賣機](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4%E8%B6%A3%E8%81%9E-%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%9E%E9%A6%AC%E9%81%9C%E8%BE%A6%E5%85%AC%E5%AE%A4-it-%E8%87%AA%E5%8B%95%E8%B2%A9%E8%B3%A3%E6%A9%9F-abbf3a91ea21)
+  * [[趣聞] 你不知道的亞馬遜辦公室 — IT 自動販賣機](/posts/2023-03-24-it-vending-machine/)
 
 

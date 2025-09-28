@@ -52,10 +52,10 @@ tags: ["職涯", "微軟"]
 
 **延伸閱讀**
 
-  * [[FAANG] 2023 Q1 科技大廠裁員潮 — 微軟員工心得](https://medium.com/@cloudarchitectec/faang-2023-q1-科技大廠裁員潮-1ef287f0c68a)
-  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](https://medium.com/@cloudarchitectec/職場-雲端證照真的會為職場加分嗎-aws-與-azure-證照比較-6fac635933b8)
-  * [[FAANG] 澳洲微軟員工福利大公開](https://medium.com/@cloudarchitectec/faang-澳洲微軟員工福利大公開-8c941532fb4f)
+  * [[FAANG] 2023 Q1 科技大廠裁員潮 — 微軟員工心得](/posts/2023-02-11-2023-q1-layoff/)
+  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](/posts/2023-02-04-cloud-certs/)
+  * [[FAANG] 澳洲微軟員工福利大公開](/posts/2023-01-28-faang-benefits/)
   * [[澳洲職場] 如何準備職場英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
-  * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](https://medium.com/@cloudarchitectec/澳洲微軟雲端架構師-microsoft-azure-cloud-solution-architect-面試心得-同場加映-aws-面試心得-9dff9fc59ae8)
+  * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
 
 

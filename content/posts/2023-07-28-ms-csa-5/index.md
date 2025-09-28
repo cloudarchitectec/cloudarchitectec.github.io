@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "微軟"]
 ---
 
-* * *
-
 ### [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops
 
 ![](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -134,24 +132,13 @@ ATS 私訊我說看來會延遲一下，我問說那還是按照計劃12點結�
 
 其實我覺得這個系列到目前為止，與其說描述架構師的日常，好像更多是對於微軟的抱怨，但我真的沒有XDDD 我只是想要忠實地呈現我的日常工作生活，順便讓大家知道，你們不要以為大公司裡面的事情運作就會非常有規劃或是非常有效率，並不會。你們在工作上會遇到的日常鳥事，就是我在日常工作上會遇到的鳥事哈哈哈
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8)
+  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
   * [[職場] 你登入澳洲了，然後呢？如何提高找到澳洲科技業正職工作的機會 — 旅澳十年的臺灣工程師告訴你！](https://medium.com/@cloudarchitectec/tips-on-how-to-find-a-tech-job-in-australia-3535243e7cf7)
-  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E8%A9%95%E4%BC%B0%E7%8F%BE%E8%81%B7%E6%98%AF%E5%90%A6%E9%81%A9%E5%90%88%E4%BD%A0-%E5%B7%A5%E4%BD%9C%E5%B0%8F%E4%BB%BB%E5%8B%99-work-tasks-%E5%88%86%E6%9E%90-d07d09a192c)
+  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](/posts/2023-04-01-work-tasks/)
   * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-solution-architect-technical-consultant-software-developer-%E6%AF%94%E8%BC%83-1484a6401723)
   * [[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思](https://medium.com/@cloudarchitectec/reflection-on-my-9-months-in-microsoft-9793a5f44430)
 

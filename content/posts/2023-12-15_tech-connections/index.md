@@ -8,13 +8,9 @@ categories: ["投資理財"]
 tags: ["投資理財"]
 ---
 
-* * *
-
 ### 如何在澳洲增加工作上的人脈? 如何經營自己的職場品牌? 如何提高自己找到工作的機率? 你不可不知的 Tech Meet-ups!
 
 ![](images/medium-0*M-Nsha3Kr5GQFhi_.jpg)Photo by [Kenny Eliason](https://unsplash.com/@neonbrand?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
-非 Medium 付費會員，請點此[免費閱讀這篇文章](https://medium.com/@cloudarchitectec/a47e1358a5d9?source=friends_link&sk=d33bc62af96d645d38c18c6e0d23e025)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
 
 ### 前言
 
@@ -112,22 +108,11 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 另外這篇文章以職場/科技業為切入角度，所以著重於 tech meet ups，但其實 meetup 上面有很多運動、嗜好甚至是聯誼相關的社團，是一個認識新朋友很好的渠道，歡迎大家多多嘗試。
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/%E4%BB%8B%E7%B4%B9-%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AFec-afcf45d128eb)
+  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
   * [你登入澳洲了，然後呢？如何提高找到澳洲科技業正職工作的機會 — 旅澳十年的臺灣工程師告訴你！](https://medium.com/@cloudarchitectec/tips-on-how-to-find-a-tech-job-in-australia-3535243e7cf7)
   * [如何準備澳洲辦公室英文面試](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99%E8%81%B7%E5%A0%B4%E8%8B%B1%E6%96%87%E9%9D%A2%E8%A9%A6-89d7397274fb)

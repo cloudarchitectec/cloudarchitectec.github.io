@@ -23,7 +23,7 @@ tags: ["職涯", "面試", "求職", "澳洲生活"]
 如果想要參考我的澳洲微軟與澳洲 Amazon 的面試經驗，請閱讀以下文章：
 
 [**微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)**  
-_分享微軟的 Cloud Solution Architect 面試心得，跟我之前的 AWS 面試過程有什麼不同呢？如果有興趣的話，那就請繼續看下去吧_ medium.com](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8)[](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8)
+_分享微軟的 Cloud Solution Architect 面試心得，跟我之前的 AWS 面試過程有什麼不同呢？如果有興趣的話，那就請繼續看下去吧_ medium.com](/posts/2022-11-25-ms-csa-interview/)[](/posts/2022-11-25-ms-csa-interview/)
 
 ### 收集資訊：知己知彼，百戰百勝
 

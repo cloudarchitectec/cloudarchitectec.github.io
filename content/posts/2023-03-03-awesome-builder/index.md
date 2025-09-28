@@ -6,14 +6,8 @@ image: "images/medium-0*U0dfYsPiq7mCwebZ.jpg"
 images: ['images/medium-0*U0dfYsPiq7mCwebZ.jpg']
 categories: ["職涯"]
 tags: ["職涯", "AWS", "雲端架構師"]
----le: "[職場] 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder"
-date: 2023-03-03
-slug: "2023-03-03-awesome-builder"
-image: "images/medium-0*U0dfYsPiq7mCwebZ.jpg"
-images: ['images/medium-0*U0dfYsPiq7mCwebZ.jpg']
 ---
-
-* * *
+---
 
 ### [職場] 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder
 
@@ -61,25 +55,14 @@ AB 的目的是確保你已經足夠瞭解AWS的文化與產品，有辦法代�
 
 一路上遇見的所有AWS員工，不管他們的職位有多高、平常有多忙，都非常樂意幫你排除任何困難。如果有機會的話，我真心會推薦大家去AWS工作！
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
-  * [[FAANG] 2023 Q1 科技大廠裁員潮 — 微軟員工心得](https://medium.com/@cloudarchitectec/faang-2023-q1-科技大廠裁員潮-1ef287f0c68a)
-  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](https://medium.com/@cloudarchitectec/職場-雲端證照真的會為職場加分嗎-aws-與-azure-證照比較-6fac635933b8)
-  * [[](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)[澳洲職場](https://medium.com/@cloudarchitectec/澳洲職場-你該轉職嗎-來自轉職成功者的忠告-文組轉it-9bb2bb9485ca)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)
-  * [[FAANG] 科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](https://medium.com/@cloudarchitectec/科技業龍頭-faang-的薪資結構-以澳洲亞馬遜為例-584e9c564079)
+  * [[FAANG] 2023 Q1 科技大廠裁員潮 — 微軟員工心得](/posts/2023-02-11-2023-q1-layoff/)
+  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](/posts/2023-02-04-cloud-certs/)
+  * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
+  * [[FAANG] 科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
   * [[FAANG] AWS Professional Services Cloud Architect 工作內容分享](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-工作內容分享-7079361ea84)
 
 

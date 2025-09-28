@@ -33,7 +33,7 @@ Covid 後，澳洲的房貸利率一路從 2% 攀升到現在的 6.6%，EC 身�
 
 
 [**[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)**  
-_Carnival Splendor 澳洲南太平洋郵輪事前準備分享_ medium.com](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E5%8F%8A%E9%A0%88%E7%9F%A5-2023-05%E5%87%BA%E7%99%BC-b7ee58cf7bc4)[](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E5%8F%8A%E9%A0%88%E7%9F%A5-2023-05%E5%87%BA%E7%99%BC-b7ee58cf7bc4)
+_Carnival Splendor 澳洲南太平洋郵輪事前準備分享_ medium.com](/posts/2023-05-08-carnival-splendor-intro/)[](/posts/2023-05-08-carnival-splendor-intro/)
 
   * 2023: 10天斐濟
 
@@ -66,7 +66,7 @@ _2022 年九月我決定從 Amazon 離職。在開始我在微軟的新工作前
 坎培拉公寓雖然租金收入高 (rental yield 約 6.82%)，但受限於房型與地區，所以售出後我並不會獲得太多收益 囧 (不過我一開始買這套公寓的心態，其實也不是為了投資，當時的我真心以為自己會久居坎培拉XDD)
 
 [**[生活] 澳洲坎培拉首次購房流程分享**  
- _分享我 2021 年在澳洲首都坎培拉的買房經驗。當年買房時我利用了澳洲政府的首次置業計劃之一 First Home Loan Deposit Scheme，所以我也會分想這個計畫的相關規定。_ medium.com](https://medium.com/@cloudarchitectec/%E7%94%9F%E6%B4%BB-%E6%BE%B3%E6%B4%B2%E9%A6%96%E6%AC%A1%E8%B2%B7%E6%88%BF%E6%B5%81%E7%A8%8B%E5%88%86%E4%BA%AB-2021-5bd28c444bfb)[](https://medium.com/@cloudarchitectec/%E7%94%9F%E6%B4%BB-%E6%BE%B3%E6%B4%B2%E9%A6%96%E6%AC%A1%E8%B2%B7%E6%88%BF%E6%B5%81%E7%A8%8B%E5%88%86%E4%BA%AB-2021-5bd28c444bfb)
+ _分享我 2021 年在澳洲首都坎培拉的買房經驗。當年買房時我利用了澳洲政府的首次置業計劃之一 First Home Loan Deposit Scheme，所以我也會分想這個計畫的相關規定。_ medium.com](/posts/2023-05-07-2021-life/)[](/posts/2023-05-07-2021-life/)
 
 我後來真心是覺得房產投資是一個勞心勞力的過程 (從看房、買房議價、貸款、出租房產、租客管理到賣房)，收益也不一定會如預期。
 

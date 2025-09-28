@@ -140,8 +140,7 @@ tags: ["旅遊", "奧地利", "薩爾斯堡"]
 
 [![](images/medium-0*8KEkPcMzwV1zW23d.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
+
   * YouTube 頻道 (歐洲獨旅影片緩慢上線中)：<https://www.youtube.com/@CloudJourneyWithEC>
 
 

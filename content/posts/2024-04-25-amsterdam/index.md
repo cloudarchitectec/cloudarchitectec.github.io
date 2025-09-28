@@ -106,7 +106,6 @@ PS: 荷蘭的住宿貴到什麼地步呢？我這樣一個閣樓的房間，需�
 
 ![](images/medium-0*YugyH-UDQuUIxt2_.png.jpg)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
+
 
 

@@ -8,8 +8,6 @@ categories: ["澳洲生活"]
 tags: ["澳洲生活", "讀者問答"]
 ---
 
-* * *
-
 ### [回饋] 讀者意見調查結果 + 讀者Q&A
 
 ![](images/medium-0*RySstG_VUOOHV5vy.jpg)Photo by [AbsolutVision](https://unsplash.com/@freegraphictoday?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -121,7 +119,7 @@ AWS/Amazon 最重視的個人特質我們稱之為 Leadership Principles，不�
 
 對於其他人來說，興趣或其他工作價值觀 (未來的職業發展、成就感) 更重要。例如我有朋友就覺得可以在工作上幫助他人很重要，所以她決定從英文系轉職為藥師(重讀藥學系)，目前在實習過程中也因為幫助來求助的患者而感到非常有成就感。所以這真的取決於你是哪種人！同時，正如我上面提到的，在選擇工作時，除了金錢和興趣之外還有更多要考慮的因素。例如，工作風格、你想要什麼樣的生活方式以及你想成為什麼樣的人。
 
-推薦你們閱讀以下這兩篇文章，我在當中都探討了我個人選工作時的考量:<<[[職涯] 轉職可以一轉再轉嗎？薪水是轉職最重要的考量？](https://medium.com/@cloudarchitectec/%E8%81%B7%E6%B6%AF-%E8%BD%89%E8%81%B7%E5%8F%AF%E4%BB%A5%E4%B8%80%E8%BD%89%E5%86%8D%E8%BD%89%E5%97%8E-%E8%96%AA%E6%B0%B4%E6%98%AF%E8%BD%89%E8%81%B7%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%80%83%E9%87%8F-f6e9ee6e7d85)>> 與 <<[[職涯] 你該轉職嗎? 來自轉職成功者的忠告 (台灣文組轉澳洲 IT 工程師)](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E4%BD%A0%E8%A9%B2%E8%BD%89%E8%81%B7%E5%97%8E-%E4%BE%86%E8%87%AA%E8%BD%89%E8%81%B7%E6%88%90%E5%8A%9F%E8%80%85%E7%9A%84%E5%BF%A0%E5%91%8A-%E6%96%87%E7%B5%84%E8%BD%89it-9bb2bb9485ca)>>
+推薦你們閱讀以下這兩篇文章，我在當中都探討了我個人選工作時的考量:<<[[職涯] 轉職可以一轉再轉嗎？薪水是轉職最重要的考量？](/posts/2023-06-15-career-transition-again/)>> 與 <<[[職涯] 你該轉職嗎? 來自轉職成功者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)>>
 
 > _·_** _你未來想要怎麼樣的工作型態？_** _你想要繼續當一個朝九晚五的上班族，或是你希望你上班的時間地點可以有所彈性？你希望在同一個地區／國家工作嗎？還是你希望新職涯可以讓你在世界各地工作？_
 
@@ -180,25 +178,14 @@ AWS/Amazon 最重視的個人特質我們稱之為 Leadership Principles，不�
 
 那麼這次的讀者回饋活動與意見調查就這麼結束了~ 希望不管是我們的視訊對話諮詢或是以上的文字 Q&A 都可以對你們有一些幫助，期待下次與你們相見!
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/%E4%BB%8B%E7%B4%B9-%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AFec-afcf45d128eb)
+  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8)
+  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
   * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-solution-architect-technical-consultant-software-developer-%E6%AF%94%E8%BC%83-1484a6401723)
-  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E8%A9%95%E4%BC%B0%E7%8F%BE%E8%81%B7%E6%98%AF%E5%90%A6%E9%81%A9%E5%90%88%E4%BD%A0-%E5%B7%A5%E4%BD%9C%E5%B0%8F%E4%BB%BB%E5%8B%99-work-tasks-%E5%88%86%E6%9E%90-d07d09a192c)
+  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](/posts/2023-04-01-work-tasks/)
 
 

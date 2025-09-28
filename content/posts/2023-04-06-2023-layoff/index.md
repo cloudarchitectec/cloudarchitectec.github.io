@@ -16,10 +16,10 @@ tags: ["職涯", "裁員"]
 
 ### 前言
 
-在 2023 年二月中，我發表了[倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記](https://medium.com/@cloudarchitectec/faang-2023-q1-%E7%A7%91%E6%8A%80%E5%A4%A7%E5%BB%A0%E8%A3%81%E5%93%A1%E6%BD%AE-1ef287f0c68a)這篇文章。
+在 2023 年二月中，我發表了[倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記](/posts/2023-02-11-2023-q1-layoff/)這篇文章。
 
 [**倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記**  
- _2023 年初，科技大廠 FAANG 相繼爆發裁員潮，微軟也不例外。本文記錄我身為澳洲微軟員工的第一手經歷，從內部謠言到團隊成員突然被裁的震驚瞬間。看似「安全」的組織，其實也暗藏危機，讓人深刻體會在變動職場中建立心理安全網的重要性。_ medium.com](https://medium.com/@cloudarchitectec/faang-2023-q1-%E7%A7%91%E6%8A%80%E5%A4%A7%E5%BB%A0%E8%A3%81%E5%93%A1%E6%BD%AE-1ef287f0c68a)[](https://medium.com/@cloudarchitectec/faang-2023-q1-%E7%A7%91%E6%8A%80%E5%A4%A7%E5%BB%A0%E8%A3%81%E5%93%A1%E6%BD%AE-1ef287f0c68a)
+ _2023 年初，科技大廠 FAANG 相繼爆發裁員潮，微軟也不例外。本文記錄我身為澳洲微軟員工的第一手經歷，從內部謠言到團隊成員突然被裁的震驚瞬間。看似「安全」的組織，其實也暗藏危機，讓人深刻體會在變動職場中建立心理安全網的重要性。_ medium.com](/posts/2023-02-11-2023-q1-layoff/)[](/posts/2023-02-11-2023-q1-layoff/)
 
 當時我失去了一個同部門的同事 G (也是 Cloud Solution Architect — Infrastructure: Financial Service Industry) 跟一個我搬來布里斯本後認識的同事 J (也是 Cloud Solution Architect，只是他負責的領域是 App Innovation，然後負責的產業也不同 )。
 

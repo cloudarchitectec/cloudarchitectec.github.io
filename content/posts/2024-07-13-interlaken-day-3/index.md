@@ -14,7 +14,7 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*kAztuhou_5maw331hvUdXw.jpeg.jpg)瑞士超市龍頭之一 Migros
 
-非 Medium 付費會員，[請長按此處免費閱讀這篇文章](https://medium.com/@cloudarchitectec/interlaken-day-3-supermarket-trip-ec354dc78bb0?source=friends_link&sk=eca18977cf659cd726abe3e8ceb7e7ae)。當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
+非 Medium 付費會員，[請長按此處免費閱讀這篇文章](/posts/2024-07-13-interlaken-day-3/?source=friends_link&sk=eca18977cf659cd726abe3e8ceb7e7ae)。當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
 
 * * *
 

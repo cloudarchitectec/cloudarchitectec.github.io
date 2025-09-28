@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---
 
-* * *
-
 ### 2023.01.02 AZ-305 Microsoft Certified Azure Solutions Architect Expert 雲端證照準備&考試心得
 
 ![Exam badge of AZ Solutions Architect Expert](images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg)Microsoft Certified Azure Solution Architect Expert
@@ -52,25 +50,14 @@ AZ-305的考試時長是 120 分鐘，我花了30分鐘寫完 46 題 (這次很�
 
 如果大家有什麼 AWS/Azure 證照相關的問題，都歡迎留言。我下次也會再寫一篇 AWS 跟 Azure 兩大雲端證照考試的相關比較，敬請關注!
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
   * [[雲端證照] 2022.11.18 AZ-104 Azure Administrator Associate 考試心得](https://medium.com/@cloudarchitectec/az-104-azure-證照通過心得-80625af7c654)
   * [[雲端證照] 如何準備 AZ-104 Azure Administrator Associate 證照](https://medium.com/@cloudarchitectec/如何準備-az-104-azure-administrator-associate-證照-ce4e5e16bebc)
-  * [[](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)[澳洲職場](https://medium.com/@cloudarchitectec/澳洲職場-你該轉職嗎-來自轉職成功者的忠告-文組轉it-9bb2bb9485ca)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)
-  * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](https://medium.com/@cloudarchitectec/澳洲微軟雲端架構師-microsoft-azure-cloud-solution-architect-面試心得-同場加映-aws-面試心得-9dff9fc59ae8)
+  * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
+  * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
   * [[FAANG] AWS Professional Services Cloud Architect 工作內容分享](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-工作內容分享-7079361ea84)
 
 

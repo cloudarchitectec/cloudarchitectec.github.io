@@ -45,7 +45,7 @@ tags: ["投資理財", "房地產", "首次置業"]
 
 
 [**澳洲首次置業指南：2021 坎培拉購房流程經驗分享｜First Home Loan Deposit Scheme 實際應用**  
- _2021 年我在澳洲首都坎培拉靠自己申請 FHLDS（首次購屋補助 First Home Loan Deposit…_ medium.com](https://medium.com/@cloudarchitectec/%E7%94%9F%E6%B4%BB-%E6%BE%B3%E6%B4%B2%E9%A6%96%E6%AC%A1%E8%B2%B7%E6%88%BF%E6%B5%81%E7%A8%8B%E5%88%86%E4%BA%AB-2021-5bd28c444bfb)[](https://medium.com/@cloudarchitectec/%E7%94%9F%E6%B4%BB-%E6%BE%B3%E6%B4%B2%E9%A6%96%E6%AC%A1%E8%B2%B7%E6%88%BF%E6%B5%81%E7%A8%8B%E5%88%86%E4%BA%AB-2021-5bd28c444bfb)
+ _2021 年我在澳洲首都坎培拉靠自己申請 FHLDS（首次購屋補助 First Home Loan Deposit…_ medium.com](/posts/2023-05-07-2021-life/)[](/posts/2023-05-07-2021-life/)
 
   * **偏遠地區首次置業者擔保 Regional First Home Buyer Guarantee (RFHBG)** — 協助符合資格的自住買家能夠在偏遠地區 (regional area) 最低以房價 5% 的頭期款來買房。2023–24 財政年有 10,000 個名額。那要怎麼知道哪些地區屬於偏遠地區呢？別擔心，澳洲政府提供了一個 [Regional Checker](https://www.nhfic.gov.au/support-buy-home/regional-checker)，只要輸入你想買地區的郵遞區號，網站就會立刻告訴你該地區是否符合偏遠地區的資格。
   * **單親首次置業者擔保 Family Home Guarantee (FHG)** — 協助單親父母最低以房價 2% 的頭期款來買房。2023–24 財政年有 5,000 個名額。我覺得這個福利真的很棒(但也可以知道澳洲的單親父母真的很多，因為政府還特地為他們制定了相關的政策)。不過只支出房價 2% 的頭期款也就代表申請人要背負房價 98 % 的貸款，其實也是一個滿沈重的負擔，所以大家一定要先好好衡量過自己的經濟情況再決定。

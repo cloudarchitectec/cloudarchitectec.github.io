@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---
 
-* * *
-
 ### 零基礎轉職澳洲工程師: 2019.08.22 Embracing the Aussie values?
 
 ![](images/medium-0*xMNRe1ZzQJfNdGlr.jpg)Photo by [Toa Heftiba](https://unsplash.com/@heftiba?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -62,7 +60,6 @@ Emil 同學是攝影師，他給我看了幾張他手機裡的作品，我覺得
 
 [![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
+
 
 

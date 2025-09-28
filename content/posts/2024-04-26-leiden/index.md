@@ -58,7 +58,6 @@ King’s Fair The Hague，這是個為了明天的國王節而轉化成的遊樂
 
 ![](images/medium-0*zOi-ZhUCNDH0-r1O.png.jpg)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
+
 
 

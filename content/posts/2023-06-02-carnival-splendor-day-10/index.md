@@ -92,10 +92,10 @@ tags: ["旅遊", "新喀里多尼亞"]
 
 **延伸閱讀**
 
-  * [[旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4](https://medium.com/@cloudarchitectec/旅遊-2023-05-23-carnival-splendor-澳洲南太平洋郵輪-day-9-sea-day-4-b213935b27f3)
-  * [[旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 Sea Day 3](https://medium.com/@cloudarchitectec/旅遊-2023-05-22-carnival-splendor-澳洲南太平洋郵輪-day-8-sea-day-3-614ba584616d)
-  * [[旅遊] 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-16-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-2-sea-day-1-77c20aea9c2d)
-  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-15-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-1-%E9%9B%AA%E6%A2%A8%E7%99%BB%E8%88%B9-fd3e84083d62)
-  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E5%8F%8A%E9%A0%88%E7%9F%A5-2023-05%E5%87%BA%E7%99%BC-b7ee58cf7bc4)
+  * [[旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4](/posts/2023-06-02-carnival-splendor-day-9/)
+  * [[旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 Sea Day 3](/posts/2023-06-02-carnival-splendor-day-8/)
+  * [[旅遊] 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](/posts/2023-05-28-carnival-splendor-day-2/)
+  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
+  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
 
 

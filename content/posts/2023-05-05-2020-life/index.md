@@ -90,10 +90,10 @@ COVID 疫情開始發燒了。當時的我覺得就算實習沒拿到offer，找
 
 **延伸閱讀**
 
-  * [[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)](https://medium.com/@cloudarchitectec/生活-坎培拉aws生活四個月分享-2021-03-2021-07-b20c646a9f16)
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/介紹-大家好-我是ec-afcf45d128eb)
+  * [[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)](/posts/2023-05-06-aws-cbr-life/)
+  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[生活]澳洲首次買房流程分享](https://medium.com/@cloudarchitectec/生活-澳洲首次買房流程分享-2021-5bd28c444bfb)
   * [[生活] 2022 澳洲買新車: Swift、MG3、C-HR、Corolla、Stonic、i30 試駕心得](https://medium.com/@cloudarchitectec/%E9%96%92%E8%81%8A-2022-%E6%BE%B3%E6%B4%B2%E8%B2%B7%E6%96%B0%E8%BB%8A-swift-mg3-c-hr-corolla-stonic-i30-%E8%A9%A6%E9%A7%95%E5%BF%83%E5%BE%97-170399f4d029)
-  * [[近況] 微軟裁員潮到一個段落…了嗎?](https://medium.com/@cloudarchitectec/近況-微軟裁員潮到一個段落-了嗎-123398977868)
+  * [[近況] 微軟裁員潮到一個段落…了嗎?](/posts/2023-04-06-2023-layoff/)
 
 

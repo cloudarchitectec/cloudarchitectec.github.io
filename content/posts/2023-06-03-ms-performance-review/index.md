@@ -113,10 +113,10 @@ command 在英文字典裡的解釋是「to present or mention as worthy of conf
 
 **延伸閱讀**
 
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/介紹-大家好-我是ec-afcf45d128eb)
+  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[職場] 如何準備澳洲辦公室英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
-  * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](https://medium.com/@cloudarchitectec/澳洲職場-你該轉職嗎-來自轉職成功者的忠告-文組轉it-9bb2bb9485ca)
-  * [[](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)[職場](https://medium.com/@cloudarchitectec/澳洲職場-你該轉職嗎-來自轉職成功者的忠告-文組轉it-9bb2bb9485ca)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](https://medium.com/@cloudarchitectec/文組轉職澳洲-it-工程師-我靠-coding-bootcamp-進了亞馬遜-30fef5aaa97f)
+  * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)
+  * [[](/posts/2022-12-03-bootcamp-to-aws/)[職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
   * [[職場] 知己知彼，百戰百勝 — 英文面試中你該問雇主哪些問題](https://medium.com/@cloudarchitectec/職場-知己知彼-百戰百勝-英文面試中你該問雇主哪些問題-31d0b0a00dd1)
 
 

@@ -99,7 +99,6 @@ tags: ["旅遊", "荷蘭"]
 
 ![](images/medium-0*LrQk1rT6zRrnPHB3.png.jpg)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
+
 
 

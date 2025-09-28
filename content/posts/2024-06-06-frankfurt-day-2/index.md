@@ -84,7 +84,6 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 ![](images/medium-0*7Abpr4b15mBmDLsK.png.jpg)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
+
 
 

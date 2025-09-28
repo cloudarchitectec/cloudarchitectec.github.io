@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---
 
-* * *
-
 ### 零基礎轉職澳洲工程師**:** 2019.08.23 Survived the 1st Week
 
 ![](images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg)
@@ -56,7 +54,6 @@ Bootcamp 第一週，覺得很開心，每天都學到很多東西，同學也�
 
 [![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
+
 
 

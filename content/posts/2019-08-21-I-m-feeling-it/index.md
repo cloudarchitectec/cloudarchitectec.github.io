@@ -6,14 +6,8 @@ image: "images/medium-0*BSj9yl-OTGs5uKYD.jpg"
 images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
----le: "零基礎轉職澳洲工程師: 2019.08.21 I’m feeling it!"
-date: 2019-08-21
-slug: "2019-08-21-i-m-feeling-it"
-image: "images/medium-0*BSj9yl-OTGs5uKYD.jpg"
-images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
 ---
-
-* * *
+---
 
 ### 零基礎轉職澳洲工程師: 2019.08.21 I’m feeling it!
 
@@ -91,7 +85,6 @@ Coder Academy 為了推廣 women in tech，每個學期都會提供一名女性(
 
 [![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
+
 
 

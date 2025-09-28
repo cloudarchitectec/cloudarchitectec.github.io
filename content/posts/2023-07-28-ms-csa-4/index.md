@@ -176,10 +176,10 @@ Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然�
 
 **延伸閱讀**
 
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8)
-  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E8%A9%95%E4%BC%B0%E7%8F%BE%E8%81%B7%E6%98%AF%E5%90%A6%E9%81%A9%E5%90%88%E4%BD%A0-%E5%B7%A5%E4%BD%9C%E5%B0%8F%E4%BB%BB%E5%8B%99-work-tasks-%E5%88%86%E6%9E%90-d07d09a192c)
-  * [[職場] 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%BE%AE%E8%BB%9F%E5%93%A1%E5%B7%A5-%E8%8F%9C%E9%B3%A5-azure-csa-%E7%9A%84%E4%B8%80%E5%A4%A9-226f1f333f78)
-  * [[職場] 2023 Q1 科技大廠裁員潮 — 澳洲微軟員工心得](https://medium.com/@cloudarchitectec/faang-2023-q1-%E7%A7%91%E6%8A%80%E5%A4%A7%E5%BB%A0%E8%A3%81%E5%93%A1%E6%BD%AE-1ef287f0c68a)
-  * [[職涯] 澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-%E5%B7%A5%E4%BD%9C%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB-7079361ea84)
+  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
+  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](/posts/2023-04-01-work-tasks/)
+  * [[職場] 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天](/posts/2022-12-16-day-of-ms-csa/)
+  * [[職場] 2023 Q1 科技大廠裁員潮 — 澳洲微軟員工心得](/posts/2023-02-11-2023-q1-layoff/)
+  * [[職涯] 澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享](/posts/2022-12-23-aws-ps-ca/)
 
 

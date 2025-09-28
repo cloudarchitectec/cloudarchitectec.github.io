@@ -19,7 +19,7 @@ tags: ["投資理財", "房地產"]
 如果你想要利用**置業擔保計劃 (Home Guarantee Scheme)** 讓澳洲政府擔任你的房貸擔保人，使用房價 2% 或 5% 的頭期款買下你在澳洲的第一套自住房，請參考第一集:
 
 [**澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme**  
- _這篇文章是我整理 2023 澳洲首次置業擔保計畫（Home Guarantee Scheme）的實用懶人包，帶你一次搞懂申請資格、房價門檻、自備款比例等重點。只要準備 2% 或 5%…_ medium.com](https://medium.com/@cloudarchitectec/2023-australia-home-guarantee-scheme-15ff20791fe2)[](https://medium.com/@cloudarchitectec/2023-australia-home-guarantee-scheme-15ff20791fe2)
+ _這篇文章是我整理 2023 澳洲首次置業擔保計畫（Home Guarantee Scheme）的實用懶人包，帶你一次搞懂申請資格、房價門檻、自備款比例等重點。只要準備 2% 或 5%…_ medium.com](/posts/2023-09-23-qld-first-home-1/)[](/posts/2023-09-23-qld-first-home-1/)
 
 按照慣例，在文章開始前必須來個免責聲明XD
 

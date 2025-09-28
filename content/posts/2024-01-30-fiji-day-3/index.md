@@ -42,23 +42,12 @@ tags: ["旅遊", "斐濟"]
 
 服務人員的態度也超級無敵好，我甚至看到他們幫忙遊客夫婦帶小孩，讓遊客可以毫無牽掛地進行各種行程，我強力推薦大家一定要來！
 
-* * *
 
-
-
-  * 中文部落格: <https://medium.com/@cloudarchitectec>
-  * 英文部落格: <https://medium.com/architecting-your-cloud-career>
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
-
-
-
-* * *
 
 **推薦閱讀**
 
-  * [2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-15-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-1-%E9%9B%AA%E6%A2%A8%E7%99%BB%E8%88%B9-fd3e84083d62)
-  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E5%8F%8A%E9%A0%88%E7%9F%A5-2023-05%E5%87%BA%E7%99%BC-b7ee58cf7bc4)
+  * [2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
+  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
   * [Ivory’s Rocks 三天兩夜澳洲露營初體驗](https://medium.com/@cloudarchitectec/first-time-camping-in-an-australia-camping-site-ivorys-rocks-66c09b509bfb)
   * [2022.10.10 斐濟自助旅遊 Day 1: 初來乍到之這裡真的不是屏東嗎?](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-1-541f5252848a)
   * [2022.10.11 斐濟自助旅遊 Day 2: Nadi 市區一日遊](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-2-nadi-f85bcbdb3797)

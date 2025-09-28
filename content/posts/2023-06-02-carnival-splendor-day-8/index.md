@@ -6,14 +6,8 @@ image: "images/medium-1*-VuGXRApjWz3bYDU3DdNaQ.jpeg.jpg"
 images: ['images/medium-1*-VuGXRApjWz3bYDU3DdNaQ.jpeg.jpg', 'images/medium-1*8ePwNyD5VTiHi4qHLTNpEg.jpeg.jpg', 'images/medium-1*Iqp4U5LSnKV87oHZWtI1tQ.jpeg.jpg', 'images/medium-1*zFOlmJy5JqNrX-kIcuLkgQ.jpeg.jpg', 'images/medium-1*6KRGR9n5hN1g9tMNHZ7bhw.jpeg.jpg', 'images/medium-1*LXwKFDUoEHG5qnRl7ajkPQ.jpeg.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "郵輪"]
----le: "[旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 Sea Day 3"
-date: 2023-06-02
-slug: "2023-06-02-carnival-splendor-day-8"
-image: "images/medium-0*RmCK_FswNBVEnYn5.jpg"
-images: ['images/medium-0*RmCK_FswNBVEnYn5.jpg', 'images/medium-1*7sqjVIIUJgaJragnEAOddQ.jpeg.jpg', 'images/medium-1*exhtrGEZ2WIMBURU1Olzlg.jpeg.jpg', 'images/medium-1*g-Z47LNsC4CV53sULFleXg.jpeg.jpg', 'images/medium-1*Qcl_UMWXbJDd4gCEeiFOPg.jpeg.jpg', 'images/medium-1*l11oDtbBi3PUMOD-3qtpVQ.jpeg.jpg', 'images/medium-1*qDfQZkGXtEtjkJnxYc7How.jpeg.jpg', 'images/medium-1*UebhifGmE_EM5D5YmAxK7Q.jpeg.jpg']
 ---
-
-* * *
+---
 
 ### [旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 Sea Day 3
 
@@ -75,10 +69,10 @@ images: ['images/medium-0*RmCK_FswNBVEnYn5.jpg', 'images/medium-1*7sqjVIIUJgaJra
 
 **延伸閱讀**
 
-  * [[旅遊] 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Signal Island (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-21-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-7-signal-island-new-caledonia-3c5a3f9160ee)
-  * [[旅遊] 2023.05.20 Carnival Splendor 澳洲南太平洋郵輪 — Day 6 Mystery Island (Vanuatu)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-20-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-6-mystery-island-vanuatu-9ef28cfc136)
-  * [[旅遊] 2023.05.19 Carnival Splendor 澳洲南太平洋郵輪 — Day 5 Lifou (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-19-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-5-lifou-new-caledonia-8fd47f2e4301)
-  * [[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-18-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-4-noumea-new-caledonia-19c06631cb44)
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/%E4%BB%8B%E7%B4%B9-%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AFec-afcf45d128eb)
+  * [[旅遊] 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Signal Island (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-7/)
+  * [[旅遊] 2023.05.20 Carnival Splendor 澳洲南太平洋郵輪 — Day 6 Mystery Island (Vanuatu)](/posts/2023-06-02-carnival-splendor-day-6/)
+  * [[旅遊] 2023.05.19 Carnival Splendor 澳洲南太平洋郵輪 — Day 5 Lifou (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-5/)
+  * [[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-4/)
+  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
 
 

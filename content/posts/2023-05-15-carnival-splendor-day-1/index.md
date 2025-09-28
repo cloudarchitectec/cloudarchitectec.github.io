@@ -6,11 +6,6 @@ image: "images/medium-0*_BLHxdyFQQzbm-Sg.jpg"
 images: ['images/medium-0*_BLHxdyFQQzbm-Sg.jpg', 'images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg', 'images/medium-1*x6LKifrtorOnK9sxiX0h9Q.jpeg.jpg', 'images/medium-1*D0Jc3uYW_mTTSjCQCjSIdA.jpeg.jpg', 'images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpeg.jpg', 'images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpeg.jpg', 'images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpeg.jpg', 'images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
----le: "[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船"
-date: 2023-05-15
-slug: "2023-05-15-carnival-splendor-day-1"
-image: "images/medium-0*_BLHxdyFQQzbm-Sg.jpg"
-images: ['images/medium-0*_BLHxdyFQQzbm-Sg.jpg', 'images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg', 'images/medium-1*x6LKifrtorOnK9sxiX0h9Q.jpeg.jpg', 'images/medium-1*D0Jc3uYW_mTTSjCQCjSIdA.jpeg.jpg', 'images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpeg.jpg', 'images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpeg.jpg', 'images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpeg.jpg', 'images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg']
 ---
 
 * * *
@@ -72,18 +67,7 @@ Check-in 時我們選的是 early dine-in，所以5:15 就可以入座用餐了�
 
 ![](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 

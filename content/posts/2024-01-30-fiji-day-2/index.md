@@ -77,25 +77,14 @@ tags: ["旅遊", "斐濟"]
 
 ![](images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpeg.jpg)![](images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpeg.jpg)Tokatoka Hotel 的泳池設施
 
-* * *
 
-
-
-  * 中文部落格: <https://medium.com/@cloudarchitectec>
-  * 英文部落格: <https://medium.com/architecting-your-cloud-career>
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
-
-
-
-* * *
 
 #### 延伸閱讀
 
-  * [2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-18-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-4-noumea-new-caledonia-19c06631cb44)
-  * [2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-17-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-3-sea-day-2-fd37273abd58)
-  * [2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-16-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-2-sea-day-1-77c20aea9c2d)
-  * [2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-15-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-1-%E9%9B%AA%E6%A2%A8%E7%99%BB%E8%88%B9-fd3e84083d62)
-  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E5%8F%8A%E9%A0%88%E7%9F%A5-2023-05%E5%87%BA%E7%99%BC-b7ee58cf7bc4)
+  * [2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-4/)
+  * [2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2](/posts/2023-05-30-carnival-splendor-day-3/)
+  * [2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](/posts/2023-05-28-carnival-splendor-day-2/)
+  * [2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
+  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
 
 

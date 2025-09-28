@@ -19,7 +19,7 @@ tags: ["職涯", "程式訓練營"]
 如果你還沒讀過那篇文章，請見：
 
 [**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**  
- _從台灣文組畢業、移民澳洲、裸辭穩定的澳洲工作、參加六個月 coding bootcamp，到成功進入 Amazon…_ medium.com](https://medium.com/@cloudarchitectec/%E6%96%87%E7%B5%84%E8%BD%89%E8%81%B7%E6%BE%B3%E6%B4%B2-it-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E6%88%91%E9%9D%A0-coding-bootcamp-%E9%80%B2%E4%BA%86%E4%BA%9E%E9%A6%AC%E9%81%9C-30fef5aaa97f)[](https://medium.com/@cloudarchitectec/%E6%96%87%E7%B5%84%E8%BD%89%E8%81%B7%E6%BE%B3%E6%B4%B2-it-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E6%88%91%E9%9D%A0-coding-bootcamp-%E9%80%B2%E4%BA%86%E4%BA%9E%E9%A6%AC%E9%81%9C-30fef5aaa97f)
+ _從台灣文組畢業、移民澳洲、裸辭穩定的澳洲工作、參加六個月 coding bootcamp，到成功進入 Amazon…_ medium.com](/posts/2022-12-03-bootcamp-to-aws/)[](/posts/2022-12-03-bootcamp-to-aws/)
 
 應讀者應求，今天就來跟大家聊聊如何挑選 coding bootcamps!
 
@@ -28,7 +28,7 @@ tags: ["職涯", "程式訓練營"]
 如今的時空背景已經截然不同，而 coding bootcamps 本來可能也不適用於每一個人。我 2020 年畢業時，大概只有 80% 的同學成功完成學業（入學時 20 人，16 人畢業），最後也只有約 40% 的同學 (8個人) 在**畢業後的半年內** 找到**程式設計相關的職業** ，有一些人即使到五年後的今天也沒有轉職成功，詳情可以見我的文章中<**倖存者偏差 > **這一段。
 
 [**轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)**  
-_轉職就跟投資理財一樣有賺有賠。作為一位從台灣文組背景成功轉職為澳洲 IT…_ medium.com](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E4%BD%A0%E8%A9%B2%E8%BD%89%E8%81%B7%E5%97%8E-%E4%BE%86%E8%87%AA%E8%BD%89%E8%81%B7%E6%88%90%E5%8A%9F%E8%80%85%E7%9A%84%E5%BF%A0%E5%91%8A-%E6%96%87%E7%B5%84%E8%BD%89it-9bb2bb9485ca)[](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E4%BD%A0%E8%A9%B2%E8%BD%89%E8%81%B7%E5%97%8E-%E4%BE%86%E8%87%AA%E8%BD%89%E8%81%B7%E6%88%90%E5%8A%9F%E8%80%85%E7%9A%84%E5%BF%A0%E5%91%8A-%E6%96%87%E7%B5%84%E8%BD%89it-9bb2bb9485ca)
+_轉職就跟投資理財一樣有賺有賠。作為一位從台灣文組背景成功轉職為澳洲 IT…_ medium.com](/posts/2022-12-10-career-transition-analysis/)[](/posts/2022-12-10-career-transition-analysis/)
 
 所以在大家瘋狂熱議說「這不適用於2025年啦～」的時候，我只想告訴你們，這件事在 2020年其實也沒有多容易啊XDDDD
 

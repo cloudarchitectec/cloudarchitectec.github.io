@@ -6,14 +6,8 @@ image: "images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg"
 images: ['images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg', 'images/medium-1*8GnbJJzSQPG_of0SILSVKg.jpeg.jpg', 'images/medium-1*F41yXeA7EJ7-cYP-HH9fdQ.jpeg.jpg', 'images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpeg.jpg', 'images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg', 'images/medium-1*OZXhSe0Fr53Mz9qseweKOA.jpeg.jpg', 'images/medium-1*1RkNhZGhiM4cNXR4ja9CCg.jpeg.jpg', 'images/medium-1*4vieIsVH9cBc4umpaGgT7g.jpeg.jpg', 'images/medium-1*uVGQvX5gRy42oH8WSCQp6A.jpeg.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "新喀里多尼亞", "郵輪"]
----le: "[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)"
-date: 2023-06-02
-slug: "2023-06-02-carnival-splendor-day-4"
-image: "images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg"
-images: ['images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg', 'images/medium-1*8GnbJJzSQPG_of0SILSVKg.jpeg.jpg', 'images/medium-1*F41yXeA7EJ7-cYP-HH9fdQ.jpeg.jpg', 'images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpeg.jpg', 'images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg', 'images/medium-1*OZXhSe0Fr53Mz9qseweKOA.jpeg.jpg', 'images/medium-1*1RkNhZGhiM4cNXR4ja9CCg.jpeg.jpg', 'images/medium-1*4vieIsVH9cBc4umpaGgT7g.jpeg.jpg', 'images/medium-1*uVGQvX5gRy42oH8WSCQp6A.jpeg.jpg']
 ---
-
-* * *
+---
 
 ### [旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)
 
@@ -79,10 +73,10 @@ images: ['images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg', 'images/medium-1*8Gn
 
 **延伸閱讀**
 
-  * [[旅遊] 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2](https://medium.com/@cloudarchitectec/旅遊-2023-05-17-carnival-splendor-澳洲南太平洋郵輪-day-3-sea-day-2-fd37273abd58)
-  * [[旅遊] 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](https://medium.com/@cloudarchitectec/旅遊-2023-05-16-carnival-splendor-澳洲南太平洋郵輪-day-2-sea-day-1-77c20aea9c2d)
-  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](https://medium.com/@cloudarchitectec/旅遊-2023-05-15-carnival-splendor-澳洲南太平洋郵輪-day-1-雪梨登船-fd3e84083d62)
-  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](https://medium.com/@cloudarchitectec/旅遊-carnival-splendor-澳洲南太平洋郵輪-事前準備及須知-2023-05出發-b7ee58cf7bc4)
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/介紹-大家好-我是ec-afcf45d128eb)
+  * [[旅遊] 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2](/posts/2023-05-30-carnival-splendor-day-3/)
+  * [[旅遊] 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](/posts/2023-05-28-carnival-splendor-day-2/)
+  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
+  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
+  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
 
 

@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "面試"]
 ---
 
-* * *
-
 ### 微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)
 
 ![2 people sitting together in a interview setting](images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg)
@@ -76,23 +74,12 @@ Loops 會在一天之內完成，總共有五關，一關一個小時，面試�
 
 一樣是面試完隔天我就收到 Recruiter 2號 (跟之前的 sourcing recruiter 是不同人) 的 email 說希望找時間跟我聊聊 interview feedback。在與 Recruiter 2 的電話對話中，我獲得了口頭 offer。經過一番思考，我決定迎接這個全新的挑戰: 新的公司文化、新的雲服務平台、新的職位、新的城市!
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E4%BD%A0%E8%A9%B2%E8%BD%89%E8%81%B7%E5%97%8E-%E4%BE%86%E8%87%AA%E8%BD%89%E8%81%B7%E6%88%90%E5%8A%9F%E8%80%85%E7%9A%84%E5%BF%A0%E5%91%8A-%E6%96%87%E7%B5%84%E8%BD%89it-9bb2bb9485ca)
-  * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](https://medium.com/@cloudarchitectec/%E6%96%87%E7%B5%84%E8%BD%89%E8%81%B7%E6%BE%B3%E6%B4%B2-it-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E6%88%91%E9%9D%A0-coding-bootcamp-%E9%80%B2%E4%BA%86%E4%BA%9E%E9%A6%AC%E9%81%9C-30fef5aaa97f)
-  * [科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](https://medium.com/@cloudarchitectec/%E7%A7%91%E6%8A%80%E6%A5%AD%E9%BE%8D%E9%A0%AD-faang-%E7%9A%84%E8%96%AA%E8%B3%87%E7%B5%90%E6%A7%8B-%E4%BB%A5%E6%BE%B3%E6%B4%B2%E4%BA%9E%E9%A6%AC%E9%81%9C%E7%82%BA%E4%BE%8B-584e9c564079)
+  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
+  * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
+  * [科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
 
 

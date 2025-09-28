@@ -39,8 +39,8 @@ tags: ["澳洲生活", "科技", "AWS"]
 **延伸閱讀**
 
   * [[職場趣聞] 澳州居民就真的比較有國際觀嗎?](https://medium.com/@cloudarchitectec/職場趣聞-澳州居民就真的比較有國際觀嗎-40bc9d9b8abd)
-  * [[FAANG] 澳洲微軟員工福利大公開](https://medium.com/@cloudarchitectec/faang-澳洲微軟員工福利大公開-8c941532fb4f)
+  * [[FAANG] 澳洲微軟員工福利大公開](/posts/2023-01-28-faang-benefits/)
   * [[澳洲職場] 如何準備職場英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
-  * [[澳洲職場] 台灣人的文化衝擊 — 我的澳洲辦公室文化觀察](https://medium.com/@cloudarchitectec/澳洲職場-台灣人的文化衝擊-我的澳洲辦公室文化觀察-bd4e75445ebe)
+  * [[澳洲職場] 台灣人的文化衝擊 — 我的澳洲辦公室文化觀察](/posts/2022-12-14-aus-office/)
 
 

@@ -159,7 +159,7 @@ tags: ["旅遊", "荷蘭", "德國", "瑞士", "奧地利"]
   * [一個女生的歐洲獨旅: 2024.05.04 奧地利 薩爾斯堡 (Salzburg) — 音樂神童莫札特的故鄉](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-salzburg-hometown-of-mozart-ba80e2f36295)
   * [一個女生的歐洲獨旅: 2024.05.05 前往瑞士：茵特拉肯 (Interlaken) 韓劇愛的迫降拍攝地](https://medium.com/@cloudarchitectec/interlaken-lake-brienz-crush-landing-on-you-802fbaf14e16)
   * [一個女生的歐洲獨旅: 2024.05.06 瑞士茵特拉肯 (Interlaken) Day 2: 少女峰 (Jungfraujoch) 我來了](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-interlaken-jungfraujoch-top-of-europe-6a76934a623c)
-  * [一個女生的歐洲獨旅: 2024.05.07 瑞士茵特拉肯 (Interlaken) Day 3: 好險我昨天上了少女峰](https://medium.com/@cloudarchitectec/interlaken-day-3-supermarket-trip-ec354dc78bb0)
+  * [一個女生的歐洲獨旅: 2024.05.07 瑞士茵特拉肯 (Interlaken) Day 3: 好險我昨天上了少女峰](/posts/2024-07-13-interlaken-day-3/)
   * [一個女生的歐洲獨旅: 2024.05.08 瑞士首都伯恩 (Bern) 說走就走之旅](https://medium.com/@cloudarchitectec/swiss-capital-bern-a-city-named-after-bears-4a1fc626f826)
   * [一個女生的歐洲獨旅: 2024.05.09 歐洲獨旅的尾聲：瑞士琉森鐵力士山，終見晴天的雪山美景！](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-switzerland-mount-titlis-dd13c48b80ba)
 

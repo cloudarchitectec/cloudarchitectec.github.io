@@ -90,7 +90,6 @@ Bell Tower 滿好爬的，約五分鐘，但不爬也可以。因為其實城堡
 
 ![](images/medium-0*7Abpr4b15mBmDLsK.png.jpg)
 
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * 臉書粉絲頁(文章與中文部落格相同): <https://www.facebook.com/cloudarchitectec/>
+
 
 

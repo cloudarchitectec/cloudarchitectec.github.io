@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "AWS"]
 ---
 
-* * *
-
 ### 微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更會考證照考試？順利更新 Azure Solutions Architect Expert 證照！
 
 ![](images/medium-0*IHdurgjhEtnGcDd7.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -33,7 +31,7 @@ tags: ["職涯", "AWS"]
 如果想要了解我對雲端證照的看法，以及兩個證照系統的比較，歡迎參考我的這篇文章：
 
 [**雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析**  
- _擁有11張雲端證照的我想要來分享我對 AWS & Microsoft Azure 兩種證照體系的比較，最後則會分享我對雲端證照的看法。_medium.com](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E9%9B%B2%E7%AB%AF%E8%AD%89%E7%85%A7%E7%9C%9F%E7%9A%84%E6%9C%83%E7%82%BA%E8%81%B7%E5%A0%B4%E5%8A%A0%E5%88%86%E5%97%8E-aws-%E8%88%87-azure-%E8%AD%89%E7%85%A7%E6%AF%94%E8%BC%83-6fac635933b8)[](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E9%9B%B2%E7%AB%AF%E8%AD%89%E7%85%A7%E7%9C%9F%E7%9A%84%E6%9C%83%E7%82%BA%E8%81%B7%E5%A0%B4%E5%8A%A0%E5%88%86%E5%97%8E-aws-%E8%88%87-azure-%E8%AD%89%E7%85%A7%E6%AF%94%E8%BC%83-6fac635933b8)
+ _擁有11張雲端證照的我想要來分享我對 AWS & Microsoft Azure 兩種證照體系的比較，最後則會分享我對雲端證照的看法。_medium.com](/posts/2023-02-04-cloud-certs/)[](/posts/2023-02-04-cloud-certs/)
 
 ### 如何更新微軟 Azure 和 AWS 雲端證照
 
@@ -142,21 +140,14 @@ tags: ["職涯", "AWS"]
 
 [![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
 * * *
 
 **延伸閱讀**
 
-  * [微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8)
-  * [微軟 Azure 證照: 如何只用 40 小時準備 AZ-104 Azure Administrator Associate 證照並順利通過考試](https://medium.com/@cloudarchitectec/%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99-az-104-azure-administrator-associate-%E8%AD%89%E7%85%A7-ce4e5e16bebc)
+  * [微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
+  * [微軟 Azure 證照: 如何只用 40 小時準備 AZ-104 Azure Administrator Associate 證照並順利通過考試](/posts/2022-11-19-azure-az-104-exam/)
   * [給成功轉職軟體工程師的你的一封信](https://medium.com/@cloudarchitectec/a-letter-to-all-career-changers-8fd7a3422ec7)
   * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](https://medium.com/@cloudarchitectec/software-engineer-cloud-engineer-devops-engineer-what-do-they-do-56f3aedfe4ac)
-  * [轉職可以一轉再轉嗎？薪水是轉職最重要的考量？](https://medium.com/@cloudarchitectec/%E8%81%B7%E6%B6%AF-%E8%BD%89%E8%81%B7%E5%8F%AF%E4%BB%A5%E4%B8%80%E8%BD%89%E5%86%8D%E8%BD%89%E5%97%8E-%E8%96%AA%E6%B0%B4%E6%98%AF%E8%BD%89%E8%81%B7%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%80%83%E9%87%8F-f6e9ee6e7d85)
+  * [轉職可以一轉再轉嗎？薪水是轉職最重要的考量？](/posts/2023-06-15-career-transition-again/)
 
 

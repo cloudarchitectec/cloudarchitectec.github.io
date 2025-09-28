@@ -8,8 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "科技大廠", "福利"]
 ---
 
-* * *
-
 ### 澳洲 FAANG — 微軟員工福利大公開
 
 ![a person doing meditation](images/medium-0*TyPKjt_dMWUNDkNU.jpg)Photo by [Jared Rice](https://unsplash.com/@jareddrice?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -66,25 +64,14 @@ EAP 是一個眾多澳洲公司都會提供的計畫，如果員工有需要的�
 
 以上就是微軟的員工福利，全部加起來 (手機、stay well、stay fit、私人保險) 微軟員工一年可以獲得 $3,800澳幣/$76,000台幣的員工福利，也歡迎大家跟我分享你們的員工福利 ^0^
 
-* * *
 
-
-
-  * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
-  * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)
-  * Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com?source=about_page-------------------------------------)
-  * 臉書粉絲頁(文章與中文部落格相同): [https://www.facebook.com/cloudarchitectec/](https://www.facebook.com/cloudarchitectec/?source=about_page-------------------------------------)
-
-
-
-* * *
 
 **延伸閱讀**
 
   * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/職涯-我為什麼選擇轉職-it-產業-e0507b5c98e1)
   * [[澳洲職場] 我在澳洲所見的薪資怪象](https://medium.com/@cloudarchitectec/澳洲職場-我在澳洲所見的薪資怪象-53f8d0f713f4)
-  * [[澳洲職場] 台灣人的文化衝擊 — 我的澳洲辦公室文化觀察](https://medium.com/@cloudarchitectec/澳洲職場-台灣人的文化衝擊-我的澳洲辦公室文化觀察-bd4e75445ebe)
-  * [[FAANG] 科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](https://medium.com/@cloudarchitectec/科技業龍頭-faang-的薪資結構-以澳洲亞馬遜為例-584e9c564079)
-  * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](https://medium.com/@cloudarchitectec/澳洲微軟雲端架構師-microsoft-azure-cloud-solution-architect-面試心得-同場加映-aws-面試心得-9dff9fc59ae8)
+  * [[澳洲職場] 台灣人的文化衝擊 — 我的澳洲辦公室文化觀察](/posts/2022-12-14-aus-office/)
+  * [[FAANG] 科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
+  * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
 
 
