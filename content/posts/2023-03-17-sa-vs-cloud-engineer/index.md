@@ -101,8 +101,7 @@ Solution Architect 的日常偏向「技術銷售（technical sales）」，每�
 
 👉點擊 [<<澳洲雲端架構師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>](./2018-01-03-ec-consultation/index.md)，開啟你的職涯新篇章!
 
-📬 **不想錯過更多海外生活、澳洲職場、文組轉職工程師的精選文章？**  
-👉 按此訂閱[澳洲雲端架構師 EC 的 Medium 部落格](https://medium.com/@cloudarchitectec/subscribe)，不錯過最新文章！
+
 
 **📱 想追蹤更多？**
 

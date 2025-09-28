@@ -110,8 +110,7 @@ images: ['images/medium-0*geYGb8v4ImP3yYtt.jpg']
 
 * * *
 
-📬 **不想錯過更多海外生活、澳洲職場、文組轉職工程師的精選文章？**  
-👉 按此訂閱[澳洲雲端架構師 EC 的 Medium 部落格](https://medium.com/@cloudarchitectec/subscribe)，不錯過最新文章！
+
 
 👩‍💻 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**
 
