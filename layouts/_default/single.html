@@ -52,13 +52,16 @@
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
-    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-    {{- partial "share_icons.html" . -}}
-    {{- end }}
   </footer>
 
   <!-- DEBUG: FORCING COMMENTS TO SHOW -->
   {{- partial "comments.html" . }}
+  
+  {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+  <div style="margin-top: 2rem;">
+    {{- partial "share_icons.html" . -}}
+  </div>
+  {{- end }}
   
 </article>
 

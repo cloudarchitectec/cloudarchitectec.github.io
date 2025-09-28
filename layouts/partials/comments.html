@@ -1,5 +1,25 @@
 <!-- Comments section - forced to show for debugging -->
-<div id="giscus-comments" class="comments" style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+<style>
+  /* Giscus container styling */
+  .giscus-frame {
+    width: 100% !important;
+  }
+  
+  #giscus-comments .giscus {
+    text-align: left !important;
+  }
+  
+  /* Force left alignment on the entire comments section */
+  #giscus-comments {
+    text-align: left !important;
+  }
+  
+  #giscus-comments * {
+    text-align: left !important;
+  }
+</style>
+
+<div id="giscus-comments" class="comments giscus-reactions-left" style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border); text-align: left;">
   <script src="https://giscus.app/client.js"
         data-repo="cloudarchitectec/cloudarchitectec.github.io"
         data-repo-id="R_kgDOPv4HjQ"

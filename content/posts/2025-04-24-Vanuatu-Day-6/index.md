@@ -2,8 +2,8 @@
 title: "太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜：路上的坑坑疤疤都是我的自駕小冒險"
 date: 2025-04-24
 slug: "2025-04-24-vanuatu-day-6"
-image: "images/medium-1*9gN7BjW6V8kfcLxp5IUQPQ.jpeg.jpg"
-images: ['images/medium-1*9gN7BjW6V8kfcLxp5IUQPQ.jpeg.jpg', 'images/medium-1*GmdX6MBuVvl0vwHJYrZ8-Q.jpeg.jpg', 'images/medium-1*lnlHwkHfXOjXkzLyJNqSfw.jpeg.jpg', 'images/medium-1*WqwH1M3HkNyO82i5e8lJHQ.jpeg.jpg', 'images/medium-1*Wz0fLlOjdK83G2pOGJWJRw.jpeg.jpg', 'images/medium-1*RW7S4Qh6vKK7T7yObQVSLQ.jpeg.jpg', 'images/medium-1*CyxFH5FfHJFZk_wVWN3Ktw.jpeg.jpg', 'images/medium-1*6VdLFM8t7Ih6sGP9wOMcuw.jpeg.jpg', 'images/medium-1*sPgEowHmEOJQ3DPrpJOIdQ.jpeg.jpg', 'images/medium-1*GlH2PJMcRoV7Q6CvZr2SAA.jpeg.jpg', 'images/medium-1*9S_dI5ckO6cNaI6yiJf_lQ.jpeg.jpg', 'images/medium-1*E4uM_5d8b8M28zLqC3X6gQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+image: "images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg"
+images: ['images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg', 'images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpeg.jpg', 'images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg', 'images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg', 'images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg', 'images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg', 'images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpeg.jpg', 'images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg', 'images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg', 'images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg', 'images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpeg.jpg', 'images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpeg.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
