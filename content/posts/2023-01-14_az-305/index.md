@@ -1,9 +1,11 @@
 ---
 title: "2023.01.02 AZ-305 Microsoft Certified Azure Solutions Architect Expert 雲端證照準備&考試心得"
 date: 2023-01-14
-slug: "2023-01-14az-305"
-image: "images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg"
-images: ['images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg']
+slug: "2023-01-14-az-305"
+image: "images/medium-1*s6n8vAVx8SV0q8sjPfOzrQ.jpeg.jpg"
+images: ['images/medium-1*s6n8vAVx8SV0q8sjPfOzrQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "雲端證照"]
 ---
 
 * * *

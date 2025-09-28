@@ -4,6 +4,8 @@ date: 2023-05-11
 slug: "2023-05-11-phone-screening"
 image: "images/medium-0*VtTwo_4RcFVfiCkx.jpg"
 images: ['images/medium-0*VtTwo_4RcFVfiCkx.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["投資理財"]
+tags: ["投資理財"]
 ---
 
 * * *

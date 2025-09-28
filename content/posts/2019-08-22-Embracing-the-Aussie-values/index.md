@@ -4,6 +4,8 @@ date: 2019-08-22
 slug: "2019-08-22-embracing-the-aussie-values"
 image: "images/medium-0*xMNRe1ZzQJfNdGlr.jpg"
 images: ['images/medium-0*xMNRe1ZzQJfNdGlr.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "轉職工程師"]
 ---
 
 * * *

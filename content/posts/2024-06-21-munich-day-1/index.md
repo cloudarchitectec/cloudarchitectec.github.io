@@ -4,6 +4,8 @@ date: 2024-06-21
 slug: "2024-06-21-munich-day-1"
 image: "images/medium-1*weSmOSbr-w_a2akWZOQVcw.jpeg.jpg"
 images: ['images/medium-1*weSmOSbr-w_a2akWZOQVcw.jpeg.jpg', 'images/medium-1*6UGvwmWxSrGC4S_l6QbPWw.jpeg.jpg', 'images/medium-1*Twt_naRZU_POlmkxBbmQiw.jpeg.jpg', 'images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpeg.jpg', 'images/medium-1*6-K-Yc0e6KuHflRDNLpn0w.jpeg.jpg', 'images/medium-1*XKk5lxiilyKXRF87sHuC5g.jpeg.jpg', 'images/medium-1*PLmWB1-iDtv-E5iHMPu6FQ.jpeg.jpg', 'images/medium-1*piurj-K_PCo94LzSty-ynA.jpeg.jpg', 'images/medium-1*T6qAnQOYgSjV4tS9A7LkkA.jpeg.jpg', 'images/medium-1*c8EGVih_Twvp9wmzczPt8Q.jpeg.jpg', 'images/medium-1*fU2MDjmfGXGTfMZUK7QY3w.jpeg.jpg', 'images/medium-1*UPvLV2JFps1e7pBw6tedlg.jpeg.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png.jpg']
+categories: ["旅遊"]
+tags: ["旅遊", "德國", "慕尼黑"]
 ---
 
 * * *

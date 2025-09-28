@@ -4,6 +4,8 @@ date: 2023-06-17
 slug: "2023-06-17-devops-interview-3"
 image: "images/medium-0*tXT9M2Ald1m5anwO.jpg"
 images: ['images/medium-0*tXT9M2Ald1m5anwO.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "面試"]
 ---
 
 * * *

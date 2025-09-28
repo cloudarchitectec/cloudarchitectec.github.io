@@ -2,8 +2,10 @@
 title: "八小時速成攻略！我如何通過微軟 AZ-500 Azure Security Engineer Associate 資訊安全工程師認證｜資安新手也能上手"
 date: 2023-07-02
 slug: "2023-07-02-az-500"
-image: "images/medium-0*L92NknyMUKwSh39M.jpg"
-images: ['images/medium-0*L92NknyMUKwSh39M.jpg', 'images/medium-1*JDM25uySjROCzXf6MNv1og.png.jpg', 'images/medium-1*AsafZNOn3JAvxl3wS05oPw.png.jpg']
+image: "images/medium-0*f5zIapBhXCv_SWJ8.jpg"
+images: ['images/medium-0*f5zIapBhXCv_SWJ8.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "雲端證照"]
 ---
 
 * * *

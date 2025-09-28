@@ -4,6 +4,8 @@ date: 2023-05-08
 slug: "2023-05-08-carnival-splendor-intro"
 image: "images/medium-1*HavaLtcputghs8Qb_HQGIg.png.jpg"
 images: ['images/medium-1*HavaLtcputghs8Qb_HQGIg.png.jpg', 'images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png.jpg']
+categories: ["投資理財"]
+tags: ["投資理財"]
 ---
 
 * * *

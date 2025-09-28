@@ -4,6 +4,8 @@ date: 2023-07-15
 slug: "2023-07-15-reader-qa-"
 image: "images/medium-0*RySstG_VUOOHV5vy.jpg"
 images: ['images/medium-0*RySstG_VUOOHV5vy.jpg', 'images/medium-1*5f8kHHMwWfpP4SFFN90_iQ.png.jpg', 'images/medium-1*kEnaj-It-cEo-xN8ue-Yxw.png.jpg', 'images/medium-1*RaRR1hmH9Go9Cm9xj0qYag.png.jpg']
+categories: ["澳洲生活"]
+tags: ["澳洲生活", "讀者問答"]
 ---
 
 * * *

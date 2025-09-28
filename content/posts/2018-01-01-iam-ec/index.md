@@ -4,6 +4,8 @@ date: 2018-01-01
 slug: "2018-01-01-iam-ec"
 image: "images/medium-0*s8lY75qUNwwZVglG.jpg"
 images: ['images/medium-0*s8lY75qUNwwZVglG.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["澳洲生活"]
+tags: ["澳洲生活"]
 ---
 
 * * *

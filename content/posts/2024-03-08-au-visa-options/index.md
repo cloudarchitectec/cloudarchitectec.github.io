@@ -4,6 +4,8 @@ date: 2024-03-08
 slug: "2024-03-08-au-visa-options"
 image: "images/medium-0*w2i9_BUm90zNlp3e.jpg"
 images: ['images/medium-0*w2i9_BUm90zNlp3e.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["投資理財"]
+tags: ["投資理財"]
 ---
 
 * * *

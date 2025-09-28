@@ -1,8 +1,8 @@
 # Cloud Architect EC
 
-[![Deploy Hugo site to Pages](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml)
+[![Site Deployment Status](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml)
 
-> 澳洲雲端架構師 EC 的技術部落格 | Cloud Architect EC's Tech Blog
+> 澳洲雲端架構師 EC 的部落格 | Cloud Architect EC's Blog
 
 🌐 **Live Site**: [https://cloudarchitectec.github.io](https://cloudarchitectec.github.io)
 
@@ -36,51 +36,6 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - 📋 Code copy buttons
 - 🏷️ Tag and category system
 - 🌐 Multilingual support
-
-## Quick Start
-
-### Prerequisites
-- Hugo Extended v0.135.0+
-- Git
-- Node.js (for dependencies)
-
-### Local Development
-```bash
-# Clone the repository
-git clone https://github.com/cloudarchitectec/cloudarchitectec.github.io.git
-cd cloudarchitectec.github.io
-
-# Initialize theme submodule
-git submodule update --init --recursive
-
-# Install dependencies
-npm install
-
-# Start development server
-hugo server --bind 0.0.0.0 --port 1313
-```
-
-Visit `http://localhost:1313` to view the site locally.
-
-## Deployment
-
-The site automatically deploys to GitHub Pages when changes are pushed to the `main` branch.
-
-- **Deployment**: Automatic via GitHub Actions
-- **Trigger**: Push to `main` branch
-- **Build Time**: ~2-3 minutes
-- **Live URL**: https://cloudarchitectec.github.io
-
-## Project Structure
-
-```
-├── content/posts/          # Blog post content
-├── static/                 # Static assets (images, favicons)
-├── themes/PaperMod/        # Hugo theme (submodule)
-├── .github/workflows/      # GitHub Actions
-├── hugo.toml              # Hugo configuration
-└── package.json           # Node.js dependencies
-```
 
 ## Contributing
 

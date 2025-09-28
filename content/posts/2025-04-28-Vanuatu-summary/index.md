@@ -4,6 +4,8 @@ date: 2025-04-28
 slug: "2025-04-28-vanuatu-summary"
 image: "images/medium-0*1yEMcLGX3TExcBjX.jpg"
 images: ['images/medium-0*1yEMcLGX3TExcBjX.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["旅遊"]
+tags: ["旅遊", "萬那杜"]
 ---
 
 * * *

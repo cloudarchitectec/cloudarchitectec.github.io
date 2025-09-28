@@ -4,6 +4,8 @@ date: 2022-12-03
 slug: "2022-12-03-bootcamp-to-aws"
 image: "images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg"
 images: ['images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg']
+categories: ["職涯"]
+tags: ["職涯", "轉職工程師", "海外職場", "科技大廠"]
 ---
 
 * * *

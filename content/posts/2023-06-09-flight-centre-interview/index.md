@@ -4,6 +4,8 @@ date: 2023-06-09
 slug: "2023-06-09-flight-centre-interview"
 image: "images/medium-0*nKEd05l3NF0Z26i8.jpg"
 images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 ---
 
 * * *

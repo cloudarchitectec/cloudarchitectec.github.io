@@ -4,6 +4,8 @@ date: 2023-06-03
 slug: "2023-06-03-ms-performance-review"
 image: "images/medium-0*56iblj35IDs0Ee1S.jpg"
 images: ['images/medium-0*56iblj35IDs0Ee1S.jpg']
+categories: ["職涯"]
+tags: ["職涯", "微軟", "績效評估"]
 ---
 
 * * *

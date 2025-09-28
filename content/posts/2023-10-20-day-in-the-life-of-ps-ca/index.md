@@ -4,6 +4,8 @@ date: 2023-10-20
 slug: "2023-10-20-day-in-the-life-of-ps-ca"
 image: "images/medium-0*0hIFTi95lfBkzN0D.jpg"
 images: ['images/medium-0*0hIFTi95lfBkzN0D.jpg']
+categories: ["職涯"]
+tags: ["職涯", "AWS", "雲端架構師"]
 ---
 
 * * *

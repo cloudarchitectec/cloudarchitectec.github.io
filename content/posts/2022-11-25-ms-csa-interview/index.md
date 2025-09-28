@@ -4,6 +4,8 @@ date: 2022-11-25
 slug: "2022-11-25-ms-csa-interview"
 image: "images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg"
 images: ['images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg']
+categories: ["職涯"]
+tags: ["職涯", "面試"]
 ---
 
 * * *

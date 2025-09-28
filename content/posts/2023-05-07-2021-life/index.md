@@ -4,6 +4,8 @@ date: 2023-05-07
 slug: "2023-05-07-2021-life"
 image: "images/medium-0*TadHtZ-lzReaiMZg.jpg"
 images: ['images/medium-0*TadHtZ-lzReaiMZg.jpg']
+categories: ["澳洲生活"]
+tags: ["澳洲生活", "年度回顧"]
 ---
 
 * * *

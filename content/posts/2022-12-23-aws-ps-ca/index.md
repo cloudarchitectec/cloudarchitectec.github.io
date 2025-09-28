@@ -4,6 +4,8 @@ date: 2022-12-23
 slug: "2022-12-23-aws-ps-ca"
 image: "images/medium-0*SeJpdD8zq08awCIa.jpg"
 images: ['images/medium-0*SeJpdD8zq08awCIa.jpg']
+categories: ["職涯"]
+tags: ["職涯", "AWS"]
 ---
 
 * * *

@@ -4,6 +4,8 @@ date: 2023-06-17
 slug: "2023-06-17-devops-interview-1"
 image: "images/medium-0*QVp3aout5pRymdfN.jpg"
 images: ['images/medium-0*QVp3aout5pRymdfN.jpg', 'images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 ---
 
 * * *

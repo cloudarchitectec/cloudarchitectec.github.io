@@ -4,6 +4,8 @@ date: 2023-12-15
 slug: "2023-12-15tech-connections"
 image: "images/medium-0*M-Nsha3Kr5GQFhi_.jpg"
 images: ['images/medium-0*M-Nsha3Kr5GQFhi_.jpg', 'images/medium-1*cUxo55MxD-zjIxzSzIHw8Q.png.jpg', 'images/medium-1*Mf2_XB6J4I6s3JQg-WUjRA.png.jpg', 'images/medium-1*Tas7j8ZA1GVKhLmMkeUUKw.png.jpg', 'images/medium-1*vNUhERllI0LNMPp4aa6hFQ.png.jpg', 'images/medium-1*sFJD3jQZURveaRmypOKonQ.png.jpg', 'images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png.jpg', 'images/medium-1*9jJ12WPnePR-vuJ_IF3HTg.png.jpg', 'images/medium-1*WnBcHvtXznF5SCPBr-wFrA.png.jpg', 'images/medium-1*Ts4-MJD68Kw2BzNl2z11lQ.png.jpg', 'images/medium-0*TozX87zgUY3ia-IV.jpg.jpg', 'images/medium-1*owy9aRx6zJK_mHlUZiVlsA.png.jpg', 'images/medium-1*SF8Npxo4g2o6puU29vjyNQ.png.jpg']
+categories: ["投資理財"]
+tags: ["投資理財"]
 ---
 
 * * *

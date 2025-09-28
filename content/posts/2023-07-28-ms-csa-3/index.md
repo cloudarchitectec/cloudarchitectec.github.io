@@ -4,6 +4,8 @@ date: 2023-07-28
 slug: "2023-07-28-ms-csa-3"
 image: "images/medium-0*XTejTjV9ZtCU27LU.jpg"
 images: ['images/medium-0*XTejTjV9ZtCU27LU.jpg', 'images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg', 'images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg', 'images/medium-0*S01TqTt4irw1xdCl.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "微軟", "雲端架構師"]
 ---
 
 * * *

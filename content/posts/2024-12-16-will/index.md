@@ -4,6 +4,8 @@ date: 2024-12-16
 slug: "2024-12-16-will"
 image: "images/medium-0*E__KYju_lVrQDjj6.jpg"
 images: ['images/medium-0*E__KYju_lVrQDjj6.jpg', 'images/medium-1*sAkqF--a_kKj6Od1HW-Lyg.png.jpg', 'images/medium-1*V7gvWqb2-VbwTCRswWCzbQ.png.jpg', 'images/medium-1*FOBkY0d_lhvkB8xMehVwRA.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["投資理財"]
+tags: ["投資理財", "法律", "遺囑"]
 ---
 
 * * *

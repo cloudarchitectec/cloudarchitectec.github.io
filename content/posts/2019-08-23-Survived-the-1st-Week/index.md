@@ -4,6 +4,8 @@ date: 2019-08-23
 slug: "2019-08-23-survived-the-1st-week"
 image: "images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg"
 images: ['images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "轉職工程師"]
 ---
 
 * * *

@@ -4,6 +4,8 @@ date: 2025-07-11
 slug: "2025-07-11-why-coding-bootcamp"
 image: "images/medium-0*q2epsdGOAZx-wOF5.jpg"
 images: ['images/medium-0*q2epsdGOAZx-wOF5.jpg', 'images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "程式訓練營"]
 ---
 
 * * *

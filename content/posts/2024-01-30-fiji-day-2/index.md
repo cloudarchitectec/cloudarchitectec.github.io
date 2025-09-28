@@ -1,9 +1,11 @@
 ---
-title: "2022.10.11 斐濟自助旅遊 Day 2: Nadi市區一日遊"
+title: "2022.10.11 斐濟自助旅遊 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-2"
-image: "images/medium-0*jIl7H3ZOzOzoPv9T.jpg"
-images: ['images/medium-0*jIl7H3ZOzOzoPv9T.jpg', 'images/medium-1*lQQDZ9d75S-w1F47tWt-Zw.jpeg.jpg', 'images/medium-1*4Ar0XAYW7or1rjElNGF78g.jpeg.jpg', 'images/medium-1*OaA-O_K5Enslu7bk6qFmvw.jpeg.jpg', 'images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpeg.jpg', 'images/medium-1*maKJl591iSb1XH8bd3q3Aw.jpeg.jpg', 'images/medium-1*EWueicjjVL2iUQT_V-qrJg.jpeg.jpg', 'images/medium-1*68-6whc9cjMou1308Lj0JQ.jpeg.jpg', 'images/medium-1*GwRTJPhtv1cu-CI1tkpQmQ.jpeg.jpg', 'images/medium-1*pR_hCUL162C3Qx7wGHTGFw.jpeg.jpg', 'images/medium-1*ME6HFCkpu4PTV4WcvrjqqA.jpeg.jpg', 'images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpeg.jpg', 'images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpeg.jpg']
+image: "images/medium-0*l3LV2TF7P1hOBzev.jpg"
+images: ['images/medium-0*l3LV2TF7P1hOBzev.jpg', 'images/medium-0*I5qZPYlzSGFFgKJv.jpg', 'images/medium-0*gO_w8f_YpW-CYSM9.jpg', 'images/medium-0*hWzrZ9PNJhgKDdkD.jpg', 'images/medium-0*ywcmkYZmVOoC-HxD.jpg', 'images/medium-0*0HUcEGG2hPgFyVk_.jpg', 'images/medium-0*aGvVT5w4zxTxUTKA.jpg', 'images/medium-0*Z9C90mwLhpFgXvGO.jpg', 'images/medium-0*VlYXLhRlQQe9zKxc.jpg', 'images/medium-0*oInmQQhczEsrBjk8.jpg', 'images/medium-0*GrHgUgjEkJHlZOFl.jpg', 'images/medium-0*LUtdIpMOEm-2w0nT.jpg', 'images/medium-0*8W8QHfCG9Ao8r1sF.jpg', 'images/medium-0*3Zl-ZU97-ZYTj1R-.jpg', 'images/medium-0*jZGCY5xDq5Zm8Fg9.jpg', 'images/medium-0*yxT_mVGq-vqMEyAO.jpg', 'images/medium-0*CKbajY0VebcgCJq6.jpg', 'images/medium-0*KIiT7hNqObJUUQLY.jpg', 'images/medium-0*MlZ-F3WGJBbYxevP.jpg', 'images/medium-0*nDR8qyYdwGiEJJ5P.jpg', 'images/medium-0*G2zVAA8SjGYyLCd2.jpg', 'images/medium-0*UYKk90YFKelkz7aZ.jpg', 'images/medium-0*UF6f6vHoX6iIlQ8b.jpg', 'images/medium-0*6KQUJ5CZm-MJiHjV.jpg', 'images/medium-0*x0LG5Iu1A_Xyk3qE.jpg', 'images/medium-0*bgF-aBz85G4XdPWL.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["旅遊"]
+tags: ["旅遊", "斐濟"]
 ---
 
 * * *

@@ -2,8 +2,10 @@
 title: "零基礎轉職澳洲工程師: 2019.08.28 Falling Behind"
 date: 2019-08-28
 slug: "2019-08-28-falling-behind"
-image: "images/medium-0*ATDvS5yWVyL3Z8An.jpg"
-images: ['images/medium-0*ATDvS5yWVyL3Z8An.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+image: "images/medium-0*Yd-MaNiN-djgKMpw.jpg"
+images: ['images/medium-0*Yd-MaNiN-djgKMpw.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "轉職工程師"]
 ---
 
 * * *

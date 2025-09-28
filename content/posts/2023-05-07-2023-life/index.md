@@ -4,6 +4,8 @@ date: 2023-05-07
 slug: "2023-05-07-2023-life"
 image: "images/medium-0*mIiAi16mYu9BVV99.jpg"
 images: ['images/medium-0*mIiAi16mYu9BVV99.jpg']
+categories: ["澳洲生活"]
+tags: ["澳洲生活"]
 ---
 
 * * *

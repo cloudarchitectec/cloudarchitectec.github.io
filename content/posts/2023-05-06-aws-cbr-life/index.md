@@ -4,6 +4,8 @@ date: 2023-05-06
 slug: "2023-05-06-aws-cbr-life"
 image: "images/medium-0*pNETejXBiiEqjz9b.jpg"
 images: ['images/medium-0*pNETejXBiiEqjz9b.jpg']
+categories: ["澳洲生活"]
+tags: ["澳洲生活", "坎培拉", "AWS", "職涯"]
 ---
 
 * * *

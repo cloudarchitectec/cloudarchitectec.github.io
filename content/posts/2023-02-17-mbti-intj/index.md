@@ -4,6 +4,8 @@ date: 2023-02-17
 slug: "2023-02-17-mbti-intj"
 image: "images/medium-0*wIdRbaxvg2N21DG4.jpg"
 images: ['images/medium-0*wIdRbaxvg2N21DG4.jpg']
+categories: ["澳洲生活"]
+tags: ["澳洲生活"]
 ---
 
 * * *

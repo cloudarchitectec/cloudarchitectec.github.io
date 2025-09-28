@@ -4,6 +4,8 @@ date: 2025-04-25
 slug: "2025-04-25-vanuatu-day-7"
 image: "images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg"
 images: ['images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg', 'images/medium-1*I3pFjSCcDgwmfgGXGGPi5Q.jpeg.jpg', 'images/medium-1*0hhYOSy5FS70Rq729wegaQ.jpeg.jpg', 'images/medium-1*VHN9OVLrSbv8uuJ8RbwUDw.jpeg.jpg', 'images/medium-1*xG_1Q0HEgU3ByPwlXdZIxw.jpeg.jpg', 'images/medium-1*F2OyrZ4d2NNVHwmnbF140Q.jpeg.jpg', 'images/medium-1*-Sp5itPOK0GWT9bIqOTnXg.jpeg.jpg', 'images/medium-1*EmJ1UseG69n-QxK0Iv_Ovw.jpeg.jpg', 'images/medium-1*DYTggfGKwgYSao676193lw.jpeg.jpg', 'images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpeg.jpg', 'images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpeg.jpg', 'images/medium-1*x1YnJLPQqgp-BjkNxGlbUg.jpeg.jpg', 'images/medium-1*7gp9-doDFPnI5gXrkj_3Ag.jpeg.jpg', 'images/medium-1*5plrVldSDXkcD0KFNEHhQA.jpeg.jpg', 'images/medium-1*kMooDl696lTmXKONkmrNeQ.jpeg.jpg', 'images/medium-1*OCHRIZN3ZF7F5I5fXbDDOQ.jpeg.jpg', 'images/medium-1*ocw7PIv6cwfJsO7sEYxybg.jpeg.jpg', 'images/medium-1*8A9yv7rX3AZ9MbT2N-W6dA.jpeg.jpg', 'images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpeg.jpg', 'images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["旅遊"]
+tags: ["旅遊", "萬那杜"]
 ---
 
 * * *

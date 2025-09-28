@@ -4,6 +4,8 @@ date: 2023-01-21
 slug: "2023-01-21-eng-interview"
 image: "images/medium-0*3NXkWf7Nc8zqLlyb.jpg"
 images: ['images/medium-0*3NXkWf7Nc8zqLlyb.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "面試", "求職", "澳洲生活"]
 ---
 
 * * *

@@ -4,6 +4,8 @@ date: 2023-02-24
 slug: "2023-02-24-ms-week1"
 image: "images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg"
 images: ['images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg', 'images/medium-1*aZU2WYmUy-OhffJ6aaMbcg.jpeg.jpg', 'images/medium-1*lHetegP84aqFpikFtTacMA.jpeg.jpg']
+categories: ["職涯"]
+tags: ["職涯", "微軟"]
 ---
 
 * * *

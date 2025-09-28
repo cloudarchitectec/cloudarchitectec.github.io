@@ -4,6 +4,8 @@ date: 2023-01-28
 slug: "2023-01-28-faang-benefits"
 image: "images/medium-0*TyPKjt_dMWUNDkNU.jpg"
 images: ['images/medium-0*TyPKjt_dMWUNDkNU.jpg']
+categories: ["職涯"]
+tags: ["職涯", "科技大廠", "福利"]
 ---
 
 * * *

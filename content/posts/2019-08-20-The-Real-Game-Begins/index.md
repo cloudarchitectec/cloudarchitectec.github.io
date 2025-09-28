@@ -4,6 +4,8 @@ date: 2019-08-20
 slug: "2019-08-20-the-real-game-begins"
 image: "images/medium-0*tccay5yVUk7f1Hm7.jpg"
 images: ['images/medium-0*tccay5yVUk7f1Hm7.jpg', 'images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpeg.jpg', 'images/medium-1*NyILRsUnysMY9zenjmapLg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "轉職工程師"]
 ---
 
 * * *

@@ -4,6 +4,8 @@ date: 2023-07-28
 slug: "2023-07-28-ms-csa-5"
 image: "images/medium-0*6V_gkuucIp6LgEkS.jpg"
 images: ['images/medium-0*6V_gkuucIp6LgEkS.jpg', 'images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png.jpg', 'images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png.jpg', 'images/medium-1*GESZpUU1YXukmjSgmnKlRw.png.jpg']
+categories: ["職涯"]
+tags: ["職涯", "微軟"]
 ---
 
 * * *

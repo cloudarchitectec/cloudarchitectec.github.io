@@ -1,5 +1,12 @@
 ---
-title: "[旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4"
+title: "[旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4"
+date: 2023-06-02
+slug: "2023-06-02-carnival-splendor-day-9"
+image: "images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpeg.jpg"
+images: ['images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpeg.jpg', 'images/medium-1*7dA119bDuhY51ZgW59kRmQ.jpeg.jpg', 'images/medium-1*I4QUA8AsXCCtciQSXrFmlw.jpeg.jpg', 'images/medium-1*ej-cYzNqk3mrWA1JDOU6LQ.jpeg.jpg', 'images/medium-1*1nTZai3sJ-Qvf9GDDBXRsw.jpeg.jpg', 'images/medium-1*IUcbnRSL7LJNKoat0HAZIw.png.jpg', 'images/medium-1*3b_pB1QTl-KaS_9MJP_q_g.jpeg.jpg', 'images/medium-1*JqT5WPUQEGVissH1C4CfOQ.jpeg.jpg', 'images/medium-1*TRJNFtu780oLUNRE1zPnIg.jpeg.jpg', 'images/medium-1*Izi7einASV_nJaYL51YTxw.jpeg.jpg']
+categories: ["旅遊"]
+tags: ["旅遊", "郵輪"]
+---le: "[旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-9"
 image: "images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpeg.jpg"

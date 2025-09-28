@@ -1,5 +1,12 @@
 ---
-title: "[職場] 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder"
+title: "[職場] 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder"
+date: 2023-03-03
+slug: "2023-03-03-awesome-builder"
+image: "images/medium-0*U0dfYsPiq7mCwebZ.jpg"
+images: ['images/medium-0*U0dfYsPiq7mCwebZ.jpg']
+categories: ["職涯"]
+tags: ["職涯", "AWS", "雲端架構師"]
+---le: "[職場] 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder"
 date: 2023-03-03
 slug: "2023-03-03-awesome-builder"
 image: "images/medium-0*U0dfYsPiq7mCwebZ.jpg"

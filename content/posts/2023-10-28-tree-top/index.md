@@ -4,6 +4,8 @@ date: 2023-10-28
 slug: "2023-10-28-tree-top"
 image: "images/medium-0*tPI7MVQyyD5Q4TRi.jpg"
 images: ['images/medium-0*tPI7MVQyyD5Q4TRi.jpg', 'images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpeg.jpg', 'images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpeg.jpg', 'images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpeg.jpg', 'images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpeg.jpg', 'images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpeg.jpg', 'images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpeg.jpg', 'images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpeg.jpg', 'images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+categories: ["澳洲生活"]
+tags: ["澳洲生活"]
 ---
 
 * * *
