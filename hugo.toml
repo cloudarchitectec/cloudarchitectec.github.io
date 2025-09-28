@@ -4,6 +4,14 @@ defaultContentLanguage = "zh-Hant"
 title = "Cloud Architect EC"
 theme = "congo"
 
+# Suppress raw HTML warnings
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.zh-hant]
     languageName = "繁體中文"

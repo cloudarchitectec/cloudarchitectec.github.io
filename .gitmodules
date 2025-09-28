@@ -1,2 +1,3 @@
-[submodule "cloudarchitectec/themes/congo"]
-	path = cloudarchitectec/themes/congo
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
