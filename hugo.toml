@@ -55,11 +55,18 @@ enableEmoji = true
   # profile-mode
   [params.profileMode]
     enabled = false
+  
+  [[params.socialIcons]]
+    name = "email"
+    url = "cloudarchitectec@gmail.com"
 
-  # home-info mode
-  [params.homeInfoParams]
-    Title = "歡迎來到 Cloud Architect EC 的技術部落格"
-    Content = "分享雲端架構、AWS、Azure 以及技術職涯的心得與經驗"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/elliettchen/"
+
+  [[params.socialIcons]]
+    name = "threads"
+    url = "https://www.threads.com/@cloud_architect_ec"
 
   [[params.socialIcons]]
     name = "github"
@@ -72,8 +79,8 @@ enableEmoji = true
     weight = 1
     contentDir = "content"
     [languages.zh-hant.params.homeInfoParams]
-      Title = "歡迎來到 Cloud Architect EC 的技術部落格"
-      Content = "分享雲端架構、AWS、Azure 以及技術職涯的心得與經驗"
+      Title = "歡迎來到澳洲雲端架構師 EC 部落格"
+      Content = "旅澳多年的台灣女生，從打工度假到移民澳洲，從文組到轉職成工程師 (成功入職 Amazon & 微軟)。旅行過 22個國家，致力於生活中的各式體驗。希望跟大家分享我對澳洲生活、職場、文化、旅行的觀察筆記。點此預約[<<澳洲雲端架構師 EC 職涯諮詢服務>>](https://forms.gle/Zuro8YryCN5hH9Gk9)"
     [[languages.zh-hant.menu.main]]
       name = "文章"
       url = "/posts"
@@ -85,27 +92,6 @@ enableEmoji = true
     [[languages.zh-hant.menu.main]]
       name = "分類"
       url = "/categories"
-      weight = 30
-
-  [languages.en]
-    languageName = "English"
-    title = "Cloud Architect EC"
-    weight = 2
-    contentDir = "content"
-    [languages.en.params.homeInfoParams]
-      Title = "Welcome to Cloud Architect EC's Tech Blog"
-      Content = "Sharing insights on cloud architecture, AWS, Azure, and tech career experiences"
-    [[languages.en.menu.main]]
-      name = "Posts"
-      url = "/posts"
-      weight = 10
-    [[languages.en.menu.main]]
-      name = "Tags"  
-      url = "/tags"
-      weight = 20
-    [[languages.en.menu.main]]
-      name = "Categories"
-      url = "/categories" 
       weight = 30
 
 [markup]

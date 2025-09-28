@@ -175,7 +175,7 @@ images: ['images/medium-0*tgP5H0td-4BCpX4d.jpg']
 
 👩‍💻 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**
 
-👉點擊 [<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>](https://medium.com/@cloudarchitectec/career-consultation-services-943c23bea3e7)，開啟你的職涯新篇章!
+👉點擊 [<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>](./2018-01-03-ec-consultation/index.md)，開啟你的職涯新篇章!
 
 **📱 想追蹤更多？**
 
