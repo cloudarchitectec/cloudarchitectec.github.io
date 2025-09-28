@@ -2,14 +2,11 @@
 name: Deploy Hugo site to Pages
 
 on:
-  # Runs on pushes targeting dev and main branches
-  push:
-    branches:
-      - main
-      - dev
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  # push:            #TODO enable once development is done
+  #   branches:
+  #     - main
+
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -33,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.128.0
+      HUGO_VERSION: 0.135.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -46,26 +43,32 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Debug submodule status
+      - name: Update submodules
         run: |
-          echo "Checking submodule status..."
-          git submodule status
-          echo "Checking theme directory..."
-          ls -la themes/
-          echo "Checking Congo theme files..."
-          ls -la themes/congo/ || echo "Congo directory not found"
-          echo "Checking for layouts..."
-          ls -la themes/congo/layouts/ || echo "Layouts directory not found"
-      - name: Force update submodules
-        run: |
+          git submodule sync --recursive
           git submodule update --init --recursive --force
-          echo "After force update:"
+          echo "Submodule status after update:"
           git submodule status
+          echo "Verifying Congo theme files:"
+          ls -la themes/congo/layouts/_partials/functions/ || echo "Functions directory not found"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Verify theme installation
+        run: |
+          echo "Verifying Congo theme is properly installed..."
+          if [ ! -f "themes/congo/theme.toml" ]; then
+            echo "ERROR: Congo theme not found!"
+            exit 1
+          fi
+          echo "✅ Congo theme found"
+          if [ ! -f "themes/congo/layouts/_partials/functions/warnings.html" ]; then
+            echo "ERROR: Required theme partial not found!"
+            exit 1
+          fi
+          echo "✅ Required theme partials found"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
