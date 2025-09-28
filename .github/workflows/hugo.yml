@@ -3,10 +3,9 @@ name: Deploy Hugo site to Pages
 
 on:
   workflow_dispatch:
-  # push:            #TODO enable once development is done
-  #   branches:
-  #     - main
-
+  push:
+    branches:
+      - main
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -45,12 +44,28 @@ jobs:
           fetch-depth: 0
       - name: Update submodules
         run: |
+          echo "Initial submodule status:"
+          git submodule status || echo "No submodules found"
+          
+          echo "Syncing and updating submodules..."
           git submodule sync --recursive
           git submodule update --init --recursive --force
-          echo "Submodule status after update:"
+          
+          echo "Final submodule status:"
           git submodule status
-          echo "Verifying Congo theme files:"
+          
+          echo "Checking themes directory structure:"
+          ls -la themes/ || echo "Themes directory not found"
+          ls -la themes/congo/ || echo "Congo directory not found"
+          ls -la themes/congo/layouts/ || echo "Layouts directory not found"
+          ls -la themes/congo/layouts/_partials/ || echo "Partials directory not found"
           ls -la themes/congo/layouts/_partials/functions/ || echo "Functions directory not found"
+          
+          # Verify specific critical files
+          echo "Checking for critical theme files:"
+          [ -f "themes/congo/theme.toml" ] && echo "✅ theme.toml found" || echo "❌ theme.toml missing"
+          [ -f "themes/congo/layouts/baseof.html" ] && echo "✅ baseof.html found" || echo "❌ baseof.html missing"
+          [ -f "themes/congo/layouts/_partials/functions/warnings.html" ] && echo "✅ warnings.html found" || echo "❌ warnings.html missing"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -58,17 +73,47 @@ jobs:
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Verify theme installation
         run: |
+          echo "=== THEME VERIFICATION ==="
           echo "Verifying Congo theme is properly installed..."
+          
           if [ ! -f "themes/congo/theme.toml" ]; then
-            echo "ERROR: Congo theme not found!"
+            echo "❌ ERROR: Congo theme.toml not found!"
+            echo "Available files in themes/congo/:"
+            ls -la themes/congo/ || echo "Congo directory completely missing"
             exit 1
           fi
-          echo "✅ Congo theme found"
+          echo "✅ Congo theme.toml found"
+          
           if [ ! -f "themes/congo/layouts/_partials/functions/warnings.html" ]; then
-            echo "ERROR: Required theme partial not found!"
+            echo "❌ ERROR: Required theme partial warnings.html not found!"
+            echo "Available files in functions directory:"
+            ls -la themes/congo/layouts/_partials/functions/ || echo "Functions directory missing"
+            echo "Available partials:"
+            find themes/congo/layouts/_partials -name "*.html" || echo "No partials found"
             exit 1
           fi
           echo "✅ Required theme partials found"
+          
+          # Test if Hugo can see the theme
+          echo "Testing Hugo theme detection..."
+          hugo list all --quiet > /dev/null 2>&1 || {
+            echo "❌ ERROR: Hugo cannot properly detect the theme"
+            hugo version
+            exit 1
+          }
+          echo "✅ Hugo can detect the theme properly"
+          echo "=== THEME VERIFICATION COMPLETE ==="
+      - name: Pre-build verification
+        run: |
+          echo "=== FINAL PRE-BUILD CHECK ==="
+          echo "Working directory: $(pwd)"
+          echo "Hugo version: $(hugo version)"
+          echo "Theme configuration in hugo.toml:"
+          grep -A 5 -B 5 "theme" hugo.toml || echo "No theme config found"
+          echo "Final check - critical files exist:"
+          [ -f "themes/congo/layouts/_partials/functions/warnings.html" ] && echo "✅ warnings.html still present" || echo "❌ warnings.html disappeared!"
+          [ -f "themes/congo/layouts/baseof.html" ] && echo "✅ baseof.html present" || echo "❌ baseof.html missing!"
+          echo "=== STARTING HUGO BUILD ==="
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
