@@ -49,11 +49,6 @@ This is a personal blog repository. While contributions are not expected, feel f
 Content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Code is licensed under [MIT License](https://opensource.org/licenses/MIT).
 
-## Connect
-
-- 🌐 Blog: [cloudarchitectec.github.io](https://cloudarchitectec.github.io)
-- 💼 GitHub: [@cloudarchitectec](https://github.com/cloudarchitectec)
-
 ---
 
 *Built with ❤️ using Hugo and PaperMod*
