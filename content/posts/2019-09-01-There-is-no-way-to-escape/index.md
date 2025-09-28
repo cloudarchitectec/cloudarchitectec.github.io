@@ -16,8 +16,6 @@ tags: ["職涯", "轉職工程師"]
 
 ![](images/medium-0*Ajqd_LT2PTta4eAV.jpg)Photo by [EXPANALOG](https://unsplash.com/@diogo_ferrer?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/5d1826f8c484?source=friends_link&sk=b0612443e7c50f8ac88f5f7a26d790e8)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 最近兩天上的課程都偏軟實力，而不是寫程式的硬實力，上週五我們學了怎麼用 git 和 GitHub，今天我們學了專案管理。

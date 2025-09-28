@@ -169,16 +169,7 @@
     
     {{- if (ne (.Param "hideSummary") true) }}
     <div class="post-summary">
-      {{- if .Params.description }}
         {{ .Params.description | plainify | htmlUnescape }}
-      {{- else }}
-        {{- $summary := .Summary | plainify | htmlUnescape }}
-        {{- $summary = replace $summary "非 Medium 付費會員，" "" }}
-        {{- $summary = replace $summary "！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！" "" }}
-        {{- $summary = replaceRE "請點此免費閱讀這篇文章[^！]*！" "" $summary }}
-        {{- $summary = replaceRE "^[*\\s-]+" "" $summary }}
-        {{- $summary = trim $summary " \n\r\t*-" }}
-        {{ $summary }}{{ if .Truncated }}...{{ end }}
       {{- end }}
     </div>
     {{- end }}

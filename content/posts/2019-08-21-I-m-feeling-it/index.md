@@ -23,8 +23,6 @@ images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_
 
 今天真心是上課超級好玩的一天!!!!!!!!!!!!!!!!
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/9ae529625645?source=friends_link&sk=cd68a4a6dc636ebec53ed946e2c11a78)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 蘇的裝備

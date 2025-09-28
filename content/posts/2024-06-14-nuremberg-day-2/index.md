@@ -14,10 +14,6 @@ tags: ["旅遊", "德國"]
 
 ![](images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpeg.jpg)在紐倫堡 airbnb 房間裡發現一本關於澳洲人的書，太有趣XD
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/ee0dffc37b65?source=friends_link&sk=44b71988a6d0a05b76a7ac4509c5f16d)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 5 月 1 號 是德國的勞動節，絕大多數的商店/超市都不會營業，好險幾個主要景點還是會持續開放！
 
 今天的主要行程是要來了解紐倫堡在近代史中的歷史意義！

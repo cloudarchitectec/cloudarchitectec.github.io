@@ -14,10 +14,6 @@ tags: ["旅遊", "荷蘭", "阿姆斯特丹"]
 
 ![](images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg)阿姆斯特丹火車站
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/702447571dc5?source=friends_link&sk=2adcb1ec904fd7b14aacff142e7132ff)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 結束了香港轉機一日行，我整個累到爆炸！
 
 加上國泰的 Kosher 飛機餐難吃到爆炸，所以我選擇在香港機場飽餐一頓，然後上機就直接跟空姐說晚餐不用叫我了。

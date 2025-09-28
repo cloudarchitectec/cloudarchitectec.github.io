@@ -16,8 +16,6 @@ tags: ["職涯", "轉職工程師"]
 
 果然經過了驚險刺激(好玩有趣?)的第一週之後，我覺得我好像已經沒什麼東西可以寫了XD
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/413fff051488?source=friends_link&sk=a2668f92c172dd615d8f9b2126fe6dfb)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 勵志星期一

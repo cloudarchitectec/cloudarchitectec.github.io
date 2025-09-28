@@ -14,8 +14,6 @@ tags: ["職涯", "轉職工程師"]
 
 ![](images/medium-0*iZtyKyiPS0vLmaDT.jpg)Photo by [Aziz Acharki](https://unsplash.com/@acharki95?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/99312c616f17?source=friends_link&sk=8acde848ee1b851e7a3af540d889a3ba)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 標題講得好像我知道要怎麼做一樣XDD 其實我並不知道哈哈

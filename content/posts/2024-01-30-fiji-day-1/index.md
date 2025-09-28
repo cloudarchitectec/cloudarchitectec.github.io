@@ -14,8 +14,6 @@ tags: ["旅遊", "斐濟"]
 
 ![](images/medium-0*O5Bsg-U6NkTtsexS.jpg)從雪梨機場出發
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-1-541f5252848a?source=friends_link&sk=a569a5788673067381b725fb4ed9e3ca)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 前言

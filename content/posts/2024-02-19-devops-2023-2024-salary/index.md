@@ -24,12 +24,6 @@ tags: ["職涯", "薪資"]
 
 基本上 junior 的 DevOps Engineers 職缺非常少見，企業通常也只招聘 Mid-level or Senior DevOps Engineers。其實另一個跟 DevOps Engineers 相似的職缺稱為 SRE (Site Reliability Engineer)。關於 DevOps Engineers 的討論不少，例如有些人覺得 DevOps 是一個 practice (流派/文化)，而非一個職缺。有些人覺得 DevOps 跟 SRE 跟 ITops 之間的界線非常模糊，這裡我們就不多贅述。
 
-* * *
-
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/52aba80fc668?source=friends_link&sk=e54a3bf0ecdcba839b1cadd3f67566b3)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ### DevOps 工程師的技能樹：
 
   * **cloud infrastructure:** AWS, Azure or GCP

@@ -14,10 +14,6 @@ tags: ["旅遊", "德國"]
 
 ![](images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpeg.jpg)紐倫堡地鐵站
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/7a2c9a97b7f0?source=friends_link&sk=ece91a9f1eee45ee359d76498c3d1b3e)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 住在法蘭克福的這兩個晚上我真的是很喜歡透過大窗戶觀察外面的行人XD
 
 覬覦了轉角那家麵包店兩天後，我在 check out 當天早上 6:35 下樓買了他們今天新鮮烤好的蝴蝶餅 (pretzel) ，外層鹹香香酥，內層有嚼勁又不會太硬！配上我的自製拿鐵，太好吃了~

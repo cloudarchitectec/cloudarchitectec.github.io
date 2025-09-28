@@ -19,8 +19,6 @@ images: ['images/medium-1*1zVaSb-34n1H4uzy5WdyHg.jpeg.jpg', 'images/medium-1*_Nf
 
 ![](images/medium-1*1zVaSb-34n1H4uzy5WdyHg.jpeg.jpg)從新天鵝堡遠眺舊天鵝堡
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/25348303080f?source=friends_link&sk=f8d03cfedbf9e978d7f7efb74a75eea1)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 今天我跟了KKDay 的一日團，去參訪了林德霍夫宮跟新天鵝堡。

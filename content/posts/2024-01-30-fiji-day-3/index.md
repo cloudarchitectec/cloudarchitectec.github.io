@@ -14,8 +14,6 @@ tags: ["旅遊", "斐濟"]
 
 ![](images/medium-0*UYQREHkp_4KGojw-.jpg)Photo by [jcob nasyr](https://unsplash.com/@j_cobnasyr1?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-3-malamala-island-1a66369081cc?source=friends_link&sk=3fd8ed9a5815797c621e75bb72355623)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 我突然發現斐濟人講話喜歡講兩次XD 例如我的旅館叫 Tokatoka，這個島叫 Malamala Island～哈哈

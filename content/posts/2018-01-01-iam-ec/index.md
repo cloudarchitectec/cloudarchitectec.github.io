@@ -5,7 +5,10 @@ slug: "2018-01-01-iam-ec"
 image: "images/medium-0*s8lY75qUNwwZVglG.jpg"
 images: ['images/medium-0*s8lY75qUNwwZVglG.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活"]
+tags: ["自我介紹", "職涯經歷", "澳洲移民", "轉職工程師"]
+description: "從台灣英文系畢業到成功移民澳洲，再從會計師轉職成為Amazon與微軟的雲端架構師 - EC的完整職涯故事與澳洲生活經驗分享"
+keywords: ["澳洲雲端架構師", "澳洲移民", "文組轉職工程師", "澳洲打工度假", "Amazon AWS", "微軟", "職涯轉換", "澳洲生活"]
+author: "EC"
 ---
 
 * * *

@@ -14,8 +14,6 @@ tags: ["職涯", "轉職工程師"]
 
 ![](images/medium-0*ATDvS5yWVyL3Z8An.jpg)Photo by [Jorge Vitorino](https://unsplash.com/@jorgevitorino?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/64ed2a1d1dd3?source=friends_link&sk=f6cc69a126be023aac8e34ce47caf393)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 沒有跟上進度的後果就是我今天的 Kahoot 輸得一蹋糊塗XDDD 真心是好多題的答案我都不知道哈哈，最後的總排名是 13/17 ☹

@@ -18,8 +18,6 @@ tags: ["職涯", "轉職工程師"]
 
 今天終於開始正式進入 coding bootcamp 的課程了！
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/e8bcea1aa72d?source=friends_link&sk=5ad423065c56fa493f6180f743d33452)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### 安裝軟體
 
 早上兩位老師開始帶開教我們安裝軟體，使用 Mac 電腦的 Mac team 速速就完工了，但我們 Windows team 整個零零落落! 而且我不懂，這種事不是就投影在大螢幕上大家一起照著老師做不就好了嗎? 他們偏偏要用口述的!!! 安裝新的電腦作業環境耶! 口述不會太難嗎😭

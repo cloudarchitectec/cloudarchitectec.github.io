@@ -14,10 +14,6 @@ tags: ["旅遊", "荷蘭"]
 
 ![](images/medium-1*IcIxYfmDj7yFquPtuetqig.jpeg.jpg) 萊登風車
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/14c81911fd96?sk=4a848d1a20cec3219ead0c09b04a4dfb)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ### 萊登大學
 
 萊登 (Leiden) 是知名荷蘭畫家林布蘭的故鄉，也是歐洲知名的大學城。於16世紀成立的萊登大學是荷蘭最古老的大學，也是我 2009–2010來荷蘭交換的學校！

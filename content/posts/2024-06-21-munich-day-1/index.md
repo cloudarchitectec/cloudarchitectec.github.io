@@ -14,10 +14,6 @@ tags: ["旅遊", "德國", "慕尼黑"]
 
 ![](images/medium-1*weSmOSbr-w_a2akWZOQVcw.jpeg.jpg) 達豪集中營
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/a3b586553c59?source=friends_link&sk=8c4f3f4b27c50ac55247e17b47b1c808)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 今天從紐倫堡搭火車一小時前往慕尼黑，一下車就覺得這是一個還算安全的城市，很開心! (法蘭克福火車站/市區真的好糟，我建議大家可以跳過法蘭克福不去完全沒關係！畢竟那邊也沒有什麼觀光重點，而且旅遊體驗誠可貴，財務與人身安全價更高XD)
 
 ![](images/medium-1*6UGvwmWxSrGC4S_l6QbPWw.jpeg.jpg)![](images/medium-1*Twt_naRZU_POlmkxBbmQiw.jpeg.jpg)火車：紐倫堡往慕尼黑

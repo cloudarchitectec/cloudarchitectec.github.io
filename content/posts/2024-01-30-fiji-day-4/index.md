@@ -19,8 +19,6 @@ images: ['images/medium-0*cpXgPyWwKhUznpXc.jpg', 'images/medium-1*LwgKf95CVE5ucZ
 
 ![](images/medium-0*cpXgPyWwKhUznpXc.jpg)Photo by [Matthew Brodeur](https://unsplash.com/@mrbrodeur?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/dc5e99be0849?source=friends_link&sk=b55036e2a5e1fff4649a16ee6705c9f6)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 [![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
 * * *

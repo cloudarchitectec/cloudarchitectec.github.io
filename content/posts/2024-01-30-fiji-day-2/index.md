@@ -14,8 +14,6 @@ tags: ["旅遊", "斐濟"]
 
 ![](images/medium-0*jIl7H3ZOzOzoPv9T.jpg)Photo by [Giorgia Doglioni](https://unsplash.com/@gio_aroundtheworld?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/f85bcbdb3797?source=friends_link&sk=0401b084f47c82aaa6bd2f0e70fa6dab)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### 前言
 
 1 FJD = 0.68 AUD = 14 TWD

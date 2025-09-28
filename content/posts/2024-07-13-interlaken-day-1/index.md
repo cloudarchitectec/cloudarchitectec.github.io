@@ -14,8 +14,6 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*acW3_5doCStJ1vXN8J7LQw.jpeg.jpg)Interlaken Ost 火車站的超美山景
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/802fbaf14e16?source=friends_link&sk=9dddb46328cb09f9a3403b967204a980)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ![](images/medium-1*I7E1Oya3h_eOmuCjJcdw4A.jpeg.jpg)![](images/medium-1*sEEzejIzrrAoFyfsr8thlg.jpeg.jpg)後來才發現這班火車使用的是瑞鐵 SBB 的車廂

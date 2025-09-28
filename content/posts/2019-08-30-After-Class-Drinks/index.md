@@ -14,8 +14,6 @@ tags: ["職涯", "轉職工程師"]
 
 ![](images/medium-0*EZu69i8AFwcqQesw.jpg)Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/7456570cad90?source=friends_link&sk=2765e018de20ad83f82f0484b501533b)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 果然第二週的週五下午學校就沒有提供 drinks 了XD (我就知道這種好事不可能週週發生😂😂😂)

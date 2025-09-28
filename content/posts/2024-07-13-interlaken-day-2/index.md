@@ -14,10 +14,6 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*FKFO1iIoEihVDTSUawOK7g.jpeg.jpg)瑞士山景
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/6a76934a623c?source=friends_link&sk=9abf63a04bd87fd3ec8e9e5cc2a70a8f)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ![](images/medium-1*4_ros_GnNM5a6f6KFkFBTA.jpeg.jpg)![](images/medium-1*OUsYKhQqw4Iw0KiY1s1UcA.jpeg.jpg)此行唯一有附早餐的飯店住宿，吃得超開心！
 
 因為瑞士山區的天氣變化多端，大家都說等到了當地之後，再視天氣決定是否要買上少女峰的車票 (Top of Europe)，因為一張票要價約台幣$6500。

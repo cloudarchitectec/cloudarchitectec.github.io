@@ -14,10 +14,6 @@ tags: ["旅遊", "荷蘭"]
 
 ![](images/medium-1*iZBJQceEcHZX_UyJyBY-BQ.jpeg.jpg)荷蘭的郵票真心太可愛！
 
-非 Medium 付費會員，[請點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/13deec22002a?source=friends_link&sk=2963666ccb1b6c34613c553ee9a484c2)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 其實我一直到了荷蘭之後，才發現我剛好遇到了國王節 (Koningsdag)!
 
 國王節是荷蘭人慶祝荷蘭國王威廉‧亞歷山大 (Willem Alexander) 生日的國定節日，同時也是荷蘭最大的國家慶典！
