@@ -1,4 +1,11 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
+# 
+# To change theme:
+# 1. Update THEME_NAME environment variable below
+# 2. Update hugo.toml theme configuration
+# 3. Update .gitmodules submodule reference
+# 4. Commit and push changes
+#
 name: Deploy Hugo site to Pages
 
 on:
@@ -30,6 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.135.0
+      THEME_NAME: PaperMod
     steps:
       - name: Install Hugo CLI
         run: |
@@ -56,12 +64,12 @@ jobs:
           
           echo "Checking themes directory structure:"
           ls -la themes/ || echo "Themes directory not found"
-          ls -la themes/PaperMod/ || echo "PaperMod directory not found"
+          ls -la themes/${THEME_NAME}/ || echo "${THEME_NAME} directory not found"
           
           # Verify specific critical files
           echo "Checking for critical theme files:"
-          [ -f "themes/PaperMod/theme.toml" ] && echo "✅ PaperMod theme.toml found" || echo "❌ PaperMod theme.toml missing"
-          [ -f "themes/PaperMod/layouts/_default/baseof.html" ] && echo "✅ baseof.html found" || echo "❌ baseof.html missing"
+          [ -f "themes/${THEME_NAME}/theme.toml" ] && echo "✅ ${THEME_NAME} theme.toml found" || echo "❌ ${THEME_NAME} theme.toml missing"
+          [ -f "themes/${THEME_NAME}/layouts/_default/baseof.html" ] && echo "✅ baseof.html found" || echo "❌ baseof.html missing"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -70,22 +78,22 @@ jobs:
       - name: Verify theme installation
         run: |
           echo "=== THEME VERIFICATION ==="
-          echo "Verifying PaperMod theme is properly installed..."
+          echo "Verifying ${THEME_NAME} theme is properly installed..."
           
-          if [ ! -f "themes/PaperMod/theme.toml" ]; then
-            echo "❌ ERROR: PaperMod theme.toml not found!"
+          if [ ! -f "themes/${THEME_NAME}/theme.toml" ]; then
+            echo "❌ ERROR: ${THEME_NAME} theme.toml not found!"
             echo "Available files in themes/:"
             ls -la themes/ || echo "Themes directory completely missing"
-            echo "Available files in themes/PaperMod/:"
-            ls -la themes/PaperMod/ || echo "PaperMod directory completely missing"
+            echo "Available files in themes/${THEME_NAME}/:"
+            ls -la themes/${THEME_NAME}/ || echo "${THEME_NAME} directory completely missing"
             exit 1
           fi
-          echo "✅ PaperMod theme.toml found"
+          echo "✅ ${THEME_NAME} theme.toml found"
           
-          if [ ! -f "themes/PaperMod/layouts/_default/baseof.html" ]; then
+          if [ ! -f "themes/${THEME_NAME}/layouts/_default/baseof.html" ]; then
             echo "❌ ERROR: Required theme baseof.html not found!"
             echo "Available files in layouts directory:"
-            ls -la themes/PaperMod/layouts/ || echo "Layouts directory missing"
+            ls -la themes/${THEME_NAME}/layouts/ || echo "Layouts directory missing"
             exit 1
           fi
           echo "✅ Required theme layouts found"
@@ -109,8 +117,8 @@ jobs:
           echo "Theme configuration in hugo.toml:"
           grep -A 5 -B 5 "theme" hugo.toml || echo "No theme config found"
           echo "Final check - critical files exist:"
-          [ -f "themes/PaperMod/layouts/_default/baseof.html" ] && echo "✅ baseof.html still present" || echo "❌ baseof.html disappeared!"
-          [ -f "themes/PaperMod/theme.toml" ] && echo "✅ theme.toml present" || echo "❌ theme.toml missing!"
+          [ -f "themes/${THEME_NAME}/layouts/_default/baseof.html" ] && echo "✅ baseof.html still present" || echo "❌ baseof.html disappeared!"
+          [ -f "themes/${THEME_NAME}/theme.toml" ] && echo "✅ theme.toml present" || echo "❌ theme.toml missing!"
           echo "Content directory structure:"
           ls -la content/ || echo "No content directory"
           echo "=== STARTING HUGO BUILD ==="
