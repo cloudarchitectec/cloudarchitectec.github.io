@@ -14,8 +14,6 @@ tags: ["澳洲生活"]
 
 ![](images/medium-0*JM2v8QZs4ggC3_NW.jpg)Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-#### (2025.07.23 更新) 累積文章數: 140+ 篇
-
 歡迎來到我的 Medium 文章總目錄！
 
 我是 EC，一位從台灣文組背景轉職成為澳洲雲端架構師的工程師。這裡整理了我所有關於海外職場、澳洲生活、工程師轉職、履歷與面試技巧等主題的文章，方便你快速找到需要的內容。
@@ -38,11 +36,8 @@ tags: ["澳洲生活"]
 
 * * *
 
-### **海外職場/英文面試**
-
-[**澳洲雲端架構師 EC：海外職場/英文面試系列**  
- _Edit description_ medium.com](https://medium.com/@cloudarchitectec/list/b399bb173eae)[](https://medium.com/@cloudarchitectec/list/b399bb173eae)
-
+### [**海外職場/英文面試**](/categories/職涯/)
+  * [經營 Medium 一年，我到底賺了多少錢？](/posts/2023-11-25-medium-earning/)
   * [微軟 Industry Solution Engineering — Software Engineer 面試經驗分享](https://medium.com/@cloudarchitectec/microsoft-industry-solution-engineering-software-engineer-interview-991e26938132)
   * [澳洲求職必勝法則：外國人身份也能成功找到澳洲科技業正職工作 — 旅澳台灣工程師的實戰秘笈公開！](https://medium.com/@cloudarchitectec/tips-on-how-to-find-a-tech-job-in-australia-3535243e7cf7)
   * [能源公司 DevOps Platform Engineer 面試心得 III (不好意思，我想要再面試一場XD)](https://medium.com/@cloudarchitectec/devops-enigneer-interview-3-ce140b23cb18)
@@ -59,10 +54,7 @@ tags: ["澳洲生活"]
 
 
 
-### **轉職工程師**
-
-[**澳洲雲端架構師 EC：轉職工程師系列**  
- _Edit description_ medium.com](https://medium.com/@cloudarchitectec/list/db0d29c96b57)[](https://medium.com/@cloudarchitectec/list/db0d29c96b57)
+### [**轉職工程師**](/categories/職涯/)
 
   * [轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思](https://medium.com/@cloudarchitectec/a-letter-to-all-career-changers-8fd7a3422ec7)
   * [轉職可以一轉再轉嗎？薪水是轉職最重要的考量？](/posts/2023-06-15-career-transition-again/)
@@ -92,11 +84,7 @@ tags: ["澳洲生活"]
 
 
 
-### **澳洲科技大廠 (Amazon & 微軟) 工作分享**
-
-[**List: 澳洲雲端架構師 EC: 澳洲科技大廠 (Amazon & 微軟) 工作分享系列 | Curated by 澳洲雲端架構師 EC (Cloud Architect EC) | Medium**  
- _1 stories_ medium.com](https://medium.com/@cloudarchitectec/list/ec-amazon-4c54b243916e)[](https://medium.com/@cloudarchitectec/list/ec-amazon-4c54b243916e)
-
+### [**澳洲科技大廠 (Amazon & 微軟) 工作分享**](/categories/職涯/)
   * [微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
   * [科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
   * [微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第五集：Sales Pipeline Management](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-05-sales-pipeline-management-f9afb58bb70d)
@@ -121,12 +109,9 @@ tags: ["澳洲生活"]
   * [倖存者日記：2023 澳洲微軟裁員後續，裁員風暴仍在持續](/posts/2023-04-06-2023-layoff/)
   * [倖存者日記：沒想到 2025 年還有續集？當裁員成為澳洲科技業的新常態！](https://medium.com/@cloudarchitectec/2025-australia-tech-layoff-observation-38002a6cc46d)
 
+  * [你不知道的亞馬遜辦公室 — IT 自動販賣機](/posts/2023-03-24-it-vending-machine/)
 
-
-### **澳洲生活**
-
-[**澳洲雲端架構師 EC: 澳洲生活系列**  
- _Edit description_ medium.com](https://medium.com/@cloudarchitectec/list/95589600999b)[](https://medium.com/@cloudarchitectec/list/95589600999b)
+### [**澳洲生活**](/categories/澳洲生活/)
 
   * [2023 年中回顧](https://medium.com/@cloudarchitectec/2023-mid-year-reflection-7c60652a037f)
   * [2021 年回顧](/posts/2023-05-07-2021-life/)
@@ -140,10 +125,7 @@ tags: ["澳洲生活"]
 
 
 
-### 澳洲理財/投資
-
-[**澳洲雲端架構師 EC：澳洲理財/投資系列**  
- _Edit description_ medium.com](https://medium.com/@cloudarchitectec/list/f981930488a7)[](https://medium.com/@cloudarchitectec/list/f981930488a7)
+### [澳洲理財/投資](/categories/投資理財/)
 
   * [澳洲首次置業指南：2021 坎培拉購房流程經驗分享｜First Home Loan Deposit Scheme 實際應用](/posts/2023-05-07-2021-life/)
   * [澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme](/posts/2023-09-23-qld-first-home-1/)
@@ -159,10 +141,7 @@ tags: ["澳洲生活"]
 
 
 
-### **澳洲旅遊/海外旅行**
-
-[**澳洲雲端架構師 EC: 澳洲旅遊/海外旅行系列**  
- _Edit description_ medium.com](https://medium.com/@cloudarchitectec/list/045197e61956)[](https://medium.com/@cloudarchitectec/list/045197e61956)
+### [**澳洲旅遊/海外旅行**](/categories/旅遊/)
 
   * [澳洲布里斯本：陽光海岸高空樹頂挑戰 (Tree Top Challenge Big Pineapple) 初體驗，玩的就是心跳！](https://medium.com/@cloudarchitectec/tree-top-challenge-sunshine-coast-a7b8e874f64d)
   * [澳洲布里斯本：開車可抵達的可愛小島 Bribie Island 一日遊，陽光、沙灘、放空](/posts/2023-09-15-bribie-island/)
@@ -218,45 +197,3 @@ tags: ["澳洲生活"]
   * [太平洋小島上的大冒險：2025.04.25 Vanuatu Day 7 導航騙我、奶奶救我：宅宅迷路日到火焰之夜](https://medium.com/@cloudarchitectec/solo-trip-in-vanuatu-hideaway-island-the-beach-bar-fire-show-03896168d1fb)
   * [太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包](https://medium.com/@cloudarchitectec/solo-trip-in-vanuatu-m-resort-and-spa-fatumaru-lodge-5b0ebe7f4e5e)
   * [太平洋小島上的大冒險：2025.04.27 Vanuatu Day 9 挑戰完成！一個女生成功闖蕩萬那杜！](https://medium.com/@cloudarchitectec/solo-trip-in-vanuatu-challenge-completed-e6b1fae0557c)
-
-
-
-### 社群經營/Medium 創作
-
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[回饋] 100位粉絲達成慶祝活動 + 意見調查 (活動已結束!)](/posts/2023-07-15-reader-qa-/)
-  * [[回饋] 讀者意見調查結果 + 讀者Q&A](https://medium.com/@cloudarchitectec/reader-feedback-and-reader-q-a-b9035330ada)
-  * [[公告] 英文 Medium Publication Navigating Cloud Careers & 中文臉書粉絲頁](https://medium.com/@cloudarchitectec/medium-publication-navigating-cloud-careers-mandarin-fb-fan-page-db778c0cc0f7)
-  * [經營 Medium 一年，我到底賺了多少錢？](https://medium.com/@cloudarchitectec/how-much-did-i-earn-by-writing-medium-articles-for-an-year-9cece3901d46)
-  * [[公告] 諮詢服務上線一個月心得](https://medium.com/@cloudarchitectec/consultation-service-one-month-reflection-15f6e126c105)
-
-
-
-### **澳洲趣聞**
-
-  * [澳洲同事問我: 台灣奶茶跟一般奶茶有什麼不同?](https://medium.com/@cloudarchitectec/%E8%B6%A3%E8%81%9E-%E6%BE%B3%E6%B4%B2%E5%90%8C%E4%BA%8B%E5%95%8F%E6%88%91-%E5%8F%B0%E7%81%A3%E5%A5%B6%E8%8C%B6%E8%B7%9F%E4%B8%80%E8%88%AC%E5%A5%B6%E8%8C%B6%E6%9C%89%E4%BB%80%E9%BA%BC%E4%B8%8D%E5%90%8C-b85f5cb58a9a)
-  * [你不知道的亞馬遜辦公室 — IT 自動販賣機](/posts/2023-03-24-it-vending-machine/)
-  * [澳州居民就真的比較有國際觀嗎?](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4%E8%B6%A3%E8%81%9E-%E6%BE%B3%E5%B7%9E%E5%B1%85%E6%B0%91%E5%B0%B1%E7%9C%9F%E7%9A%84%E6%AF%94%E8%BC%83%E6%9C%89%E5%9C%8B%E9%9A%9B%E8%A7%80%E5%97%8E-40bc9d9b8abd)
-
-
-
-### **英文文章**
-
-**如果想要閱讀英文發表的文章，請訂閱我的**[**英文 Publication: Architecting Your Cloud Career**](https://medium.com/architecting-your-cloud-career)
-
-  * [How I Passed AZ-500 Azure Security Engineer Associate Certificate in under 8hrs of Preparation](https://medium.com/@cloudarchitectec/how-to-pass-azure-az-500-in-under-8hrs-chinese-version-c3d728674ffe)
-  * [How I Passed 2 Azure Certifications in 2 Days (AZ-500 Security Engineer & AZ-700 Network Engineer)](https://medium.com/@cloudarchitectec/how-i-passed-2-azure-certifications-in-2-days-az-500-security-engineer-az-700-network-engineer-b5719a95b48chttps://medium.com/@cloudarchitectec/how-i-passed-2-azure-certifications-in-2-days-az-500-security-engineer-az-700-network-engineer-b5719a95b48c)
-  * [Reflection on Azure Certification: AZ-104 Azure Administrator Associate](https://medium.com/architecting-your-cloud-career/reflection-on-azure-certification-az-104-azure-administrator-associate-8be846a44cec)
-  * [How I Passed AZ-104 Microsoft Azure Administrator Associate Certification with 40hrs of Study](https://medium.com/architecting-your-cloud-career/how-i-passed-az-104-microsoft-azure-administrator-associate-certification-with-40hrs-of-study-7f40dddbed1c)
-  * [My Microsoft Cloud Solution Architect Job Interview Experience](https://medium.com/architecting-your-cloud-career/interview-experience-as-microsoft-cloud-solution-architect-a9ed6fb20a32)
-  * [Decoding FAANG Salary Packages in the Australian Tech Industry — You Won’t Believe How Much We Make as University Graduates](https://medium.com/architecting-your-cloud-career/decoding-faang-salary-packages-in-the-australian-tech-industry-c33fb2ad8d36)
-  * [5 Reasons Why I Decided to Leave Amazon/AWS and Join Microsoft](https://medium.com/architecting-your-cloud-career/5-reasons-why-i-decided-to-leave-amazon-aws-and-join-microsoft-3ea89753f028)
-  * [How I landed a job with Amazon Web Services after a 6-month coding bootcamp](https://medium.com/architecting-your-cloud-career/how-i-landed-a-job-with-amazon-web-services-after-a-6-month-coding-bootcamp-fbaa8a399719)
-  * [Career Crossroads: Should You Switch Careers to Tech?](https://medium.com/architecting-your-cloud-career/career-crossroads-should-you-switch-careers-to-tech-bdec058750a8)
-  * [Day in the life of a (junior) Azure Cloud Solution Architect at Microsoft](https://medium.com/architecting-your-cloud-career/day-in-the-life-of-a-junior-azure-cloud-solution-architect-at-microsoft-550622e7b94f)
-  * [A day in the life of a Professional Services Cloud Architect at Amazon Web Services](https://medium.com/architecting-your-cloud-career/a-day-in-the-life-of-a-professional-services-cloud-architect-at-amazon-web-services-f842ecfbd142)
-  * [Considering a Career Change to IT? Here’s Why You Should!](https://medium.com/@cloudarchitectec/7dac6e3df792)
-  * [AZ-305 Microsoft Certified Azure Solutions Architect Expert Cloud Certification Preparation & Reflection](https://medium.com/architecting-your-cloud-career/az-305-microsoft-certified-azure-solutions-architect-expert-cloud-certification-preparation-8595babadf96)
-  * [How I Passed 2 Azure Certifications in 2 Days (AZ-500 Security Engineer & AZ-700 Network Engineer)](https://medium.com/@cloudarchitectec/how-i-passed-2-azure-certifications-in-2-days-az-500-security-engineer-az-700-network-engineer-b5719a95b48chttps://medium.com/@cloudarchitectec/how-i-passed-2-azure-certifications-in-2-days-az-500-security-engineer-az-700-network-engineer-b5719a95b48c)
-
-

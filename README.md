@@ -37,6 +37,19 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - 🏷️ Tag and category system
 - 🌐 Multilingual support
 
+## Timelines
+2025.09.15 
+- Initial setup
+
+2025.09.28
+- Fixed theme and deployment
+- Added tags/categories 
+- Updated home page to feature images + post title
+- Added search functionality
+- Started reference link cleanup
+
+
+
 ## Contributing
 
 This is a personal blog repository. While contributions are not expected, feel free to:
