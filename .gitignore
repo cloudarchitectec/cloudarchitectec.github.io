@@ -1,5 +1,3 @@
-.DS_Store
-
 # -----------------------
 # Python bytecode
 # -----------------------
@@ -18,8 +16,6 @@ env/
 # -----------------------
 # Distribution / packaging
 # -----------------------
-build/
-develop-eggs/
 dist/
 downloads/
 eggs/
@@ -35,6 +31,19 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# -----------------------
+# Hugo specific
+# -----------------------
+public/
+resources/_gen/
+.hugo_build.lock
+
+# -----------------------
+# Project documentation (private)
+# -----------------------
+EC.md
+intro.md
 
 # -----------------------
 # Unit test / coverage reports
@@ -53,11 +62,6 @@ coverage.xml
 .hypothesis/
 
 # -----------------------
-# Jupyter Notebook checkpoints
-# -----------------------
-.ipynb_checkpoints
-
-# -----------------------
 # IDE / Editor specific
 # -----------------------
 .vscode/
@@ -74,7 +78,6 @@ Thumbs.db
 # -----------------------
 # Environment / secrets
 # -----------------------
-.env
 .env.*
 *.env
 *.secret
