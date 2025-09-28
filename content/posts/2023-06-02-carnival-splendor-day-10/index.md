@@ -14,8 +14,6 @@ tags: ["旅遊", "新喀里多尼亞"]
 
 ![](images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg)郵輪與雪梨大橋
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-24-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-%E8%BF%94%E5%9B%9E%E9%9B%AA%E6%A2%A8-%E5%BF%83%E5%BE%97%E7%B8%BD%E7%B5%90-b7630b9ecec7?source=friends_link&sk=0aba3f1623728d6fca6a37c2445bc33b)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 郵輪遊記最終章~ 感謝讀者 [再思](https://medium.com/u/e54a0db63c4c) 的留言鼓勵，不然這篇可能會就此消失在我的待寫清單之中XDD

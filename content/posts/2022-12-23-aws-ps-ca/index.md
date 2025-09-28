@@ -14,8 +14,6 @@ tags: ["職涯", "AWS"]
 
 ![A man in a suit 穿西裝的男子](images/medium-0*SeJpdD8zq08awCIa.jpg) Photo by [Hunters Race](https://unsplash.com/@huntersrace?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-%E5%B7%A5%E4%BD%9C%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB-7079361ea84?source=friends_link&sk=7649a888fdc15ce4746f99ca76097249)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 今天要來談一談我的上一份工作 Cloud Architect at Amazon Web Services (AWS) Professional Services Team，這是一個很特別的領域! 說實話，在我加入 AWS 前，我從來不知道有這個部門XD 即使是同在 IT 界工作的朋友，也不是每個人都聽說過，所以今天我就來分享一下。

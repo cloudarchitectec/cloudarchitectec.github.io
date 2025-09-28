@@ -19,8 +19,6 @@ images: ['images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpeg.jpg', 'images/medium-1*49d
 
 ![](images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpeg.jpg)毛巾螃蟹
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-20-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-6-mystery-island-vanuatu-9ef28cfc136?source=friends_link&sk=189de562e650ccb0fe8253314282243c)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 **第三個小島 — Mystery Island**
@@ -83,6 +81,6 @@ Mystery Island 感覺是一個非常商業化的小島，例如一上島就看�
   * [[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-18-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-4-noumea-new-caledonia-19c06631cb44)
   * [[旅遊] 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-17-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-3-sea-day-2-fd37273abd58)
   * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/%E4%BB%8B%E7%B4%B9-%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AFec-afcf45d128eb)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表 (2023.06.03 更新)](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)
+  * [[目錄] 雲端架構師 EC — Medium 文章列表 (2023.06.03 更新)](./2018-01-02-ec-post-list/index.md)
 
 

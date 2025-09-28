@@ -19,8 +19,6 @@ images: ['images/medium-0*Hlcx25UL1ljtcua6.jpg']
 
 ![Sydney Opera House & Harbour Bridge](images/medium-0*Hlcx25UL1ljtcua6.jpg) Photo by [Caleb Russell](https://unsplash.com/@calebrussell?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%8F%B0%E7%81%A3%E4%BA%BA%E7%9A%84%E6%96%87%E5%8C%96%E8%A1%9D%E6%93%8A-%E6%88%91%E7%9A%84%E6%BE%B3%E6%B4%B2%E8%BE%A6%E5%85%AC%E5%AE%A4%E6%96%87%E5%8C%96%E8%A7%80%E5%AF%9F-bd4e75445ebe?source=friends_link&sk=ae7ade4f1de5e50ae10a7be8a9964169)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 大家好，我是EC! 在澳洲已經 10 年，一路從打工度假、留學生、靠著獨立技術移民拿到澳洲永居權 (PR)，到現在已經入籍成為澳洲公民。

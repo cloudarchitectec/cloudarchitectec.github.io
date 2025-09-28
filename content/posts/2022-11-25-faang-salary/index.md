@@ -14,8 +14,6 @@ tags: ["職涯", "科技大廠", "海外職場", "薪資"]
 
 ![Australian notes and coins \(AUD\)](images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E7%A7%91%E6%8A%80%E6%A5%AD%E9%BE%8D%E9%A0%AD-faang-%E7%9A%84%E8%96%AA%E8%B3%87%E7%B5%90%E6%A7%8B-%E4%BB%A5%E6%BE%B3%E6%B4%B2%E4%BA%9E%E9%A6%AC%E9%81%9C%E7%82%BA%E4%BE%8B-584e9c564079?source=friends_link&sk=2e26a324b2e7d6631b1b30add22d9bfd)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 大家都知道，科技業是個高薪的產業，尤其是科技業龍頭 FAANG (Facebook, Apple, Amazon, Netflix, Google) 給的薪水尤其是讓人流口水。

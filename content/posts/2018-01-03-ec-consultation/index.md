@@ -65,7 +65,7 @@ tags: ["職涯", "海外職場", "面試", "履歷"]
 
   * **在澳洲生活超過 10 年，經歷過打工度假、留學、移民(基本上全靠自己申請)，住過澳洲各大城市(雪梨、墨爾本郊區、布里斯本、坎培拉、柏斯、達爾文)，經歷豐富，讓你獲得最全面的澳洲資訊！** 想要更近一步了解我的經歷，可以閱讀 [<<大家好，我是澳州雲端架構師 EC! 跟我的轉職心得文>>](https://medium.com/@cloudarchitectec/%E4%BB%8B%E7%B4%B9-%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AFec-afcf45d128eb)
   * **成功從文組轉職工程師，並進入科技業巨頭 Amazon & 微軟工作，熟悉跨國企業文化與招募流程，提供你澳洲科技業的職場現況及第一手消息！**歡迎參考我的 [LinkedIn](https://www.linkedin.com/in/elliettchen/) 職涯經歷跟轉職心得[<<文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師!>>](https://medium.com/@cloudarchitectec/%E6%96%87%E7%B5%84%E8%BD%89%E8%81%B7%E6%BE%B3%E6%B4%B2-it-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E6%88%91%E9%9D%A0-coding-bootcamp-%E9%80%B2%E4%BA%86%E4%BA%9E%E9%A6%AC%E9%81%9C-30fef5aaa97f)
-  * **在 Medium 上發表過近百篇分享轉職工程師、澳洲生活、職場、文化、英文面試等相關文章。建議可以先看過我寫的文章，如果覺得對你有幫助的話，再來預約諮詢～** 完整文章目錄請看：[<<澳洲雲端架構師 EC ｜Medium 精選文章懶人包 (100+ 篇總整理)>>](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)
+  * **在 Medium 上發表過近百篇分享轉職工程師、澳洲生活、職場、文化、英文面試等相關文章。建議可以先看過我寫的文章，如果覺得對你有幫助的話，再來預約諮詢～** 完整文章目錄請看：[<<澳洲雲端架構師 EC ｜Medium 精選文章懶人包 (100+ 篇總整理)>>](./2018-01-02-ec-post-list/index.md)
 
 
 

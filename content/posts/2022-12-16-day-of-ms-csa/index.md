@@ -14,8 +14,6 @@ tags: ["職涯", "微軟"]
 
 ![](images/medium-0*FOS26PQyvkwSGy1W.jpg)Photo by [Raychel Sanner](https://unsplash.com/@raychelsnr?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%BE%AE%E8%BB%9F%E5%93%A1%E5%B7%A5-%E8%8F%9C%E9%B3%A5-azure-csa-%E7%9A%84%E4%B8%80%E5%A4%A9-226f1f333f78?source=friends_link&sk=551b0150828f68e45aaaf5be6bb909b1)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 Azure Cloud Solution Architect (CSA) 是我在微軟的工作職稱，這是我加入微軟的第八週。在微軟之前，我在另一個雲服務平台 AWS 工作，也就是說這些 Azure services，對我來說都是全新的知識。

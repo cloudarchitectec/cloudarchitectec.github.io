@@ -14,8 +14,6 @@ tags: ["職涯", "AWS"]
 
 ![](images/medium-0*IHdurgjhEtnGcDd7.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/1f4084c07216?source=friends_link&sk=5e7fbf30423c8301e6ca6c530be05c5e)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 今天要來跟大家分享我更新微軟證照 Microsoft Azure Solutions Architect Expert 的經驗，還有我用 ChatGPT 幫我考 Microsoft Azure Administrator Associate 證照更新考試的心得 (究竟 ChatGPT 有沒有比我聰明呢? XD），以及微軟 Azure 和 AWS 雲端證照在更新證照規定上的差異。

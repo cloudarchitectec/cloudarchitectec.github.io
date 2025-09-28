@@ -27,7 +27,7 @@ tags: ["澳洲生活", "寫作"]
 * * *
 
 [**[目錄] 雲端架構師 EC — Medium 文章列表**  
- _這是澳洲雲端架構師 EC 的 Medium 目錄，方便大家搜尋我發表過的文章。如果有對哪個類別的文章特別有興趣，也歡迎留言跟我說喔 ^^_ medium.com](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)[](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)
+ _這是澳洲雲端架構師 EC 的 Medium 目錄，方便大家搜尋我發表過的文章。如果有對哪個類別的文章特別有興趣，也歡迎留言跟我說喔 ^^_ medium.com](./2018-01-02-ec-post-list/index.md)[](./2018-01-02-ec-post-list/index.md)
 
 今天我想要來跟大家分享如何成為 Medium 作者，靠著分享你的知識、心得、對世界的觀察來賺錢呢？
 

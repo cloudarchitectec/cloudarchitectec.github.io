@@ -19,8 +19,6 @@ images: ['images/medium-0*xfQ3sXJxvDvXfgLi.jpg', 'images/medium-1*67HCCHz_fSzcke
 
 ![](images/medium-0*xfQ3sXJxvDvXfgLi.jpg)Photo by [Douglas Bagg](https://unsplash.com/@nzdoug16?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-16-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-2-sea-day-1-77c20aea9c2d?source=friends_link&sk=a03d04fd0ae2226eb1f0349a85a87f44)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 **遊輪房間**

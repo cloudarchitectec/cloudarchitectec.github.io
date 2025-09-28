@@ -56,7 +56,7 @@ Emil 同學是攝影師，他給我看了幾張他手機裡的作品，我覺得
 
 
 
-**如果想要閱讀更多 EC 的文章，**[**請參考[目錄] 澳洲雲端架構師 EC — Medium 文章列表**](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)
+**如果想要閱讀更多 EC 的文章，**[**請參考[目錄] 澳洲雲端架構師 EC — Medium 文章列表**](./2018-01-02-ec-post-list/index.md)
 
 **為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
 

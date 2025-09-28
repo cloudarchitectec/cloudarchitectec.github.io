@@ -14,8 +14,6 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 ![](images/medium-0*XTejTjV9ZtCU27LU.jpg)Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/ay-in-the-life-of-solution-architect-02-solution-architecting-199c7db36d78?source=friends_link&sk=119137264cb591fd16f8e37a825744b8)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 前言

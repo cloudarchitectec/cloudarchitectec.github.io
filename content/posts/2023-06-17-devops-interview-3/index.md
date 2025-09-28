@@ -36,10 +36,6 @@ HR 可能想要從 small talk 展開話題，於是她問我:「目前面試的�
 
 * * *
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/devops-enigneer-interview-3-ce140b23cb18?source=friends_link&sk=89e14cf9db4c9153c95b3e87d9e49a2e)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ### 盡職調查 (Due Diligence)
 
 題外話，其實我除了要求跟 hiring manager 再聊一次之外，我還做了很多額外努力從各式管道蒐集資訊! (我真的是一個一旦開始做一件事，我就要做到極致的人XD)

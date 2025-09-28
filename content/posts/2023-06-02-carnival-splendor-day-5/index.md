@@ -19,8 +19,6 @@ images: ['images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpeg.jpg', 'images/medium-1*--9
 
 ![](images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpeg.jpg)今天的毛巾動物是什麼呢? (下文有答案)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-19-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-5-lifou-new-caledonia-8fd47f2e4301?source=friends_link&sk=c6a72812cd6098decca260a8c4dbb9ff)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 **第二個小島 Lifou**

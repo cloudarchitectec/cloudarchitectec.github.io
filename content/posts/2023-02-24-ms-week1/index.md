@@ -14,8 +14,6 @@ tags: ["職涯", "微軟"]
 
 ![微軟坎培拉辦公室-門口](images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg)微軟坎培拉辦公室-門口
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/faang-%E5%BE%AE%E8%BB%9F%E6%96%B0%E9%80%B2%E5%93%A1%E5%B7%A5%E7%AC%AC%E4%B8%80%E9%80%B1%E7%9A%84%E5%BF%83%E5%BE%97-%E5%9D%8E%E5%9F%B9%E6%8B%89%E5%BE%AE%E8%BB%9F%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%88%86%E4%BA%AB-119352cd305?source=friends_link&sk=5e5ee088bfdb812759533470d51c4e8e)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 (這篇是原來是我 2022.10.28 寫的文章，現在轉發到 Medium 上面跟大家分享XD)

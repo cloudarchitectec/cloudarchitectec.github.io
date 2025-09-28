@@ -14,8 +14,6 @@ tags: ["職涯", "雲端證照"]
 
 ![Exam badge of AZ Solutions Architect Expert](images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg)Microsoft Certified Azure Solution Architect Expert
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E9%9B%B2%E7%AB%AF%E8%AD%89%E7%85%A7-2023-01-02-az-305-microsoft-certified-azure-solutions-architect-expert-%E6%BA%96%E5%82%99-%E8%80%83%E8%A9%A6%E5%BF%83%E5%BE%97-d7ec5dc6b3cc?source=friends_link&sk=b8abdcc255a1fe0eb2351aa7392ddc8f)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 2023 年的第二天，我通過了 AZ-305 Designing Microsoft Azure Infrastructure Solutions 的考試，加上 11 月通過的 AZ-104 Azure Administrator Associate，成功獲得了 Microsoft Certified Azure Solutions Architect Expert 這張專家級證照，算是為了新的一年打下良好的基礎!

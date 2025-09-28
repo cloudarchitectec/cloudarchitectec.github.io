@@ -14,8 +14,6 @@ tags: ["職涯", "雲端證照"]
 
 ![AZ-104 Azure Administrator Associate Badge](images/medium-1*wsOHIUJhyLsNwTMM3VnvsA.png.jpg)AZ-104 Azure Administrator Associate Badge
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/az-104-azure-%E8%AD%89%E7%85%A7%E9%80%9A%E9%81%8E%E5%BF%83%E5%BE%97-80625af7c654?source=friends_link&sk=648d9187137e95a56c5d452cb2af8055)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 **考試日期：2022.11.18**

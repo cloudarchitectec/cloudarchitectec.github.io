@@ -41,10 +41,6 @@ Introducing Commercial Software Engineering
 
 * * *
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/991e26938132?source=friends_link&sk=f3b2c2275fcfc248cfacdcd47607defc)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ### 第一關面試: Drive for Results、Technical Excellence、Values
 
 第一關的面試官是一個 Business Program Manager，是個偏 business side 的職位，不過面試官本身是 software engineer 出身，也做過微軟 CSA，算是非常多元的技術背景。

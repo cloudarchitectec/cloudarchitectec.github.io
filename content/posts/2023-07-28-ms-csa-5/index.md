@@ -14,8 +14,6 @@ tags: ["職涯", "微軟"]
 
 ![](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-04-technical-workshop-presentation-f807baa7a4f5?source=friends_link&sk=dcc8e4e8aa1d9db0c0d75baf304fbc72)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 前言

@@ -94,7 +94,7 @@ tags: ["旅遊", "瑞士"]
 
 [![](images/medium-0*UQyYhVGA_oLdfGDf.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)
+  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
   * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
   * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
 

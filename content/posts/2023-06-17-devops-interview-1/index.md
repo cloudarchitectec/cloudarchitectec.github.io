@@ -28,10 +28,6 @@ tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 
 * * *
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E8%83%BD%E6%BA%90%E5%85%AC%E5%8F%B8-devops-platform-engineer-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E7%AC%AC%E4%B8%80%E9%97%9C-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-c1f87fd52441?source=friends_link&sk=c86347cecd735c9d8b639436a5a35637)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 在我發問的部分，我也是直接把訴求表明出來，例如我又問了我最近面試最熱愛的問題「What kind of onboarding support will you provided to new starters? (你們將為新進員工提供什麼樣的新進員工訓練？)」 可惜這場面試是在 [Huli](https://medium.com/u/f1fb3e40dc37) 大大的指點之前，不然我肯定會更具體的問法來表達!!! 關於 Huli 大大的建議，請看這裡:
 
 ![](images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg)

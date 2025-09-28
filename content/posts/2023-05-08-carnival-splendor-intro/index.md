@@ -14,8 +14,6 @@ tags: ["投資理財"]
 
 ![Carnival South Pacific Cruise](images/medium-1*HavaLtcputghs8Qb_HQGIg.png.jpg)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-%E4%BA%8B%E5%89%8D%E6%BA%96%E5%82%99%E5%8F%8A%E9%A0%88%E7%9F%A5-2023-05%E5%87%BA%E7%99%BC-b7ee58cf7bc4?source=friends_link&sk=c6cace81cf89bea8fd17cf55376cb658)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 前言

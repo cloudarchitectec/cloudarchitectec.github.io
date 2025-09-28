@@ -19,8 +19,6 @@ images: ['images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg', 'images/medium-1*8Gn
 
 ![](images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg)毛巾鱷魚
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-18-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-4-noumea-new-caledonia-19c06631cb44?source=friends_link&sk=a900ef10cb05721e16e3ec1cdcdea25f)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 **第一個小島**

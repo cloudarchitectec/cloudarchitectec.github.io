@@ -19,8 +19,6 @@ images: ['images/medium-0*U0dfYsPiq7mCwebZ.jpg']
 
 ![背面充滿貼紙的筆電](images/medium-0*U0dfYsPiq7mCwebZ.jpg)Photo by [Alex Kulikov](https://unsplash.com/@burntime?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/faang-aws-professional-services-%E5%93%A1%E5%B7%A5%E7%9A%84%E5%BF%85%E7%B6%93%E9%97%9C%E5%8D%A1-awesome-builder-225ebf8dda7?source=friends_link&sk=0e99ecd0cd5eab4ac0cf7a85c8a53e23)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 Awesome Builder (簡稱AB) 是 AWS Professional Services Team 新進員工的必經關卡，分為三個階段，每個階段都要通過 3–5 位考官的認可 (考官人選包含直屬經理、同部門的前輩、不同部門但平常需要合作的同事)，才能順利通過。

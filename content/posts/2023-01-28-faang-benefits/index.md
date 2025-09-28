@@ -14,8 +14,6 @@ tags: ["職涯", "科技大廠", "福利"]
 
 ![a person doing meditation](images/medium-0*TyPKjt_dMWUNDkNU.jpg)Photo by [Jared Rice](https://unsplash.com/@jareddrice?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/faang-%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E5%93%A1%E5%B7%A5%E7%A6%8F%E5%88%A9%E5%A4%A7%E5%85%AC%E9%96%8B-8c941532fb4f?source=friends_link&sk=236d8e0e6db6e3d6f40aca7f7d336b83)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 今天想要來分享身為微軟員工有什麼樣的員工福利!

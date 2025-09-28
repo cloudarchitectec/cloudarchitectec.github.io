@@ -14,8 +14,6 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 ![](images/medium-0*Sre5eGm5dFF7JeEH.jpg)Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-05-sales-pipeline-management-f9afb58bb70d?source=friends_link&sk=a3323e90b84c06fbaa7f8e0e57906030)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### 前言
 
 這篇文章是 <<微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼?>> 系列的最終章。這個系列總共有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :

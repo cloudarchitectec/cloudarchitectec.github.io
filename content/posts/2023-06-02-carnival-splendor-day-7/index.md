@@ -19,8 +19,6 @@ images: ['images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg', 'images/medium-1*pkr
 
 ![](images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg)毛巾猩猩(?) 房務員還把 Ashley 的眼鏡放在上面，超好笑!
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-21-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-7-signal-island-new-caledonia-3c5a3f9160ee?source=friends_link&sk=12fe5afe03735189f1413f4af26f74a8)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 **神奇的五分鐘 wifi**
@@ -77,6 +75,6 @@ Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始
   * [[旅遊] 2023.05.19 Carnival Splendor 澳洲南太平洋郵輪 — Day 5 Lifou (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-19-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-5-lifou-new-caledonia-8fd47f2e4301)
   * [[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-18-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-4-noumea-new-caledonia-19c06631cb44)
   * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/%E4%BB%8B%E7%B4%B9-%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AFec-afcf45d128eb)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表 (2023.06.03 更新)](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)
+  * [[目錄] 雲端架構師 EC — Medium 文章列表 (2023.06.03 更新)](./2018-01-02-ec-post-list/index.md)
 
 

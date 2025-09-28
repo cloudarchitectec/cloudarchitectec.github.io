@@ -19,8 +19,6 @@ images: ['images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpeg.jpg', 'images/medium-1*DuX
 
 ![](images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpeg.jpg)可能是隻恐龍吧?XD
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-17-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-3-sea-day-2-fd37273abd58?source=friends_link&sk=144b8379e27df07c117d8c38db8a5a78)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 今天是第二天 sea day，遊輪持續前進中，我們進入了下一個時區，所以遊輪工作人員提醒我們記得要手動把時間往前調一個小時(因為海上沒訊號，所以手機不會自動調整)。

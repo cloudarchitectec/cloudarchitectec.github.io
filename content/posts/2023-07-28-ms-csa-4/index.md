@@ -14,8 +14,6 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 ![](images/medium-0*qzQRQkRstSx0mfxj.jpg)Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-03-technical-guidance-customer-meetings-7f31ff08b043?source=friends_link&sk=34894a6025711e857621950b6d515d3a)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 前言

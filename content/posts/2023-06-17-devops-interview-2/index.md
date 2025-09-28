@@ -31,10 +31,6 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 * * *
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E8%83%BD%E6%BA%90%E5%85%AC%E5%8F%B8-devops-platform-engineer-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E7%AC%AC%E4%BA%8C%E9%97%9C-%E6%96%87%E5%8C%96%E9%9D%A2%E8%A9%A6-8d762bd887d9?source=friends_link&sk=f07ee779dcbef32eeefe8894c98369c7)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ### 面試官 Diversity
 
 雖然一開始的面試邀請信上只有工程師組織的 Director (白人男性)，但我加入視訊會議之後就發現他還找了公司領導階層的另外一名女性高層來共同面試。是說澳洲近幾年的公司文化很重視 diversity，所以通常在面試環節中至少會有一關是一男一女面試官同時進行，我覺得其實還不錯，至少大家是有意識想要改善科技業性別平等的議題。

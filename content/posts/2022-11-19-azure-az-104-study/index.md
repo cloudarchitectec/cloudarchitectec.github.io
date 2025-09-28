@@ -14,8 +14,6 @@ tags: ["職涯", "雲端證照"]
 
 ![a person studying](images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpeg.jpg)Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/exam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99-az-104-azure-administrator-associate-%E8%AD%89%E7%85%A7-ce4e5e16bebc?source=friends_link&sk=8d41763e517daac80f09db8a4e076d91)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### **背景介紹**
 
 我曾在 AWS 雲 (Amazon Web Services) 工作過兩年，但對 Azure 的實務經驗幾乎為零。今年三月時考過 AZ-900 Microsoft Azure Fundementals，但理論知識現在幾乎都忘得都差多了。由於我人在澳洲，所以是用英文應試，考試的準備資源也都是全英文。

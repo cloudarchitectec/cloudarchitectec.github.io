@@ -14,8 +14,6 @@ tags: ["職涯", "面試"]
 
 ![2 people sitting together in a interview setting](images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg)
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E5%BE%AE%E8%BB%9F%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-microsoft-azure-cloud-solution-architect-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E5%90%8C%E5%A0%B4%E5%8A%A0%E6%98%A0-aws-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-9dff9fc59ae8?source=friends_link&sk=e2be92580f4221aa99d6050734f3c0d5)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 在分享微軟的面試心得之前，我想要先分享AWS 的面試過程，來做個對比。

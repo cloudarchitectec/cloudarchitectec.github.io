@@ -19,8 +19,6 @@ images: ['images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpeg.jpg', 'images/medium-1*7dA
 
 ![](images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpeg.jpg)毛巾動物曬太陽
 
-非 Medium 付費會員，請[點此免費閱讀這篇文章](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-23-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-9-sea-day-4-b213935b27f3?source=friends_link&sk=f5f92d8a34905bd519c71c7210a68c70)！當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 * * *
 
 ### 下船說明會
@@ -101,6 +99,6 @@ Ashley 戲稱我旁邊的阿姨是我的賓果小天使，不僅借我螢光筆�
   * [[旅遊] 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Signal Island (New Caledonia)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-21-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-7-signal-island-new-caledonia-3c5a3f9160ee)
   * [[旅遊] 2023.05.20 Carnival Splendor 澳洲南太平洋郵輪 — Day 6 Mystery Island (Vanuatu)](https://medium.com/@cloudarchitectec/%E6%97%85%E9%81%8A-2023-05-20-carnival-splendor-%E6%BE%B3%E6%B4%B2%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E9%83%B5%E8%BC%AA-day-6-mystery-island-vanuatu-9ef28cfc136)
   * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/%E4%BB%8B%E7%B4%B9-%E5%A4%A7%E5%AE%B6%E5%A5%BD-%E6%88%91%E6%98%AFec-afcf45d128eb)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表](https://medium.com/@cloudarchitectec/%E7%9B%AE%E9%8C%84-%E9%9B%B2%E7%AB%AF%E6%9E%B6%E6%A7%8B%E5%B8%AB-ec-medium-%E6%96%87%E7%AB%A0%E5%88%97%E8%A1%A8-2023-06-03-%E6%9B%B4%E6%96%B0-76c1ed3b871d)
+  * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
 
 
