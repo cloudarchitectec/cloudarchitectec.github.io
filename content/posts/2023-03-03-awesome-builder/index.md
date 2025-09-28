@@ -65,7 +65,7 @@ AB 的目的是確保你已經足夠瞭解AWS的文化與產品，有辦法代�
 
 * * *
 
-**如果你喜歡海外生活、澳洲職場、文組轉職工程師的相關文章，歡迎按下「拍手」給我鼓勵 (喜歡的話請多拍幾次！)。同時記得「**[**按此訂閱我的Medium部落格**](https://medium.com/@cloudarchitectec/subscribe)**」，這樣你就不會錯過我每週的更新囉～你們的支持是我持續創作的動力，如果有任何問題或是想要看的主題，歡迎留言與我互動 :)**
+
 
   * 中文部落格: [https://medium.com/@cloudarchitectec](/@cloudarchitectec?source=about_page-------------------------------------)
   * 英文部落格: [https://medium.com/architecting-your-cloud-career](https://medium.com/architecting-your-cloud-career?source=about_page-------------------------------------)

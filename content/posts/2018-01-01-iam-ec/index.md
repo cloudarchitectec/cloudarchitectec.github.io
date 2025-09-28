@@ -92,7 +92,7 @@ tags: ["澳洲生活"]
 畢業後我幸運的拿到澳洲PR ！後來讓我成功移民澳洲的其實不是我的會計學位，而是靠自己研究澳洲政府的移民法規中一個大多數人都會略過申請規定，靠著不在移民清單上的口譯專業申請到了新州190的永居PR XD 詳細故事可以看這篇：
 
 [**機會由自己創造！我透過閱讀澳洲政府的移民規定成功移民澳洲！**  
- _今天要來分享我當年是如何另闢蹊徑，透過自己閱讀澳洲政府網站的移民規定，在不可能中發現可能，最後成功幫助自己以及我的好友成功拿到澳洲身份的故事！_ medium.com](https://medium.com/@cloudarchitectec/how-i-migrated-to-australia-37ddb7b0d4d8)[](https://medium.com/@cloudarchitectec/how-i-migrated-to-australia-37ddb7b0d4d8)
+ _今天要來分享我當年是如何另闢蹊徑，透過自己閱讀澳洲政府網站的移民規定，在不可能中發現可能，最後成功幫助自己以及我的好友成功拿到澳洲身份的故事！_](/posts/2023-11-10_how-i-become-pr/)
 
 在澳洲留學時，剛好我當時的房東開了一家移民仲介，知道我在找工讀機會，於是就決定讓我去試試。這個工作我斷斷續續可能也做了兩年。這是一家華人老闆開的仲介、所有同事跟客戶都是華人，看過了很多移民仲介的秘辛不說，在這種壓榨式環境工作真的是讓我懷疑起我來澳洲幹嘛?XD
 
@@ -105,7 +105,7 @@ tags: ["澳洲生活"]
 這個想法其實在我心中迴盪了許久，最後我還是決定在 31 歲那年裸辭，讀了一個六個月的程式訓練營 (Coding Bootcamp)，開始往網頁工程師的方向前進。詳情可以參考這篇:
 
 [**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**  
- _我為什麼決定從文組轉職工程師？在澳洲讀 coding bootcamp 又是如何的體驗？第一份工作就進 Amazon？如果有興趣，那就請繼續看下去吧～_ medium.com](https://medium.com/@cloudarchitectec/%E6%96%87%E7%B5%84%E8%BD%89%E8%81%B7%E6%BE%B3%E6%B4%B2-it-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E6%88%91%E9%9D%A0-coding-bootcamp-%E9%80%B2%E4%BA%86%E4%BA%9E%E9%A6%AC%E9%81%9C-30fef5aaa97f)[](https://medium.com/@cloudarchitectec/%E6%96%87%E7%B5%84%E8%BD%89%E8%81%B7%E6%BE%B3%E6%B4%B2-it-%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E6%88%91%E9%9D%A0-coding-bootcamp-%E9%80%B2%E4%BA%86%E4%BA%9E%E9%A6%AC%E9%81%9C-30fef5aaa97f)
+ _我為什麼決定從文組轉職工程師？在澳洲讀 coding bootcamp 又是如何的體驗？第一份工作就進 Amazon？如果有興趣，那就請繼續看下去吧～_](/posts/2022-12-03-bootcamp-to-aws/)
 
 我辭職的那段時間完全沒有跟我的家人說(因為不想讓他們擔心)，甚至連身邊大多數朋友都不知道，只有少數幾個要好的朋友知道，因為當時的我其實根本不知道自己能不能轉職成功，如果失敗之後我該怎麼辦?
 
@@ -114,7 +114,7 @@ tags: ["澳洲生活"]
 Coding bootcamp 畢業時剛好遇到 Covid，找工作非常困難，我在三個月的求職過程中投了200份履歷，最後只成功拿到一份 offer，就是AWS! 而且這份工作也不是網頁工程師，而是雲服務的科技顧問 (在 AWS 裡叫做 Cloud Architect)，詳細的工作內容可以參考這篇:
 
 [**澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享**  
- _今天要來談一談我的上一份工作 Cloud Architect at Amazon Web Services (AWS) Professional Services Team，這是一個很特別的領域!_ medium.com](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-%E5%B7%A5%E4%BD%9C%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB-7079361ea84)[](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-%E5%B7%A5%E4%BD%9C%E5%85%A7%E5%AE%B9%E5%88%86%E4%BA%AB-7079361ea84)
+ _今天要來談一談我的上一份工作 Cloud Architect at Amazon Web Services (AWS) Professional Services Team，這是一個很特別的領域!_](/posts/2022-12-23-aws-ps-ca/)
 
 雖然很幸運拿到 AWS 的 offer，成功加入大型科技公司，但那段時間我其實過得非常辛苦，一直處於冒牌者症候群 (Imposter Syndrome) 的壓力之下，變得非常不快樂。但我在 AWS 其實認識了非常多超級厲害、超級聰明，同時人也超級好的同事，不過因為心理壓力太大了，後來有機會跳槽的時候，我也是猶豫了不久就決定加入微軟。沒想到加入微軟之後，覺得這個職位其實跟我個人的職涯目標也不是太一致XDDDD 我反倒開始想念起 AWS 的同事跟當時的工作，雖然辛苦，但至少是一個讓我在專業能力上會有所成長的工作。
 
@@ -126,7 +126,9 @@ Coding bootcamp 畢業時剛好遇到 Covid，找工作非常困難，我在三�
 
 * * *
 
-**如果你喜歡海外生活、澳洲職場、文組轉職工程師的相關文章，歡迎按下「拍手」給我鼓勵 (喜歡的話請多拍幾次！)。同時記得「**[**按此訂閱我的Medium部落格**](https://medium.com/@cloudarchitectec/subscribe)**」，這樣你就不會錯過我的更新囉～**
+**如果你喜歡海外生活、澳洲職場、文組轉職工程師的相關文章，歡迎按下「拍手」給我鼓勵 (喜歡的話請多拍幾次！)。同時記得「[按此訂閱我的Medium部落格](https://medium.com/@cloudarchitectec/subscribe)」，這樣你就不會錯過我的更新囉～**
+
+
 
 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
 
