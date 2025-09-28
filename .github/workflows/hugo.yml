@@ -56,16 +56,12 @@ jobs:
           
           echo "Checking themes directory structure:"
           ls -la themes/ || echo "Themes directory not found"
-          ls -la themes/congo/ || echo "Congo directory not found"
-          ls -la themes/congo/layouts/ || echo "Layouts directory not found"
-          ls -la themes/congo/layouts/_partials/ || echo "Partials directory not found"
-          ls -la themes/congo/layouts/_partials/functions/ || echo "Functions directory not found"
+          ls -la themes/PaperMod/ || echo "PaperMod directory not found"
           
           # Verify specific critical files
           echo "Checking for critical theme files:"
-          [ -f "themes/congo/theme.toml" ] && echo "✅ theme.toml found" || echo "❌ theme.toml missing"
-          [ -f "themes/congo/layouts/baseof.html" ] && echo "✅ baseof.html found" || echo "❌ baseof.html missing"
-          [ -f "themes/congo/layouts/_partials/functions/warnings.html" ] && echo "✅ warnings.html found" || echo "❌ warnings.html missing"
+          [ -f "themes/PaperMod/theme.toml" ] && echo "✅ PaperMod theme.toml found" || echo "❌ PaperMod theme.toml missing"
+          [ -f "themes/PaperMod/layouts/_default/baseof.html" ] && echo "✅ baseof.html found" || echo "❌ baseof.html missing"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
@@ -74,31 +70,33 @@ jobs:
       - name: Verify theme installation
         run: |
           echo "=== THEME VERIFICATION ==="
-          echo "Verifying Congo theme is properly installed..."
+          echo "Verifying PaperMod theme is properly installed..."
           
-          if [ ! -f "themes/congo/theme.toml" ]; then
-            echo "❌ ERROR: Congo theme.toml not found!"
-            echo "Available files in themes/congo/:"
-            ls -la themes/congo/ || echo "Congo directory completely missing"
+          if [ ! -f "themes/PaperMod/theme.toml" ]; then
+            echo "❌ ERROR: PaperMod theme.toml not found!"
+            echo "Available files in themes/:"
+            ls -la themes/ || echo "Themes directory completely missing"
+            echo "Available files in themes/PaperMod/:"
+            ls -la themes/PaperMod/ || echo "PaperMod directory completely missing"
             exit 1
           fi
-          echo "✅ Congo theme.toml found"
+          echo "✅ PaperMod theme.toml found"
           
-          if [ ! -f "themes/congo/layouts/_partials/functions/warnings.html" ]; then
-            echo "❌ ERROR: Required theme partial warnings.html not found!"
-            echo "Available files in functions directory:"
-            ls -la themes/congo/layouts/_partials/functions/ || echo "Functions directory missing"
-            echo "Available partials:"
-            find themes/congo/layouts/_partials -name "*.html" || echo "No partials found"
+          if [ ! -f "themes/PaperMod/layouts/_default/baseof.html" ]; then
+            echo "❌ ERROR: Required theme baseof.html not found!"
+            echo "Available files in layouts directory:"
+            ls -la themes/PaperMod/layouts/ || echo "Layouts directory missing"
             exit 1
           fi
-          echo "✅ Required theme partials found"
+          echo "✅ Required theme layouts found"
           
           # Test if Hugo can see the theme
           echo "Testing Hugo theme detection..."
           hugo list all --quiet > /dev/null 2>&1 || {
             echo "❌ ERROR: Hugo cannot properly detect the theme"
             hugo version
+            echo "Hugo configuration:"
+            cat hugo.toml
             exit 1
           }
           echo "✅ Hugo can detect the theme properly"
@@ -111,8 +109,10 @@ jobs:
           echo "Theme configuration in hugo.toml:"
           grep -A 5 -B 5 "theme" hugo.toml || echo "No theme config found"
           echo "Final check - critical files exist:"
-          [ -f "themes/congo/layouts/_partials/functions/warnings.html" ] && echo "✅ warnings.html still present" || echo "❌ warnings.html disappeared!"
-          [ -f "themes/congo/layouts/baseof.html" ] && echo "✅ baseof.html present" || echo "❌ baseof.html missing!"
+          [ -f "themes/PaperMod/layouts/_default/baseof.html" ] && echo "✅ baseof.html still present" || echo "❌ baseof.html disappeared!"
+          [ -f "themes/PaperMod/theme.toml" ] && echo "✅ theme.toml present" || echo "❌ theme.toml missing!"
+          echo "Content directory structure:"
+          ls -la content/ || echo "No content directory"
           echo "=== STARTING HUGO BUILD ==="
       - name: Build with Hugo
         env:
