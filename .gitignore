@@ -51,6 +51,7 @@ share/python-wheels/
 public/
 resources/_gen/
 .hugo_build.lock
+hugo_stats.json
 
 # -----------------------
 # Temporary files / build artifacts
