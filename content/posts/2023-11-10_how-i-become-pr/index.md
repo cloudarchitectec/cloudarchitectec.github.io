@@ -46,7 +46,7 @@ images: ['images/medium-0*1xfcDaGhCc5nGsk1.jpg', 'images/medium-1*5CTCCGxgEEIMkJ
 
 ### 開始踏上移民過程
 
-我當年讀的是 [Macquarie University Master of Translation and Interpreting](http://Master%20of%20Translation%20and%20Interpreting%20Studies)，這是一個兩年的口筆譯碩士學位。讀完一年之後，我成功考取了澳洲的 NAATI 翻譯職業證照：三級筆譯與三級口譯，也開始體會到我自己是認真想要移民澳洲。但是口筆譯並不在移民清單上，於是我開始開始找其他方法，同時也諮詢了許多移民仲介。
+我當年讀的是 Macquarie University Master of Translation and Interpreting Studies，這是一個兩年的口筆譯碩士學位。讀完一年之後，我成功考取了澳洲的 NAATI 翻譯職業證照：三級筆譯與三級口譯，也開始體會到我自己是認真想要移民澳洲。但是口筆譯並不在移民清單上，於是我開始開始找其他方法，同時也諮詢了許多移民仲介。
 
 這個時候我發現澳洲的移民仲介參差不齊 (其實我當時也在一間移民仲介打工，看過很多鬼故事XD)。在此建議大家一定要多多跟幾個仲介聊聊，結合不同人的說法，再加上自己去閱讀移民局的官方的資訊，才不會因為不專業的仲介而多走冤望路。 (在此同時，我們翻譯所大概有 20 位同學，每個人都想移民，不過大多數人都決定先把學位讀完再說)。
 

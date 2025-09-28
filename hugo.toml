@@ -2,40 +2,122 @@ baseURL = "https://cloudarchitectec.github.io/"
 languageCode = "zh-Hant"
 defaultContentLanguage = "zh-Hant"
 title = "Cloud Architect EC"
-theme = "congo"
+theme = "PaperMod"
 
-# Suppress raw HTML warnings
-ignoreLogs = ['warning-goldmark-raw-html']
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+  title = "Cloud Architect EC"
+  description = "澳洲雲端架構師 EC 的技術部落格 - Cloud Architect EC's Tech Blog"
+  keywords = ["Cloud Architecture", "AWS", "Azure", "Tech Blog", "雲端架構"]
+  author = "Cloud Architect EC"
+  
+  defaultTheme = "auto" # dark, light
+  disableThemeToggle = false
+
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.assets]
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png" 
+    safari_pinned_tab = "safari-pinned-tab.svg"
+
+  [params.label]
+    text = "Cloud Architect EC"
+    icon = "favicon.ico"
+    iconHeight = 35
+
+  # profile-mode
+  [params.profileMode]
+    enabled = false
+
+  # home-info mode
+  [params.homeInfoParams]
+    Title = "歡迎來到 Cloud Architect EC 的技術部落格"
+    Content = "分享雲端架構、AWS、Azure 以及技術職涯的心得與經驗"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/cloudarchitectec"
 
 [languages]
   [languages.zh-hant]
     languageName = "繁體中文"
     title = "澳洲雲端架構師 EC"
     weight = 1
+    contentDir = "content"
+    [languages.zh-hant.homeInfoParams]
+      Title = "歡迎來到 Cloud Architect EC 的技術部落格"
+      Content = "分享雲端架構、AWS、Azure 以及技術職涯的心得與經驗"
+    [[languages.zh-hant.menu.main]]
+      name = "文章"
+      url = "/posts"
+      weight = 10
+    [[languages.zh-hant.menu.main]]
+      name = "標籤"
+      url = "/tags"
+      weight = 20
+    [[languages.zh-hant.menu.main]]
+      name = "分類"
+      url = "/categories"
+      weight = 30
+
   [languages.en]
     languageName = "English"
     title = "Cloud Architect EC"
     weight = 2
+    contentDir = "content"
+    [languages.en.homeInfoParams]
+      Title = "Welcome to Cloud Architect EC's Tech Blog"
+      Content = "Sharing insights on cloud architecture, AWS, Azure, and tech career experiences"
+    [[languages.en.menu.main]]
+      name = "Posts"
+      url = "/posts"
+      weight = 10
+    [[languages.en.menu.main]]
+      name = "Tags"  
+      url = "/tags"
+      weight = 20
+    [[languages.en.menu.main]]
+      name = "Categories"
+      url = "/categories" 
+      weight = 30
 
-[params]
-  # Primary theme color
-  colorScheme = "auto"
-  # Enable table of contents
-  enableTOC = true
-  # Show post reading time
-  showReadingTime = true
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"
 
-[menu]
-  [[menu.main]]
-    name = "Posts"
-    pageRef = "posts"
-    weight = 10
-  [[menu.main]]
-    name = "Tags"
-    pageRef = "tags"
-    weight = 20
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # is necessary
