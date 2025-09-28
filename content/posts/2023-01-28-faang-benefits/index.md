@@ -64,14 +64,3 @@ EAP 是一個眾多澳洲公司都會提供的計畫，如果員工有需要的�
 
 以上就是微軟的員工福利，全部加起來 (手機、stay well、stay fit、私人保險) 微軟員工一年可以獲得 $3,800澳幣/$76,000台幣的員工福利，也歡迎大家跟我分享你們的員工福利 ^0^
 
-
-
-**延伸閱讀**
-
-  * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/職涯-我為什麼選擇轉職-it-產業-e0507b5c98e1)
-  * [[澳洲職場] 我在澳洲所見的薪資怪象](https://medium.com/@cloudarchitectec/澳洲職場-我在澳洲所見的薪資怪象-53f8d0f713f4)
-  * [[澳洲職場] 台灣人的文化衝擊 — 我的澳洲辦公室文化觀察](/posts/2022-12-14-aus-office/)
-  * [[FAANG] 科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-
-

@@ -101,8 +101,6 @@ tags: ["職涯", "海外職場", "面試", "履歷"]
 
 👉 點這裡預約諮詢：[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
 
-📬 若還沒準備好諮詢，也可以先關注我的 [Medium 專欄](https://medium.com/@cloudarchitectec)，定期分享實用的職場觀察與轉職心得！
-
 也歡迎透過以下管道追蹤我：
 
   * **Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)

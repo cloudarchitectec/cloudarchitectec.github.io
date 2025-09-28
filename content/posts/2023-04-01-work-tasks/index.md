@@ -54,8 +54,6 @@ tags: ["職涯"]
 * * *
 
 **延伸閱讀**
-
-  * [[職場] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/職場-solution-architect-technical-consultant-software-developer-比較-1484a6401723)
   * [[澳洲職場] 如何準備職場英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
   * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/職涯-我為什麼選擇轉職-it-產業-e0507b5c98e1)
   * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)

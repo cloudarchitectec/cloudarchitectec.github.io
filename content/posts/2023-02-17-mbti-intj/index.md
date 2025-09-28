@@ -41,7 +41,6 @@ tags: ["澳洲生活"]
 **延伸閱讀**
 
   * [[FAANG] 2023 Q1 科技大廠裁員潮 — 微軟員工心得](/posts/2023-02-11-2023-q1-layoff/)
-  * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/職涯-我為什麼選擇轉職-it-產業-e0507b5c98e1)
   * [[澳洲職場] 台灣人的文化衝擊 — 我的澳洲辦公室文化觀察](/posts/2022-12-14-aus-office/)
   * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
   * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)

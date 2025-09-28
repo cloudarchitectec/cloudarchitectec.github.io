@@ -39,6 +39,20 @@ enableEmoji = true
   showtoc = true
   tocopen = false
 
+  # Fuzzy search configuration optimized for Traditional Chinese
+  [params.fuseOpts]
+    isCaseSensitive = false
+    includeScore = false
+    includeMatches = false
+    minMatchCharLength = 1  # Chinese characters are meaningful individually
+    shouldSort = true
+    findAllMatches = true   # Find all matches for better Chinese search
+    keys = ["title", "permalink", "summary", "content"]
+    location = 0
+    threshold = 0.2  # More strict for Chinese to avoid too many false matches
+    distance = 50    # Reduce distance for more precise matching
+    ignoreLocation = true
+
   [params.assets]
     favicon = "favicon.ico"
     favicon16x16 = "favicon-16x16.png"
@@ -103,11 +117,11 @@ enableEmoji = true
     [[languages.zh-hant.menu.main]]
       name = "文章"
       url = "/posts"
-      weight = 10
+      weight = 20
     [[languages.zh-hant.menu.main]]
       name = "標籤"
       url = "/tags"
-      weight = 20
+      weight = 40
     [[languages.zh-hant.menu.main]]
       name = "分類"
       url = "/categories"

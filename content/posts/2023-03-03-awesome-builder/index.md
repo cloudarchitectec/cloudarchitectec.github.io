@@ -63,6 +63,5 @@ AB 的目的是確保你已經足夠瞭解AWS的文化與產品，有辦法代�
   * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](/posts/2023-02-04-cloud-certs/)
   * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
   * [[FAANG] 科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [[FAANG] AWS Professional Services Cloud Architect 工作內容分享](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-工作內容分享-7079361ea84)
 
 
