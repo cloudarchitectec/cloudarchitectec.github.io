@@ -191,8 +191,8 @@ _轉職就跟投資理財一樣有賺有賠。作為一位從台灣文組背景�
 
 **📱 想追蹤更多？**
 
-  * 📘 Facebook 粉專：澳洲雲端架構師 EC
-  * 🧵****Threads：Cloud Architect EC
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
   * ☕ 喜歡我的創作分享？[請 EC 喝杯咖啡吧](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
   * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 

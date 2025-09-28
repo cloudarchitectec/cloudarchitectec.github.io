@@ -34,7 +34,6 @@ enableEmoji = true
   UseHugoToc = true
   disableSpecial1stPost = false
   disableScrollToTop = false
-  comments = true
   hidemeta = false
   hideSummary = false
   showtoc = true
@@ -76,8 +75,11 @@ enableEmoji = true
     name = "github"
     url = "https://github.com/cloudarchitectec"
 
+  # Enable comments globally
+  comments = true
+  
   # Giscus Comments Configuration
-  [params.comments.giscus]
+  [params.giscus]
     repo = "cloudarchitectec/cloudarchitectec.github.io"
     repoId = "R_kgDOPv4HjQ"
     category = "General"

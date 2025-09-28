@@ -1,20 +1,18 @@
-{{- if and .Site.Params.comments (not .Params.disableComments) }}
-{{- if .Site.Params.comments.giscus }}
+{{- if site.Params.giscus }}
 <div id="giscus-comments" class="comments">
   <script src="https://giscus.app/client.js"
-        data-repo="{{ .Site.Params.comments.giscus.repo }}"
-        data-repo-id="{{ .Site.Params.comments.giscus.repoId }}"
-        data-category="{{ .Site.Params.comments.giscus.category }}"
-        data-category-id="{{ .Site.Params.comments.giscus.categoryId }}"
-        data-mapping="{{ .Site.Params.comments.giscus.mapping }}"
-        data-reactions-enabled="{{ .Site.Params.comments.giscus.reactionsEnabled }}"
-        data-emit-metadata="{{ .Site.Params.comments.giscus.emitMetadata }}"
-        data-input-position="{{ .Site.Params.comments.giscus.inputPosition }}"
-        data-theme="{{ .Site.Params.comments.giscus.theme }}"
-        data-lang="{{ .Site.Params.comments.giscus.lang }}"
+        data-repo="{{ site.Params.giscus.repo }}"
+        data-repo-id="{{ site.Params.giscus.repoId }}"
+        data-category="{{ site.Params.giscus.category }}"
+        data-category-id="{{ site.Params.giscus.categoryId }}"
+        data-mapping="{{ site.Params.giscus.mapping }}"
+        data-reactions-enabled="{{ site.Params.giscus.reactionsEnabled }}"
+        data-emit-metadata="{{ site.Params.giscus.emitMetadata }}"
+        data-input-position="{{ site.Params.giscus.inputPosition }}"
+        data-theme="{{ site.Params.giscus.theme }}"
+        data-lang="{{ site.Params.giscus.lang }}"
         crossorigin="anonymous"
         async>
   </script>
 </div>
-{{- end }}
 {{- end }}

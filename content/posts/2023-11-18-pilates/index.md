@@ -99,8 +99,8 @@ Studio Pilates 的動作的連續性有時候設計的滿不流暢的，一下�
 
 **📱 想追蹤更多？**
 
-  * 📘 Facebook 粉專：澳洲雲端架構師 EC
-  * 🧵****Threads：Cloud Architect EC
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
   * ☕ 喜歡我的創作分享？[請 EC 喝杯咖啡吧](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
   * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
