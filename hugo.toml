@@ -10,6 +10,10 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 
+# URL configuration for Chinese characters
+removePathAccents = false
+disablePathToLower = true
+
 [minify]
   disableXML = true
   minifyOutput = true
