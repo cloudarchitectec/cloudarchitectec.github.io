@@ -36,7 +36,7 @@ AZ-305的考試時長是 120 分鐘，我花了30分鐘寫完 46 題 (這次很�
 
 ### 準備心得與反思
 
-這次我仍然選用了 A Cloud Guru (ACG) 的 [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://acloudguru.com/course/az-305-designing-microsoft-azure-infrastructure-solutions) 課程，如果有讀過我之前這篇 [[雲端證照] 如何準備 AZ-104 Azure Administrator Associate 證照](https://medium.com/@cloudarchitectec/如何準備-az-104-azure-administrator-associate-證照-ce4e5e16bebc) 的朋友，應該還會記得我上次對於使用 ACG 課程其實不是太滿意。
+這次我仍然選用了 A Cloud Guru (ACG) 的 [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://acloudguru.com/course/az-305-designing-microsoft-azure-infrastructure-solutions) 課程，如果有讀過我之前這篇 [微軟 Azure 雲端證照: 只花 40 小時順利通過 AZ-104 Azure Administrator Associate](/posts/2022-11-19-azure-az-104-study/) 的朋友，應該還會記得我上次對於使用 ACG 課程其實不是太滿意。
 
 我這次的確事先嘗試了一下外國網友們大推的微軟官方課程 [AZ-305 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/az-305)，但我後來發現這個學習資源基本上就是把各種相關的 Azure官方文件集結在一起。我個人還是比較偏好影音式學習的方式，所以我後來還是花了約兩個月的時間，把 ACG 的課程上完(這次的整體準備時間較長，主要是因為我的工作開始忙了起來，所以中間幾乎找不到時間學習)。
 
@@ -54,10 +54,7 @@ AZ-305的考試時長是 120 分鐘，我花了30分鐘寫完 46 題 (這次很�
 
 **延伸閱讀**
 
-  * [[雲端證照] 2022.11.18 AZ-104 Azure Administrator Associate 考試心得](https://medium.com/@cloudarchitectec/az-104-azure-證照通過心得-80625af7c654)
-  * [[雲端證照] 如何準備 AZ-104 Azure Administrator Associate 證照](https://medium.com/@cloudarchitectec/如何準備-az-104-azure-administrator-associate-證照-ce4e5e16bebc)
   * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
   * [[FAANG | 澳洲職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[FAANG] AWS Professional Services Cloud Architect 工作內容分享](https://medium.com/@cloudarchitectec/aws-professional-services-cloud-architect-工作內容分享-7079361ea84)
 
 

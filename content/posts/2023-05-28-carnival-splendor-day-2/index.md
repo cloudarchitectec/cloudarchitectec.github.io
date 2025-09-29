@@ -86,10 +86,4 @@ Carnival 有一個手機 App 叫 Carnival Hub，非常好用。只要連接上�
 
 有任何問題或是想要看的主題，歡迎留言跟我互動 :)
 
-  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](https://medium.com/@cloudarchitectec/旅遊-2023-05-15-carnival-splendor-澳洲南太平洋郵輪-day-1-雪梨登船-fd3e84083d62)
-  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](https://medium.com/@cloudarchitectec/旅遊-carnival-splendor-澳洲南太平洋郵輪-事前準備及須知-2023-05出發-b7ee58cf7bc4)
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/介紹-大家好-我是ec-afcf45d128eb)
-  * [[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)](https://medium.com/@cloudarchitectec/生活-坎培拉aws生活四個月分享-2021-03-2021-07-b20c646a9f16)
-  * [[生活]澳洲首次買房流程分享](https://medium.com/@cloudarchitectec/生活-澳洲首次買房流程分享-2021-5bd28c444bfb)
-
 

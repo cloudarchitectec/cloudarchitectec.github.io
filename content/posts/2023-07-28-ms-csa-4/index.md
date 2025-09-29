@@ -137,7 +137,6 @@ ATS 私訊我說看來會延遲一下，我問說那還是按照計劃12點結�
 **延伸閱讀**
 
   * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[職場] 你登入澳洲了，然後呢？如何提高找到澳洲科技業正職工作的機會 — 旅澳十年的臺灣工程師告訴你！](https://medium.com/@cloudarchitectec/tips-on-how-to-find-a-tech-job-in-australia-3535243e7cf7)
   * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](/posts/2023-04-01-work-tasks/)
   * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
   * [[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思](/posts/2023-07-28-ms-csa-in-9-months/)

@@ -14,8 +14,6 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*u9nLLJr6VU1ZuiqO8Vxuxw.jpeg.jpg)給大家看一下積雪有多厚
 
-非 Medium 付費會員，[請長按此處免費閱讀這篇文章](https://medium.com/@cloudarchitectec/dd13c48b80ba?source=friends_link&sk=760891e086e86e20bb45bea9b78758bf)。當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### 鐵力士山 (Titlis Mountain)
 
 鐵力士山海拔 3020 公尺，是瑞士中部的第一高峰！
@@ -104,7 +102,7 @@ tags: ["旅遊", "瑞士"]
 
 [![](images/medium-0*k_ikOtaCnNKcaOZv.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
+  * 想看 EC 的更多文章，請參考：[澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
   * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
   * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
 

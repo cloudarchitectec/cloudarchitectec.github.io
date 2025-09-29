@@ -18,10 +18,6 @@ tags: ["旅遊", "荷蘭", "德國", "瑞士", "奧地利"]
 
 為了替這個長達三個月的連載劃下一個句點，這篇文章就是要跟大家來分享我的歐洲獨旅心得總結！最後也會附上一些常見的 Q & A，希望可以幫助到有興趣獨自去歐洲自助旅行的冒險者XD
 
-* * *
-
-非 Medium 付費會員，[請長按此處免費閱讀這篇文章。](https://medium.com/@cloudarchitectec/b70945cc8b3d?source=friends_link&sk=41e43714a6048584f7cbe26c1d78efb0)當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### 地點
 
 我總共去了香港(昂坪纜車/大佛)、荷蘭(阿姆斯特丹、海牙、萊登、台夫特)、德國(法蘭克福、紐倫堡、慕尼黑、新天鵝堡)、奧地利(薩爾斯堡)、瑞士 (茵特拉肯、少女峰、伯恩、琉森)。
@@ -145,8 +141,7 @@ tags: ["旅遊", "荷蘭", "德國", "瑞士", "奧地利"]
 
 如果你對於我的歐洲遊記有興趣，歡迎閱讀以下文章：
 
-  * [一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-before-the-flight-319839ca6096)
-  * [一個女生的歐洲獨旅: 2024.04.24 香港轉機之昂坪纜車/大佛/市集一日遊](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-hongkong-stopover-14c81911fd96)
+  * [一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃](/posts/2024-08-10-2025-europe-summary/)
   * [一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的運河屋](/posts/2024-04-25-amsterdam/)
   * [一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城](/posts/2024-04-26-leiden/)
   * [一個女生的歐洲獨旅: 2024.04.27 荷蘭 在藍瓷小鎮台夫特 (Delft) 慶祝國王節](/posts/2024-04-27-delft/)
@@ -175,7 +170,7 @@ tags: ["旅遊", "荷蘭", "德國", "瑞士", "奧地利"]
 
 ![](images/medium-0*6QLsmelpga0ynQ4B.png.jpg)
 
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
+  * 想看 EC 的更多文章，請參考：[澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
   * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
   * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
 

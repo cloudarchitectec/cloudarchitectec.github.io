@@ -73,6 +73,5 @@ tags: ["旅遊", "郵輪"]
   * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
   * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[生活]澳洲首次買房流程分享](https://medium.com/@cloudarchitectec/生活-澳洲首次買房流程分享-2021-5bd28c444bfb)
 
 

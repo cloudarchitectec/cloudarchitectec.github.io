@@ -1,5 +1,5 @@
 ---
-title: "辭職去流浪，真的是解答嗎？當人生沒有明確下一步時，我總想再次出發。"
+title: "辭職去流浪，真的是解答嗎？"
 date: 2024-09-13
 slug: "2024-09-13quit-and-travel"
 image: "images/medium-0*MY-EdliKyYS6OBxE.jpg"
@@ -10,7 +10,7 @@ tags: ["澳洲生活", "職涯"]
 
 * * *
 
-### 辭職去流浪，真的是解答嗎？當人生沒有明確下一步時，我總想再次出發。
+### 辭職去流浪，真的是解答嗎？
 
 ![](images/medium-0*MY-EdliKyYS6OBxE.jpg)Photo by [Jordan Ladikos](https://unsplash.com/@jordanladikos?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -52,10 +52,10 @@ tags: ["澳洲生活", "職涯"]
 
 現在的我也已經在這個職位滿一年了！說實話，這個職位的工作內容是我最喜歡的，而且整個團隊的氣氛也非常好。
 
-今年五月我去了一趟歐洲三個禮拜(對我的旅程有興趣的人，可以參考我的[一個女生的歐洲獨旅](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-before-the-flight-319839ca6096)系列)、八月底我去了一趟紐西蘭北島學習滑單板 (snowboarding)，上週六才剛回來 (如果有興趣看我的紐西蘭遊記，歡迎留言XD)。
+今年五月我去了一趟歐洲三個禮拜(對我的旅程有興趣的人，可以參考我的[一個女生的歐洲獨旅](/posts/2024-08-10-2025-europe-summary/)系列)、八月底我去了一趟紐西蘭北島學習滑單板 (snowboarding)，上週六才剛回來 (如果有興趣看我的紐西蘭遊記，歡迎留言XD)。
 
 [**一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃**  
- _此篇文章是「一個女生的歐洲獨旅」系列的第一篇文章，講述了 EC 為什麼選擇去歐洲，安排了哪些行程，如何挑選交通方式與住宿地點，還有春天去歐洲旅遊的打包訣竅。如果你對 EC 的歐洲行有興趣，那請千萬不要錯過這個系列！_ medium.com](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-before-the-flight-319839ca6096)[](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-before-the-flight-319839ca6096)
+ _此篇文章是「一個女生的歐洲獨旅」系列的第一篇文章，講述了 EC 為什麼選擇去歐洲，安排了哪些行程，如何挑選交通方式與住宿地點，還有春天去歐洲旅遊的打包訣竅。如果你對 EC 的歐洲行有興趣，那請千萬不要錯過這個系列！_ medium.com](/posts/2024-08-10-2025-europe-summary/)[](/posts/2024-08-10-2025-europe-summary/)
 
 ### 人生總是有那麼一個 but
 

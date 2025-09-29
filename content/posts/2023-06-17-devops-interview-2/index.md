@@ -141,15 +141,4 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
   * 歡迎追蹤[臉書粉專](https://www.facebook.com/cloudarchitectec/) / [脆](https://www.threads.net/@cloud_architect_ec)
   * 合作請聯繫：[cloudarchitectec@gmail.com](http://cloudarchitectec@gmail.com)
-  * 如果想要閱讀更多 EC 的文章，請參考以下系列書單：
 
-
-
-[**澳洲雲端架構師 EC: 海外職場/英文面試系列**  
- _EC 關於海外職場的心得與英文面試的技巧分心_ medium.com](https://medium.com/@cloudarchitectec/list/b399bb173eae)[](https://medium.com/@cloudarchitectec/list/b399bb173eae)
-
-[**澳洲雲端架構師 EC: 澳洲科技大廠 (Amazon & 微軟) 工作分享系列**  
- _分享 EC 在 Amazon 跟微軟的工作經歷_ medium.com](https://medium.com/@cloudarchitectec/list/4c54b243916e)[](https://medium.com/@cloudarchitectec/list/4c54b243916e)
-
-[**澳洲雲端架構師 EC: 轉職工程師系列**  
- _描述 EC 如何從英文系轉職工程師的系列文章_ medium.com](https://medium.com/@cloudarchitectec/list/db0d29c96b57)[](https://medium.com/@cloudarchitectec/list/db0d29c96b57)

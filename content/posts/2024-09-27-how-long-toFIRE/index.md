@@ -48,14 +48,14 @@ _2022 年九月我決定從 Amazon 離職。在開始我在微軟的新工作前
 
 
 [**一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃**  
- _此篇文章是「一個女生的歐洲獨旅」系列的第一篇文章，講述了 EC 為什麼選擇去歐洲，安排了哪些行程，如何挑選交通方式與住宿地點，還有春天去歐洲旅遊的打包訣竅。如果你對 EC 的歐洲行有興趣，那請千萬不要錯過這個系列！_ medium.com](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-before-the-flight-319839ca6096)[](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-before-the-flight-319839ca6096)
+ _此篇文章是「一個女生的歐洲獨旅」系列的第一篇文章，講述了 EC 為什麼選擇去歐洲，安排了哪些行程，如何挑選交通方式與住宿地點，還有春天去歐洲旅遊的打包訣竅。如果你對 EC 的歐洲行有興趣，那請千萬不要錯過這個系列！_ medium.com](/posts/2024-08-10-2025-europe-summary/)[](/posts/2024-08-10-2025-europe-summary/)
 
   * 2024: 8天紐西蘭
 
 
 
 [**兩個女生的紐西蘭自駕滑雪行 🇳🇿: 行程與花費分享**  
- _這一陣子 EC 都頗為厭世，本來只是想在布里斯本想找個深山躲起來，沒想到旅遊資訊查來查去，我就突然決定要跟室友 C 一起去紐西蘭滑雪啦～ 這篇是「兩個女生的紐西蘭自駕滑雪行…_ medium.com](https://medium.com/@cloudarchitectec/new-zealand-snowboarding-road-trip-itinerary-and-costs-667303c82c69)[](https://medium.com/@cloudarchitectec/new-zealand-snowboarding-road-trip-itinerary-and-costs-667303c82c69)
+ _這一陣子 EC 都頗為厭世，本來只是想在布里斯本想找個深山躲起來，沒想到旅遊資訊查來查去，我就突然決定要跟室友 C 一起去紐西蘭滑雪啦～ 這篇是「兩個女生的紐西蘭自駕滑雪行…_ medium.com](/posts/2024-09-02-2024-nz-summary/)[](/posts/2024-09-02-2024-nz-summary/)
 
 ### 反思投資策略
 

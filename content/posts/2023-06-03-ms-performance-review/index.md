@@ -37,7 +37,7 @@ Connect 內容主要分成以下幾個部分。
   * **Azure 消費影響 (Consumption Impact)** : 你手上的客戶總共在 Azure 上花了多少錢，你做了什麼事情幫助客戶可以在 Azure 上順利部署 (i.e. 花錢)。
   * **Azure 擴張影響 (Expansion Impact)** : 你在 sales pipeline 裡面創造了多少新的 opportunties，簡單來說就是你挖掘了多少客戶可能在 Azure 上花錢的新機會。
   * **UCR (Unified Revenue Impact):** 微軟內部用語，簡單來說就是你 deliver 了多少客戶需要額外付費的微軟 workshops。(哇，又是錢哈哈哈! 大家可以知道我為什麼說這個工作跟我的個人價值觀不符了吧? 雖然說 CSA 是個技術職位，但我們的 KPI 幾乎都是用銷售數字在衡量 >”<)
-  * **技能專業化與精通的增長 (Growth in Specialization & mastery across skills): **過去在技能上的成長，我寫了我過去六個月考過了兩張 Azure 證照。準備心得可以參考我之前的文章: [[雲端證照] 2023.01.02 AZ-305 Microsoft Certified Azure Solutions Architect Expert 準備&考試心得](https://medium.com/@cloudarchitectec/雲端證照-2023-01-02-az-305-microsoft-certified-azure-solutions-architect-expert-準備-考試心得-d7ec5dc6b3cc) 和 [[雲端證照] 2022.11.18 AZ-104 Azure Administrator Associate 考試心得](https://medium.com/@cloudarchitectec/az-104-azure-證照通過心得-80625af7c654)。
+  * **技能專業化與精通的增長 (Growth in Specialization & mastery across skills): **過去在技能上的成長，我寫了我過去六個月考過了兩張 Azure 證照。
   * **對他人成功的貢獻 (Contribution to success of others)** : 寫你做了什麼事幫助你同事成功。這點其實是我還滿喜歡的一點，你協助他人成功的地方也可以列為你自己的 KPI。
   * **建立在他人工作基礎上的成果 (Results that built on other’s work):** 寫你做了什麼事是建立在你的同事的工作基礎上。這點也是我還滿喜歡的一點，與其大家各做各的，如果已經有人做過類似的工作，那下一個人遇到同樣問題時，可以直接利用前人的工作成果，而不是每個人都花時間自己在從頭摸索。只可惜理想是美滿的，現實是骨感的，微軟內部的不管是同一個 team 或是 cross team 之間的溝通都不是太好XDDD 所以還是常常發生每個人各幹各的，費時又耗力，還沒有一個統一的成果或標準的結果…
 
@@ -114,9 +114,6 @@ command 在英文字典裡的解釋是「to present or mention as worthy of conf
 **延伸閱讀**
 
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[職場] 如何準備澳洲辦公室英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
   * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)
   * [[](/posts/2022-12-03-bootcamp-to-aws/)[職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [[職場] 知己知彼，百戰百勝 — 英文面試中你該問雇主哪些問題](https://medium.com/@cloudarchitectec/職場-知己知彼-百戰百勝-英文面試中你該問雇主哪些問題-31d0b0a00dd1)
-
 

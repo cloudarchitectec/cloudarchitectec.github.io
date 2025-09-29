@@ -194,6 +194,6 @@ tags: ["職涯", "轉職", "薪資"]
   * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)
   * [[](/posts/2022-12-03-bootcamp-to-aws/)[職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
   * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
+  * [澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
 
 

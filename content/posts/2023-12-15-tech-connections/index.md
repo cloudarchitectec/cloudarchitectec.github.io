@@ -1,7 +1,7 @@
 ---
 title: "如何在澳洲增加工作上的人脈? 如何經營自己的職場品牌? 如何提高自己找到工作的機率? 你不可不知的 Tech Meet-ups!"
 date: 2023-12-15
-slug: "2023-12-15tech-connections"
+slug: "2023-12-15-tech-connections"
 image: "images/medium-0*M-Nsha3Kr5GQFhi_.jpg"
 images: ['images/medium-0*M-Nsha3Kr5GQFhi_.jpg', 'images/medium-1*cUxo55MxD-zjIxzSzIHw8Q.png.jpg', 'images/medium-1*Mf2_XB6J4I6s3JQg-WUjRA.png.jpg', 'images/medium-1*Tas7j8ZA1GVKhLmMkeUUKw.png.jpg', 'images/medium-1*vNUhERllI0LNMPp4aa6hFQ.png.jpg', 'images/medium-1*sFJD3jQZURveaRmypOKonQ.png.jpg', 'images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png.jpg', 'images/medium-1*9jJ12WPnePR-vuJ_IF3HTg.png.jpg', 'images/medium-1*WnBcHvtXznF5SCPBr-wFrA.png.jpg', 'images/medium-1*Ts4-MJD68Kw2BzNl2z11lQ.png.jpg', 'images/medium-0*TozX87zgUY3ia-IV.jpg.jpg', 'images/medium-1*owy9aRx6zJK_mHlUZiVlsA.png.jpg', 'images/medium-1*SF8Npxo4g2o6puU29vjyNQ.png.jpg']
 categories: ["投資理財"]
@@ -113,8 +113,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 **延伸閱讀**
 
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
-  * [你登入澳洲了，然後呢？如何提高找到澳洲科技業正職工作的機會 — 旅澳十年的臺灣工程師告訴你！](https://medium.com/@cloudarchitectec/tips-on-how-to-find-a-tech-job-in-australia-3535243e7cf7)
+  * [澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
   * [如何準備澳洲辦公室英文面試](/posts/2023-01-21-eng-interview/)
   * [轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思](/posts/2023-09-08-reflection-on-transition/)
 

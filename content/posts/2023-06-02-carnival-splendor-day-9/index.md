@@ -93,6 +93,6 @@ Ashley 戲稱我旁邊的阿姨是我的賓果小天使，不僅借我螢光筆�
   * [[旅遊] 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Signal Island (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-7/)
   * [[旅遊] 2023.05.20 Carnival Splendor 澳洲南太平洋郵輪 — Day 6 Mystery Island (Vanuatu)](/posts/2023-06-02-carnival-splendor-day-6/)
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
+  * [澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
 
 

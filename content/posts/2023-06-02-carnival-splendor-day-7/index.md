@@ -69,6 +69,6 @@ Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始
   * [[旅遊] 2023.05.19 Carnival Splendor 澳洲南太平洋郵輪 — Day 5 Lifou (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-5/)
   * [[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-4/)
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表 (2023.06.03 更新)](./2018-01-02-ec-post-list/index.md)
+  * [澳洲雲端架構師 EC ｜精選文章懶人包 (2023.06.03 更新)](./2018-01-02-ec-post-list/index.md)
 
 

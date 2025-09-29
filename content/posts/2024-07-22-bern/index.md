@@ -14,10 +14,6 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg)瑞士 國會大廈
 
-非 Medium 付費會員，[請長按此處免費閱讀這篇文章](https://medium.com/@cloudarchitectec/4a1fc626f826?source=friends_link&sk=a9b63c1da076da9eb47ab7e6ae1c0047)。當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ### 火車上結識瑞士杯杯
 
 今天要離開茵特拉肯 (Interlaken)，前往歐洲行的最後一個城市琉森 (Luzern) ！
@@ -94,7 +90,7 @@ tags: ["旅遊", "瑞士"]
 
 [![](images/medium-0*UQyYhVGA_oLdfGDf.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
+  * 想看 EC 的更多文章，請參考：[澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
   * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
   * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
 
