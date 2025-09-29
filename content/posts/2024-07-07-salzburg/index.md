@@ -130,17 +130,4 @@ tags: ["旅遊", "奧地利", "薩爾斯堡"]
 
 因為難得來一趟，而且我真的覺得薩爾斯堡很好玩，於是我一直待到晚上八點才準備坐火車準備回慕尼黑~ 我還滿推薦大家在薩爾斯堡停留個1–3晚的，可以去附近的景點國王湖 (國王湖雖然位於德國，但從薩爾斯堡過去其實比較近喔XD)
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過**[**以下連結**](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)**請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-0*8KEkPcMzwV1zW23d.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-
-  * YouTube 頻道 (歐洲獨旅影片緩慢上線中)：<https://www.youtube.com/@CloudJourneyWithEC>
-
-
+{{< footer >}}

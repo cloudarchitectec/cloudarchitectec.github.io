@@ -3,7 +3,7 @@ title: "澳洲布里斯本：人生第一次露營就上手？Ivory’s Rock 露
 date: 2023-10-20
 slug: "2023-10-20-ivorys-rock"
 image: "images/medium-0*PCoJ-Bt57jcje8VH.jpg"
-images: ['images/medium-0*PCoJ-Bt57jcje8VH.jpg', 'images/medium-1*QHL554_H2WPCApfkYPymuA.jpeg.jpg', 'images/medium-1*EdUTjlQcoOL7Bl5YLSQlgg.jpeg.jpg', 'images/medium-1*f8gEPY6prbKaF3sZjuiFPg.jpeg.jpg', 'images/medium-1*TEbFVZ6ST0uyTaPcC9S4Bw.jpeg.jpg', 'images/medium-1*OzBtDbWfGdtFiPwEs6hBUg.jpeg.jpg', 'images/medium-1*0iw3EDTqN4ruET_pNCZZ9g.jpeg.jpg', 'images/medium-1*bqJrXdhSHXUUQLlgAdNgRQ.jpeg.jpg', 'images/medium-1*XjA_rNx_FUwwK3d3fUCDYA.jpeg.jpg', 'images/medium-1*1jgNUOk-pPseAm6Vk3yaTQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*PCoJ-Bt57jcje8VH.jpg', 'images/medium-1*QHL554_H2WPCApfkYPymuA.jpeg.jpg', 'images/medium-1*EdUTjlQcoOL7Bl5YLSQlgg.jpeg.jpg', 'images/medium-1*f8gEPY6prbKaF3sZjuiFPg.jpeg.jpg', 'images/medium-1*TEbFVZ6ST0uyTaPcC9S4Bw.jpeg.jpg', 'images/medium-1*OzBtDbWfGdtFiPwEs6hBUg.jpeg.jpg', 'images/medium-1*0iw3EDTqN4ruET_pNCZZ9g.jpeg.jpg', 'images/medium-1*bqJrXdhSHXUUQLlgAdNgRQ.jpeg.jpg', 'images/medium-1*XjA_rNx_FUwwK3d3fUCDYA.jpeg.jpg', 'images/medium-1*1jgNUOk-pPseAm6Vk3yaTQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]
 ---
@@ -48,16 +48,4 @@ tags: ["澳洲生活"]
 
 他們真心沒有在怕車子的哈哈哈哈！然後我也終於達成了在澳洲開車看著袋鼠經過我車前的成就🦘（好可惜我的車當時還沒有安裝行車記錄器，不然就可以分享影片給大家了😆)
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

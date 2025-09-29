@@ -14,10 +14,6 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg)瑞士 國會大廈
 
-非 Medium 付費會員，[請長按此處免費閱讀這篇文章](https://medium.com/@cloudarchitectec/4a1fc626f826?source=friends_link&sk=a9b63c1da076da9eb47ab7e6ae1c0047)。當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
-* * *
-
 ### 火車上結識瑞士杯杯
 
 今天要離開茵特拉肯 (Interlaken)，前往歐洲行的最後一個城市琉森 (Luzern) ！
@@ -84,18 +80,4 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpeg.jpg)![](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpeg.jpg)晚餐與膠囊旅館的換書區
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過**[**以下連結**](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)**請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-0*UQyYhVGA_oLdfGDf.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
-  * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
-
-
+{{< footer >}}

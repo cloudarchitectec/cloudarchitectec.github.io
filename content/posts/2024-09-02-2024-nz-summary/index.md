@@ -3,7 +3,7 @@ title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 行程與花費分享"
 date: 2024-09-02
 slug: "2024-09-02-2024-nz-summary"
 image: "images/medium-0*fYVrU-_MGwq3cCGa.jpg"
-images: ['images/medium-0*fYVrU-_MGwq3cCGa.jpg', 'images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg', 'images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg', 'images/medium-1*kuMTQe2hpKMN3xn8cLWUDg.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*fYVrU-_MGwq3cCGa.jpg', 'images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg', 'images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg', 'images/medium-1*kuMTQe2hpKMN3xn8cLWUDg.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "紐西蘭"]
 ---
@@ -136,16 +136,4 @@ EC 在 2012 年時一個人去過紐西蘭南島，我記得當年拿台灣護�
 
 如果你對於我這次的紐西蘭之旅有任何問題，都歡迎留言。接下來我還會繼續分享每一天的紐西蘭遊記，請大家敬請期待囉！
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

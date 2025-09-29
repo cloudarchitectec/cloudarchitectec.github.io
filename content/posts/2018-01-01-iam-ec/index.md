@@ -1,19 +1,15 @@
 ---
-title: "大家好，我是澳洲雲端架構師 EC!"
+title: "澳洲雲端架構師 EC ｜大家好，我是 EC"
 date: 2018-01-01
 slug: "2018-01-01-iam-ec"
 image: "images/medium-0*s8lY75qUNwwZVglG.jpg"
-images: ['images/medium-0*s8lY75qUNwwZVglG.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*s8lY75qUNwwZVglG.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["自我介紹", "職涯經歷", "澳洲移民", "轉職工程師"]
 description: "從台灣英文系畢業到成功移民澳洲，再從會計師轉職成為Amazon與微軟的雲端架構師 - EC的完整職涯故事與澳洲生活經驗分享"
 keywords: ["澳洲雲端架構師", "澳洲移民", "文組轉職工程師", "澳洲打工度假", "Amazon AWS", "微軟", "職涯轉換", "澳洲生活"]
 author: "EC"
 ---
-
-* * *
-
-### 大家好，我是澳洲雲端架構師 EC!
 
 ![Hello](images/medium-0*s8lY75qUNwwZVglG.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -95,7 +91,7 @@ author: "EC"
 畢業後我幸運的拿到澳洲PR ！後來讓我成功移民澳洲的其實不是我的會計學位，而是靠自己研究澳洲政府的移民法規中一個大多數人都會略過申請規定，靠著不在移民清單上的口譯專業申請到了新州190的永居PR XD 詳細故事可以看這篇：
 
 [**機會由自己創造！我透過閱讀澳洲政府的移民規定成功移民澳洲！**  
- _今天要來分享我當年是如何另闢蹊徑，透過自己閱讀澳洲政府網站的移民規定，在不可能中發現可能，最後成功幫助自己以及我的好友成功拿到澳洲身份的故事！_](/posts/2023-11-10_how-i-become-pr/)
+ _今天要來分享我當年是如何另闢蹊徑，透過自己閱讀澳洲政府網站的移民規定，在不可能中發現可能，最後成功幫助自己以及我的好友成功拿到澳洲身份的故事！_](/posts/2023-11-10-how-i-become-pr/)
 
 在澳洲留學時，剛好我當時的房東開了一家移民仲介，知道我在找工讀機會，於是就決定讓我去試試。這個工作我斷斷續續可能也做了兩年。這是一家華人老闆開的仲介、所有同事跟客戶都是華人，看過了很多移民仲介的秘辛不說，在這種壓榨式環境工作真的是讓我懷疑起我來澳洲幹嘛?XD
 
@@ -127,16 +123,4 @@ Coding bootcamp 畢業時剛好遇到 Covid，找工作非常困難，我在三�
 
 從 2011 年來澳洲打工度假到現在，我已經在澳洲生活了 11 年! 想想時間真的過得很快，一路從打工度假、留學到移民，一切完全就靠自己一個人完成。 過程中我遇到了很多貴人跟好朋友，也體驗過各式各樣的新鮮事，一路走來我真的學習到很多澳洲文化，也同時反思自己的台灣人思維。就職涯來說，從專案經理/筆譯、移民仲介、澳洲辦公室白領到後來決定轉職工程師，最後居然還幸運了加入 Amazon & Microsoft 這種世界一流的公司，完全都是當年的我沒有想過的! 這麼一想我突然覺得自己好厲害哈哈哈哈
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

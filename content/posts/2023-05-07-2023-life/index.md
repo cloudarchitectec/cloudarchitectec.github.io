@@ -14,7 +14,7 @@ tags: ["澳洲生活"]
 
 ![](images/medium-0*mIiAi16mYu9BVV99.jpg)Photo by [Yeshi Kangrang](https://unsplash.com/@omgitsyeshi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-不知不覺 2023 年也過一半了，我覺得必須要來好好審視一下今年的目標。翻了下我過去的文章 [[生活] 2022 年回顧](/posts/2022-12-31-2022-reflection/)，發現我在 2022 年底時對自己期許如下:
+不知不覺 2023 年也過一半了，我覺得必須要來好好審視一下今年的目標。翻了下我過去的文章 [[生活] 2022 年回顧](/posts/2022-12-31-2022-life/)，發現我在 2022 年底時對自己期許如下:
 
 > **2023年的期許**
 
@@ -46,16 +46,4 @@ Rest and vest 是一個 FAANG 科技業的詞彙，意思就是一個人 (通常
 
 2023 年也過了一半了，你們也回顧了自己在年初訂下的目標嗎? 你們的進度如何? 或是發現目標不如預期，打算改變方向嗎? 如果你不是一個會制定年度目標的人，其實也沒關係，有空時或許可以想一下過去半年自己達成了那些事，然後想想自己下半年想要達成哪些事，把他們寫下來，過一段時間再重新看一下，說不定會有一些有趣的發現? 就像我，也完全忘記了我其實本來打算今年就安安穩穩地度過一年的XDD
 
-**感謝大家的鼓勵，你們的支持是我持續創作的動力! 有任何問題或是想要看的主題，歡迎留言跟我互動 :)**
-
-* * *
-
-**延伸閱讀**
-
-  * [[生活] 微軟裁員潮到一個段落…了嗎?](/posts/2023-04-06-2023-layoff/)
-  * [[生活] 2022 年回顧](/posts/2022-12-31-2022-reflection/)
-  * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/%E8%81%B7%E6%B6%AF-%E6%88%91%E7%82%BA%E4%BB%80%E9%BA%BC%E9%81%B8%E6%93%87%E8%BD%89%E8%81%B7-it-%E7%94%A2%E6%A5%AD-e0507b5c98e1)
-  * [[職場] 為什麼我決定離開澳洲 AWS/亞馬遜，加入微軟 Azure](https://medium.com/@cloudarchitectec/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%B1%BA%E5%AE%9A%E9%9B%A2%E9%96%8B-aws-%E4%BA%9E%E9%A6%AC%E9%81%9C-%E5%8A%A0%E5%85%A5%E5%BE%AE%E8%BB%9F-azure-8a0556b083ef)
-  * [[職涯] 轉職可以一轉再轉嗎？薪水是轉職最重要的考量？](/posts/2023-06-15-career-transition-again/)
-
-
+{{< footer >}}

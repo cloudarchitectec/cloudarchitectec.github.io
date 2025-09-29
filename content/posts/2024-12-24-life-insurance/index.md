@@ -3,7 +3,7 @@ title: "好想要退休！澳洲人壽保險知識分享，在澳洲打拼的你
 date: 2024-12-24
 slug: "2024-12-24-life-insurance"
 image: "images/medium-0*Za2PV_3X9oaOZ0Ci.jpg"
-images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png.jpg', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png.jpg', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png.jpg', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png.jpg', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["投資理財"]
 tags: ["投資理財", "保險"]
 ---
@@ -106,18 +106,4 @@ A: 當我發現自己已經開始需要研究保險的時候XDDD
 
 （說要簡單寫，結果還是寫了一整篇。如果要認真寫，豈不是要寫出一本書？XDDD）
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

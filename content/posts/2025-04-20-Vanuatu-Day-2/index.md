@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂�
 date: 2025-04-20
 slug: "2025-04-20-vanuatu-day-2"
 image: "images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg"
-images: ['images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg', 'images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpeg.jpg', 'images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpeg.jpg', 'images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpeg.jpg', 'images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpeg.jpg', 'images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpeg.jpg', 'images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpeg.jpg', 'images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpeg.jpg', 'images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg', 'images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg', 'images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpeg.jpg', 'images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpeg.jpg', 'images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpeg.jpg', 'images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpeg.jpg', 'images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg', 'images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg', 'images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpeg.jpg', 'images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpeg.jpg', 'images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpeg.jpg', 'images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpeg.jpg', 'images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpeg.jpg', 'images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpeg.jpg', 'images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpeg.jpg', 'images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg', 'images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg', 'images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpeg.jpg', 'images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpeg.jpg', 'images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpeg.jpg', 'images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpeg.jpg', 'images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg', 'images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -86,18 +86,4 @@ Au Bon Marche 是當地的連鎖超市，我去逛的這間分店其實滿大的
 
 明天就是期待的小島行，目前看來tour guide 還算可靠，希望他明天可以順利找到我在哪😆🙏 （而且他明天7:30am 就要來接我，我到底是來旅遊還是行軍？哈哈哈）
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

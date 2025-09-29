@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃改不�
 date: 2025-04-23
 slug: "2025-04-23-vanuatu-day-5"
 image: "images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg"
-images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -64,18 +64,4 @@ tags: ["旅遊", "萬那杜"]
 
 明天開始我就要來挑戰租車自駕了！請大家祝福我 🙏
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

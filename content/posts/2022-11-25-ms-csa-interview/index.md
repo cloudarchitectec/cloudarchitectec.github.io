@@ -74,12 +74,4 @@ Loops 會在一天之內完成，總共有五關，一關一個小時，面試�
 
 一樣是面試完隔天我就收到 Recruiter 2號 (跟之前的 sourcing recruiter 是不同人) 的 email 說希望找時間跟我聊聊 interview feedback。在與 Recruiter 2 的電話對話中，我獲得了口頭 offer。經過一番思考，我決定迎接這個全新的挑戰: 新的公司文化、新的雲服務平台、新的職位、新的城市!
 
-
-
-**延伸閱讀**
-
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
-  * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-
-
+{{< footer >}}

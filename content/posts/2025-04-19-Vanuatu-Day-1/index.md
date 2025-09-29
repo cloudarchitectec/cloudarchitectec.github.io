@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.19 Vanuatu Day 1 一個女生�
 date: 2025-04-19
 slug: "2025-04-19-vanuatu-day-1"
 image: "images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg"
-images: ['images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg', 'images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpeg.jpg', 'images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpeg.jpg', 'images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg', 'images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpeg.jpg', 'images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpeg.jpg', 'images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpeg.jpg', 'images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg', 'images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpeg.jpg', 'images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpeg.jpg', 'images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg', 'images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpeg.jpg', 'images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpeg.jpg', 'images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpeg.jpg', 'images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -103,18 +103,4 @@ Port Vila 的機場不大，一下飛機之後，走幾步路就到了海關。�
 
 PS: 打完這篇之後發現，我其實還有一個被騙的地方。民宿奶奶說有供應熱水，但其實沒有，我剛剛洗了一個冷水澡哈哈哈哈哈哈哈哈哈哈
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

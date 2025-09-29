@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假�
 date: 2025-04-26
 slug: "2025-04-26-vanuatu-day-8"
 image: "images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg"
-images: ['images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg', 'images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg', 'images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg', 'images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg', 'images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg', 'images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg', 'images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg', 'images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg', 'images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg', 'images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg', 'images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg', 'images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg', 'images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg', 'images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg', 'images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg', 'images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg', 'images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg', 'images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg', 'images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg', 'images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg', 'images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg', 'images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg', 'images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -68,18 +68,4 @@ tags: ["旅遊", "萬那杜"]
 
 我真的覺得這個租車公司不錯，市區內他們可以免費到你的住宿點 pick up 車子。希望萬那杜的基礎建設可以慢慢改善，東南海岸線開起來真的很舒服～ 西南海岸線跟北區則是悲劇一場。然後市區平日很容易大塞車，我覺得在這裡體驗到塞車也是很有趣😆
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

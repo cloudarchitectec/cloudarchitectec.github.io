@@ -11,9 +11,7 @@ name: Deploy Hugo site to Pages
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]        # production
-  pull_request:
-    branches: [ main ]        # PR previews from dev → main
+    branches: [ main ]
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -149,5 +147,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          preview: ${{ github.event_name == 'pull_request' }}

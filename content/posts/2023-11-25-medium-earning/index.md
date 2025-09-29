@@ -3,7 +3,7 @@ title: "經營 Medium 一年，我到底賺了多少錢？"
 date: 2023-11-25
 slug: "2023-11-25-medium-earning"
 image: "images/medium-0*IcY5dAmbSyvZdlXl.jpg"
-images: ['images/medium-0*IcY5dAmbSyvZdlXl.jpg', 'images/medium-1*FHBszSnAcT6KbLuEzONPlg.png.jpg', 'images/medium-1*WiMdaXsTAlswUtPIgTwfyA.png.jpg', 'images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg', 'images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg', 'images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*IcY5dAmbSyvZdlXl.jpg', 'images/medium-1*FHBszSnAcT6KbLuEzONPlg.png.jpg', 'images/medium-1*WiMdaXsTAlswUtPIgTwfyA.png.jpg', 'images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg', 'images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg', 'images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活", "寫作"]
 ---
@@ -26,7 +26,7 @@ tags: ["澳洲生活", "寫作"]
 
 * * *
 
-[**[目錄] 雲端架構師 EC — Medium 文章列表**  
+[**澳洲雲端架構師 EC ｜精選文章懶人包**  
  _這是澳洲雲端架構師 EC 的 Medium 目錄，方便大家搜尋我發表過的文章。如果有對哪個類別的文章特別有興趣，也歡迎留言跟我說喔 ^^_ medium.com](./2018-01-02-ec-post-list/index.md)[](./2018-01-02-ec-post-list/index.md)
 
 今天我想要來跟大家分享如何成為 Medium 作者，靠著分享你的知識、心得、對世界的觀察來賺錢呢？
@@ -143,16 +143,4 @@ Medium 的文章收入計算其實非常複雜！雖然官方有公佈一些計�
 
 看完這篇後，歡迎跟我分享你的心得？如果你也曾經考慮在 Medium 上寫作，看完這篇之後你有沒有滅火呢？如果你是 Medium 作者，又是什麼支持你繼續創作下去？都歡迎留言跟我分享喔～
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

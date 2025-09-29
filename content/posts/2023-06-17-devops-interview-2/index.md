@@ -3,7 +3,7 @@ title: "跨國能源公司 (市值 210 億美元) DevOps Platform Engineer 第�
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-2"
 image: "images/medium-0*-cJX5ON0RTaomZNr.jpg"
-images: ['images/medium-0*-cJX5ON0RTaomZNr.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*-cJX5ON0RTaomZNr.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 ---
@@ -23,7 +23,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 具體可以參考我之前的面試分享，這也可以說是我人生目前為止我覺得最棒的一次面試：
 
 [**跨國能源公司 (市值 210 億美元) DevOps Platform Engineer 第一關: 技術面試心得**  
- _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…_ medium.com](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E8%83%BD%E6%BA%90%E5%85%AC%E5%8F%B8-devops-platform-engineer-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E7%AC%AC%E4%B8%80%E9%97%9C-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-c1f87fd52441)[](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E8%83%BD%E6%BA%90%E5%85%AC%E5%8F%B8-devops-platform-engineer-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E7%AC%AC%E4%B8%80%E9%97%9C-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-c1f87fd52441)
+ _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…_ medium.com](/posts/2023-06-17-devops-interview-1/)[](/posts/2023-06-17-devops-interview-1/)
 
 這次的第二次面試則回歸到最傳統的面試官問我答，我答完面試官再問下一題模式，讓我居然有些不習慣XDD
 
@@ -129,27 +129,4 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 面試完隔天我就收到了HR的電話，我猜他們本來是已經要準備跟我談 offer 了。沒想到在這個時候，我提出了一個新的要求!!! 我的諮商師說我超猛的，她這輩子沒有看過這樣的求職者 XDD 到底後來發生了什麼事呢? 我會不會因此把即將到手的 offer 搞丟呢? 那麼就請大家繼續期待下集吧~
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * 歡迎追蹤[臉書粉專](https://www.facebook.com/cloudarchitectec/) / [脆](https://www.threads.net/@cloud_architect_ec)
-  * 合作請聯繫：[cloudarchitectec@gmail.com](http://cloudarchitectec@gmail.com)
-  * 如果想要閱讀更多 EC 的文章，請參考以下系列書單：
-
-
-
-[**澳洲雲端架構師 EC: 海外職場/英文面試系列**  
- _EC 關於海外職場的心得與英文面試的技巧分心_ medium.com](https://medium.com/@cloudarchitectec/list/b399bb173eae)[](https://medium.com/@cloudarchitectec/list/b399bb173eae)
-
-[**澳洲雲端架構師 EC: 澳洲科技大廠 (Amazon & 微軟) 工作分享系列**  
- _分享 EC 在 Amazon 跟微軟的工作經歷_ medium.com](https://medium.com/@cloudarchitectec/list/4c54b243916e)[](https://medium.com/@cloudarchitectec/list/4c54b243916e)
-
-[**澳洲雲端架構師 EC: 轉職工程師系列**  
- _描述 EC 如何從英文系轉職工程師的系列文章_ medium.com](https://medium.com/@cloudarchitectec/list/db0d29c96b57)[](https://medium.com/@cloudarchitectec/list/db0d29c96b57)
+{{< footer >}}

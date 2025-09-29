@@ -3,7 +3,7 @@ title: "澳洲求職必勝法則：澳洲最大旅行社公司 Flight Centre Dev
 date: 2023-06-09
 slug: "2023-06-09-flight-centre-interview"
 image: "images/medium-0*nKEd05l3NF0Z26i8.jpg"
-images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 ---
@@ -134,18 +134,4 @@ _(一般來說，應該是雇主先告訴我公司目前的規定，然後看看
 
 搶先預告一下，在第二間公司的 DevOps Engineer面試，我已經成功通過第一關技術面試 (Technical Interview)，等跑完所有面試流程後，我會再來跟大家分享結果。
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

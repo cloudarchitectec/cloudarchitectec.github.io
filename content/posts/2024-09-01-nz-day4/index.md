@@ -3,7 +3,7 @@ title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.09.04 紐西蘭�
 date: 2024-09-01
 slug: "2024-09-01-nz-day4"
 image: "images/medium-1*nmg83Ua_Kr_WFKKsHUQP0g.jpeg.jpg"
-images: ['images/medium-1*nmg83Ua_Kr_WFKKsHUQP0g.jpeg.jpg', 'images/medium-1*bEq4_vSbztPln8SCbiNrCA.jpeg.jpg', 'images/medium-1*9o818ABLZslywE7xWNrykA.jpeg.jpg', 'images/medium-1*GtuUDjZ1q7i85jOgMoWeSA.jpeg.jpg', 'images/medium-1*xWu3OIFYeHfGWEHnIGP5TA.jpeg.jpg', 'images/medium-1*pNFazp5HZOlKTTKqk5f-vw.jpeg.jpg', 'images/medium-1*Fx6nRf3jGbJuEodAUl6wVg.jpeg.jpg', 'images/medium-1*azJ52dYzwNkeojllK7EgZg.jpeg.jpg', 'images/medium-1*PMR6bE41G7dSv6BnuKzdOA.jpeg.jpg', 'images/medium-1*ieId5iT7_ikIbBmE-uhRGQ.jpeg.jpg', 'images/medium-1*5MMMHj2FFyDxehyvtqjkjw.jpeg.jpg', 'images/medium-1*W6XED-nyUqE58Jxoga4ODQ.jpeg.jpg', 'images/medium-1*myrazD8o6mbkUmZrMMFQXw.jpeg.jpg', 'images/medium-1*7bP06F_8XC_0PqIqnXwopg.jpeg.jpg', 'images/medium-1*ZsEBy48L0CmZAgJSC860Qw.jpeg.jpg', 'images/medium-1*GOLqRjWO1ajauko9Yh9lHA.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*nmg83Ua_Kr_WFKKsHUQP0g.jpeg.jpg', 'images/medium-1*bEq4_vSbztPln8SCbiNrCA.jpeg.jpg', 'images/medium-1*9o818ABLZslywE7xWNrykA.jpeg.jpg', 'images/medium-1*GtuUDjZ1q7i85jOgMoWeSA.jpeg.jpg', 'images/medium-1*xWu3OIFYeHfGWEHnIGP5TA.jpeg.jpg', 'images/medium-1*pNFazp5HZOlKTTKqk5f-vw.jpeg.jpg', 'images/medium-1*Fx6nRf3jGbJuEodAUl6wVg.jpeg.jpg', 'images/medium-1*azJ52dYzwNkeojllK7EgZg.jpeg.jpg', 'images/medium-1*PMR6bE41G7dSv6BnuKzdOA.jpeg.jpg', 'images/medium-1*ieId5iT7_ikIbBmE-uhRGQ.jpeg.jpg', 'images/medium-1*5MMMHj2FFyDxehyvtqjkjw.jpeg.jpg', 'images/medium-1*W6XED-nyUqE58Jxoga4ODQ.jpeg.jpg', 'images/medium-1*myrazD8o6mbkUmZrMMFQXw.jpeg.jpg', 'images/medium-1*7bP06F_8XC_0PqIqnXwopg.jpeg.jpg', 'images/medium-1*ZsEBy48L0CmZAgJSC860Qw.jpeg.jpg', 'images/medium-1*GOLqRjWO1ajauko9Yh9lHA.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "紐西蘭"]
 ---
@@ -54,16 +54,4 @@ tags: ["旅遊", "紐西蘭"]
 
 ![](images/medium-1*7bP06F_8XC_0PqIqnXwopg.jpeg.jpg)![](images/medium-1*ZsEBy48L0CmZAgJSC860Qw.jpeg.jpg)![](images/medium-1*GOLqRjWO1ajauko9Yh9lHA.jpeg.jpg)晚餐吃泰式料理
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

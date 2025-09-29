@@ -3,7 +3,7 @@ title: "從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽
 date: 2022-12-03
 slug: "2022-12-03-aws-to-ms"
 image: "images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg"
-images: ['images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg', 'images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpeg.jpg', 'images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg', 'images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpeg.jpg', 'images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "AWS"]
 ---
@@ -38,16 +38,4 @@ AWS 是雲端科技的龍頭，市占率大概是 1/3 之一，遠遠超過第�
 
 Surface headphone 是我這輩子唯一考慮過要買的微軟產品!!! 我的天天啊! 微軟真心超大方的，光這一盒設備加起來市值就是$900澳幣(近台幣兩萬)。算是為新工作帶來了一個好的開頭XD
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

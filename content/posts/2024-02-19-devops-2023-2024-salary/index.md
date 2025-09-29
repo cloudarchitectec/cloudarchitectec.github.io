@@ -3,7 +3,7 @@ title: "澳洲 DevOps 工程師薪資大揭秘：2023–2024 最新數據"
 date: 2024-02-19
 slug: "2024-02-19-devops-2023-2024-salary"
 image: "images/medium-0*wVIVFXLLPPZ4yFC4.jpg"
-images: ['images/medium-0*wVIVFXLLPPZ4yFC4.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*wVIVFXLLPPZ4yFC4.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "薪資"]
 ---
@@ -74,27 +74,4 @@ tags: ["職涯", "薪資"]
 
 看完我整理的澳洲 DevOps Engineers 薪資範圍，你們有什麼想法呢？這個資薪比你們想像中的要高，還是低呢？歡迎留言跟我分享你們的想法喔！
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * 歡迎追蹤[臉書粉專](https://www.facebook.com/cloudarchitectec/) / [脆](https://www.threads.net/@cloud_architect_ec)
-  * 合作請聯繫：[cloudarchitectec@gmail.com](http://cloudarchitectec@gmail.com)
-
-
-
-**延伸閱讀**
-
-  * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](https://medium.com/@cloudarchitectec/software-engineer-cloud-engineer-devops-engineer-what-do-they-do-56f3aedfe4ac)
-  * [科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [我在澳洲職場觀察到的薪資怪象 — 華人公司 vs 澳洲本地公司](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E6%88%91%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%89%80%E8%A6%8B%E7%9A%84%E8%96%AA%E8%B3%87%E6%80%AA%E8%B1%A1-53f8d0f713f4)
-  * [能源公司 DevOps Platform Engineer 面試心得 I (第一關: 技術面試)](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E8%83%BD%E6%BA%90%E5%85%AC%E5%8F%B8-devops-platform-engineer-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E7%AC%AC%E4%B8%80%E9%97%9C-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-c1f87fd52441)
-  * [澳洲最大的旅行社公司 DevOps Security Engineer 面試心得分享](/posts/2023-06-09-flight-centre-interview/)
-
-
+{{< footer >}}

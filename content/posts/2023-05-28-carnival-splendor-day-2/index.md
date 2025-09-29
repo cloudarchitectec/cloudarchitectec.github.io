@@ -78,18 +78,4 @@ Carnival 有一個手機 App 叫 Carnival Hub，非常好用。只要連接上�
 
 我個人理想的旅行型態是在旅程中到處走走，四處參觀博物館、美術館，探索咖啡廳跟餐廳，觀察路人以及當地的文化習俗等等，所以大家應該可以明白為什麼我對遊輪始終都抱持著一種「還好」的心態了XD
 
-—
-
-如果你喜歡閱讀關於海外生活、澳洲職場、轉職工程師的相關文章，歡迎加入 Medium 的免費會員並追蹤我的部落格，這樣你就不會錯過我每週六的固定更新！近期我也會不定期更新我在澳洲旅遊的遊記 ^0^
-
-也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！你們的鼓勵是支持我繼續寫作下去的動力 :)
-
-有任何問題或是想要看的主題，歡迎留言跟我互動 :)
-
-  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](https://medium.com/@cloudarchitectec/旅遊-2023-05-15-carnival-splendor-澳洲南太平洋郵輪-day-1-雪梨登船-fd3e84083d62)
-  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](https://medium.com/@cloudarchitectec/旅遊-carnival-splendor-澳洲南太平洋郵輪-事前準備及須知-2023-05出發-b7ee58cf7bc4)
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/介紹-大家好-我是ec-afcf45d128eb)
-  * [[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)](https://medium.com/@cloudarchitectec/生活-坎培拉aws生活四個月分享-2021-03-2021-07-b20c646a9f16)
-  * [[生活]澳洲首次買房流程分享](https://medium.com/@cloudarchitectec/生活-澳洲首次買房流程分享-2021-5bd28c444bfb)
-
-
+{{< footer >}}

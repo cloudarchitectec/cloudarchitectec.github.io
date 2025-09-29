@@ -3,7 +3,7 @@ title: "[職涯] 如何評估現職是否適合你 — 工作小任務(work task
 date: 2023-04-01
 slug: "2023-04-01-work-tasks"
 image: "images/medium-0*x2HBd4-Q6KDvwc5h.jpg"
-images: ['images/medium-0*x2HBd4-Q6KDvwc5h.jpg', 'images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg', 'images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg', 'images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg', 'images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*x2HBd4-Q6KDvwc5h.jpg', 'images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg', 'images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg', 'images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg', 'images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯"]
 ---
@@ -35,28 +35,4 @@ tags: ["職涯"]
 
 如果你們有嘗試這個工作小任務分析，也歡迎在留言跟我分享你們的結果。你們的工作可以被分成多少的小任務? 裡面負1分小任務比較多，還是正1分小任務比較多? 你們的總分是正數還是負數呢? 你們覺得這個分析有幫助嗎? 因為我也非常好奇大家的分析結果! 哈哈
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
-
-* * *
-
-**延伸閱讀**
-  * [[澳洲職場] 如何準備職場英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
-  * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/職涯-我為什麼選擇轉職-it-產業-e0507b5c98e1)
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
-  * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-
-
+{{< footer >}}

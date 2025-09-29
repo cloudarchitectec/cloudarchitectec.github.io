@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.09.01 There is no way to escape!"
 date: 2019-09-01
 slug: "2019-09-01-there-is-no-way-to-escape"
 image: "images/medium-0*Ajqd_LT2PTta4eAV.jpg"
-images: ['images/medium-0*Ajqd_LT2PTta4eAV.jpg', 'images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*Ajqd_LT2PTta4eAV.jpg', 'images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "旅遊"]
 categories: ["職涯"]
@@ -85,18 +85,4 @@ PS: 壓力大果然讓人想狂花錢，在外面吃完晚餐後，我還跑去�
 
 總之接下來幾天我可能會連睡覺的時間都沒有嗚嗚嗚嗚嗚😭💀💀
 
-* * *
-
-
-
-**如果想要閱讀更多 EC 的文章，**[**請參考[目錄] 澳洲雲端架構師 EC — Medium 文章列表**](./2018-01-02-ec-post-list/index.md)
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-
-
-
+{{< footer >}}

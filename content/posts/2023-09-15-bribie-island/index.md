@@ -3,7 +3,7 @@ title: "澳洲布里斯本：開車可抵達的可愛小島 Bribie Island 一日
 date: 2023-09-15
 slug: "2023-09-15-bribie-island"
 image: "images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg"
-images: ['images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg', 'images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg', 'images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg', 'images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg', 'images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpeg.jpg', 'images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpeg.jpg', 'images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpeg.jpg', 'images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpeg.jpg', 'images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg', 'images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg', 'images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg', 'images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg', 'images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpeg.jpg', 'images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpeg.jpg', 'images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpeg.jpg', 'images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpeg.jpg', 'images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活", "旅遊"]
 ---
@@ -63,16 +63,4 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 ![](images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpeg.jpg)我與室友C
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

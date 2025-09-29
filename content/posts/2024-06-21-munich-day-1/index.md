@@ -56,16 +56,4 @@ tags: ["旅遊", "德國", "慕尼黑"]
 
 ![](images/medium-1*UPvLV2JFps1e7pBw6tedlg.jpeg.jpg)Never Again 紀念碑
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-![](images/medium-0*7Abpr4b15mBmDLsK.png.jpg)
-
-
-
-
+{{< footer >}}

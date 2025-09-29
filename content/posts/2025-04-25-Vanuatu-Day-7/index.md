@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.25 Vanuatu Day 7 導航騙我�
 date: 2025-04-25
 slug: "2025-04-25-vanuatu-day-7"
 image: "images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg"
-images: ['images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg', 'images/medium-1*I3pFjSCcDgwmfgGXGGPi5Q.jpeg.jpg', 'images/medium-1*0hhYOSy5FS70Rq729wegaQ.jpeg.jpg', 'images/medium-1*VHN9OVLrSbv8uuJ8RbwUDw.jpeg.jpg', 'images/medium-1*xG_1Q0HEgU3ByPwlXdZIxw.jpeg.jpg', 'images/medium-1*F2OyrZ4d2NNVHwmnbF140Q.jpeg.jpg', 'images/medium-1*-Sp5itPOK0GWT9bIqOTnXg.jpeg.jpg', 'images/medium-1*EmJ1UseG69n-QxK0Iv_Ovw.jpeg.jpg', 'images/medium-1*DYTggfGKwgYSao676193lw.jpeg.jpg', 'images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpeg.jpg', 'images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpeg.jpg', 'images/medium-1*x1YnJLPQqgp-BjkNxGlbUg.jpeg.jpg', 'images/medium-1*7gp9-doDFPnI5gXrkj_3Ag.jpeg.jpg', 'images/medium-1*5plrVldSDXkcD0KFNEHhQA.jpeg.jpg', 'images/medium-1*kMooDl696lTmXKONkmrNeQ.jpeg.jpg', 'images/medium-1*OCHRIZN3ZF7F5I5fXbDDOQ.jpeg.jpg', 'images/medium-1*ocw7PIv6cwfJsO7sEYxybg.jpeg.jpg', 'images/medium-1*8A9yv7rX3AZ9MbT2N-W6dA.jpeg.jpg', 'images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpeg.jpg', 'images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg', 'images/medium-1*I3pFjSCcDgwmfgGXGGPi5Q.jpeg.jpg', 'images/medium-1*0hhYOSy5FS70Rq729wegaQ.jpeg.jpg', 'images/medium-1*VHN9OVLrSbv8uuJ8RbwUDw.jpeg.jpg', 'images/medium-1*xG_1Q0HEgU3ByPwlXdZIxw.jpeg.jpg', 'images/medium-1*F2OyrZ4d2NNVHwmnbF140Q.jpeg.jpg', 'images/medium-1*-Sp5itPOK0GWT9bIqOTnXg.jpeg.jpg', 'images/medium-1*EmJ1UseG69n-QxK0Iv_Ovw.jpeg.jpg', 'images/medium-1*DYTggfGKwgYSao676193lw.jpeg.jpg', 'images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpeg.jpg', 'images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpeg.jpg', 'images/medium-1*x1YnJLPQqgp-BjkNxGlbUg.jpeg.jpg', 'images/medium-1*7gp9-doDFPnI5gXrkj_3Ag.jpeg.jpg', 'images/medium-1*5plrVldSDXkcD0KFNEHhQA.jpeg.jpg', 'images/medium-1*kMooDl696lTmXKONkmrNeQ.jpeg.jpg', 'images/medium-1*OCHRIZN3ZF7F5I5fXbDDOQ.jpeg.jpg', 'images/medium-1*ocw7PIv6cwfJsO7sEYxybg.jpeg.jpg', 'images/medium-1*8A9yv7rX3AZ9MbT2N-W6dA.jpeg.jpg', 'images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpeg.jpg', 'images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -62,16 +62,4 @@ tags: ["旅遊", "萬那杜"]
 
 ![](images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpeg.jpg)![](images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpeg.jpg)火焰秀
 
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

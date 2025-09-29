@@ -3,7 +3,7 @@ title: "跨國能源公司 (市值 210 億美元) DevOps Platform Engineer 第�
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-1"
 image: "images/medium-0*QVp3aout5pRymdfN.jpg"
-images: ['images/medium-0*QVp3aout5pRymdfN.jpg', 'images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*QVp3aout5pRymdfN.jpg', 'images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 ---
@@ -90,27 +90,4 @@ tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 
 從最後一個例子，就可以看出他真的是一個很 decent 的 hiring manager!!! 他問這個問題的目的只是單純想要再多了解我這個人的興趣，而不是他期待我除了正職工作之外，還需要做很多額外的事。
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * 歡迎追蹤[臉書粉專](https://www.facebook.com/cloudarchitectec/) / [脆](https://www.threads.net/@cloud_architect_ec)
-  * 合作請聯繫：[cloudarchitectec@gmail.com](http://cloudarchitectec@gmail.com)
-  * 如果想要閱讀更多 EC 的文章，請參考以下系列書單：
-
-
-
-[**澳洲雲端架構師 EC: 海外職場/英文面試系列**  
- _EC 關於海外職場的心得與英文面試的技巧分心_ medium.com](https://medium.com/@cloudarchitectec/list/b399bb173eae)[](https://medium.com/@cloudarchitectec/list/b399bb173eae)
-
-[**澳洲雲端架構師 EC: 澳洲科技大廠 (Amazon & 微軟) 工作分享系列**  
- _分享 EC 在 Amazon 跟微軟的工作經歷_ medium.com](https://medium.com/@cloudarchitectec/list/4c54b243916e)[](https://medium.com/@cloudarchitectec/list/4c54b243916e)
-
-[**澳洲雲端架構師 EC: 轉職工程師系列**  
- _描述 EC 如何從英文系轉職工程師的系列文章_ medium.com](https://medium.com/@cloudarchitectec/list/db0d29c96b57)[](https://medium.com/@cloudarchitectec/list/db0d29c96b57)
+{{< footer >}}

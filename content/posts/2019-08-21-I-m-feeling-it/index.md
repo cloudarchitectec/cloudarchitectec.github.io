@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.21 I'm feeling it!"
 date: 2019-08-21
 slug: "2019-08-21-i-m-feeling-it"
 image: "images/medium-0*BSj9yl-OTGs5uKYD.jpg"
-images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---
@@ -73,18 +73,4 @@ Coder Academy 為了推廣 women in tech，每個學期都會提供一名女性(
 
 另外這幾天我每天都輪流收到來自CA奶奶們(我的前同事 Rob, Sabah, Elaine, 前經理 Saranne) 的慰問簡訊XDDD 覺得超級感心的啦~
 
-* * *
-
-
-
-**如果想要閱讀更多 EC 的文章，**[**請參考[目錄] 澳洲雲端架構師 EC — Medium 文章列表**](./2018-01-02-ec-post-list/index.md)
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-
-
-
+{{< footer >}}

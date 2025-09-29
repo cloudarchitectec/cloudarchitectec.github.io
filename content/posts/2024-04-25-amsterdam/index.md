@@ -5,12 +5,12 @@ slug: "2024-04-25-amsterdam"
 image: "images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg"
 images: ['images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg', 'images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpeg.jpg', 'images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpeg.jpg', 'images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpeg.jpg', 'images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpeg.jpg', 'images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpeg.jpg', 'images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpeg.jpg', 'images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpeg.jpg', 'images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpeg.jpg', 'images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpeg.jpg', 'images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpeg.jpg', 'images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpeg.jpg', 'images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpeg.jpg', 'images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpeg.jpg', 'images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpeg.jpg', 'images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpeg.jpg', 'images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpeg.jpg', 'images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpeg.jpg', 'images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpeg.jpg', 'images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpeg.jpg', 'images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpeg.jpg', 'images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpeg.jpg', 'images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpeg.jpg', 'images/medium-1*NgasYZx34uIW8BacGwudNg.jpeg.jpg', 'images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpeg.jpg', 'images/medium-0*YugyH-UDQuUIxt2_.png.jpg']
 categories: ["旅遊"]
-tags: ["旅遊", "荷蘭", "阿姆斯特丹"]
+tags:
+  - 獨旅
+  - 歐洲
+  - 荷蘭
+  - 阿姆斯特丹
 ---
-
-* * *
-
-### **一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的** 運河屋
 
 ![](images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg)阿姆斯特丹火車站
 
@@ -96,16 +96,4 @@ Airbnb Host 是個教授(?)，而且有兩隻可愛的貓貓（一隻黑貓一�
 
 PS: 荷蘭的住宿貴到什麼地步呢？我這樣一個閣樓的房間，需要跟房東 share 浴室，一個晚上要130澳（在阿姆斯特丹住6人房hostel 要一百澳/晚)。我在德國住超大 studio apartment 也只要$110澳幣/晚，差距非常大！
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-![](images/medium-0*YugyH-UDQuUIxt2_.png.jpg)
-
-
-
-
+{{< footer >}}

@@ -54,13 +54,4 @@ Azure Cloud Solution Architect (CSA) 是我在微軟的工作職稱，這是我�
 
 總之我們的工作就是「代客 Google」，各種求神拜佛希望會有內部資源或是依靠我的各種人脈，希望可以找到一個答案。然後再根據我們的專業判斷把解答提供給客戶，如果有任何我們不確定的答案，就使出我的 consulting skills/soft skills，給出一個「雖然我現在不知道答案，但我會回去研究一下再回覆你 (I don’t have an answer to this question on top of my mind, but I’ll do a bit research and get back to you the next day. Does that sound good to you?)」 這句英文非常實用! 請大家一定要學起來XDDD
 
-
-
-**延伸閱讀**
-
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
-  * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-
-
+{{< footer >}}

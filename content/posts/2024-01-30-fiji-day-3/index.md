@@ -42,14 +42,4 @@ tags: ["旅遊", "斐濟"]
 
 服務人員的態度也超級無敵好，我甚至看到他們幫忙遊客夫婦帶小孩，讓遊客可以毫無牽掛地進行各種行程，我強力推薦大家一定要來！
 
-
-
-**推薦閱讀**
-
-  * [2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
-  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
-  * [Ivory’s Rocks 三天兩夜澳洲露營初體驗](https://medium.com/@cloudarchitectec/first-time-camping-in-an-australia-camping-site-ivorys-rocks-66c09b509bfb)
-  * [2022.10.10 斐濟自助旅遊 Day 1: 初來乍到之這裡真的不是屏東嗎?](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-1-541f5252848a)
-  * [2022.10.11 斐濟自助旅遊 Day 2: Nadi 市區一日遊](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-2-nadi-f85bcbdb3797)
-
-
+{{< footer >}}

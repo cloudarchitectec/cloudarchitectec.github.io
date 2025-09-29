@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.19 Coding Bootcamp Orientation"
 date: 2019-08-19
 slug: "2019-08-19-coding-bootcamp-orientation"
 image: "images/medium-0*ywUyojRimOqTsYDU.jpg"
-images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---
@@ -101,18 +101,4 @@ tags: ["職涯", "轉職工程師"]
 
 真心希望這只是一時的，不然我辭去穩定的工作來讀 bootcamp 真心會是我人生最大的錯誤XDDD
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

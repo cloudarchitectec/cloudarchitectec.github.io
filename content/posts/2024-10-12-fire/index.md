@@ -3,7 +3,7 @@ title: "好想要退休！案例分析：33 歲宅男實現財務自由 (FIRE) �
 date: 2024-10-12
 slug: "2024-10-12-fire"
 image: "images/medium-0*nS9EKqLaT0hNig_O.jpg"
-images: ['images/medium-0*nS9EKqLaT0hNig_O.jpg', 'images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg', 'images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*nS9EKqLaT0hNig_O.jpg', 'images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg', 'images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["投資理財"]
 tags: ["投資理財", "退休規劃"]
 ---
@@ -21,7 +21,7 @@ tags: ["投資理財", "退休規劃"]
 * * *
 
 [**好想要退休！我與退休之間的距離：澳洲工程師是否比台灣更容易達成財務自由 (FIRE)？**  
- _本文分享了澳洲工程師在投資與退休計畫中的心路歷程，包括轉職後的投資策略、房產投資的挑戰。探討 FIRE (Financial Independence, Retire Early)…_ medium.com](https://medium.com/@cloudarchitectec/financial-independence-retirement-early-in-australia-b1a779e69adf)[](https://medium.com/@cloudarchitectec/financial-independence-retirement-early-in-australia-b1a779e69adf)
+ _本文分享了澳洲工程師在投資與退休計畫中的心路歷程，包括轉職後的投資策略、房產投資的挑戰。探討 FIRE (Financial Independence, Retire Early)…_ medium.com](/posts/2024-09-27-how-long-tofire/)[](/posts/2024-09-27-how-long-tofire/)
 
 * * *
 
@@ -74,16 +74,4 @@ tags: ["投資理財", "退休規劃"]
 
 看來我離退休之路，還是遙遙有期（18 年）……
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

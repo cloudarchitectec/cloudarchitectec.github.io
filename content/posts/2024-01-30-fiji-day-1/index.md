@@ -85,14 +85,4 @@ tags: ["旅遊", "斐濟"]
 
 總之，這就是我的斐濟之行第一天，接下來也會繼續發表我的斐濟遊記，請大家多多支持 :)
 
-
-
-#### 延伸閱讀
-
-  * [2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
-  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
-  * [Ivory’s Rocks 三天兩夜澳洲露營初體驗](https://medium.com/@cloudarchitectec/first-time-camping-in-an-australia-camping-site-ivorys-rocks-66c09b509bfb)
-  * [澳洲陽光海岸高空樹頂挑戰 (Tree Top Challenge)](https://medium.com/@cloudarchitectec/tree-top-challenge-sunshine-coast-a7b8e874f64d)
-  * [布里斯本開車可抵達的可愛小島 — Bribie Island 一日遊](/posts/2023-09-15-bribie-island/)
-
-
+{{< footer >}}

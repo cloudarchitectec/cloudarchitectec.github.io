@@ -3,7 +3,7 @@ title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.08.31 奧克蘭�
 date: 2024-08-31
 slug: "2024-08-31-nz-day1"
 image: "images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpeg.jpg"
-images: ['images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpeg.jpg', 'images/medium-1*rlnReA8jGgj7TSS22Lws9Q.jpeg.jpg', 'images/medium-1*WDGzYgn2D58lq_DH3Ka1ug.jpeg.jpg', 'images/medium-1*Baow5AEwlPTYrZhC057HBA.jpeg.jpg', 'images/medium-1*7peGx_1SjUl-9oBR1k9_iA.jpeg.jpg', 'images/medium-1*Onso4fWanqbfzZHulkdBCw.jpeg.jpg', 'images/medium-1*RwKCTe8NLlutsIHcIPdAZQ.jpeg.jpg', 'images/medium-1*xK89OPVN0O1WIA1sj0v4rA.jpeg.jpg', 'images/medium-1*hD5O5Vdq6lwlBYC3muadUA.jpeg.jpg', 'images/medium-1*3DolXIvO2lz0SU04mleYbw.jpeg.jpg', 'images/medium-1*7NuAgSznwjBass-sBz8XIg.jpeg.jpg', 'images/medium-1*m1UcmtY74jtv5Iwag4uooQ.jpeg.jpg', 'images/medium-1*1Mthr8xBlu5XuQCQShzFDQ.jpeg.jpg', 'images/medium-1*MxcgNErvLKNcFxJTA3XlCA.jpeg.jpg', 'images/medium-1*9dSdxYR49uv4mYhrx-7uMg.jpeg.jpg', 'images/medium-1*1B50Iu_i0bbNuovrE9qHsg.jpeg.jpg', 'images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpeg.jpg', 'images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpeg.jpg', 'images/medium-1*rlnReA8jGgj7TSS22Lws9Q.jpeg.jpg', 'images/medium-1*WDGzYgn2D58lq_DH3Ka1ug.jpeg.jpg', 'images/medium-1*Baow5AEwlPTYrZhC057HBA.jpeg.jpg', 'images/medium-1*7peGx_1SjUl-9oBR1k9_iA.jpeg.jpg', 'images/medium-1*Onso4fWanqbfzZHulkdBCw.jpeg.jpg', 'images/medium-1*RwKCTe8NLlutsIHcIPdAZQ.jpeg.jpg', 'images/medium-1*xK89OPVN0O1WIA1sj0v4rA.jpeg.jpg', 'images/medium-1*hD5O5Vdq6lwlBYC3muadUA.jpeg.jpg', 'images/medium-1*3DolXIvO2lz0SU04mleYbw.jpeg.jpg', 'images/medium-1*7NuAgSznwjBass-sBz8XIg.jpeg.jpg', 'images/medium-1*m1UcmtY74jtv5Iwag4uooQ.jpeg.jpg', 'images/medium-1*1Mthr8xBlu5XuQCQShzFDQ.jpeg.jpg', 'images/medium-1*MxcgNErvLKNcFxJTA3XlCA.jpeg.jpg', 'images/medium-1*9dSdxYR49uv4mYhrx-7uMg.jpeg.jpg', 'images/medium-1*1B50Iu_i0bbNuovrE9qHsg.jpeg.jpg', 'images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpeg.jpg', 'images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "紐西蘭"]
 ---
@@ -84,16 +84,4 @@ tags: ["旅遊", "紐西蘭"]
 
 ![](images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpeg.jpg)![](images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpeg.jpg)民宿主人還送了我們紐西蘭特色巧克力
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

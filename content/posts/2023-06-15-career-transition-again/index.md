@@ -3,7 +3,7 @@ title: "[職涯] 轉職可以一轉再轉嗎？薪水是轉職最重要的考量
 date: 2023-06-15
 slug: "2023-06-15-career-transition-again"
 image: "images/medium-0*sB1VtMiyTXKqNZ3E.jpg"
-images: ['images/medium-0*sB1VtMiyTXKqNZ3E.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*sB1VtMiyTXKqNZ3E.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職", "薪資"]
 ---
@@ -26,7 +26,7 @@ tags: ["職涯", "轉職", "薪資"]
 
 題外話，其實我當年從文組轉職的目標是當 Web Developer/Software Engineer! 如果你不是 IT 相關產業的，你可能不會知道，雖然 Cloud Consultant、Solution Architect、Software Engineer 都是 IT 相關職業，但實際的工作內容跟專業技能可能天差地遠，甚至我們彼此之間也不一定了解對方在做什麼XD
 
-例如我曾經試圖跟我做 Support Engineer 跟 Data Analyst 的朋友解釋過 Cloud Consultant 跟 Solution Architect 在做什麼，結果不管我怎麼講，他們都還是一頭霧水哈哈哈哈。我之前做過簡單的比較，雖然當時比較的是 Software Developer 而不是 DevOps Engineer，但大家有興趣的話還是可以參考: [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-solution-architect-technical-consultant-software-developer-%E6%AF%94%E8%BC%83-1484a6401723)
+例如我曾經試圖跟我做 Support Engineer 跟 Data Analyst 的朋友解釋過 Cloud Consultant 跟 Solution Architect 在做什麼，結果不管我怎麼講，他們都還是一頭霧水哈哈哈哈。我之前做過簡單的比較，雖然當時比較的是 Software Developer 而不是 DevOps Engineer，但大家有興趣的話還是可以參考: [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
 
 ### 背景
 
@@ -34,7 +34,7 @@ tags: ["職涯", "轉職", "薪資"]
 
 畢業時剛好遇到 2020 年 Covid 襲擊澳洲，投了200份履歷，最後只拿到一個 offer，成功進入 Amazon Web Services (AWS) Cloud Consultant (請參考：[[職涯] 澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享](/posts/2022-12-23-aws-ps-ca/))
 
-在AWS 兩年後，我想要嘗試另一朵雲跟另一個職位，於是我加入了微軟當 Azure Solution Architect，目前入職七個月，請參考：[[職場] 為什麼我決定離開澳洲 AWS/亞馬遜，加入微軟 Azure](https://medium.com/@cloudarchitectec/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%B1%BA%E5%AE%9A%E9%9B%A2%E9%96%8B-aws-%E4%BA%9E%E9%A6%AC%E9%81%9C-%E5%8A%A0%E5%85%A5%E5%BE%AE%E8%BB%9F-azure-8a0556b083ef)。
+在AWS 兩年後，我想要嘗試另一朵雲跟另一個職位，於是我加入了微軟當 Azure Solution Architect，目前入職七個月，請參考：[從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽到另一朵雲？](/posts/2022-12-03-aws-to-ms/)。
 
 ### 我的掙扎
 
@@ -140,7 +140,7 @@ tags: ["職涯", "轉職", "薪資"]
 
 而且我好像不是一個會妥協的人 lol
 
-在我轉職科技業前，我在一家紐澳會計職業協會做文書 (會計評估) 的工作: 澳洲人公司、全英文環境、同事好相處、工作簡單(我每天大概只要花 2 個小時就能把工作做完)、年薪澳幣7萬 (台幣140萬)，標準的錢多事少離家近。結果後來我做了什麼決定?XD 因為覺得職涯沒有發展，加上我想要做一份有專業技術能力的工作，所以我裸辭了，跑去讀 coding bootcamp (參考: [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/%E8%81%B7%E6%B6%AF-%E6%88%91%E7%82%BA%E4%BB%80%E9%BA%BC%E9%81%B8%E6%93%87%E8%BD%89%E8%81%B7-it-%E7%94%A2%E6%A5%AD-e0507b5c98e1))。
+在我轉職科技業前，我在一家紐澳會計職業協會做文書 (會計評估) 的工作: 澳洲人公司、全英文環境、同事好相處、工作簡單(我每天大概只要花 2 個小時就能把工作做完)、年薪澳幣7萬 (台幣140萬)，標準的錢多事少離家近。結果後來我做了什麼決定?XD 因為覺得職涯沒有發展，加上我想要做一份有專業技術能力的工作，所以我裸辭了，跑去讀 coding bootcamp (參考: [不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考](/posts/2023-01-06-keys-to-transistion/)。
 
 **錢可以買到心理健康嗎?**
 
@@ -172,7 +172,7 @@ tags: ["職涯", "轉職", "薪資"]
 
 首先我在十一月中會收到一筆為數不小的微軟股票。到時候我入職也超過一年了，到時候對這個職位的判斷標準應該會更加客觀。而且說不定我忍著忍著就習慣了? 又或者我做著做著突然就越來越得心應手了，隨著挫折感變小，工作成就感會變高，再加上錢的份上，我可能就不想走了? 其實我的職位內容從七月之後開始要大改，說不定我會喜歡七月大改後的職位內容也不一定?
 
-我糾結的點可能在於，能源公司的 offer 滿好的，我也不知道我之後有沒有辦法拿到同樣的機會，因為我開給澳洲大型旅行社的薪水是能源公司的 7 成 (也就是微軟的一半)，結果我第一關還是被拒了。這兩個面試中間差了一個月，但我中間沒有做任何技術相關的準備，只做了一般面試前的準備 (關於我的面試準備守則，請參考我的另一篇文章: [[職場] 如何準備澳洲辦公室英文面試](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99%E8%81%B7%E5%A0%B4%E8%8B%B1%E6%96%87%E9%9D%A2%E8%A9%A6-89d7397274fb))。
+我糾結的點可能在於，能源公司的 offer 滿好的，我也不知道我之後有沒有辦法拿到同樣的機會，因為我開給澳洲大型旅行社的薪水是能源公司的 7 成 (也就是微軟的一半)，結果我第一關還是被拒了。這兩個面試中間差了一個月，但我中間沒有做任何技術相關的準備，只做了一般面試前的準備 (關於我的面試準備守則，請參考我的另一篇文章: [[職場] 如何準備澳洲辦公室英文面試](/posts/2023-01-21-eng-interview/))。
 
 所以我個人技術能力是一樣的。但是能源公司的 hiring manager 在知道我現有能力不足的情況下，相信我可以勝任，決定把我送進第二輪面試，我也是相當感謝他的。只是我不知道他是不是我心中那種很 supportive 的 tech lead…
 
@@ -180,20 +180,4 @@ tags: ["職涯", "轉職", "薪資"]
 
 這種事到底怎麼驗證? 請大家告訴我!!! 哈哈哈哈~ 請大家多多留言跟我說說你們的想法XD 不要讓我一直在這邊自言自語、自我辯證哈哈哈
 
-* * *
-
-
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**延伸閱讀**
-
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)
-  * [[](/posts/2022-12-03-bootcamp-to-aws/)[職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
-
-
+{{< footer >}}

@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.27 Vanuatu Day 9 挑戰完成�
 date: 2025-04-27
 slug: "2025-04-27-vanuatu-day-9"
 image: "images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg"
-images: ['images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg', 'images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpeg.jpg', 'images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpeg.jpg', 'images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpeg.jpg', 'images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpeg.jpg', 'images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpeg.jpg', 'images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpeg.jpg', 'images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpeg.jpg', 'images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg', 'images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpeg.jpg', 'images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpeg.jpg', 'images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpeg.jpg', 'images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpeg.jpg', 'images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpeg.jpg', 'images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpeg.jpg', 'images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpeg.jpg', 'images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -64,18 +64,4 @@ tags: ["旅遊", "萬那杜"]
 
 表定9:25點到的飛機，提早25分鐘抵達。8:40降落，9:02我已經通關並領完行李，還上了一個廁所😆 完全是史上國際線+領行李最速通關😆
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

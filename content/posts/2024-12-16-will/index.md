@@ -3,7 +3,7 @@ title: "好想要退休！錢財乃身外之物，生不帶來，死不帶去，
 date: 2024-12-16
 slug: "2024-12-16-will"
 image: "images/medium-0*E__KYju_lVrQDjj6.jpg"
-images: ['images/medium-0*E__KYju_lVrQDjj6.jpg', 'images/medium-1*sAkqF--a_kKj6Od1HW-Lyg.png.jpg', 'images/medium-1*V7gvWqb2-VbwTCRswWCzbQ.png.jpg', 'images/medium-1*FOBkY0d_lhvkB8xMehVwRA.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*E__KYju_lVrQDjj6.jpg', 'images/medium-1*sAkqF--a_kKj6Od1HW-Lyg.png.jpg', 'images/medium-1*V7gvWqb2-VbwTCRswWCzbQ.png.jpg', 'images/medium-1*FOBkY0d_lhvkB8xMehVwRA.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["投資理財"]
 tags: ["投資理財", "法律", "遺囑"]
 ---
@@ -102,18 +102,4 @@ EC 最近真心是忙到翻天，前一陣子還在粉絲頁分享了一下我�
 
 那麼今天的分享就到這裡啦～ 很好奇你們對於這篇的心得，是覺得聖誕佳節前夕為什麼要談這個傷心事？還是覺得天啊真是太實用了，我之前都沒想過這件事？都歡迎你們留言跟我分享喔～
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

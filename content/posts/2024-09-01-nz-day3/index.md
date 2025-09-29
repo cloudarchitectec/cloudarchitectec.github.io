@@ -3,7 +3,7 @@ title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.09.02–09.03 Wha
 date: 2024-09-01
 slug: "2024-09-01-nz-day3"
 image: "images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg"
-images: ['images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg', 'images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg', 'images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg', 'images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpeg.jpg', 'images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg', 'images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg', 'images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg', 'images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpeg.jpg', 'images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg', 'images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg', 'images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg', 'images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpeg.jpg', 'images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg', 'images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg', 'images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg', 'images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpeg.jpg', 'images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "紐西蘭"]
 ---
@@ -69,18 +69,4 @@ Rentals
   * snow jacket + pants: $20NZD vs $117AUD (Perisher)
   * Helmet $10 NZD vs 40AUD (Perisher)
 
-
-
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

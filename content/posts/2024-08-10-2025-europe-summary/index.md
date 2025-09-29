@@ -18,10 +18,6 @@ tags: ["旅遊", "荷蘭", "德國", "瑞士", "奧地利"]
 
 為了替這個長達三個月的連載劃下一個句點，這篇文章就是要跟大家來分享我的歐洲獨旅心得總結！最後也會附上一些常見的 Q & A，希望可以幫助到有興趣獨自去歐洲自助旅行的冒險者XD
 
-* * *
-
-非 Medium 付費會員，[請長按此處免費閱讀這篇文章。](https://medium.com/@cloudarchitectec/b70945cc8b3d?source=friends_link&sk=41e43714a6048584f7cbe26c1d78efb0)當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### 地點
 
 我總共去了香港(昂坪纜車/大佛)、荷蘭(阿姆斯特丹、海牙、萊登、台夫特)、德國(法蘭克福、紐倫堡、慕尼黑、新天鵝堡)、奧地利(薩爾斯堡)、瑞士 (茵特拉肯、少女峰、伯恩、琉森)。
@@ -145,38 +141,21 @@ tags: ["旅遊", "荷蘭", "德國", "瑞士", "奧地利"]
 
 如果你對於我的歐洲遊記有興趣，歡迎閱讀以下文章：
 
-  * [一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-before-the-flight-319839ca6096)
-  * [一個女生的歐洲獨旅: 2024.04.24 香港轉機之昂坪纜車/大佛/市集一日遊](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-hongkong-stopover-14c81911fd96)
-  * [一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的運河屋](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-amsterdam-best-fries-canal-cruise-ferry-702447571dc5)
-  * [一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-leiden-university-pancake-96289a6ec152)
-  * [一個女生的歐洲獨旅: 2024.04.27 荷蘭 在藍瓷小鎮台夫特 (Delft) 慶祝國王節](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-dutch-kings-day-royal-delft-13deec22002a)
-  * [一個女生的歐洲獨旅: 2024.04.28 德國 法蘭克福 (Frankfurt) Day 1 — 最美跟最壞的風景都是人](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-frankfurt-day-1-the-people-9171a3b61bbc)
-  * [一個女生的歐洲獨旅: 2024.04.29 德國 法蘭克福 (Frankfurt) Day 2 — 不來也沒關係的城市](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-frankfurt-day-2-city-tour-2dfaaa93e47c)
-  * [一個女生的歐洲獨旅: 2024.04.30 德國 紐倫堡 (Nuremberg) Day 1 — 第一個讓我想移居的德國城市](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-nuremberg-a-city-worth-visting-7a2c9a97b7f0)
-  * [一個女生的歐洲獨旅: 2024.05.01 德國 紐倫堡 (Nuremberg) Day 2 — 近代史中的紐倫堡](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-nuremberg-a-city-with-history-ee0dffc37b65)
-  * [一個女生的歐洲獨旅: 2024.05.02 德國 慕尼黑 (Munich) Day 1- 達豪集中營](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-munich-dachau-concentration-camp-memorial-site-a3b586553c59)
-  * [一個女生的歐洲獨旅: 2024.05.03 德國 慕尼黑 (Munich) Day 2 — 兩個城堡一次擁有：林德霍夫宮與新天鵝堡](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-munich-schloss-linderhof-schloss-neuschwanstein-25348303080f)
-  * [一個女生的歐洲獨旅: 2024.05.04 奧地利 薩爾斯堡 (Salzburg) — 音樂神童莫札特的故鄉](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-salzburg-hometown-of-mozart-ba80e2f36295)
-  * [一個女生的歐洲獨旅: 2024.05.05 前往瑞士：茵特拉肯 (Interlaken) 韓劇愛的迫降拍攝地](https://medium.com/@cloudarchitectec/interlaken-lake-brienz-crush-landing-on-you-802fbaf14e16)
-  * [一個女生的歐洲獨旅: 2024.05.06 瑞士茵特拉肯 (Interlaken) Day 2: 少女峰 (Jungfraujoch) 我來了](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-interlaken-jungfraujoch-top-of-europe-6a76934a623c)
+  * [一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃](/posts/2024-08-10-2025-europe-summary/)
+  * [一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的運河屋](/posts/2024-04-25-amsterdam/)
+  * [一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城](/posts/2024-04-26-leiden/)
+  * [一個女生的歐洲獨旅: 2024.04.27 荷蘭 在藍瓷小鎮台夫特 (Delft) 慶祝國王節](/posts/2024-04-27-delft/)
+  * [一個女生的歐洲獨旅: 2024.04.28 德國 法蘭克福 (Frankfurt) Day 1 — 最美跟最壞的風景都是人](/posts/2024-06-06-frankfurt-day-1/)
+  * [一個女生的歐洲獨旅: 2024.04.29 德國 法蘭克福 (Frankfurt) Day 2 — 不來也沒關係的城市](/posts/2024-06-06-frankfurt-day-2/)
+  * [一個女生的歐洲獨旅: 2024.04.30 德國 紐倫堡 (Nuremberg) Day 1 — 第一個讓我想移居的德國城市](/posts/2024-06-14-nuremberg-day-1/)
+  * [一個女生的歐洲獨旅: 2024.05.01 德國 紐倫堡 (Nuremberg) Day 2 — 近代史中的紐倫堡](/posts/2024-06-14-nuremberg-day-2/)
+  * [一個女生的歐洲獨旅: 2024.05.02 德國 慕尼黑 (Munich) Day 1- 達豪集中營](/posts/2024-06-21-munich-day-1/)
+  * [一個女生的歐洲獨旅: 2024.05.03 德國 慕尼黑 (Munich) Day 2 — 兩個城堡一次擁有：林德霍夫宮與新天鵝堡](/posts/2024-06-21-munich-day-2/)
+  * [一個女生的歐洲獨旅: 2024.05.04 奧地利 薩爾斯堡 (Salzburg) — 音樂神童莫札特的故鄉](/posts/2024-07-07-salzburg/)
+  * [一個女生的歐洲獨旅: 2024.05.05 前往瑞士：茵特拉肯 (Interlaken) 韓劇愛的迫降拍攝地](/posts/2024-07-13-interlaken-day-1/)
+  * [一個女生的歐洲獨旅: 2024.05.06 瑞士茵特拉肯 (Interlaken) Day 2: 少女峰 (Jungfraujoch) 我來了](/posts/2024-07-13-interlaken-day-2/)
   * [一個女生的歐洲獨旅: 2024.05.07 瑞士茵特拉肯 (Interlaken) Day 3: 好險我昨天上了少女峰](/posts/2024-07-13-interlaken-day-3/)
-  * [一個女生的歐洲獨旅: 2024.05.08 瑞士首都伯恩 (Bern) 說走就走之旅](https://medium.com/@cloudarchitectec/swiss-capital-bern-a-city-named-after-bears-4a1fc626f826)
-  * [一個女生的歐洲獨旅: 2024.05.09 歐洲獨旅的尾聲：瑞士琉森鐵力士山，終見晴天的雪山美景！](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-switzerland-mount-titlis-dd13c48b80ba)
+  * [一個女生的歐洲獨旅: 2024.05.08 瑞士首都伯恩 (Bern) 說走就走之旅](/posts/2024-07-22-bern/)
+  * [一個女生的歐洲獨旅: 2024.05.09 歐洲獨旅的尾聲：瑞士琉森鐵力士山，終見晴天的雪山美景！](/posts/2024-08-04-lucern/)
 
-
-
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過**[**以下連結**](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)**請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-![](images/medium-0*6QLsmelpga0ynQ4B.png.jpg)
-
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
-  * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
-
-
+{{< footer >}}

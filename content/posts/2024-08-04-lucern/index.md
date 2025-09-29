@@ -14,8 +14,6 @@ tags: ["旅遊", "瑞士"]
 
 ![](images/medium-1*u9nLLJr6VU1ZuiqO8Vxuxw.jpeg.jpg)給大家看一下積雪有多厚
 
-非 Medium 付費會員，[請長按此處免費閱讀這篇文章](https://medium.com/@cloudarchitectec/dd13c48b80ba?source=friends_link&sk=760891e086e86e20bb45bea9b78758bf)。當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
-
 ### 鐵力士山 (Titlis Mountain)
 
 鐵力士山海拔 3020 公尺，是瑞士中部的第一高峰！
@@ -96,16 +94,4 @@ tags: ["旅遊", "瑞士"]
 
 雖然說潤稿跟配上照片其實不會太久 (一篇可能約一小時吧)，但堅持發表真的覺得很難！每個週末都覺得自己好累，提不太起勁來做這件事…… 如果你追到了現在，歡迎留言跟我分享你最喜歡的歐洲國家，如果是你去過的國家，歡迎跟我分享你的旅行經歷，如果是你還沒去過的國家，歡迎跟我分享為什麼你想去那裡旅行?
 
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過**[**以下連結**](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)**請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-0*k_ikOtaCnNKcaOZv.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
-  * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
-
-
+{{< footer >}}

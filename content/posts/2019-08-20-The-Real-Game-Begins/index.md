@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.20 The Real Game Begins"
 date: 2019-08-20
 slug: "2019-08-20-the-real-game-begins"
 image: "images/medium-0*tccay5yVUk7f1Hm7.jpg"
-images: ['images/medium-0*tccay5yVUk7f1Hm7.jpg', 'images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpeg.jpg', 'images/medium-1*NyILRsUnysMY9zenjmapLg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*tccay5yVUk7f1Hm7.jpg', 'images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpeg.jpg', 'images/medium-1*NyILRsUnysMY9zenjmapLg.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---
@@ -54,18 +54,4 @@ tags: ["職涯", "轉職工程師"]
 
 馬克小哥也是個奇人! 據說他每天晚上九點睡覺，早上五點起床，練巴西柔道+練習寫程式，我跟蘇說我覺得馬克小哥目測應該25–30歲吧? 蘇說「不可能，因為 20 幾歲的人絕對不會九點就睡!!!」 我簡直要笑死XDDDD (未來的EC: 現在我重看這一段還是每看一次笑一次哈哈哈哈)
 
-* * *
-
-
-
-**如果想要閱讀更多 EC 的文章，**[**請參考[目錄] 澳洲雲端架構師 EC — Medium 文章列表**](./2018-01-02-ec-post-list/index.md)
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-
-
-
+{{< footer >}}

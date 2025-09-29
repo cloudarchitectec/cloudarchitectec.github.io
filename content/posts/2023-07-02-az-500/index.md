@@ -1,16 +1,16 @@
 ---
-title: "八小時速成攻略！我如何通過微軟 AZ-500 Azure Security Engineer Associate 資訊安全工程師認證｜資安新手也能上手"
+title: "微軟 Azure 雲端證照: 八小時速成攻略通過微軟 AZ-500 Azure Security Engineer Associate 資訊安全工程師認證"
 date: 2023-07-02
 slug: "2023-07-02-az-500"
 image: "images/medium-0*f5zIapBhXCv_SWJ8.jpg"
-images: ['images/medium-0*f5zIapBhXCv_SWJ8.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*f5zIapBhXCv_SWJ8.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---
 
 * * *
 
-### 八小時速成攻略！我如何通過微軟 AZ-500 Azure Security Engineer Associate 資訊安全工程師認證｜資安新手也能上手
+### 微軟 Azure 雲端證照: 八小時速成攻略通過微軟 AZ-500 Azure Security Engineer Associate 資訊安全工程師認證
 
 ![](images/medium-0*L92NknyMUKwSh39M.jpg)Photo by [Nick Morrison](https://unsplash.com/@nickmorrison?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -70,19 +70,4 @@ tags: ["職涯", "雲端證照"]
 
 大家也考過 Azure 或 AWS 雲端證照嗎？有沒有什麼獨門準備秘技？歡迎留言與我分享～
 
-* * *
-
-👩‍💻 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**
-
-👉點擊 [<<澳洲雲端架構師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>](./2018-01-03-ec-consultation/index.md)，開啟你的職涯新篇章!
-
-
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * ☕ 喜歡我的創作分享？[請 EC 喝杯咖啡吧](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

@@ -55,7 +55,7 @@ tags: ["旅遊", "荷蘭"]
 關於萊登的遊記請看：
 
 [**一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城**  
- _萊登 (Leiden) 是知名荷蘭畫家林布蘭的故鄉，也是歐洲知名的大學城。於16世紀成立的萊登大學是荷蘭最古老的大學，也是我 2009–2010來荷蘭交換的學校！_ medium.com](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-leiden-university-pancake-96289a6ec152)[](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-leiden-university-pancake-96289a6ec152)
+ _萊登 (Leiden) 是知名荷蘭畫家林布蘭的故鄉，也是歐洲知名的大學城。於16世紀成立的萊登大學是荷蘭最古老的大學，也是我 2009–2010來荷蘭交換的學校！_ medium.com](/posts/2024-04-26-leiden/)[](/posts/2024-04-26-leiden/)
 
 ![](images/medium-1*e2FULclg8xAk7duIBMQLtA.jpeg.jpg)藍瓷版林布蘭的名畫夜巡
 
@@ -89,16 +89,4 @@ tags: ["旅遊", "荷蘭"]
 
 祈願我以後可以成為荷蘭手工藍瓷餐具的擁有者，如果可以擺一套美美的在家多棒啊！！！
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-![](images/medium-0*LrQk1rT6zRrnPHB3.png.jpg)
-
-
-
-
+{{< footer >}}

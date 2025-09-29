@@ -3,7 +3,7 @@ title: "澳洲布里斯本：陽光海岸高空樹頂挑戰 (Tree Top Challenge 
 date: 2023-10-28
 slug: "2023-10-28-tree-top"
 image: "images/medium-0*tPI7MVQyyD5Q4TRi.jpg"
-images: ['images/medium-0*tPI7MVQyyD5Q4TRi.jpg', 'images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpeg.jpg', 'images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpeg.jpg', 'images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpeg.jpg', 'images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpeg.jpg', 'images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpeg.jpg', 'images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpeg.jpg', 'images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpeg.jpg', 'images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*tPI7MVQyyD5Q4TRi.jpg', 'images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpeg.jpg', 'images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpeg.jpg', 'images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpeg.jpg', 'images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpeg.jpg', 'images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpeg.jpg', 'images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpeg.jpg', 'images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpeg.jpg', 'images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]
 ---
@@ -72,16 +72,4 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 ![](images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpeg.jpg)與大鳳梨合照
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

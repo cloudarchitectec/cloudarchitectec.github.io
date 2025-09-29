@@ -1,37 +1,42 @@
 ---
-title: "[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting"
+title: "[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第三集：Technical Guidance/Customer Meetings"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-3"
-image: "images/medium-0*XTejTjV9ZtCU27LU.jpg"
-images: ['images/medium-0*XTejTjV9ZtCU27LU.jpg', 'images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg', 'images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg', 'images/medium-0*S01TqTt4irw1xdCl.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+image: "images/medium-0*qzQRQkRstSx0mfxj.jpg"
+images: ['images/medium-0*qzQRQkRstSx0mfxj.jpg', 'images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png.jpg', 'images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png.jpg', 'images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png.jpg']
 categories: ["職涯"]
 tags: ["職涯", "微軟", "雲端架構師"]
 ---
 
 * * *
 
-### [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting
+### [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第三集：Technical Guidance/Customer Meetings
 
-![](images/medium-0*XTejTjV9ZtCU27LU.jpg)Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![](images/medium-0*qzQRQkRstSx0mfxj.jpg)Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
 ### 前言
 
-這篇文章是 <<微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼?>> 系列的第二集，如果你還沒有看過第一集，請點擊以下文章：
+這篇文章是 <<微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼?>> 系列的第三集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
-[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
- _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-01-org-chart-3710bdec8416)[](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-01-org-chart-3710bdec8416)
-
-**這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :**
-
-  1. [**Org Chart**](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-01-org-chart-3710bdec8416)
-  2. **Solution Architecting >> 你正在閱讀的文章**
-  3. Technical Guidance/Customer Meetings
+  1. Org Chart
+  2. Solution Architecting
+  3. **Technical Guidance/Customer Meetings >> 你正在閱讀的文章**
   4. Technical Presentation/Workshops
   5. Sales Pipeline Management
 
 
+
+**還沒看過第一集的人請看這裡：**
+
+[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
+ _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
+
+**還沒看過第二集的人請看這裡：**
+
+[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting**  
+ _這篇文章將以 3-tier web app migration 跟大家分享微軟雲端架構師 (Azure Cloud Solution Architect) 是如何規劃雲端解決方案的，文章的最後還會跟大家分享當架構師所需的技能。_ medium.com](/posts/2023-07-28-ms-csa-2/)[](/posts/2023-07-28-ms-csa-2/)
 
 **我希望大家在看完這個系列之後，可以留言告訴我:**
 
@@ -46,102 +51,119 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 * * *
 
-其實我發現寫這篇之前應該要來寫一篇解釋「到底什麼是雲」文章，但我最近真心忙到昏天黑地哈哈哈！所以繼續列入待寫清單，這個清單目前已經越來越長囧
+以下我會以時間線作為小標題，讓大家一同來體驗雲端架構師平常是如何跟客戶開會並提供技術指導。
 
-第二集會是這個系列中最技術性的一篇，如果覺得太多技術概念看不懂，我建議可以直接等待第三集跟第四集，因為這兩集會有趣許多，請不要因此放棄這個系列XDDD
+### 週三早上: 收到客戶 CTO 來信，希望我可以跟客戶內部的 Domain Architect 聊一下DSC
 
-### **讓我們就以經典的案例 3-tier web app migration 來說吧！**
+客戶的信大概是以下這樣的:
 
-如果你對於 3-tier web app 沒有概念，這件事是這樣的。一般來說 web applications 的基本概念會分為三層：
+> _Hi Ellie,_
 
-  1. **Presentation Tier** ：這一層簡單來說就是使用者看得到、摸得到的那層。可以再細分成 web clients (使用者用來打開 app 的電腦或手機) 跟 web servers (企業用來呈現靜態內容或是動態內容的伺服器)。
-  2. **Logic Tier** ：這一層就是廣義的後端 (backend)，是用來運行企業商業邏輯的 application servers。
-  3. **Data Tier** ：這一層就是廣義的資料庫 (databases)。
+> _Hope you are well._
 
-![](images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg)圖 1: Three-Tier Web App Concept
+> _I’m just wondering if you can spend some time talking about DSC with xxx?_
 
-### **接著讓我們把這個概念轉換成雲端架構，這裡以 AWS 為例。**
+> _Thanks!_
 
-我先做個簡單的一對一圖示，請注意這裡的每一個服務，都有其他替代選項。我只是先挑一個常見的AWS雲服務作為案例，實際上企業會選擇哪一個AWS雲服務，需要靠雲端架構師了解客戶的需求，經由多次討論之後才會下決定。
+在這之前我完全沒有聽過 DSC 哈哈哈～(DSC 是什麼？可以吃嗎?) 客戶的信件中也只寫了這個簡稱，完全沒有任何背景。感覺其實很像是上 PTT 問問題，但又不給資訊的通靈文?XD
 
-![](images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg)圖 2: Three-Tier Web App on AWS (Super Simplified Version)
+所以雲端架構師的第一個能力就是通靈XDD 沒有啦，開玩笑的，所以第一個能力就是資訊收集。我上網查了一下，才發現 DSC 是 desired state configuration，通常是用來確保 server compliance status。
 
-  * **Stage 1** ：我先簡單分為靜態內容跟動態內容。靜態內容，例如圖片或是簡單的html/CSS， 通常會放在 S3，也就是 AWS 的 Object Storage Service。這樣做的主要原因是就費用來說 S3 會比 EC2 便宜很多，所以靜態內容放那邊就可以了。如果是動態內容的話，可以放在 EC2 server 上。
-  * **Stage 2：** 最簡單直接的方式就是直接用 EC2 server (就 cloud migration 來說的術語叫做 lift and shift，就是把本來在實體機房的實體伺服器搬到AWS雲上變成 EC2 server)。其他的選擇有: 使用 container，此時可以選的 AWS 雲服務有 ECS 或是 EKS，選哪個就根據企業想要對於他們的 container instance 有多少控制而定。或是走 serverless 路線的話，這裡會用的AWS 雲服務就是 Lambda functions。
-  * **Stage 3：** 資料庫的選擇一般來說有 RDS (relational DB) 或 DynamoDB (non-relational DB)，要選哪個要根據 application 的 business logic 而定，也可以兩個都用。
+於是我查了一下我的行事曆，發現我只有週四跟下週一有空，於是回信給客戶兩個時間段，看他們哪個時間可以開會，然後心裡默默希望他們選週一，這樣我可以有更多時間準備。結果客戶選了週四下午哈哈哈哈，因為他希望趕快推進這件事~
 
+### 週三下午跟週四早上：準備期間
 
+瘋狂準備 DSC 相關的資料，然後我才發現 Azure 關於 DSC 的 offerings 有三種。
 
-好的，如果我告訴你以上只是簡化的版本呢?XD
+**Solution 1: Automation State Configuration**
 
-### **一般來說，AWS 的 web application 架構圖 (solution design) 會長這樣：**
-
-![](images/medium-0*S01TqTt4irw1xdCl.png.jpg) 圖 3: Three-Tier Web App on AWS (AWS simplified version)
-
-這裡添加的新元素有：
-
-  1. **Route 53:** AWS 的 DNS 服務，簡單來說就像是交警(traffic controller)，這個服務會負責幫忙指揮網路交通要往哪去。
-  2. **WAF (Web Application Firewall)** ：Layer 7 防火牆，如果你不懂這裡的 Layer 7 是什麼意思，可以讀一下 OSI model。基本上它就是一個比較聰明的防火牆，比 Layer 3/4 的防火牆聰明，至於聰明在哪裡，讀完 OSI model 應該就會懂了XD
-  3. **CloudFront (Content Delivery Network)：** AWS 的 CDN 服務，如果你不知道 CDN 是什麼概念，可以直接搜尋一下 Content Delivery Network。簡單來說， CDN 透過把網站內容 cache 在 edge points，可以大大減低使用者使用 app 時的 latency。
-  4. **Shield** ：AWS 的 DDoS 服務，這個是資安相關的服務。簡單來說，就是避免駭客用假流量灌爆企業網站，使得伺服器無法運作。
-  5. **VPC, Public Subnet (green), Private Subnet (blue)：** 簡單來說就是當企業從傳統的 hardware defined network (switches, routers, cables) 變成雲上的 software-defined network 時要怎麼規劃跟控制企業網絡。
-  6. **Availability Zone：** 簡單來說就是在不同地點的 AWS 數據中心，通常會建議企業的雲基礎設施不要部署在單一 Availability Zone。專業術語叫做 multi-AZ deployment。
-  7. **NAT Gateway：** 管 Internet outbound traffic 的AWS 雲服務。
-  8. **ELB (Elastic Load Balancer)：** AWS 的 load balancer 服務，可以分為聰明版的 Layer 7 Application Load Balancer (ALB) 跟比較不聰明版本的 Layer 4 Network Load Balancer (NLB)，至於為什麼 ALB 比 NLB 聰明，你還是要讀一下 OSI model 囧
-  9. **Autoscaling Group：** AWS 的 autoscaling 服務，簡單來說就是企業可以根據使用者流量而自動增加或減少伺服器的部署數量。例如一般來說 PTT 有100台伺服器，但是八卦版因為 Me Too 事件爆了，AWS會自動幫我部署200台伺服器來 cover 流量，這樣大家就可以繼續追八卦，而不會看到「批踢踢過載中，請稍後再嘗試登入」的錯誤訊息。（單純舉例，我不知道批踢踢是否部署在AWS上，還是在台大的機房裡?XD）
-  10. **Elasticache：** AWS 的 data caching 服務，簡單來說為了減低資料庫的負擔，企業可以把使用者常常要讀取的資料放在 Elasticache 上。
+  * **DSC 官方文件** : [Azure Automation State Configuration overview | Microsoft Learn](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-overview)
+  * **DSC 官方培訓** (這裡面有提供 demo configuration file，有興趣的人可以跟著動手做做看): [AZ-400: Manage infrastructure as code using Azure and DSC — Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-manage-infrastructure-as-code-using-azure/)
+  * **YouTube Tutorial** : [Azure Automation Part3 — Working with the Desired State Configuration using Azure Automation — YouTube](https://www.youtube.com/watch?v=8plqKnxzDHA)
 
 
 
-有興趣進一步閱讀細節的人請參考：[**< <An AWS Cloud architecture for web hosting>>**](https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-aws-cloud-architecture-for-web-hosting.html)
+第一種解決方案非常直接明瞭就叫 DSC 哈哈！但要跟 Azure Automation Account 一起合併使用才可以，這個解決方案在官方文件跟 YouTube 上都有一些相關影片，我自己也簡單在 Azure Portal 上做了一個 demo。
 
-### **看到這裡還有人嗎？XDD**
-
-雖然我上面講了超多次「簡單來說」，但我知道應該有讀者已經在心中吐槽無數次說「這哪裡簡單了啊啊啊啊啊啊啊啊」。
-
-但殘酷的事實是，在實務上客戶的架構圖會遠比上面的圖 3 更複雜，基本上是一頁畫不完，而且你必須要用放大鏡竟看每一層的程度LOL
-
-### **所謂的 solution architecting 到底在做什麼？**
-
-  1. **你必須要懂 IT infrastructure** ：networking, web application architecture (你可以不用真的會寫 React applications 沒關係，但是我上面說的那個 3-tier web application 的概念要有), storage, security, database, load balancing 等等。
-  2. **你必須要懂雲服務** ：AWS 或是 Azure 對應的 networking, web application , storage, security, database, load balancing 服務是什麼。除此之外，cloud migration 常見的幾個策略你要懂 (lift & shift, refactor, rehost 等等)。雲的基本概念你要懂 (regions, availability zones, multi-region deployment)。
-  3. **除了個別雲服務跟概念之外，你要懂得規劃整體雲端架構方案：** 試著想像我告訴你圖三裡，客戶想要部署 2000 個 EC2 servers，這些伺服器必須要在兩個 regions (例如澳洲跟台灣)。那如果我的使用者在美國的時候，請問他會連到澳洲的伺服器還是台灣的伺服器? (連到哪一個對客戶比較有利？) 如果客戶跟你說，他覺得 active-active deployment 太貴了，兩個 regions 客戶打算把 primary region 在澳洲，只有在澳洲 region 掛了的時候才 fail over 到台灣，請問這裡的 DR (disaster recovery) 要如何規劃？
-  4. **延續上一點，你必須要懂得跟客戶的不同部門打交道：**
-
-
-  * 有時候你必須要跟客戶的 CEO/CTO 談上雲之後的商業效益跟長遠規劃。
-  * 有時候你必須跟客戶的 Networking Team 談 south-north traffic 跟 east-west traffic 要怎麼規劃。
-  * 有時候你必須跟客戶的 Project Manager 談圖 3 的架構在 AWS 上需要多少錢，如果客戶說他們沒有那麼多預算，請問你要如何簡化圖 3 的架構來省錢？同時讓客戶了解到省錢之後的後果可能是他們的 application 的安全性會降低，或是 reliablity 會降低，該如何取捨？
-  * 有時候是在同一個會議裡跟客戶的不同部門大亂鬥XD Project Manager 說圖 3 太貴了，他們不想要買 Shield Advance，Security Team 說不行我們這樣資安會有漏洞。然後 Networking Team 跳出來說，multi-region deployment 這樣網路很難規劃，但 CTO 說不行我們的一定要multi-region deployment，因為 single-region deployment 的話我們無法滿足跟客戶的 SLA (service level agreement)。
-
-
-
-### 結語
-
-看到這裡的人，我覺得比起你們幫這篇文章拍手，我更想幫你們拍手XDDD 所以請留言吧，每一個留言我都會幫你們拍手的，因為要看一個這麼長又充滿英文技術名詞的文章真的不容易，我真心佩服！
-
-其實我後來覺得「 solution architecting 到底在幹嘛」這件事完全更適合拍 YouTube 影片來解釋，但一樣，我現在還擠不出時間，所以請大家再等等吧！一切都在計劃之中。
-
-另外之前問我要怎麼一個禮拜產出一篇文章的讀者 (其實我這禮拜寫了兩篇)，我告訴你們，秘訣就是「少睡一點」XDD 我今天早上九點就出門了，晚上九點才回來，開始寫文的時候已經晚上十點了。現在寫到尾聲的時候是凌晨一點，我猜等我加完圖片、修完文之後大概會是兩點？XD (我明天也是一個從早到晚的行程，所以只能今晚熬夜趕稿了)。
-
-如果你欣賞我這份熬夜寫文的精神，請多多留言給我鼓勵、告訴我你們的讀後感想或建議。如果你覺得第二集完全看不懂就是天書，那請期待第三集 Technical Guidance/Customer Meetings，因為這集我會用實務上的例子來解釋，非常具故事性，你們也可以一窺微軟架構師平常是怎麼準備跟客戶開會的XD
+![](images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png.jpg)DSC demo in Azure portal
 
 * * *
 
+**Solution 2: Azure Policy Guest Assignment >> Azure Automanage machine**
 
+  * **官方文件** : [About Azure Automanage Machine Best Practices | Microsoft Learn](https://learn.microsoft.com/en-us/azure/automanage/overview-about)
 
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
+![](images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png.jpg)Azure documenetation: newer version of DSC
 
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+但是在 DSC 的官方文件上，又寫說現在有更新版的 DSC，叫做 Azure Policy Guest Assignment，結果一點進去連結，又說 Azure Policy Guest Assignment 現在改名為 Azure Automanage machine 了。
+
+我研究了一下，大概知道這個是用 Azure Policy 來執行跟判斷 server configuration 的 compliance status，但我在 Azure Portal 上試了一下，還是不太確定要怎麼用。Azure 官方文件我看了兩三次，然後也試著在 YouTube 上搜尋，但相關資訊真的不多
 
 * * *
 
-**延伸閱讀**
+**Solution 3: Azure Automanage**
 
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)
-  * [[](/posts/2022-12-03-bootcamp-to-aws/)[職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/%E8%81%B7%E6%B6%AF-%E6%88%91%E7%82%BA%E4%BB%80%E9%BA%BC%E9%81%B8%E6%93%87%E8%BD%89%E8%81%B7-it-%E7%94%A2%E6%A5%AD-e0507b5c98e1)
-  * [[職場] 為什麼我決定離開澳洲 AWS/亞馬遜，加入微軟 Azure](https://medium.com/@cloudarchitectec/%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E6%B1%BA%E5%AE%9A%E9%9B%A2%E9%96%8B-aws-%E4%BA%9E%E9%A6%AC%E9%81%9C-%E5%8A%A0%E5%85%A5%E5%BE%AE%E8%BB%9F-azure-8a0556b083ef)
+  * **官方文件** : [About Azure Automanage Machine Best Practices | Microsoft Learn](https://learn.microsoft.com/en-us/azure/automanage/overview-about)
+  * **官方說明影片** : [Simplify Windows Server management in Azure with Automanage & Hotpatch — YouTube](https://www.youtube.com/watch?v=X7RoU5ZOnjg)
 
 
+
+我後來發現還有另一個解決方案，是一個獨立的 Azure Service 叫 Automanage (是不是跟 Solution 2 名字超像！但他們兩個明顯又是不一樣的服務，真心莫名其妙哈哈哈哈哈)。
+
+Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然後成功在我自己的 Azure Portal 上做了一個 demo。
+
+![](images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png.jpg)Automanage demo in Azure portal
+
+因為我實在搞不懂 solution 2 跟 solution 1 & 3 之間的關係跟差異，所以我就放棄 solution 2 了。想說至少我現在研究出來兩種解決方案，而且都還有 demo，先跟客戶開會聽聽他們實際上的要求再說。
+
+### 週四下午：Domain Architect 初次見面
+
+我的客戶都是 Financial Services Enterprise Accounts (澳洲大型金融組織，例如澳洲央行)，雖然我只有六個 accounts，但這六個客戶裡面可能各自有 10–20 個以上的 internal tech teams (包括 developer teams for different products/business unit, infrastructure team, cloud team, IT Ops team 等等)。所以我其實常常要跟不同的 customer stakeholders 開會，這次要開會的人我就是第一次聽說有這個人，所以我不清楚他在客戶公司裡的職位跟負責哪一部分的項目。
+
+一進入會議我就先自我介紹，然後講完他問我說「所以你是 TAM (Technical Account Manager)嗎？」我不是喔XD 只好又跟他解釋一番 Cloud Solution Architect 在微軟是在幹嘛的。你看，所以你們不知道我在做什麼其實也很正常，連這個產業裡的人都不一定知道我在幹嘛XD
+
+接著換他自我介紹，他說他是 Domain Architect in Data，此時我已經有了一個不祥的預感。
+
+微軟的 CSA 分為三個領域: core/infrastructure (就是我)、Application Innovation (同事D)、Data & AI (本來是A，但A上個月轉去新的部門了，我們至今還不知道新的 Data & AI CSA 是誰 XD)。既然他的職位是 Domain Architect in Data，有極大的可能他接下來要談的技術問題跟我負責的領域不相關哈哈
+
+然後他說「不知道我們 CTO 有沒有跟你說過我們這個項目在幹嘛跟我負責做什麼？我們這個其實 SQL servers 有關。」
+
+想當然爾，客戶 CTO 沒跟我說這件事！
+
+其實這種情形不只發生在客戶身上，有時候我自己的內部團隊找我跟客戶開會，也是一點 context (背景脈絡) 都沒有，大家各憑本事直接上陣。事先問同事也沒用，因為他們就是什麼都不知道，然後就急急忙忙抓了一個 Solution Architect 就來開會 (當我們什麼都知道?)。
+
+就算我接到會議邀請後，先寫信問客戶說「你好，那請問你們的 challenges & requirements 是什麼？ Would be great if you can share these with us before the meeting so that we can make sure that we have the relevant resources ready。」基本上客戶也都不會回信，大家就是直到開會的那一刻再來談lol
+
+我覺得這種運作模式對於一個資深的 Solution Architect 可能沒有問題，因為他們可能有辦法運用自己過去的經驗來提供客戶技術建議。對於我這種，連跟 Azure 服務也還不熟的菜鳥 SA 就慘了，絕大部分的時候我是連客戶在講什麼都不知道的XD
+
+好，回歸主題，這個客戶一講完，我就知道完蛋了哈哈哈哈！因為我之前準備的所有東西，都是跟 Azure Virtual Machines, physical servers and Azure Arc enabled servers 相關，也就是一般的 Windows 或 Linux servers，SQL servers 完全是另一個領域喔～
+
+不過我還是硬著頭皮好好聆聽了一下客戶的要求 (說真的我其實沒有完全聽懂XD 但不用怕！下面我會教大家如何應付這種情形)，然後我接著說「關於 server configuration/compliance，我們有以下兩個服務，我簡單跟你介紹一下，跟你展示一下他們實際上在 Azure portal 是怎麼操作的，然後你再看看這兩個服務跟你的 use cases 有沒有相關 (然後我就講了我準備的 Solution 1 & 3)」。
+
+講完之後客戶就直接跟我確認這兩個服務跟他想要解決的問題的確是不怎麼相關XDDDD
+
+接著我就說「嗯嗯～其實我也這麼覺得！聽完你的要求，這個我覺得跟我們 Data CSA 負責的比較相關，你能不能在會議結束後寄一封簡短的 email 給我，list your SQL server specs (database engine version etc) and your specific requirements for SQL server configuration & compliance，這樣我就可以拿這個去找我們的 Data CSA 看看他們那邊有沒有適合的解決方案。(這招超級好用，尤其是當客戶的問題你只聽懂 7 成的時候，直接讓他們把要求列下來給你。但說真的，如果客戶一開始就做這件事，這個會根本不用開，或是我一開始就可以找 Data CSA 來開，但他們就偏不這樣，就是要先找一個人聊聊XD) 」
+
+然後我跟客戶說，這禮拜可能有點趕 (因為今天週四了)，但我爭取early next week 給你回覆。結果客戶說「喔～可是我這幾天都不會進辦公室，我可能要下週三才能給你資料」。我當然是直接說沒關係啊，你慢慢來～ (但內心OS 是：是誰趕著今天要開會的!?)
+
+### 後續
+
+當然這件事不會這樣結束，下週二客戶的確把他的問題整理好寄給我了。但就像我之前說過的，Data CSA 同事 A 已經轉去當 TS 了 (想要重溫微軟 CSA 相關的組織架構，請參考這個系列的[<<第一集 Org Chart>>](2023-07-28-ms-csa-1))。於是我詢問了我的經理這件事要找誰，經理推薦了我們團隊的另一個 Data CSA 同事 L。我簡短地跟 L 聊了一下，發現他對於 SQL Server DSC 也不是太了解。
+
+接著我跟我的 Specialist 同事 T 聊了一下這件事，他提醒了我「這個應該是 pre-sale 吧？ pre-sale 的話，就是 TS 負責啊，所以你還是可以去找同事 A！」真是一語驚醒夢中人耶～ 於是我又跑去找同事 A。
+
+然後同事 A 果然還是滿罩的，他跟我稍微解釋了一下 SQL Server DSC 這件事目前在微軟的 Azure 雲服務裡面沒有相關的 native services，一般來說遇到這個問題，業界都是仰賴第三方軟體。於是他建議我去找 Data GBB，然後我就去找了 Data Specialist V 同事，請他幫忙去找 Data GBB。
+
+哈哈哈哈～ 然後目前已經過了一個禮拜了！我還是沒聽到後續XD 不過至少釐清了一下這件事算是 data stream 的 pre-sale 活動，所以應該是 Data Specialist V 同事協同 Data TS A 同事跟 Data GBB 一起處理。簡而言之，不甘我的事XD
+
+### 結論
+
+希望這個系列可以用我實際工作上的例子，來讓大家更加了解 SA 的生活。有時候寫一寫我會轉換成英文，因為我覺得寫起來比較順，畢竟因為我的工作跟所有技術知識都是用英文，有時候我可能不知道這些名詞怎麼用中文表達才比較恰當，但如果你們覺得這樣中英交雜很煩的話，也請跟我說 (其實我自己有意識到這點，我會盡量維持中文表達XD)。
+
+然後我今天的心得是，其實 SA 的工作是不是就是「代客學習」?
+
+有時候客戶知道他們想要什麼，但是他們不知道怎麼學或是懶得學，於是就找我們來開會。我是不知道客戶要什麼，也不知道實際上怎麼運作，但我的工作就是快速學會這個領域在雲端上的知識與運用，然後把這些知識傳授給客戶。
+
+但說真的我常常覺得，客戶其實可以自己學一學就好。畢竟他們都是各個領域的專家，也是每天在實務上運用這些技術的人，這些技術概念我都不懂，也沒有實務經驗。我只能自己上網學習，就像我上面舉的例子，我自學了DSC 這個技術概念是什麼，我還學了兩個新的 Azure services 跟做了 demo，其實還滿有趣的。不過我終究覺得，SA這樣的技術職位 (technical role)，其實不是我想走的職涯方向 (Is SA a technical role? Probably. But it’s not in the ‘technical’ way how I want to progress my technical career)
+
+{{< footer >}}

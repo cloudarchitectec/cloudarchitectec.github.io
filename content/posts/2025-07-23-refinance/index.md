@@ -103,23 +103,8 @@ tags: ["投資理財", "房貸"]
 如果你對於澳洲房產投資有興趣，歡迎閲讀我之前分享的投資房鬼故事：
 
 [**好想要退休！土地為王？多災多難的澳洲投資房心路歷程**  
- _經歷一場不太成功，也不太失敗的公寓投資。EC 在布里斯本買了一棟帶土地的四房 house，如果你以為從此開始 EC…_ medium.com](https://medium.com/@cloudarchitectec/australia-property-manager-experience-d2ddcd9fb429)[](https://medium.com/@cloudarchitectec/australia-property-manager-experience-d2ddcd9fb429)
+ _經歷一場不太成功，也不太失敗的公寓投資。EC 在布里斯本買了一棟帶土地的四房 house，如果你以為從此開始 EC…_ medium.com](/posts/2024-10-31-investment-property/)[](/posts/2024-10-31-investment-property/)
 
 或是留言告訴我你們想看的相關文章！只要有許願，就有機會實現喔～
 
-* * *
-
-👩‍💻 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**
-
-👉點擊 [<<澳洲雲端架構師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>](./2018-01-03-ec-consultation/index.md)，開啟你的職涯新篇章!
-
-
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * ☕ 喜歡我的創作分享？[請 EC 喝杯咖啡吧](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

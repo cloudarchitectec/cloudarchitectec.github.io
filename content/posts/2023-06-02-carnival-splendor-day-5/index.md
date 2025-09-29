@@ -67,20 +67,4 @@ PS: 跟工作人員閒聊了一下，才原來我今天的毛巾動物是兔子�
 
 ![](images/medium-1*Kl99scnbT80o6Vyh5HnuGg.jpeg.jpg)
 
-—
-
-如果你喜歡閱讀海外生活、澳洲職場、轉職工程師的相關文章，歡迎追蹤我的 Medium 部落格，這樣你就不會錯過我每週六的固定更新！近期我也會不定期更新我在澳洲旅遊的遊記 ^0^
-
-也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！你們的鼓勵是支持我繼續寫作下去的動力 :)
-
-有任何問題或是想要看的主題，歡迎留言跟我互動 :)
-
-**延伸閱讀**
-
-  * [[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)](/posts/2023-06-02-carnival-splendor-day-4/)
-  * [[旅遊] 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2](/posts/2023-05-30-carnival-splendor-day-3/)
-  * [[旅遊] 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](/posts/2023-05-28-carnival-splendor-day-2/)
-  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-
-
+{{< footer >}}

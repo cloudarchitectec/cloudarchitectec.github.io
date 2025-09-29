@@ -3,7 +3,7 @@ title: "2022.10.13 斐濟自助旅遊 Day 4 — 斐濟最棒的海上酒吧 Clou
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-4"
 image: "images/medium-0*cpXgPyWwKhUznpXc.jpg"
-images: ['images/medium-0*cpXgPyWwKhUznpXc.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg', 'images/medium-0*vhZbyYyLxbPgLK8q.jpg', 'images/medium-0*QcchKBHhmEXEnYp_.jpg', 'images/medium-0*7WzJ_c1ClUre89qX.jpg', 'images/medium-0*MoG9skNBqOdBbm8e.jpg', 'images/medium-0*0i5Qtp7dsBw_-J9O.jpg', 'images/medium-0*DCghkyylWU5GChrP.jpg', 'images/medium-0*e9919yt2HkiYs2cK.jpg']
+images: ['images/medium-0*cpXgPyWwKhUznpXc.jpg', 'images/buy-me-coffee.jpg', 'images/medium-0*vhZbyYyLxbPgLK8q.jpg', 'images/medium-0*QcchKBHhmEXEnYp_.jpg', 'images/medium-0*7WzJ_c1ClUre89qX.jpg', 'images/medium-0*MoG9skNBqOdBbm8e.jpg', 'images/medium-0*0i5Qtp7dsBw_-J9O.jpg', 'images/medium-0*DCghkyylWU5GChrP.jpg', 'images/medium-0*e9919yt2HkiYs2cK.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "斐濟"]
 ---
@@ -13,7 +13,7 @@ tags: ["旅遊", "斐濟"]
 
 ![](images/medium-0*cpXgPyWwKhUznpXc.jpg)Photo by [Matthew Brodeur](https://unsplash.com/@mrbrodeur?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+[![Buy me a coffee](images/buy-me-coffee.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
 * * *
 
@@ -63,18 +63,4 @@ Travis 人完全好到爆表，我們只是隨口閒聊到說我想要去「跳�
 
 在下雨天吃亞洲泡麵配雙彩虹，人生不能再更完美了！
 
-* * *
-
-
-
-
-
-**延伸閱讀**
-
-  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
-  * [Ivory’s Rocks 三天兩夜澳洲露營初體驗](https://medium.com/@cloudarchitectec/first-time-camping-in-an-australia-camping-site-ivorys-rocks-66c09b509bfb)
-  * [2022.10.10 斐濟自助旅遊 Day 1: 初來乍到之這裡真的不是屏東嗎?](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-1-541f5252848a)
-  * [2022.10.11 斐濟自助旅遊 Day 2: Nadi 市區一日遊](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-2-nadi-f85bcbdb3797)
-  * [2022.10.12 斐濟自助旅遊 Day 3: Malamala Island](https://medium.com/@cloudarchitectec/2022-10-fiji-trip-day-3-malamala-island-1a66369081cc)
-
-
+{{< footer >}}

@@ -24,7 +24,7 @@ tags: ["投資理財", "房地產"]
 如果你想要利用**昆士蘭首次置業補助金 (First Home Owner Grant)** ，在購入你的自住房的同時獲得一筆澳幣 15,000 的政府補助金，請參考第二集：
 
 [**澳洲首次置業指南-昆士蘭篇II：2023 首次購屋補助怎麼領？First Home Owner Grant 申請攻略**  
- _想申請昆士蘭首次購屋補助金（First Home Owner Grant）卻不確定從哪開始？這篇文章是我整理的實用攻略，帶你了解申請資格、補助金條件與常見誤區。符合資格就有機會領取 $15,000…_ medium.com](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)[](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)
+ _想申請昆士蘭首次購屋補助金（First Home Owner Grant）卻不確定從哪開始？這篇文章是我整理的實用攻略，帶你了解申請資格、補助金條件與常見誤區。符合資格就有機會領取 $15,000…_ medium.com](/posts/2023-09-23-qld-first-home-2/)[](/posts/2023-09-23-qld-first-home-2/)
 
 按照慣例，在文章開始前必須來個免責聲明XD
 
@@ -125,19 +125,4 @@ tags: ["投資理財", "房地產"]
 
 未來我會持續分享更多澳洲生活、房產、職涯與 IT 相關資源，有興趣也歡迎訂閱、追蹤，或預約我聊聊職涯／技術轉職顧問諮詢！
 
-* * *
-
-
-
-👩‍💻 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**
-
-👉點擊 [<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>](./2018-01-03-ec-consultation/index.md)，開啟你的職涯新篇章!
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * ☕ 喜歡我的創作分享？[請 EC 喝杯咖啡吧](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

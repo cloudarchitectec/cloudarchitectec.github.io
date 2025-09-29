@@ -3,7 +3,7 @@ title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.09.01 探訪魔�
 date: 2024-09-01
 slug: "2024-09-01-nz-day2"
 image: "images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg"
-images: ['images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg', 'images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpeg.jpg', 'images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpeg.jpg', 'images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpeg.jpg', 'images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpeg.jpg', 'images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpeg.jpg', 'images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpeg.jpg', 'images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpeg.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg', 'images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpeg.jpg', 'images/medium-1*87pxJDNxemsffVQgTd1gQg.jpeg.jpg', 'images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpeg.jpg', 'images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg', 'images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpeg.jpg', 'images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpeg.jpg', 'images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpeg.jpg', 'images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpeg.jpg', 'images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpeg.jpg', 'images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpeg.jpg', 'images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpeg.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg', 'images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpeg.jpg', 'images/medium-1*87pxJDNxemsffVQgTd1gQg.jpeg.jpg', 'images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpeg.jpg', 'images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "紐西蘭"]
 ---
@@ -51,16 +51,4 @@ tags: ["旅遊", "紐西蘭"]
 
 ![](images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpeg.jpg)![](images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpeg.jpg)
 
-* * *
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊**[**< <澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](./2018-01-03-ec-consultation/index.md)**，開啟你的職涯新篇章!**
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

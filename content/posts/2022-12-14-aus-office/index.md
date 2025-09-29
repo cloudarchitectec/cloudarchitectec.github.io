@@ -59,13 +59,4 @@ tags: ["澳洲生活", "辦公室文化", "職涯"]
 
 已經習慣澳洲職場文化的我，也曾經動過回台灣工作的念頭 (來澳洲之前，我只在台灣工作過一年)，可是每當聽到身邊朋友分享的故事，我又覺得台灣的職場我好像回不去了XDDD
 
-
-
-**延伸閱讀**
-
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
-  * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-
-
+{{< footer >}}

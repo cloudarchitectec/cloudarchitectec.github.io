@@ -67,14 +67,4 @@ Check-in 時我們選的是 early dine-in，所以5:15 就可以入座用餐了�
 
 ![](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
 
-
-
-**延伸閱讀**
-
-  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](https://medium.com/@cloudarchitectec/旅遊-carnival-splendor-澳洲南太平洋郵輪-事前準備及須知-2023-05出發-b7ee58cf7bc4)
-  * [[介紹] 大家好，我是EC!](https://medium.com/@cloudarchitectec/介紹-大家好-我是ec-afcf45d128eb)
-  * [[生活]澳洲首次買房流程分享](https://medium.com/@cloudarchitectec/生活-澳洲首次買房流程分享-2021-5bd28c444bfb)
-  * [[生活] 2022 澳洲買新車: Swift、MG3、C-HR、Corolla、Stonic、i30 試駕心得](https://medium.com/@cloudarchitectec/%E9%96%92%E8%81%8A-2022-%E6%BE%B3%E6%B4%B2%E8%B2%B7%E6%96%B0%E8%BB%8A-swift-mg3-c-hr-corolla-stonic-i30-%E8%A9%A6%E9%A7%95%E5%BF%83%E5%BE%97-170399f4d029)
-  * [[趣聞] 你不知道的亞馬遜辦公室 — IT 自動販賣機](/posts/2023-03-24-it-vending-machine/)
-
-
+{{< footer >}}

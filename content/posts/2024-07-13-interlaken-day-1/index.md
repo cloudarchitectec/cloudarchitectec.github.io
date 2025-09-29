@@ -84,18 +84,4 @@ tags: ["旅遊", "瑞士"]
 
 我覺得這可能是我這一趟旅程最希望有旅伴的時刻哈哈哈～ 因為要是我們有兩個人，一個人點 tom yum soup ，另一個人點 pad thai 或是咖喱，這樣平分下來一個人還是出$40澳幣，但這樣我們就可以吃得心滿意足了
 
-* * *
-
-
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過**[**以下連結**](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)**請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-0*BPq3oedhBT5fxtFq.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * 想看 EC 的更多文章，請參考：[[目錄] 雲端架構師 EC — Medium 文章列表](https://medium.com/@cloudarchitectec/目錄-雲端架構師-ec-medium-文章列表-2023-06-03-更新-76c1ed3b871d)
-  * 想跟 EC 互動，請前往：[臉書粉絲頁雲端架構師 EC](https://www.facebook.com/cloudarchitectec/) 或是 Email: [cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-  * [YouTube 頻道 Cloud Journey with EC (歐洲獨旅影片緩慢上線中)](https://www.youtube.com/@CloudJourneyWithEC)
-
-
+{{< footer >}}

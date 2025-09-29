@@ -3,7 +3,7 @@ title: "澳洲簽證種類分析：台灣人想要登入澳洲有哪些選項？
 date: 2024-03-08
 slug: "2024-03-08-au-visa-options"
 image: "images/medium-0*w2i9_BUm90zNlp3e.jpg"
-images: ['images/medium-0*w2i9_BUm90zNlp3e.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*w2i9_BUm90zNlp3e.jpg', 'images/buy-me-coffee.jpg']
 categories: ["投資理財"]
 tags: ["投資理財"]
 ---
@@ -128,28 +128,6 @@ EC 打工度假的時候還沒有三簽這件事呢！不知道後來真的有�
 
 甚至如果有興趣深入研究的朋友，澳洲移民法 Migration Act 1958 的全文是在網路上公開的，請見[連結](https://www5.austlii.edu.au/au/legis/cth/consol_act/ma1958118/index.html)。如果要跟移民局吵架的時候(別懷疑，移民官也是人，有時候他們也會讀錯法條)，這時候就要靠魔法打敗魔法，引用移民法規打敗他們XD
 
-如果你們看完之後還有任何問題，歡迎留言。其實簽證申請還有很多眉角，但如果全部寫出來真的就太長了。如果你不想要公開個人資訊，也可以跟我預約 1:1 諮詢，除了可以幫你做初步評估，也可以回答你對於澳洲職場跟生活的相關問題：[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
+如果你們看完之後還有任何問題，歡迎留言。其實簽證申請還有很多眉角，但如果全部寫出來真的就太長了。如果你不想要公開個人資訊，也可以跟我預約 1:1 諮詢，除了可以幫你做初步評估，也可以回答你對於澳洲職場跟生活的相關問題~
 
-* * *
-
-
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-
-
-
-
-* * *
-
-**推薦閱讀**
-
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
-  * [知識有價，分享無價：雲端架構師 EC 線上諮詢服務，正式上線](./2018-01-03-ec-consultation/index.md)
-  * [機會由自己創造！我透過閱讀澳洲政府的移民規定成功移民澳洲！](https://medium.com/@cloudarchitectec/how-i-migrated-to-australia-37ddb7b0d4d8)
-  * [布里斯本開車可抵達的可愛小島 — Bribie Island 一日遊](/posts/2023-09-15-bribie-island/)
-
-
+{{< footer >}}

@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.21 Vanuatu Day 3 地震驚魂�
 date: 2025-04-21
 slug: "2025-04-21-vanuatu-day-3"
 image: "images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg"
-images: ['images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg', 'images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg', 'images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg', 'images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg', 'images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg', 'images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg', 'images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg', 'images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg', 'images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg', 'images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg', 'images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg', 'images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg', 'images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg', 'images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg', 'images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg', 'images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg', 'images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -88,18 +88,4 @@ Pele island 島上有四個村莊，人口大約40人(官方資料寫200人）�
 
 我相信如果我是男生，以上的問句就不會發生，沒人會管我是已婚未婚還是離婚😆
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

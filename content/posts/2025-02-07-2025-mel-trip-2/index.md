@@ -3,7 +3,7 @@ title: "2025 墨爾本澳網行 (下)：免費公關票真香！居然能在一�
 date: 2025-02-07
 slug: "2025-02-07-2025-mel-trip-2"
 image: "images/medium-1*rctNiVKYK_NaY1TD67jocQ.jpeg.jpg"
-images: ['images/medium-1*rctNiVKYK_NaY1TD67jocQ.jpeg.jpg', 'images/medium-1*SPFTKyvJhd-FnKQwg66kCQ.jpeg.jpg', 'images/medium-1*GY-fO6zKuhRvGK5CED2Hpw.jpeg.jpg', 'images/medium-1*UCY9_hJWWmzWu8q_6TddKA.jpeg.jpg', 'images/medium-1*w8rOPWZCbTDr_zygFZmaoQ.jpeg.jpg', 'images/medium-1*FXalAHkrCLZVNdcUc8SayQ.jpeg.jpg', 'images/medium-1*T1JRodpGaceALuPHQPm6aw.jpeg.jpg', 'images/medium-1*MR9BNPjuKLLNCXU0r8mCoQ.jpeg.jpg', 'images/medium-1*DcSz0m953gzRKE_fqpiVPw.jpeg.jpg', 'images/medium-1*q9ifLVc6P2Fw--BX7g7LIg.jpeg.jpg', 'images/medium-1*bXFBntatWX9wEfdQ9exDVw.jpeg.jpg', 'images/medium-1*iR83-274K4ZP27L9BpUkcg.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*rctNiVKYK_NaY1TD67jocQ.jpeg.jpg', 'images/medium-1*SPFTKyvJhd-FnKQwg66kCQ.jpeg.jpg', 'images/medium-1*GY-fO6zKuhRvGK5CED2Hpw.jpeg.jpg', 'images/medium-1*UCY9_hJWWmzWu8q_6TddKA.jpeg.jpg', 'images/medium-1*w8rOPWZCbTDr_zygFZmaoQ.jpeg.jpg', 'images/medium-1*FXalAHkrCLZVNdcUc8SayQ.jpeg.jpg', 'images/medium-1*T1JRodpGaceALuPHQPm6aw.jpeg.jpg', 'images/medium-1*MR9BNPjuKLLNCXU0r8mCoQ.jpeg.jpg', 'images/medium-1*DcSz0m953gzRKE_fqpiVPw.jpeg.jpg', 'images/medium-1*q9ifLVc6P2Fw--BX7g7LIg.jpeg.jpg', 'images/medium-1*bXFBntatWX9wEfdQ9exDVw.jpeg.jpg', 'images/medium-1*iR83-274K4ZP27L9BpUkcg.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活", "墨爾本", "旅遊"]
 ---
@@ -54,18 +54,4 @@ tags: ["澳洲生活", "墨爾本", "旅遊"]
 
 接著回到布里斯本搭上倒數第二班 airtrain，然後我在火車上打這兩篇，打完剛好到家😆
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

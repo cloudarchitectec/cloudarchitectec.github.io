@@ -10,6 +10,10 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 
+# URL configuration for Chinese characters
+removePathAccents = false
+disablePathToLower = true
+
 [minify]
   disableXML = true
   minifyOutput = true
@@ -20,6 +24,9 @@ enableEmoji = true
   description = "澳洲雲端架構師 EC 的技術部落格 - Cloud Architect EC's Tech Blog"
   keywords = ["Cloud Architecture", "AWS", "Azure", "Tech Blog", "雲端架構"]
   author = "Cloud Architect EC"
+  
+  # Google Analytics Configuration
+  googleAnalytics = "G-F5Z4F1PYEE"  
   
   defaultTheme = "auto" # dark, light
   disableThemeToggle = false
@@ -54,15 +61,16 @@ enableEmoji = true
     ignoreLocation = true
 
   [params.assets]
-    favicon = "favicon.ico"
-    favicon16x16 = "favicon-16x16.png"
-    favicon32x32 = "favicon-32x32.png"
-    apple_touch_icon = "apple-touch-icon.png" 
-    safari_pinned_tab = "safari-pinned-tab.svg"
+    # Using existing logo as favicon
+    favicon = "ec-logo.png"
+    # favicon16x16 = "favicon-16x16.png"  # Uncomment when you have PNG files
+    # favicon32x32 = "favicon-32x32.png"  # Uncomment when you have PNG files  
+    apple_touch_icon = "ec-logo.png"
+    # safari_pinned_tab = "safari-pinned-tab.svg"  # Uncomment when you have SVG files
 
   [params.label]
     text = "Cloud Architect EC"
-    icon = "favicon.ico"
+    icon = "ec-logo.png"
     iconHeight = 35
 
   # profile-mode
@@ -114,22 +122,31 @@ enableEmoji = true
     [languages.zh-hant.params.homeInfoParams]
       Title = "澳洲雲端架構師 EC 的部落格"
       Content = "旅澳多年的台灣女生，從打工度假到移民澳洲，從文組到轉職成工程師 (成功入職 Amazon & 微軟)。旅行過 22個國家，致力於生活中的各式體驗。希望跟大家分享我對澳洲生活、職場、文化、旅行的觀察筆記。點此預約[<<澳洲雲端架構師 EC 職涯諮詢服務>>](https://forms.gle/Zuro8YryCN5hH9Gk9)"
+
     [[languages.zh-hant.menu.main]]
-      name = "搜尋"
-      url = "/search"
-      weight = 10
-    [[languages.zh-hant.menu.main]]
-      name = "文章"
-      url = "/posts"
+      name = "精選文章"
+      url = "/posts/2018-01-02-ec-post-list"
       weight = 20
     [[languages.zh-hant.menu.main]]
-      name = "分類"
-      url = "/categories"
+      name = "職涯諮詢"
+      url = "/posts/2018-01-03-ec-consultation"
       weight = 30
+    [[languages.zh-hant.menu.main]]
+      name = "我是EC"
+      url = "/posts/2018-01-01-iam-ec"
+      weight = 10
     [[languages.zh-hant.menu.main]]
       name = "標籤"
       url = "/tags"
       weight = 40
+    [[languages.zh-hant.menu.main]]
+      name = "分類"
+      url = "/categories"
+      weight = 50
+    [[languages.zh-hant.menu.main]]
+      name = "搜尋"
+      url = "/search"
+      weight = 60
 
 [markup]
   [markup.highlight]

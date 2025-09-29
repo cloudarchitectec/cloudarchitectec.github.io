@@ -1,5 +1,5 @@
 ---
-title: "微軟 Azure 證照: 如何只用 40 小時準備 AZ-104 Azure Administrator Associate 證照並順利通過考試"
+title: "微軟 Azure 雲端證照: 只花 40 小時順利通過 AZ-104 Azure Administrator Associate"
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-study"
 image: "images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpeg.jpg"
@@ -10,7 +10,7 @@ tags: ["職涯", "雲端證照"]
 
 * * *
 
-### 微軟 Azure 證照: 如何只用 40 小時準備 AZ-104 Azure Administrator Associate 證照並順利通過考試
+### 微軟 Azure 雲端證照: 只花 40 小時順利通過 AZ-104 Azure Administrator Associate
 
 ![a person studying](images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpeg.jpg)Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/exam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -77,13 +77,4 @@ tags: ["職涯", "雲端證照"]
 
 **EC 評價: 大力推薦!!!! 不僅免費，裡面還有考試真題跟正確答案，請你們務必使用!**
 
-* * *
-
-**延伸閱讀**
-
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
-  * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-
-
+{{< footer >}}

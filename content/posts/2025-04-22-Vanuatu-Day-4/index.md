@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.22 Vanuatu Day 4 接送烏龍�
 date: 2025-04-22
 slug: "2025-04-22-vanuatu-day-4"
 image: "images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg"
-images: ['images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg', 'images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg', 'images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg', 'images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg', 'images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg', 'images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg', 'images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg', 'images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg', 'images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg', 'images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg', 'images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg', 'images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg', 'images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg', 'images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg', 'images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg', 'images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg', 'images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
@@ -70,18 +70,4 @@ Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但�
 
 不能用吹風機的理由是一樣的，電力不足，吹風機電壓太大。但房間裡有煮水壺？可能是吹風機要用比較久？我真的很希望下一個住宿點有熱水澡可以洗😆😆😆🙏
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

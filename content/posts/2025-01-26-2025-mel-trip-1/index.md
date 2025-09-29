@@ -3,7 +3,7 @@ title: "2025 墨爾本澳網行 (上)：好久不見墨爾本！與舊友重聚�
 date: 2025-01-26
 slug: "2025-01-26-2025-mel-trip-1"
 image: "images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpeg.jpg"
-images: ['images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpeg.jpg', 'images/medium-1*x9MDnMbbKv9t-ruvsLHrPw.jpeg.jpg', 'images/medium-1*MS5DfHl9duhnSSWRTK_lxQ.jpeg.jpg', 'images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpeg.jpg', 'images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpeg.jpg', 'images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpeg.jpg', 'images/medium-1*3QGgpLYqTa8njm4QTLcVuw.jpeg.jpg', 'images/medium-1*hwomF-3ethAj2uw8sEcyIA.jpeg.jpg', 'images/medium-1*7Lxy-98mmkZnd2VkmbBwag.jpeg.jpg', 'images/medium-1*zChHykykpqoi-skPv7YXmQ.jpeg.jpg', 'images/medium-1*5Jc9_-pfwIwtevhHHEs4oQ.jpeg.jpg', 'images/medium-1*pzhkbFEU1b6opi-OJnDiRQ.jpeg.jpg', 'images/medium-1*xFLzR7JH8DLfwtkpImgiXQ.jpeg.jpg', 'images/medium-1*xfYUpPwBTT_2qPiDpEgyFw.jpeg.jpg', 'images/medium-1*fCilz9wLGtpQaqC-N7gocw.jpeg.jpg', 'images/medium-1*s4u_tmZRJJzTdgVNQaOWjQ.jpeg.jpg', 'images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpeg.jpg', 'images/medium-1*aeUKQKl8_KQYsrfFADEOzg.jpeg.jpg', 'images/medium-1*3Lkq6QkiZzZ7ktP9u4BPrA.jpeg.jpg', 'images/medium-1*TjwP2FNlcUi8OjS2WmuhWQ.jpeg.jpg', 'images/medium-1*z5SLEb-5ggAN2IotkvIVHg.jpeg.jpg', 'images/medium-1*1f6snXEPsf37byBuMZdu_w.jpeg.jpg', 'images/medium-1*_w7iIKrm9oXoernv2yVXCg.jpeg.jpg', 'images/medium-1*52lTIc0Nks_O2eGuYIe_MQ.jpeg.jpg', 'images/medium-1*f23v8giYXBTxuc7XSc5iig.jpeg.jpg', 'images/medium-1*uQSOZ-5lcbiQvwOq7wpTeA.jpeg.jpg', 'images/medium-1*Ge2krh8kd53uKQn1YeaZwQ.jpeg.jpg', 'images/medium-1*PHS3D5IjWVQEx2cxFDzhDg.jpeg.jpg', 'images/medium-1*KGrjyZvoFG0HrQ6SvMTiwg.jpeg.jpg', 'images/medium-1*9tJzIgltIcf-0RumED2Xng.jpeg.jpg', 'images/medium-1*yOPfAxHzWeByd0HAkHfG-Q.jpeg.jpg', 'images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpeg.jpg', 'images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpeg.jpg', 'images/medium-1*TZ6aqe3xbQw_hMIbkpVn_A.jpeg.jpg', 'images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpeg.jpg', 'images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpeg.jpg', 'images/medium-1*x9MDnMbbKv9t-ruvsLHrPw.jpeg.jpg', 'images/medium-1*MS5DfHl9duhnSSWRTK_lxQ.jpeg.jpg', 'images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpeg.jpg', 'images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpeg.jpg', 'images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpeg.jpg', 'images/medium-1*3QGgpLYqTa8njm4QTLcVuw.jpeg.jpg', 'images/medium-1*hwomF-3ethAj2uw8sEcyIA.jpeg.jpg', 'images/medium-1*7Lxy-98mmkZnd2VkmbBwag.jpeg.jpg', 'images/medium-1*zChHykykpqoi-skPv7YXmQ.jpeg.jpg', 'images/medium-1*5Jc9_-pfwIwtevhHHEs4oQ.jpeg.jpg', 'images/medium-1*pzhkbFEU1b6opi-OJnDiRQ.jpeg.jpg', 'images/medium-1*xFLzR7JH8DLfwtkpImgiXQ.jpeg.jpg', 'images/medium-1*xfYUpPwBTT_2qPiDpEgyFw.jpeg.jpg', 'images/medium-1*fCilz9wLGtpQaqC-N7gocw.jpeg.jpg', 'images/medium-1*s4u_tmZRJJzTdgVNQaOWjQ.jpeg.jpg', 'images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpeg.jpg', 'images/medium-1*aeUKQKl8_KQYsrfFADEOzg.jpeg.jpg', 'images/medium-1*3Lkq6QkiZzZ7ktP9u4BPrA.jpeg.jpg', 'images/medium-1*TjwP2FNlcUi8OjS2WmuhWQ.jpeg.jpg', 'images/medium-1*z5SLEb-5ggAN2IotkvIVHg.jpeg.jpg', 'images/medium-1*1f6snXEPsf37byBuMZdu_w.jpeg.jpg', 'images/medium-1*_w7iIKrm9oXoernv2yVXCg.jpeg.jpg', 'images/medium-1*52lTIc0Nks_O2eGuYIe_MQ.jpeg.jpg', 'images/medium-1*f23v8giYXBTxuc7XSc5iig.jpeg.jpg', 'images/medium-1*uQSOZ-5lcbiQvwOq7wpTeA.jpeg.jpg', 'images/medium-1*Ge2krh8kd53uKQn1YeaZwQ.jpeg.jpg', 'images/medium-1*PHS3D5IjWVQEx2cxFDzhDg.jpeg.jpg', 'images/medium-1*KGrjyZvoFG0HrQ6SvMTiwg.jpeg.jpg', 'images/medium-1*9tJzIgltIcf-0RumED2Xng.jpeg.jpg', 'images/medium-1*yOPfAxHzWeByd0HAkHfG-Q.jpeg.jpg', 'images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpeg.jpg', 'images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpeg.jpg', 'images/medium-1*TZ6aqe3xbQw_hMIbkpVn_A.jpeg.jpg', 'images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpeg.jpg', 'images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活", "墨爾本", "旅遊"]
 ---
@@ -88,18 +88,4 @@ tags: ["澳洲生活", "墨爾本", "旅遊"]
 
 ![](images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpeg.jpg)![](images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpeg.jpg)
 
-* * *
-
-
-
-**需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。**[**現在就填寫線上 1:1 諮詢預約表單，開啟你的職涯新篇章!**](https://docs.google.com/forms/d/e/1FAIpQLSeWoo4ZVLNc6IQc76nRU29ydr2T9vUJrlNgX5fFrkqiOT-K3g/viewform)
-
-**如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
-
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-  * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}
