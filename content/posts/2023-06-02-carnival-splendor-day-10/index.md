@@ -86,16 +86,18 @@ tags: ["旅遊", "新喀里多尼亞"]
 
 這是我人生第一次搭郵輪旅行，我覺得好像也很有可能是最後一次XD 我覺得郵輪適合什麼事都已經差不多安排好，不需要自己花太多時間規畫路線、餐廳、住宿、行程的人。也適合喜歡上述郵輪活動的人，我個人旅行偏好四處走走、逛逛博物館/美術館、探索當地餐廳/咖啡廳、跟當地人聊天聊解他們的文化，這些完全在郵輪型中都無法滿足，所以我真的覺得郵輪對我來說滿無聊的XD 但是跟我同型的友人 Ashley 或是郵輪上認識的朋友泰國情侶，他們就很享受，也歡迎大家跟我分享你們喜歡/不喜歡郵輪的原因喔~
 
-—
+* * *
 
-麻煩大家多多幫我推廣這篇文章給任何你們覺得會有所幫助的人，你們的鼓勵是支持我繼續寫作下去的動力! 有任何問題或是想要看的主題，歡迎留言跟我互動 :)
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-**延伸閱讀**
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
-  * [[旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4](/posts/2023-06-02-carnival-splendor-day-9/)
-  * [[旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 Sea Day 3](/posts/2023-06-02-carnival-splendor-day-8/)
-  * [[旅遊] 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](/posts/2023-05-28-carnival-splendor-day-2/)
-  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
-  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
 

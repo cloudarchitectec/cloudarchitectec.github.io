@@ -56,15 +56,17 @@ tags: ["職涯", "轉職工程師"]
 
 * * *
 
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-
-**如果想要閱讀更多 EC 的文章，**[**請參考[目錄] 澳洲雲端架構師 EC — Medium 文章列表**](./2018-01-02-ec-post-list/index.md)
-
-**為了服務廣大讀者，雲端架構師 EC 線上諮詢服務，正式上線囉！如果你想要跟 EC 進行 1:1 線上職涯諮詢，麻煩請填寫：**[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
 [![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
 
 

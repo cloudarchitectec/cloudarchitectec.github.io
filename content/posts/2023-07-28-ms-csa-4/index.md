@@ -132,13 +132,17 @@ ATS 私訊我說看來會延遲一下，我問說那還是按照計劃12點結�
 
 其實我覺得這個系列到目前為止，與其說描述架構師的日常，好像更多是對於微軟的抱怨，但我真的沒有XDDD 我只是想要忠實地呈現我的日常工作生活，順便讓大家知道，你們不要以為大公司裡面的事情運作就會非常有規劃或是非常有效率，並不會。你們在工作上會遇到的日常鳥事，就是我在日常工作上會遇到的鳥事哈哈哈
 
+* * *
 
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-**延伸閱讀**
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](/posts/2023-04-01-work-tasks/)
-  * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
-  * [[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思](/posts/2023-07-28-ms-csa-in-9-months/)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 

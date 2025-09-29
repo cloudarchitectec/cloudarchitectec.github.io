@@ -128,17 +128,20 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
   2. 如果你是微軟雲端架構師，你覺得我對於 CSA 的工作描述還算客觀嗎?
 
 
-
 希望這個系列可以幫助大家更了解這個職位～ 如果還有什麼其他想看的主題或是有任何問題，都歡迎在下方留言！
 
+* * *
 
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-**延伸閱讀**
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
-  * [[職場] 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天](/posts/2022-12-16-day-of-ms-csa/)
-  * [[職場] 微軟員工績效評估 (Microsoft Employee Performance Review)](/posts/2023-06-03-ms-performance-review/)
-  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](/posts/2023-02-04-cloud-certs/)
-  * [[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思](/posts/2023-07-28-ms-csa-in-9-months/)
-  * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
 

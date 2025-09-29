@@ -56,12 +56,18 @@ AB 的目的是確保你已經足夠瞭解AWS的文化與產品，有辦法代�
 一路上遇見的所有AWS員工，不管他們的職位有多高、平常有多忙，都非常樂意幫你排除任何困難。如果有機會的話，我真心會推薦大家去AWS工作！
 
 
+* * *
 
-**延伸閱讀**
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-  * [[FAANG] 2023 Q1 科技大廠裁員潮 — 微軟員工心得](/posts/2023-02-11-2023-q1-layoff/)
-  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](/posts/2023-02-04-cloud-certs/)
-  * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [[FAANG] 科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
+
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
 

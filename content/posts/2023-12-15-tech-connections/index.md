@@ -108,13 +108,17 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 另外這篇文章以職場/科技業為切入角度，所以著重於 tech meet ups，但其實 meetup 上面有很多運動、嗜好甚至是聯誼相關的社團，是一個認識新朋友很好的渠道，歡迎大家多多嘗試。
 
+* * *
 
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-**延伸閱讀**
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
-  * [如何準備澳洲辦公室英文面試](/posts/2023-01-21-eng-interview/)
-  * [轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思](/posts/2023-09-08-reflection-on-transition/)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 

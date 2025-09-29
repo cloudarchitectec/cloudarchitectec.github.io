@@ -59,19 +59,17 @@ tags: ["旅遊", "郵輪"]
 
 明天終於要開始小島行程了，期待!!!
 
-—
+* * *
 
-如果你喜歡閱讀海外生活、澳洲職場、轉職工程師的相關文章，歡迎追蹤我的 Medium 部落格，這樣你就不會錯過我每週六的固定更新！近期我也會不定期更新我在澳洲旅遊的遊記 ^0^
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！你們的鼓勵是支持我繼續寫作下去的動力 :)
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
-有任何問題或是想要看的主題，歡迎留言跟我互動 :)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-**延伸閱讀**
+**📱 想追蹤更多？**
 
-  * [[旅遊] 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1](/posts/2023-05-28-carnival-splendor-day-2/)
-  * [[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
-  * [[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 

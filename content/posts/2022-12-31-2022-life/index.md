@@ -65,6 +65,17 @@ tags: ["澳洲生活", "年度回顧"]
 
 不知道大家最近有沒有時間回顧一下自己的 2022 年? 是不是發現自己意外達成了許多目標? 還是對於 2022 年留有遺憾? 歡迎留言跟我分享! 不管怎麼樣，新的一年即將展開，逝者已逝，來者可追。祝福大家在新的一年心想事成!
 
-—
+* * *
 
-身為 Medium 新手作家，你們的鼓勵是支持我繼續寫作下去的動力。如果你喜歡我的文章，歡迎拍手並追蹤我的部落格。有任何問題或是想要看的主題，歡迎留言 ^0^
+� **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
+
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
+
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
+

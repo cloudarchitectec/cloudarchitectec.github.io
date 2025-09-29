@@ -182,18 +182,15 @@ tags: ["職涯", "轉職", "薪資"]
 
 * * *
 
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
 [![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-**延伸閱讀**
+**📱 想追蹤更多？**
 
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)
-  * [[](/posts/2022-12-03-bootcamp-to-aws/)[職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
-
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 

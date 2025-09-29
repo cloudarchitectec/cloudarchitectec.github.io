@@ -43,13 +43,17 @@ tags: ["旅遊", "斐濟"]
 服務人員的態度也超級無敵好，我甚至看到他們幫忙遊客夫婦帶小孩，讓遊客可以毫無牽掛地進行各種行程，我強力推薦大家一定要來！
 
 
+* * *
 
-**推薦閱讀**
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-  * [2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船](/posts/2023-05-15-carnival-splendor-day-1/)
-  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
-  * [Ivory’s Rocks 三天兩夜澳洲露營初體驗](/posts/2023-10-20-ivorys-rock/)
-  * [2022.10.10 斐濟自助旅遊 Day 1: 初來乍到之這裡真的不是屏東嗎?](/posts/2024-01-30-fiji-day-1/)
-  * [2022.10.11 斐濟自助旅遊 Day 2: Nadi 市區一日遊](/posts/2024-01-30-fiji-day-2/)
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 

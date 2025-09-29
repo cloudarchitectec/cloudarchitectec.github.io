@@ -65,16 +65,16 @@ Travis 人完全好到爆表，我們只是隨口閒聊到說我想要去「跳�
 
 * * *
 
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
+**📱 想追蹤更多？**
 
-**延伸閱讀**
-
-  * [Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)](/posts/2023-05-08-carnival-splendor-intro/)
-  * [Ivory’s Rocks 三天兩夜澳洲露營初體驗](/posts/2023-10-20-ivorys-rock/)
-  * [2022.10.10 斐濟自助旅遊 Day 1: 初來乍到之這裡真的不是屏東嗎?](/posts/2024-01-30-fiji-day-1/)
-  * [2022.10.11 斐濟自助旅遊 Day 2: Nadi 市區一日遊](/posts/2024-01-30-fiji-day-2/)
-  * [2022.10.12 斐濟自助旅遊 Day 3: Malamala Island](/posts/2024-01-30-fiji-day-3/)
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
 

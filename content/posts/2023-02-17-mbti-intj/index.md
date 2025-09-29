@@ -32,17 +32,18 @@ tags: ["澳洲生活"]
 
 5\. 「在職場上喜歡像「孤狼」般的職位」 => 叮咚叮咚(正解)! 最好是大家都不要跟我講話，讓我自己做事就好。對我來說，能力/硬實力才是重點! 這也是我當初想轉行 IT 的其中一個原因，沒想到我後來第一份 IT 工作是顧問職(AWS Cloud Architect)，雖然硬實力很重要，但如何有效溝通、贏得客戶信任又更重要。現在的工作(Microsoft Cloud Solution Architect)完全更上一層樓，會說話遠比實力更重要，畢竟是 technical sales! 難怪我在新職位過得如此艱辛 QAQ
 
-—
+* * *
 
-如果你喜歡我的文章，歡迎加入免費會員追蹤我的部落格，這樣你就不會錯過我每個週末的更新！也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！最近的粉絲數停滯不前，希望大家能多多幫我推廣！你們的鼓勵是支持我繼續寫作下去的動力 :)
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-有任何問題或是想要看的主題，歡迎留言跟我互動 ^0^
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
-**延伸閱讀**
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-  * [[FAANG] 2023 Q1 科技大廠裁員潮 — 微軟員工心得](/posts/2023-02-11-2023-q1-layoff/)
-  * [[澳洲職場] 台灣人的文化衝擊 — 我的澳洲辦公室文化觀察](/posts/2022-12-14-aus-office/)
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
-  * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
 

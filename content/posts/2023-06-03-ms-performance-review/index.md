@@ -103,17 +103,16 @@ command 在英文字典裡的解釋是「to present or mention as worthy of conf
 
 以上就是微軟員工的績效評估過程，歡迎大家也多多跟我分享你們公司是如何評估員工績效的~
 
-—
+* * *
 
-如果你喜歡閱讀海外生活、澳洲職場、轉職工程師的相關文章，歡迎追蹤並訂閱我的 Medium 部落格，這樣你就不會錯過我每週的固定更新！近期我也會不定期更新我在澳洲旅遊的遊記 ^0^
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！你們的鼓勵是支持我繼續寫作下去的動力 :)
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
-有任何問題或是想要看的主題，歡迎留言跟我互動 :)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
-**延伸閱讀**
+**📱 想追蹤更多？**
 
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[職涯] 你該轉職嗎? 來自成功海外轉職者的忠告 (台灣文組轉澳洲 IT 工程師)](/posts/2022-12-10-career-transition-analysis/)
-  * [[](/posts/2022-12-03-bootcamp-to-aws/)[職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)

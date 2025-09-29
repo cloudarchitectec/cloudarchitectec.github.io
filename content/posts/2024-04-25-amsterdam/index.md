@@ -95,3 +95,17 @@ Airbnb Host 是個教授(?)，而且有兩隻可愛的貓貓（一隻黑貓一�
 例如我check in 後的五分鐘，她朋友就來她家玩，所以她跟我小聊了十分鐘後，給了我一個room tour，然後就跑去跟她朋友聊天了。第二天她說她有一整天在阿姆斯特丹的行程，我晚上十點睡覺的時候她才回來。第三天我懷疑她根本沒回家，然後第四天早上我就把鑰匙留在桌上 check out 了，真是個適合 I 人的住宿地點！
 
 PS: 荷蘭的住宿貴到什麼地步呢？我這樣一個閣樓的房間，需要跟房東 share 浴室，一個晚上要130澳（在阿姆斯特丹住6人房hostel 要一百澳/晚)。我在德國住超大 studio apartment 也只要$110澳幣/晚，差距非常大！
+
+* * *
+
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
+
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
+
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+
+**📱 想追蹤更多？**
+
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)

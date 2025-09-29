@@ -128,28 +128,20 @@ EC 打工度假的時候還沒有三簽這件事呢！不知道後來真的有�
 
 甚至如果有興趣深入研究的朋友，澳洲移民法 Migration Act 1958 的全文是在網路上公開的，請見[連結](https://www5.austlii.edu.au/au/legis/cth/consol_act/ma1958118/index.html)。如果要跟移民局吵架的時候(別懷疑，移民官也是人，有時候他們也會讀錯法條)，這時候就要靠魔法打敗魔法，引用移民法規打敗他們XD
 
-如果你們看完之後還有任何問題，歡迎留言。其實簽證申請還有很多眉角，但如果全部寫出來真的就太長了。如果你不想要公開個人資訊，也可以跟我預約 1:1 諮詢，除了可以幫你做初步評估，也可以回答你對於澳洲職場跟生活的相關問題：[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
+如果你們看完之後還有任何問題，歡迎留言。其實簽證申請還有很多眉角，但如果全部寫出來真的就太長了。如果你不想要公開個人資訊，也可以跟我預約 1:1 諮詢，除了可以幫你做初步評估，也可以回答你對於澳洲職場跟生活的相關問題~
 
 * * *
 
+👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
 
-
-**如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
+☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
 
 [![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
+**📱 想追蹤更多？**
 
-
-
-
-* * *
-
-**推薦閱讀**
-
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [澳洲雲端架構師 EC ｜精選文章懶人包](./2018-01-02-ec-post-list/index.md)
-  * [知識有價，分享無價：雲端架構師 EC 線上諮詢服務，正式上線](./2018-01-03-ec-consultation/index.md)
-  * [機會由自己創造！我透過閱讀澳洲政府的移民規定成功移民澳洲！](/posts/2023-11-10how-i-become-pr/)
-  * [布里斯本開車可抵達的可愛小島 — Bribie Island 一日遊](/posts/2023-09-15-bribie-island/)
+  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
+  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
+  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
 
 
