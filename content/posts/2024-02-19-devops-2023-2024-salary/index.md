@@ -74,27 +74,4 @@ tags: ["職涯", "薪資"]
 
 看完我整理的澳洲 DevOps Engineers 薪資範圍，你們有什麼想法呢？這個資薪比你們想像中的要高，還是低呢？歡迎留言跟我分享你們的想法喔！
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
-
-[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
-
-**延伸閱讀**
-
-  * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](/posts/2023-09-01-cloud-roles/)
-  * [科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [能源公司 DevOps Platform Engineer 面試心得 I (第一關: 技術面試)](/posts/2023-06-17-devops-interview-1/)
-  * [澳洲最大的旅行社公司 DevOps Security Engineer 面試心得分享](/posts/2023-06-09-flight-centre-interview/)
-
-
+{{< footer >}}

@@ -80,20 +80,4 @@ Bell Tower 滿好爬的，約五分鐘，但不爬也可以。因為其實城堡
 
 德國很多博物館都是全德文，只有語音導覽有英文，但這是我覺得展館設計跟語音導覽設計得最好的地方，請你們一定要來，可以以有趣的方式了解中世紀城市的發展史，還有紐倫堡為什麼在中世紀具有重大歷史意義。例如神聖羅馬帝國其實是沒有固定首都的，他們的皇帝會不斷在各個城市巡迴演出，紐倫堡就是其中一個重要的帝國據點。
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
-
-[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
-
-
+{{< footer >}}

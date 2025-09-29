@@ -42,20 +42,4 @@ tags: ["職涯", "轉職工程師"]
 
 今天里奇小哥問我旁邊的馬克小哥每天是不是都花超多時間在課後寫程式，馬克小哥說他大概每天都至少花兩個小時吧! 果然可怕的不是別人比你更聰明，而是聰明的人比你更努力LOL 不過我每天晚上也是花1.5–2個小時在複習，周末兩天也花了八小時在複習(等於整整復習了一整天?)，真心是不知道還能怎麼做😭
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
-
-[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
-
-
+{{< footer >}}

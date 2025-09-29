@@ -68,18 +68,4 @@ tags: ["旅遊", "萬那杜"]
 
 我真的覺得這個租車公司不錯，市區內他們可以免費到你的住宿點 pick up 車子。希望萬那杜的基礎建設可以慢慢改善，東南海岸線開起來真的很舒服～ 西南海岸線跟北區則是悲劇一場。然後市區平日很容易大塞車，我覺得在這裡體驗到塞車也是很有趣😆
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
-
-[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

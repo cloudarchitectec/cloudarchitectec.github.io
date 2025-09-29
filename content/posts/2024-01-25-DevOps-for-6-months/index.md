@@ -114,18 +114,4 @@ DevOps 工程師完完全全就是一個 engineering role！我再也不用每�
 
 事實證明，我不敢斷言說我自己有比其他人更了解我自己，但我覺得我的優點就是勇於嘗試跟勇於放棄！每件事都要試了才知道，就算嘗試過之後覺得不如預期或是不喜歡也沒關係，就再繼續嘗試下一個選項就好了。你遠比你想像中更有選擇，所以千萬不要覺得自己自己被困住了！能困住自己的只有你自己，與大家共勉之！
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
-
-[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

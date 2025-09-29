@@ -166,18 +166,4 @@ Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然�
 
 但說真的我常常覺得，客戶其實可以自己學一學就好。畢竟他們都是各個領域的專家，也是每天在實務上運用這些技術的人，這些技術概念我都不懂，也沒有實務經驗。我只能自己上網學習，就像我上面舉的例子，我自學了DSC 這個技術概念是什麼，我還學了兩個新的 Azure services 跟做了 demo，其實還滿有趣的。不過我終究覺得，SA這樣的技術職位 (technical role)，其實不是我想走的職涯方向 (Is SA a technical role? Probably. But it’s not in the ‘technical’ way how I want to progress my technical career)
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
-
-[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

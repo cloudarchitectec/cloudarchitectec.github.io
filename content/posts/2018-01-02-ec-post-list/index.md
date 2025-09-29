@@ -10,19 +10,10 @@ tags: ["澳洲生活"]
 
 ![](images/medium-0*JM2v8QZs4ggC3_NW.jpg)Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-歡迎來到我的 Medium 文章總目錄！
 
-我是 EC，一位從台灣文組背景轉職成為澳洲雲端架構師的工程師。這裡整理了我所有關於海外職場、澳洲生活、工程師轉職、履歷與面試技巧等主題的文章，方便你快速找到需要的內容。
+嗨～我是 EC，一位從台灣文組背景轉職成為澳洲雲端架構師的工程師。
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
+這裡整理了我所有關於海外職場、澳洲生活、工程師轉職、履歷與面試技巧等主題的文章，方便你快速找到需要的內容。
 
 
 * * *
@@ -53,7 +44,7 @@ tags: ["澳洲生活"]
   * [轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)](/posts/2022-12-10-career-transition-analysis/)
   * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師!](/posts/2022-12-03-bootcamp-to-aws/)
   * [從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽到另一朵雲？](/posts/2022-12-03-aws-to-ms/)
-  * [如何在澳洲增加工作上的人脈? 如何經營自己的職場品牌? 如何提高自己找到工作的機率? 你不可不知的 Tech Meet-ups!](/posts/2023-12-15tech-connections/)
+  * [如何在澳洲增加工作上的人脈? 如何經營自己的職場品牌? 如何提高自己找到工作的機率? 你不可不知的 Tech Meet-ups!](/posts/2023-12-15-tech-connections/)
   * [轉職 DevOps 工程師的第六個月：從焦慮到找到穩定節奏](/posts/2024-01-25-DevOps-for-6-months/)
   * [零基礎轉職澳洲工程師: 2019.08.19 Coding Bootcamp Orientation](/posts/2019-08-19-coding-bootcamp-orientation/)
   * [零基礎轉職澳洲工程師: 2019.08.20 The Real Game Begins](/posts/2019-08-20-The-Real-Game-Begins/)
@@ -180,3 +171,5 @@ tags: ["澳洲生活"]
   * [太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包](/posts/2025-04-20-vanuatu-day-8/)
   * [太平洋小島上的大冒險：2025.04.27 Vanuatu Day 9 挑戰完成！一個女生成功闖蕩萬那杜！](/posts/2025-04-20-vanuatu-day-9/)
   * [辭職去流浪，真的是解答嗎？](/posts/2024-09-13quit-and-travel/)
+
+{{< footer >}}

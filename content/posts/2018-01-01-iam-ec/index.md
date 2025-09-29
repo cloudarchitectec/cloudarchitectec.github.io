@@ -123,18 +123,4 @@ Coding bootcamp 畢業時剛好遇到 Covid，找工作非常困難，我在三�
 
 從 2011 年來澳洲打工度假到現在，我已經在澳洲生活了 11 年! 想想時間真的過得很快，一路從打工度假、留學到移民，一切完全就靠自己一個人完成。 過程中我遇到了很多貴人跟好朋友，也體驗過各式各樣的新鮮事，一路走來我真的學習到很多澳洲文化，也同時反思自己的台灣人思維。就職涯來說，從專案經理/筆譯、移民仲介、澳洲辦公室白領到後來決定轉職工程師，最後居然還幸運了加入 Amazon & Microsoft 這種世界一流的公司，完全都是當年的我沒有想過的! 這麼一想我突然覺得自己好厲害哈哈哈哈
 
-* * *
-
-👉 **需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊** [**<<澳洲雲端架師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps /雲端職涯>>**](/posts/2018-01-03-ec-consultation/)**，開啟你的職涯新篇章!**
-
-☕️ **如果想要進一步支持 EC，歡迎請我喝杯咖啡！**
-
-[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
-
-**📱 想追蹤更多？**
-
-  * 📘 [Facebook 粉專：澳洲雲端架構師 EC](https://www.facebook.com/cloudarchitectec)
-  * 🧵 [Threads：Cloud Architect EC](https://www.threads.com/@cloud_architect_ec)
-  * 📩 合作信箱：[cloudarchitectec@gmail.com](mailto:cloudarchitectec@gmail.com)
-
-
+{{< footer >}}

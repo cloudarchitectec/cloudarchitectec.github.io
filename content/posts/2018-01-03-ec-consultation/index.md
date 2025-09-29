@@ -97,10 +97,10 @@ tags: ["職涯", "海外職場", "面試", "履歷"]
 
 👉 點這裡預約諮詢：[**雲端架構師 EC 諮詢服務預約表單**](https://forms.gle/Zuro8YryCN5hH9Gk9)
 
-也歡迎透過以下管道追蹤我：
+📱 想追蹤更多？
 
-  * **Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
-  * **Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
-  * **合作請聯繫:**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
+  * **📘 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
+  * **🧵 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
+  * **📩 合作信箱：**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
 
 
