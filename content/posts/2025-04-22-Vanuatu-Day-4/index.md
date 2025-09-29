@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.22 Vanuatu Day 4 接送烏龍�
 date: 2025-04-22
 slug: "2025-04-22-vanuatu-day-4"
 image: "images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg"
-images: ['images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg', 'images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg', 'images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg', 'images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg', 'images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg', 'images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg', 'images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg', 'images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg', 'images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg', 'images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg', 'images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg', 'images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg', 'images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg', 'images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg', 'images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg', 'images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg', 'images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---

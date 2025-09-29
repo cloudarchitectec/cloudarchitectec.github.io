@@ -3,7 +3,7 @@ title: "微軟 Azure 雲端證照: 八小時速成攻略通過微軟 AZ-500 Azur
 date: 2023-07-02
 slug: "2023-07-02-az-500"
 image: "images/medium-0*f5zIapBhXCv_SWJ8.jpg"
-images: ['images/medium-0*f5zIapBhXCv_SWJ8.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*f5zIapBhXCv_SWJ8.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---

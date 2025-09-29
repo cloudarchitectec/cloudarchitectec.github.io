@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.19 Coding Bootcamp Orientation"
 date: 2019-08-19
 slug: "2019-08-19-coding-bootcamp-orientation"
 image: "images/medium-0*ywUyojRimOqTsYDU.jpg"
-images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---

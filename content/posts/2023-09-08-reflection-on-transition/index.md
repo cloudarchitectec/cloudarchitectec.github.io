@@ -3,7 +3,7 @@ title: "轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我�
 date: 2023-09-08
 slug: "2023-09-08-reflection-on-transition"
 image: "images/medium-0*RZlpg-Oae0Ai-ckp.jpg"
-images: ['images/medium-0*RZlpg-Oae0Ai-ckp.jpg', 'images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png.jpg', 'images/medium-1*O7vFsi0MX11kiDTCGNydUg.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*RZlpg-Oae0Ai-ckp.jpg', 'images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png.jpg', 'images/medium-1*O7vFsi0MX11kiDTCGNydUg.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職"]
 ---

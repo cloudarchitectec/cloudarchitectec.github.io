@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.29 How to Position Yourself"
 date: 2019-08-29
 slug: "2019-08-29-how-to-position-yourself"
 image: "images/medium-0*iZtyKyiPS0vLmaDT.jpg"
-images: ['images/medium-0*iZtyKyiPS0vLmaDT.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*iZtyKyiPS0vLmaDT.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---

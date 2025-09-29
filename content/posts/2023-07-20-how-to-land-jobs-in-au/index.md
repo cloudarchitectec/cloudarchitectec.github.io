@@ -3,7 +3,7 @@ title: "澳洲求職必勝法則：外國人身份也能成功找到澳洲科技
 date: 2023-07-20
 slug: "2023-07-20-how-to-land-jobs-in-au"
 image: "images/medium-0*UBDJ0UzDuIfVDgwG.jpg"
-images: ['images/medium-0*UBDJ0UzDuIfVDgwG.jpg', 'images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png', 'images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png', 'images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png', 'images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png', 'images/medium-1*6KGdpzZwegqjjnCelIeHlg.png', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png']
+images: ['images/medium-0*UBDJ0UzDuIfVDgwG.jpg', 'images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png', 'images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png', 'images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png', 'images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png', 'images/medium-1*6KGdpzZwegqjjnCelIeHlg.png', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["澳洲求職必勝法則", "求職"]
 ---
@@ -40,9 +40,9 @@ tags: ["澳洲求職必勝法則", "求職"]
 
 - **加強英文面試的能力：**歡迎參考以下幾篇文章XD
 
-1. [澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99%E8%81%B7%E5%A0%B4%E8%8B%B1%E6%96%87%E9%9D%A2%E8%A9%A6-89d7397274fb)
-2. [澳洲求職必勝法則：Phone Screening 電話初篩策略應答分析與實戰分享](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E6%BE%B3%E6%B4%B2%E6%B1%82%E8%81%B7%E9%81%8E%E7%A8%8B-%E9%9B%BB%E8%A9%B1%E7%AF%A9%E9%81%B8-phone-screening-%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB-c27df2896c98)
-3. [澳洲求職必勝法則：英文面試結尾別說沒問題！這樣反問面試官才加分](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E7%9F%A5%E5%B7%B1%E7%9F%A5%E5%BD%BC-%E7%99%BE%E6%88%B0%E7%99%BE%E5%8B%9D-%E8%8B%B1%E6%96%87%E9%9D%A2%E8%A9%A6%E4%B8%AD%E4%BD%A0%E8%A9%B2%E5%95%8F%E9%9B%87%E4%B8%BB%E5%93%AA%E4%BA%9B%E5%95%8F%E9%A1%8C-31d0b0a00dd1)
+1. [澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略](/posts/2023-01-21-eng-interview/)
+2. [澳洲求職必勝法則：Phone Screening 電話初篩策略應答分析與實戰分享](/posts/2023-05-11-phone-screening/)
+3. [澳洲求職必勝法則：英文面試結尾別說沒問題！這樣反問面試官才加分](/posts/2023-04-15-interview-ending-questions/)
 
 - **準備好英文履歷：**這個東西本身可以寫成一篇文章，想看的人再留言告訴我XD 但簡單來說，澳洲履歷上不用放照片，也不用提出生日期，也不需要準備自傳。
 

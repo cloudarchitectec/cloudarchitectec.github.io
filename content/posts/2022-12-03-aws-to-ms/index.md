@@ -3,7 +3,7 @@ title: "從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽
 date: 2022-12-03
 slug: "2022-12-03-aws-to-ms"
 image: "images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg"
-images: ['images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg', 'images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpeg.jpg', 'images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg', 'images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpeg.jpg', 'images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "AWS"]
 ---

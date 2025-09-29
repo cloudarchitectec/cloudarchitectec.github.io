@@ -3,7 +3,7 @@ title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.09.02–09.03 Wha
 date: 2024-09-01
 slug: "2024-09-01-nz-day3"
 image: "images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg"
-images: ['images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg', 'images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg', 'images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg', 'images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpeg.jpg', 'images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg', 'images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg', 'images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg', 'images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpeg.jpg', 'images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpeg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg', 'images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg', 'images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg', 'images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpeg.jpg', 'images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg', 'images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg', 'images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg', 'images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpeg.jpg', 'images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "紐西蘭"]
 ---

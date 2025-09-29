@@ -1,9 +1,9 @@
 ---
 title: "辭職去流浪，真的是解答嗎？"
 date: 2024-09-13
-slug: "2024-09-13quit-and-travel"
+slug: "2024-09-13-quit-and-travel"
 image: "images/medium-0*MY-EdliKyYS6OBxE.jpg"
-images: ['images/medium-0*MY-EdliKyYS6OBxE.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*MY-EdliKyYS6OBxE.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活", "職涯"]
 ---
@@ -34,9 +34,6 @@ tags: ["澳洲生活", "職涯"]
 
 但在出發前，不知道為什麼我念頭一轉 (說真的我現在也忘了契機是什麼XD)，覺得我應該先搞定自己未來的職涯方向。於是我裸辭了在會計師職業協會的工作，跑去讀了為期六個月的full time coding bootcamp (也就是我最近正在連載的[**零基礎轉職澳洲工程師**](/posts/2019-08-19-coding-bootcamp-orientation/)系列)，然後成功地轉職澳洲科技業！
 
-[**零基礎轉職澳洲工程師: 2019.08.19 Coding Bootcamp Orientation**  
- _今天要開始一個新系列「零基礎轉職澳洲工程師」，來分享我在2019年六個月coding bootcamp的經歷，這段經歷是我轉職澳洲科技業並成功入職Amazon與微軟的基石。bootcamp…_ medium.com](/posts/2019-08-19-coding-bootcamp-orientation/)[](/posts/2019-08-19-coding-bootcamp-orientation/)
-
 ### 人生轉了一個彎，我成為了科技業工程師
 
 超級幸運的是，我的第一份工作就是在 Amazon！
@@ -47,15 +44,17 @@ tags: ["澳洲生活", "職涯"]
 
 這是我挑戰的是 DevOps Engineering，其實我根本沒有 DevOps 背景 (我的背景是 web development + cloud computing)，也不能真的算是一個 software engineer (之前認真寫 code 都是在 coding bootcamp 的學習時期，在 Amazon 我也只寫了 CloudFormation，在微軟八個月一行 code 都沒有寫)，沒想到還是幸運拿到了 DevOps Engineer 的工作，我之前也分享過我成為 DevOps 工程師半年的心得：
 
-[**DevOps 工程師轉職六個月心得**  
- _分享我轉職成為 DevOps工程師的心得。儘管薪水減少25%，但我毫不後悔離開微軟，因為我更喜歡現在的工作。強調選對直屬主管的重要性，並分享在實際執行工作上的滿足感。再加上團隊氛圍良好，成員相互支持，對我來說這才是選工作時更重要的元素。_ medium.com](https://medium.com/@cloudarchitectec/six-month-in-as-a-devops-engineer-5377a7d440b8)[](https://medium.com/@cloudarchitectec/six-month-in-as-a-devops-engineer-5377a7d440b8)
+[**轉職 DevOps 工程師的第六個月：從焦慮到找到穩定節奏**](/posts/2024-01-25-devops-for-6-months/):
+
+分享我轉職成為 DevOps工程師的心得。儘管薪水減少25%，但我毫不後悔離開微軟，因為我更喜歡現在的工作。強調選對直屬主管的重要性，並分享在實際執行工作上的滿足感。再加上團隊氛圍良好，成員相互支持，對我來說這才是選工作時更重要的元素。
 
 現在的我也已經在這個職位滿一年了！說實話，這個職位的工作內容是我最喜歡的，而且整個團隊的氣氛也非常好。
 
-今年五月我去了一趟歐洲三個禮拜(對我的旅程有興趣的人，可以參考我的[一個女生的歐洲獨旅](/posts/2024-08-10-2025-europe-summary/)系列)、八月底我去了一趟紐西蘭北島學習滑單板 (snowboarding)，上週六才剛回來 (如果有興趣看我的紐西蘭遊記，歡迎留言XD)。
+今年五月我去了一趟歐洲三個禮拜(對我的旅程有興趣的人，可以參考我的[一個女生的歐洲獨旅](/posts/2024-08-10-2025-europe-summary/)系列)、八月底我去了一趟紐西蘭北島學習滑單板 (snowboarding)，上週六才剛回來。
 
-[**一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃**  
- _此篇文章是「一個女生的歐洲獨旅」系列的第一篇文章，講述了 EC 為什麼選擇去歐洲，安排了哪些行程，如何挑選交通方式與住宿地點，還有春天去歐洲旅遊的打包訣竅。如果你對 EC 的歐洲行有興趣，那請千萬不要錯過這個系列！_ medium.com](/posts/2024-08-10-2025-europe-summary/)[](/posts/2024-08-10-2025-europe-summary/)
+[**一個女生的歐洲獨旅: 荷德瑞奧 17 天自助 行前規劃**](/posts/2024-08-10-2025-europe-summary/)  
+ 
+此篇文章是「一個女生的歐洲獨旅」系列的第一篇文章，講述了 EC 為什麼選擇去歐洲，安排了哪些行程，如何挑選交通方式與住宿地點，還有春天去歐洲旅遊的打包訣竅。如果你對 EC 的歐洲行有興趣，那請千萬不要錯過這個系列！
 
 ### 人生總是有那麼一個 but
 
@@ -75,10 +74,7 @@ tags: ["澳洲生活", "職涯"]
   * 辭職去流浪這件事說真的對我來說也不是太難，畢竟我的生活沒有太多牽掛，獨自一人就是做出決定只要能對自己負責就好。可是流浪之後呢？我是否又要回來重新找一個工作？如果是的話，那我現在一年也可以出國兩次，那辭職與否又重要嗎？
   * 我想要的到底是什麼呢？我想要的是環遊世界，想要去流浪，還是只是想要換一個新的國家生活？可是我現在已經在另一個國家生活啦XD
 
+或許我想要的可能是找回對生活中發生的各種小事都覺得興趣盎然的自己？ 如果你們也曾經思考過這個問題，或是跟我有一樣的困擾，歡迎留言與我分享你們的想法!
 
-
-**或許我想要的可能是找回對生活中發生的各種小事都覺得興趣盎然的自己？**
-
-如果你們也曾經思考過這個問題，或是跟我有一樣的困擾，歡迎留言與我分享你們的想法！
 
 {{< footer >}}

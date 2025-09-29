@@ -3,7 +3,7 @@ title: "倖存者日記：2023 澳洲微軟裁員後續，裁員風暴仍在持�
 date: 2023-04-06
 slug: "2023-04-06-2023-layoff"
 image: "images/medium-0*w_X54NDVy89HyHn-.jpg"
-images: ['images/medium-0*w_X54NDVy89HyHn-.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*w_X54NDVy89HyHn-.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "裁員"]
 ---

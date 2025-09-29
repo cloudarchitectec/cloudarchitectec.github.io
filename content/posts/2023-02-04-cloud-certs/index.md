@@ -3,7 +3,7 @@ title: "雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure
 date: 2023-02-04
 slug: "2023-02-04-cloud-certs"
 image: "images/medium-0*Psml5_ESx4uZ9sFr.jpg"
-images: ['images/medium-0*Psml5_ESx4uZ9sFr.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*Psml5_ESx4uZ9sFr.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---

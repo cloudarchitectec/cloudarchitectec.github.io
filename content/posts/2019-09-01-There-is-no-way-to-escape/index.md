@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.09.01 There is no way to escape!"
 date: 2019-09-01
 slug: "2019-09-01-there-is-no-way-to-escape"
 image: "images/medium-0*Ajqd_LT2PTta4eAV.jpg"
-images: ['images/medium-0*Ajqd_LT2PTta4eAV.jpg', 'images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*Ajqd_LT2PTta4eAV.jpg', 'images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "旅遊"]
 categories: ["職涯"]

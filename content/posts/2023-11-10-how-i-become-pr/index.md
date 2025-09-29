@@ -3,7 +3,7 @@ title: "從非移民專業到澳洲PR：我如何靠研究政府法規，創造�
 date: 2023-11-10
 slug: "2023-11-10-how-i-become-pr"
 image: "images/medium-0*1xfcDaGhCc5nGsk1.jpg"
-images: ['images/medium-0*1xfcDaGhCc5nGsk1.jpg', 'images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpeg.jpg', 'images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png.jpg', 'images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*1xfcDaGhCc5nGsk1.jpg', 'images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpeg.jpg', 'images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png.jpg', 'images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活", "澳洲簽證"]
 ---

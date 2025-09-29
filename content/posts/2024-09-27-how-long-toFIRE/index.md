@@ -3,7 +3,7 @@ title: "好想要退休！我與退休之間的距離：澳洲工程師是否比
 date: 2024-09-27
 slug: "2024-09-27-how-long-tofire"
 image: "images/medium-0*6FlTC363YDM-gs_Z.jpg"
-images: ['images/medium-0*6FlTC363YDM-gs_Z.jpg', 'images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png.jpg', 'images/medium-1*tILRbx_NtxQzJL_kx31oQg.png.jpg', 'images/medium-1*0zV01KykJx7kRSEZfgZgsA.png.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*6FlTC363YDM-gs_Z.jpg', 'images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png.jpg', 'images/medium-1*tILRbx_NtxQzJL_kx31oQg.png.jpg', 'images/medium-1*0zV01KykJx7kRSEZfgZgsA.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["投資理財"]
 tags: ["投資理財", "退休規劃"]
 ---

@@ -3,7 +3,7 @@ title: "澳洲 DevOps 工程師薪資大揭秘：2023–2024 最新數據"
 date: 2024-02-19
 slug: "2024-02-19-devops-2023-2024-salary"
 image: "images/medium-0*wVIVFXLLPPZ4yFC4.jpg"
-images: ['images/medium-0*wVIVFXLLPPZ4yFC4.jpg', 'images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg']
+images: ['images/medium-0*wVIVFXLLPPZ4yFC4.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "薪資"]
 ---
