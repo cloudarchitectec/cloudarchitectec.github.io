@@ -25,6 +25,9 @@ disablePathToLower = true
   keywords = ["Cloud Architecture", "AWS", "Azure", "Tech Blog", "雲端架構"]
   author = "Cloud Architect EC"
   
+  # Google Analytics Configuration
+  googleAnalytics = "G-F5Z4F1PYEE"  
+  
   defaultTheme = "auto" # dark, light
   disableThemeToggle = false
 
@@ -58,15 +61,16 @@ disablePathToLower = true
     ignoreLocation = true
 
   [params.assets]
-    favicon = "favicon.ico"
-    favicon16x16 = "favicon-16x16.png"
-    favicon32x32 = "favicon-32x32.png"
-    apple_touch_icon = "apple-touch-icon.png" 
-    safari_pinned_tab = "safari-pinned-tab.svg"
+    # Using existing logo as favicon
+    favicon = "ec-logo.png"
+    # favicon16x16 = "favicon-16x16.png"  # Uncomment when you have PNG files
+    # favicon32x32 = "favicon-32x32.png"  # Uncomment when you have PNG files  
+    apple_touch_icon = "ec-logo.png"
+    # safari_pinned_tab = "safari-pinned-tab.svg"  # Uncomment when you have SVG files
 
   [params.label]
     text = "Cloud Architect EC"
-    icon = "favicon.ico"
+    icon = "ec-logo.png"
     iconHeight = 35
 
   # profile-mode

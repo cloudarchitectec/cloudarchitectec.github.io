@@ -48,6 +48,11 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Added search functionality
 - Started reference link cleanup
 
+2025.09.29
+- Fixed all the internal reference links & categories 
+- Added 3 missing posts
+- Centralised footer and updated footers for all the posts
+- Configued Google analytics & logo
 
 
 ## Contributing
