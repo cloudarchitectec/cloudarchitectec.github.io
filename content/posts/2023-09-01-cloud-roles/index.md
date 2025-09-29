@@ -5,7 +5,7 @@ slug: "2023-09-01-cloud-roles"
 image: "images/medium-0*-brIU6Z7a6AQFe6B.jpg"
 images: ['images/medium-0*-brIU6Z7a6AQFe6B.jpg', 'images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png.jpg', 'images/medium-1*uvMwEGVDyxV5k7f3r11mrg.png.jpg', 'images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png.jpg', 'images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png.jpg', 'images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png.jpg']
 categories: ["職涯"]
-tags: ["職涯", "雲端"]
+tags: ["職涯", "雲端架構師"]
 ---
 
 * * *
@@ -24,7 +24,7 @@ tags: ["職涯", "雲端"]
 
 第一集的傳送門在此：
 
-[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
+[**微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
  _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
 
 ### 軟體工程師 (Software Engineer)

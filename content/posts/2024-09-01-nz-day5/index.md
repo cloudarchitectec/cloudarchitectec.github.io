@@ -1,5 +1,5 @@
 ---
-title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程"
+title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程"
 date: 2024-09-01
 slug: "2024-09-01-nz-day5"
 image: "images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg"
@@ -10,7 +10,7 @@ tags: ["旅遊", "紐西蘭"]
 
 * * *
 
-### 兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程
+### 兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程
 
 ![](images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg)
 

@@ -5,7 +5,7 @@ slug: "2023-01-06-keys-to-transistion"
 image: "images/medium-0*6cafic7Bz6rcovjW.jpg"
 images: ['images/medium-0*6cafic7Bz6rcovjW.jpg']
 categories: ["職涯"]
-tags: ["職涯", "轉職"]
+tags: ["職涯", "轉職工程師"]
 ---
 
 * * *

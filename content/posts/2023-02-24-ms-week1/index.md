@@ -1,5 +1,5 @@
 ---
-title: "[職場] 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享"
+title: "澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享"
 date: 2023-02-24
 slug: "2023-02-24-ms-week1"
 image: "images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg"
@@ -10,7 +10,7 @@ tags: ["職涯", "微軟"]
 
 * * *
 
-### [職場] 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享
+### 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享
 
 ![微軟坎培拉辦公室-門口](images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg)微軟坎培拉辦公室-門口
 

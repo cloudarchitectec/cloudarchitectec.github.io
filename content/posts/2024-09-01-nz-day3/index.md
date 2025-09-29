@@ -1,5 +1,5 @@
 ---
-title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 2024.09.02–09.03 Whakapapa 雪場自駕+裝備+課程體驗總整理"
+title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.02–09.03 Whakapapa 雪場自駕+裝備+課程體驗總整理"
 date: 2024-09-01
 slug: "2024-09-01-nz-day3"
 image: "images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg"
