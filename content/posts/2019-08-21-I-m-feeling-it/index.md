@@ -83,7 +83,7 @@ Coder Academy 為了推廣 women in tech，每個學期都會提供一名女性(
 
 **如果想要進一步支持我，歡迎透過以下連結請我喝一杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
 
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
 
 

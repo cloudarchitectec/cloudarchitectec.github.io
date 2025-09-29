@@ -116,25 +116,29 @@ enableEmoji = true
       Content = "旅澳多年的台灣女生，從打工度假到移民澳洲，從文組到轉職成工程師 (成功入職 Amazon & 微軟)。旅行過 22個國家，致力於生活中的各式體驗。希望跟大家分享我對澳洲生活、職場、文化、旅行的觀察筆記。點此預約[<<澳洲雲端架構師 EC 職涯諮詢服務>>](https://forms.gle/Zuro8YryCN5hH9Gk9)"
 
     [[languages.zh-hant.menu.main]]
-      name = "文章列表"
+      name = "精選文章"
       url = "/posts/2018-01-02-ec-post-list"
-      weight = 10
+      weight = 20
     [[languages.zh-hant.menu.main]]
       name = "職涯諮詢"
       url = "/posts/2018-01-03-ec-consultation"
-      weight = 20
+      weight = 30
     [[languages.zh-hant.menu.main]]
       name = "我是EC"
       url = "/posts/2018-01-01-iam-ec"
-      weight = 30
+      weight = 10
     [[languages.zh-hant.menu.main]]
-      name = "文章標籤"
+      name = "標籤"
       url = "/tags"
       weight = 40
     [[languages.zh-hant.menu.main]]
+      name = "分類"
+      url = "/categories"
+      weight = 50
+    [[languages.zh-hant.menu.main]]
       name = "搜尋"
       url = "/search"
-      weight = 50
+      weight = 60
 
 [markup]
   [markup.highlight]

@@ -98,7 +98,7 @@ tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 
 **如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
 
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
   * 歡迎追蹤[臉書粉專](https://www.facebook.com/cloudarchitectec/) / [脆](https://www.threads.net/@cloud_architect_ec)
   * 合作請聯繫：[cloudarchitectec@gmail.com](http://cloudarchitectec@gmail.com)

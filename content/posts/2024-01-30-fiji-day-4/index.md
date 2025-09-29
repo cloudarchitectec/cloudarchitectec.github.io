@@ -13,7 +13,7 @@ tags: ["旅遊", "斐濟"]
 
 ![](images/medium-0*cpXgPyWwKhUznpXc.jpg)Photo by [Matthew Brodeur](https://unsplash.com/@mrbrodeur?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
 * * *
 

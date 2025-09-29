@@ -90,7 +90,7 @@ tags: ["旅遊", "紐西蘭"]
 
 **如果想要進一步支持 EC，歡迎透過以下連結請我喝杯咖啡！你們的支持是我持續創作的動力，如有任何問題或是想要看的主題，歡迎留言與我互動 :)**
 
-[![](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png.jpg)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
+[![Buy me a coffee](images/medium-1*LwgKf95CVE5ucZGK9w1R_Q.png)](https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ)
 
   * **歡迎追蹤 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
   * **歡迎追蹤 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
