@@ -32,10 +32,10 @@ tags: ["澳洲生活", "職涯"]
 
 當時的我認真規劃了環遊世界旅程，從中亞出發、經過歐洲，繞到非洲、最後到南美洲，我甚至買了第一段從香港飛往哈薩克的機票、自費打了黃熱病疫苗 (後來哈薩克航空的退票過程簡直一波三折 lol)。
 
-但在出發前，不知道為什麼我念頭一轉 (說真的我現在也忘了契機是什麼XD)，覺得我應該先搞定自己未來的職涯方向。於是我裸辭了在會計師職業協會的工作，跑去讀了為期六個月的full time coding bootcamp (也就是我最近正在連載的[**零基礎轉職澳洲工程師**](https://medium.com/@cloudarchitectec/coding-bootcamp-orientation-225db359f47a)系列)，然後成功地轉職澳洲科技業！
+但在出發前，不知道為什麼我念頭一轉 (說真的我現在也忘了契機是什麼XD)，覺得我應該先搞定自己未來的職涯方向。於是我裸辭了在會計師職業協會的工作，跑去讀了為期六個月的full time coding bootcamp (也就是我最近正在連載的[**零基礎轉職澳洲工程師**](/posts/2019-08-19-coding-bootcamp-orientation/)系列)，然後成功地轉職澳洲科技業！
 
 [**零基礎轉職澳洲工程師: 2019.08.19 Coding Bootcamp Orientation**  
- _今天要開始一個新系列「零基礎轉職澳洲工程師」，來分享我在2019年六個月coding bootcamp的經歷，這段經歷是我轉職澳洲科技業並成功入職Amazon與微軟的基石。bootcamp…_ medium.com](https://medium.com/@cloudarchitectec/coding-bootcamp-orientation-225db359f47a)[](https://medium.com/@cloudarchitectec/coding-bootcamp-orientation-225db359f47a)
+ _今天要開始一個新系列「零基礎轉職澳洲工程師」，來分享我在2019年六個月coding bootcamp的經歷，這段經歷是我轉職澳洲科技業並成功入職Amazon與微軟的基石。bootcamp…_ medium.com](/posts/2019-08-19-coding-bootcamp-orientation/)[](/posts/2019-08-19-coding-bootcamp-orientation/)
 
 ### 人生轉了一個彎，我成為了科技業工程師
 

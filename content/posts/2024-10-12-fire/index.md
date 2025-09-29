@@ -21,7 +21,7 @@ tags: ["投資理財", "退休規劃"]
 * * *
 
 [**好想要退休！我與退休之間的距離：澳洲工程師是否比台灣更容易達成財務自由 (FIRE)？**  
- _本文分享了澳洲工程師在投資與退休計畫中的心路歷程，包括轉職後的投資策略、房產投資的挑戰。探討 FIRE (Financial Independence, Retire Early)…_ medium.com](https://medium.com/@cloudarchitectec/financial-independence-retirement-early-in-australia-b1a779e69adf)[](https://medium.com/@cloudarchitectec/financial-independence-retirement-early-in-australia-b1a779e69adf)
+ _本文分享了澳洲工程師在投資與退休計畫中的心路歷程，包括轉職後的投資策略、房產投資的挑戰。探討 FIRE (Financial Independence, Retire Early)…_ medium.com](/posts/2024-09-27-how-long-tofire/)[](/posts/2024-09-27-how-long-tofire/)
 
 * * *
 

@@ -91,10 +91,9 @@ tags: ["職涯", "薪資"]
 
 **延伸閱讀**
 
-  * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](https://medium.com/@cloudarchitectec/software-engineer-cloud-engineer-devops-engineer-what-do-they-do-56f3aedfe4ac)
+  * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](/posts/2023-09-01-cloud-roles/)
   * [科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [我在澳洲職場觀察到的薪資怪象 — 華人公司 vs 澳洲本地公司](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E6%88%91%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%89%80%E8%A6%8B%E7%9A%84%E8%96%AA%E8%B3%87%E6%80%AA%E8%B1%A1-53f8d0f713f4)
-  * [能源公司 DevOps Platform Engineer 面試心得 I (第一關: 技術面試)](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-%E8%83%BD%E6%BA%90%E5%85%AC%E5%8F%B8-devops-platform-engineer-%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-%E7%AC%AC%E4%B8%80%E9%97%9C-%E6%8A%80%E8%A1%93%E9%9D%A2%E8%A9%A6-c1f87fd52441)
+  * [能源公司 DevOps Platform Engineer 面試心得 I (第一關: 技術面試)](/posts/2023-06-17-devops-interview-1/)
   * [澳洲最大的旅行社公司 DevOps Security Engineer 面試心得分享](/posts/2023-06-09-flight-centre-interview/)
 
 

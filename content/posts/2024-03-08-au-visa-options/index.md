@@ -149,7 +149,7 @@ EC 打工度假的時候還沒有三簽這件事呢！不知道後來真的有�
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
   * [知識有價，分享無價：雲端架構師 EC 線上諮詢服務，正式上線](./2018-01-03-ec-consultation/index.md)
-  * [機會由自己創造！我透過閱讀澳洲政府的移民規定成功移民澳洲！](https://medium.com/@cloudarchitectec/how-i-migrated-to-australia-37ddb7b0d4d8)
+  * [機會由自己創造！我透過閱讀澳洲政府的移民規定成功移民澳洲！](/posts/2023-11-10how-i-become-pr/)
   * [布里斯本開車可抵達的可愛小島 — Bribie Island 一日遊](/posts/2023-09-15-bribie-island/)
 
 

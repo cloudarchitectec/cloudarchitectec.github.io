@@ -119,7 +119,7 @@ tags: ["職涯", "AWS"]
 如果想要參考我以前考 Microsoft Azure Administrator 的心得 (抱怨?)，歡迎閱讀這篇文章：
 
 [**微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得**  
- _跟大家分享我的第二張 Azure 證照 AZ-104 Microsoft Azure Administrator Associate 的考試心得，並分析我覺得 Azure Associate Level 證照比起 AWS…_ medium.com](https://medium.com/@cloudarchitectec/az-104-azure-%E8%AD%89%E7%85%A7%E9%80%9A%E9%81%8E%E5%BF%83%E5%BE%97-80625af7c654)[](https://medium.com/@cloudarchitectec/az-104-azure-%E8%AD%89%E7%85%A7%E9%80%9A%E9%81%8E%E5%BF%83%E5%BE%97-80625af7c654)
+ _跟大家分享我的第二張 Azure 證照 AZ-104 Microsoft Azure Administrator Associate 的考試心得，並分析我覺得 Azure Associate Level 證照比起 AWS…_ medium.com](/posts/2022-11-19-azure-az-104-exam/)[](/posts/2022-11-19-azure-az-104-exam/)
 
 ### 結語
 
@@ -145,9 +145,9 @@ tags: ["職涯", "AWS"]
 **延伸閱讀**
 
   * [微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [微軟 Azure 證照: 如何只用 40 小時準備 AZ-104 Azure Administrator Associate 證照並順利通過考試](/posts/2022-11-19-azure-az-104-exam/)
-  * [給成功轉職軟體工程師的你的一封信](https://medium.com/@cloudarchitectec/a-letter-to-all-career-changers-8fd7a3422ec7)
-  * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](https://medium.com/@cloudarchitectec/software-engineer-cloud-engineer-devops-engineer-what-do-they-do-56f3aedfe4ac)
+  * [微軟 Azure 雲端證照: 只花 40 小時順利通過 AZ-104 Azure Administrator Associate](/posts/2022-11-19-azure-az-104-study/)
+  * [轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思](/posts/2023-09-08-reflection-on-transition/)
+  * [Software Engineer? Cloud Engineer? DevOps Engineer? 你寫的 code 跟我寫的到底有什麼不同?](/posts/2023-09-01-cloud-roles/)
   * [轉職可以一轉再轉嗎？薪水是轉職最重要的考量？](/posts/2023-06-15-career-transition-again/)
 
 

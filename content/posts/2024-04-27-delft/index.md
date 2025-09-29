@@ -55,7 +55,7 @@ tags: ["旅遊", "荷蘭"]
 關於萊登的遊記請看：
 
 [**一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城**  
- _萊登 (Leiden) 是知名荷蘭畫家林布蘭的故鄉，也是歐洲知名的大學城。於16世紀成立的萊登大學是荷蘭最古老的大學，也是我 2009–2010來荷蘭交換的學校！_ medium.com](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-leiden-university-pancake-96289a6ec152)[](https://medium.com/@cloudarchitectec/2024-ec-solo-europe-trip-leiden-university-pancake-96289a6ec152)
+ _萊登 (Leiden) 是知名荷蘭畫家林布蘭的故鄉，也是歐洲知名的大學城。於16世紀成立的萊登大學是荷蘭最古老的大學，也是我 2009–2010來荷蘭交換的學校！_ medium.com](/posts/2024-04-26-leiden/)[](/posts/2024-04-26-leiden/)
 
 ![](images/medium-1*e2FULclg8xAk7duIBMQLtA.jpeg.jpg)藍瓷版林布蘭的名畫夜巡
 

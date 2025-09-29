@@ -100,7 +100,7 @@ tags: ["投資理財", "房地產"]
 
 
 [**澳洲首次置業指南-昆士蘭篇III：印花稅減免怎麼算？QLD First Home Concession 節稅懶人包**  
- _這篇是 EC 整理的昆士蘭首次置業印花稅減免（QLD First Home Concession）攻略，帶你了解如何省下高達 $15,925…_ medium.com](https://medium.com/@cloudarchitectec/2023-qld-first-home-concession-5fb573c99536)[](https://medium.com/@cloudarchitectec/2023-qld-first-home-concession-5fb573c99536)
+ _這篇是 EC 整理的昆士蘭首次置業印花稅減免（QLD First Home Concession）攻略，帶你了解如何省下高達 $15,925…_ medium.com](/posts/2023-09-23-qld-first-home-3/)[](/posts/2023-09-23-qld-first-home-3/)
 
 ### 結語
 

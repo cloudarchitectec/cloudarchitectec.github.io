@@ -1,7 +1,7 @@
 ---
 title: "2022 年澳洲生活回顧"
 date: 2022-12-31
-slug: "2022-12-31-2022-reflection"
+slug: "2022-12-31-2022-life"
 image: "images/medium-0*q75V0E9YMvskB2WL.jpg"
 images: ['images/medium-0*q75V0E9YMvskB2WL.jpg']
 categories: ["澳洲生活"]

@@ -24,7 +24,7 @@ tags: ["投資理財", "房地產"]
 如果你想要利用**昆士蘭首次置業補助金 (First Home Owner Grant)** ，在購入你的自住房的同時獲得一筆澳幣 15,000 的政府補助金，請參考第二集：
 
 [**澳洲首次置業指南-昆士蘭篇II：2023 首次購屋補助怎麼領？First Home Owner Grant 申請攻略**  
- _想申請昆士蘭首次購屋補助金（First Home Owner Grant）卻不確定從哪開始？這篇文章是我整理的實用攻略，帶你了解申請資格、補助金條件與常見誤區。符合資格就有機會領取 $15,000…_ medium.com](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)[](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)
+ _想申請昆士蘭首次購屋補助金（First Home Owner Grant）卻不確定從哪開始？這篇文章是我整理的實用攻略，帶你了解申請資格、補助金條件與常見誤區。符合資格就有機會領取 $15,000…_ medium.com](/posts/2023-09-23-qld-first-home-2/)[](/posts/2023-09-23-qld-first-home-2/)
 
 按照慣例，在文章開始前必須來個免責聲明XD
 

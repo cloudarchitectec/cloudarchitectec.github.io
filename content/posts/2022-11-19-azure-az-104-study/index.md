@@ -1,5 +1,5 @@
 ---
-title: "微軟 Azure 證照: 如何只用 40 小時準備 AZ-104 Azure Administrator Associate 證照並順利通過考試"
+title: "微軟 Azure 雲端證照: 只花 40 小時順利通過 AZ-104 Azure Administrator Associate"
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-study"
 image: "images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpeg.jpg"
@@ -10,7 +10,7 @@ tags: ["職涯", "雲端證照"]
 
 * * *
 
-### 微軟 Azure 證照: 如何只用 40 小時準備 AZ-104 Azure Administrator Associate 證照並順利通過考試
+### 微軟 Azure 雲端證照: 只花 40 小時順利通過 AZ-104 Azure Administrator Associate
 
 ![a person studying](images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpeg.jpg)Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/exam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

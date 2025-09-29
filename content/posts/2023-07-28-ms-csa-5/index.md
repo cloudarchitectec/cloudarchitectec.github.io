@@ -1,52 +1,48 @@
 ---
-title: "[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops"
+title: "[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第五集：Sales Pipeline Management"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-5"
-image: "images/medium-0*6V_gkuucIp6LgEkS.jpg"
-images: ['images/medium-0*6V_gkuucIp6LgEkS.jpg', 'images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png.jpg', 'images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png.jpg', 'images/medium-1*GESZpUU1YXukmjSgmnKlRw.png.jpg']
+image: "images/medium-0*Sre5eGm5dFF7JeEH.jpg"
+images: ['images/medium-0*Sre5eGm5dFF7JeEH.jpg', 'images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg', 'images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg', 'images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg', 'images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg', 'images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg']
 categories: ["職涯"]
-tags: ["職涯", "微軟"]
+tags: ["職涯", "微軟", "雲端架構師"]
 ---
 
-### [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops
+### [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第五集：Sales Pipeline Management
 
-![](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
-* * *
+![](images/medium-0*Sre5eGm5dFF7JeEH.jpg)Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 
-這篇文章是 <<微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼?>> 系列的第四集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+這篇文章是 <<微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼?>> 系列的最終章。這個系列總共有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
   1. Org Chart
   2. Solution Architecting
   3. Technical Guidance/Customer Meetings
-  4. **Technical Presentation/Workshops >> 你正在閱讀的文章**
-  5. Sales Pipeline Management
+  4. Technical Presentation/Workshops
+  5. **Sales Pipeline Management >> 你正在閱讀的文章**
 
 
 
 **還沒看過第一集的人請看這裡：**
 
 [**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
- _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-01-org-chart-3710bdec8416)[](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-01-org-chart-3710bdec8416)
+ _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
 
 **還沒看過第二集的人請看這裡：**
 
 [**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting**  
- _這篇文章將以 3-tier web app migration 跟大家分享微軟雲端架構師 (Azure Cloud Solution Architect) 是如何規劃雲端解決方案的，文章的最後還會跟大家分享當架構師所需的技能。_ medium.com](https://medium.com/@cloudarchitectec/ay-in-the-life-of-solution-architect-02-solution-architecting-199c7db36d78)[](https://medium.com/@cloudarchitectec/ay-in-the-life-of-solution-architect-02-solution-architecting-199c7db36d78)
+ _這篇文章將以 3-tier web app migration 跟大家分享微軟雲端架構師 (Azure Cloud Solution Architect) 是如何規劃雲端解決方案的，文章的最後還會跟大家分享當架構師所需的技能。_ medium.com](/posts/2023-07-28-ms-csa-2/)[](/posts/2023-07-28-ms-csa-2/)
 
 **還沒看過第三集的人請看這裡：**
 
 [**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第三集：Technical Guidance/Customer Meetings**  
- _這篇文章將以我協助客戶了解SQL Server DSC (desired state configuration) 相關的 Azure 雲服務為例，跟大家分享微軟雲端架構師是如何學習雲端技術的相關知識、製作 demo…_ medium.com](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-03-technical-guidance-customer-meetings-7f31ff08b043)[](https://medium.com/@cloudarchitectec/day-in-the-life-of-solution-architect-03-technical-guidance-customer-meetings-7f31ff08b043)
+ _這篇文章將以我協助客戶了解SQL Server DSC (desired state configuration) 相關的 Azure 雲服務為例，跟大家分享微軟雲端架構師是如何學習雲端技術的相關知識、製作 demo…_ medium.com](/posts/2023-07-28-ms-csa-3/)[](/posts/2023-07-28-ms-csa-3/)
 
-**我希望大家在看完這個系列之後，可以留言告訴我:**
+**還沒看過第四集的人請看這裡：**
 
-  1. 如果你不是微軟雲端架構師 (Azure Cloud Solution Architect)，你覺得這個職位符合你對於技術職位 (technical role) 的想像嗎?
-  2. 如果你是微軟雲端架構師 (對，我最近發現有同事會看我的部落格! 太可怕了QAQ)，你覺得我對於 CSA 的工作描述還算客觀嗎?
-
-
+[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops**  
+ _這篇文章將以我準備 technical workshop 的過程，跟大家分享微軟雲端架構師是如何做 technical presentation。_ medium.com](/posts/2023-07-28-ms-csa-4/)[](/posts/2023-07-28-ms-csa-4/)
 
 **當然，總是要先放一下免責聲明XD**
 
@@ -54,92 +50,95 @@ tags: ["職涯", "微軟"]
 
 * * *
 
-在架構師的日常中，我們也常常會應客戶或是內部同事的要求，針對某個主題或是特定的 Azure Services 來進行 technical presentation 或是 workshop。
+### Sales Pipeline
 
-### 前情提要
+Solution Architect 這個職位在不同公司或是不同地方(例如 service companies like AWS/Mircrosoft、consulting companies like Accenture/EY 或是 customer side like 銀行/一般企業)，可能會有不一樣職責。
 
-這個 workshop 光是要跟客戶喬定日期，就已經談了好幾個月，我看了一下我個人的筆記，我們從今年一月就已經把這件事列上議程 (我們跟這個客戶每週開會兩次)，一直談到七月終於敲定了日期，但沒有敲定講者XD
+但在微軟，Solution Architect 就是 technical sales，也就是說我們的薪資組成裡面有 25% 是 sales commission，實際計算的公式有點複雜，但裡面佔比例最高的要素我們叫做 Azure Consumption Revenue (ACR)。
 
-### Workshop 倒數 8 天
+假設 ABC 銀行是微軟的客戶，ABC 銀行打算把他們的核心銀行系統從 on-premises data center 搬到 Azure 上，上雲後他們一個月花在 Azure Infrastructure (例如 Azure VMs, ExpressRoute, VPN, storage accounts, SQL database etc)上的錢是 $100,000/月，這 10 萬塊就是我這個 account 的 ACR。
 
-其實我覺得這件事真的好神奇，這麼早以前就已經開始談的事，會讓我覺得微軟這邊應該早就把資源都找好了，只要客戶一旦確定日期，我們就可以開始，沒想到不是這樣。我的 Sales Specialist 一直到八天前才開始寄信找資源，這時候他開始把我 cc 進內部郵件裡，我以為他都談好了，應該不需要我處理。
+假設這個 migration project 的設計在三月談好了，預計七月開始部署到雲上，這個項目預計做到年底完成，所以我在 sales pipeline 上就必須要列出像下面這個表格，上面寫著客戶預計在哪個日期部署哪些服務、這些服務會花多少錢、以及每個 milestone 的進度。
 
-### Workshop 倒數 6 天
+![](images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg)一開始的項目進度
 
-結果倒數前六天，Sales Specialist 跟我說找不到人，希望我可以出來做這個 workshop 或找到其他內部資源來幫忙。我覺得我不是不願意幫忙，只是你為什麼要拖到這麼晚才跟我說?XD 這個 workshop 的主題是 Security，Sales Specialist 希望我講以下兩個 Azure 服務：Azure Arc & Azure Update Management Center。
+### 執行上的困難
 
-這兩個服務我都算是之前自學過，但還沒有正式應用過，所以我一開始是想說希望能有一個更有經驗的人來主導，然後我在一旁旁聽，然後下一次再讓我主導 (因為擔心客戶如果有實際應用上的問題，我沒有相關經驗可能會無法回答)。
+如果順利完成那就還好，如果有任何問題（例如進度不如預期、或是客戶突然發現有實行上的困難、或是客戶突然沒預算了），那就必須要在系統上寫筆記、寫原因，然後我就會開始被我的經理追殺，然後我的經理就會被微軟的高層追殺。
 
-  * **Azure Arc:**[**Azure Arc overview — Azure Arc | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
+我前面說過 Microsoft ANZ (Australia & New Zealand) 追求的是 100% forecasting accuracy，也就是説這個我今年三月訂好的計畫只要有任何時間或是金額上的更動都不行。
 
-![](images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png.jpg) Azure Arc
+![](images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg)實際上的項目進度
 
-其實 Azure Arc 是我覺得微軟最酷、跟其他雲服務最不一樣的服務! Azure Arc 可以讓你把在 on-premises 環境裡的 Windows & Linux servers 或是其他雲服務平台 (AWS/GCP etc) 的伺服器，變成像是 native Azure Virtual Machines 一樣。所以在 Azure Arc 上你就可以使用 Azure native services like tagging, Azure Policy, Virtual Machine Insights 等等服務來管理你在其他地方的伺服器，超級酷!
+  1. 例如客戶說「EC 啊～我們這個項目的進度有點延遲，八月的 migration 我們現在可能要延遲兩週，變成 9/15 才能部署」。我就要在系統裡做筆記，然後通知我的經理，然後我的經理就會問我說是什麼問題呢？微軟要怎麼幫助他們呢？我說客戶好像沒錢，不如你幫他出錢？XD (這是開玩笑的，但客戶很常有預算問題是真的，下面會更詳細說明)。
+  2. 或是客戶說「EC 啊～我們這個項目的進度有點延遲，八月的我們只能 migrate 50個 VMs)」，然後我的經理就會說「EC 啊～你八月的 ACR 怎麼只有一萬呢？這樣不行啊，快跟我解釋一下為什麼，我要去跟微軟高層解釋。」
 
-  * **Azure Update Managment Center:**[**Update management center (preview) overview | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
 
-![](images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png.jpg) Azure UMC
 
-Azure Update Management Center (UMC) 則是 Azure 最新的伺服器 patching 服務。
+最慘的例子就是我到了 9/7 問客戶說 9/15的部屬沒問題吧？客戶說沒問題啊，然後等到 9/15再跟我說又因為總總原因進行不了，又要再延遲兩個禮拜，然後我又要去跟我的經理解釋。我每個禮拜就在問客戶他們到底錢花了嗎？客戶最後就發火了說「EC 啊～我真的沒有看過哪個公司這麼在乎我們的項目進度，我說了會部署 100 個 VM 就是會部署100 個 VM，我這個禮拜部署、下禮拜部署或是下個月部署對你們來說真的有差嗎？反正微軟都會拿到錢啊，不要再問我了，我不知道，反正我們內部準備好了就會部署。」
 
-這裡又要吐槽一下微軟，Azure Update Management Center 算是這個服務的 2.0 版本。你們知道 1.0 版本叫做什麼嗎? 1.0 版本叫做 Azure Update Management，哈哈哈哈哈! 就只差了一個 center 而已，你說夠不夠混淆?
+這就是我最討厭的 SA 工作內容哈哈哈！我其實認同客戶的說法，追求 100% accuracy 對客戶來說一點幫助都沒有，也不會讓我變成一個更好的 solution architect，對我的經理也沒有任何管理上的幫助，可能只有爽到微軟高層吧？因為他們就可以拿去跟更高層說，你們看我們今年的 sales forecasting 100% 準確！但說真的，這件事根本就不合邏輯，天氣預報都不會 100% 準確，我也不知道我明天午餐要吃什麼？我 (或客戶) 怎麼可能三月的時候就預測七月到十二月的時候會發生什麼事？XD
 
-而且 2.0 版本跟 1.0 版本分別放在不同地方!!! 2.0 版本的 UMC 是一個獨立的 Azure 服務，1.0 版本的 Azure Update Managment 其實是包含在另一個 Azure 服 「Azure Automation Account」裡面的一個小功能而已。我後來發現不僅是客戶不知道這件事，我後來大概跟 10 個同事說過這件事，他們也都不知道出了2.0 版本XDD
+### **Cost Estimation**
 
-總之，我立刻找 GBB (Global Black Belt) 跟 Corp CSA 幫忙，結果聯絡了一堆人，大家都在踢皮球，最後發現還是只能靠我上場。
+SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture design，我們還要負責幫 ABC 銀行估算上雲之後他們會在 Azure 上花多少錢。有時候算完錢之後，客戶可能就說太貴了他們不做了，或是嫌太貴了就開始想要改 solution design，改來改去就把本來一個規劃得好好的改成四不像，這裡最常見的衝突有兩種：
 
-### Workshop 倒數 4 天
+  1. **項目預算跟 solution design 完善度上的衝突** ：對於我個人來說，我其實不在乎客戶在Azure 雲上花多少錢，只是有一些客戶會因為項目預算而把設計改得亂七八糟，然後事後再來跟我們抱怨說Azure 雲很難用啊、達不到他們本來的目的啊、早知道就不要 migrate 到雲上了之類的。我心想，啊你們就把 solution 改得歪七扭八，當然難用啊XD
+  2. **項目預算跟 Security/compliance requirements 的衝突** ：solution design 最怕什麼？最怕技術談完了、費用也談完了，客戶內部資源跟外部資源都協調好了，客戶高層也準備要 sign off 了，這個時候有人突然想到「咦！我們好像還沒找 Security Team 來加入討論」，然後 Security Team 一加入討論，這個項目就從此不用進行下去了XD 因爲 Security Team 可能會說，因為要符合 security controls/compliance controls，所以 design 要改成怎樣怎樣，然後預算就加倍了。或是 Security Team 説每一個用到的 Azure services 跟 third-party services 都需要通過一定的 compliance review，然後一個 service 他們要 review 1–2個月，那假設我們的 solution design 有 10 services，那等他們全部 review 完之後，我們 20 個月後再來 implement? XDD 到時候客戶的環境都不知道變成怎樣了，於是又要重新 discovery 跟 solution design 一次XD
 
-這天終於找到機會跟 Sales Specialist 和 Account Technology Specialist (ATS) 開會，瞭解客戶的需求 (因為微軟的員工都很忙，所以有時候要找他們開會都還約不出時間)。結果發現他們其實也不知道客戶的需求囧 題目不是他們訂的嗎? 都不知道客戶想要了解這兩個服務的哪些地方跟他們的 use cases 是什麼，就決定要講這個主題嗎?XD
 
-好吧! 那也就算了，那我自己挑這兩個服務的重點來準備吧。接著我問說，那你們可以把 workshop meeting invite 轉發給我嗎? 因為我到那天都還沒有收到會議邀請，結果 ATS 跟我說「喔~ 因為我還沒有寄出會議邀請給客戶啊~你想要的話，我先寄一個 meeting placeholder 給你?」我說不用了，等正式的出來再寄正式的 meeting invite 給我吧，先寄一個假的給我有什麼用哈哈哈
 
-### Workshop 倒數 3 天
+基本上 cost estimation 我們通常都是用 Azure Pricing Calculator 算的，這個網頁是公開的，有興趣的人可以自己上去玩玩看：<https://azure.microsoft.com/en-au/pricing/calculator/>
 
-今天意外有一個 Corp CSA 聯絡我，我一開始還以為他可以幫忙來講 workshop，結果他只是提供我一些 slides and demo 資源而已。不過後來我沒有用他的 demo 資源，而是用我自己另外找到的，因為他給的 demo 資源太複雜了，這個 workshop 根本不用展現的那麼深入，而且他給我的 Azure UMC slides 還是 1.0 版本，所以其實也不能用哈哈哈
+![](images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg)Azure Pricing Calculator
 
-### Workshop 倒數 2 天
+我也遇過一些奇葩客戶，例如有一個客戶狂改他們的 networking design，下子說他們要用 VPN Gateway，一下子說他們要用 Virtual WAN。然後叫我算價錢給他們，但又不給我參數。例如要算VPN Gateway的價格我必須要知道他們要選哪一個 VPN Gateway SKU，然後他們又不告訴他們需要的 throughput 有多少，是要叫我去通靈嗎？XD
 
-正式開始準備 workshop 當天要用的 demo & slides (通常這些資源我都要在茫茫的微軟資源海上自己尋找適合用的材料，也沒有人會告訴你哪些東西要去哪裡找。這次居然還有一個 Corp CSA 跳出來要幫忙給我資源，實屬難得，但說真的他給的東西大多都不適合，但還是感謝他的幫忙啦!)。
+![](images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg)VPN Gateway Pricing Calculator
 
-好險這兩個 Azure services 我之前學過，不然準備的時間還要更久。然後終於在今天收到 ATS 的 Workshop meeting invite，當天其實是一整天的活動，我負責的只是其中一個小時，但我突然發現議程上我負責的部分從 60 分鐘被改為 75 分鐘，但完全沒有人通知我，也完全沒有人要問我的意見XD (是的，就是如此隨性！雖然我個人是覺得這樣還蠻沒有禮貌的 lol)
+好，所以我就自己用了一些常見的 assumptions 算了一個數字給他們 (通靈就通靈！)，然後請客戶確認是否跟他們內部的參數和項目預算相符，然後客戶就不回信了。就算我再三 follow up，跟不同人follow up，請其他們去 follow up 也都不回我。大哭！
 
-### Workshop 倒數 1 天
+兩個月後客戶再回來跟我說「你好，我們的 networking solution design 又改了一個新的設計，請問這個設計能做嗎？實行上會遇到什麼問題？如果能做的話，請問這個要花多少錢？」然後我再度幫客戶解決技術跟設計問題，然後再算一次錢給他們，然後再寄信請他們確認，然後再度石沈大海。
 
-ATS 突然傳訊息問我有什麼需要幫忙的嗎？我心想，少在那邊噓寒問暖XDD 其實他自己也是一個 technical role，他如果真的要「幫忙」，這個環節他完全可以自己上台講就好，根本不需要找我來講。然後他叮嚀我說客戶非常technical，要我不要講太多 sales slides，最好是從頭到尾 demo。我心想如果不先介紹一下這兩個服務在幹嘛，客戶最好是跟我們的雲服務有這麼熟。我說「我準備了 11 張投影片，至少先確定客戶瞭解這兩個服務在做什麼，剩下的時間都會在 demo 上」。而且這種客戶需求，你前一天才講是??? 要是我沒有事先準備好很多 demo scenarios，我今天要加班趕出來?
+在此同時，我的微軟經理會不斷催促我說「EC 啊～這家 CDE 公司的 ACR 到底是多少啊？客戶確認設計了嗎？這個 ACR 會按照計畫實現嗎？」
 
-另外一件事是 ATS 跟我說，那天微軟的 Chief Architect (出現了第一集的 Org Chart 裡面沒出現的新角色！但這個角色大概也快被廢了，所以就不多做介紹了，大家可以想像成這個人是比一般架構師更高級的 Architect 職位) 也會去，叫我記得跟 Chief Architect connect一下，是說我也不知道是要connect 什麼。但既然他都交代了，我就去了，結果聊一聊 Chief Architect 說他只會待開場那一小時，也就是說我還沒開始講他就會提前離開XD
+我不知道啊！！！！
 
-### Workshop 當日
+### 工作時間分配
 
-![](images/medium-1*GESZpUU1YXukmjSgmnKlRw.png.jpg)我當天的投影片首頁
+如果讓我換一個圓餅圖來表示 SA 的工作時間分配，其實是長這樣子的（前提：這是以微軟的 SA 工作為例，聽說 AWS 的 SA 不需要花這麼多時間在Sales Pipeline Managment）
 
-這個 workshop 是 hybrid 的模式，客戶的雪梨團隊會到雪梨辦公室，其他客戶會遠端加入。微軟這邊也是，一些人在雪梨現場，一些人遠端加入。
+![](images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg)Microsoft CSA Work Distribution
 
-當天我早早準備好，因為我跟客戶有時差，所以客戶的十點其實是我所在地區的早上八點。十點要開始一整天的 workshop，結果客戶十點才到微軟辦公室，然後一到辦公室問說能不能去樓下買咖啡。ATS 說當然可以啊，然後就帶他們下去買了 20 分鐘的咖啡。(線上的人除了沒有咖啡喝，還只能乾等，因為也不知道他們什麼時候會回來)
+**Task 1 Presentation/Workshops & Task 2 Technical Guidance/Customer Meeting**：算是技術相關的工作內容，合起來佔 30%。但我其實也很好奇，你們覺得提供 technical guidance、creating technical demo & poc、 presentation 這樣就算是一個技術職位嗎? 還是只有 hardcode programming 才算哈哈？
 
-接著由 Chief Architect 開場。議程上開場只有15分鐘，但他講了20分鐘(我看他有 31 頁投影片，想說你才講開場不需要這麼多頁吧XD)，此時 agenda 已經大延遲。
+我打算之後來寫一篇 <<Software Engineer、Cloud Engineer、DevOps Engineer，你寫的 code 跟我寫的到底有什麼不同?>>，裡面會提供一些 code samples，來進一步跟大家解析這三個 engineer 職位的不同，有興趣的人請在下方加1 XD
 
-ATS 私訊我說看來會延遲一下，我問說那還是按照計劃12點結束嗎？結果他說可以延到 12:15。我心想好吧，我本來還想說那我可以少講一點哈哈。
+**Task 3 Researching and Learning new technology：** 佔 15%，算是工作上的福利，因為可以用工作時間學習新技術，這點我很喜歡。
 
-開場結束後，下一個環節是客戶講他們的 organisation security strategy。沒想到客戶來一記回馬槍，預計講 30分 鐘的環節，他們只講了5分鐘，於是我的環節又立刻回到 75 分鐘。
+**Task 4 Sales Pipeline Management & 5：Meeting/Resources Coordination**:，合起來佔 50%，我覺得基本上是浪費生命XD 但這就是微軟領導階層唯一重視的東西，是的，他們不管你幫助客戶解決了那些技術難題或是規畫出怎樣符合他們技術要求的架構方案，他們只在乎你的 sales pipeline forecasting 是否100% accurate XD
 
-接著就該我上場了，我先用 20 分鐘講完我準備的 11 頁投影片，然後用 55 分鐘做了 demo 跟 Q&A，我覺得自己表現得很不錯，而且時間掌控很完美，然後我就下台一鞠躬了。
+**Task 6 Internal Meetings/Admin** ：佔 5%，這是每個工作都逃不掉的必要之惡，我就不多提了。
 
-講到一半我問大家有沒有問題，結果一個我不認識的同事 (他們人都在現場，這個客戶的團隊我也是第一次見，所以其實有人現場提問的時候我都搞不清楚，他們到底是客戶的人還是我們的人XD)，大概是接下來的講者提問說：EC 好像把我等一下要講的東西都講完了XD。你們看，這就是微軟內部有多不統一的結果。其實還有另一個我不認識的同事提問說「我不知道 UMC 有 2.0 版本耶，這是什麼時候發行的呢?」
+### **結語**
 
-### 結論
+如果你成功追完這個連載系列，我必須要幫你拍拍手！也請你們下方留言告訴我:
 
-其實我覺得這個系列到目前為止，與其說描述架構師的日常，好像更多是對於微軟的抱怨，但我真的沒有XDDD 我只是想要忠實地呈現我的日常工作生活，順便讓大家知道，你們不要以為大公司裡面的事情運作就會非常有規劃或是非常有效率，並不會。你們在工作上會遇到的日常鳥事，就是我在日常工作上會遇到的鳥事哈哈哈
+  1. 如果你不是微軟雲端架構師 (Azure Cloud Solution Architect)，你覺得這個職位符合你對於技術職位 (technical role) 的想像嗎?
+  2. 如果你是微軟雲端架構師，你覺得我對於 CSA 的工作描述還算客觀嗎?
+
+
+
+希望這個系列可以幫助大家更了解這個職位～ 如果還有什麼其他想看的主題或是有任何問題，都歡迎在下方留言！
 
 
 
 **延伸閱讀**
 
-  * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[職場] 你登入澳洲了，然後呢？如何提高找到澳洲科技業正職工作的機會 — 旅澳十年的臺灣工程師告訴你！](https://medium.com/@cloudarchitectec/tips-on-how-to-find-a-tech-job-in-australia-3535243e7cf7)
-  * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](/posts/2023-04-01-work-tasks/)
-  * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-solution-architect-technical-consultant-software-developer-%E6%AF%94%E8%BC%83-1484a6401723)
-  * [[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思](https://medium.com/@cloudarchitectec/reflection-on-my-9-months-in-microsoft-9793a5f44430)
+  * [[職場] 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天](/posts/2022-12-16-day-of-ms-csa/)
+  * [[職場] 微軟員工績效評估 (Microsoft Employee Performance Review)](/posts/2023-06-03-ms-performance-review/)
+  * [[職場] 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析](/posts/2023-02-04-cloud-certs/)
+  * [[職涯] 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思](/posts/2023-07-28-ms-csa-in-9-months/)
+  * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
 
 

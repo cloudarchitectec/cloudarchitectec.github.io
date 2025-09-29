@@ -45,7 +45,7 @@ tags: ["投資理財", "房地產", "首次置業"]
 
 
 [**澳洲首次置業指南：2021 坎培拉購房流程經驗分享｜First Home Loan Deposit Scheme 實際應用**  
- _2021 年我在澳洲首都坎培拉靠自己申請 FHLDS（首次購屋補助 First Home Loan Deposit…_ medium.com](/posts/2023-05-07-2021-life/)[](/posts/2023-05-07-2021-life/)
+ _2021 年我在澳洲首都坎培拉靠自己申請 FHLDS（首次購屋補助 First Home Loan Deposit…_ medium.com](/posts/2021-04-22-2021-fhlds/)[](/posts/2021-04-22-2021-fhlds/)
 
   * **偏遠地區首次置業者擔保 Regional First Home Buyer Guarantee (RFHBG)** — 協助符合資格的自住買家能夠在偏遠地區 (regional area) 最低以房價 5% 的頭期款來買房。2023–24 財政年有 10,000 個名額。那要怎麼知道哪些地區屬於偏遠地區呢？別擔心，澳洲政府提供了一個 [Regional Checker](https://www.nhfic.gov.au/support-buy-home/regional-checker)，只要輸入你想買地區的郵遞區號，網站就會立刻告訴你該地區是否符合偏遠地區的資格。
   * **單親首次置業者擔保 Family Home Guarantee (FHG)** — 協助單親父母最低以房價 2% 的頭期款來買房。2023–24 財政年有 5,000 個名額。我覺得這個福利真的很棒(但也可以知道澳洲的單親父母真的很多，因為政府還特地為他們制定了相關的政策)。不過只支出房價 2% 的頭期款也就代表申請人要背負房價 98 % 的貸款，其實也是一個滿沈重的負擔，所以大家一定要先好好衡量過自己的經濟情況再決定。
@@ -122,14 +122,14 @@ tags: ["投資理財", "房地產", "首次置業"]
 
 
 [**澳洲首次置業指南-昆士蘭篇II：2023 首次購屋補助怎麼領？First Home Owner Grant 申請攻略**  
- _想申請昆士蘭首次購屋補助金（First Home Owner Grant）卻不確定從哪開始？這篇文章是我整理的實用攻略，帶你了解申請資格、補助金條件與常見誤區。符合資格就有機會領取 $15,000…_ medium.com](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)[](https://medium.com/@cloudarchitectec/2023-qld-first-home-owner-grant-656d7b0d74b)
+ _想申請昆士蘭首次購屋補助金（First Home Owner Grant）卻不確定從哪開始？這篇文章是我整理的實用攻略，帶你了解申請資格、補助金條件與常見誤區。符合資格就有機會領取 $15,000…_ medium.com](/posts/2023-09-23-qld-first-home-2/)[](/posts/2023-09-23-qld-first-home-2/)
 
   * **昆士蘭首次置業印花稅減免 (QLD First Home Concession)**
 
 
 
 [**澳洲首次置業指南-昆士蘭篇III：印花稅減免怎麼算？QLD First Home Concession 節稅懶人包**  
- _這篇是 EC 整理的昆士蘭首次置業印花稅減免（QLD First Home Concession）攻略，帶你了解如何省下高達 $15,925…_ medium.com](https://medium.com/@cloudarchitectec/2023-qld-first-home-concession-5fb573c99536)[](https://medium.com/@cloudarchitectec/2023-qld-first-home-concession-5fb573c99536)
+ _這篇是 EC 整理的昆士蘭首次置業印花稅減免（QLD First Home Concession）攻略，帶你了解如何省下高達 $15,925…_ medium.com](/posts/2023-09-23-qld-first-home-3/)[](/posts/2023-09-23-qld-first-home-3/)
 
 如果你對昆州購屋補助、貸款流程或首次置業的操作細節有任何問題，歡迎留言或點擊「拍手」支持我這個工程師的 side project 🚀
 

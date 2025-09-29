@@ -55,7 +55,7 @@ tags: ["職涯"]
 
 **延伸閱讀**
   * [[澳洲職場] 如何準備職場英文面試](https://medium.com/@cloudarchitectec/澳洲職場-如何準備職場英文面試-89d7397274fb)
-  * [[職涯] 我為什麼選擇轉職 IT 產業](https://medium.com/@cloudarchitectec/職涯-我為什麼選擇轉職-it-產業-e0507b5c98e1)
+  * [不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考](/posts/2023-01-06-keys-to-transistion/)
   * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
   * [[](/posts/2022-12-03-bootcamp-to-aws/)[澳洲職場](/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
 

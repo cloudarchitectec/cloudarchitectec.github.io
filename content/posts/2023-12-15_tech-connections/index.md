@@ -115,7 +115,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
   * [你登入澳洲了，然後呢？如何提高找到澳洲科技業正職工作的機會 — 旅澳十年的臺灣工程師告訴你！](https://medium.com/@cloudarchitectec/tips-on-how-to-find-a-tech-job-in-australia-3535243e7cf7)
-  * [如何準備澳洲辦公室英文面試](https://medium.com/@cloudarchitectec/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4-%E5%A6%82%E4%BD%95%E6%BA%96%E5%82%99%E8%81%B7%E5%A0%B4%E8%8B%B1%E6%96%87%E9%9D%A2%E8%A9%A6-89d7397274fb)
-  * [給成功轉職軟體工程師的你的一封信](https://medium.com/@cloudarchitectec/a-letter-to-all-career-changers-8fd7a3422ec7)
+  * [如何準備澳洲辦公室英文面試](/posts/2023-01-21-eng-interview/)
+  * [轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思](/posts/2023-09-08-reflection-on-transition/)
 
 

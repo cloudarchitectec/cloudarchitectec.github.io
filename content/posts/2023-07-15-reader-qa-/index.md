@@ -185,7 +185,7 @@ AWS/Amazon 最重視的個人特質我們稱之為 Leadership Principles，不�
   * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
   * [[目錄] 雲端架構師 EC — Medium 文章列表](./2018-01-02-ec-post-list/index.md)
   * [[職場] 澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
-  * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](https://medium.com/@cloudarchitectec/%E8%81%B7%E5%A0%B4-solution-architect-technical-consultant-software-developer-%E6%AF%94%E8%BC%83-1484a6401723)
+  * [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
   * [[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks)分析](/posts/2023-04-01-work-tasks/)
 
 
