@@ -54,6 +54,10 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Centralised footer and updated footers for all the posts
 - Configued Google analytics & logo
 
+2025.09.30
+- Fixed tags, pagination, images, titles
+- Configured Google Search Console
+- Added Schema.org configuration
 
 ## Contributing
 
