@@ -28,7 +28,7 @@ tags: ["旅遊", "紐西蘭"]
 
 想像你放了一瓶水後，想把手機也放進去，那手機就會從水瓶撐開的空間掉下去。單純放手機也不行，因為現代手機都滿重的，放了也是直接掉到地板，我真是台灣人問號？？？
 
-![捷星飛機座椅設計缺陷](images/medium-1*rlnReA8jGgj7TSS22Lws9Q.jpeg.jpg)![機上背袋設計問題](images/medium-1*WDGzYgn2D58lq_DH3Ka1ug.jpeg.jpg)這背袋設計….
+![捷星飛機背袋設計缺陷](images/medium-1*rlnReA8jGgj7TSS22Lws9Q.jpeg.jpg)![機上座椅置物問題](images/medium-1*WDGzYgn2D58lq_DH3Ka1ug.jpeg.jpg)這背袋設計….
 
 廉價航空如捷星通常都不附餐，坐在我前方的夫婦一上機就花錢點了食物。沒想到吃完後空服員又回來說「你們的機票包含了各自 $15 的food credit，可以再點一些機上餐飲喔」，所以夫婦又再點了餐（要是我就不開心了，如果有food credit，為什麼一開始花錢點餐時不說? 🤣）
 
@@ -42,7 +42,7 @@ tags: ["旅遊", "紐西蘭"]
 
 下了飛機後我們立刻搭接駁車跑去租車處領車(感謝機場好心工作人員指點明燈，租車公司的指示有夠難懂)，不過接駁車司機大哥人很好👍
 
-![](images/medium-1*Baow5AEwlPTYrZhC057HBA.jpeg.jpg)租車公司 SNAP：價格便宜而且服務好，推薦！
+![奧克蘭機場 SNAP 租車](images/medium-1*Baow5AEwlPTYrZhC057HBA.jpeg.jpg)租車公司 SNAP：價格便宜而且服務好，推薦！
 
 我們拿到一台 2018 年的省油小車 Corolla，我必須說「我愛我的i30 😆😆😆」。雖然 Corolla 是一代神車，但不才我這輩子真心只開過新車 (我的 i30 是 2022 年出廠的，是我人生第一台車)，對於舊車型操作起來非常不習慣😂
 
@@ -52,9 +52,9 @@ tags: ["旅遊", "紐西蘭"]
 
 ### 漢密爾頓花園 (Hamilton Gardens)
 
-![漢密爾頓日式主題花園](images/medium-1*7peGx_1SjUl-9oBR1k9_iA.jpeg.jpg)![主題花園景觀設計](images/medium-1*Onso4fWanqbfzZHulkdBCw.jpeg.jpg)
+![漢密爾頓日式禪意花園](images/medium-1*7peGx_1SjUl-9oBR1k9_iA.jpeg.jpg)![紐西蘭主題園藝景觀](images/medium-1*Onso4fWanqbfzZHulkdBCw.jpeg.jpg)
 
-![英式古典花園](images/medium-1*RwKCTe8NLlutsIHcIPdAZQ.jpeg.jpg)![花園造景藝術](images/medium-1*xK89OPVN0O1WIA1sj0v4rA.jpeg.jpg)漢密爾頓花園 (Hamilton Gardens)
+![Hamilton 英式古典花園](images/medium-1*RwKCTe8NLlutsIHcIPdAZQ.jpeg.jpg)![紐西蘭花園藝術造景](images/medium-1*xK89OPVN0O1WIA1sj0v4rA.jpeg.jpg)漢密爾頓花園 (Hamilton Gardens)
 
 第一站是漢密爾頓花園，我們去的時候花園還是免費入場，不過 2024/09/18 之後就開始要收 $20 紐幣的門票了。
 
@@ -62,7 +62,7 @@ tags: ["旅遊", "紐西蘭"]
 
 ### 第一餐：越南料理
 
-![Hanoi Boy 文青越南餐廳](images/medium-1*hD5O5Vdq6lwlBYC3muadUA.jpeg.jpg)![越南河粉 pho 湯麵](images/medium-1*3DolXIvO2lz0SU04mleYbw.jpeg.jpg)Hanoi Boy
+![Hanoi Boy 文青越南餐廳](images/medium-1*hD5O5Vdq6lwlBYC3muadUA.jpeg.jpg)![紐西蘭越南河粉 Pho](images/medium-1*3DolXIvO2lz0SU04mleYbw.jpeg.jpg)Hanoi Boy
 
 紐西蘭的第一餐，我們吃了一家很有氣氛的越南餐廳。裝潢完全是咖啡廳/文青酒館風，服務態度也很好，大推！
 
@@ -74,14 +74,14 @@ tags: ["旅遊", "紐西蘭"]
 
 不過 Airbnb 的佈置相當溫馨，空間也超級寬敞!
 
-![紐西蘭 Airbnb 客廳](images/medium-1*7NuAgSznwjBass-sBz8XIg.jpeg.jpg)![民宿廚房設施](images/medium-1*m1UcmtY74jtv5Iwag4uooQ.jpeg.jpg)
+![紐西蘭 Airbnb 溫馨客廳](images/medium-1*7NuAgSznwjBass-sBz8XIg.jpeg.jpg)![民宿廚房完整設施](images/medium-1*m1UcmtY74jtv5Iwag4uooQ.jpeg.jpg)
 
-![住宿房間佈置](images/medium-1*1Mthr8xBlu5XuQCQShzFDQ.jpeg.jpg)![溫馨民宿空間](images/medium-1*MxcgNErvLKNcFxJTA3XlCA.jpeg.jpg)Airbnb
+![紐西蘭民宿房間佈置](images/medium-1*1Mthr8xBlu5XuQCQShzFDQ.jpeg.jpg)![Airbnb 溫馨住宿空間](images/medium-1*MxcgNErvLKNcFxJTA3XlCA.jpeg.jpg)Airbnb
 
 最重要的是有一隻超親人超愛討摸的貓貓，真是太可愛了😆 他一個晚上完全三訪我們，最後還跟室友 C 一起睡，太可愛了😍😍😍
 
-![民宿可愛貓咪](images/medium-1*9dSdxYR49uv4mYhrx-7uMg.jpeg.jpg)![親人橘貓撒嬌](images/medium-1*1B50Iu_i0bbNuovrE9qHsg.jpeg.jpg)
+![民宿超萌親人橘貓](images/medium-1*9dSdxYR49uv4mYhrx-7uMg.jpeg.jpg)![紐西蘭民宿可愛貓咪](images/medium-1*1B50Iu_i0bbNuovrE9qHsg.jpeg.jpg)
 
-![貓咪陪睡療癒](images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpeg.jpg)![紐西蘭特色巧克力禮物](images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpeg.jpg)民宿主人還送了我們紐西蘭特色巧克力
+![貓咪陪睡超級療癒](images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpeg.jpg)![紐西蘭特色巧克力伴手禮](images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpeg.jpg)民宿主人還送了我們紐西蘭特色巧克力
 
 {{< footer >}}
