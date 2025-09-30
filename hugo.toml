@@ -29,6 +29,8 @@ disablePathToLower = true
   description = "澳洲雲端架構師 EC 的技術部落格 - Cloud Architect EC's Tech Blog"
   keywords = ["Cloud Architecture", "AWS", "Azure", "Tech Blog", "雲端架構"]
   author = "Cloud Architect EC"
+  authorDescription = "澳洲雲端架構師，前Amazon與微軟工程師，專注於雲端架構與職涯轉換"
+  authorImage = "/ec-logo.png"
   
   # Google Analytics Configuration
   googleAnalytics = "G-F5Z4F1PYEE"
@@ -36,6 +38,15 @@ disablePathToLower = true
   # SEO and Analytics enhancements
   [params.analytics]
     googleSiteVerification = "FlPzC5GcakpWZTQrkkoi896cyAcijcZ40EPSJ45Gvi8"  # Google Search Console verification
+  
+  # Schema.org configuration for enhanced SEO
+  [params.schema]
+    publisherType = "Person"  # Since you're a personal brand
+    sameAs = [
+      "https://www.linkedin.com/in/elliettchen/",
+      "https://github.com/cloudarchitectec",
+      "https://www.threads.com/@cloud_architect_ec"
+    ]
     
   defaultTheme = "auto" # dark, light
   disableThemeToggle = false
@@ -55,6 +66,9 @@ disablePathToLower = true
   showtoc = true
   tocopen = false
   ShowPageNums = true  # Enable page numbers in pagination
+  
+  # Enhanced social sharing configuration
+  ShareButtons = ["linkedin", "twitter", "facebook", "whatsapp"]
 
   # Fuzzy search configuration optimized for Traditional Chinese
   [params.fuseOpts]
