@@ -29,7 +29,7 @@ tags: ["投資理財", "房地產"]
 
 礙於篇幅，我就先寫最近發生的事件4! 如果你們對於其他 **房地產投資鬼故事** 有興趣，歡迎敲碗~
 
-![](images/medium-0*_0-V-suAcMoCTTFl.jpg)Photo by [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![澳洲投資房地產分析](images/medium-0*_0-V-suAcMoCTTFl.jpg)Photo by [Zac Gudakov](https://unsplash.com/@zacgudakov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 物業管理仲介在沒有通知我的情況下，擅自出租我的房子
 

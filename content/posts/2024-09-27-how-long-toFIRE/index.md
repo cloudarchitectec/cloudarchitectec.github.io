@@ -12,7 +12,7 @@ tags: ["投資理財", "退休規劃"]
 
 ### 好想要退休！我與退休之間的距離：澳洲工程師是否比台灣人更容易達成財務自由 (FIRE)？
 
-![](images/medium-0*6FlTC363YDM-gs_Z.jpg)Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![FIRE財務自由退休規劃](images/medium-0*6FlTC363YDM-gs_Z.jpg)Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 過去幾年 EC 總是三不五時嚷嚷著要退休，有一陣子也很熱衷於吸收有關 FIRE ([Financial Independence, Retire Early](https://zh.wikipedia.org/zh-tw/FIRE%E8%BF%90%E5%8A%A8)) 運動的資訊，也投資了一些 ETFs ([指數基金](https://zh.wikipedia.org/zh-tw/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91))。
 
@@ -104,13 +104,13 @@ _2022 年九月我決定從 Amazon 離職。在開始我在微軟的新工作前
 
 我自己是每一筆，真的是每一筆消費都會記帳 (因為幣別是澳幣所以會算到小數後兩位)，每兩個月會把支出跟收入分類統計，然後進行全年平均跟 month-to-month 的比較分析，觀察自己的消費趨勢。
 
-![](images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png.jpg)
+![FIRE退休計算支出分析表](images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png.jpg)
 
 其中最重要的數字就是存款率，這裡我算的是稅後收入(澳洲領薪水的都是稅後，報稅其實再多退少補) 減掉支出之後，存下來的金額比例。大家可以看到今年因為我的貸款支出真的太高了，佔了41%，所以目前的平均存款率只有 23.44%，少得可憐😭
 
 以下是我過去幾年的存款率 (排除一次性大型支出，例如買車、買房、一次繳清兩萬多澳幣的澳洲學貸，因為這些支出可能一輩子都不會出現幾次XD)，可以看出我平常大概可以存下 60–70% 的稅後薪水。
 
-![](images/medium-1*tILRbx_NtxQzJL_kx31oQg.png.jpg)
+![FIRE退休計算歷年存款率](images/medium-1*tILRbx_NtxQzJL_kx31oQg.png.jpg)
 
 你們可能會說，可是你 2019 跟 2020年也都只存 12–22％，感覺跟現在差不多啊？嗯，那個時候我還沒有轉職工程師，薪水大概是現在的1/3–1/2。所以這些年其實我個人消費沒有增長很多，但因為轉職後薪水翻倍了，所以存款比例就變高了XDDD
 
@@ -130,7 +130,7 @@ _2022 年九月我決定從 Amazon 離職。在開始我在微軟的新工作前
 
 以下就來說明一下我的 18 年是怎麼簡單粗暴算出來的 (首先我還是簡單做了一個表格XD)：
 
-![](images/medium-1*0zV01KykJx7kRSEZfgZgsA.png.jpg)
+![FIRE財務自由退休計算表](images/medium-1*0zV01KykJx7kRSEZfgZgsA.png.jpg)
 
   1. **總收入(年)** ：稅後薪資+租金收入
   2. **總支出(年)** ：房租＋生活支出＋房貸 (上面提過我的 Logan 房子是純投資房，所以我現在是 rentvesting，也就是買投資房投資並選擇租屋，所以我的生活支出同時有房貸跟房租。)

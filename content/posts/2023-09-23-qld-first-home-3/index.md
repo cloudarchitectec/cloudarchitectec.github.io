@@ -12,7 +12,7 @@ tags: ["投資理財", "房地產"]
 
 ### **澳洲首次置業指南-昆士蘭篇III：2023 印花稅減免怎麼算？QLD First Home Concession 節稅懶人包**
 
-![](images/medium-0*-xt4stilIuFJcpXO.jpg) Photo by [Frames For Your Heart](https://unsplash.com/@framesforyourheart?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![澳洲昆州印花稅優惠](images/medium-0*-xt4stilIuFJcpXO.jpg) Photo by [Frames For Your Heart](https://unsplash.com/@framesforyourheart?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 這個系列要來跟大家分享在澳洲第一次買房有哪些政府福利措施可利用!
 
@@ -71,7 +71,7 @@ tags: ["投資理財", "房地產"]
   * 例子2 — 房價為 53 萬澳幣，結果為需要付澳幣 6,300 印花稅：首先因為 home concession，53萬的自住房需要支付澳幣 9,800 印花稅。接下來因為申請人符合昆士蘭首次置業印花稅減免，所以印花稅可以再進一步減少澳幣 3,500，最後需要支付澳幣 6,300 印花稅。
   * 例子3 — 房價為 60 萬澳幣，結果為需要付澳幣 12,850 印花稅：首先因為 home concession， 60 萬的自住房需要支付澳幣 12,850印花稅。再來因為60 萬超過昆士蘭首次置業印花稅減免的房產資格，所以這裡申請人沒辦法再進一步獲得其他印花稅減免。
 
-![](images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png.jpg)昆州印花稅試算
+![昆州印花稅計算工具](images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png.jpg)昆州印花稅試算
 
 印花稅的計算方式相較於其他政府補助來說更加複雜，除了跟房價有關係，也跟申請人的資格有關係(例如一對夫妻一起申請，他們各自符合的減免可能不同)。如果你不確定自己可以獲得多少**昆士蘭首次置業印花稅減免** ，可以使用昆州政府提供的小工具：[transfer duty calculator](http://amun.osr.qld.gov.au/sap/osrqld/wd_tfr_calc_com?WDDISABLEUSERPERSONALIZATION=X)
 
