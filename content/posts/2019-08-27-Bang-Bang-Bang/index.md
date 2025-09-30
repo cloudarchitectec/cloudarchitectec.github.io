@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2019.08.27 Bang Bang Bang"
 date: 2019-08-27
 slug: "2019-08-27-bang-bang-bang"
-image: "images/medium-0*_YE-bqY2KiKsLDUH.jpg"
-images: ['images/medium-0*_YE-bqY2KiKsLDUH.jpg', 'images/buy-me-coffee.jpg']
+image: "images/medium-0*mMMqME1uea3S1W9v.jpg"
+images: ['images/medium-0*mMMqME1uea3S1W9v.jpg', 'images/buy-me-coffee.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---

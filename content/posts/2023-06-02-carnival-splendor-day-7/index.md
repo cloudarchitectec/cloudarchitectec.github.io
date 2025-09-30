@@ -1,15 +1,15 @@
 ---
-title: "[旅遊] 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Sea Day 3 (final sea day)"
+title: "2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Sea Day 3 (final sea day)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-7"
-image: "images/medium-1*IWrNUiXvLVVJZUIh8s9pAQ.jpeg.jpg"
-images: ['images/medium-1*IWrNUiXvLVVJZUIh8s9pAQ.jpeg.jpg', 'images/medium-1*yT1jYPWYKtCkBUH6jj5Slw.jpeg.jpg', 'images/medium-1*WGq1FKWAyPBgtQzLXM6tqQ.jpeg.jpg', 'images/medium-1*uYaC4OKHGMGjECDrFoChpg.jpeg.jpg', 'images/medium-1*3ycdDSrXgm6K1ZRHJhbCZw.jpeg.jpg', 'images/medium-1*O0WcLN4LwjjYxXY6VHkjyg.jpeg.jpg', 'images/medium-1*lWe9aAr8mOFgdYKCGxJ1Vw.jpeg.jpg', 'images/medium-1*G5_FH2rQR0Y4wCIU9RJPuQ.jpeg.jpg', 'images/medium-1*SbIVv_bJPxIhozPkcoCOqQ.jpeg.jpg']
+image: "images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpeg.jpg"
+images: ['images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpeg.jpg', 'images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg', 'images/medium-1*XU3yT7_raobC99qC2ioKiA.jpeg.jpg', 'images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpeg.jpg', 'images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "郵輪"]
 ---
 ---
 
-### [旅遊] 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Signal Island (New Caledonia)
+### 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Signal Island (New Caledonia)
 
 ![](images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg)毛巾猩猩(?) 房務員還把 Ashley 的眼鏡放在上面，超好笑!
 

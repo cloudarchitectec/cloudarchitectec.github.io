@@ -5,11 +5,10 @@ slug: "2024-04-12-reflection-on-my-tech-career"
 categories: 
   - "職涯"
 tags: 
-  - "澳洲"
   - "科技業"
-  - "轉職"
-  - "職涯規劃"
-  - "Amazon"
+  - "轉職工程師"
+  - "職涯"
+  - "AWS"
   - "微軟"
 image: "images/0*VPTnrBLCs211J6nV.jpg"
 images:

@@ -2,8 +2,8 @@
 title: "2022.11.19 AZ-104 Azure Administrator Associate 證照考試心得"
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-exam"
-image: "images/medium-1*hWbT3LjPIGJ-lQiGLaXJbg.jpeg.jpg"
-images: ['images/medium-1*hWbT3LjPIGJ-lQiGLaXJbg.jpeg.jpg']
+image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg"
+images: ['images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg']
 categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---
@@ -47,13 +47,5 @@ Azure 考試結束後，考生可以針對「每一題」考試題目提出回�
 
 ![Ellie 的個人雲端證照統計](images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg)個人雲端證照統計
 
-
-
-**延伸閱讀**
-
-  * [[澳洲職場] 你該轉職嗎? 來自轉職成功者的忠告 (文組轉IT)](/posts/2022-12-10-career-transition-analysis/)
-  * [文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/)
-  * [科技業龍頭 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪 230 萬台幣!?](/posts/2022-11-25-faang-salary/)
-  * [澳洲微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)](/posts/2022-11-25-ms-csa-interview/)
 
 {{< footer >}}

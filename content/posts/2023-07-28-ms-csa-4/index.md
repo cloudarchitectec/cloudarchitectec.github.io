@@ -1,5 +1,5 @@
 ---
-title: "[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops"
+title: "微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-4"
 image: "images/medium-0*6V_gkuucIp6LgEkS.jpg"
@@ -8,7 +8,7 @@ categories: ["職涯"]
 tags: ["職涯", "微軟"]
 ---
 
-### [職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops
+### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops
 
 ![](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -28,17 +28,17 @@ tags: ["職涯", "微軟"]
 
 **還沒看過第一集的人請看這裡：**
 
-[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
+[**微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
  _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
 
 **還沒看過第二集的人請看這裡：**
 
-[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting**  
+[**微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting**  
  _這篇文章將以 3-tier web app migration 跟大家分享微軟雲端架構師 (Azure Cloud Solution Architect) 是如何規劃雲端解決方案的，文章的最後還會跟大家分享當架構師所需的技能。_ medium.com](/posts/2023-07-28-ms-csa-2/)[](/posts/2023-07-28-ms-csa-2/)
 
 **還沒看過第三集的人請看這裡：**
 
-[**[職場] 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第三集：Technical Guidance/Customer Meetings**  
+[**微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第三集：Technical Guidance/Customer Meetings**  
  _這篇文章將以我協助客戶了解SQL Server DSC (desired state configuration) 相關的 Azure 雲服務為例，跟大家分享微軟雲端架構師是如何學習雲端技術的相關知識、製作 demo…_ medium.com](/posts/2023-07-28-ms-csa-3/)[](/posts/2023-07-28-ms-csa-3/)
 
 **我希望大家在看完這個系列之後，可以留言告訴我:**

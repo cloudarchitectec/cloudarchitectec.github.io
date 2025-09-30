@@ -1,5 +1,5 @@
 ---
-title: "[旅遊] 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2"
+title: "2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2"
 date: 2023-05-30
 slug: "2023-05-30-carnival-splendor-day-3"
 image: "images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpeg.jpg"
@@ -9,7 +9,7 @@ tags: ["旅遊", "郵輪"]
 ---
 ---
 
-### [旅遊] 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2
+### 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2
 
 ![](images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpeg.jpg)可能是隻恐龍吧?XD
 

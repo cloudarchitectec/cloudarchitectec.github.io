@@ -1,5 +1,5 @@
 ---
-title: "[職場] 微軟員工績效評估 (Microsoft Employee Performance Review)"
+title: "微軟員工績效評估 (Microsoft Employee Performance Review)"
 date: 2023-06-03
 slug: "2023-06-03-ms-performance-review"
 image: "images/medium-0*56iblj35IDs0Ee1S.jpg"
@@ -10,7 +10,7 @@ tags: ["職涯", "微軟", "績效評估"]
 
 * * *
 
-### [職場] 微軟員工績效評估 (Microsoft Employee Performance Review)
+### 微軟員工績效評估 (Microsoft Employee Performance Review)
 
 ![](images/medium-0*56iblj35IDs0Ee1S.jpg)Photo by [John Schnobrich](https://unsplash.com/@johnschno?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

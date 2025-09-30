@@ -1,5 +1,5 @@
 ---
-title: "[生活] 2020年回顧"
+title: "2020年回顧"
 date: 2020-05-05
 slug: "2020-05-05-2020-life"
 image: "images/medium-0*TVKl6P-hMe-3aHY7.jpg"
@@ -10,7 +10,7 @@ tags: ["澳洲生活", "年度回顧"]
 
 * * *
 
-### [生活] 2020年回顧
+### 2020年回顧
 
 ![2020](images/medium-0*TVKl6P-hMe-3aHY7.jpg)Photo by [Jamie Street](https://unsplash.com/@jamie452?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -81,17 +81,5 @@ COVID 疫情開始發燒了。當時的我覺得就算實習沒拿到offer，找
 《總結》
 
 回顧過去，2020果然是相當艱難的一點，也是我個人心理健康非常不健康的一年XD 其實我對於2021年也沒什麼特別的期許。就我個人來說，只要能繼續 survive 每一天就好了XD 但我非常期待疫苗普及，大家可以正常生活、正常娛樂、正常旅行的那一天~
-
-—
-
-如果你喜歡我的文章，歡迎加入免費會員追蹤我的部落格，這樣你就不會錯過我每個週末的更新！也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！最近的粉絲數停滯不前，希望大家能多多幫我推廣！你們的鼓勵是支持我繼續寫作下去的動力 :)
-
-有任何問題或是想要看的主題，歡迎留言跟我互動 ^0^
-
-**延伸閱讀**
-
-  * [[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)](/posts/2021-07-06-aws-cbr-life/)
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[近況] 微軟裁員潮到一個段落…了嗎?](/posts/2023-04-06-2023-layoff/)
 
 {{< footer >}}

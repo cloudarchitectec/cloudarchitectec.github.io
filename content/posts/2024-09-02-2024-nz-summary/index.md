@@ -1,5 +1,5 @@
 ---
-title: "兩個女生的紐西蘭自駕滑雪行 🇳🇿: 行程與花費分享"
+title: "兩個女生的紐西蘭自駕滑雪行: 行程與花費分享"
 date: 2024-09-02
 slug: "2024-09-02-2024-nz-summary"
 image: "images/medium-0*fYVrU-_MGwq3cCGa.jpg"
@@ -10,7 +10,7 @@ tags: ["旅遊", "紐西蘭"]
 
 * * *
 
-### 兩個女生的紐西蘭自駕滑雪行 🇳🇿: 行程與花費分享
+### 兩個女生的紐西蘭自駕滑雪行: 行程與花費分享
 
 ![](images/medium-0*fYVrU-_MGwq3cCGa.jpg)Photo by [Hugo Villegas](https://unsplash.com/@gohu?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

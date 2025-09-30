@@ -1,5 +1,5 @@
 ---
-title: "[生活] 2021 年回顧"
+title: "2021 年回顧"
 date: 2023-05-07
 slug: "2023-05-07-2021-life"
 image: "images/medium-0*TadHtZ-lzReaiMZg.jpg"
@@ -10,7 +10,7 @@ tags: ["澳洲生活", "年度回顧"]
 
 * * *
 
-### [生活] 2021 年回顧
+### 2021 年回顧
 
 ![Year 2021](images/medium-0*TadHtZ-lzReaiMZg.jpg)Photo by [Tarryn Myburgh](https://unsplash.com/@tarrynm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -39,17 +39,5 @@ tags: ["澳洲生活", "年度回顧"]
 總之人生不就是這樣，雖然也沒什麼好期待的，但感覺還是可以靠著珍惜日常小確幸繼續度過每一天XD
 
 Let’s hope better days will come~
-
-—
-
-如果你喜歡我的文章，歡迎加入免費會員追蹤我的部落格，這樣你就不會錯過我每個週末的更新！也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！最近的粉絲數停滯不前，希望大家能多多幫我推廣！你們的鼓勵是支持我繼續寫作下去的動力 :)
-
-有任何問題或是想要看的主題，歡迎留言跟我互動 ^0^
-
-**延伸閱讀**
-
-  * [[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)](/posts/2021-07-06-aws-cbr-life/)
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [[近況] 微軟裁員潮到一個段落…了嗎?](/posts/2023-04-06-2023-layoff/)
 
 {{< footer >}}

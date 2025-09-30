@@ -1,5 +1,5 @@
 ---
-title: "[生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)"
+title: "坎培拉AWS生活四個月分享(2021.03–2021.07)"
 date: 2023-05-06
 slug: "2021-07-06-aws-cbr-life"
 image: "images/medium-0*pNETejXBiiEqjz9b.jpg"
@@ -10,7 +10,7 @@ tags: ["澳洲生活", "坎培拉", "AWS", "職涯"]
 
 * * *
 
-### [生活] 坎培拉AWS生活四個月分享(2021.03–2021.07)
+### 坎培拉AWS生活四個月分享(2021.03–2021.07)
 
 ![坎培拉國會大廈](images/medium-0*pNETejXBiiEqjz9b.jpg)Photo by [Social Estate](https://unsplash.com/@socialestate?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -47,16 +47,5 @@ tags: ["澳洲生活", "坎培拉", "AWS", "職涯"]
 在這邊也認識了一些新朋友(還有我本來就認識的老朋友)，假日我最喜歡跑去不同的地方探險~
 
 唯一的缺點就是這裡真的太冷了，希望冬天趕快過去，還有坎培拉不要再下雨了!
-
-—
-
-如果你喜歡我的文章，歡迎加入免費會員追蹤我的部落格，這樣你就不會錯過我每個週末的更新！也麻煩大家多多幫我推廣給你們的親朋好友，或是任何你們覺得這篇文章會對他們有所幫助的人！最近的粉絲數停滯不前，希望大家能多多幫我推廣！你們的鼓勵是支持我繼續寫作下去的動力 :)
-
-有任何問題或是想要看的主題，歡迎留言跟我互動 ^0^
-
-**延伸閱讀**
-
-  * [[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)
-  * [你不知道的亞馬遜辦公室 — IT 自動販賣機](/posts/2023-03-24-it-vending-machine/)
 
 {{< footer >}}

@@ -1,5 +1,5 @@
 ---
-title: "[旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)"
+title: "2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-4"
 image: "images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg"
@@ -9,7 +9,7 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 ---
 ---
 
-### [旅遊] 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)
+### 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)
 
 ![](images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg)毛巾鱷魚
 
