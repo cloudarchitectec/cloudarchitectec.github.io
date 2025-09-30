@@ -12,7 +12,7 @@ tags: ["職涯", "裁員"]
 
 ### 倖存者日記：沒想到 2025 年還有續集？當裁員成為澳洲科技業的新常態！
 
-![](images/medium-0*dVrFM_l0OZd8FyPr.jpg)Photo by [Andrew Winkler](https://unsplash.com/@andrew_winky?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![職場裁員情境示意圖](images/medium-0*dVrFM_l0OZd8FyPr.jpg)Photo by [Andrew Winkler](https://unsplash.com/@andrew_winky?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 

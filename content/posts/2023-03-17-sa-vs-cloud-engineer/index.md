@@ -12,7 +12,7 @@ tags: ["職涯", "雲端架構師"]
 
 ### 那些沒人告訴你的雲端職位真相：Solution Architect 與 Cloud Engineer 職場日常大揭密！
 
-![](images/medium-0*vud7bfAubM0_9bAN.jpg)Photo by [Jonas Weckschmied](https://unsplash.com/@jweckschmied?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![雲端技術職涯發展示意圖](images/medium-0*vud7bfAubM0_9bAN.jpg)Photo by [Jonas Weckschmied](https://unsplash.com/@jweckschmied?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 > 雖然標題只寫了 Solution Architect 與 Cloud Engineer，但我認為 Software Engineer/Developer 算是大家比較熟悉的工程師相關職位，所以我決定把這個職位也納入討論，希望這三者的職務比較會對大家有所幫助～
 
@@ -30,7 +30,7 @@ tags: ["職涯", "雲端架構師"]
 
 (我沒想到在 Medium 上要插入表格這麼難，我還得先把 word 轉成 pdf 再截圖。如果有人知道更好的方法，請告訴我XD)
 
-![](images/medium-1*pagC-o_q85qAQ1-luqGizQ.png.jpg)![](images/medium-1*MbOfcJtKI4qtU-NFFVxk0w.png.jpg)![](images/medium-1*yPIHVj6MrSCkuJvigRtcFA.png.jpg)
+![技術顧問電子郵件對話](images/medium-1*pagC-o_q85qAQ1-luqGizQ.png.jpg)![雲端解決方案架構師郵件](images/medium-1*MbOfcJtKI4qtU-NFFVxk0w.png.jpg)![雲端工程師職位詢問](images/medium-1*yPIHVj6MrSCkuJvigRtcFA.png.jpg)
 
 ### 職務日常比較 ｜**Day-to-Day life**
 

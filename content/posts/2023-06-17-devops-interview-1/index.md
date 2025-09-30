@@ -1,5 +1,9 @@
 ---
-title: "跨國能源公司 (市值 210 億美元在我發問的部分，我也是直接把訴求表明出來，例如我又問了我最近面試最熱愛的問題「What kind of onboarding support will you provided to new starters? (你們將為新進員工提供什麼樣的新進員工訓練？)」 可惜這場面試是在 [Huli](https://medium.com/u/f1fb3e40dc37) 大大的指點之前，不然我肯定會更具體的問法來表達!!! 關於 Huli 大大的建議，請看這裡:
+title: "跨國能源公司 (市值 210 億美元在我發問在我發問的部分，我也是直接把訴求表明出來，例如我又問了我最近面試最熱愛的問題「What kind of onboarding support will you provided to new starters? (你們將為新進員工提供什麼樣的新進員工訓練？)」 可惜這場面試是在 [Huli](https://medium.com/u/f1fb3e40dc37) 大大的指點之前，不然我肯定會更具體的問法來表達!!! 關於 Huli 大大的建議，請看這裡:
+
+![DevOps面試問題建議與技巧](images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg)
+
+總之 HM 也是說沒有正式的入職訓練 (no formal onboarding support) QAQ，但我緊接著就回說「我會問這個問題是因為在我過往的工作經驗中，有幾個不太好的onboarding 經驗。有些經理什麼訓練都沒有提供，就把我直接丟到客戶面前，讓我過得很辛苦。我是一個剛加入團隊時，需要經理稍微手把手帶著我的人 (need a bit of hand-holding)，但是一旦我熟悉工作流程、熟悉團隊、熟悉文化之後，我其實是可以提供很多團隊貢獻的人 (Once I become comfortable with the process, with the team, with the organization culture, I'm that kind of person who has a lot to contribute)。」也是直接把訴求表明出來，例如我又問了我最近面試最熱愛的問題「What kind of onboarding support will you provided to new starters? (你們將為新進員工提供什麼樣的新進員工訓練？)」 可惜這場面試是在 [Huli](https://medium.com/u/f1fb3e40dc37) 大大的指點之前，不然我肯定會更具體的問法來表達!!! 關於 Huli 大大的建議，請看這裡:
 
 ![DevOps面試問題建議與技巧](images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg)
 
@@ -34,7 +38,7 @@ tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 
 在我發問的部分，我也是直接把訴求表明出來，例如我又問了我最近面試最熱愛的問題「What kind of onboarding support will you provided to new starters? (你們將為新進員工提供什麼樣的新進員工訓練？)」 可惜這場面試是在 [Huli](https://medium.com/u/f1fb3e40dc37) 大大的指點之前，不然我肯定會更具體的問法來表達!!! 關於 Huli 大大的建議，請看這裡:
 
-![](images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg)
+![DevOps面試準備過程圖表](images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg)
 
 總之 HM 也是說沒有正式的入職訓練 (no formal onboarding support) QAQ，但我緊接著就回說「我會問這個問題是因為在我過往的工作經驗中，有幾個不太好的onboarding 經驗。有些經理什麼訓練都沒有提供，就把我直接丟到客戶面前，讓我過得很辛苦。我是一個剛加入團隊時，需要經理稍微手把手帶著我的人 (need a bit of hand-holding)，但是一旦我熟悉工作流程、熟悉團隊、熟悉文化之後，我其實是可以提供很多團隊貢獻的人 (Once I become comfortable with the process, with the team, with the organization culture, I’m that kind of person who has a lot to contribute)。」
 

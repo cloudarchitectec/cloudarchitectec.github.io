@@ -65,6 +65,6 @@ Check-in 時我們選的是 early dine-in，所以5:15 就可以入座用餐了�
 
 渡輪還算平穩，但三不五時還是會有搖晃感，我們倆個人都吃了一顆暈船藥做準備，所以完全沒有不舒服的感覺。但如果特別會暈船的人，可能還是要三思再決定要不要參與遊輪行(或是需要勤奮地吃暈船藥XD)。
 
-![](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
+![遊輪九樓露天電影院設施](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
 
 {{< footer >}}

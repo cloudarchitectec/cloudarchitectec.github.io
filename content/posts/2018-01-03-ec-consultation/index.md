@@ -8,7 +8,7 @@ categories: ["職涯"]
 tags: ["職涯", "海外職場", "面試", "履歷"]
 ---
 
-![](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg)Architecting Career Success Beyond the Cloud
+![EC職涯諮詢服務品牌標誌](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg)Architecting Career Success Beyond the Cloud
 
 ### 🔔 服務升級公告：諮詢服務全面優化 (18/07/2025 更新)
 
@@ -34,7 +34,7 @@ tags: ["職涯", "海外職場", "面試", "履歷"]
 
 這不是制式化的模板問答，而是根據你的背景與困境，進行一對一、量身打造的職涯診斷，並提供主題式的策略建議。
 
-![](images/medium-1*H9WpBHFGIQ2C-tuiTvAiHg.png.jpg)
+![職涯諮詢服務介紹圖表](images/medium-1*H9WpBHFGIQ2C-tuiTvAiHg.png.jpg)
 
   * **🎯 職涯定位諮詢 (60分鐘，$69 AUD)** ：為職涯迷惘者或轉職新手量身打造，協助你釐清方向，深入解讀澳洲職場文化與職涯趨勢，快速找到前進的路徑。
   * **💬 英文面試實戰 (60分鐘，$89 AUD)** ：模擬真實面試情境，45分鐘深度練習＋15分鐘策略解析，針對職位量身打造你的最佳應答，讓你自信出擊。

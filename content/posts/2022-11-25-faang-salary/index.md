@@ -12,7 +12,7 @@ tags: ["職涯", "科技業", "海外職場", "薪資"]
 
 ### 科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?
 
-![Australian notes and coins \(AUD\)](images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg)
+![澳洲貨幣薪資結構分析](images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg)
 
 * * *
 

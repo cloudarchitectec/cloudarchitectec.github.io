@@ -18,11 +18,11 @@ tags: ["職涯", "轉職工程師"]
 
 上週我在 LinkedIn 上發表了一篇文章，跟大家分享我的新工作，還有我轉職的心路歷程，談我一路怎麼從英文系、移民澳洲並成為紐澳會計師協會的Senior Accounting Assessor (工作內容是協助澳洲移民局審核澳洲會計師移民資格)、辭掉安定的工作去讀程式訓練營、加入 AWS 成為 Technical Consultant、加入微軟成為 Solution Architect，最近又轉職成 DevOps Engineer 的故事，收到了不少迴響。
 
-![](images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png.jpg)LinkedIn Post about my new job as DevOps Engineer
+![LinkedIn轉職經驗分享文章](images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png.jpg)LinkedIn Post about my new job as DevOps Engineer
 
 幾天後，我收到了一封很溫暖的訊息！來自我的 AWS 前同事感謝我撥出時間跟她的 mentee 分享我的轉職心得。在這篇 LinkedIn 文章發表後，我又收到幾位同樣轉職成功或是正在轉職路上的人私訊我，希望我能給他們一些意見。
 
-![](images/medium-1*O7vFsi0MX11kiDTCGNydUg.png.jpg)
+![轉職成功者後續發展經驗談](images/medium-1*O7vFsi0MX11kiDTCGNydUg.png.jpg)
 
 於是興起了我想要寫這篇文章的念頭！
 
