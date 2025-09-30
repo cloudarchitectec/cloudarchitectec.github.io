@@ -2,13 +2,7 @@
 title: "經營 Medium 一年，我到底賺了多少錢？"
 date: 2023-11-25
 slug: "2023-11-25-medium-earning"
-image: "images/me答案是 $50.62 澳幣，也就是約 1054 台幣，甚至還不夠付我的 Medium 會員費哈哈哈
-
-![Medium寫作平台年度收入](images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg)Medium income
-
-我目前為止有 403 個粉絲，38個人使用 email 訂閱我的 Medium，平均來說每個月閱讀次數大概是 5000。
-
-![Medium粉絲追蹤數量統計](images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg)粉絲數量![Medium文章月度閱讀數據](images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg)文章閱讀次數IcY5dAmbSyvZdlXl.jpg"
+image: "images/medium-0*IcY5dAmbSyvZdlXl.jpg"
 images: ['images/medium-0*IcY5dAmbSyvZdlXl.jpg', 'images/medium-1*FHBszSnAcT6KbLuEzONPlg.png.jpg', 'images/medium-1*WiMdaXsTAlswUtPIgTwfyA.png.jpg', 'images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg', 'images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg', 'images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]

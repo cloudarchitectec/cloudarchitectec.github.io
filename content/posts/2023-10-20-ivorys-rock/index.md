@@ -1,23 +1,5 @@
 ---
-title: "### 澳洲布里斯本營地是距離我們家開車約1.5小時，在這是一個超級大的華人露營團，加起來大概有20–30個人，還有各種年紀的大小朋友(小朋友基本上都是移民二代，完全都是英文溝通)。在這趟旅程中也觀察到不同家庭的教育方式，以及體會到移民一代與二代之間微妙的家庭關係，覺得很有趣。
-
-![澳洲露營豪華帳篷設施](images/medium-1*TEbFVZ6ST0uyTaPcC9S4Bw.jpeg.jpg)![澳洲露營車輛與設備](images/medium-1*OzBtDbWfGdtFiPwEs6hBUg.jpeg.jpg)同行友人的其中一個豪華帳篷，還有人開露營車來
-
-露營少不了營火跟烤棉花糖！
-
-我們就靠著我們的 s'more 工廠，成功成為小朋友們最愛的阿姨😆(s'more 是美國人最愛的露營點心，作法是在一片 grain cracker 上放上一片巧克力，然後把烤過的棉花糖放上去，用棉花糖的熱度來融化巧克力，最後再放上一片grain cracker 夾起來)，超級好吃😋😋😋
-
-![澳洲露營營火生活](images/medium-1*0iw3EDTqN4ruET_pNCZZ9g.jpeg.jpg)![澳洲露營Smore棉花糖點心](images/medium-1*bqJrXdhSHXUUQLlgAdNgRQ.jpeg.jpg)營火以及受到小朋友喜愛的 s'moreIvory's Rocks: <https://www.ivorysrock.org.au/>
-
-![澳洲露營營地環境](images/medium-1*QHL554_H2WPCApfkYPymuA.jpeg.jpg)營地一角
-
-由於我們不想在還沒有確定自己是否喜歡露營前投資太多設備，所以沒有買帳篷，而是選擇住貨櫃屋(cabin)裡。
-
-![澳洲露營小屋與車輛](images/medium-1*EdUTjlQcoOL7Bl5YLSQlgg.jpeg.jpg)小屋與我的 i30營就上手？Ivory's Rock 露營初體驗
-
-![澳洲露營生活體驗](images/medium-0*PCoJ-Bt57jcje8VH.jpg)Photo by [Tegan Mierle](https://unsplash.com/@tegan?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
-應前微軟同事 JJ 之邀 (不是唱歌的那位，雖然他自己也是帶著個人麥克風在營地狂唱！而且身為一個中國人還會唱「愛拼才會贏」，我真心是在現場狂笑不已XDDDD)，我跟室友 C 首次嘗試了澳洲露營😆本：人生第一次露營就上手？Ivory’s Rock 露營初體驗"
+title: "澳洲布里斯本：人生第一次露營就上手？Ivorys Rock 露營初體驗"
 date: 2023-10-20
 slug: "2023-10-20-ivorys-rock"
 image: "images/medium-0*PCoJ-Bt57jcje8VH.jpg"
@@ -28,7 +10,7 @@ tags: ["澳洲生活"]
 
 * * *
 
-### 澳洲布里斯本：人生第一次露營就上手？Ivory’s Rock 露營初體驗
+### 澳洲布里斯本：人生第一次露營就上手？Ivorys Rock 露營初體驗
 
 ![](images/medium-0*PCoJ-Bt57jcje8VH.jpg)Photo by [Tegan Mierle](https://unsplash.com/@tegan?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

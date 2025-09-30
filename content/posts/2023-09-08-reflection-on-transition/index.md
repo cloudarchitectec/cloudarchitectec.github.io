@@ -12,7 +12,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### 轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思
 
-![](images/medium-0*RZlpg-Oae0Ai-ckp.jpg)Photo by [Federico Beccari](https://unsplash.com/@federize?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![FAANG工程師轉職成功反思](images/medium-0*RZlpg-Oae0Ai-ckp.jpg)Photo by [Federico Beccari](https://unsplash.com/@federize?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 

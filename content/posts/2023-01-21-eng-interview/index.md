@@ -12,7 +12,7 @@ tags: ["職涯", "面試", "求職", "澳洲生活"]
 
 ### 澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略
 
-![a person doing video call](images/medium-0*3NXkWf7Nc8zqLlyb.jpg)Photo by [LinkedIn Sales Solutions](https://unsplash.com/ja/@linkedinsalesnavigator?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![澳洲英文職場面試準備策略](images/medium-0*3NXkWf7Nc8zqLlyb.jpg)Photo by [LinkedIn Sales Solutions](https://unsplash.com/ja/@linkedinsalesnavigator?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 今天想要簡單分享一下，在澳洲超過十年的我，收到面試通知時，會如何準備英文職場面試。
 

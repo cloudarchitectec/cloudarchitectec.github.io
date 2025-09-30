@@ -1,9 +1,5 @@
 ---
-title: "2023.05.16 CarCarnival 有一個手機 App 叫 Carnival Hub，非常好用。只要連接上遊輪的免費 wifi (免費 wifi 只能拿來看 Carnival Hub，沒有辦法上其他網站)，你就可以在 Food & Drinks 裡看到 main dining room 每天的早餐/晚餐菜單 & 其他餐廳的營業時間、What's Happening 李可以看到每天的活動清單(喜歡的話可以存成書籤，跟你同房的人也會看到你標註了感興趣的活動)，還可以在 Wall of Moments 裡上傳自己遊輪行程的照片與同船的人分享。
-
-![Carnival Hub手機應用程式介面](images/medium-1*HAJu3QMuwOx5D1Fulmf_QA.jpeg.jpg)
-
-**陰天** Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1"
+title: "2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1"
 date: 2023-05-28
 slug: "2023-05-28-carnival-splendor-day-2"
 image: "images/medium-0*xfQ3sXJxvDvXfgLi.jpg"

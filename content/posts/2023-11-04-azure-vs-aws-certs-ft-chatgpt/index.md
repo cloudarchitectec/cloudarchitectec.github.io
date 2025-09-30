@@ -10,7 +10,7 @@ tags: ["職涯", "AWS"]
 
 ### 微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更會考證照考試？順利更新 Azure Solutions Architect Expert 證照！
 
-![](images/medium-0*IHdurgjhEtnGcDd7.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![Azure與AWS雲端證照更新比較](images/medium-0*IHdurgjhEtnGcDd7.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
@@ -20,7 +20,7 @@ tags: ["職涯", "AWS"]
 
 在過去三年內我考過了 5 張微軟 Azure 雲端證照以及 6 張 AWS 雲端證照。
 
-![](images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png.jpg)![](images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png.jpg)11 張雲端證照
+![Azure雲端證照成就展示](images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png.jpg)![AWS雲端證照成就展示](images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png.jpg)11 張雲端證照
 
 會考這麼多，一方面是因為我之前在微軟和 AWS 工作，證照費由公司全額補助 (仔細想想賺了大概 2000–3000 澳幣的證照費XD)，另一方面可能是因為我那時候剛入行，比較有衝勁，而且還很閒(?)
 

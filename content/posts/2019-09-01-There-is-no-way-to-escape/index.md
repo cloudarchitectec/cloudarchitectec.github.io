@@ -12,7 +12,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### **零基礎轉職澳洲工程師: 2019.09.01** There is no way to escape!
 
-![](images/medium-0*Ajqd_LT2PTta4eAV.jpg)Photo by [EXPANALOG](https://unsplash.com/@diogo_ferrer?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式學習無處可逃的挑戰](images/medium-0*Ajqd_LT2PTta4eAV.jpg)Photo by [EXPANALOG](https://unsplash.com/@diogo_ferrer?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
@@ -81,7 +81,7 @@ o practice & timing
 
 PS: 壓力大果然讓人想狂花錢，在外面吃完晚餐後，我還跑去星巴克點了一杯熱巧(最便宜的選項，最小杯加自帶杯子只要$4)準備重新讀一下作業規定再回家。沒想到裡面居然還有棉花糖跟鮮奶油，重點是莫名的好喝耶💗~~~
 
-![](images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg)
+![星巴克熱巧克力紓壓療癒時光](images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg)
 
 總之接下來幾天我可能會連睡覺的時間都沒有嗚嗚嗚嗚嗚😭💀💀
 

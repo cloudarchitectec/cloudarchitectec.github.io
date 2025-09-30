@@ -10,7 +10,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### **零基礎轉職澳洲工程師:** 2019.08.29 How to Position Yourself
 
-![](images/medium-0*iZtyKyiPS0vLmaDT.jpg)Photo by [Aziz Acharki](https://unsplash.com/@acharki95?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式設計職場定位策略思考](images/medium-0*iZtyKyiPS0vLmaDT.jpg)Photo by [Aziz Acharki](https://unsplash.com/@acharki95?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

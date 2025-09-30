@@ -12,7 +12,7 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 ### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting
 
-![](images/medium-0*XTejTjV9ZtCU27LU.jpg)Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![微軟雲端架構技術方案](images/medium-0*XTejTjV9ZtCU27LU.jpg)Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
@@ -58,13 +58,13 @@ tags: ["職涯", "微軟", "雲端架構師"]
   2. **Logic Tier** ：這一層就是廣義的後端 (backend)，是用來運行企業商業邏輯的 application servers。
   3. **Data Tier** ：這一層就是廣義的資料庫 (databases)。
 
-![](images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg)圖 1: Three-Tier Web App Concept
+![三層式網頁應用程式概念圖](images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg)圖 1: Three-Tier Web App Concept
 
 ### **接著讓我們把這個概念轉換成雲端架構，這裡以 AWS 為例。**
 
 我先做個簡單的一對一圖示，請注意這裡的每一個服務，都有其他替代選項。我只是先挑一個常見的AWS雲服務作為案例，實際上企業會選擇哪一個AWS雲服務，需要靠雲端架構師了解客戶的需求，經由多次討論之後才會下決定。
 
-![](images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg)圖 2: Three-Tier Web App on AWS (Super Simplified Version)
+![AWS三層式架構簡化版](images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg)圖 2: Three-Tier Web App on AWS (Super Simplified Version)
 
   * **Stage 1** ：我先簡單分為靜態內容跟動態內容。靜態內容，例如圖片或是簡單的html/CSS， 通常會放在 S3，也就是 AWS 的 Object Storage Service。這樣做的主要原因是就費用來說 S3 會比 EC2 便宜很多，所以靜態內容放那邊就可以了。如果是動態內容的話，可以放在 EC2 server 上。
   * **Stage 2：** 最簡單直接的方式就是直接用 EC2 server (就 cloud migration 來說的術語叫做 lift and shift，就是把本來在實體機房的實體伺服器搬到AWS雲上變成 EC2 server)。其他的選擇有: 使用 container，此時可以選的 AWS 雲服務有 ECS 或是 EKS，選哪個就根據企業想要對於他們的 container instance 有多少控制而定。或是走 serverless 路線的話，這裡會用的AWS 雲服務就是 Lambda functions。
@@ -76,7 +76,7 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 ### **一般來說，AWS 的 web application 架構圖 (solution design) 會長這樣：**
 
-![](images/medium-0*S01TqTt4irw1xdCl.png.jpg) 圖 3: Three-Tier Web App on AWS (AWS simplified version)
+![AWS三層式網頁應用程式架構圖](images/medium-0*S01TqTt4irw1xdCl.png.jpg) 圖 3: Three-Tier Web App on AWS (AWS simplified version)
 
 這裡添加的新元素有：
 

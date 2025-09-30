@@ -1,10 +1,6 @@
 ---
 title: "2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船"
-d渡輪還算平穩，但三不五時還是會有搖晃感，我們倆個人都吃了一顆暈船藥做準備，所以完全沒有不舒服的感覺。但如果特別會暈船的人，可能還是要三思再決定要不要參與遊輪行(或是需要勤奮地吃暈船藥XD)。
-
-![郵輪九樓戶外電影院](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
-
-{{< footer >}}2023-05-15
+date: 2023-05-15
 slug: "2023-05-15-carnival-splendor-day-1"
 image: "images/medium-0*_BLHxdyFQQzbm-Sg.jpg"
 images: ['images/medium-0*_BLHxdyFQQzbm-Sg.jpg', 'images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg', 'images/medium-1*x6LKifrtorOnK9sxiX0h9Q.jpeg.jpg', 'images/medium-1*D0Jc3uYW_mTTSjCQCjSIdA.jpeg.jpg', 'images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpeg.jpg', 'images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpeg.jpg', 'images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpeg.jpg', 'images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg']

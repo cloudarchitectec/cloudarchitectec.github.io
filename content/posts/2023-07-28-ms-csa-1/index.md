@@ -12,7 +12,7 @@ tags: ["職涯", "微軟"]
 
 ### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart
 
-![](images/medium-0*K1HNZvbky5n_Ejol.jpg)Photo by [Smartworks Coworking](https://unsplash.com/@smartworkscoworking?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![微軟雲端架構師辦公環境](images/medium-0*K1HNZvbky5n_Ejol.jpg)Photo by [Smartworks Coworking](https://unsplash.com/@smartworkscoworking?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
@@ -55,7 +55,7 @@ tags: ["職涯", "微軟"]
   * **階段 2 & 3 由 STU 負責**：Specialist 是銷售人員。FY24 之後會有一個 TS 職位，也就是 Specialist 的 technical counterpart，負責技術相關的部分。TS 雖然是 FY24的新職缺，但其實微軟以前是有這個職位的，只不過他們五年前因為組織改革 (re-orgnisation) 的原因，把這個職位移除了。沒想到五年後這個職位又復活了XD
   * **階段 4 & 5 由 CSU 負責：**在沒有 TS之前，CSA (也就是我)就是 Specialist 的 technical counterpart，也就是說當 Specialist 跟客戶談好，確定他們的 requirmetns, solution design, project plan & expected Azure costs 之後，就由CSA接手，負責確保客戶最終在 Azure 上的部署能順利完成。
 
-![](images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png.jpg)Core Org Chart
+![微軟核心組織架構圖](images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png.jpg)Core Org Chart
 
 好，請大家靜下心來看一下這張圖，你們覺得上面這張圖有什麼問題?
 
@@ -71,7 +71,7 @@ tags: ["職涯", "微軟"]
   * **Support:** 技術職，Support 可以看到後端數據，這是上面三個組跟我本人都做不到的，所以如果客戶有 implementation 跟 troubleshooting 相關的問題，我們一律建議你直接在 Azure 平台上 raise support tickets 就可以了。你寄信給我是沒有用的，因為我沒有後台權限。而且說真的，不管是CSA、Corp CSA、FastTrack、GBB 能給的都是 advisory guidance，實作上面你問我們真的是沒有用，我們最多也只能在自己的 Azure portal 上試圖模擬一下。但如果你是相關人士，你就知道企業客戶的 production scale deployment 豈是我在自己的 Azure portal 上能模擬的XD
   * **PG:** 技術職，負責真正開發 Azure services 的工程師，通常都在西雅圖。基本上除非你的CSA有特殊關係，不然是找不到 PG 來幫忙的。(像我就沒有特殊關係lol)
 
-![](images/medium-1*U4ue47g8V7hSuywpvW0e0w.png.jpg)Extended Core Org Chart
+![微軟擴展組織架構圖](images/medium-1*U4ue47g8V7hSuywpvW0e0w.png.jpg)Extended Core Org Chart
 
 這也是為什麼我一開始加入微軟時總是昏頭轉向，因為光是技術職位就有 ATS、TS (這個是新的)、CSA x3、Corp CSA x 無限 (他們是分技術領域的，例如 networking、IoT、container 等等)、GBB x 10 (他們是分產品的，例如 networking、AVD、W365 等等)，還有 Support 跟 PG。一開始我遇到解決不了的技術問題，根本不知道要從哪個方向找資源，然後帶我的人也沒教。反正一切就是做中學，錯中學吧?XD
 
