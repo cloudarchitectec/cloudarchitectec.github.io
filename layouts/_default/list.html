@@ -214,24 +214,184 @@
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
   <nav class="pagination">
-    {{- if $paginator.HasPrev }}
-    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
-      «&nbsp;{{ i18n "prev_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}
-      {{- end }}
-    </a>
-    {{- end }}
-    {{- if $paginator.HasNext }}
-    <a class="next" href="{{ $paginator.Next.URL | absURL }}">
-      {{- i18n "next_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}
-      {{- end }}&nbsp;»
-    </a>
-    {{- end }}
+    <!-- Enhanced Pagination with Jump-to-Page -->
+    <div class="pagination-container">
+      <!-- First and Previous buttons -->
+      <div class="pagination-nav">
+        {{- if $paginator.HasPrev }}
+        <a class="nav-btn first" href="{{ $paginator.First.URL | absURL }}" title="第一頁">«« 首頁</a>
+        <a class="nav-btn prev" href="{{ $paginator.Prev.URL | absURL }}" title="上一頁">‹ 上一頁</a>
+        {{- else }}
+        <span class="nav-btn disabled">«« 首頁</span>
+        <span class="nav-btn disabled">‹ 上一頁</span>
+        {{- end }}
+      </div>
+
+      <!-- Page Numbers and Jump Input -->
+      <div class="pagination-center">
+        <span class="page-info">第 {{ $paginator.PageNumber }} 頁，共 {{ $paginator.TotalPages }} 頁</span>
+        <div class="jump-to-page">
+          <label for="pageJump">跳至：</label>
+          <input type="number" id="pageJump" min="1" max="{{ $paginator.TotalPages }}" value="{{ $paginator.PageNumber }}">
+          <button onclick="jumpToPage()">前往</button>
+        </div>
+      </div>
+
+      <!-- Next and Last buttons -->
+      <div class="pagination-nav">
+        {{- if $paginator.HasNext }}
+        <a class="nav-btn next" href="{{ $paginator.Next.URL | absURL }}" title="下一頁">下一頁 ›</a>
+        <a class="nav-btn last" href="{{ $paginator.Last.URL | absURL }}" title="最後一頁">末頁 »»</a>
+        {{- else }}
+        <span class="nav-btn disabled">下一頁 ›</span>
+        <span class="nav-btn disabled">末頁 »»</span>
+        {{- end }}
+      </div>
+    </div>
   </nav>
 </footer>
+
+<!-- JavaScript for Jump-to-Page functionality -->
+<script>
+function jumpToPage() {
+  const pageInput = document.getElementById('pageJump');
+  const pageNum = parseInt(pageInput.value);
+  const totalPages = {{ $paginator.TotalPages }};
+  
+  if (pageNum && pageNum >= 1 && pageNum <= totalPages) {
+    const currentUrl = window.location.pathname;
+    const baseUrl = currentUrl.replace(/\/page\/\d+\/?$/, '');
+    
+    let targetUrl;
+    if (pageNum === 1) {
+      targetUrl = baseUrl || '/';
+    } else {
+      targetUrl = baseUrl + '/page/' + pageNum + '/';
+    }
+    
+    window.location.href = targetUrl;
+  } else {
+    alert('請輸入有效的頁碼 (1-' + totalPages + ')');
+  }
+}
+
+// Allow Enter key to trigger jump
+document.getElementById('pageJump').addEventListener('keypress', function(e) {
+  if (e.key === 'Enter') {
+    jumpToPage();
+  }
+});
+</script>
+
+<!-- Enhanced Pagination Styles -->
+<style>
+.pagination-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--theme);
+}
+
+.pagination-nav {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.nav-btn {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--primary);
+  background: var(--theme);
+  transition: all 0.2s ease;
+  font-size: 0.9rem;
+}
+
+.nav-btn:hover:not(.disabled) {
+  background: var(--border);
+  transform: translateY(-1px);
+}
+
+.nav-btn.disabled {
+  color: var(--secondary);
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.pagination-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.page-info {
+  font-size: 0.9rem;
+  color: var(--primary);
+  font-weight: 500;
+}
+
+.jump-to-page {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.jump-to-page label {
+  color: var(--primary);
+}
+
+.jump-to-page input {
+  width: 60px;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-align: center;
+  background: var(--theme);
+  color: var(--primary);
+}
+
+.jump-to-page button {
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--primary);
+  color: var(--theme);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.8rem;
+}
+
+.jump-to-page button:hover {
+  background: var(--secondary);
+  transform: translateY(-1px);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .pagination-container {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .pagination-nav {
+    justify-content: center;
+  }
+  
+  .nav-btn {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
+  }
+}
+</style>
 {{- end }}
 
 {{- end }}{{/* end profileMode */}}

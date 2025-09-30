@@ -10,6 +10,11 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 
+# Pagination settings (Hugo v0.128.0+ format)
+[pagination]
+  pagerSize = 8  # Number of posts per page
+  path = "page"   # URL structure: /page/2/
+
 # URL configuration for Chinese characters
 removePathAccents = false
 disablePathToLower = true
@@ -45,6 +50,7 @@ disablePathToLower = true
   hideSummary = false
   showtoc = true
   tocopen = false
+  ShowPageNums = true  # Enable page numbers in pagination
 
   # Fuzzy search configuration optimized for Traditional Chinese
   [params.fuseOpts]
