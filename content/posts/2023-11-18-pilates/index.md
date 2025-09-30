@@ -12,7 +12,7 @@ tags: ["澳洲生活", "健身"]
 
 ### 我在澳洲練皮拉提茲：Studio Pilates vs Pronto Pilates 課程比較
 
-![](images/medium-0*RRTjZyO7i2FCSmM-.jpg)Photo by [freya yanggg yang](https://unsplash.com/@freyayangg?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![澳洲皮拉提茲健身運動](images/medium-0*RRTjZyO7i2FCSmM-.jpg)Photo by [freya yanggg yang](https://unsplash.com/@freyayangg?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 為什麼開始皮拉提茲 (pilates)
 
@@ -36,7 +36,7 @@ tags: ["澳洲生活", "健身"]
 
 ### 什麼是皮拉提茲
 
-![](images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpeg.jpg)![](images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpeg.jpg)皮拉提茲教室與器材
+![澳洲皮拉提茲教室設備](images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpeg.jpg)![澳洲皮拉提茲器材環境](images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpeg.jpg)皮拉提茲教室與器材
 
 皮拉提斯是一種以整合身體與心靈為目標的運動方式，由德國人約瑟夫·皮拉提斯（Joseph Pilates）在20世紀初所創立。這種運動方法強調控制、中心力量、流動性、精確度和呼吸的結合，以提升身體的平衡、柔韌性和肌肉力量。皮拉提斯會透過特殊的運動設備來進行，號稱即使是身體有傷痛的人，也可以透過器材的輔助，進行全面的鍛練，適合各個年齡層和體能水平的人。
 
@@ -48,7 +48,7 @@ tags: ["澳洲生活", "健身"]
 
 
 
-![](images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpeg.jpg)![](images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpeg.jpg)除了基本的 reformer 機器之外，還會有啞鈴、彈力環、彈力球等其他輔助道具
+![澳洲皮拉提茲啞鈴器材](images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpeg.jpg)![澳洲皮拉提茲彈力球設備](images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpeg.jpg)除了基本的 reformer 機器之外，還會有啞鈴、彈力環、彈力球等其他輔助道具
 
 ### Studio Pilates 與 Pronto Pilates 課程比較
 
@@ -70,7 +70,7 @@ Pronto Pilates 則是在課程的前後會加上兩個跟瑜伽很類似的暖�
 
 皮拉提茲的課程主要是透過這個黑色的 reformer 的器材輔助來進行。機器上面會有不同重量的彈簧（以顏色標示）。根據不同動作，以及每個人的身體強度，可以自由調整重量。
 
-![](images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpeg.jpg)![](images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpeg.jpg)Reformer 與彈簧
+![澳洲皮拉提茲Reformer器材](images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpeg.jpg)![澳洲皮拉提茲彈簧重量設定](images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpeg.jpg)Reformer 與彈簧
 
 Studio Pilates 的動作的連續性有時候設計的滿不流暢的，一下子做上半身、一下子做下半身，然後彈簧的強度有時候每個動作都要調一次，讓人有一種身體一直移來移去不知道在忙什麼的感覺XDD
 

@@ -2,7 +2,13 @@
 title: "經營 Medium 一年，我到底賺了多少錢？"
 date: 2023-11-25
 slug: "2023-11-25-medium-earning"
-image: "images/medium-0*IcY5dAmbSyvZdlXl.jpg"
+image: "images/me答案是 $50.62 澳幣，也就是約 1054 台幣，甚至還不夠付我的 Medium 會員費哈哈哈
+
+![Medium寫作平台年度收入](images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg)Medium income
+
+我目前為止有 403 個粉絲，38個人使用 email 訂閱我的 Medium，平均來說每個月閱讀次數大概是 5000。
+
+![Medium粉絲追蹤數量統計](images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg)粉絲數量![Medium文章月度閱讀數據](images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg)文章閱讀次數IcY5dAmbSyvZdlXl.jpg"
 images: ['images/medium-0*IcY5dAmbSyvZdlXl.jpg', 'images/medium-1*FHBszSnAcT6KbLuEzONPlg.png.jpg', 'images/medium-1*WiMdaXsTAlswUtPIgTwfyA.png.jpg', 'images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg', 'images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg', 'images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg', 'images/buy-me-coffee.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]
@@ -12,7 +18,7 @@ tags: ["澳洲生活"]
 
 ### 經營 Medium 一年，我到底賺了多少錢？
 
-![](images/medium-0*IcY5dAmbSyvZdlXl.jpg)Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![Medium寫作收入分析](images/medium-0*IcY5dAmbSyvZdlXl.jpg)Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 來賓請掌聲鼓勵鼓勵
 
@@ -88,13 +94,13 @@ Medium 的文章收入計算其實非常複雜！雖然官方有公佈一些計�
 
 詳細規定請參考[這裡](https://help.medium.com/hc/en-us/articles/360036691193)，但算式大概是這樣的：
 
-![](images/medium-1*FHBszSnAcT6KbLuEzONPlg.png.jpg)Medium 文章收入官方算式
+![Medium收入計算公式](images/medium-1*FHBszSnAcT6KbLuEzONPlg.png.jpg)Medium 文章收入官方算式
 
 以我最近發表的某一篇文章為例，這篇文章在 11 月幫我賺了 $2.58。143 個 文章瀏覽次數 (views，意即「點開文章的人」) 中，只有 20個人是會員。111的文章閱讀次數 (reads，意即「點開文章之後，真的有看文章的人」) 中，只有 19 個人是會員。
 
 其實我的轉換率還是不錯的(95%)，20 個會員裡面有 19 個人有閱讀文章。但是這也就表示我這篇的文章收入主要就是來自那 19 個人的閱讀。
 
-![](images/medium-1*WiMdaXsTAlswUtPIgTwfyA.png.jpg)
+![Medium文章收入詳細數據](images/medium-1*WiMdaXsTAlswUtPIgTwfyA.png.jpg)
 
 ### 我的 Medium 收入
 
@@ -104,11 +110,11 @@ Medium 的文章收入計算其實非常複雜！雖然官方有公佈一些計�
 
 答案是 $50.62 澳幣，也就是約 1054 台幣，甚至還不夠付我的 Medium 會員費哈哈哈
 
-![](images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg)Medium income
+![Medium年度收入總計](images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpeg.jpg)Medium income
 
 我目前為止有 403 個粉絲，38個人使用 email 訂閱我的 Medium，平均來說每個月閱讀次數大概是 5000。
 
-![](images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg)粉絲數量![](images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg)文章閱讀次數
+![Medium粉絲數量統計](images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg)粉絲數量![Medium文章閱讀次數統計](images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg)文章閱讀次數
 
 其實真的算是非常小咖啦！而且仔細一看就會發現付出跟收入完全不符合正比，感覺真的就是在用愛發電😆
 
