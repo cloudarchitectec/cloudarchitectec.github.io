@@ -1,5 +1,11 @@
 ---
-title: "澳洲布里斯本：開車可抵達的可愛小島 Bribie Island 一日遊，陽光、沙灘、放空"
+title: "澳洲布里斯本：開車可抵達的可愛小島 Bribie Island接著就是前往今天的重頭戲 Bribie Island 了，這個島跟澳洲本土有個跨海大橋連接，所以不用坐船，一到達島上我們立刻驚呼連連，這個島實在太美了!
+
+![Bribie Island 布里比島美麗的海岸線風景](images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpeg.jpg)Bribie Island 一景
+
+我們兩個先在免費的博物館裡玩得不亦樂乎，然後就去吃了當地知名的炸魚薯條店 [Savige's Seafood](https://maps.app.goo.gl/vjGiqj46dK4dPDgo8?g_st=ic)，真心好吃耶！
+
+![Savige's Seafood 炸魚薯條店外觀](images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpeg.jpg)![Savige's Seafood 新鮮美味的炸魚薯條餐點](images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpeg.jpg)Savige's Seafood、沙灘、放空"
 date: 2023-09-15
 slug: "2023-09-15-bribie-island"
 image: "images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg"
@@ -12,7 +18,7 @@ tags: ["澳洲生活", "旅遊"]
 
 ### 澳洲布里斯本：開車可抵達的可愛小島 Bribie Island 一日遊，陽光、沙灘、放空
 
-![](images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg)Bribie Island on Google Maps
+![Bribie Island 位於布里斯本北方](images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg)Bribie Island on Google Maps
 
 ### 前言
 
@@ -39,7 +45,7 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 一開始我們先到了一家位於卡布丘的咖啡店 [**Gather & Feast**](https://maps.app.goo.gl/bGFKDigfQJPu1FmcA?g_st=ic)，裝潢非常有氣氛！我們看到別桌客人的餐點份量都很巨大、擺盤也都很美，不過藉於我們剛吃完早餐才出門，所以這次就只點了咖啡，他們的咖啡非常好喝(雖然拉花有點弱)，我們已經決定會再拜訪這家店！
 
-![](images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg)![](images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg)![](images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg)Gather & Feast
+![Gather & Feast 咖啡店內部裝潢](images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg)![Gather & Feast 咖啡店精緻的咖啡拉花](images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg)![Gather & Feast 咖啡店溫馨的用餐環境](images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg)Gather & Feast
 
 接著就是前往今天的重頭戲 Bribie Island 了，這個島跟澳洲本土有個跨海大橋連接，所以不用坐船，一到達島上我們立刻驚呼連連，這個島實在太美了!
 

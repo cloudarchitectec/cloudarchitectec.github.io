@@ -24,7 +24,7 @@ tags: ["投資理財", "ETF", "退休規劃"]
 
 台灣市場則大約是 0.8%。雖然台灣的經濟規模相對較小，但在全球供應鏈中特別是科技產業（如半導體）中扮演著極其重要的角色，例如台積電（TSMC）在全球技術和製造領域的影響力非常顯著。雖然台灣佔全球經濟總量的比例不大，但在高科技產業中有著極大的戰略性影響喔～
 
-![](images/medium-0*3cOpRFYR1oXIZ7jk.jpg)Photo by [Tyler Prahm](https://unsplash.com/@tprahm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![投資理財概念圖](images/medium-0*3cOpRFYR1oXIZ7jk.jpg)Photo by [Tyler Prahm](https://unsplash.com/@tprahm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 最常見的澳洲 ETF 投資組合
 
@@ -92,7 +92,7 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 
 首先要找到 ETF Fact Sheet 非常簡單，只要搜尋你想要的 ETF code + fact sheet 即可，例如搜尋 VAS fact sheet 我們就會得到以下的兩頁 PDF: [VAS Fact Sheet](https://fund-docs.vanguard.com/ETF-Vanguard_Australian_Shares_Index_ETF_8205_FS_VAS.pdf) (fact sheet 通常會每季更新，所以大家到時候要記得去看最新的資料喔)
 
-![](images/medium-1*lZtU1hwdWibQV_2JVCJHBw.png.jpg)
+![Vanguard VAS ETF 基金說明書第一頁，顯示基金基本資訊與管理費](images/medium-1*lZtU1hwdWibQV_2JVCJHBw.png.jpg)
 
 第一頁裡我們主要關注的是以下資訊：
 

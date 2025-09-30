@@ -10,7 +10,7 @@ tags: ["旅遊", "斐濟"]
 
 ### 2022.10.10 斐濟自助旅遊 Day 1: 初來乍到之這裡真的不是屏東嗎?
 
-![](images/medium-0*O5Bsg-U6NkTtsexS.jpg)從雪梨機場出發
+![雪梨機場航廈出發大廳](images/medium-0*O5Bsg-U6NkTtsexS.jpg)從雪梨機場出發
 
 * * *
 
@@ -32,7 +32,7 @@ tags: ["旅遊", "斐濟"]
 
 雖然我是在 Qantas 澳航網站上訂的票，但航班是 Jetstar 捷星的。出發前查了航班詳情才知道這班飛機沒有附餐，沒想到正當我在飛機上睡得迷迷糊糊時，空姐突然叫醒我跟我說，我的機票有附 $15 credit（看來透過澳航的網站訂捷星的航班還是有點好處?XD），於是就獲得了 chicken wrap $11 & orange juice $4（作為一個精打細算的台灣人，就是要迅速找出菜單上的15元最佳解XD）。
 
-![](images/medium-0*Ur3Ct6osVz0SMS2S.jpg)飛機餐
+![Jetstar 捷星航空雞肉捲與柳橙汁飛機餐](images/medium-0*Ur3Ct6osVz0SMS2S.jpg)飛機餐
 
 ### 抵達 Nadi 楠迪機場
 
