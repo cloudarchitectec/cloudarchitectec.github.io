@@ -13,9 +13,7 @@ author: "EC"
 
 ![Hello](images/medium-0*s8lY75qUNwwZVglG.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-突然想到我好像還沒有正式介紹過自己！
-
-剛好最近剛好有機會整理了一下自己的學經歷，列出來之後發現自己真的是做了很多事呢 (讓我覺得做了這麼多事也代表我的人生沒有白活XD)！
+最近剛好有機會整理了一下自己的學經歷，列出來之後發現自己真的是做了很多事呢 (讓我覺得自己人生沒有白活XD)！
 
 想說順便來跟大家分享一下，讓你們更加了解我的背景~
 
@@ -31,10 +29,9 @@ author: "EC"
   * 決定轉職 : 就讀程式訓練營 Full Stack Web Development Bootcamp (六個月)
   * 進入澳洲科技業:
 
-
-  1. Professional Service Cloud Architect at Amazon Web Services 亞馬遜雲服務科技顧問(2020.09–2022.10)
-  2. Cloud Solution Architect at Microsoft 微軟雲端解決方案架構師 (2022.10–2023.08)
-  3. DevOp & Platform Engineer at Shell (2023.08 ~ now)
+  1. 2020.09–2022.10: Professional Service Cloud Architect at Amazon Web Services 亞馬遜雲服務科技顧問
+  2. 2022.10–2023.08: Cloud Solution Architect at Microsoft 微軟雲端解決方案架構師 
+  3. 2023.08 ~ now: DevOp & Platform Engineer at Shell
 
 
 
@@ -121,6 +118,6 @@ Coding bootcamp 畢業時剛好遇到 Covid，找工作非常困難，我在三�
 
 ### **結語**
 
-從 2011 年來澳洲打工度假到現在，我已經在澳洲生活了 11 年! 想想時間真的過得很快，一路從打工度假、留學到移民，一切完全就靠自己一個人完成。 過程中我遇到了很多貴人跟好朋友，也體驗過各式各樣的新鮮事，一路走來我真的學習到很多澳洲文化，也同時反思自己的台灣人思維。就職涯來說，從專案經理/筆譯、移民仲介、澳洲辦公室白領到後來決定轉職工程師，最後居然還幸運了加入 Amazon & Microsoft 這種世界一流的公司，完全都是當年的我沒有想過的! 這麼一想我突然覺得自己好厲害哈哈哈哈
+從一開始打工度假到現在，我已經在澳洲生活超過十年! 想想時間真的過得很快，一路從打工度假、留學到移民，一切完全就靠自己一個人完成。 過程中我遇到了很多貴人跟好朋友，也體驗過各式各樣的新鮮事，一路走來我真的學習到很多澳洲文化，也同時反思自己的台灣人思維。就職涯來說，從專案經理/筆譯、移民仲介、澳洲辦公室白領到後來決定轉職工程師，最後居然還幸運了加入 Amazon & Microsoft 這種世界一流的公司，完全都是當年的我沒有想過的! 這麼一想我突然覺得自己好厲害哈哈哈哈
 
 {{< footer >}}
