@@ -1,5 +1,5 @@
 ---
-title: "[旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4"
+title: "2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-9"
 image: "images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpeg.jpg"
@@ -9,7 +9,7 @@ tags: ["旅遊", "郵輪"]
 ---
 ---
 
-### [旅遊] 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4
+### 2023.05.23 Carnival Splendor 澳洲南太平洋郵輪 — Day 9 Sea Day 4
 
 ![](images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpeg.jpg)毛巾動物曬太陽
 

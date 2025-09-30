@@ -1,5 +1,5 @@
 ---
-title: "[旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船"
+title: "2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船"
 date: 2023-05-15
 slug: "2023-05-15-carnival-splendor-day-1"
 image: "images/medium-0*_BLHxdyFQQzbm-Sg.jpg"
@@ -10,7 +10,7 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 * * *
 
-### [旅遊] 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船
+### 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船
 
 ![](images/medium-0*_BLHxdyFQQzbm-Sg.jpg)Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

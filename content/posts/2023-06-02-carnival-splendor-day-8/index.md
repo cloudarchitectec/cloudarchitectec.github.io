@@ -1,5 +1,5 @@
 ---
-title: "[旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 下船日 (Sydney)"
+title: "2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 下船日 (Sydney)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-8"
 image: "images/medium-0*RmCK_FswNBVEnYn5.jpg"
@@ -9,7 +9,7 @@ tags: ["旅遊", "郵輪"]
 ---
 ---
 
-### [旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 Sea Day 3
+### 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 Sea Day 3
 
 ![](images/medium-0*RmCK_FswNBVEnYn5.jpg)Photo by [Adam Gonzales](https://unsplash.com/@adamgonzales?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

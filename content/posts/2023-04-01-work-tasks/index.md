@@ -1,5 +1,5 @@
 ---
-title: "[職涯] 如何評估現職是否適合你 — 工作小任務(work tasks) 評分表"
+title: "如何評估現職是否適合你 — 工作小任務(work tasks) 評分表"
 date: 2023-04-01
 slug: "2023-04-01-work-tasks"
 image: "images/medium-0*x2HBd4-Q6KDvwc5h.jpg"
@@ -9,7 +9,7 @@ tags: ["職涯"]
 ---
 ---
 
-### [職涯] 如何評估現職是否適合你 — 工作任務 (work tasks) 評分表
+### 如何評估現職是否適合你 — 工作任務 (work tasks) 評分表
 
 ![](images/medium-0*x2HBd4-Q6KDvwc5h.jpg)Photo by [Will Francis](https://unsplash.com/@willfrancis?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

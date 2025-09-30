@@ -32,7 +32,7 @@ Covid 後，澳洲的房貸利率一路從 2% 攀升到現在的 6.6%，EC 身�
 
 
 
-[**[旅遊] Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)**  
+[**Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)**  
 _Carnival Splendor 澳洲南太平洋郵輪事前準備分享_ medium.com](/posts/2023-05-08-carnival-splendor-intro/)[](/posts/2023-05-08-carnival-splendor-intro/)
 
   * 2023: 10天斐濟

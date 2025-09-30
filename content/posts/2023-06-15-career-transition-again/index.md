@@ -1,5 +1,5 @@
 ---
-title: "[職涯] 轉職可以一轉再轉嗎？薪水是轉職最重要的考量？"
+title: "轉職可以一轉再轉嗎？薪水是轉職最重要的考量？"
 date: 2023-06-15
 slug: "2023-06-15-career-transition-again"
 image: "images/medium-0*sB1VtMiyTXKqNZ3E.jpg"
@@ -10,7 +10,7 @@ tags: ["職涯", "轉職工程師", "薪資"]
 
 * * *
 
-### [職涯] 轉職可以一轉再轉嗎？薪水是轉職最重要的考量？
+### 轉職可以一轉再轉嗎？薪水是轉職最重要的考量？
 
 ![](images/medium-0*sB1VtMiyTXKqNZ3E.jpg)Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -26,13 +26,13 @@ tags: ["職涯", "轉職工程師", "薪資"]
 
 題外話，其實我當年從文組轉職的目標是當 Web Developer/Software Engineer! 如果你不是 IT 相關產業的，你可能不會知道，雖然 Cloud Consultant、Solution Architect、Software Engineer 都是 IT 相關職業，但實際的工作內容跟專業技能可能天差地遠，甚至我們彼此之間也不一定了解對方在做什麼XD
 
-例如我曾經試圖跟我做 Support Engineer 跟 Data Analyst 的朋友解釋過 Cloud Consultant 跟 Solution Architect 在做什麼，結果不管我怎麼講，他們都還是一頭霧水哈哈哈哈。我之前做過簡單的比較，雖然當時比較的是 Software Developer 而不是 DevOps Engineer，但大家有興趣的話還是可以參考: [[職涯] Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
+例如我曾經試圖跟我做 Support Engineer 跟 Data Analyst 的朋友解釋過 Cloud Consultant 跟 Solution Architect 在做什麼，結果不管我怎麼講，他們都還是一頭霧水哈哈哈哈。我之前做過簡單的比較，雖然當時比較的是 Software Developer 而不是 DevOps Engineer，但大家有興趣的話還是可以參考: [Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
 
 ### 背景
 
 如果是第一次看我的文章的人，可以參考[[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)，有我詳細的生平(?)。簡單來說，我是土生土長的台灣人，靠著自己的奮鬥成功移民澳洲。大學讀英文系，後來憑著一股不服輸的心 (參考:[[](/posts/2022-12-03-bootcamp-to-aws/)(/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/) )，裸辭了做了三年的辦公室文書工作，讀了六個月的全職 coding bootcamp (全端網頁工程師課程)。
 
-畢業時剛好遇到 2020 年 Covid 襲擊澳洲，投了200份履歷，最後只拿到一個 offer，成功進入 Amazon Web Services (AWS) Cloud Consultant (請參考：[[職涯] 澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享](/posts/2022-12-23-aws-ps-ca/))
+畢業時剛好遇到 2020 年 Covid 襲擊澳洲，投了200份履歷，最後只拿到一個 offer，成功進入 Amazon Web Services (AWS) Cloud Consultant (請參考：[澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享](/posts/2022-12-23-aws-ps-ca/))
 
 在AWS 兩年後，我想要嘗試另一朵雲跟另一個職位，於是我加入了微軟當 Azure Solution Architect，目前入職七個月，請參考：[從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽到另一朵雲？](/posts/2022-12-03-aws-to-ms/)。
 
