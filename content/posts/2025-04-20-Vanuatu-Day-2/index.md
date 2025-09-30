@@ -1,9 +1,6 @@
 ---
-title: "太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區"但我還是很推薦 Rossi's 這間餐廳，風景悠美就在海邊、服務好（居然先上了一杯免費的萊姆水、食物好吃，而且海風徐徐很涼爽！（萬那杜 99% 的地方都沒有冷氣，包含機場、旅館、餐廳、超市🤣）
-
-![Port Vila 災後市區](images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg)![Rossi 餐廳海邊美食](images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg)市區一角與 Rossi 的餐點
-
-而且 Port Vila 真的是滿漂亮的，市區附近走路10分鐘就可以看到美到不行的海邊，海水清澈到我還看到小魚了😆: 2025-04-20
+title: "太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區"
+date: 2025-04-20
 slug: "2025-04-20-vanuatu-day-2"
 image: "images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg"
 images: ['images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg', 'images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpeg.jpg', 'images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpeg.jpg', 'images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpeg.jpg', 'images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpeg.jpg', 'images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpeg.jpg', 'images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpeg.jpg', 'images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpeg.jpg', 'images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg', 'images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg', 'images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpeg.jpg', 'images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpeg.jpg', 'images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpeg.jpg', 'images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpeg.jpg', 'images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg', 'images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg', 'images/buy-me-coffee.jpg']

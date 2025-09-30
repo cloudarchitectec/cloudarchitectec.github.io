@@ -1,11 +1,5 @@
 ---
-title: "2025 墨爾本澳網第一天大約中午抵達墨爾本，下午立刻跟俄羅斯朋友 Igor 約見面 (這是我之前內推進AWS的朋友)。這是我第一次見到他太太跟兒子！必須說他太太好有氣質又好聊，兒子 Matthew 是一個超可愛的天使寶寶 (超愛笑又超 chill）
-
-![墨爾本韓式料理湯品](images/medium-1*x9MDnMbbKv9t-ruvsLHrPw.jpeg.jpg)![墨爾本韓式烤肉](images/medium-1*MS5DfHl9duhnSSWRTK_lxQ.jpeg.jpg)![墨爾本韓式小菜](images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpeg.jpg)墨爾本的韓餐～ 我們完全點太多XD
-
-晚上跟前 AWS 同事 Jeff 大大一起吃飯，還跟他女友一起去打迷你高爾夫，是個好聊的正妹藥劑師！
-
-![迷你高爾夫城堡場景](images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpeg.jpg)![迷你高爾夫叢林場景](images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpeg.jpg)迷你高爾夫～不同場景很有趣久不見墨爾本！與舊友重聚，第一次看澳網真的好嗨！"
+title: "2025 墨爾本澳網行 (上)：好久不見墨爾本！與舊友重聚，第一次看澳網真的好嗨！"
 date: 2025-01-26
 slug: "2025-01-26-2025-mel-trip-1"
 image: "images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpeg.jpg"

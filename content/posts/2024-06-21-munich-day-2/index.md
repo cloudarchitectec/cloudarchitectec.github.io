@@ -11,7 +11,7 @@ tags: ["旅遊", "德國", "慕尼黑"]
 
 ### **一個女生的歐洲獨旅:** 2024.05.03 德國 慕尼黑 (Munich) Day 2 — 兩個城堡一次擁有：林德霍夫宮與新天鵝堡
 
-![](images/medium-1*1zVaSb-34n1H4uzy5WdyHg.jpeg.jpg)從新天鵝堡遠眺舊天鵝堡
+![從新天鵝堡眺望舊天鵝堡全景](images/medium-1*1zVaSb-34n1H4uzy5WdyHg.jpeg.jpg)從新天鵝堡遠眺舊天鵝堡
 
 * * *
 
@@ -29,15 +29,15 @@ tags: ["旅遊", "德國", "慕尼黑"]
 
 我甚至還帶了我在紐倫堡買的爆米花（沒錯我還沒吃完)。
 
-![](images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpeg.jpg)![](images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpeg.jpg)林德霍夫宮的山景
+![林德霍夫宮後方阿爾卑斯山雪景](images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpeg.jpg)![林德霍夫宮周圍山景](images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpeg.jpg)林德霍夫宮的山景
 
 這個團只有包含遊覽車上的解說，如果要入內參觀兩個城堡，門票需要上車後另外用現金購買，兩個城堡一共是33歐。我上網查到的資訊是林德霍夫宮裡面其實滿小的，沒什麼好參觀的，外面的花園還比較漂亮，所以我就沒買這個門票，單買新天鵝堡的參觀門票是19歐。
 
 ### 林德霍夫宮 Schloss Linderhof
 
-![](images/medium-1*SZwEaOh11Ke3Kib768magA.jpeg.jpg)![](images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpeg.jpg)
+![路德維希二世國王的林德霍夫宮外觀](images/medium-1*SZwEaOh11Ke3Kib768magA.jpeg.jpg)![林德霍夫宮精緻的巴洛克式建築](images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpeg.jpg)
 
-![](images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpeg.jpg)林德霍夫宮
+![德國林德霍夫宮全景](images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpeg.jpg)林德霍夫宮
 
 林德霍夫宮從外觀看的確是滿小的，如果你看過其他歐洲城堡，我覺得看起來裝飾也不是特別精緻，難怪國王勵志要蓋一個超豪華新天鵝堡XDD
 
@@ -49,7 +49,7 @@ tags: ["旅遊", "德國", "慕尼黑"]
 
 ### 新天鵝堡 Schloss Neuschwanstein
 
-![](images/medium-1*WB02YiElLutRyeP8coe6TA.jpeg.jpg)瑪莉安橋才能拍到的最佳角度
+![瑪麗安橋上新天鵝堡最佳拍攝角度](images/medium-1*WB02YiElLutRyeP8coe6TA.jpeg.jpg)瑪莉安橋才能拍到的最佳角度
 
 接下來第二個行程就是新天鵝堡了！雖然是跟團，但我覺得時間還滿充裕的，我們大約下午1:30抵達，5:30才離開。導覽小姐幫我們預約的導覽是下午4:10，參觀完內部之後走下來集合時間剛好差不多。
 
@@ -65,7 +65,7 @@ tags: ["旅遊", "德國", "慕尼黑"]
 
 3\. 搭馬車，單程 8 歐: 網路上有部落客說她覺得馬很辛苦，建議大家不要去搭，我覺得這點就是見仁見智。但重點是馬走的路跟人走的路線是一樣的，要上瑪麗安橋還要再走15–20分鐘。我個人是覺得不如搭公車，一下車走5分鐘就可以到橋上了。
 
-![](images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpeg.jpg)![](images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpeg.jpg)瑪莉安橋
+![懸在山谷上方的瑪麗安橋遠景](images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpeg.jpg)![瑪麗安橋橋面與遊客](images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpeg.jpg)瑪莉安橋
 
 瑪麗安橋的重要性在於，只有在這裡你才可以從最佳角度拍到新天鵝堡（就像在迪士尼logo 上的一樣)，當天遊客雖多，但是稍微等一下還是可以找到不錯的拍照角度。
 

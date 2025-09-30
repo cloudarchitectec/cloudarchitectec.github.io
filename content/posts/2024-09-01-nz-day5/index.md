@@ -1,17 +1,6 @@
 ---
-title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的![Rotorua 紅木森林健行步道](images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpeg.jpg)![Redwood 高聳參天巨木](images/medium-1*VaESvSGforp84FHtAq6GRQ.jpeg.jpg)Redwood
-
-結束 Skyline 的行程，我們前往 Redwood 紅木森林健行。真的是滿漂亮的，但路線設計有點莫名奇妙，感覺就是為了達到想要達到的長度，所以左邊繞一圈，右邊讓一圈🤣
-
-行程結束後，我們特地去逛了紀念品店跟超市，但是真的找不到什麼想買的東西，因為紐西蘭跟澳洲真的太像了🤣
-
-最後只買了兩張明信片、一包薯片、一包 honey pocket 巧克力和一個 Cookie Time 的餅乾，就結束了我們的購物行程。
-
-這也是我們在紐西蘭的最後一天！
-
-Until next time 🏔️
-
-![紐西蘭 Honey Pocket 巧克力](images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpeg.jpg)![Cookie Time 經典餅乾](images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpeg.jpg)紐西蘭伴手禮date: 2024-09-01
+title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程"
+date: 2024-09-01
 slug: "2024-09-01-nz-day5"
 image: "images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg"
 images: ['images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg', 'images/medium-1*TzNByHydsdUIifAgZOzl9A.jpeg.jpg', 'images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpeg.jpg', 'images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpeg.jpg', 'images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpeg.jpg', 'images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpeg.jpg', 'images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpeg.jpg', 'images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpeg.jpg', 'images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpeg.jpg', 'images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpeg.jpg', 'images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpeg.jpg', 'images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpeg.jpg', 'images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpeg.jpg', 'images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpeg.jpg', 'images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpeg.jpg', 'images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpeg.jpg', 'images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpeg.jpg', 'images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpeg.jpg', 'images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpeg.jpg', 'images/medium-1*VaESvSGforp84FHtAq6GRQ.jpeg.jpg', 'images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpeg.jpg', 'images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpeg.jpg', 'images/buy-me-coffee.jpg']

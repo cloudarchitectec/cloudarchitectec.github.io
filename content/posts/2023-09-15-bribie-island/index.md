@@ -1,11 +1,5 @@
 ---
-title: "澳洲布里斯本：開車可抵達的可愛小島 Bribie Island接著就是前往今天的重頭戲 Bribie Island 了，這個島跟澳洲本土有個跨海大橋連接，所以不用坐船，一到達島上我們立刻驚呼連連，這個島實在太美了!
-
-![Bribie Island 布里比島美麗的海岸線風景](images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpeg.jpg)Bribie Island 一景
-
-我們兩個先在免費的博物館裡玩得不亦樂乎，然後就去吃了當地知名的炸魚薯條店 [Savige's Seafood](https://maps.app.goo.gl/vjGiqj46dK4dPDgo8?g_st=ic)，真心好吃耶！
-
-![Savige's Seafood 炸魚薯條店外觀](images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpeg.jpg)![Savige's Seafood 新鮮美味的炸魚薯條餐點](images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpeg.jpg)Savige's Seafood、沙灘、放空"
+title: "澳洲布里斯本：開車可抵達的可愛小島 Bribie Island 一日遊，陽光、沙灘、放空"
 date: 2023-09-15
 slug: "2023-09-15-bribie-island"
 image: "images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg"
