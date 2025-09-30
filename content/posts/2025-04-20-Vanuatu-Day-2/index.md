@@ -60,7 +60,7 @@ tags: ["旅遊", "萬那杜"]
 
 但我還是很推薦 Rossi’s 這間餐廳，風景悠美就在海邊、服務好（居然先上了一杯免費的萊姆水、食物好吃，而且海風徐徐很涼爽！（萬那杜 99% 的地方都沒有冷氣，包含機場、旅館、餐廳、超市🤣）
 
-![](images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg)![](images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg)市區一角與 Rossi 的餐點
+![萬那杜市區街景一角](images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg)![Rossi餐廳美味餐點](images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg)市區一角與 Rossi 的餐點
 
 而且 Port Vila 真的是滿漂亮的，市區附近走路10分鐘就可以看到美到不行的海邊，海水清澈到我還看到小魚了😆
 

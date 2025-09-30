@@ -50,7 +50,7 @@ tags: ["旅遊", "萬那杜"]
 
 ### Aelen Chocolate Factory/83 Distillery
 
-![](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg)![](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)83 Distrillery
+![83酒廠參觀外觀](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg)![83酒廠內部設施](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)83 Distrillery
 
 本來要去巧克力工廠 Aelen chocolate factory（我去之前還看到他們的臉書廣告），但導航先帶我到了一個道路施工的地方，後來繞了一圈也沒找到，只好放棄。
 
@@ -60,7 +60,7 @@ tags: ["旅遊", "萬那杜"]
 
 ### Nambawan Café
 
-![](images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg)超大份 steak sandwich
+![萬那杜超大份牛排三明治](images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg)超大份 steak sandwich
 
 最后我總共花了兩個小時，才開車回到市區的咖啡廳 Nambawan Café (Number One Cafe) 吃飯。Nambawan Café 其實就在我第二天去的咖啡廳 Rossi’s 隔壁，其實我一開始完全不懂為什麼會有很多人推薦他們，因為我覺得 Rossi’s 環境更加舒適、服務好、菜色選擇多。直到我點的 steak sandwich 上菜（我一開始還想說也煮太久了吧），超級豐盛的，這樣只要澳幣$11.6。飲料我喝了 iced tanna coffee，應該是用火山島 Tanna 產的咖啡豆，但我覺得喝起來就是很水的冰咖啡🤣
 

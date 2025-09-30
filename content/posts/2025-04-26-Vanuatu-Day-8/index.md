@@ -48,7 +48,7 @@ tags: ["旅遊", "萬那杜"]
 
 ### Fatumaru Lodge
 
-![](images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg)
+![萬那杜旅遊景色記錄](images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg)
 
 今天的住宿也是金錢的力量，一晚要澳幣$226，但不得不說滿漂亮的，設備也很齊全，淋浴間有兩個蓮蓬頭，洗完澡去櫃檯借吹風機還借到一台dyson!!!!! 這是我第一次用 Dyson 吹風機，我平常吹頭髮大概要20–30分鐘，還無法全乾，Dyson 居然只要吹五分鐘就乾了，太神了吧😆
 

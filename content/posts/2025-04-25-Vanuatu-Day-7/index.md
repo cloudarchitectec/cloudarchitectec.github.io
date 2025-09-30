@@ -42,7 +42,7 @@ tags: ["旅遊", "萬那杜"]
 
 真心推薦大家來萬那杜只需要租車來這個地方即可，是我這幾天來的highlight 😆😆😆
 
-![](images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpeg.jpg)![](images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpeg.jpg)島上還有可愛貓貓！這個椰汁牛肉咖喱真心爆好吃
+![萬那杜島嶼可愛貓咪](images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpeg.jpg)![萬那杜椰汁牛肉咖喱](images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpeg.jpg)島上還有可愛貓貓！這個椰汁牛肉咖喱真心爆好吃
 
 ### Beach Bar 火焰秀
 
