@@ -39,7 +39,7 @@ tags: ["投資理財"]
   * 注意這裡的海外旅遊保險有其相關規定: 澳洲醫保卡(medicare)或是信用卡公司附的保險，都是不符合規定的! 一定要買特定的郵輪旅遊險，包含以下關鍵字 ‘multi-night cruise’ 跟 ‘Covid’ 才可以，大概一個人的保險費會在 $150–200 澳幣之間(視年紀跟健康狀況保費會略有不同)。
   * 我個人買的是網友推薦的[ Qantas 的 South Pacific 保險](https://insurance.qantas.com/travel-insurance?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF11YPIV4aCyM_0p5EbnWG6QNxEE13DjY4vIBzXedN8qPvC1Morl8T4aAl6vEALw_wcB&gclsrc=aw.ds)，而且買保險的時候記得要把 Vanuatu 跟 New Caledonia 這兩個國家加進去(如下圖黃色標誌)。我2023.4月買的保費是一人$103，算是比較便宜，但是保險範圍比較廣的郵輪保險。
 
-![](images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png.jpg)
+![澳洲郵輪旅遊保險選擇畫面](images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png.jpg)
 
 **3\. 行李規定**
 

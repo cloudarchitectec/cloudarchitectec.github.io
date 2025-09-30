@@ -11,7 +11,7 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 ### 2023.05.18 Carnival Splendor 澳洲南太平洋郵輪 — Day 4 Noumea (New Caledonia)
 
-![](images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg)毛巾鱷魚
+![郵輪房務創意毛巾鱷魚](images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg)毛巾鱷魚
 
 * * *
 
@@ -19,29 +19,29 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 終於到達了第一個島 Noumea！從陽台望出去非常 city vibe (或是更精確的說，港口工業區vibe)。吃完早餐後就準備下船啦～下船的時候還有工作人員會站在旁邊準備幫你拍下船照XD
 
-![](images/medium-1*8GnbJJzSQPG_of0SILSVKg.jpeg.jpg)Noumea 下船中
+![Noumea港口郵輪下船過程](images/medium-1*8GnbJJzSQPG_of0SILSVKg.jpeg.jpg)Noumea 下船中
 
 **島上行程**
 
 之前就聽說過下船後訂行程的價格大概是遊輪上的一半，於是我們下船後才訂了 hop on hop off bus，一人$15澳幣 (在船上訂好像要$60，好誇張)。價差更大的tour 可能會差到一人$100，所以千萬不要傻傻在遊輪上訂行程喔！Noumea 的海水非常清澈，只可惜因為幾個月前有鯊魚攻擊遊客的事件，所以 Noumea 到目前為止還是全面禁止游泳 QAQ
 
-![](images/medium-1*F41yXeA7EJ7-cYP-HH9fdQ.jpeg.jpg)Noumea 海邊
+![Noumea清澈海水美景](images/medium-1*F41yXeA7EJ7-cYP-HH9fdQ.jpeg.jpg)Noumea 海邊
 
 **Noumea 市區**
 
 今天主要的行程就是搭觀光巴士以及在市區內亂晃。
 
-![](images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpeg.jpg)Noumea 公園![](images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg)教堂
+![Noumea市區綠地公園](images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpeg.jpg)Noumea 公園![新喀里多尼亞傳統教堂](images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg)教堂
 
 然後還有另一個特別奇怪的觀察，就是這裡的廁所都還算乾淨，但每一個馬桶都沒有馬桶蓋，why????!!!! 我跟 Ashley 百思不得其解耶
 
-![](images/medium-1*OZXhSe0Fr53Mz9qseweKOA.jpeg.jpg)
+![新喀里多尼亞特色建築景觀](images/medium-1*OZXhSe0Fr53Mz9qseweKOA.jpeg.jpg)
 
 **午餐**
 
 後來我在港口邊的超市買了一個生魚片 poke bowel，醬料很微妙。一盒是微辣的蔥油、一盒是烤肉醬，上面還有像是炸過的玉米粒。生魚片本身還滿新鮮好吃的，但我多希望他們給我一點醬油跟芥末哈哈哈
 
-![](images/medium-1*1RkNhZGhiM4cNXR4ja9CCg.jpeg.jpg)
+![Noumea當地Poke Bowl午餐](images/medium-1*1RkNhZGhiM4cNXR4ja9CCg.jpeg.jpg)
 
 **新克里多亞 New Caledonia**
 
@@ -55,12 +55,12 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 之後我回到房間陽台，一邊喝酒一邊聽著海浪聲看我之前在 Netflix 下載的影集，其實滿愜意的。
 
-![](images/medium-1*4vieIsVH9cBc4umpaGgT7g.jpeg.jpg)
+![郵輪陽台海景休憩時光](images/medium-1*4vieIsVH9cBc4umpaGgT7g.jpeg.jpg)
 
 **Island deck party**
 
 今天總算天空作美，大家終於有辦法在甲板上跳舞
 
-![](images/medium-1*uVGQvX5gRy42oH8WSCQp6A.jpeg.jpg)
+![郵輪島嶼主題甲板派對](images/medium-1*uVGQvX5gRy42oH8WSCQp6A.jpeg.jpg)
 
 {{< footer >}}

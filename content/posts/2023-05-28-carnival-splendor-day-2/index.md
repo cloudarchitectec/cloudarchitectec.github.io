@@ -1,5 +1,9 @@
 ---
-title: "2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1"
+title: "2023.05.16 CarCarnival 有一個手機 App 叫 Carnival Hub，非常好用。只要連接上遊輪的免費 wifi (免費 wifi 只能拿來看 Carnival Hub，沒有辦法上其他網站)，你就可以在 Food & Drinks 裡看到 main dining room 每天的早餐/晚餐菜單 & 其他餐廳的營業時間、What's Happening 李可以看到每天的活動清單(喜歡的話可以存成書籤，跟你同房的人也會看到你標註了感興趣的活動)，還可以在 Wall of Moments 裡上傳自己遊輪行程的照片與同船的人分享。
+
+![Carnival Hub手機應用程式介面](images/medium-1*HAJu3QMuwOx5D1Fulmf_QA.jpeg.jpg)
+
+**陰天** Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1"
 date: 2023-05-28
 slug: "2023-05-28-carnival-splendor-day-2"
 image: "images/medium-0*xfQ3sXJxvDvXfgLi.jpg"
@@ -12,7 +16,7 @@ tags: ["旅遊", "郵輪"]
 
 ### 2023.05.16 Carnival Splendor 澳洲南太平洋郵輪 — Day 2 Sea Day 1
 
-![](images/medium-0*xfQ3sXJxvDvXfgLi.jpg)Photo by [Douglas Bagg](https://unsplash.com/@nzdoug16?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![郵輪海上航行美景](images/medium-0*xfQ3sXJxvDvXfgLi.jpg)Photo by [Douglas Bagg](https://unsplash.com/@nzdoug16?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
@@ -20,7 +24,7 @@ tags: ["旅遊", "郵輪"]
 
 首先，應讀者Huli大大的要求，先來分享一下遊輪房間的內部照片。說真的，遊輪房間比我想像中大很多XD (本來還以為會是一個很狹小、逼仄的空間，但其實兩個人住非常舒適，收納空間也不少)。
 
-![](images/medium-1*67HCCHz_fSzckeRLuUmWYg.jpeg.jpg)遊輪房間: 陽台房![](images/medium-1*Syk9imF-O3YSSPzPSj5Lvg.jpeg.jpg)遊輪房間衛浴
+![Carnival郵輪陽台房內部](images/medium-1*67HCCHz_fSzckeRLuUmWYg.jpeg.jpg)遊輪房間: 陽台房![郵輪房間精緻衛浴設施](images/medium-1*Syk9imF-O3YSSPzPSj5Lvg.jpeg.jpg)遊輪房間衛浴
 
 **遊輪App**
 
@@ -32,13 +36,13 @@ Carnival 有一個手機 App 叫 Carnival Hub，非常好用。只要連接上�
 
 今天早上起床就一陣陰雨綿綿的fu，讓人只想待在房間耍廢哈哈
 
-![](images/medium-1*_EPSTaZhWKOAQXT-bsDP8w.jpeg.jpg)遊輪傳統之一 每天房務員都會放上新的毛巾動物
+![郵輪房務毛巾造型動物](images/medium-1*_EPSTaZhWKOAQXT-bsDP8w.jpeg.jpg)遊輪傳統之一 每天房務員都會放上新的毛巾動物
 
 **早餐**
 
 今天早餐我們還是在 Gold Pearl 餐廳吃的，因為我看了菜單有我想嘗試的鬆餅。如果想在餐廳吃早餐 (不去 buffet 的話)，記得先在手機上用 Carnival Hub app 預約，桌子好了之後會收到 app 通知。不要像有些人沒有預約就直接去餐廳，絕大部分的時間都沒辦法 walk in。但不得不說遊輪的食物品質滿一般的，也不能說難吃，但也沒有到超級好吃的地步XD
 
-![](images/medium-1*_lwlQc-BAqX6CueoYussvg.jpeg.jpg)遊輪早餐
+![郵輪Gold Pearl餐廳早餐](images/medium-1*_lwlQc-BAqX6CueoYussvg.jpeg.jpg)遊輪早餐
 
 **Disco Dance Move**
 
@@ -48,7 +52,7 @@ Carnival 有一個手機 App 叫 Carnival Hub，非常好用。只要連接上�
 
 健身房意外多人，而且器材也不少。在跑步機上跑步的時候可以看到外面的海景，是名副其實的海景健身房! 今天我跑了30分鐘的步，意思意思一下，不枉費我打包了整套健身房的服裝來XD
 
-![](images/medium-1*EdpwnroHyE04LCgDEfxy6g.jpeg.jpg)健身房裡的跑步機
+![郵輪健身房海景跑步機](images/medium-1*EdpwnroHyE04LCgDEfxy6g.jpeg.jpg)健身房裡的跑步機
 
 **Lobby Bar Mojito $16**
 
@@ -66,7 +70,7 @@ Carnival 有一個手機 App 叫 Carnival Hub，非常好用。只要連接上�
 
 但好處是因為我這趟遊輪行並沒有購買一天約$20澳幣的網路套餐(九天就大約是 $180澳幣)，所以整個人處於與世隔絕，心情非常平靜的狀態，我覺得也是不錯哈哈
 
-![](images/medium-1*K1Kd6G4Gg6BdbzDDefKRbA.jpeg.jpg)表演
+![Carnival郵輪劇場表演](images/medium-1*K1Kd6G4Gg6BdbzDDefKRbA.jpeg.jpg)表演
 
 **第二天小結**
 
