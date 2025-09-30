@@ -2,8 +2,8 @@
 title: "[旅遊] 2023.05.22 Carnival Splendor 澳洲南太平洋郵輪 — Day 8 下船日 (Sydney)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-8"
-image: "images/medium-1*-VuGXRApjWz3bYDU3DdNaQ.jpeg.jpg"
-images: ['images/medium-1*-VuGXRApjWz3bYDU3DdNaQ.jpeg.jpg', 'images/medium-1*8ePwNyD5VTiHi4qHLTNpEg.jpeg.jpg', 'images/medium-1*Iqp4U5LSnKV87oHZWtI1tQ.jpeg.jpg', 'images/medium-1*zFOlmJy5JqNrX-kIcuLkgQ.jpeg.jpg', 'images/medium-1*6KRGR9n5hN1g9tMNHZ7bhw.jpeg.jpg', 'images/medium-1*LXwKFDUoEHG5qnRl7ajkPQ.jpeg.jpg']
+image: "images/medium-0*RmCK_FswNBVEnYn5.jpg"
+images: ['images/medium-0*RmCK_FswNBVEnYn5.jpg', 'images/medium-1*Qcl_UMWXbJDd4gCEeiFOPg.jpeg.jpg', 'images/medium-1*qDfQZkGXtEtjkJnxYc7How.jpeg.jpg', 'images/medium-1*g-Z47LNsC4CV53sULFleXg.jpeg.jpg', 'images/medium-1*UebhifGmE_EM5D5YmAxK7Q.jpeg.jpg', 'images/buy-me-coffee.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "郵輪"]
 ---

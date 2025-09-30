@@ -2,8 +2,8 @@
 title: "2022.11.19 AZ-104 Azure Administrator Associate 證照考試心得"
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-exam"
-image: "images/medium-1*hWbT3LjPIGJ-lQiGLaXJbg.jpeg.jpg"
-images: ['images/medium-1*hWbT3LjPIGJ-lQiGLaXJbg.jpeg.jpg']
+image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg"
+images: ['images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg']
 categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---
