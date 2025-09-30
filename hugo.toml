@@ -31,8 +31,12 @@ disablePathToLower = true
   author = "Cloud Architect EC"
   
   # Google Analytics Configuration
-  googleAnalytics = "G-F5Z4F1PYEE"  
+  googleAnalytics = "G-F5Z4F1PYEE"
   
+  # SEO and Analytics enhancements
+  [params.analytics]
+    googleSiteVerification = "FlPzC5GcakpWZTQrkkoi896cyAcijcZ40EPSJ45Gvi8"  # Google Search Console verification
+    
   defaultTheme = "auto" # dark, light
   disableThemeToggle = false
 

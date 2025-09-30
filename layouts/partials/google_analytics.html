@@ -5,6 +5,101 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', '{{ .Site.Params.googleAnalytics }}');
+  
+  // Configure GA4 with privacy-friendly settings
+  gtag('config', '{{ .Site.Params.googleAnalytics }}', {
+    // Privacy settings
+    'anonymize_ip': true,                    // Anonymize IP addresses
+    'allow_google_signals': false,           // Disable advertising features
+    'allow_ad_personalization_signals': false, // Disable ad personalization
+    
+    // Performance settings
+    'send_page_view': true,                  // Track page views
+    'cookie_flags': 'SameSite=Strict;Secure', // Secure cookie settings
+    
+    // Custom dimensions for blog analytics
+    'custom_map': {
+      'custom_parameter_1': 'content_group1'
+    }
+  });
+  
+  // Enhanced event tracking for better insights
+  
+  // Track outbound links
+  document.addEventListener('click', function(event) {
+    var link = event.target.closest('a');
+    if (link && link.hostname && link.hostname !== window.location.hostname) {
+      gtag('event', 'click', {
+        'event_category': 'outbound',
+        'event_label': link.href,
+        'transport_type': 'beacon'
+      });
+    }
+  });
+  
+  // Track file downloads
+  document.addEventListener('click', function(event) {
+    var link = event.target.closest('a');
+    if (link && link.href) {
+      var extension = link.href.split('.').pop().toLowerCase();
+      if (['pdf', 'doc', 'docx', 'xls', 'xlsx', 'ppt', 'pptx', 'zip', 'tar', 'gz'].includes(extension)) {
+        gtag('event', 'file_download', {
+          'event_category': 'download',
+          'event_label': link.href,
+          'file_extension': extension
+        });
+      }
+    }
+  });
+  
+  // Track search interactions
+  var searchInput = document.querySelector('input[type="search"], input[name="q"]');
+  if (searchInput) {
+    searchInput.addEventListener('keydown', function(event) {
+      if (event.key === 'Enter' && this.value.trim()) {
+        gtag('event', 'search', {
+          'search_term': this.value.trim()
+        });
+      }
+    });
+  }
+  
+  // Track scroll engagement (75% depth)
+  var scrollTracked = false;
+  window.addEventListener('scroll', function() {
+    if (!scrollTracked) {
+      var scrollPercent = Math.round((window.scrollY / (document.body.scrollHeight - window.innerHeight)) * 100);
+      if (scrollPercent >= 75) {
+        gtag('event', 'scroll', {
+          'event_category': 'engagement',
+          'event_label': '75_percent',
+          'value': 75
+        });
+        scrollTracked = true;
+      }
+    }
+  });
+</script>
+
+<!-- Structured Data for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "{{ .Site.Title }}",
+  "description": "{{ .Site.Params.description }}",
+  "url": "{{ .Site.BaseURL }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "publisher": {
+    "@type": "Person", 
+    "name": "{{ .Site.Params.author }}"
+  },
+  "inLanguage": "{{ .Site.Language.Lang }}",
+  "dateModified": "{{ now.Format "2006-01-02T15:04:05Z07:00" }}"
+}
 </script>
 {{- end }}
