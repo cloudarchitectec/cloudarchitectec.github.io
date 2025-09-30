@@ -1,5 +1,9 @@
 ---
-title: "太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜：路上的坑坑疤疤都是我的自駕小冒險"
+title: "太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜：路上### Nambawan Café
+
+![Nambawan 豐盛牛排三明治](images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg)超大份 steak sandwich
+
+最后我總共花了兩個小時，才開車回到市區的咖啡廳 Nambawan Café (Number One Cafe) 吃飯。Nambawan Café 其實就在我第二天去的咖啡廳 Rossi's 隔壁，其實我一開始完全不懂為什麼會有很多人推薦他們，因為我覺得 Rossi's 環境更加舒適、服務好、菜色選擇多。直到我點的 steak sandwich 上菜（我一開始還想說也煮太久了吧），超級豐盛的，這樣只要澳幣$11.6。飲料我喝了 iced tanna coffee，應該是用火山島 Tanna 產的咖啡豆，但我覺得喝起來就是很水的冰咖啡🤣都是我的自駕小冒險"
 date: 2025-04-24
 slug: "2025-04-24-vanuatu-day-6"
 image: "images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg"
@@ -24,9 +28,9 @@ tags: ["旅遊", "萬那杜"]
 
 後來租車公司完全11點才到，傻眼！我中間等到太無聊/太餓，還點了一杯smoothie 🤣
 
-![](images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpeg.jpg)![](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg)
+![萬那杜芒果 smoothie](images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpeg.jpg)![租車等待漫長時光](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg)
 
-![](images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpeg.jpg)![](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg)車子滿新的，里程數也不高！很喜歡～
+![萬那杜租車 SUV](images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpeg.jpg)![新車低里程數](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg)車子滿新的，里程數也不高！很喜歡～
 
 ### Eton Beach
 
@@ -38,7 +42,7 @@ tags: ["旅遊", "萬那杜"]
 
 ### Blue lagoon
 
-![](images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpeg.jpg)超美的 Blue Lagoon
+![萬那杜 Blue Lagoon 天然瀉湖](images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpeg.jpg)超美的 Blue Lagoon
 
 第二站 Blue lagoon，通常入場費是1500vt，但度假村主人說報她名字只收vt500。所以我就跟入口的人解釋了一番，也不知道他有沒有聽懂，反正我只付了500😆
 
@@ -51,6 +55,8 @@ tags: ["旅遊", "萬那杜"]
 本來要去巧克力工廠 Aelen chocolate factory（我去之前還看到他們的臉書廣告），但導航先帶我到了一個道路施工的地方，後來繞了一圈也沒找到，只好放棄。
 
 之后就開車去附近的釀酒廠 83 distillery，可惜他們這邊沒有供應餐點，我一個人開車也不能參加 tasting (品酒活動)，所以上了個廁所我就走了🤣 （不然我覺得那邊充滿了蔗糖香，超好聞）
+
+![83 釀酒廠外觀建築](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg)![萬那杜蔗糖釀酒廠](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)83 Distrillery
 
 ### Nambawan Café
 
@@ -74,8 +80,8 @@ Port Vila 南邊的路比起北邊來說好很多，雖然有坑，但沒有到�
 
 晚餐糾結了很久要不要出去外面吃，看了一些 Google reviews，覺得出去還要開車、還要被蚊子叮，餐點看起來也一般，價錢又高，就還是決定在旅館吃泡麵了🤣
 
-![](images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg)![](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg)
+![Pacific Lagoon 花園公寓](images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg)![萬那杜住宿環境](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg)
 
-![](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpeg.jpg)![](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg)
+![兩房公寓內部空間](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpeg.jpg)![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg)
 
 {{< footer >}}

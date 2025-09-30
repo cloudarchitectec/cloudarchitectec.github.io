@@ -12,7 +12,7 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 ### 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船
 
-![](images/medium-0*_BLHxdyFQQzbm-Sg.jpg)Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![郵輪旅遊度假概念圖](images/medium-0*_BLHxdyFQQzbm-Sg.jpg)Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 
 * * *
@@ -23,7 +23,7 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 我們訂的是有陽台的雙人房，一個人大概是1200澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。詳細的行程資訊請參考遊輪公司的官方網站**:**[Carnival Splendor](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)。
 
-![](images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg)
+![Carnival Splendor 郵輪航線圖](images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg)
 
 ### **雪梨 Circular Quay**
 

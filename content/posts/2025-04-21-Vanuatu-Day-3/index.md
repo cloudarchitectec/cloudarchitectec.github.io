@@ -12,7 +12,7 @@ tags: ["旅遊", "萬那杜"]
 
 ### 太平洋小島上的大冒險：2025.04.21 Vanuatu Day 3 地震驚魂、小島浮潛與部落文化初體驗
 
-![](images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg)Pele Island 一景
+![Pele Island 太平洋美景](images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg)Pele Island 一景
 
 (我也不知道為什麼我在這裡的每一天都很精彩🤣)
 
@@ -22,7 +22,7 @@ tags: ["旅遊", "萬那杜"]
 
 雖然說地震對於台灣人來說不算太罕見，但萬那杜歷經 2024 年 12 月的大地震後一直到現在也還沒恢復過來。這裡的房子也不知道穩不穩固，於是我立刻把房門打開，想說如果有需要的話可以快速逃生。好險地震很快就結束了，後來上網才發現是芮氏規模 5.6 的地震，真的是滿大的🤣
 
-![](images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg)地震警報
+![萬那杜 5.6 級地震警報](images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg)地震警報
 
 ### Pele Island 一日遊
 
@@ -36,7 +36,7 @@ tags: ["旅遊", "萬那杜"]
 
 到了島上有個迎賓飲料椰子水，接著開船 15 分鐘帶我們出海浮潛。
 
-![](images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg)![](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg)迎賓椰子水
+![Pele Island 迎賓椰子水](images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg)![當地特色椰子飲品](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg)迎賓椰子水
 
 我必須要說，這邊的安全意識不太高，不管是坐船或是浮潛，都完全沒有提供救生衣的選項。要是有意外發生又有人不會游泳，不就 GG 了🤣
 
@@ -50,7 +50,7 @@ tags: ["旅遊", "萬那杜"]
 
 這個一日遊還包含當地村莊導覽，我覺得非常有趣！
 
-![](images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg)村牌
+![Pele Island 村莊指示牌](images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg)村牌
 
 Pele island 島上有四個村莊，人口大約40人(官方資料寫200人）。這裡沒有電力系統，但大部分人家裡有太陽能 (據說是去紐澳工作後換回來的）。這裡也沒有淨水系統，飲用水是直接承接雨水儲存，地下水不能飲用，但會拿來洗澡、洗碗等等。
 
@@ -60,9 +60,9 @@ Pele island 島上有四個村莊，人口大約40人(官方資料寫200人）�
 
 馬克杯杯聽到我早上超早就上車之後超傻眼（因為說真的，我住的地方其實在港口跟其他人的住宿點中間），跟我說我等一下回程要記得跟 tour guide 說請他們第一個放我下車。我後來完全忘記這件事，他還主動幫我去提醒 tour guide，所以我就成為本團最早下車的人，五點就到家了✌️
 
-![](images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg)![](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg)
+![Pele Island 團體合照](images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg)![澳洲遊客團友聚餐](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg)
 
-![](images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg)![](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg)午餐、同行遊客
+![當地豐盛午餐](images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg)![萬那杜滿漢全席](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg)午餐、同行遊客
 
 ### 奶奶語錄登場：**「這吹風機沒人用過」**
 

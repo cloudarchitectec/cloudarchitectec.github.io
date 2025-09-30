@@ -12,7 +12,7 @@ tags: ["旅遊", "瑞士"]
 
 ### 一個女生的歐洲獨旅: 2024.05.09 歐洲獨旅的尾聲：瑞士琉森鐵力士山，終見晴天的雪山美景！
 
-![](images/medium-1*u9nLLJr6VU1ZuiqO8Vxuxw.jpeg.jpg)給大家看一下積雪有多厚
+![鐵力士山積雪深度](images/medium-1*u9nLLJr6VU1ZuiqO8Vxuxw.jpeg.jpg)給大家看一下積雪有多厚
 
 ### 鐵力士山 (Titlis Mountain)
 
@@ -34,7 +34,7 @@ tags: ["旅遊", "瑞士"]
 
 ### 特呂布湖 Trubsee
 
-![](images/medium-1*RlIQZVBBsnETpGDGj-Wrdg.jpeg.jpg)![](images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpeg.jpg)![](images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpeg.jpg)特呂布湖 Trubsee 雪中健行
+![特呂布湖雪山美景](images/medium-1*RlIQZVBBsnETpGDGj-Wrdg.jpeg.jpg)![瑞士雪地健行路線](images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpeg.jpg)![Trubsee 湖畔雪景](images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpeg.jpg)特呂布湖 Trubsee 雪中健行
 
 到了 Trubsee 湖時，其實天氣不算太好，但至少不像在少女峰時遇到眼睛都睜不開的大風雪，所以我還是很興奮地進行了半小時的雪地健行。
 
@@ -54,15 +54,15 @@ tags: ["旅遊", "瑞士"]
 
 有趣的是在場的大人比小朋友多，但是每個大人都玩瘋了，非常推薦大家來鐵力士山。
 
-![](images/medium-1*-4MK_JtcLaR1Q4eNIji-zQ.jpeg.jpg)![](images/medium-1*AXigrD-ekbQQQ9SQ97SX9Q.jpeg.jpg)
+![鐵力士山雪上樂園](images/medium-1*-4MK_JtcLaR1Q4eNIji-zQ.jpeg.jpg)![免費雪具滑雪道](images/medium-1*AXigrD-ekbQQQ9SQ97SX9Q.jpeg.jpg)
 
-![](images/medium-1*ZNZnGOFtLbqFT2r7c8NovQ.jpeg.jpg)![](images/medium-1*OLTm6ywUtlvCXvpbRS50zw.jpeg.jpg)
+![瑞士雪山滑雪活動](images/medium-1*ZNZnGOFtLbqFT2r7c8NovQ.jpeg.jpg)![山頂滑雪設施](images/medium-1*OLTm6ywUtlvCXvpbRS50zw.jpeg.jpg)
 
 ### 山頂站
 
 今天我終於體驗到天氣好時上雪山是怎麼樣的景緻，跟一片白茫茫的少女峰不同，晴天的鐵力士山美到發瘋，還以為自己在拍 discovery 頻道 ❤️
 
-![](images/medium-1*7GImttSmYtKaQGCB0ftWqw.jpeg.jpg)![](images/medium-1*b7T8OsNdUOlRf5afm-tB2Q.jpeg.jpg)晴天的雪山真的是太美了！！！
+![鐵力士山頂360度美景](images/medium-1*7GImttSmYtKaQGCB0ftWqw.jpeg.jpg)![晴天雪山壯麗景色](images/medium-1*b7T8OsNdUOlRf5afm-tB2Q.jpeg.jpg)晴天的雪山真的是太美了！！！
 
 除了室外的設施之外，山上也有一些室內設施。
 
@@ -80,11 +80,11 @@ tags: ["旅遊", "瑞士"]
 
 回到琉森後，趁著還有一點時間跑完了市區的景點，明天就要準備返程了，真的有點捨不得。
 
-![](images/medium-1*Cgq3Lm_6FDOpeqHGLLDS5w.jpeg.jpg)市區某麵包店外有個巨大可頌，超可愛！
+![琉森麵包店巨大可頌](images/medium-1*Cgq3Lm_6FDOpeqHGLLDS5w.jpeg.jpg)市區某麵包店外有個巨大可頌，超可愛！
 
 歐洲獨旅最後的晚餐，我買了買了一個巧克力店的巧克力慕斯。店員還用紙盒裝，很有儀式感！不會太甜，而且很有層次，上層的巧克力很香！好吃😋
 
-![](images/medium-1*_t9UBfqkAMg9rs2WpQrSMg.jpeg.jpg)![](images/medium-1*VE-br3FuMEjqAKl-EuDjOg.jpeg.jpg)
+![瑞士巧克力慕斯甜點](images/medium-1*_t9UBfqkAMg9rs2WpQrSMg.jpeg.jpg)![琉森巧克力店包裝](images/medium-1*VE-br3FuMEjqAKl-EuDjOg.jpeg.jpg)
 
 ### 結語
 

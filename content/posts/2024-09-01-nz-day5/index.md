@@ -12,29 +12,29 @@ tags: ["旅遊", "紐西蘭"]
 
 ### 兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程
 
-![](images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg)
+![Taupo 湖畔早餐美景](images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg)
 
 離開 Taupo 之前，我們特地來這個紐西蘭北島第一大湖的湖畔吃早餐，一補昨天抵達時下雨的遺憾。天晴時還可以遠眺雪山喔🏔️～非常美
 
 ### 火山口地熱公園 Craters of the Moon
 
-![](images/medium-1*TzNByHydsdUIifAgZOzl9A.jpeg.jpg)![](images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpeg.jpg)![](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpeg.jpg)
+![紐西蘭月世界地熱景觀](images/medium-1*TzNByHydsdUIifAgZOzl9A.jpeg.jpg)![火山口冒煙地表](images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpeg.jpg)![地熱公園自然奇觀](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpeg.jpg)
 
 第一站是火山口地熱公園，我把它稱為紐西蘭的月世界。看到一片綠油油卻冒煙的地表真的好妙😆
 
 ### Wairakei Terrace & Thermal Health Spa
 
-![](images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpeg.jpg)![](images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpeg.jpg)
+![Wairakei 溫泉 spa](images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpeg.jpg)![地熱溫泉療養池](images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpeg.jpg)
 
 接著我們就去泡了溫泉 spa，總共有四個池可以泡，一個人入場費才$27紐幣，覺得好超值！而且我們是平日去的，人潮不多，超級享受！一解前幾天滑雪的痠痛😊
 
 接著我們就驅車前往下一個城市Rotorua! 非常幸運剛好碰到他們每週四一次的夜市！吃了超多亞洲街頭小吃，非常開心😋
 
-![](images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpeg.jpg)![](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpeg.jpg)![](images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpeg.jpg)夜市小吃
+![Rotorua 夜市亞洲料理](images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpeg.jpg)![夜市街頭小吃攤位](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpeg.jpg)![紐西蘭夜市美食](images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpeg.jpg)夜市小吃
 
 不得不說我們這趟去紐西蘭真的覺得紐西蘭人口好少，走在路上或是商店裡都沒有人（紐西蘭國土是台灣七倍，但人口只有七百萬)。感覺經濟活動有相對蕭條，難怪很多紐西蘭人都跑來澳洲工作🤣
 
-![](images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpeg.jpg)![](images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpeg.jpg)![](images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpeg.jpg)Rotorua 也有一個會大的湖～
+![Rotorua 湖邊散步](images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpeg.jpg)![湖畔公園風景](images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpeg.jpg)![Rotorua 大湖美景](images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpeg.jpg)Rotorua 也有一個會大的湖～
 
 ### Ciabatta Bakery
 
@@ -66,6 +66,6 @@ tags: ["旅遊", "紐西蘭"]
 
 Until next time 🏔️
 
-![](images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpeg.jpg)![](images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpeg.jpg)紐西蘭伴手禮
+![紐西蘭特產巧克力](images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpeg.jpg)![Cookie Time 餅乾](images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpeg.jpg)紐西蘭伴手禮
 
 {{< footer >}}

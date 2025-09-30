@@ -1,5 +1,9 @@
 ---
-title: "太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包"
+title: "太平洋小島上的大冒險：2025.04.26 Vanuatu Da### Fatumaru Lodge
+
+![Fatumaru Lodge 海邊住宿](images/medium-1*RAd8Mb0kWPTpD-CrjXH72Ri8mQg.jpeg.jpg)
+
+今天的住宿也是金錢的力量，一晚要澳幣$226，但不得不說滿漂亮的，設備也很齊全，淋浴間有兩個蓮蓬頭，洗完澡去櫃檯借吹風機還借到一台dyson!!!!! 這是我第一次用 Dyson 吹風機，我平常吹頭髮大概要20–30分鐘，還無法全乾，Dyson 居然只要吹五分鐘就乾了，太神了吧😆級度假村午餐、高級住宿、高級蚊子包"
 date: 2025-04-26
 slug: "2025-04-26-vanuatu-day-8"
 image: "images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg"
@@ -26,7 +30,7 @@ tags: ["旅遊", "萬那杜"]
 
 今天早上離開 hideaway island 前，很糾結要不要再浮潛一次，最後決定還是覺得算了（不想重複上述流程）。
 
-![](images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg)![](images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg)我吃早餐，蚊子吃我?!
+![海島度假村早餐時光](images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg)![蚊子大軍圍攻用餐](images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg)我吃早餐，蚊子吃我?!
 
 ### M Resort & Spa
 
@@ -34,11 +38,11 @@ tags: ["旅遊", "萬那杜"]
 
 於是直接前往 M Resort & Spa，果然20分鐘的路程我又開了50分鐘，因為北邊的路真的太爛了 😂😂😂 而且我開到最後三公里Google maps 也失去作用，完全一片空白，好險路上還有少少的指標。
 
-![](images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg)![](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg)M Resort & Spa
+![M Resort & Spa 高級度假村](images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg)![度假村海邊餐廳](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg)M Resort & Spa
 
 一到之後完全覺得也太美了！完全就是高級度假村的風格，超美！我點了 lemongrass chicken (擺盤很美、份量很大，但味道一般），反倒是我點的mocktail 很好喝，但我一直以為 mocktail 應該會做成雞尾酒🍹的樣子？我覺得這杯比較像是 smoothie 吧😆
 
-![](images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg)擺盤好美！
+![香茅雞精緻擺盤](images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg)擺盤好美！
 
 這裡除了有餐廳之外（他們其實也有住宿），還可以免費浮潛！但是這邊的水超級淺的，我一不小心腿就被珊瑚礁割傷，一上岸之後蒼蠅一直想停在我的傷口上，太可怕了！我立刻就決定開車走人😆
 
@@ -56,15 +60,15 @@ tags: ["旅遊", "萬那杜"]
 
 甚至還跑去使用了一下這裡的游泳池，然後我突然發現為什麼我這幾天就算旅館有泳池我也沒去（雖然主要是因為時間不夠），因為真的好無聊🤣🤣🤣 我都來到這種有真海邊的地方了，一個人在泳池真的不怎麼好玩😆
 
-![](images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg)![](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg)
+![人生首次 kayaking 體驗](images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg)![海邊划獨木舟樂趣](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg)
 
-![](images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg)![](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg)Fatumaru Lodge
+![Fatumaru Lodge 游泳池](images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg)![度假村海邊設施](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg)Fatumaru Lodge
 
 晚上本來全副武裝（狂噴防蚊液）準備開車去附近的餐廳吃飯。吃飯前我先開車去超市附屬的加油站加油（這裡的加油站是像台灣一樣會有人服務的喔，完全不用下車！）
 
 結果我完全太會算，一加完剛好就是我還車需要的油量+10公里。進到超市後發現他們居然有在賣烤雞跟薯條，於是我就決定外帶回旅館，這樣剛好明天租車公司可以直接到旅館領車，我也不用再加油。
 
-![](images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg)![](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg)超市晚餐
+![萬那杜超市烤雞](images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg)![外帶薯條烤雞晚餐](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg)超市晚餐
 
 我真的覺得這個租車公司不錯，市區內他們可以免費到你的住宿點 pick up 車子。希望萬那杜的基礎建設可以慢慢改善，東南海岸線開起來真的很舒服～ 西南海岸線跟北區則是悲劇一場。然後市區平日很容易大塞車，我覺得在這裡體驗到塞車也是很有趣😆
 

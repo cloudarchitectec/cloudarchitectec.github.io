@@ -12,19 +12,19 @@ tags: ["旅遊", "瑞士"]
 
 ### 一個女生的歐洲獨旅: 2024.05.08 瑞士首都伯恩 (Bern) 說走就走之旅
 
-![](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg)瑞士 國會大廈
+![瑞士伯恩國會大廈](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg)瑞士 國會大廈
 
 ### 火車上結識瑞士杯杯
 
 今天要離開茵特拉肯 (Interlaken)，前往歐洲行的最後一個城市琉森 (Luzern) ！
 
-![](images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpeg.jpg)我最愛的瑞士便利商店餐點組合：鮪魚三明治與冰拿鐵
+![瑞士便利商店餐點組合](images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpeg.jpg)我最愛的瑞士便利商店餐點組合：鮪魚三明治與冰拿鐵
 
 本來預訂的行程是，到了琉森之後先去海拔 2000公尺的皮拉圖斯山，然後明天再去海拔 3000 公尺的鐵力士山 (真是一山還有一山高XD)，但因為天公不作美，後來我的行程就來了一個大轉彎😂
 
 在前往琉森的火車上，我遇到一個人超好的瑞士杯杯！他不僅把景觀比較好的座位讓給我拍照，沿途幫我介紹經過的四個湖泊，杯杯還給了我他身為當地人的旅遊建議 (杯杯不建議我今天上皮拉圖斯山，因為今天的天氣看起來很糟，就算上山可能也只會看到霧茫茫的一片，但他說我可以到了旅館之後再跟旅館櫃檯確認一下情況，最喜歡這種給意見但是又不武斷的人了！）
 
-![](images/medium-1*bgE52bqShgmt9nqamDlgYA.jpeg.jpg)![](images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpeg.jpg)![](images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpeg.jpg)火車沿途的湖景超美
+![瑞士火車沿途湖景](images/medium-1*bgE52bqShgmt9nqamDlgYA.jpeg.jpg)![阿爾卑斯山湖泊風光](images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpeg.jpg)![火車窗外山水美景](images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpeg.jpg)火車沿途的湖景超美
 
 杯杯跟我提到，他其中一個兒子環遊世界時的其中一站是臺灣，他兒子跟他說臺灣的食物好吃（我心想那當然囉XD）、風景漂亮、人也很nice!
 
@@ -34,7 +34,7 @@ tags: ["旅遊", "瑞士"]
 
 瑞士的首都伯恩其名稱來自德文的熊「Bär」。因為公爵 Zähringen 在 1191 年建城時，捕捉的第一隻動物就是熊。
 
-![](images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpeg.jpg)![](images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpeg.jpg)伯恩麵包店裡面賣的熊塔，超可愛
+![伯恩麵包店熊造型塔](images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpeg.jpg)![可愛熊塔甜點](images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpeg.jpg)伯恩麵包店裡面賣的熊塔，超可愛
 
 現在的瑞士政府還特地為熊建了巨大的熊公園，但裡面只住了三隻熊！
 
@@ -46,7 +46,7 @@ tags: ["旅遊", "瑞士"]
 
 除了熊公園之外，這裡還有一個愛因斯坦相關的景點，雖然愛因斯坦是德國人，但他曾在伯恩住過七年，並在伯恩專利局工作。這段期間也是愛因斯坦在研究中取得豐碩成果的時期，著名的相對論便是在 1905 年發表的喔！
 
-![](images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpeg.jpg)![](images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpeg.jpg)![](images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpeg.jpg)愛因斯坦在伯恩的故居
+![愛因斯坦伯恩故居外觀](images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpeg.jpg)![故居博物館入口](images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpeg.jpg)![愛因斯坦舊居建築](images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpeg.jpg)愛因斯坦在伯恩的故居
 
 當時愛因斯坦居住的故居，現在一樓是咖啡館、二三樓則以博物館的形式對外開放。愛因斯坦故居的參觀門票要$7瑞士法朗，我看了 Google 評價，毀譽參半，但因為我覺得票價也不是很貴，所以我還是入內參觀了。
 
@@ -56,7 +56,7 @@ tags: ["旅遊", "瑞士"]
 
 但樓下的愛因斯坦咖啡店我個人覺得還不錯，是一個很舒服的環境（而且有廁所XD）。他們的招牌是愛因斯坦咖啡，特別之處在於將杏仁甜酒(Amaretto)、白蘭地與濃縮咖啡三者調和，上面再加上打發的鮮奶油，是款帶有濃濃酒味的咖啡！（總結了我這幾天在瑞士喝咖啡的經驗，我發現瑞士的咖啡特色就是上面都會有厚厚一層鮮奶油）
 
-![](images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpeg.jpg)![](images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpeg.jpg)![](images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpeg.jpg)愛因斯坦咖啡
+![愛因斯坦咖啡館環境](images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpeg.jpg)![招牌愛因斯坦咖啡](images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpeg.jpg)![咖啡館特調飲品](images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpeg.jpg)愛因斯坦咖啡
 
 品嚐之後發現這杯咖啡酒非常烈，一入喉有烈酒的擊喉感，喝一口之後整個人就已經熱了起來！雖然它大概是一般咖啡的兩倍價格，但感覺很值回票價？因為白蘭地加很多XDDD
 
@@ -78,6 +78,6 @@ tags: ["旅遊", "瑞士"]
 
 只好瞬間放棄，去超市買了晚餐之後，回旅館休息。在琉森的住宿是一個今年才剛開始開幕的膠囊旅館，一晚約83澳幣(因為其他旅館至少一晚都超過300澳幣以上，爆炸貴，而且看起來也不是特別高級）。其實我覺得這個膠囊旅館還不錯，內部空間非常寬敞，而且可愛！但是那個昏黃的燈光真的是讓我連自己的櫃子都看不到XDDD 猜測可能是因為膠囊旅館隨時有人入住，為了讓旅客艘時有個可休息的環境，所以才把燈光調整成這樣？
 
-![](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpeg.jpg)![](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpeg.jpg)晚餐與膠囊旅館的換書區
+![琉森膠囊旅館晚餐](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpeg.jpg)![旅館換書區休息空間](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpeg.jpg)晚餐與膠囊旅館的換書區
 
 {{< footer >}}
