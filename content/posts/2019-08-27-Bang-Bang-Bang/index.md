@@ -10,7 +10,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### **零基礎轉職澳洲工程師: 2019.08.27** Bang Bang Bang
 
-![](images/medium-0*mMMqME1uea3S1W9v.jpg)Photo by [Alexis Fauvet](https://unsplash.com/@childeye?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式學習密集訓練週進展](images/medium-0*mMMqME1uea3S1W9v.jpg)Photo by [Alexis Fauvet](https://unsplash.com/@childeye?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 果然經過了驚險刺激(好玩有趣?)的第一週之後，我覺得我好像已經沒什麼東西可以寫了XD
 

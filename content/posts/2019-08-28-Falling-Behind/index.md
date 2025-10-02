@@ -10,7 +10,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### **零基礎轉職澳洲工程師:** 2019.08.28 Falling Behind
 
-![](images/medium-0*ATDvS5yWVyL3Z8An.jpg)Photo by [Jorge Vitorino](https://unsplash.com/@jorgevitorino?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式學習進度落後焦慮感](images/medium-0*ATDvS5yWVyL3Z8An.jpg)Photo by [Jorge Vitorino](https://unsplash.com/@jorgevitorino?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

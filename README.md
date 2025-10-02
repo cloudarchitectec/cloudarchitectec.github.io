@@ -58,6 +58,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Fixed tags, pagination, images, titles
 - Configured Google Search Console
 - Added Schema.org configuration
+- Added alt text to images
 
 ## Contributing
 

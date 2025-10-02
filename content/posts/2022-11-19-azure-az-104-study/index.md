@@ -12,7 +12,7 @@ tags: ["職涯", "雲端證照"]
 
 ### 微軟 Azure 雲端證照: 只花 40 小時順利通過 AZ-104 Azure Administrator Associate
 
-![a person studying](images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpeg.jpg)Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/exam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Azure雲端證照考試準備學習](images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpeg.jpg)Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/exam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ### **背景介紹**
 

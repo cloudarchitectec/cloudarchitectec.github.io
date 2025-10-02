@@ -12,7 +12,7 @@ tags: ["旅遊", "紐西蘭"]
 
 ### 兩個女生的紐西蘭自駕滑雪行: 行程與花費分享
 
-![](images/medium-0*fYVrU-_MGwq3cCGa.jpg)Photo by [Hugo Villegas](https://unsplash.com/@gohu?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![紐西蘭南阿爾卑斯山雪景](images/medium-0*fYVrU-_MGwq3cCGa.jpg)Photo by [Hugo Villegas](https://unsplash.com/@gohu?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 應讀者要求，決定要來開展一個新系列「兩個女生的紐西蘭自駕滑雪行 🇳🇿」分享我的紐西蘭遊記～ 大家如果有其他想看的主題，記得留言給我說！只要有許願的話，願望通常都會實現喔XD
 
@@ -34,7 +34,7 @@ tags: ["旅遊", "紐西蘭"]
 
 百般糾結之下，我們意外發現了飛奧克蘭的機票只要 $400 澳幣($8,000台幣)，九月初算是雪季末但還是可以滑雪，而且滑完雪北島還有溫泉可以泡，那就決定是你啦！(澳洲的雪山不像日本，通常都沒有溫泉的選項。)
 
-![](images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg)紐西蘭深山XD
+![紐西蘭北島深山風景](images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg)紐西蘭深山XD
 
 * * *
 
@@ -66,7 +66,7 @@ EC 在 2012 年時一個人去過紐西蘭南島，我記得當年拿台灣護�
 
 ### **行程**
 
-![](images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg) 哈比村
+![哈比村魔戒拍攝經典場景](images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg) 哈比村
 
 08/31
 
@@ -119,7 +119,7 @@ EC 在 2012 年時一個人去過紐西蘭南島，我記得當年拿台灣護�
 
 ### 花費總結
 
-![](images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg)紐西蘭特產羊咩咩
+![紐西蘭特色綿羊牧場](images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg)紐西蘭特產羊咩咩
 
 這次八天七夜的紐西蘭滑雪行，我個人的花費約台幣 5 萬 6。今年剛好出國兩趟，所以我還做了一個歐洲旅費跟紐西蘭旅費的對照表XD
 
@@ -128,7 +128,7 @@ EC 在 2012 年時一個人去過紐西蘭南島，我記得當年拿台灣護�
   * **滑雪真的好貴:** 兩天的雪票＋兩天雪具裝備租借＋一整天 6 小時的單板課程，居然就跟我去歐洲三週的活動費用差不多XD
   * **兩個人分擔住宿真的好便宜** ：我覺得獨旅最大的缺點真的就是高昂的住宿費用！以前年輕時我都住青年旅館的多人房，所以可能差距不會太大，但現在我偏好三星旅館或是 airbnb 的話，沒有另一個人可以分擔費用就真的差滿多的。
 
-![](images/medium-1*kuMTQe2hpKMN3xn8cLWUDg.png.jpg)
+![紐西蘭旅遊花費統計圖表](images/medium-1*kuMTQe2hpKMN3xn8cLWUDg.png.jpg)
 
 ### 結語
 

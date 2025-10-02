@@ -35,7 +35,7 @@ EC 最近真心是忙到翻天，前一陣子還在粉絲頁分享了一下我�
 
 ### 正文開始
 
-![](images/medium-0*E__KYju_lVrQDjj6.jpg)Photo by [Giacomo Folli](https://unsplash.com/@giacomofolli?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![澳洲法律遺囑文件指南](images/medium-0*E__KYju_lVrQDjj6.jpg)Photo by [Giacomo Folli](https://unsplash.com/@giacomofolli?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 身為一個總是超前部署的人，EC 最近不止計算了退休年限，還研究了一下要怎麼寫遺囑XDDD 在大家在想我是不是想太多之前，先讓我細細道來：
 
@@ -81,7 +81,7 @@ EC 最近真心是忙到翻天，前一陣子還在粉絲頁分享了一下我�
 
 身為表格控，EC 怎麼能不幫你們把優缺點比較表做好？（儘管拿去用吧，不用謝XD）
 
-![](images/medium-1*sAkqF--a_kKj6Od1HW-Lyg.png.jpg)
+![澳洲遺囑寫作方式對比](images/medium-1*sAkqF--a_kKj6Od1HW-Lyg.png.jpg)
 
 ### 遺囑範例
 
@@ -94,7 +94,7 @@ EC 最近真心是忙到翻天，前一陣子還在粉絲頁分享了一下我�
   5. **葬禮指示** ：其實這點也沒有硬性規定，但我覺得就算你完全不在乎，還是稍微簡單描述一下比較好，不然大家可能也不知道要怎麼辦？當然如果你有心目中的理想葬禮，那就跟上面一樣，請你大寫特寫XD
   6. **簽名與見證人簽名：** 這邊上面已經提過了，基本上就是你要在兩位見證人面前簽名，然後兩位見證人也要簽名，記得簽名要寫日期～
 
-![](images/medium-1*V7gvWqb2-VbwTCRswWCzbQ.png.jpg)Page 1![](images/medium-1*FOBkY0d_lhvkB8xMehVwRA.png.jpg)Page 2
+![澳洲遺囑模板範例頁1](images/medium-1*V7gvWqb2-VbwTCRswWCzbQ.png.jpg)Page 1![澳洲遺囑模板範例頁2](images/medium-1*FOBkY0d_lhvkB8xMehVwRA.png.jpg)Page 2
 
 ### 最後的建議
 

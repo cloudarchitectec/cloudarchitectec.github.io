@@ -10,7 +10,7 @@ tags: ["職涯", "面試"]
 
 ### 微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)
 
-![2 people sitting together in a interview setting](images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg)
+![微軟雲端架構師職位面試](images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg)
 
 * * *
 

@@ -12,7 +12,7 @@ tags: ["職涯", "程式訓練營"]
 
 ### 轉職 IT 不踩雷：文組轉職工程師的 Coding Bootcamp 挑選指南
 
-![](images/medium-0*q2epsdGOAZx-wOF5.jpg)Photo by [Meghan Holmes](https://unsplash.com/@yellowteapot?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式設計學習環境示意圖](images/medium-0*q2epsdGOAZx-wOF5.jpg)Photo by [Meghan Holmes](https://unsplash.com/@yellowteapot?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 上週在 Threads 上分享了我當年靠著讀完 coding bootcamp 成功從文組轉職工程師入職澳洲 Amazon 的故事，收到廣大熱議XD
 
@@ -164,7 +164,7 @@ _轉職就跟投資理財一樣有賺有賠。作為一位從台灣文組背景�
 
 下面順便提供網路資訊查出來的澳洲前三大 coding bootcamp 的比較，僅供大家參考！
 
-![](images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png.jpg)
+![程式設計課程內容架構圖](images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png.jpg)
 
 實際的最新資訊還請自行上每間學校的官網查詢（畢竟每個學校可能隨時更新規定）
 

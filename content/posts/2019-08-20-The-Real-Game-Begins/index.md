@@ -10,7 +10,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### 零基礎轉職澳洲工程師: 2019.08.20 The Real Game Begins
 
-![](images/medium-0*tccay5yVUk7f1Hm7.jpg)Photo by [Nathan Anderson](https://unsplash.com/@nathananderson?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式設計學習正式開始](images/medium-0*tccay5yVUk7f1Hm7.jpg)Photo by [Nathan Anderson](https://unsplash.com/@nathananderson?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 我先發誓我這篇要寫得很簡短! 如果不行… 我以後就立志要成為打字速度超快的打字王!😂 (未來的 EC: 當年的我居然會在自己的網誌跟自己精神喊話，也太好笑XDDD)
 
@@ -26,7 +26,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### 電腦基本硬體架構
 
-![](images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpeg.jpg)
+![電腦硬體基礎架構教學](images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpeg.jpg)
 
 裝完後，一樣分開兩個小隊，然後老師開始拆電腦大概跟我們說明了一下各個重點。講完這個就開始講 command line，就算這個東西我在 prework 中有做，我也只是勉強跟上而已! 老師講得啪啪快，重點是同學還能一直踴躍發問，我真心是要累死囧
 
@@ -44,7 +44,7 @@ tags: ["職涯", "轉職工程師"]
 
 好不容易吃完我就閃進教室了，本來想宅一下，結果中國偉恩大哥「登高一呼」(沒有啦~ 他只是剛好在我附近看著我說「要不要跟我們一起出去走走?」XD)，我為了不要顯得太孤僻，就答應了! 結果發現他的「我們」是指義大利小哥跟尼泊爾小哥，剛好也是另外兩個我很喜歡的人類，於是我們就愉快地出去繞了一圈(天知道我根本才剛從回來哈哈哈哈哈哈!) 但不得不說走完的確覺得心情變好了，感覺我做人也不是太失敗XD
 
-![](images/medium-1*NyILRsUnysMY9zenjmapLg.jpeg.jpg)
+![程式訓練營同學午休漫步時光](images/medium-1*NyILRsUnysMY9zenjmapLg.jpeg.jpg)
 
 回來之後就開始狂做 workbook 的練習(這裡再度批評一下，有些題目根本只有用mac的人才做得了，老師也不事先說，我回家看slack才看到)，我也是做得零零落落!
 

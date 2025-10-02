@@ -12,7 +12,7 @@ tags: ["職涯", "薪資"]
 
 ### 澳洲 DevOps 工程師薪資大揭秘：2023–2024 最新數據
 
-![](images/medium-0*wVIVFXLLPPZ4yFC4.jpg)Photo by [Eldar Nazarov](https://unsplash.com/@eldarnazarov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![澳洲DevOps工程師薪資分析](images/medium-0*wVIVFXLLPPZ4yFC4.jpg)Photo by [Eldar Nazarov](https://unsplash.com/@eldarnazarov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 閒來無事研究了一下澳洲 DevOps Engineers 的薪水(中文可翻為「開發維運工程師」，但其實 DevOps 這個詞通常直接用英文陳述居多)，想說順便可以跟大家分享一下。
 

@@ -10,7 +10,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### 零基礎轉職澳洲工程師**:** 2019.08.23 Survived the 1st Week
 
-![](images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg)
+![程式訓練營第一週成功生存](images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg)
 
 今天也是平凡無奇的上課日XD
 

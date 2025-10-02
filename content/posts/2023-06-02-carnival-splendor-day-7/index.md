@@ -11,7 +11,7 @@ tags: ["旅遊", "郵輪"]
 
 ### 2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Signal Island (New Caledonia)
 
-![](images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg)毛巾猩猩(?) 房務員還把 Ashley 的眼鏡放在上面，超好笑!
+![郵輪房務創意毛巾猩猩](images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg)毛巾猩猩(?) 房務員還把 Ashley 的眼鏡放在上面，超好笑!
 
 * * *
 
@@ -27,23 +27,23 @@ tags: ["旅遊", "郵輪"]
 
 **Signal Island**
 
-![](images/medium-1*pkrhyBIJ7puIz4dS-AWQ5A.jpeg.jpg) Signal Island Jetty
+![Signal Island碼頭登陸點](images/medium-1*pkrhyBIJ7puIz4dS-AWQ5A.jpeg.jpg) Signal Island Jetty
 
 我們訂了一個人$75的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 signal island 試圖用海水冰鎮它們 (想當然爾沒用XDDD)。
 
-![](images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpeg.jpg)沙灘啤酒
+![Signal Island沙灘啤酒享受](images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpeg.jpg)沙灘啤酒
 
 去 Signal island 的船開得超快，完全就像搭了30分鐘的speed boat，到了之後我們才發現島上滿滿的遊客 (一開始還以為能擁有我們自己的小空間)，而且好像很多當地遊客，因為我們發現很多人帶著帳篷跟露營設備去島上。而且海水超冷，所以一開始我還想說要不要乾脆放棄浮潛這個念頭，但在沙灘上曬了一下，覺得來都來了，不去浮潛也太浪費，於是我就出發了
 
-![](images/medium-1*_8qT-33mIRs1_H5FMc9BBA.jpeg.jpg)就是這搜小船開出噴射汽艇的氣魄!!!
+![Signal Island高速快艇](images/medium-1*_8qT-33mIRs1_H5FMc9BBA.jpeg.jpg)就是這搜小船開出噴射汽艇的氣魄!!!
 
 **與野生海龜一起游泳**
 
-![](images/medium-1*TogxxI52YCC_-OmRdC5TiA.jpeg.jpg) 海水很淺
+![Signal Island淺海水域](images/medium-1*TogxxI52YCC_-OmRdC5TiA.jpeg.jpg) 海水很淺
 
 Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始得走過10分鐘的礁岩沙灘，我的腳掌完全痛爆，腳上又多了更多割傷，真心是痛到爆炸！強烈建議大家還是先在Kmart 買好 water shoes/reef shoes 再來，我當初有去找但沒找到，現在非常後悔，因為我的腳隔了幾天都還在痛，強烈建議大家一定要帶!
 
-![](images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpeg.jpg)野生海龜!!!
+![Signal Island野生海龜奇遇](images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpeg.jpg)野生海龜!!!
 
 但是這趟浮潛非常值得，因為我看到兩隻海龜，還與海龜一起游泳我覺得是非常特別的體驗! 而且經過這次我覺得我自己還算是會游泳? (因為同行的泰國情侶出發去浮潛前一直問我水會很深嗎? 他們對游泳真的不太有信心）我其實也沒有超會游啦，但至少我完全不怕水，在岸邊浮潛游泳完全沒問題(我會先衡量好自己有辦法游回到岸邊的距離)，但如果是直接在海裡游泳的話，我覺得可能還是要穿救生衣比較保險，畢竟我的體力真的太差了。
 
@@ -51,7 +51,7 @@ Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始
 
 晚上去參加了 80 年代搖滾螢光趴，還發了螢光棒當道具很不錯!!!
 
-![](images/medium-1*XU3yT7_raobC99qC2ioKiA.jpeg.jpg)有 live band 真的很嗨![](images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpeg.jpg)而且還發螢光棒!
+![郵輪80年代現場樂團表演](images/medium-1*XU3yT7_raobC99qC2ioKiA.jpeg.jpg)有 live band 真的很嗨![郵輪80年代螢光棒派對](images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpeg.jpg)而且還發螢光棒!
 
 很多人也裝扮得很認真，但超多首80年代的歌我跟Ashley 都不知道，很難嗨起來 lol
 

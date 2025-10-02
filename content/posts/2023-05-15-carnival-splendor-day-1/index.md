@@ -12,7 +12,7 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 ### 2023.05.15 Carnival Splendor 澳洲南太平洋郵輪 — Day 1 雪梨登船
 
-![](images/medium-0*_BLHxdyFQQzbm-Sg.jpg)Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![郵輪旅遊度假概念圖](images/medium-0*_BLHxdyFQQzbm-Sg.jpg)Photo by [Alonso Reyes](https://unsplash.com/@alonsoreyes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 
 * * *
@@ -23,7 +23,7 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 我們訂的是有陽台的雙人房，一個人大概是1200澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。詳細的行程資訊請參考遊輪公司的官方網站**:**[Carnival Splendor](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)。
 
-![](images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg)
+![Carnival Splendor 郵輪航線圖](images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg)
 
 ### **雪梨 Circular Quay**
 
@@ -41,13 +41,13 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 我們訂的陽台房出發前剛好正對著雪梨歌劇院，真的是非常幸運~
 
-![](images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpeg.jpg)從陽台看雪梨歌劇院
+![郵輪陽台房眺望雪梨歌劇院](images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpeg.jpg)從陽台看雪梨歌劇院
 
 **出發啦**
 
 4點遊輪正式出航，一路上看到了很美的夕陽與晚霞。
 
-![](images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpeg.jpg)雪梨大橋與夕陽
+![雪梨港灣大橋夕陽美景](images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpeg.jpg)雪梨大橋與夕陽
 
 **晚餐 — Gold Pearl (Main Dining Room)**
 
@@ -59,12 +59,12 @@ Check-in 時我們選的是 early dine-in，所以5:15 就可以入座用餐了�
 
 吃完晚餐我們回房間休息了一下 (其實我已經累到不行了，因為我早上還上班處理了一堆事)，然後去了劇院觀賞晚上 9:30的 welcome aboard show。表演的工作人員真的都很認真努力，但這個 show 其實感覺看與不看都可以XD
 
-![](images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpeg.jpg)三樓劇場
+![Carnival郵輪三樓劇場](images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpeg.jpg)三樓劇場
 
 ### **第一天小結**
 
 渡輪還算平穩，但三不五時還是會有搖晃感，我們倆個人都吃了一顆暈船藥做準備，所以完全沒有不舒服的感覺。但如果特別會暈船的人，可能還是要三思再決定要不要參與遊輪行(或是需要勤奮地吃暈船藥XD)。
 
-![](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
+![遊輪九樓露天電影院設施](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
 
 {{< footer >}}

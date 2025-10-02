@@ -10,7 +10,7 @@ tags: ["職涯", "微軟"]
 
 ### 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天
 
-![](images/medium-0*FOS26PQyvkwSGy1W.jpg)Photo by [Raychel Sanner](https://unsplash.com/@raychelsnr?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![微軟雲端架構師日常工作](images/medium-0*FOS26PQyvkwSGy1W.jpg)Photo by [Raychel Sanner](https://unsplash.com/@raychelsnr?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

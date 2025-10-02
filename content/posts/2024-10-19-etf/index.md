@@ -24,7 +24,7 @@ tags: ["投資理財", "ETF", "退休規劃"]
 
 台灣市場則大約是 0.8%。雖然台灣的經濟規模相對較小，但在全球供應鏈中特別是科技產業（如半導體）中扮演著極其重要的角色，例如台積電（TSMC）在全球技術和製造領域的影響力非常顯著。雖然台灣佔全球經濟總量的比例不大，但在高科技產業中有著極大的戰略性影響喔～
 
-![](images/medium-0*3cOpRFYR1oXIZ7jk.jpg)Photo by [Tyler Prahm](https://unsplash.com/@tprahm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![投資理財概念圖](images/medium-0*3cOpRFYR1oXIZ7jk.jpg)Photo by [Tyler Prahm](https://unsplash.com/@tprahm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 最常見的澳洲 ETF 投資組合
 
@@ -92,7 +92,7 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 
 首先要找到 ETF Fact Sheet 非常簡單，只要搜尋你想要的 ETF code + fact sheet 即可，例如搜尋 VAS fact sheet 我們就會得到以下的兩頁 PDF: [VAS Fact Sheet](https://fund-docs.vanguard.com/ETF-Vanguard_Australian_Shares_Index_ETF_8205_FS_VAS.pdf) (fact sheet 通常會每季更新，所以大家到時候要記得去看最新的資料喔)
 
-![](images/medium-1*lZtU1hwdWibQV_2JVCJHBw.png.jpg)
+![Vanguard VAS ETF 基金說明書第一頁，顯示基金基本資訊與管理費](images/medium-1*lZtU1hwdWibQV_2JVCJHBw.png.jpg)
 
 第一頁裡我們主要關注的是以下資訊：
 
@@ -110,7 +110,7 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 
 (呼～ 第一頁看完了，恭喜！一開始看可能會覺得很複雜，但等你看完三份之後，就會立刻抓到規律了XD)
 
-![](images/medium-1*zvODeYJrAd2cZ2PmNxAU_Q.png.jpg)
+![VAS ETF 基金說明書第二頁持股分析](images/medium-1*zvODeYJrAd2cZ2PmNxAU_Q.png.jpg)
 
 第二頁我們要看的是：
 
@@ -154,7 +154,7 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 
 以下就是我的表格分析 (以下真的不是理財建議！)：
 
-![](images/medium-1*Lt0IKGyc3hUpMyZ59-hJeA.png.jpg)
+![ETF 投資分析比較表格](images/medium-1*Lt0IKGyc3hUpMyZ59-hJeA.png.jpg)
 
   * **就美股指數基金來說，我覺得 IVV 比 VGS 更值得投資：** 雖然他們兩個其實沒有完全相等啦，因為 VGS 其實是全世界減去澳洲，所以除了美國約佔 73% 外，還包含了其他國家。但在表現差不多的情況下，VGS 的管理費是 IVV 的 4.5 倍，但它又不會帶給我4.5倍的收益XD 當然如果分散國家風險對你來說很重要，重要到你願意花更多的管理費來包含其他重要的世界經濟體，那你也可以選 VGS，所以就看個人考量囉～
   * **就澳股指數基金來說，我可能會改投 A200:** 我之前有投資 VAS，但後來全部賣掉了，因為我拿去作為買投資房的頭期款了。現在持有 VHY，因為我有一陣子沈迷於股息XD 但我重新審視後，發現 VHY 的管理費真的太高了，因此我雖然不會賣掉 VHY，但我之後不會再買進 VHY，而是改投 A200，原因其實跟上面一樣，在報酬率差不多的情況下，選管理費最低的最有效 (除非你有其他投資考量)。

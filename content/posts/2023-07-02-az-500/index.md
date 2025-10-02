@@ -12,19 +12,19 @@ tags: ["職涯", "雲端證照"]
 
 ### 微軟 Azure 雲端證照: 八小時速成攻略通過微軟 AZ-500 Azure Security Engineer Associate 資訊安全工程師認證
 
-![](images/medium-0*L92NknyMUKwSh39M.jpg)Photo by [Nick Morrison](https://unsplash.com/@nickmorrison?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![Azure資訊安全證照考試準備](images/medium-0*L92NknyMUKwSh39M.jpg)Photo by [Nick Morrison](https://unsplash.com/@nickmorrison?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 > 💡 適合：非資安專業背景、全職準備考試、希望用最少時間搞懂 AZ-500 考試重點的人！（以下為我 2023 年準備考試的經驗，僅供參考！）
 
 ### 前言
 
-![](images/medium-1*JDM25uySjROCzXf6MNv1og.png.jpg)成績單
+![AZ-500資安證照考試成績單](images/medium-1*JDM25uySjROCzXf6MNv1og.png.jpg)成績單
 
 身為微軟澳洲的 Azure 雲端解決方案架構師，我的日常工作與雲端密不可分。然而，資安從來不是我的專長。這次挑戰 AZ-500 認證，完全是自我突破的一場實驗。憑藉我過去累積的雲端證照考試經驗（AWS + Azure），我擬定了一套高效率的備考方式，並在不到 8 小時內完成準備並一次通過考試！
 
 擁有豐富考證歷史的我，已經非常了解對我自己最有效的證照學習方式：我喜歡從教學影片入門、快速建立概念，再搭配大量練習題測試吸收程度、針對弱點加強。
 
-![](images/medium-1*AsafZNOn3JAvxl3wS05oPw.png.jpg)我的 AWS 和 Microsoft Azure 雲端證照考試歷史
+![AWS與Azure雲端證照考試歷程](images/medium-1*AsafZNOn3JAvxl3wS05oPw.png.jpg)我的 AWS 和 Microsoft Azure 雲端證照考試歷史
 
 ### 我的 AZ-500 證照準備清單
 

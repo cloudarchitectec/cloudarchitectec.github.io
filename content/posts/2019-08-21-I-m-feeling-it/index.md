@@ -11,7 +11,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### 零基礎轉職澳洲工程師: 2019.08.21 I’m feeling it!
 
-![](images/medium-0*BSj9yl-OTGs5uKYD.jpg)Photo by [Troy T](https://unsplash.com/@ttcollect?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式學習動力滿滿的一天](images/medium-0*BSj9yl-OTGs5uKYD.jpg)Photo by [Troy T](https://unsplash.com/@ttcollect?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 (根據上一篇的長度，我決定立志成為打字王 😂)
 
@@ -23,7 +23,7 @@ tags: ["職涯", "轉職工程師"]
 
 但在開始之前，我必須跟你們分享一下蘇的裝備到底有多誇張XDDD
 
-![](images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg)
+![學習裝備](images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg)
 
 除了第一天就自備外接螢幕外，第二天她還帶了筆電直立式散熱器、人體工學鍵盤、人體工學滑鼠，她跟我說這些投資很值得，全部加起來大概兩百澳不到LOL
 
@@ -51,13 +51,13 @@ tags: ["職涯", "轉職工程師"]
 
 我給的指令是「輕輕把花生醬上的封膜撕掉」，後來大家學乖了，每個指令要嘛加上 “gently”，要嘛就要描述地很明確，避免老師又用暴力破解法XD (未來的 EC: 當年的我只覺得這段教學的娛樂性很強，在台下哈哈大笑。現在的我發現這真是深刻的一課，雖然電腦的運算能力比人類強大太多，但如果指令下得不夠明確或是不了解電腦的運作方式，其實很容易會得到意想不到的結果，這也是為什麼我們工程師常常在 debug 的原因！)
 
-![](images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg)![](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg)右圖是最後被留在講桌上的花生醬吐司，也太慘烈了lol
+![程式訓練營早餐互動時光](images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg)![剩餘的早餐花生醬吐司](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg)右圖是最後被留在講桌上的花生醬吐司，也太慘烈了lol
 
 ### 晶片玩具
 
 今天我們也獲得了一個新玩具 Circuit Playground (長得有點像晶片)，我們可以寫程式控制它的變化，例如可以寫程式讓它唱歌(今天有同學成功XD)，還可以讓它閃七彩霓虹燈! 超酷的啦!!!!
 
-![](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg)![](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg)![](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg)這個酷東西真的很好玩，葛瑞真的是一個很有想法的老師！
+![程式實作創意教學道具](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg)![老師自製程式概念教學工具](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg)![創意程式學習互動裝置](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg)這個酷東西真的很好玩，葛瑞真的是一個很有想法的老師！
 
 ### 凱西小姐
 

@@ -12,7 +12,7 @@ tags: ["職涯", "轉職工程師", "澳洲生活"]
 
 ### 轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)
 
-![](images/medium-0*rqpmoMhuClAH1A3L.jpg)Photo by [Roger Bradshaw](https://unsplash.com/@roger3010?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![職涯轉職規劃策略分析思考](images/medium-0*rqpmoMhuClAH1A3L.jpg)Photo by [Roger Bradshaw](https://unsplash.com/@roger3010?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 

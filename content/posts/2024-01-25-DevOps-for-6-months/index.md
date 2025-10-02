@@ -10,7 +10,7 @@ tags: ["職涯", "薪資"]
 
 * * *
 
-![](images/medium-0*s0H-Uir4l9_Oukde.jpg)Photo by [John Schnobrich](https://unsplash.com/@johnishappysometimes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![DevOps工作環境示意圖](images/medium-0*s0H-Uir4l9_Oukde.jpg)Photo by [John Schnobrich](https://unsplash.com/@johnishappysometimes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前情提要
 

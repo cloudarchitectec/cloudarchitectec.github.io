@@ -12,7 +12,7 @@ tags: ["旅遊", "紐西蘭"]
 
 ### 兩個女生的紐西蘭自駕滑雪行: 2024.09.01 探訪魔戒拍攝景點哈比村
 
-![](images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg)哈比村
+![紐西蘭哈比村魔戒拍攝景點](images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg)哈比村
 
 今天開車前往魔戒與哈比人的拍攝景點，哈比村！
 
@@ -22,7 +22,7 @@ tags: ["旅遊", "紐西蘭"]
 
 * * *
 
-![](images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpeg.jpg)![](images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpeg.jpg)
+![哈比村早晨導覽團體驗](images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpeg.jpg)![魔戒哈比人小屋群](images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpeg.jpg)
 
 我們為了躲開人潮，選的是最早的 8:50 中文團 (英文團最早是9:00，每十分鐘一團）。這個決定是明智的，因為我們這一團只有11人，通常一團滿額是40人。每團會分開進兩個小屋參觀，所以我們一個小屋才5–6人，參觀品質算是很不錯，拍照不會滿滿都是人頭。不過參觀時間只有15分鐘，覺得有點太短🥲
 
@@ -32,13 +32,13 @@ tags: ["旅遊", "紐西蘭"]
 
 哈比人小屋的佈置真的很棒，超多細節，而且小屋裡面的所有裝飾都可以觸碰！
 
-![](images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpeg.jpg)![](images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpeg.jpg)
+![哈比村小屋內部裝飾](images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpeg.jpg)![魔戒拍攝道具體驗](images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpeg.jpg)
 
-![](images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpeg.jpg)![](images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpeg.jpg)為二可入內參觀的哈比人小屋
+![哈比人居住空間設計](images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpeg.jpg)![Hobbiton 小屋內部陳設](images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpeg.jpg)為二可入內參觀的哈比人小屋
 
 裡面最特別的可能是其中一顆橡樹，所有的葉子都是從臺灣運送來的，並且手工擺放到樹上 (簡介中有特別標註)。
 
-![](images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpeg.jpg)![](images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg)特別的樹
+![哈比村台灣運來橡樹葉](images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpeg.jpg)![魔戒拍攝特殊橡樹](images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg)特別的樹
 
 但我個人覺得，哈比村值不值得紐幣$120 的門票(兩個小時的導覽)可能見仁見智：
 
@@ -47,8 +47,8 @@ tags: ["旅遊", "紐西蘭"]
 
 
 
-![](images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpeg.jpg)![](images/medium-1*87pxJDNxemsffVQgTd1gQg.jpeg.jpg)
+![哈比村魔戒電影場景](images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpeg.jpg)![Hobbiton 園區風景](images/medium-1*87pxJDNxemsffVQgTd1gQg.jpeg.jpg)
 
-![](images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpeg.jpg)![](images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpeg.jpg)
+![紐西蘭哈比村全景](images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpeg.jpg)![魔戒拍攝地導覽結束](images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpeg.jpg)
 
 {{< footer >}}

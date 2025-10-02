@@ -10,7 +10,7 @@ tags: ["職涯", "微軟"]
 
 ### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops
 
-![](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![微軟雲端技術簡報工作坊](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
@@ -72,13 +72,13 @@ tags: ["職涯", "微軟"]
 
   * **Azure Arc:**[**Azure Arc overview — Azure Arc | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
 
-![](images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png.jpg) Azure Arc
+![Azure Arc混合雲服務架構圖](images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png.jpg) Azure Arc
 
 其實 Azure Arc 是我覺得微軟最酷、跟其他雲服務最不一樣的服務! Azure Arc 可以讓你把在 on-premises 環境裡的 Windows & Linux servers 或是其他雲服務平台 (AWS/GCP etc) 的伺服器，變成像是 native Azure Virtual Machines 一樣。所以在 Azure Arc 上你就可以使用 Azure native services like tagging, Azure Policy, Virtual Machine Insights 等等服務來管理你在其他地方的伺服器，超級酷!
 
   * **Azure Update Managment Center:**[**Update management center (preview) overview | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
 
-![](images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png.jpg) Azure UMC
+![Azure更新管理中心服務界面](images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png.jpg) Azure UMC
 
 Azure Update Management Center (UMC) 則是 Azure 最新的伺服器 patching 服務。
 
@@ -112,7 +112,7 @@ ATS 突然傳訊息問我有什麼需要幫忙的嗎？我心想，少在那邊�
 
 ### Workshop 當日
 
-![](images/medium-1*GESZpUU1YXukmjSgmnKlRw.png.jpg)我當天的投影片首頁
+![技術工作坊演示文稿首頁設計](images/medium-1*GESZpUU1YXukmjSgmnKlRw.png.jpg)我當天的投影片首頁
 
 這個 workshop 是 hybrid 的模式，客戶的雪梨團隊會到雪梨辦公室，其他客戶會遠端加入。微軟這邊也是，一些人在雪梨現場，一些人遠端加入。
 

@@ -12,7 +12,7 @@ tags: ["投資理財", "退休規劃"]
 
 ### 好想要退休！案例分析：33 歲宅男實現財務自由 (FIRE) 成功提早退休，難道退休比我想的簡單？
 
-![](images/medium-0*nS9EKqLaT0hNig_O.jpg)Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![財務自由退休計劃筆記](images/medium-0*nS9EKqLaT0hNig_O.jpg)Photo by [Kelly Sikkema](https://unsplash.com/@kellysikkema?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 > 這裡的宅其實沒有貶義，作者本人在批踢踢上的連載標題就是「宅男的退休生活閒聊」，而且 EC 其實也很宅XD
 
@@ -55,7 +55,7 @@ tags: ["投資理財", "退休規劃"]
 
 * * *
 
-![](images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg)![](images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg)
+![PTT 宅男退休分享文截圖第一頁](images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg)![PTT 宅男退休分享文截圖第二頁](images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg)
 
 ### 心得
 
