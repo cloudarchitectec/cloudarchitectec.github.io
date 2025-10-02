@@ -12,7 +12,7 @@ tags: ["職涯", "轉職工程師"]
 
 ### 零基礎轉職澳洲工程師: 2019.08.19 Coding Bootcamp Orientation
 
-![程式設計訓練營開學典禮場景](images/medium-0*ywUyojRimOqTsYDU.jpg)Photo by [ELLA DON](https://unsplash.com/@elladon?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![程式設計訓練營開學典禮](images/medium-0*ywUyojRimOqTsYDU.jpg)Photo by [ELLA DON](https://unsplash.com/@elladon?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 非 Medium 付費會員，請前往方格子連結閱讀免費文章。當然如果你願意加入 Medium 付費會員來支持創作者，那就更棒囉～感謝你的閱讀！
 
@@ -57,7 +57,7 @@ tags: ["職涯", "轉職工程師"]
 
 大家聊了一下，時間一到就進了教室，蘇示意我她有特別想坐的位子，我才發現她居然帶了一個 20幾吋的外接螢幕來學校！！！這真的不會太威嗎XDD (Su 是一個個頭嬌小，講話很秀氣的女生。)
 
-![訓練營學員自備外接螢幕學習](images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg)蘇自己帶來的螢幕
+![訓練營學員自備外接螢幕](images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg)蘇自己帶來的螢幕
 
 進了教室老師先簡單介紹了一下課程，接下來所有工作人員跟學生就開始自我介紹。我們這班大概 25 個學生，其中 6 個女生(女生比例頗低，上一屆好像有 9–10個人! 可見專門提供給女生的女性獎學金並沒有什麼實質效益XDD)，絕大部分都是土生土長雪梨人，剩下的幾個移民有:
 
@@ -77,7 +77,7 @@ tags: ["職涯", "轉職工程師"]
 
 中午學校提供了免費午餐，然後這時候當然要跟同學們繼續交流啊QAQ (聊到我又啞了一次)，下午開始玩一個要跟所有同學/老師/工作人員講話，尋找每個人跟你的三個共通點的破冰遊戲……我真心用盡我最後一絲力氣（內心不斷在想give me a breakkkkkkk!!!!），最後收集了22個人，我也算是盡力了吧LOL
 
-![程式設計訓練營破冰遊戲活動](images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg)破冰遊戲簡直要累死 I 人
+![程式設計訓練營破冰遊戲](images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg)破冰遊戲簡直要累死 I 人
 
 第一天上課我比較有好感的同學有: 好學小夥伴蘇 (是一個bootcamp都還沒開始，就積極展開各式活動的人! 而且她想參加的活動多到她還做了一個excel sheet 哈哈哈)、第二次見面的好聊義大利里其大哥、會講中文人超級好的澳洲姐姐雀爾喜、超好笑的中國大哥偉恩、剛發吉他專輯的澳籍菲律賓裔小弟雷根 (未來的 EC：這位小哥是我們 bootcamp 的 coding 神童！！！他後來去了 HelloFresh 跟 Atlassian)~ 來看看我心目中這份喜歡的人類名單會不會維持下去XDDD
 
@@ -95,7 +95,7 @@ tags: ["職涯", "轉職工程師"]
 
 下面是今天獲得的贈品，有一個冷水壺/咖啡杯/提袋/t-shirt/兩張貼紙/開瓶器鑰匙圈 (友人 Clair 表示: 看起來有種宅宅的感覺XD)
 
-![程式訓練營開學禮品贈送包](images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg)上課第一天的 swags
+![程式訓練營開學禮品包](images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg)上課第一天的 swags
 
 今天下午上課在講 self-branding，我真心覺得我來錯地方了，這麼需要social、需要self-marketing 的地方，不是我想要去的地方啊LOL 我要是這麼喜歡與人交流或講屁話，我就不會來做 IT 了啊QAQ (未來的 EC：嗯，結果後來我發現在澳洲科技業/西方職場，self-branding 就是一切，尤其是在 Tier 1 公司如 Amazon、微軟更是如此)
 

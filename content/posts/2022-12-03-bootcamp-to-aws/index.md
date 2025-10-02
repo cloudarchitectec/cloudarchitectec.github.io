@@ -12,7 +12,7 @@ tags: ["職涯", "轉職工程師", "海外職場", "科技業"]
 
 ### 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！
 
-![職涯規劃筆記本與筆電](images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg)planning photo @[Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters)
+![筆記本與筆電](images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg)planning photo @[Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters)
 
 ### **轉職背景**
 

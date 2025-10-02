@@ -12,7 +12,7 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 ### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第三集：Technical Guidance/Customer Meetings
 
-![微軟雲端架構師技術會議場景](images/medium-0*qzQRQkRstSx0mfxj.jpg)Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![微軟雲端架構師技術會議](images/medium-0*qzQRQkRstSx0mfxj.jpg)Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

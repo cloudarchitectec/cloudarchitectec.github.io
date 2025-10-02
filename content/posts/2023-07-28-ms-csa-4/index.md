@@ -10,7 +10,7 @@ tags: ["職涯", "微軟"]
 
 ### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第四集：Technical Presentation/Workshops
 
-![微軟雲端技術簡報工作坊場景](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![微軟雲端技術簡報工作坊](images/medium-0*6V_gkuucIp6LgEkS.jpg)Photo by [airfocus](https://unsplash.com/@airfocus?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 
