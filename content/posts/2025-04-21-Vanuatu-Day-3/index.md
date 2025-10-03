@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.21 Vanuatu Day 3 地震驚魂�
 date: 2025-04-21
 slug: "2025-04-21-vanuatu-day-3"
 image: "images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg"
-images: ['images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg', 'images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg', 'images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg', 'images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg', 'images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg', 'images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg', 'images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg', 'images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg', 'images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg', 'images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg', 'images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg', 'images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg', 'images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg', 'images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg', 'images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg', 'images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg', 'images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---

@@ -3,7 +3,7 @@ title: "2023.05.21 Carnival Splendor 澳洲南太平洋郵輪 — Day 7 Sea Day 
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-7"
 image: "images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpeg.jpg"
-images: ['images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpeg.jpg', 'images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg', 'images/medium-1*XU3yT7_raobC99qC2ioKiA.jpeg.jpg', 'images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpeg.jpg', 'images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpeg.jpg', 'images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg', 'images/medium-1*XU3yT7_raobC99qC2ioKiA.jpeg.jpg', 'images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpeg.jpg', 'images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpeg.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "郵輪"]
 ---

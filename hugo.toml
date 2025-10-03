@@ -137,6 +137,12 @@ disablePathToLower = true
     theme = "preferred_color_scheme"
     lang = "zh-TW"
 
+  # Newsletter Subscription Configuration
+  [params.newsletter]
+    enabled = true
+    formAction = "https://docs.google.com/forms/d/e/1FAIpQLSdzcSC4uJl-nfNj68GOStX9EeqJXD9pFkz-XtRGUNiUIHK-fQ/formResponse"
+    emailField = "emailAddress"
+
 [languages]
   [languages.zh-hant]
     languageName = "繁體中文"

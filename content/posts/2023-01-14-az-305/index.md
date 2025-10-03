@@ -3,7 +3,7 @@ title: "微軟 Azure 雲端證照: AZ-305 Microsoft Certified Azure Solutions Ar
 date: 2023-01-14
 slug: "2023-01-14-az-305"
 image: "images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg"
-images: ['images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg']
 categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---

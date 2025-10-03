@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃改不�
 date: 2025-04-23
 slug: "2025-04-23-vanuatu-day-5"
 image: "images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg"
-images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---

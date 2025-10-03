@@ -11,7 +11,7 @@ title: "跨國能源公司 (市值 210 億美元在我發問在我發問的部�
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-1"
 image: "images/medium-0*QVp3aout5pRymdfN.jpg"
-images: ['images/medium-0*QVp3aout5pRymdfN.jpg', 'images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*QVp3aout5pRymdfN.jpg', 'images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg']
 categories: ["職涯"]
 tags: ["職涯", "面試", "DevOps", "澳洲生活"]
 ---

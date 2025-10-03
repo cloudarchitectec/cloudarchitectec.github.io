@@ -3,7 +3,7 @@ title: "辭職去流浪，真的是解答嗎？"
 date: 2024-09-13
 slug: "2024-09-13-quit-and-travel"
 image: "images/medium-0*MY-EdliKyYS6OBxE.jpg"
-images: ['images/medium-0*MY-EdliKyYS6OBxE.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*MY-EdliKyYS6OBxE.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活", "職涯"]
 ---
