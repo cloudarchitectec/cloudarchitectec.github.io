@@ -3,7 +3,7 @@ title: "好想要退休！澳洲人壽保險知識分享，在澳洲打拼的你
 date: 2024-12-24
 slug: "2024-12-24-life-insurance"
 image: "images/medium-0*Za2PV_3X9oaOZ0Ci.jpg"
-images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png.jpg', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png.jpg', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png.jpg', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png.jpg', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png.jpg']
 categories: ["投資理財"]
 tags: ["投資理財", "保險"]
 ---

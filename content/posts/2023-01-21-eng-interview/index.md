@@ -3,7 +3,7 @@ title: "澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略
 date: 2023-01-21
 slug: "2023-01-21-eng-interview"
 image: "images/medium-0*3NXkWf7Nc8zqLlyb.jpg"
-images: ['images/medium-0*3NXkWf7Nc8zqLlyb.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*3NXkWf7Nc8zqLlyb.jpg']
 categories: ["職涯"]
 tags: ["職涯", "面試", "求職", "澳洲生活"]
 ---

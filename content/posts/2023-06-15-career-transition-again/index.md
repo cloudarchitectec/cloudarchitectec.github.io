@@ -3,7 +3,7 @@ title: "轉職可以一轉再轉嗎？薪水是轉職最重要的考量？"
 date: 2023-06-15
 slug: "2023-06-15-career-transition-again"
 image: "images/medium-0*sB1VtMiyTXKqNZ3E.jpg"
-images: ['images/medium-0*sB1VtMiyTXKqNZ3E.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*sB1VtMiyTXKqNZ3E.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師", "薪資"]
 ---

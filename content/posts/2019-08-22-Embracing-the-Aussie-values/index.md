@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.22 Embracing the Aussie values?"
 date: 2019-08-22
 slug: "2019-08-22-embracing-the-aussie-values"
 image: "images/medium-0*xMNRe1ZzQJfNdGlr.jpg"
-images: ['images/medium-0*xMNRe1ZzQJfNdGlr.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*xMNRe1ZzQJfNdGlr.jpg']
 categories: ["職涯"]
 tags: ["職涯", "轉職工程師"]
 ---

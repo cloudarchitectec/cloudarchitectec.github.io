@@ -3,7 +3,7 @@ title: "轉職 DevOps 工程師的第六個月：從焦慮到找到穩定節奏"
 date: 2024-01-25
 slug: "2024-01-25-DevOps-for-6-months"
 image: "images/medium-0*s0H-Uir4l9_Oukde.jpg"
-images: ['images/medium-0*s0H-Uir4l9_Oukde.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*s0H-Uir4l9_Oukde.jpg']
 categories: ["職涯"]
 tags: ["職涯", "薪資"]
 ---

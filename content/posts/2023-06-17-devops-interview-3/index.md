@@ -3,7 +3,7 @@ title: "跨國能源公司 (市值 210 億美元) DevOps Platform Engineer 第�
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-3"
 image: "images/medium-0*tXT9M2Ald1m5anwO.jpg"
-images: ['images/medium-0*tXT9M2Ald1m5anwO.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*tXT9M2Ald1m5anwO.jpg']
 categories: ["職涯"]
 tags: ["職涯", "面試"]
 ---

@@ -3,7 +3,7 @@ title: "澳洲簽證種類分析：台灣人想要登入澳洲有哪些選項？
 date: 2024-03-08
 slug: "2024-03-08-au-visa-options"
 image: "images/medium-0*w2i9_BUm90zNlp3e.jpg"
-images: ['images/medium-0*w2i9_BUm90zNlp3e.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*w2i9_BUm90zNlp3e.jpg']
 categories: ["投資理財"]
 tags: ["投資理財"]
 ---

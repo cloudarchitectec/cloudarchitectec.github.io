@@ -3,7 +3,7 @@ title: "太平洋小島上的大冒險：萬那杜花費分析以及心得總結
 date: 2025-04-28
 slug: "2025-04-28-vanuatu-summary"
 image: "images/medium-0*1yEMcLGX3TExcBjX.jpg"
-images: ['images/medium-0*1yEMcLGX3TExcBjX.jpg', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*1yEMcLGX3TExcBjX.jpg']
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---

@@ -3,7 +3,7 @@ title: "澳洲求職必勝法則：外國人身份也能成功找到澳洲科技
 date: 2023-07-20
 slug: "2023-07-20-how-to-land-jobs-in-au"
 image: "images/medium-0*UBDJ0UzDuIfVDgwG.jpg"
-images: ['images/medium-0*UBDJ0UzDuIfVDgwG.jpg', 'images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png', 'images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png', 'images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png', 'images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png', 'images/medium-1*6KGdpzZwegqjjnCelIeHlg.png', 'images/buy-me-coffee.jpg']
+images: ['images/medium-0*UBDJ0UzDuIfVDgwG.jpg', 'images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png', 'images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png', 'images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png', 'images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png', 'images/medium-1*6KGdpzZwegqjjnCelIeHlg.png']
 categories: ["職涯"]
 tags: ["澳洲求職必勝法則", "求職"]
 ---
