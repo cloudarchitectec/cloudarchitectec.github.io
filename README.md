@@ -60,9 +60,10 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Added Schema.org configuration
 - Added alt text to images
 
-2025.10.03
+2025.10.04
 - Updated footer
-- Added email subscription with google form
+- Added email subscription with Google Forms
+- First post
 
 ## Contributing
 

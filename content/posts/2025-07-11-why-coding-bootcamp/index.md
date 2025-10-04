@@ -8,10 +8,6 @@ categories: ["職涯"]
 tags: ["職涯", "程式訓練營"]
 ---
 
-* * *
-
-### 轉職 IT 不踩雷：文組轉職工程師的 Coding Bootcamp 挑選指南
-
 ![程式設計學習環境示意圖](images/medium-0*q2epsdGOAZx-wOF5.jpg)Photo by [Meghan Holmes](https://unsplash.com/@yellowteapot?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 上週在 Threads 上分享了我當年靠著讀完 coding bootcamp 成功從文組轉職工程師入職澳洲 Amazon 的故事，收到廣大熱議XD

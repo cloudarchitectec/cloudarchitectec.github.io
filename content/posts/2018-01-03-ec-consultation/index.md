@@ -4,8 +4,8 @@ date: 2018-01-03
 slug: "2018-01-03-ec-consultation"
 image: "images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg"
 images: ['images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg', 'images/medium-1*H9WpBHFGIQ2C-tuiTvAiHg.png.jpg']
-categories: ["職涯"]
-tags: ["職涯", "海外職場", "面試", "履歷"]
+categories: ["EC"]
+tags: ["EC","職涯", "職涯諮詢", "海外職場", "面試", "履歷"]
 ---
 
 ![EC職涯諮詢服務](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg)Architecting Career Success Beyond the Cloud

@@ -4,8 +4,8 @@ date: 2018-01-02
 slug: "2018-01-02-ec-post-list"
 image: "images/medium-0*JM2v8QZs4ggC3_NW.jpg"
 images: ['images/medium-0*JM2v8QZs4ggC3_NW.jpg']
-categories: ["澳洲生活"]
-tags: ["澳洲生活"]
+categories: ["EC"]
+tags: ["EC","文章列表"]
 ---
 
 ![](images/medium-0*JM2v8QZs4ggC3_NW.jpg)Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
