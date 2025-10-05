@@ -4,7 +4,7 @@ date: 2024-07-13
 slug: "2024-07-13-interlaken-day-3"
 image: "images/medium-1*kAztuhou_5maw331hvUdXw.jpeg.jpg"
 images: ['images/medium-1*kAztuhou_5maw331hvUdXw.jpeg.jpg', 'images/medium-1*KzPeX-mkySD8oBv38-KZCg.jpeg.jpg', 'images/medium-1*khEc7eb4lgXXar6qXtfXxQ.jpeg.jpg', 'images/medium-1*EaAvP0YQfDVZeeOS20hSkQ.jpeg.jpg', 'images/medium-1*dpF3Q-Xh-VeKKJzznYZB4Q.jpeg.jpg', 'images/medium-1*-YDjgc09vwAK7QLHLP-XBA.jpeg.jpg', 'images/medium-1*DIJd_kmV2lBKihwMxRjw-Q.jpeg.jpg', 'images/medium-0*oIRZcoDMy4YKZ_O8.png.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "瑞士"]
 ---
 

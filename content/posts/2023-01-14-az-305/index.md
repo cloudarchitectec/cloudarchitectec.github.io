@@ -1,5 +1,5 @@
 ---
-title: "微軟 Azure 雲端證照: AZ-305 Microsoft Certified Azure Solutions Architect Expert 準備&考試心得"
+title: "微軟 Azure 雲端證照: AZ-305 Azure Solutions Architect Expert  證照考試心得"
 date: 2023-01-14
 slug: "2023-01-14-az-305"
 image: "images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg"
@@ -8,11 +8,11 @@ categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---
 
-### 微軟 Azure 雲端證照: AZ-305 Microsoft Certified Azure Solutions Architect Expert 準備&考試心得
-
 ![Exam badge of AZ Solutions Architect Expert](images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg)Microsoft Certified Azure Solution Architect Expert
 
 * * *
+
+**考試日期：2023.01.02**
 
 2023 年的第二天，我通過了 AZ-305 Designing Microsoft Azure Infrastructure Solutions 的考試，加上 11 月通過的 AZ-104 Azure Administrator Associate，成功獲得了 Microsoft Certified Azure Solutions Architect Expert 這張專家級證照，算是為了新的一年打下良好的基礎!
 

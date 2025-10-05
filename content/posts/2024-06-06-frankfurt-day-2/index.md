@@ -4,7 +4,7 @@ date: 2024-06-06
 slug: "2024-06-06-frankfurt-day-2"
 image: "images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpeg.jpg"
 images: ['images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpeg.jpg', 'images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpeg.jpg', 'images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpeg.jpg', 'images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpeg.jpg', 'images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpeg.jpg', 'images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpeg.jpg', 'images/medium-1*JueQdVN97WE9XSCXPakwkA.jpeg.jpg', 'images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpeg.jpg', 'images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpeg.jpg', 'images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpeg.jpg', 'images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpeg.jpg', 'images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpeg.jpg', 'images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpeg.jpg', 'images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpeg.jpg', 'images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpeg.jpg', 'images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpeg.jpg', 'images/medium-1*ELy7knYb5OLxKAPt3Ie-nw.jpeg.jpg', 'images/medium-1*9NMq9XZuQy2aYj41HEIjrA.jpeg.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "德國"]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting"
+title: "微軟雲端架構師 (Cloud Solution Architect) 職位解析 1：Org Chart & Solution Architecting"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-1"
 image: "images/medium-0*K1HNZvbky5n_Ejol.jpg"
@@ -8,13 +8,7 @@ categories: ["職涯"]
 tags: ["職涯", "微軟"]
 ---
 
-* * *
-
-### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart
-
 ![微軟雲端架構師辦公環境](images/medium-0*K1HNZvbky5n_Ejol.jpg)Photo by [Smartworks Coworking](https://unsplash.com/@smartworkscoworking?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
-* * *
 
 ### 前言
 

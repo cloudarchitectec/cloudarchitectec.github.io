@@ -1,16 +1,16 @@
 ---
-title: "2022.10.12 斐濟自助旅遊 Day 3: Malamala Island"
+title: "斐濟自助旅遊 2022.10.12 Day 3: Malamala Island"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-3"
 image: "images/medium-0*UYQREHkp_4KGojw-.jpg"
 images: ['images/medium-0*UYQREHkp_4KGojw-.jpg', 'images/medium-0*dT_WyPnWXajYGYcL.jpg', 'images/medium-0*R9AbkCk0zQIkb9-o.jpg', 'images/medium-0*p9yMD2FNOryFwREY.jpg', 'images/medium-0*5aNAFP6zOqe13T5_.jpg', 'images/medium-0*tx1vHrgAoRwihmAn.jpg', 'images/medium-0*iXqoP6t0sPIp1q7b.jpg', 'images/medium-0*5RrmqHw5bxvmzDi8.jpg', 'images/medium-0*B8sqPydAQ1MWoyjD.jpg', 'images/medium-0*h57D05cqAs4ZsQr-.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "斐濟"]
 ---
 
 * * *
 
-### 2022.10.12 斐濟自助旅遊 Day 3: Malamala Island
+### 斐濟自助旅遊 2022.10.12 Day 3: Malamala Island
 
 ![斐濟海邊度假村風景](images/medium-0*UYQREHkp_4KGojw-.jpg)Photo by [jcob nasyr](https://unsplash.com/@j_cobnasyr1?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

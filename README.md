@@ -65,6 +65,12 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Added email subscription with Google Forms
 - First post
 
+2025.10.05
+- Imported all coding bootcamp blogs from Blogger
+- Added bootcamp catogory
+- Automated post list page generation by categories
+- Minor fixes
+
 ## Contributing
 
 This is a personal blog repository. While contributions are not expected, feel free to:

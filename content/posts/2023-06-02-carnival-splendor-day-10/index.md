@@ -1,16 +1,16 @@
 ---
-title: "2023.05.24 Carnival Splendor 澳洲南太平洋郵輪 — 返回雪梨 & 心得總結"
+title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.24 — 返回雪梨 & 心得總結"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-10"
 image: "images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg"
 images: ['images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "新喀里多尼亞"]
 ---
 
 * * *
 
-### 2023.05.24 Carnival Splendor 澳洲南太平洋郵輪 — 返回雪梨 & 心得總結
+### Carnival Splendor 澳洲南太平洋郵輪 2023.05.24 — 返回雪梨 & 心得總結
 
 ![郵輪返回雪梨港大橋合影](images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg)郵輪與雪梨大橋
 

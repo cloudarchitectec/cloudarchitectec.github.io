@@ -1,16 +1,16 @@
 ---
-title: "2022.10.11 斐濟自助旅遊 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
+title: "斐濟自助旅遊 2022.10.11 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-2"
 image: "images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpeg.jpg"
 images: ['images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpeg.jpg', 'images/medium-1*lQQDZ9d75S-w1F47tWt-Zw.jpeg.jpg', 'images/medium-1*pR_hCUL162C3Qx7wGHTGFw.jpeg.jpg', 'images/medium-1*OaA-O_K5Enslu7bk6qFmvw.jpeg.jpg', 'images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpeg.jpg', 'images/medium-1*68-6whc9cjMou1308Lj0JQ.jpeg.jpg', 'images/medium-1*maKJl591iSb1XH8bd3q3Aw.jpeg.jpg', 'images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpeg.jpg', 'images/medium-1*4Ar0XAYW7or1rjElNGF78g.jpeg.jpg', 'images/medium-1*ME6HFCkpu4PTV4WcvrjqqA.jpeg.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "斐濟"]
 ---
 
 * * *
 
-### 2022.10.11 斐濟自助旅遊 Day 2: Nadi市區一日遊
+### 斐濟自助旅遊 2022.10.11 Day 2: Nadi市區一日遊
 
 ![斐濟Nadi市區街景與建築](images/medium-0*jIl7H3ZOzOzoPv9T.jpg)Photo by [Giorgia Doglioni](https://unsplash.com/@gio_aroundtheworld?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

@@ -1,20 +1,12 @@
 ---
-title: "太平洋小島上的大冒險：2025.04.26 Vanuatu Da### Fatumaru Lodge
-
-![Fatumaru Lodge 海邊住宿](images/medium-1*RAd8Mb0kWPTpD-CrjXH72Ri8mQg.jpeg.jpg)
-
-今天的住宿也是金錢的力量，一晚要澳幣$226，但不得不說滿漂亮的，設備也很齊全，淋浴間有兩個蓮蓬頭，洗完澡去櫃檯借吹風機還借到一台dyson!!!!! 這是我第一次用 Dyson 吹風機，我平常吹頭髮大概要20–30分鐘，還無法全乾，Dyson 居然只要吹五分鐘就乾了，太神了吧😆級度假村午餐、高級住宿、高級蚊子包"
+title: "太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包"
 date: 2025-04-26
 slug: "2025-04-26-vanuatu-day-8"
 image: "images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg"
 images: ['images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg', 'images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg', 'images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg', 'images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg', 'images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg', 'images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg', 'images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg', 'images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg', 'images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg', 'images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg', 'images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg', 'images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
-
-* * *
-
-### 太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包
 
 ### 我 vs 蚊子
 

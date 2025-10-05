@@ -1,5 +1,5 @@
 ---
-title: "2022.11.19 AZ-104 Azure Administrator Associate 證照考試心得"
+title: "微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得"
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-exam"
 image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg"

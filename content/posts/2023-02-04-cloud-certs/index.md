@@ -1,9 +1,5 @@
 ---
-title: "### 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析
-
-![雲端證照職涯賦能發展分析](images/medium-0*Psml5_ESx4uZ9sFr.jpg)Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
-大家好我是 EC，擁有 6 張 AWS 證照以及 5 張 Azure 證照，今天想要來分享我對兩種證照體系的比較，最後則會分享我對雲端證照的看法。的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析"
+title: "雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析"
 date: 2023-02-04
 slug: "2023-02-04-cloud-certs"
 image: "images/medium-0*Psml5_ESx4uZ9sFr.jpg"
@@ -11,10 +7,6 @@ images: ['images/medium-0*Psml5_ESx4uZ9sFr.jpg']
 categories: ["職涯"]
 tags: ["職涯", "雲端證照"]
 ---
-
-* * *
-
-### 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析
 
 ![a paper with ‘empowerment’ on it](images/medium-0*Psml5_ESx4uZ9sFr.jpg)Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
