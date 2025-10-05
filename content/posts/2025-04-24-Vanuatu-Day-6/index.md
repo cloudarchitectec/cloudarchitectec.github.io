@@ -1,9 +1,5 @@
 ---
-title: "太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜：路上### Nambawan Café
-
-![Nambawan 豐盛牛排三明治](images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg)超大份 steak sandwich
-
-最后我總共花了兩個小時，才開車回到市區的咖啡廳 Nambawan Café (Number One Cafe) 吃飯。Nambawan Café 其實就在我第二天去的咖啡廳 Rossi's 隔壁，其實我一開始完全不懂為什麼會有很多人推薦他們，因為我覺得 Rossi's 環境更加舒適、服務好、菜色選擇多。直到我點的 steak sandwich 上菜（我一開始還想說也煮太久了吧），超級豐盛的，這樣只要澳幣$11.6。飲料我喝了 iced tanna coffee，應該是用火山島 Tanna 產的咖啡豆，但我覺得喝起來就是很水的冰咖啡🤣都是我的自駕小冒險"
+title: "太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜：路上### Nambawan Cafe"
 date: 2025-04-24
 slug: "2025-04-24-vanuatu-day-6"
 image: "images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg"
@@ -11,10 +7,6 @@ images: ['images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg', 'images/medium-1*ABE
 categories: ["旅遊"]
 tags: ["旅遊", "萬那杜"]
 ---
-
-* * *
-
-### 太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜：路上的坑坑疤疤都是我的自駕小冒險
 
 (如果你是個J人，租車是你在萬那杜最好的選擇)
 

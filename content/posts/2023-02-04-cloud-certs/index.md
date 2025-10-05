@@ -1,5 +1,5 @@
 ---
-title: "### 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析"
+title: "雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析"
 date: 2023-02-04
 slug: "2023-02-04-cloud-certs"
 image: "images/medium-0*Psml5_ESx4uZ9sFr.jpg"
