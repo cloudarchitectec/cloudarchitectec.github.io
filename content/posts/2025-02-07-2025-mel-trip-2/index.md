@@ -18,7 +18,7 @@ tags: ["澳洲生活", "墨爾本", "旅遊"]
 
 ![AWS墨爾本辦公室外觀](images/medium-1*SPFTKyvJhd-FnKQwg66kCQ.jpeg.jpg) AWS 墨爾本辦公室
 
-早上先跟我的 AWS SA 同事 Aish 去喝咖啡，她也是讀 coding bootcamp 然後轉職進 AWS，跟我的背景一樣。我其中最印象深刻的是她跟我說「Ellie, you are not an ordinary person! You are so brave to take on so many challenges and you really inspire me」。
+早上先跟我的 AWS SA 同事 Aish 去喝咖啡，她也是讀 coding bootcamp 然後轉職進 AWS，跟我的背景一樣。我其中最印象深刻的是她跟我說「EC, you are not an ordinary person! You are so brave to take on so many challenges and you really inspire me」。
 
 因為背景相似，我們當年在AWS就很常吐苦水。沒想到一轉眼過去，她在AWS都已經四年多了，我也換到轉職後的第三個工作。我覺得 Amazon 其實是一個很磨練心智的地方，希望她可以早日找回快樂的自己。
 

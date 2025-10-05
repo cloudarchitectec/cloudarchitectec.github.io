@@ -57,7 +57,7 @@ tags: ["職涯", "微軟", "雲端架構師"]
 
 客戶的信大概是以下這樣的:
 
-> _Hi Ellie,_
+> _Hi EC,_
 
 > _Hope you are well._
 

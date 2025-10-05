@@ -1,0 +1,62 @@
+{{/*
+Shortcode to display posts grouped by categories
+Usage: {{< categorized-posts >}}
+*/}}
+
+{{/* Get all regular pages (posts) that are not drafts */}}
+{{ $posts := where .Site.RegularPages "Type" "posts" }}
+{{ $posts = where $posts "Draft" false }}
+
+{{/* Group posts by category */}}
+{{ $postsByCategory := dict }}
+{{ range $posts }}
+  {{ range .Params.categories }}
+    {{ $category := . }}
+    {{ $existingPosts := index $postsByCategory $category }}
+    {{ if $existingPosts }}
+      {{ $postsByCategory = merge $postsByCategory (dict $category (append $existingPosts $)) }}
+    {{ else }}
+      {{ $postsByCategory = merge $postsByCategory (dict $category (slice $)) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Define category display order and names */}}
+{{ $categoryOrder := slice "職涯" "澳洲生活" "投資理財" "旅遊" "EC" }}
+{{ $categoryDisplayNames := dict 
+  "職涯" "**海外職場/轉職工程師/澳洲科技大廠工作分享**"
+  "澳洲生活" "**澳洲生活**"
+  "投資理財" "**澳洲理財/投資**"
+  "旅遊" "**澳洲旅遊/海外旅行**"
+  "EC" "**關於EC**"
+}}
+
+{{/* Display posts by category in specified order */}}
+{{ range $categoryOrder }}
+  {{ $category := . }}
+  {{ $categoryPosts := index $postsByCategory $category }}
+  {{ if $categoryPosts }}
+    {{ $displayName := index $categoryDisplayNames $category }}
+    
+### [{{ $displayName | markdownify }}](/categories/{{ $category | urlize }}/)
+    {{ range $categoryPosts.ByDate.Reverse }}
+  * [{{ .Title }}]({{ .RelPermalink }})
+    {{ end }}
+
+{{ "" }}
+  {{ end }}
+{{ end }}
+
+{{/* Handle any uncategorized posts or posts with categories not in our main list */}}
+{{ $processedCategories := $categoryOrder }}
+{{ range $category, $posts := $postsByCategory }}
+  {{ if not (in $processedCategories $category) }}
+    
+### [**{{ $category }}**](/categories/{{ $category | urlize }}/)
+    {{ range $posts.ByDate.Reverse }}
+  * [{{ .Title }}]({{ .RelPermalink }})
+    {{ end }}
+
+{{ "" }}
+  {{ end }}
+{{ end }}

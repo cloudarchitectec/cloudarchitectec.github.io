@@ -4,8 +4,9 @@ date: 2019-08-28
 slug: "2019-08-28-falling-behind"
 image: "images/medium-0*ATDvS5yWVyL3Z8An.jpg"
 images: ['images/medium-0*ATDvS5yWVyL3Z8An.jpg']
-categories: ["職涯", "零基礎轉職澳洲工程師"]
+categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+draft: true
 ---
 
 ![程式學習進度落後焦慮感](images/medium-0*ATDvS5yWVyL3Z8An.jpg)Photo by [Jorge Vitorino](https://unsplash.com/@jorgevitorino?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

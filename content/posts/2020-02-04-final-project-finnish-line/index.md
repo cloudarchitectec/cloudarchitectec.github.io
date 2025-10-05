@@ -1,0 +1,26 @@
+---
+title: "零基礎轉職澳洲工程師: 2020.02.04 Final Project – Finnish Line"
+date: 2020-02-04
+slug: "2020-02-04-final-project-finnish-line"
+image: "images/default.jpg"
+images: ['images/default.jpg']
+categories: ["零基礎轉職澳洲工程師"]
+tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+draft: true
+---
+
+2020-02-03 Mon & 2020-02-04 Tue
+紅紅火火恍恍惚惚，其實我已經想不起來這兩天都做了什麼XD
+只記得每天在學校做project，然後一回到家也還是繼續做 project。週二下午我跟羅比一起 pair
+programming 做 cypress
+testing (因為這個軟體 windows 電腦跑不了，所以必須要在羅比的 Mac 上做)。這次的 pair
+programming 經驗好了很多，因為 cyprss 的說明文件寫得滿清楚的，我們只要一步一步跟著做就可以，比起上次兩個人在那邊研究半天卻又做不出來好多了XD
+上週五我們去找客戶 demo 時，客戶之一M先生(產品經理)就問說我們的 presentation
+day 是什麼時候? 如果有機會，他會來看我們的 presentation。我跟妮娜都覺得客戶來與不來都無所謂，因為不管他們來不來我們都還是要上台報告，而且我也不覺得我會因為他們要來而改變上台報告的內容。
+但羅比小弟非常不想要客戶來，因為他覺得要是客戶來，我們的presentation就必須要更專業，他覺得他的壓力會非常大。於是我們考慮了一下羅比小弟的心情，開始極力阻止客戶要。首先是我們跟客戶說「presentation
+的時間是週四，但我們不確定什麼時候會輪到我們(這點是真的，因為我們的presentation一向是當天抽籤決定順序)」。結果客戶說「沒關係啊~ 那你們可以給我們一個大概的時間段嗎?」因為這次是 group
+project，所以總共只有七組(之前都是 individual project，所以等19個人上台報告完都下午四點了)，我估計十點開始報告，十二點就結束了。但是因為羅比小弟實在太不想要客戶來了，於是我們決定回說「我們真的不太確定時間，我們覺得可能會從10點開始報告到下午四點….」結果客戶居然回我們說「沒關係啊~ 那我們十點見!」
+我看到訊時的時候整個大笑不止XDDDDDDDDDD
+我們千方百計要阻止他們來，結果人家根本不管怎樣都要來哈哈
+
+{{< footer >}}

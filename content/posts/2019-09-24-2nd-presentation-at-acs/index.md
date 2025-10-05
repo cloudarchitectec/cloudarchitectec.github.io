@@ -4,8 +4,9 @@ date: 2019-09-24
 slug: "2019-09-24-2nd-presentation-at-acs"
 image: "images/default.jpg"
 images: ['images/default.jpg']
-categories: ["職涯", "零基礎轉職澳洲工程師"]
+categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+draft: true
 ---
 
 ### 2019-09-23
@@ -34,7 +35,7 @@ tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 
 ### 2019-09-24
 
-這次的 presentation 我非常 chill (讀作「隨便」)，slides 也是隨便弄了一下，然後也完全沒有練習XDDD 因為W週五晚上就要來了，我這週的目標就是要在週四晚上前把下一個 workbook
+這次的 presentation 我非常 chill (讀作「隨便」)，slides 也是隨便弄了一下，然後也完全沒有練習XDDD 因為W週五晚上就要來了，我這週的目標就是要在週四晚上前把下一個 練習簿 (workbook)
 隨便寫完，根本沒時間管 presentation 這件事哈哈哈!
 
 再來是這次的時間限制是10分鐘(上次只有五分鐘)，我覺得十分鐘講一個我自己做的「關於我」的網站完全沒有時間壓力XD

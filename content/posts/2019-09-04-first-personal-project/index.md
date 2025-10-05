@@ -4,8 +4,9 @@ date: 2019-09-04
 slug: "2019-09-04-first-personal-project"
 image: "images/default.jpg"
 images: ['images/default.jpg']
-categories: ["職涯", "零基礎轉職澳洲工程師"]
+categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+draft: true
 ---
 
 天啊~ 我真心是太忙太忙了! 連寫日記紓壓的時間都沒有，只好速速寫幾件趣事。

@@ -4,8 +4,9 @@ date: 2019-08-22
 slug: "2019-08-22-embracing-the-aussie-values"
 image: "images/medium-0*xMNRe1ZzQJfNdGlr.jpg"
 images: ['images/medium-0*xMNRe1ZzQJfNdGlr.jpg']
-categories: ["職涯", "零基礎轉職澳洲工程師"]
+categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+draft: true
 ---
 
 ![澳洲職場文化價值觀](images/medium-0*xMNRe1ZzQJfNdGlr.jpg)Photo by [Toa Heftiba](https://unsplash.com/@heftiba?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
