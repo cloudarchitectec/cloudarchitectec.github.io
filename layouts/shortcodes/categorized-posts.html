@@ -8,12 +8,13 @@ Usage: {{< categorized-posts >}}
 {{ $posts = where $posts "Draft" false }}
 
 {{/* Define category display order and names */}}
-{{ $categoryOrder := slice "職涯" "澳洲生活" "投資理財" "海外旅遊" }}
+{{ $categoryOrder := slice "職涯" "投資理財" "澳洲生活" "海外旅遊" "零基礎轉職澳洲工程師"}}
 {{ $categoryDisplayNames := dict 
-  "職涯" "海外職場/轉職工程師"
-  "澳洲生活" "澳洲生活"
+  "職涯" "澳洲職場/轉職工程師"
   "投資理財" "澳洲投資理財"
+  "澳洲生活" "澳洲生活"
   "海外旅遊" "海外旅遊"
+  "零基礎轉職澳洲工程師" "零基礎轉職澳洲工程師"
 }}
 
 {{/* Display posts by category in specified order */}}

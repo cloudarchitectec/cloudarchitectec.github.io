@@ -1,5 +1,5 @@
 ---
-title: "零基礎轉職澳洲工程師: 2019.09.04 – 第一個個人作業"
+title: "零基礎轉職澳洲工程師: 2019.09.04 開始個人作業 I"
 date: 2019-09-04
 slug: "2019-09-04-first-personal-project"
 image: "images/default.jpg"
