@@ -67,7 +67,9 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 
 2025.10.05
 - Imported all coding bootcamp blogs from Blogger
+- Added bootcamp catogory
 - Automated post list page generation by categories
+- Minor fixes
 
 ## Contributing
 
