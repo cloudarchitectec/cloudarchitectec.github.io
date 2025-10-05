@@ -4,15 +4,12 @@ date: 2019-08-30
 slug: "2019-08-30-after-class-drinks"
 image: "images/medium-0*EZu69i8AFwcqQesw.jpg"
 images: ['images/medium-0*EZu69i8AFwcqQesw.jpg']
-categories: ["職涯"]
-tags: ["職涯", "轉職工程師"]
+categories: ["職涯", "零基礎轉職澳洲工程師"]
+tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 ---
-
-### **零基礎轉職澳洲工程師: 2019.08.30** After Class Drinks
 
 ![程式訓練營課後聚會交流](images/medium-0*EZu69i8AFwcqQesw.jpg)Photo by [Nick Fewings](https://unsplash.com/@jannerboy62?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-* * *
 
 果然第二週的週五下午學校就沒有提供 drinks 了XD (我就知道這種好事不可能週週發生😂😂😂)
 

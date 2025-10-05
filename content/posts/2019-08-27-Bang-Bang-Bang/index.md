@@ -4,11 +4,9 @@ date: 2019-08-27
 slug: "2019-08-27-bang-bang-bang"
 image: "images/medium-0*mMMqME1uea3S1W9v.jpg"
 images: ['images/medium-0*mMMqME1uea3S1W9v.jpg']
-categories: ["職涯"]
-tags: ["職涯", "轉職工程師"]
+categories: ["職涯", "零基礎轉職澳洲工程師"]
+tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 ---
-
-### **零基礎轉職澳洲工程師: 2019.08.27** Bang Bang Bang
 
 ![程式學習密集訓練週進展](images/medium-0*mMMqME1uea3S1W9v.jpg)Photo by [Alexis Fauvet](https://unsplash.com/@childeye?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

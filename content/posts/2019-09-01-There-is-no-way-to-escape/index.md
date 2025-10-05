@@ -4,17 +4,11 @@ date: 2019-09-01
 slug: "2019-09-01-there-is-no-way-to-escape"
 image: "images/medium-0*Ajqd_LT2PTta4eAV.jpg"
 images: ['images/medium-0*Ajqd_LT2PTta4eAV.jpg', 'images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg']
-categories: ["旅遊"]
-tags: ["旅遊", "旅遊"]
-categories: ["職涯"]
-tags: ["職涯", "轉職工程師"]
+categories: ["職涯", "零基礎轉職澳洲工程師"]
+tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 ---
 
-### **零基礎轉職澳洲工程師: 2019.09.01** There is no way to escape!
-
 ![程式學習無處可逃的挑戰](images/medium-0*Ajqd_LT2PTta4eAV.jpg)Photo by [EXPANALOG](https://unsplash.com/@diogo_ferrer?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
-* * *
 
 最近兩天上的課程都偏軟實力，而不是寫程式的硬實力，上週五我們學了怎麼用 git 和 GitHub，今天我們學了專案管理。
 

@@ -4,15 +4,11 @@ date: 2019-08-29
 slug: "2019-08-29-how-to-position-yourself"
 image: "images/medium-0*iZtyKyiPS0vLmaDT.jpg"
 images: ['images/medium-0*iZtyKyiPS0vLmaDT.jpg']
-categories: ["職涯"]
-tags: ["職涯", "轉職工程師"]
+categories: ["職涯", "零基礎轉職澳洲工程師"]
+tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 ---
 
-### **零基礎轉職澳洲工程師:** 2019.08.29 How to Position Yourself
-
 ![程式設計職場定位策略思考](images/medium-0*iZtyKyiPS0vLmaDT.jpg)Photo by [Aziz Acharki](https://unsplash.com/@acharki95?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
-* * *
 
 標題講得好像我知道要怎麼做一樣XDD 其實我並不知道哈哈
 
