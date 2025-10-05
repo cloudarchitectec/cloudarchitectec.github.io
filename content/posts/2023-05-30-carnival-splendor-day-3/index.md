@@ -1,15 +1,15 @@
 ---
-title: "2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2"
+title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2"
 date: 2023-05-30
 slug: "2023-05-30-carnival-splendor-day-3"
 image: "images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpeg.jpg"
 images: ['images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpeg.jpg', 'images/medium-1*DuXkVGMAABrvBJ5TKkLgBg.jpeg.jpg', 'images/medium-1*2ICrlpB91ri065acmRb-EA.jpeg.jpg', 'images/medium-1*lioXG3b1t8i3YdbYAOLhgQ.jpeg.jpg', 'images/medium-1*-T8XXFbxD06E9qH0SZndFQ.jpeg.jpg', 'images/medium-1*4gX9KAb4Cz5rgXXCTKFZOA.jpeg.jpg', 'images/medium-1*Or5hSuxDB3zYbU3lnwQfCA.jpeg.jpg', 'images/medium-1*VSidh4WyOjTXU-XsEb90ew.jpeg.jpg', 'images/medium-1*e_xYNq0orz_R_6_YFrbc6A.jpeg.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "郵輪"]
 ---
 ---
 
-### 2023.05.17 Carnival Splendor 澳洲南太平洋郵輪 — Day 3 Sea Day 2
+### Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2
 
 ![郵輪房務創意毛巾恐龍造型](images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpeg.jpg)可能是隻恐龍吧?XD
 

@@ -1,5 +1,5 @@
 ---
-title: "微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting"
+title: "微軟雲端架構師 (Cloud Solution Architect) 職位解析 2：Solution Architecting"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-2"
 image: "images/medium-0*XTejTjV9ZtCU27LU.jpg"
@@ -8,19 +8,14 @@ categories: ["職涯"]
 tags: ["職涯", "微軟", "雲端架構師"]
 ---
 
-* * *
-
-### 微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第二集：Solution Architecting
-
 ![微軟雲端架構技術方案](images/medium-0*XTejTjV9ZtCU27LU.jpg)Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-* * *
 
 ### 前言
 
-這篇文章是 <<微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼?>> 系列的第二集，如果你還沒有看過第一集，請點擊以下文章：
+這篇文章是 <<微軟雲端架構師 (Cloud Solution Architect) 職位解析 - >> 系列的第二集，如果你還沒有看過第一集，請點擊以下文章：
 
-[**微軟雲端架構師 (Azure Cloud Solution Architect) 到底在做什麼? 第一集：Org Chart & Solution Architecting**  
+[**微軟雲端架構師 (Cloud Solution Architect) 職位解析 -  第一集：Org Chart & Solution Architecting**  
  _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](/posts//posts/2023-07-28-ms-csa-1//)[](2023-07-28-ms-csa-1)
 
 **這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :**

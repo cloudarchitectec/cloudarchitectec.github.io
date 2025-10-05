@@ -1,5 +1,5 @@
 ---
-title: "2023 年中回顧"
+title: "2023 年中澳洲生活回顧"
 date: 2023-05-07
 slug: "2023-05-07-2023-life"
 image: "images/medium-0*mIiAi16mYu9BVV99.jpg"
@@ -7,10 +7,6 @@ images: ['images/medium-0*mIiAi16mYu9BVV99.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]
 ---
-
-* * *
-
-### 2023 年中回顧
 
 ![日記本與馬克杯](images/medium-0*mIiAi16mYu9BVV99.jpg)Photo by [Yeshi Kangrang](https://unsplash.com/@omgitsyeshi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

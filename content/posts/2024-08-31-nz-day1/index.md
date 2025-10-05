@@ -4,7 +4,7 @@ date: 2024-08-31
 slug: "2024-08-31-nz-day1"
 image: "images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpeg.jpg"
 images: ['images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpeg.jpg', 'images/medium-1*rlnReA8jGgj7TSS22Lws9Q.jpeg.jpg', 'images/medium-1*WDGzYgn2D58lq_DH3Ka1ug.jpeg.jpg', 'images/medium-1*Baow5AEwlPTYrZhC057HBA.jpeg.jpg', 'images/medium-1*7peGx_1SjUl-9oBR1k9_iA.jpeg.jpg', 'images/medium-1*Onso4fWanqbfzZHulkdBCw.jpeg.jpg', 'images/medium-1*RwKCTe8NLlutsIHcIPdAZQ.jpeg.jpg', 'images/medium-1*xK89OPVN0O1WIA1sj0v4rA.jpeg.jpg', 'images/medium-1*hD5O5Vdq6lwlBYC3muadUA.jpeg.jpg', 'images/medium-1*3DolXIvO2lz0SU04mleYbw.jpeg.jpg', 'images/medium-1*7NuAgSznwjBass-sBz8XIg.jpeg.jpg', 'images/medium-1*m1UcmtY74jtv5Iwag4uooQ.jpeg.jpg', 'images/medium-1*1Mthr8xBlu5XuQCQShzFDQ.jpeg.jpg', 'images/medium-1*MxcgNErvLKNcFxJTA3XlCA.jpeg.jpg', 'images/medium-1*9dSdxYR49uv4mYhrx-7uMg.jpeg.jpg', 'images/medium-1*1B50Iu_i0bbNuovrE9qHsg.jpeg.jpg', 'images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpeg.jpg', 'images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpeg.jpg']
-categories: ["旅遊"]
+categories: ["海外旅遊"]
 tags: ["旅遊", "紐西蘭"]
 ---
 

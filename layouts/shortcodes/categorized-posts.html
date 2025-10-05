@@ -8,12 +8,12 @@ Usage: {{< categorized-posts >}}
 {{ $posts = where $posts "Draft" false }}
 
 {{/* Define category display order and names */}}
-{{ $categoryOrder := slice "職涯" "澳洲生活" "投資理財" "旅遊" }}
+{{ $categoryOrder := slice "職涯" "澳洲生活" "投資理財" "海外旅遊" }}
 {{ $categoryDisplayNames := dict 
   "職涯" "海外職場/轉職工程師"
   "澳洲生活" "澳洲生活"
   "投資理財" "澳洲投資理財"
-  "旅遊" "旅遊"
+  "海外旅遊" "海外旅遊"
 }}
 
 {{/* Display posts by category in specified order */}}
@@ -25,7 +25,7 @@ Usage: {{< categorized-posts >}}
 
 <h3><a href="/categories/{{ $category | urlize }}/"><strong>{{ $displayName }}</strong></a></h3>
 <ul>
-{{ range $categoryPosts.ByDate.Reverse }}
+{{ range $categoryPosts.ByTitle }}
 <li><a href="{{ .RelPermalink }}">{{ .Title | htmlEscape }}</a></li>
 {{ end }}
 </ul>
