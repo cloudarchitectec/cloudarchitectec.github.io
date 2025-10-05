@@ -1,5 +1,5 @@
 ---
-title: "零基礎轉職澳洲工程師: 2019.08.19 Coding Bootcamp Orientation"
+title: "零基礎轉職澳洲工程師: 2019.08.19 程式訓練營開學典禮"
 date: 2019-08-19
 slug: "2019-08-19-coding-bootcamp-orientation"
 image: "images/medium-0*ywUyojRimOqTsYDU.jpg"

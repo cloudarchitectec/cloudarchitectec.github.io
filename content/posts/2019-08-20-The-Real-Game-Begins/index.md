@@ -1,5 +1,5 @@
 ---
-title: "零基礎轉職澳洲工程師: 2019.08.20 The Real Game Begins"
+title: "零基礎轉職澳洲工程師: 2019.08.20 好戲登場"
 date: 2019-08-20
 slug: "2019-08-20-the-real-game-begins"
 image: "images/medium-0*tccay5yVUk7f1Hm7.jpg"
