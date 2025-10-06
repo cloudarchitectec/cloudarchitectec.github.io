@@ -100,10 +100,11 @@ disablePathToLower = true
   # profile-mode
   [params.profileMode]
     enabled = false
-  
+
+  # Social Icons Configuration
   [[params.socialIcons]]
     name = "email"
-    url = "cloudarchitectec@gmail.com"
+    url = "mailto:cloudarchitectec@gmail.com"
 
   [[params.socialIcons]]
     name = "rss"

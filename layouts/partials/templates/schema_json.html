@@ -1,0 +1,71 @@
+{{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+{{- $images := partial "templates/_funcs/get-page-images" . -}}
+{{- if .IsPage -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title }},
+  "name": {{ .Title }},
+  "description": {{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }},
+  "keywords": [
+    {{- if .Params.keywords }}
+    {{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- else }}
+    {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+    {{- end }}
+  ],
+  {{- /* Only include articleBody for regular posts, exclude for post-list page to prevent URI_TOO_LONG error */ -}}
+  {{- if not (eq .Params.slug "2018-01-02-ec-post-list") }}
+  "articleBody": {{ .Content | safeJS | htmlUnescape | plainify | truncate 2000 }},
+  {{- end }}
+  "wordCount" : "{{ .WordCount }}",
+  "inLanguage": {{ .Language.Lang | default "en-us" }},
+  {{ if .Params.cover.image -}}
+  "image":
+    {{- if (ne .Params.cover.relative true) -}}
+    {{ .Params.cover.image | absURL }},
+    {{- else -}}
+    {{ (path.Join .RelPermalink .Params.cover.image ) | absURL }},
+    {{- end}}
+  {{- else }}
+    {{- with index $images 0 -}}
+  "image": {{ .Permalink }},
+    {{- end }}
+  {{- end -}}
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  {{- with (.Params.author | default site.Params.author) }}
+  "author":
+    {{- if (or (eq (printf "%T" .) "[]string") (eq (printf "%T" .) "[]interface {}")) -}}
+  [{{- range $i, $v := . -}}
+  {{- if $i }}, {{end -}}
+  {
+    "@type": "Person",
+    "name": {{ $v }}
+  }
+  {{- end -}}]
+  {{- else -}}
+  {
+    "@type": "Person",
+    "name": {{ . }}
+  }
+  {{- end -}}
+  {{ end }},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{ .Permalink }}
+  },
+  "publisher": {
+    {{- $p := site.Params.schema.publisherType | default "Organization" -}}
+    "@type": {{ $p }},
+    "name": {{ site.Params.schema.name | default site.Title }},
+    {{- if eq $p "Organization" }}
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ site.Params.assets.favicon | default "favicon.ico" | absURL }}
+    }{{ end }}
+  }
+}
+</script>
+{{- end -}}

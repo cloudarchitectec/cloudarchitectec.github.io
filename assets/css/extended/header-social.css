@@ -1,0 +1,62 @@
+/* Custom header social icons styles */
+.header-social-icons {
+    display: flex;
+    align-items: center;
+    margin-left: var(--gap);
+}
+
+.header-social-icons a {
+    display: inline-flex;
+    padding: 8px;
+    margin: 0 2px;
+}
+
+.header-social-icons a svg {
+    height: 20px;
+    width: 20px;
+}
+
+/* Mobile responsiveness for header social icons */
+@media screen and (max-width: 768px) {
+    .nav {
+        flex-wrap: wrap;
+    }
+    
+    .header-social-icons {
+        margin-left: 0;
+        margin-top: 8px;
+        order: 3;
+        width: 100%;
+        justify-content: center;
+    }
+    
+    .header-social-icons a {
+        padding: 6px;
+        margin: 0 4px;
+    }
+    
+    .header-social-icons a svg {
+        height: 18px;
+        width: 18px;
+    }
+}
+
+/* For very small screens */
+@media screen and (max-width: 480px) {
+    .header-social-icons a {
+        padding: 4px;
+        margin: 0 2px;
+    }
+    
+    .header-social-icons a svg {
+        height: 16px;
+        width: 16px;
+    }
+}
+
+/* Extra small screens - hide some social icons if needed */
+@media screen and (max-width: 360px) {
+    .header-social-icons a:nth-child(n+5) {
+        display: none;
+    }
+}
