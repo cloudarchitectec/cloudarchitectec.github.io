@@ -18,13 +18,9 @@ tags: ["職涯", "薪資"]
 
 以下是澳洲統計局 ABS (Australian Bureau of Statistics) 發表的全澳薪資統計數據，有興趣的人可以直接閱讀官方連結，下面我會挑一些我個人覺得特別具有代表性或是特別有趣的數字跟大家分享～
 
-[**Employee Earnings and Hours, Australia, May 2023**  
- _Includes earnings and hours statistics for characteristics such as industry, occupation, sex, age, full-time/part-time…_ www.abs.gov.au](https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/employee-earnings-and-hours-australia/may-2023)[](https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/employee-earnings-and-hours-australia/may-2023)
-
+  * [**Employee Earnings and Hours, Australia, May 2023**](https://www.abs.gov.au/statistics/labour/earnings-and-working-conditions/employee-earnings-and-hours-australia/may-2023)
   * **資料來源：** 澳洲統計局 ABS (Australian Bureau of Statistics)
   * **發表日期：** 2024.01.24 (統計時間 2023.05)
-
-
 
 ### 薪資中位數
 
@@ -95,22 +91,9 @@ tags: ["職涯", "薪資"]
 
 **如果想要看我怎麼從文組成功轉職科技大廠工程師，以下三篇是我的精選文章：**
 
-  * 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師!
-
-
-
-[**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**  
- _從台灣文組畢業、移民澳洲、裸辭穩定的澳洲工作、參加六個月 coding bootcamp，到成功進入 Amazon…](/posts/2022-12-03-bootcamp-to-aws/)[](/posts/2022-12-03-bootcamp-to-aws/)
-
-  * 轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)
-
-
-
-[**轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)**  
-_轉職就跟投資理財一樣有賺有賠。作為一位從台灣文組背景成功轉職為澳洲 IT…](/posts/2022-12-10-career-transition-analysis/)[](/posts/2022-12-10-career-transition-analysis/)
-
-[**不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考**  
- _你是否也曾對轉職科技業心動卻遲遲無法下定決心？身為一位從台灣文組背景轉職澳洲 Amazon 雲端架構師的我，這篇文章要來分享當初我選擇轉行 IT 的四大主因。這些思考脈略也許能幫助迷惘的你釐清職涯方向，找到屬於自己的職涯可能性。](/posts/2023-01-06-keys-to-transistion/)[](/posts/2023-01-06-keys-to-transistion/)
+  * [**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**](/posts/2022-12-03-bootcamp-to-aws/)
+  * [**轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)**](/posts/2022-12-10-career-transition-analysis/)
+  * [**不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考**](/posts/2023-01-06-keys-to-transistion/)
 
 **最後來跟大家分析一下澳洲各州/領地的薪資：**
 

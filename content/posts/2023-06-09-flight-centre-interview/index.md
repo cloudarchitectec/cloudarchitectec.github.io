@@ -96,8 +96,7 @@ _(一般來說，應該是雇主先告訴我公司目前的規定，然後看看
 
 前提: 我是英文系出身，在澳洲學了 6 個月 web development bootcamp 轉職，有兩年 AWS 雲端經驗。想看我的轉職過程，請參考：
 
-[**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**  
- _我為什麼決定從文組轉職工程師？在澳洲讀 coding bootcamp 又是如何的體驗？第一份工作就進 Amazon？如果有興趣，那就請繼續看下去吧～](/posts/2022-12-03-bootcamp-to-aws/)[](/posts/2022-12-03-bootcamp-to-aws/)
+[**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**](/posts/2022-12-03-bootcamp-to-aws/)
 
 以下只是其中一個例子:
 
