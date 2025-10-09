@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2020.01.06 Finish in a Month"
 date: 2020-01-06
 slug: "2020-01-06-finish-in-a-month"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 draft: true

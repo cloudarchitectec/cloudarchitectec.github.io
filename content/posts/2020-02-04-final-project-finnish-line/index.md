@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2020.02.04 Final Project – Finnish Line"
 date: 2020-02-04
 slug: "2020-02-04-final-project-finnish-line"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 draft: true

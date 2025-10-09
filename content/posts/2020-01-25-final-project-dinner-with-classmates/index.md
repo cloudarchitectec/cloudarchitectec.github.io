@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2020.01.25 Final Project – Dinner with classmates"
 date: 2020-01-25
 slug: "2020-01-25-final-project-dinner-with-classmates"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 draft: true

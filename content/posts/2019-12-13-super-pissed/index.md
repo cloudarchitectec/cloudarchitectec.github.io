@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2019.12.13 Super Pissed!"
 date: 2019-12-13
 slug: "2019-12-13-super-pissed"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 draft: true

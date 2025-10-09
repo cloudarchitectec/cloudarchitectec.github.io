@@ -25,7 +25,7 @@ tags: ["職涯", "雲端架構師"]
 第一集的傳送門在此：
 
 [**微軟雲端架構師 (Cloud Solution Architect) 職位解析 -  第一集：Org Chart & Solution Architecting**  
- _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…_ medium.com](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
+ _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
 
 ### 軟體工程師 (Software Engineer)
 

@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2019.10.16 Back to School (Term 2)!!!"
 date: 2019-10-16
 slug: "2019-10-16-back-to-school-term-2"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 draft: true

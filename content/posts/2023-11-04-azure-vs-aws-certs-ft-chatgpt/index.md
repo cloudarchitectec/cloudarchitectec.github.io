@@ -31,7 +31,7 @@ tags: ["職涯", "AWS"]
 如果想要了解我對雲端證照的看法，以及兩個證照系統的比較，歡迎參考我的這篇文章：
 
 [**雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析**  
- _擁有11張雲端證照的我想要來分享我對 AWS & Microsoft Azure 兩種證照體系的比較，最後則會分享我對雲端證照的看法。_medium.com](/posts/2023-02-04-cloud-certs/)[](/posts/2023-02-04-cloud-certs/)
+ _擁有11張雲端證照的我想要來分享我對 AWS & Microsoft Azure 兩種證照體系的比較，最後則會分享我對雲端證照的看法。](/posts/2023-02-04-cloud-certs/)[](/posts/2023-02-04-cloud-certs/)
 
 ### 如何更新微軟 Azure 和 AWS 雲端證照
 
@@ -119,7 +119,7 @@ tags: ["職涯", "AWS"]
 如果想要參考我以前考 Microsoft Azure Administrator 的心得 (抱怨?)，歡迎閱讀這篇文章：
 
 [**微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得**  
- _跟大家分享我的第二張 Azure 證照 AZ-104 Microsoft Azure Administrator Associate 的考試心得，並分析我覺得 Azure Associate Level 證照比起 AWS…_ medium.com](/posts/2022-11-19-azure-az-104-exam/)[](/posts/2022-11-19-azure-az-104-exam/)
+ _跟大家分享我的第二張 Azure 證照 AZ-104 Microsoft Azure Administrator Associate 的考試心得，並分析我覺得 Azure Associate Level 證照比起 AWS…](/posts/2022-11-19-azure-az-104-exam/)[](/posts/2022-11-19-azure-az-104-exam/)
 
 ### 結語
 

@@ -19,10 +19,10 @@ tags: ["職涯", "面試"]
 還沒有看過前兩集的朋友，請看這邊：
 
 [**跨國能源公司 (市值 210 億美元) DevOps Platform Engineer 第一關: 技術面試心得**  
- _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…_ medium.com](/posts/2023-06-17-devops-interview-1/)[](/posts/2023-06-17-devops-interview-1/)
+ _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…](/posts/2023-06-17-devops-interview-1/)[](/posts/2023-06-17-devops-interview-1/)
 
 [**跨國能源公司 (市值 210 億美元) DevOps Platform Engineer 第一關: 技術面試心得**  
- _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…_ medium.com](/posts/2023-06-17-devops-interview-1/)[](/posts/2023-06-17-devops-interview-1/)
+ _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…](/posts/2023-06-17-devops-interview-1/)[](/posts/2023-06-17-devops-interview-1/)
 
 ### 某個週三下午
 
