@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2019.11.15 CS Fun Review Is Fun"
 date: 2019-11-15
 slug: "2019-11-15-cs-fun-review-is-fun"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 draft: true

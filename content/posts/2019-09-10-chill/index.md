@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2019.09.09-10 終於迎來了短暫放鬆"
 date: 2019-09-10
 slug: "2019-09-10-chill"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 ---

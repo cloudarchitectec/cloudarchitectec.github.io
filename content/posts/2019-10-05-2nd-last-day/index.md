@@ -2,8 +2,8 @@
 title: "零基礎轉職澳洲工程師: 2019.10.05 2nd Last Day"
 date: 2019-10-05
 slug: "2019-10-05-2nd-last-day"
-image: "images/default.jpg"
-images: ['images/default.jpg']
+image: ""
+images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 draft: true
