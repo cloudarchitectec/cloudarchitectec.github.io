@@ -100,17 +100,17 @@ tags: ["職涯", "薪資"]
 
 
 [**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**  
- _從台灣文組畢業、移民澳洲、裸辭穩定的澳洲工作、參加六個月 coding bootcamp，到成功進入 Amazon…_ medium.com](/posts/2022-12-03-bootcamp-to-aws/)[](/posts/2022-12-03-bootcamp-to-aws/)
+ _從台灣文組畢業、移民澳洲、裸辭穩定的澳洲工作、參加六個月 coding bootcamp，到成功進入 Amazon…](/posts/2022-12-03-bootcamp-to-aws/)[](/posts/2022-12-03-bootcamp-to-aws/)
 
   * 轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)
 
 
 
 [**轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)**  
-_轉職就跟投資理財一樣有賺有賠。作為一位從台灣文組背景成功轉職為澳洲 IT…_ medium.com](/posts/2022-12-10-career-transition-analysis/)[](/posts/2022-12-10-career-transition-analysis/)
+_轉職就跟投資理財一樣有賺有賠。作為一位從台灣文組背景成功轉職為澳洲 IT…](/posts/2022-12-10-career-transition-analysis/)[](/posts/2022-12-10-career-transition-analysis/)
 
 [**不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考**  
- _你是否也曾對轉職科技業心動卻遲遲無法下定決心？身為一位從台灣文組背景轉職澳洲 Amazon 雲端架構師的我，這篇文章要來分享當初我選擇轉行 IT 的四大主因。這些思考脈略也許能幫助迷惘的你釐清職涯方向，找到屬於自己的職涯可能性。_ medium.com](/posts/2023-01-06-keys-to-transistion/)[](/posts/2023-01-06-keys-to-transistion/)
+ _你是否也曾對轉職科技業心動卻遲遲無法下定決心？身為一位從台灣文組背景轉職澳洲 Amazon 雲端架構師的我，這篇文章要來分享當初我選擇轉行 IT 的四大主因。這些思考脈略也許能幫助迷惘的你釐清職涯方向，找到屬於自己的職涯可能性。](/posts/2023-01-06-keys-to-transistion/)[](/posts/2023-01-06-keys-to-transistion/)
 
 **最後來跟大家分析一下澳洲各州/領地的薪資：**
 

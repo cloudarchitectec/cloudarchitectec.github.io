@@ -23,7 +23,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 具體可以參考我之前的面試分享，這也可以說是我人生目前為止我覺得最棒的一次面試：
 
 [**跨國能源公司 (市值 210 億美元) DevOps Platform Engineer 第一關: 技術面試心得**  
- _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…_ medium.com](/posts/2023-06-17-devops-interview-1/)[](/posts/2023-06-17-devops-interview-1/)
+ _Round 1: Technical Interview with DevOps Manager 直接先講結論！ 對我來說，這是一場接近滿分的面試體驗！滿分！！！ 面試官是 Hiring…](/posts/2023-06-17-devops-interview-1/)[](/posts/2023-06-17-devops-interview-1/)
 
 這次的第二次面試則回歸到最傳統的面試官問我答，我答完面試官再問下一題模式，讓我居然有些不習慣XDD
 
