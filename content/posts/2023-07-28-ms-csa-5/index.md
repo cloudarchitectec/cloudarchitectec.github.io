@@ -5,7 +5,7 @@ slug: "2023-07-28-ms-csa-5"
 image: "images/medium-0*Sre5eGm5dFF7JeEH.jpg"
 images: ['images/medium-0*Sre5eGm5dFF7JeEH.jpg', 'images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg', 'images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg', 'images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg', 'images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg', 'images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg']
 categories: ["職涯"]
-tags: ["職涯", "微軟", "雲端架構師"]
+tags: ["職涯", "微軟", "Solution Architect","雲端架構師"]
 ---
 
 ![微軟雲端架構師銷售管道數據](images/medium-0*Sre5eGm5dFF7JeEH.jpg)Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
