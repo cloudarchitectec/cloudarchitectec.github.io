@@ -1,5 +1,5 @@
 ---
-title: "微軟雲端架構師 (Cloud Solution Architect) 職位解析 1：Org Chart & Solution Architecting"
+title: "微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart & Solution Architecting"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-1"
 image: "images/medium-0*K1HNZvbky5n_Ejol.jpg"
@@ -12,7 +12,7 @@ tags: ["職涯", "微軟"]
 
 ### 前言
 
-跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解 (當然這有可能是因為我解釋得不夠好XD)。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。
+跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。
 
 這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
@@ -22,14 +22,10 @@ tags: ["職涯", "微軟"]
   4. Technical Presentation/Workshops
   5. Sales Pipeline Management
 
-
-
 **我希望大家在看完這個系列之後，可以留言告訴我:**
 
   1. 如果你不是微軟雲端架構師 (Azure Cloud Solution Architect)，你覺得這個職位符合你對於技術職位 (technical role) 的想像嗎?
   2. 如果你是微軟雲端架構師 (對，我最近發現有同事會看我的部落格! 太可怕了QAQ)，你覺得我對於 CSA 的工作描述還算客觀嗎?
-
-
 
 **當然，總是要先放一下免責聲明XD**
 
@@ -76,7 +72,5 @@ tags: ["職涯", "微軟"]
 下一篇要來講 Solution Architecting，也是我覺得CSA這個職位最專業，也最有技術力的地方，請大家敬請期待吧～
 
 我上次在一個好朋友(他是台灣的高中英文老師，非 IT 專業)面前跟另一個資工所的學生聊完 solution architecting/solution design，他看我的眼神立刻就不一樣了XDD 可能是因為我之前只有在他面前抱怨過工作，沒有講過技術內容，我一講完我可以感受到他看我的眼神立刻充滿了崇拜哈哈哈哈
-
-我發文的頻率通常是一週一篇，但據說如果拍手數或留言數增加的話，就會提高我的發文頻率喔～如果你等不及想看這個系列了，請多多拍手以及留言！
 
 {{< footer >}}
