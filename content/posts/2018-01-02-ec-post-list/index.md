@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "澳洲雲端架構師 EC 文章列表"
 date: 2018-01-02
 slug: "2018-01-02-ec-post-list"
