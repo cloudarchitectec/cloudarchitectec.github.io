@@ -5,7 +5,7 @@ slug: "2025-04-26-vanuatu-day-8"
 image: "images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg"
 images: ['images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg', 'images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg', 'images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg', 'images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg', 'images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg', 'images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg', 'images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg', 'images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg', 'images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg', 'images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg', 'images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg', 'images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "萬那杜","獨旅", "自駕"]
+tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
 ### 我 vs 蚊子
