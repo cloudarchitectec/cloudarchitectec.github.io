@@ -5,12 +5,8 @@ slug: "2024-08-10-2025-europe-summary"
 image: "images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg"
 images: ['images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg', 'images/medium-1*VSBL1Ga01lA0h_ugMTmCvA.png.jpg', 'images/medium-1*737C75lS7B1NQxbjQqlVQw.jpeg.jpg', 'images/medium-0*6QLsmelpga0ynQ4B.png.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "歐洲", "荷蘭", "德國", "瑞士", "奧地利"]
+tags: ["獨旅","旅遊", "歐洲", "荷蘭", "德國", "瑞士", "奧地利"]
 ---
-
-* * *
-
-### **一個女生的歐洲獨旅: 荷德瑞奧 17 天自助總花費以及心得**
 
 ![歐洲獨旅回程國泰航空機艙](images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg) 回程的國泰航班
 

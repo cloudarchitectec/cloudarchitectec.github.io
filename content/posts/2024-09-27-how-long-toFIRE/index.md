@@ -5,7 +5,7 @@ slug: "2024-09-27-how-long-tofire"
 image: "images/medium-0*6FlTC363YDM-gs_Z.jpg"
 images: ['images/medium-0*6FlTC363YDM-gs_Z.jpg', 'images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png.jpg', 'images/medium-1*tILRbx_NtxQzJL_kx31oQg.png.jpg', 'images/medium-1*0zV01KykJx7kRSEZfgZgsA.png.jpg']
 categories: ["投資理財"]
-tags: ["退休規劃"]
+tags: ["好想要退休", "FIRE"]
 ---
 
 * * *

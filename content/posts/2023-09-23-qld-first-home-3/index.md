@@ -4,13 +4,9 @@ date: 2023-09-23
 slug: "2023-09-23-qld-first-home-3"
 image: "images/medium-0*-xt4stilIuFJcpXO.jpg"
 images: ['images/medium-0*-xt4stilIuFJcpXO.jpg', 'images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png.jpg']
-categories: ["澳洲房地產"]
-tags: ["昆士蘭", "首次置業"]
+categories: ["投資理財"]
+tags: ["澳洲房地產","昆士蘭", "首次置業"]
 ---
-
-* * *
-
-### **澳洲首次置業指南-昆士蘭篇III：2023 印花稅減免怎麼算？QLD First Home Concession 節稅懶人包**
 
 ![澳洲昆州印花稅優惠](images/medium-0*-xt4stilIuFJcpXO.jpg) Photo by [Frames For Your Heart](https://unsplash.com/@framesforyourheart?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

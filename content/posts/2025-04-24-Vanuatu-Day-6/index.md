@@ -5,7 +5,7 @@ slug: "2025-04-24-vanuatu-day-6"
 image: "images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg"
 images: ['images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg', 'images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpeg.jpg', 'images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg', 'images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg', 'images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg', 'images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg', 'images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpeg.jpg', 'images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg', 'images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg', 'images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg', 'images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpeg.jpg', 'images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "萬那杜"]
+tags: ["旅遊", "萬那杜","vanuatu","獨旅", "自駕"]
 ---
 
 (如果你是個J人，租車是你在萬那杜最好的選擇)

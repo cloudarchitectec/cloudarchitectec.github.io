@@ -5,12 +5,8 @@ slug: "2024-07-22-bern"
 image: "images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg"
 images: ['images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg', 'images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpeg.jpg', 'images/medium-1*bgE52bqShgmt9nqamDlgYA.jpeg.jpg', 'images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpeg.jpg', 'images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpeg.jpg', 'images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpeg.jpg', 'images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpeg.jpg', 'images/medium-1*EILbqYqargPjS28k9RcgVQ.jpeg.jpg', 'images/medium-1*gggTRlie6ezAERC6U46peQ.jpeg.jpg', 'images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpeg.jpg', 'images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpeg.jpg', 'images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpeg.jpg', 'images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpeg.jpg', 'images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpeg.jpg', 'images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpeg.jpg', 'images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpeg.jpg', 'images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpeg.jpg', 'images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpeg.jpg', 'images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpeg.jpg', 'images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpeg.jpg', 'images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpeg.jpg', 'images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpeg.jpg', 'images/medium-0*UQyYhVGA_oLdfGDf.png.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "瑞士"]
+tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 ---
-
-* * *
-
-### 一個女生的歐洲獨旅: 2024.05.08 瑞士首都伯恩 (Bern) 說走就走之旅
 
 ![瑞士首都伯恩聯邦國會大廈](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg)瑞士 國會大廈
 

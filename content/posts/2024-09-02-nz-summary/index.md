@@ -1,16 +1,12 @@
 ---
 title: "兩個女生的紐西蘭自駕滑雪行: 行程與花費分享"
 date: 2024-09-02
-slug: "2024-09-02-2024-nz-summary"
+slug: "2024-09-02-nz-summary"
 image: "images/medium-0*fYVrU-_MGwq3cCGa.jpg"
 images: ['images/medium-0*fYVrU-_MGwq3cCGa.jpg', 'images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg', 'images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg', 'images/medium-1*kuMTQe2hpKMN3xn8cLWUDg.png.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "紐西蘭"]
+tags: ["旅遊","自駕",“滑雪” ,"紐西蘭"]
 ---
-
-* * *
-
-### 兩個女生的紐西蘭自駕滑雪行: 行程與花費分享
 
 ![紐西蘭南阿爾卑斯山雪景](images/medium-0*fYVrU-_MGwq3cCGa.jpg)Photo by [Hugo Villegas](https://unsplash.com/@gohu?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

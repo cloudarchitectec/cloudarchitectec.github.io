@@ -5,12 +5,8 @@ slug: "2025-04-19-vanuatu-day-1"
 image: "images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg"
 images: ['images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg', 'images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpeg.jpg', 'images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpeg.jpg', 'images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg', 'images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpeg.jpg', 'images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpeg.jpg', 'images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpeg.jpg', 'images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "萬那杜"]
+tags: ["旅遊", "萬那杜","vanuatu","獨旅", "自駕"]
 ---
-
-* * *
-
-### 太平洋小島上的大冒險：2025.04.19 Vanuatu Day 1 一個女生勇闖萬那杜
 
 ![萬那杜機場入境初印象](images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg)
 

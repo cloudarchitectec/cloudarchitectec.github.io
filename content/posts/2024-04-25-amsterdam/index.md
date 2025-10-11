@@ -5,7 +5,7 @@ slug: "2024-04-25-amsterdam"
 image: "images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg"
 images: ['images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg', 'images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpeg.jpg', 'images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpeg.jpg', 'images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpeg.jpg', 'images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpeg.jpg', 'images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpeg.jpg', 'images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpeg.jpg', 'images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpeg.jpg', 'images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpeg.jpg', 'images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpeg.jpg', 'images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpeg.jpg', 'images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpeg.jpg', 'images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpeg.jpg', 'images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpeg.jpg', 'images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpeg.jpg', 'images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpeg.jpg', 'images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpeg.jpg', 'images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpeg.jpg', 'images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpeg.jpg', 'images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpeg.jpg', 'images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpeg.jpg', 'images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpeg.jpg', 'images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpeg.jpg', 'images/medium-1*NgasYZx34uIW8BacGwudNg.jpeg.jpg', 'images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpeg.jpg', 'images/medium-0*YugyH-UDQuUIxt2_.png.jpg']
 categories: ["旅行紀錄"]
-tags: ["獨旅", "歐洲", "荷蘭"]
+tags: ["獨旅","旅遊", "歐洲",  "荷蘭"]
 ---
 
 ![阿姆斯特丹中央火車站](images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg)阿姆斯特丹火車站

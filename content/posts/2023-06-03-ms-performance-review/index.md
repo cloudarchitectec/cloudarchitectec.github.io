@@ -5,7 +5,7 @@ slug: "2023-06-03-ms-performance-review"
 image: "images/medium-0*56iblj35IDs0Ee1S.jpg"
 images: ['images/medium-0*56iblj35IDs0Ee1S.jpg']
 categories: ["海外職場"]
-tags: ["微軟", "績效評估"]
+tags: ["微軟"]
 ---
 
 * * *
