@@ -4,7 +4,7 @@ date: 2024-08-10
 slug: "2024-08-10-2025-europe-summary"
 image: "images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg"
 images: ['images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg', 'images/medium-1*VSBL1Ga01lA0h_ugMTmCvA.png.jpg', 'images/medium-1*737C75lS7B1NQxbjQqlVQw.jpeg.jpg', 'images/medium-0*6QLsmelpga0ynQ4B.png.jpg']
-categories: ["海外旅遊"]
+categories: ["國外遊記"]
 tags: ["旅遊", "荷蘭", "德國", "瑞士", "奧地利"]
 ---
 

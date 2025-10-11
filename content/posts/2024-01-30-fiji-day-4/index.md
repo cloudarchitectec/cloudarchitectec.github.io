@@ -4,7 +4,7 @@ date: 2024-01-30
 slug: "2024-01-30-fiji-day-4"
 image: "images/medium-0*cpXgPyWwKhUznpXc.jpg"
 images: ['images/medium-0*cpXgPyWwKhUznpXc.jpg', 'images/medium-0*vhZbyYyLxbPgLK8q.jpg', 'images/medium-0*QcchKBHhmEXEnYp_.jpg', 'images/medium-0*7WzJ_c1ClUre89qX.jpg', 'images/medium-0*MoG9skNBqOdBbm8e.jpg', 'images/medium-0*0i5Qtp7dsBw_-J9O.jpg', 'images/medium-0*DCghkyylWU5GChrP.jpg', 'images/medium-0*e9919yt2HkiYs2cK.jpg']
-categories: ["海外旅遊"]
+categories: ["國外遊記"]
 tags: ["旅遊", "斐濟"]
 ---
 ---

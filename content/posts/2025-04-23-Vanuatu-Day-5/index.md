@@ -4,7 +4,7 @@ date: 2025-04-23
 slug: "2025-04-23-vanuatu-day-5"
 image: "images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg"
 images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg']
-categories: ["海外旅遊"]
+categories: ["國外遊記"]
 tags: ["旅遊", "萬那杜"]
 ---
 

@@ -4,7 +4,7 @@ date: 2024-09-02
 slug: "2024-09-02-2024-nz-summary"
 image: "images/medium-0*fYVrU-_MGwq3cCGa.jpg"
 images: ['images/medium-0*fYVrU-_MGwq3cCGa.jpg', 'images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg', 'images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg', 'images/medium-1*kuMTQe2hpKMN3xn8cLWUDg.png.jpg']
-categories: ["海外旅遊"]
+categories: ["國外遊記"]
 tags: ["旅遊", "紐西蘭"]
 ---
 

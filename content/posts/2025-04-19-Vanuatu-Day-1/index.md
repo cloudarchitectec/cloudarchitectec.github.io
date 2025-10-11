@@ -4,7 +4,7 @@ date: 2025-04-19
 slug: "2025-04-19-vanuatu-day-1"
 image: "images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg"
 images: ['images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg', 'images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpeg.jpg', 'images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpeg.jpg', 'images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg', 'images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpeg.jpg', 'images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpeg.jpg', 'images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpeg.jpg', 'images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg']
-categories: ["海外旅遊"]
+categories: ["國外遊記"]
 tags: ["旅遊", "萬那杜"]
 ---
 
