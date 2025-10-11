@@ -4,7 +4,7 @@ date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-6"
 image: "images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpeg.jpg"
 images: ['images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpeg.jpg', 'images/medium-1*49dzPf3ncGQ8Rd9ILVmNYQ.jpeg.jpg', 'images/medium-1*LV2Q5sXNZspZ2X7R_4ctoQ.jpeg.jpg', 'images/medium-1*vYkAtRnaY9u5PW_sevx7Iw.jpeg.jpg', 'images/medium-1*vmYPiXmc6lgDAyQ1cYItkw.jpeg.jpg', 'images/medium-1*9IcJ4KIjbFEvdsyxyVwFAg.jpeg.jpg', 'images/medium-1*g_gRl-BxQrTYKwXsnREJLw.jpeg.jpg', 'images/medium-1*b2rWJ-wohW5j2M7jKemQfQ.jpeg.jpg', 'images/medium-1*uqXU87fqe7SQiEMwTIyvvg.jpeg.jpg']
-categories: ["海外旅遊"]
+categories: ["旅行紀錄"]
 tags: ["旅遊", "萬那杜", "郵輪"]
 ---
 

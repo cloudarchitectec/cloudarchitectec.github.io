@@ -4,8 +4,8 @@ date: 2023-02-04
 slug: "2023-02-04-cloud-certs"
 image: "images/medium-0*Psml5_ESx4uZ9sFr.jpg"
 images: ['images/medium-0*Psml5_ESx4uZ9sFr.jpg']
-categories: ["職涯"]
-tags: ["職涯", "雲端證照"]
+categories: ["海外職場"]
+tags: ["雲端證照"]
 ---
 
 ![a paper with ‘empowerment’ on it](images/medium-0*Psml5_ESx4uZ9sFr.jpg)Photo by [Markus Winkler](https://unsplash.com/@markuswinkler?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

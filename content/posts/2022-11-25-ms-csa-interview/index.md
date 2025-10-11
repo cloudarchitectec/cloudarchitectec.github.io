@@ -4,8 +4,8 @@ date: 2022-11-25
 slug: "2022-11-25-ms-csa-interview"
 image: "images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg"
 images: ['images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg']
-categories: ["職涯"]
-tags: ["職涯", "面試"]
+categories: ["海外職場"]
+tags: ["面試"]
 ---
 
 ### 微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)

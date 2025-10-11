@@ -4,13 +4,9 @@ date: 2025-04-20
 slug: "2025-04-20-vanuatu-day-2"
 image: "images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg"
 images: ['images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg', 'images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpeg.jpg', 'images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpeg.jpg', 'images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpeg.jpg', 'images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpeg.jpg', 'images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpeg.jpg', 'images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpeg.jpg', 'images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpeg.jpg', 'images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg', 'images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg', 'images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpeg.jpg', 'images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpeg.jpg', 'images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpeg.jpg', 'images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpeg.jpg', 'images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg', 'images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg']
-categories: ["海外旅遊"]
-tags: ["旅遊", "萬那杜"]
+categories: ["旅行紀錄"]
+tags: ["旅遊", "萬那杜","vanuatu","獨旅", "自駕"]
 ---
-
-* * *
-
-### 太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區
 
 ![Port Vila 市區街景](images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg)Port Vila 市區
 

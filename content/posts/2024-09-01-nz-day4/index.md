@@ -4,13 +4,9 @@ date: 2024-09-01
 slug: "2024-09-01-nz-day4"
 image: "images/medium-1*nmg83Ua_Kr_WFKKsHUQP0g.jpeg.jpg"
 images: ['images/medium-1*nmg83Ua_Kr_WFKKsHUQP0g.jpeg.jpg', 'images/medium-1*bEq4_vSbztPln8SCbiNrCA.jpeg.jpg', 'images/medium-1*9o818ABLZslywE7xWNrykA.jpeg.jpg', 'images/medium-1*GtuUDjZ1q7i85jOgMoWeSA.jpeg.jpg', 'images/medium-1*xWu3OIFYeHfGWEHnIGP5TA.jpeg.jpg', 'images/medium-1*pNFazp5HZOlKTTKqk5f-vw.jpeg.jpg', 'images/medium-1*Fx6nRf3jGbJuEodAUl6wVg.jpeg.jpg', 'images/medium-1*azJ52dYzwNkeojllK7EgZg.jpeg.jpg', 'images/medium-1*PMR6bE41G7dSv6BnuKzdOA.jpeg.jpg', 'images/medium-1*ieId5iT7_ikIbBmE-uhRGQ.jpeg.jpg', 'images/medium-1*5MMMHj2FFyDxehyvtqjkjw.jpeg.jpg', 'images/medium-1*W6XED-nyUqE58Jxoga4ODQ.jpeg.jpg', 'images/medium-1*myrazD8o6mbkUmZrMMFQXw.jpeg.jpg', 'images/medium-1*7bP06F_8XC_0PqIqnXwopg.jpeg.jpg', 'images/medium-1*ZsEBy48L0CmZAgJSC860Qw.jpeg.jpg', 'images/medium-1*GOLqRjWO1ajauko9Yh9lHA.jpeg.jpg']
-categories: ["海外旅遊"]
-tags: ["旅遊", "紐西蘭"]
+categories: ["旅行紀錄"]
+tags: ["旅遊","自駕",“滑雪” ,"紐西蘭"]
 ---
-
-* * *
-
-### 兩個女生的紐西蘭自駕滑雪行: 2024.09.04 紐西蘭飛機麥當勞+神秘超值旅館！陶波隱藏版玩法推薦
 
 ![陶波湖悠閒野鴨](images/medium-1*nmg83Ua_Kr_WFKKsHUQP0g.jpeg.jpg)好閒適的鴨鴨
 

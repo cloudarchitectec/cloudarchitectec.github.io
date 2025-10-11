@@ -4,8 +4,8 @@ date: 2024-01-25
 slug: "2024-01-25-DevOps-for-6-months"
 image: "images/medium-0*s0H-Uir4l9_Oukde.jpg"
 images: ['images/medium-0*s0H-Uir4l9_Oukde.jpg']
-categories: ["職涯"]
-tags: ["職涯", "薪資"]
+categories: ["海外職場"]
+tags: ["薪資"]
 ---
 
 * * *

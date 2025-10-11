@@ -5,7 +5,7 @@ slug: "2023-03-24-it-vending-machine"
 image: "images/medium-1*js1PtztgDyYljTiVon93-w.jpeg.jpg"
 images: ['images/medium-1*js1PtztgDyYljTiVon93-w.jpeg.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活", "科技業", "AWS"]
+tags: ["科技業", "AWS"]
 ---
 
 * * *

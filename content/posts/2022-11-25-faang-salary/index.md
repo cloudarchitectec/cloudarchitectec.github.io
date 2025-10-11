@@ -4,8 +4,8 @@ date: 2022-11-25
 slug: "2022-11-25-faang-salary"
 image: "images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg"
 images: ['images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg']
-categories: ["職涯"]
-tags: ["職涯", "科技業", "海外職場", "薪資"]
+categories: ["海外職場"]
+tags: ["科技業", "海外職場", "薪資"]
 ---
 
 * * *

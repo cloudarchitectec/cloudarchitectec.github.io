@@ -4,13 +4,9 @@ date: 2025-04-25
 slug: "2025-04-25-vanuatu-day-7"
 image: "images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg"
 images: ['images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg', 'images/medium-1*I3pFjSCcDgwmfgGXGGPi5Q.jpeg.jpg', 'images/medium-1*0hhYOSy5FS70Rq729wegaQ.jpeg.jpg', 'images/medium-1*VHN9OVLrSbv8uuJ8RbwUDw.jpeg.jpg', 'images/medium-1*xG_1Q0HEgU3ByPwlXdZIxw.jpeg.jpg', 'images/medium-1*F2OyrZ4d2NNVHwmnbF140Q.jpeg.jpg', 'images/medium-1*-Sp5itPOK0GWT9bIqOTnXg.jpeg.jpg', 'images/medium-1*EmJ1UseG69n-QxK0Iv_Ovw.jpeg.jpg', 'images/medium-1*DYTggfGKwgYSao676193lw.jpeg.jpg', 'images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpeg.jpg', 'images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpeg.jpg', 'images/medium-1*x1YnJLPQqgp-BjkNxGlbUg.jpeg.jpg', 'images/medium-1*7gp9-doDFPnI5gXrkj_3Ag.jpeg.jpg', 'images/medium-1*5plrVldSDXkcD0KFNEHhQA.jpeg.jpg', 'images/medium-1*kMooDl696lTmXKONkmrNeQ.jpeg.jpg', 'images/medium-1*OCHRIZN3ZF7F5I5fXbDDOQ.jpeg.jpg', 'images/medium-1*ocw7PIv6cwfJsO7sEYxybg.jpeg.jpg', 'images/medium-1*8A9yv7rX3AZ9MbT2N-W6dA.jpeg.jpg', 'images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpeg.jpg', 'images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpeg.jpg']
-categories: ["海外旅遊"]
-tags: ["旅遊", "萬那杜"]
+categories: ["旅行紀錄"]
+tags: ["旅遊", "萬那杜","vanuatu","獨旅", "自駕"]
 ---
-
-* * *
-
-### 太平洋小島上的大冒險：2025.04.25 Vanuatu Day 7 導航騙我、奶奶救我：宅宅迷路日到火焰之夜
 
 ![萬那杜女性傳統花洋裝](images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpeg.jpg)萬那杜的女生很喜歡穿這樣的花花洋裝，兩側有超大口袋，我覺得很方便
 

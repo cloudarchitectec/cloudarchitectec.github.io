@@ -5,7 +5,7 @@ slug: "2023-11-10-how-i-become-pr"
 image: "images/medium-0*1xfcDaGhCc5nGsk1.jpg"
 images: ['images/medium-0*1xfcDaGhCc5nGsk1.jpg', 'images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpeg.jpg', 'images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png.jpg', 'images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活", "澳洲簽證"]
+tags: ["澳洲簽證"]
 ---
 
 * * *

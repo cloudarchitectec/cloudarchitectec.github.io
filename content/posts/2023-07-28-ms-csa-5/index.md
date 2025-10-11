@@ -1,46 +1,24 @@
 ---
-title: "微軟雲端架構師 (Cloud Solution Architect) 職位解析 5：Sales Pipeline Management"
+title: "微軟雲端架構師 (Solution Architect) 職位解析 5：Sales Pipeline Management"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-5"
 image: "images/medium-0*Sre5eGm5dFF7JeEH.jpg"
 images: ['images/medium-0*Sre5eGm5dFF7JeEH.jpg', 'images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg', 'images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg', 'images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg', 'images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg', 'images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg']
-categories: ["職涯"]
-tags: ["職涯", "微軟", "雲端架構師"]
+categories: ["海外職場"]
+tags: ["微軟", "Solution Architect","雲端架構師"]
 ---
 
 ![微軟雲端架構師銷售管道數據](images/medium-0*Sre5eGm5dFF7JeEH.jpg)Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 
-這篇文章是 <<微軟雲端架構師 (Cloud Solution Architect) 職位解析 - >> 系列的最終章。這個系列總共有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的最終章。這個系列總共有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
-  1. Org Chart
-  2. Solution Architecting
-  3. Technical Guidance/Customer Meetings
-  4. Technical Presentation/Workshops
+  1. [**微軟雲端架構師 (Solution Architect) 職位解析 第一集：Org Chart & Solution Architecting**](2023-07-28-ms-csa-1)
+  2. [**微軟雲端架構師 (Solution Architect) 職位解析 第二集：Solution Architecting**](/posts/2023-07-28-ms-csa-2/)
+  3. [**微軟雲端架構師 (Solution Architect) 職位解析 3：Technical Guidance/Customer Meetings**](/posts/2023-07-28-ms-csa-3/)
+  4. [**微軟雲端架構師 (Solution Architect) 職位解析 第四集：Technical Presentation/Workshops**](/posts/2023-07-28-ms-csa-4/)
   5. **Sales Pipeline Management >> 你正在閱讀的文章**
-
-
-
-**還沒看過第一集的人請看這裡：**
-
-[**微軟雲端架構師 (Cloud Solution Architect) 職位解析 -  第一集：Org Chart & Solution Architecting**  
- _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
-
-**還沒看過第二集的人請看這裡：**
-
-[**微軟雲端架構師 (Cloud Solution Architect) 職位解析 -  第二集：Solution Architecting**  
- _這篇文章將以 3-tier web app migration 跟大家分享微軟雲端架構師 (Azure Cloud Solution Architect) 是如何規劃雲端解決方案的，文章的最後還會跟大家分享當架構師所需的技能。](/posts/2023-07-28-ms-csa-2/)[](/posts/2023-07-28-ms-csa-2/)
-
-**還沒看過第三集的人請看這裡：**
-
-[**微軟雲端架構師 (Cloud Solution Architect) 職位解析 -  第三集：Technical Guidance/Customer Meetings**  
- _這篇文章將以我協助客戶了解SQL Server DSC (desired state configuration) 相關的 Azure 雲服務為例，跟大家分享微軟雲端架構師是如何學習雲端技術的相關知識、製作 demo…](/posts/2023-07-28-ms-csa-3/)[](/posts/2023-07-28-ms-csa-3/)
-
-**還沒看過第四集的人請看這裡：**
-
-[**微軟雲端架構師 (Cloud Solution Architect) 職位解析 -  第四集：Technical Presentation/Workshops**  
- _這篇文章將以我準備 technical workshop 的過程，跟大家分享微軟雲端架構師是如何做 technical presentation。](/posts/2023-07-28-ms-csa-4/)[](/posts/2023-07-28-ms-csa-4/)
 
 **當然，總是要先放一下免責聲明XD**
 
@@ -108,15 +86,13 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 ![微軟雲端架構師工作內容分布圖](images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg)Microsoft CSA Work Distribution
 
-**Task 1 Presentation/Workshops & Task 2 Technical Guidance/Customer Meeting**：算是技術相關的工作內容，合起來佔 30%。但我其實也很好奇，你們覺得提供 technical guidance、creating technical demo & poc、 presentation 這樣就算是一個技術職位嗎? 還是只有 hardcode programming 才算哈哈？
+- **Task 1 Presentation/Workshops & Task 2 Technical Guidance/Customer Meeting**：算是技術相關的工作內容，合起來佔 30%。但我其實也很好奇，你們覺得提供 technical guidance、creating technical demo & poc、 presentation 這樣就算是一個技術職位嗎? 還是只有 hardcode programming 才算哈哈？ 我打算之後來寫一篇 <<Software Engineer、Cloud Engineer、DevOps Engineer，你寫的 code 跟我寫的到底有什麼不同?>>，裡面會提供一些 code samples，來進一步跟大家解析這三個 engineer 職位的不同，有興趣的人請在下方加1 XD
 
-我打算之後來寫一篇 <<Software Engineer、Cloud Engineer、DevOps Engineer，你寫的 code 跟我寫的到底有什麼不同?>>，裡面會提供一些 code samples，來進一步跟大家解析這三個 engineer 職位的不同，有興趣的人請在下方加1 XD
+- **Task 3 Researching and Learning new technology：** 佔 15%，算是工作上的福利，因為可以用工作時間學習新技術，這點我很喜歡。
 
-**Task 3 Researching and Learning new technology：** 佔 15%，算是工作上的福利，因為可以用工作時間學習新技術，這點我很喜歡。
+- **Task 4 Sales Pipeline Management & 5：Meeting/Resources Coordination**:，合起來佔 50%，我覺得基本上是浪費生命XD 但這就是微軟領導階層唯一重視的東西，是的，他們不管你幫助客戶解決了那些技術難題或是規畫出怎樣符合他們技術要求的架構方案，他們只在乎你的 sales pipeline forecasting 是否100% accurate XD
 
-**Task 4 Sales Pipeline Management & 5：Meeting/Resources Coordination**:，合起來佔 50%，我覺得基本上是浪費生命XD 但這就是微軟領導階層唯一重視的東西，是的，他們不管你幫助客戶解決了那些技術難題或是規畫出怎樣符合他們技術要求的架構方案，他們只在乎你的 sales pipeline forecasting 是否100% accurate XD
-
-**Task 6 Internal Meetings/Admin** ：佔 5%，這是每個工作都逃不掉的必要之惡，我就不多提了。
+- **Task 6 Internal Meetings/Admin** ：佔 5%，這是每個工作都逃不掉的必要之惡，我就不多提了。
 
 ### **結語**
 
@@ -126,6 +102,8 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
   2. 如果你是微軟雲端架構師，你覺得我對於 CSA 的工作描述還算客觀嗎?
 
 
-希望這個系列可以幫助大家更了解這個職位～ 如果還有什麼其他想看的主題或是有任何問題，都歡迎在下方留言！
+希望這個系列可以幫助大家更了解這個職位～ 
+
+如果還有什麼其他想看的主題或是有任何問題，都歡迎在下方留言！
 
 {{< footer >}}

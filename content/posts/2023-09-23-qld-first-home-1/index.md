@@ -5,12 +5,8 @@ slug: "2023-09-23-qld-first-home-1"
 image: "images/medium-0*y2wpY7FCgV16jMh5.jpg"
 images: ['images/medium-0*y2wpY7FCgV16jMh5.jpg', 'images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png.jpg']
 categories: ["投資理財"]
-tags: ["投資理財", "房地產", "首次置業"]
+tags: ["澳洲房地產","昆士蘭", "首次置業"]
 ---
-
-* * *
-
-### **澳洲首次置業指南-昆士蘭篇 I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme**
 
 ![澳洲首次置業房地產](images/medium-0*y2wpY7FCgV16jMh5.jpg) Photo by [Tierra Mallorca](https://unsplash.com/@tierramallorca?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

@@ -5,12 +5,8 @@ slug: "2023-09-23-qld-first-home-2"
 image: "images/medium-0*geYGb8v4ImP3yYtt.jpg"
 images: ['images/medium-0*geYGb8v4ImP3yYtt.jpg']
 categories: ["投資理財"]
-tags: ["投資理財", "房地產"]
+tags: ["澳洲房地產","昆士蘭", "首次置業"]
 ---
-
-* * *
-
-### **澳洲首次置業指南-昆士蘭篇II：2023 首次購屋補助怎麼領？First Home Owner Grant 申請攻略**
 
 ![澳洲昆州首次置業指南](images/medium-0*geYGb8v4ImP3yYtt.jpg) Photo by [Scott Webb](https://unsplash.com/@scottwebb?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

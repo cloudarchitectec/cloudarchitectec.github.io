@@ -4,7 +4,7 @@ date: 2023-05-28
 slug: "2023-05-28-carnival-splendor-day-2"
 image: "images/medium-0*xfQ3sXJxvDvXfgLi.jpg"
 images: ['images/medium-0*xfQ3sXJxvDvXfgLi.jpg', 'images/medium-1*67HCCHz_fSzckeRLuUmWYg.jpeg.jpg', 'images/medium-1*Syk9imF-O3YSSPzPSj5Lvg.jpeg.jpg', 'images/medium-1*HAJu3QMuwOx5D1Fulmf_QA.jpeg.jpg', 'images/medium-1*_EPSTaZhWKOAQXT-bsDP8w.jpeg.jpg', 'images/medium-1*_lwlQc-BAqX6CueoYussvg.jpeg.jpg', 'images/medium-1*EdpwnroHyE04LCgDEfxy6g.jpeg.jpg', 'images/medium-1*K1Kd6G4Gg6BdbzDDefKRbA.jpeg.jpg']
-categories: ["海外旅遊"]
+categories: ["旅行紀錄"]
 tags: ["旅遊", "郵輪"]
 ---
 

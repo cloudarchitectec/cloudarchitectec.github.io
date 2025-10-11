@@ -5,7 +5,7 @@ slug: "2021-07-06-aws-cbr-life"
 image: "images/medium-0*pNETejXBiiEqjz9b.jpg"
 images: ['images/medium-0*pNETejXBiiEqjz9b.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活", "坎培拉", "AWS", "職涯"]
+tags: ["坎培拉", "AWS", "職涯"]
 ---
 
 * * *

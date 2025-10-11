@@ -4,13 +4,9 @@ date: 2024-09-01
 slug: "2024-09-01-nz-day2"
 image: "images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg"
 images: ['images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg', 'images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpeg.jpg', 'images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpeg.jpg', 'images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpeg.jpg', 'images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpeg.jpg', 'images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpeg.jpg', 'images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpeg.jpg', 'images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpeg.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpeg.jpg', 'images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpeg.jpg', 'images/medium-1*87pxJDNxemsffVQgTd1gQg.jpeg.jpg', 'images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpeg.jpg', 'images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpeg.jpg']
-categories: ["海外旅遊"]
-tags: ["旅遊", "紐西蘭"]
+categories: ["旅行紀錄"]
+tags: ["旅遊","自駕",“滑雪” ,"紐西蘭"]
 ---
-
-* * *
-
-### 兩個女生的紐西蘭自駕滑雪行: 2024.09.01 探訪魔戒拍攝景點哈比村
 
 ![紐西蘭哈比村魔戒拍攝景點](images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpeg.jpg)哈比村
 

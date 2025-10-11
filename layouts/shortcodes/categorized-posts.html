@@ -7,24 +7,23 @@ Usage: {{< categorized-posts >}}
 {{ $posts := where .Site.RegularPages "Type" "posts" }}
 {{ $posts = where $posts "Draft" false }}
 
-{{/* Define category display order and names */}}
-{{ $categoryOrder := slice "職涯" "投資理財" "澳洲生活" "海外旅遊" "零基礎轉職澳洲工程師"}}
-{{ $categoryDisplayNames := dict 
-  "職涯" "澳洲職場/轉職工程師"
-  "投資理財" "澳洲投資理財"
-  "澳洲生活" "澳洲生活"
-  "海外旅遊" "海外旅遊"
-  "零基礎轉職澳洲工程師" "零基礎轉職澳洲工程師"
-}}
+{{/* Auto-discover all categories used in posts */}}
+{{ $allCategories := slice }}
+{{ range $posts }}
+  {{ range .Params.categories }}
+    {{ if not (in $allCategories .) }}
+      {{ $allCategories = $allCategories | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
 
-{{/* Display posts by category in specified order */}}
-{{ range $categoryOrder }}
+{{/* Display posts by category (sorted alphabetically) */}}
+{{ range sort $allCategories }}
   {{ $category := . }}
   {{ $categoryPosts := where $posts "Params.categories" "intersect" (slice $category) }}
   {{ if $categoryPosts }}
-    {{ $displayName := index $categoryDisplayNames $category }}
 
-<h3><a href="/categories/{{ $category | urlize }}/"><strong>{{ $displayName }}</strong></a></h3>
+<h3><a href="/categories/{{ $category | urlize }}/"><strong>{{ $category }}</strong></a></h3>
 <ul>
 {{ range $categoryPosts.ByTitle }}
 <li><a href="{{ .RelPermalink }}">{{ .Title | htmlEscape }}</a></li>

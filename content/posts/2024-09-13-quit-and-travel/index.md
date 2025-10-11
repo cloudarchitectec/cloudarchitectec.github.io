@@ -5,13 +5,7 @@ slug: "2024-09-13-quit-and-travel"
 image: "images/medium-0*MY-EdliKyYS6OBxE.jpg"
 images: ['images/medium-0*MY-EdliKyYS6OBxE.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活", "職涯"]
-draft: true
 ---
-
-* * *
-
-### 辭職去流浪，真的是解答嗎？
 
 ![澳洲裸辭旅行生活規劃](images/medium-0*MY-EdliKyYS6OBxE.jpg)Photo by [Jordan Ladikos](https://unsplash.com/@jordanladikos?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
