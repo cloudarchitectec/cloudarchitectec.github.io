@@ -4,7 +4,7 @@ date: 2023-07-02
 slug: "2023-07-02-az-500"
 image: "images/medium-0*L92NknyMUKwSh39M.jpg"
 images: ['images/medium-0*L92NknyMUKwSh39M.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["雲端證照"]
 ---
 

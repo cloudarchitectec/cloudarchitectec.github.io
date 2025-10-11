@@ -4,7 +4,7 @@ date: 2023-06-15
 slug: "2023-06-15-career-transition-again"
 image: "images/medium-0*sB1VtMiyTXKqNZ3E.jpg"
 images: ['images/medium-0*sB1VtMiyTXKqNZ3E.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["轉職工程師", "薪資"]
 ---
 

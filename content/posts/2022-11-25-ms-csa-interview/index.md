@@ -4,7 +4,7 @@ date: 2022-11-25
 slug: "2022-11-25-ms-csa-interview"
 image: "images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg"
 images: ['images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["面試"]
 ---
 

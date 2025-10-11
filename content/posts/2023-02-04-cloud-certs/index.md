@@ -4,7 +4,7 @@ date: 2023-02-04
 slug: "2023-02-04-cloud-certs"
 image: "images/medium-0*Psml5_ESx4uZ9sFr.jpg"
 images: ['images/medium-0*Psml5_ESx4uZ9sFr.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["雲端證照"]
 ---
 

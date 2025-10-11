@@ -4,7 +4,7 @@ date: 2023-04-01
 slug: "2023-04-01-work-tasks"
 image: "images/medium-0*x2HBd4-Q6KDvwc5h.jpg"
 images: ['images/medium-0*x2HBd4-Q6KDvwc5h.jpg', 'images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg', 'images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg', 'images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg', 'images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["職涯"]
 ---
 ---

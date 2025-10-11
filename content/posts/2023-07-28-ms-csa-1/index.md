@@ -4,7 +4,7 @@ date: 2023-07-28
 slug: "2023-07-28-ms-csa-1"
 image: "images/medium-0*K1HNZvbky5n_Ejol.jpg"
 images: ['images/medium-0*K1HNZvbky5n_Ejol.jpg', 'images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png.jpg', 'images/medium-1*U4ue47g8V7hSuywpvW0e0w.png.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
 ---
 

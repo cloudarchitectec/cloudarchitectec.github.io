@@ -2,14 +2,8 @@
 title: "文組轉職澳洲科技大廠工程師—我的科技業職涯的反思"
 date: 2024-04-12
 slug: "2024-04-12-reflection-on-my-tech-career"
-categories: 
-  - "職涯"
-tags: 
-  - "科技業"
-  - "轉職工程師"
-  - "職涯"
-  - "AWS"
-  - "微軟"
+categories: ["海外職場"]
+tags: ["職涯","科技業","轉職工程師","AWS","微軟"]
 image: "images/0*VPTnrBLCs211J6nV.jpg"
 images:
   - "images/0*VPTnrBLCs211J6nV.jpg"

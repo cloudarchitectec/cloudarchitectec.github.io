@@ -4,7 +4,7 @@ date: 2023-11-04
 slug: "2023-11-04-azure-vs-aws-certs-ft-chatgpt"
 image: "images/medium-0*IHdurgjhEtnGcDd7.jpg"
 images: ['images/medium-0*IHdurgjhEtnGcDd7.jpg', 'images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png.jpg', 'images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png.jpg', 'images/medium-1*gi-BinpRY4mO2kvLs90O_g.png.jpg', 'images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png.jpg', 'images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png.jpg', 'images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png.jpg', 'images/medium-1*C4EmZWOgy7LR-yxBI346eA.png.jpg', 'images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png.jpg', 'images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png.jpg', 'images/medium-1*gnswMcSZJJI9ja13c66TtQ.png.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["AWS"]
 ---
 

@@ -4,7 +4,7 @@ date: 2023-09-01
 slug: "2023-09-01-cloud-roles"
 image: "images/medium-0*-brIU6Z7a6AQFe6B.jpg"
 images: ['images/medium-0*-brIU6Z7a6AQFe6B.jpg', 'images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png.jpg', 'images/medium-1*uvMwEGVDyxV5k7f3r11mrg.png.jpg', 'images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png.jpg', 'images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png.jpg', 'images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png.jpg']
-categories: ["海外求職"]
+categories: ["海外職場"]
 tags: ["雲端架構師"]
 ---
 
