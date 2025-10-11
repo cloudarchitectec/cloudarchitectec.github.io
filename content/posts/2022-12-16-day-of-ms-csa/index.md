@@ -4,7 +4,7 @@ date: 2022-12-16
 slug: "2022-12-16-day-of-ms-csa"
 image: "images/medium-0*FOS26PQyvkwSGy1W.jpg"
 images: ['images/medium-0*FOS26PQyvkwSGy1W.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "微軟"]
 ---
 

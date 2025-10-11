@@ -4,7 +4,7 @@ date: 2022-12-10
 slug: "2022-12-10-career-transition-analysis"
 image: "images/medium-0*rqpmoMhuClAH1A3L.jpg"
 images: ['images/medium-0*rqpmoMhuClAH1A3L.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "轉職工程師", "澳洲生活"]
 ---
 

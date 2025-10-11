@@ -4,7 +4,7 @@ date: 2023-03-03
 slug: "2023-03-03-awesome-builder"
 image: "images/medium-0*U0dfYsPiq7mCwebZ.jpg"
 images: ['images/medium-0*U0dfYsPiq7mCwebZ.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "AWS", "雲端架構師"]
 ---
 ---

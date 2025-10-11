@@ -4,7 +4,7 @@ date: 2023-09-08
 slug: "2023-09-08-reflection-on-transition"
 image: "images/medium-0*RZlpg-Oae0Ai-ckp.jpg"
 images: ['images/medium-0*RZlpg-Oae0Ai-ckp.jpg', 'images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png.jpg', 'images/medium-1*O7vFsi0MX11kiDTCGNydUg.png.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "轉職工程師"]
 ---
 

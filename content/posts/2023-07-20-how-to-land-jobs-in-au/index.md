@@ -4,7 +4,7 @@ date: 2023-07-20
 slug: "2023-07-20-how-to-land-jobs-in-au"
 image: "images/medium-0*UBDJ0UzDuIfVDgwG.jpg"
 images: ['images/medium-0*UBDJ0UzDuIfVDgwG.jpg', 'images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png', 'images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png', 'images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png', 'images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png', 'images/medium-1*6KGdpzZwegqjjnCelIeHlg.png']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["澳洲求職必勝法則", "求職"]
 ---
 

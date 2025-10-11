@@ -4,7 +4,7 @@ date: 2023-04-06
 slug: "2023-04-06-2023-layoff"
 image: "images/medium-0*w_X54NDVy89HyHn-.jpg"
 images: ['images/medium-0*w_X54NDVy89HyHn-.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "裁員"]
 ---
 

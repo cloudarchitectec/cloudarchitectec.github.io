@@ -4,7 +4,7 @@ date: 2022-11-19
 slug: "2022-11-19-azure-az-104-exam"
 image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg"
 images: ['images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "雲端證照"]
 ---
 

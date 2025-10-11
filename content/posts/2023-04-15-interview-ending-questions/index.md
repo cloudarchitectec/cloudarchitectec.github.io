@@ -4,7 +4,7 @@ date: 2023-04-15
 slug: "2023-04-15-interview-ending-questions"
 image: "images/medium-0*e6sW2xjAmuheAzMv.jpg"
 images: ['images/medium-0*e6sW2xjAmuheAzMv.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "面試", "求職", "澳洲生活"]
 ---
 

@@ -4,7 +4,7 @@ date: 2023-01-14
 slug: "2023-01-14-az-305"
 image: "images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg"
 images: ['images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg']
-categories: ["職涯"]
+categories: ["海外求職"]
 tags: ["職涯", "雲端證照"]
 ---
 
