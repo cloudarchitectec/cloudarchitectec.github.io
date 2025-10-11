@@ -4,7 +4,7 @@ date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-5"
 image: "images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpeg.jpg"
 images: ['images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpeg.jpg', 'images/medium-1*--9Pw_aiyqSGzhUf2ZieUQ.jpeg.jpg', 'images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpeg.jpg', 'images/medium-1*7PgD26vI-d-yONvrGR-qEw.jpeg.jpg', 'images/medium-1*KbwckbPHton3dvodP2-OQg.jpeg.jpg', 'images/medium-1*pFEUKRkQrGBUcK7CPCSwxA.jpeg.jpg', 'images/medium-1*PL5k02W0pByIHUcKRJ7ffw.jpeg.jpg', 'images/medium-1*mW5U1eIHTAk5xFCjC0CE-g.jpeg.jpg', 'images/medium-1*sj7OZg5di7AAyxWxN0KN1Q.jpeg.jpg', 'images/medium-1*Kl99scnbT80o6Vyh5HnuGg.jpeg.jpg']
-categories: ["國外遊記"]
+categories: ["旅行紀錄"]
 tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 ---
 ---

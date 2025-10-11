@@ -5,7 +5,6 @@ slug: "2023-11-18-pilates"
 image: "images/medium-0*RRTjZyO7i2FCSmM-.jpg"
 images: ['images/medium-0*RRTjZyO7i2FCSmM-.jpg', 'images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpeg.jpg', 'images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpeg.jpg', 'images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpeg.jpg', 'images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpeg.jpg', 'images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpeg.jpg', 'images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpeg.jpg']
 categories: ["澳洲生活"]
-tags: ["健身"]
 ---
 
 * * *

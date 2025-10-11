@@ -4,7 +4,7 @@ date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-10"
 image: "images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg"
 images: ['images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg']
-categories: ["國外遊記"]
+categories: ["旅行紀錄"]
 tags: ["旅遊", "新喀里多尼亞"]
 ---
 

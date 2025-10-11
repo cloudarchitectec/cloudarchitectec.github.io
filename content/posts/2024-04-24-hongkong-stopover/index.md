@@ -7,7 +7,7 @@ images:
   - /images/1*jyJocl-EZQDLk0Tg0ZWSQg.jpg
   - /images/1*3Ly1B0aUloXiWUr1iJejYw.jpg
   - /images/1*BfFkvUzLns0xJZlGXX2lmA.jpg
-categories: ["國外遊記"]
+categories: ["旅行紀錄"]
 tags:
   - 獨旅
   - 歐洲

@@ -5,7 +5,7 @@ slug: "2023-06-17-devops-interview-2"
 image: "images/medium-0*-cJX5ON0RTaomZNr.jpg"
 images: ['images/medium-0*-cJX5ON0RTaomZNr.jpg']
 categories: ["海外職場"]
-tags: ["面試", "DevOps", "澳洲生活"]
+tags: ["面試", "DevOps 工程師", "澳洲求職"]
 ---
 
 ![](images/medium-0*-cJX5ON0RTaomZNr.jpg)Photo by [Amy Hirschi](https://unsplash.com/@amyhirschi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

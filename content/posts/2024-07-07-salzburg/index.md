@@ -4,8 +4,8 @@ date: 2024-07-07
 slug: "2024-07-07-salzburg"
 image: "images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpeg.jpg"
 images: ['images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpeg.jpg', 'images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpeg.jpg', 'images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpeg.jpg', 'images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpeg.jpg', 'images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpeg.jpg', 'images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpeg.jpg', 'images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpeg.jpg', 'images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpeg.jpg', 'images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpeg.jpg', 'images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpeg.jpg', 'images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpeg.jpg', 'images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpeg.jpg', 'images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpeg.jpg', 'images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpeg.jpg', 'images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpeg.jpg', 'images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpeg.jpg', 'images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpeg.jpg', 'images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpeg.jpg', 'images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpeg.jpg', 'images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpeg.jpg', 'images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpeg.jpg', 'images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpeg.jpg', 'images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpeg.jpg', 'images/medium-1*rb-zBQbH87RNfabxuS830Q.jpeg.jpg', 'images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpeg.jpg', 'images/medium-0*8KEkPcMzwV1zW23d.png.jpg']
-categories: ["國外遊記"]
-tags: ["旅遊", "奧地利", "薩爾斯堡"]
+categories: ["旅行紀錄"]
+tags: ["旅遊", "奧地利"]
 ---
 
 * * *

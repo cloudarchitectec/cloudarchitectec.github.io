@@ -4,8 +4,8 @@ date: 2023-09-23
 slug: "2023-09-23-qld-first-home-3"
 image: "images/medium-0*-xt4stilIuFJcpXO.jpg"
 images: ['images/medium-0*-xt4stilIuFJcpXO.jpg', 'images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png.jpg']
-categories: ["投資理財"]
-tags: ["房地產"]
+categories: ["澳洲房地產"]
+tags: ["昆士蘭", "首次置業"]
 ---
 
 * * *

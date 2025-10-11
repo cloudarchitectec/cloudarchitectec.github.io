@@ -4,7 +4,7 @@ date: 2024-06-14
 slug: "2024-06-14-nuremberg-day-1"
 image: "images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpeg.jpg"
 images: ['images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpeg.jpg', 'images/medium-1*cEf2YgS2isLvWN_SxTaeiA.jpeg.jpg', 'images/medium-1*z76YqWPPyIezu93i43T3VQ.jpeg.jpg', 'images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpeg.jpg', 'images/medium-1*T1_b9XnnBlV1YMe3VU3wXw.jpeg.jpg', 'images/medium-1*h4mvEITaKjkC0ryYdUvo8Q.jpeg.jpg', 'images/medium-1*xzQs9md4GWKRHqltU3S5ww.jpeg.jpg', 'images/medium-1*WRbOi_9nExtfYxyBRNBVKw.jpeg.jpg', 'images/medium-1*ig6JggBYl-YWUZapayNv6w.jpeg.jpg', 'images/medium-1*aMb7J9Cke4-wH2o9NCaY6g.jpeg.jpg', 'images/medium-1*fT-2EQohU3kBIoQ_43jH7Q.jpeg.jpg', 'images/medium-1*TTdrSj24MhyITTLeu0ruww.jpeg.jpg', 'images/medium-1*zxmTKdj-LCTFIwdVjjtP-A.jpeg.jpg', 'images/medium-1*QwnD2FI9fKNRJEBzzmUq8w.jpeg.jpg', 'images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpeg.jpg', 'images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpeg.jpg', 'images/medium-1*w3v2ZrjBh5MV70OGUFrjMg.jpeg.jpg', 'images/medium-1*YdcpokwKtAYaZY4f-rYp-A.jpeg.jpg', 'images/medium-1*p5ZoJIDZ-NOLHXShPUmcng.jpeg.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png.jpg']
-categories: ["國外遊記"]
+categories: ["旅行紀錄"]
 tags: ["旅遊", "德國"]
 ---
 

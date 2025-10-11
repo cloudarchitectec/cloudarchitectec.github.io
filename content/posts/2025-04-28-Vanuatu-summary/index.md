@@ -4,7 +4,7 @@ date: 2025-04-28
 slug: "2025-04-28-vanuatu-summary"
 image: "images/medium-0*1yEMcLGX3TExcBjX.jpg"
 images: ['images/medium-0*1yEMcLGX3TExcBjX.jpg']
-categories: ["國外遊記"]
+categories: ["旅行紀錄"]
 tags: ["旅遊", "萬那杜"]
 ---
 
