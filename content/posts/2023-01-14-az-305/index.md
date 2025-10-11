@@ -5,7 +5,7 @@ slug: "2023-01-14-az-305"
 image: "images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg"
 images: ['images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "雲端證照"]
+tags: ["雲端證照"]
 ---
 
 ![Exam badge of AZ Solutions Architect Expert](images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg)Microsoft Certified Azure Solution Architect Expert

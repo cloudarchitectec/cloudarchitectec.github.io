@@ -5,7 +5,7 @@ slug: "2023-01-21-eng-interview"
 image: "images/medium-0*3NXkWf7Nc8zqLlyb.jpg"
 images: ['images/medium-0*3NXkWf7Nc8zqLlyb.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "面試", "求職", "澳洲生活"]
+tags: ["面試", "求職", "澳洲生活"]
 ---
 
 * * *

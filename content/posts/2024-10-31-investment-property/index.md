@@ -5,7 +5,7 @@ slug: "2024-10-31-investment-property"
 image: "images/medium-0*_0-V-suAcMoCTTFl.jpg"
 images: ['images/medium-0*_0-V-suAcMoCTTFl.jpg']
 categories: ["投資理財"]
-tags: ["投資理財", "房地產"]
+tags: ["房地產"]
 ---
 
 * * *

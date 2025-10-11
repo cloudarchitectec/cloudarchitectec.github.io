@@ -5,7 +5,7 @@ slug: "2025-10-04-goodbye-medium"
 image: "images/see-you-later.png"
 images: ["images/ec-blog.png","images/see-you-later.png"]
 categories: ["EC"]
-tags: ["EC", "Medium", "自架部落格", "Hugo", "GitHub", "部落格搬家"]
+tags: ["Medium", "自架部落格", "部落格搬家"]
 ---
 
 ![再見，就是會再相見！](images/see-you-later.png)Photo by [Junseong Lee](https://unsplash.com?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

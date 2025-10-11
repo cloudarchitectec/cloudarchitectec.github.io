@@ -5,7 +5,7 @@ slug: "2024-01-25-DevOps-for-6-months"
 image: "images/medium-0*s0H-Uir4l9_Oukde.jpg"
 images: ['images/medium-0*s0H-Uir4l9_Oukde.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "薪資"]
+tags: ["薪資"]
 ---
 
 * * *

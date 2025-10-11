@@ -5,7 +5,7 @@ slug: "2024-09-13-quit-and-travel"
 image: "images/medium-0*MY-EdliKyYS6OBxE.jpg"
 images: ['images/medium-0*MY-EdliKyYS6OBxE.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活", "職涯"]
+tags: ["職涯"]
 draft: true
 ---
 

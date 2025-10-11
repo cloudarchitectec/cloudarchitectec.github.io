@@ -5,7 +5,7 @@ slug: "2024-10-19-etf"
 image: "images/medium-0*3cOpRFYR1oXIZ7jk.jpg"
 images: ['images/medium-0*3cOpRFYR1oXIZ7jk.jpg', 'images/medium-1*lZtU1hwdWibQV_2JVCJHBw.png.jpg', 'images/medium-1*zvODeYJrAd2cZ2PmNxAU_Q.png.jpg', 'images/medium-1*Lt0IKGyc3hUpMyZ59-hJeA.png.jpg']
 categories: ["投資理財"]
-tags: ["投資理財", "ETF", "退休規劃"]
+tags: ["ETF", "退休規劃"]
 ---
 
 * * *

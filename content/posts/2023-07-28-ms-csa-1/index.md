@@ -5,7 +5,7 @@ slug: "2023-07-28-ms-csa-1"
 image: "images/medium-0*K1HNZvbky5n_Ejol.jpg"
 images: ['images/medium-0*K1HNZvbky5n_Ejol.jpg', 'images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png.jpg', 'images/medium-1*U4ue47g8V7hSuywpvW0e0w.png.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "微軟", "Solution Architect","雲端架構師"]
+tags: ["微軟", "Solution Architect","雲端架構師"]
 ---
 
 ![微軟雲端架構師辦公環境](images/medium-0*K1HNZvbky5n_Ejol.jpg)Photo by [Smartworks Coworking](https://unsplash.com/@smartworkscoworking?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

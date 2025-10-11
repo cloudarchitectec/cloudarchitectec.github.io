@@ -5,7 +5,7 @@ slug: "2022-12-03-aws-to-ms"
 image: "images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg"
 images: ['images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpeg.jpg', 'images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpeg.jpg', 'images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpeg.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "AWS"]
+tags: ["AWS"]
 ---
 
 * * *

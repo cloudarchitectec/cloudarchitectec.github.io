@@ -5,7 +5,7 @@ slug: "2023-02-11-2023-q1-layoff"
 image: "images/medium-0*QlOjvTbX6Konfd3t.jpg"
 images: ['images/medium-0*QlOjvTbX6Konfd3t.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "裁員"]
+tags: ["裁員"]
 ---
 
 * * *

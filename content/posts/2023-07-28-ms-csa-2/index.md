@@ -5,7 +5,7 @@ slug: "2023-07-28-ms-csa-2"
 image: "images/medium-0*XTejTjV9ZtCU27LU.jpg"
 images: ['images/medium-0*XTejTjV9ZtCU27LU.jpg', 'images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg', 'images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg', 'images/medium-0*S01TqTt4irw1xdCl.png.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "微軟", "Solution Architect","雲端架構師"]
+tags: ["微軟", "Solution Architect","雲端架構師"]
 ---
 
 ![微軟雲端架構技術方案](images/medium-0*XTejTjV9ZtCU27LU.jpg)Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

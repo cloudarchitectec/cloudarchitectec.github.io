@@ -5,7 +5,7 @@ slug: "2023-07-28-ms-csa-in-9-months"
 image: "images/medium-0*2Yvaws4V393iGDiT.jpg"
 images: ['images/medium-0*2Yvaws4V393iGDiT.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "微軟", "雲端架構師"]
+tags: ["微軟", "雲端架構師"]
 ---
 
 * * *

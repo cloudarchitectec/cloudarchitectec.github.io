@@ -5,7 +5,7 @@ slug: "2020-05-05-2020-life"
 image: "images/medium-0*TVKl6P-hMe-3aHY7.jpg"
 images: ['images/medium-0*TVKl6P-hMe-3aHY7.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活", "年度回顧"]
+tags: ["年度回顧"]
 ---
 
 ![2020](images/medium-0*TVKl6P-hMe-3aHY7.jpg)Photo by [Jamie Street](https://unsplash.com/@jamie452?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

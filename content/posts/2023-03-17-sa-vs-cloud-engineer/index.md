@@ -5,7 +5,7 @@ slug: "2023-03-17-sa-vs-cloud-engineer"
 image: "images/medium-0*vud7bfAubM0_9bAN.jpg"
 images: ['images/medium-0*vud7bfAubM0_9bAN.jpg', 'images/medium-1*pagC-o_q85qAQ1-luqGizQ.png.jpg', 'images/medium-1*MbOfcJtKI4qtU-NFFVxk0w.png.jpg', 'images/medium-1*yPIHVj6MrSCkuJvigRtcFA.png.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "雲端架構師"]
+tags: ["雲端架構師"]
 ---
 
 * * *

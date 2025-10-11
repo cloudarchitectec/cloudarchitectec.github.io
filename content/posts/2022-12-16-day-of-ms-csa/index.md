@@ -5,7 +5,7 @@ slug: "2022-12-16-day-of-ms-csa"
 image: "images/medium-0*FOS26PQyvkwSGy1W.jpg"
 images: ['images/medium-0*FOS26PQyvkwSGy1W.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "微軟"]
+tags: ["微軟"]
 ---
 
 ### 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天

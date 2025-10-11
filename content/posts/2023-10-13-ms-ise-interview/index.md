@@ -5,7 +5,7 @@ slug: "2023-10-13-ms-ise-interview"
 image: "images/medium-0*tVR4-5Kf3RLO75-J.jpg"
 images: ['images/medium-0*tVR4-5Kf3RLO75-J.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "面試", "微軟", "軟體工程師"]
+tags: ["面試", "微軟", "軟體工程師"]
 ---
 ---
 

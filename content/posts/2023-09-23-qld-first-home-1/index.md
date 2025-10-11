@@ -5,7 +5,7 @@ slug: "2023-09-23-qld-first-home-1"
 image: "images/medium-0*y2wpY7FCgV16jMh5.jpg"
 images: ['images/medium-0*y2wpY7FCgV16jMh5.jpg', 'images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png.jpg']
 categories: ["投資理財"]
-tags: ["投資理財", "房地產", "首次置業"]
+tags: ["房地產", "首次置業"]
 ---
 
 * * *

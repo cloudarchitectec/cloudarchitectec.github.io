@@ -5,7 +5,7 @@ slug: "2025-07-23-refinance"
 image: "images/medium-0*0JW321nq0m43VdhB.jpg"
 images: ['images/medium-0*0JW321nq0m43VdhB.jpg']
 categories: ["投資理財"]
-tags: ["投資理財", "房貸"]
+tags: ["房貸"]
 ---
 
 * * *

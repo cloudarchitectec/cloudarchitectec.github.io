@@ -5,7 +5,7 @@ slug: "2022-12-23-aws-ps-ca"
 image: "images/medium-0*SeJpdD8zq08awCIa.jpg"
 images: ['images/medium-0*SeJpdD8zq08awCIa.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "AWS"]
+tags: ["AWS"]
 ---
 
 ### **澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享**

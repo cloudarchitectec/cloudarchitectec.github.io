@@ -5,7 +5,7 @@ slug: "2022-12-14-aus-office"
 image: "images/medium-0*Hlcx25UL1ljtcua6.jpg"
 images: ['images/medium-0*Hlcx25UL1ljtcua6.jpg']
 categories: ["澳洲生活"]
-tags: ["澳洲生活", "辦公室文化", "職涯"]
+tags: ["辦公室文化", "職涯"]
 ---
 ---
 

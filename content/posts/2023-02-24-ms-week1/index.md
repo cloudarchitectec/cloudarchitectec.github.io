@@ -5,7 +5,7 @@ slug: "2023-02-24-ms-week1"
 image: "images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg"
 images: ['images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg', 'images/medium-1*aZU2WYmUy-OhffJ6aaMbcg.jpeg.jpg', 'images/medium-1*lHetegP84aqFpikFtTacMA.jpeg.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "微軟"]
+tags: ["微軟"]
 ---
 
 * * *

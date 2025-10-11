@@ -5,7 +5,7 @@ slug: "2025-07-11-why-coding-bootcamp"
 image: "images/medium-0*q2epsdGOAZx-wOF5.jpg"
 images: ['images/medium-0*q2epsdGOAZx-wOF5.jpg', 'images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png.jpg']
 categories: ["海外求職"]
-tags: ["職涯", "程式訓練營"]
+tags: ["程式訓練營"]
 ---
 
 ![程式設計學習環境示意圖](images/medium-0*q2epsdGOAZx-wOF5.jpg)Photo by [Meghan Holmes](https://unsplash.com/@yellowteapot?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
