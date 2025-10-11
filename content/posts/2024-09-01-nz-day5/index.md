@@ -5,7 +5,7 @@ slug: "2024-09-01-nz-day5"
 image: "images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg"
 images: ['images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg', 'images/medium-1*TzNByHydsdUIifAgZOzl9A.jpeg.jpg', 'images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpeg.jpg', 'images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpeg.jpg', 'images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpeg.jpg', 'images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpeg.jpg', 'images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpeg.jpg', 'images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpeg.jpg', 'images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpeg.jpg', 'images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpeg.jpg', 'images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpeg.jpg', 'images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpeg.jpg', 'images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpeg.jpg', 'images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpeg.jpg', 'images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpeg.jpg', 'images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpeg.jpg', 'images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpeg.jpg', 'images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpeg.jpg', 'images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpeg.jpg', 'images/medium-1*VaESvSGforp84FHtAq6GRQ.jpeg.jpg', 'images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpeg.jpg', 'images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊","自駕","滑雪" ,"紐西蘭"]
+tags: ["旅遊","自駕","滑雪","紐西蘭"]
 ---
 
 * * *
