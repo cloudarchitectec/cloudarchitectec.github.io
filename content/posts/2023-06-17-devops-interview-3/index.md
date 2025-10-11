@@ -5,7 +5,7 @@ slug: "2023-06-17-devops-interview-3"
 image: "images/medium-0*tXT9M2Ald1m5anwO.jpg"
 images: ['images/medium-0*tXT9M2Ald1m5anwO.jpg']
 categories: ["海外職場"]
-tags: ["面試", "DevOps 工程師", "澳洲求職"]
+tags: ["面試","DevOps 工程師","澳洲求職必勝法則"]
 ---
 
 ![](images/medium-0*tXT9M2Ald1m5anwO.jpg)Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

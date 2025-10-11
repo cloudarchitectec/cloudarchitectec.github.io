@@ -5,7 +5,7 @@ slug: "2023-06-17-devops-interview-1"
 image: "images/medium-0*QVp3aout5pRymdfN.jpg"
 images: ['images/medium-0*QVp3aout5pRymdfN.jpg', 'images/medium-1*6nycs2is5wewr0ctsxJjcg.png.jpg']
 categories: ["海外職場"]
-tags: ["面試", "DevOps 工程師", "澳洲求職"]
+tags: ["面試","DevOps 工程師","澳洲求職必勝法則"]
 ---
 
 ![DevOps平台工程師技術面試](images/medium-0*QVp3aout5pRymdfN.jpg)Photo by [AltumCode](https://unsplash.com/@altumcode?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

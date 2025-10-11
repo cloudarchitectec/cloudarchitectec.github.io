@@ -5,12 +5,8 @@ slug: "2023-06-09-flight-centre-interview"
 image: "images/medium-0*nKEd05l3NF0Z26i8.jpg"
 images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png.jpg']
 categories: ["海外職場"]
-tags: ["面試", "DevOps", "澳洲生活"]
+tags: ["面試", "DevOps 工程師","澳洲求職必勝法則"]
 ---
-
-* * *
-
-### 澳洲求職必勝法則：澳洲最大旅行社公司 Flight Centre DevOps Security Engineer 面試心得分享
 
 ![澳洲DevOps資安工程師面試](images/medium-0*nKEd05l3NF0Z26i8.jpg)Photo by [Eldar Nazarov](https://unsplash.com/@eldarnazarov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

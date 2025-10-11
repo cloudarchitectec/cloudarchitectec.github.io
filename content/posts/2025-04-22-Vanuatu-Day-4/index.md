@@ -5,7 +5,7 @@ slug: "2025-04-22-vanuatu-day-4"
 image: "images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg"
 images: ['images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg', 'images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg', 'images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg', 'images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg', 'images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg', 'images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg', 'images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg', 'images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg', 'images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "萬那杜","vanuatu","獨旅", "自駕"]
+tags: ["旅遊", "萬那杜","獨旅", "自駕"]
 ---
 
 ![萬那杜住宿冷水澡挑戰](images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg)

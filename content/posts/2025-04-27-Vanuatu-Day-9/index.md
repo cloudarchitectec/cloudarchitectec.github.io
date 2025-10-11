@@ -5,7 +5,7 @@ slug: "2025-04-27-vanuatu-day-9"
 image: "images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg"
 images: ['images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg', 'images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpeg.jpg', 'images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpeg.jpg', 'images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpeg.jpg', 'images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpeg.jpg', 'images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpeg.jpg', 'images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpeg.jpg', 'images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpeg.jpg', 'images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "萬那杜","vanuatu","獨旅", "自駕"]
+tags: ["旅遊", "萬那杜","獨旅", "自駕"]
 ---
 
 (I’m flying home today 🇦🇺❤️)
