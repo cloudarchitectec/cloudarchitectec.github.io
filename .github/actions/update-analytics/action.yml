@@ -1,0 +1,70 @@
+name: 'Update Analytics Data'
+description: 'Updates Google Analytics data and commits it to the repository'
+inputs:
+  google-service-account-key:
+    description: 'Google Service Account Key JSON'
+    required: true
+  google-analytics-property-id:
+    description: 'Google Analytics Property ID'
+    required: true
+  commit-message:
+    description: 'Custom commit message'
+    required: false
+    default: '📊 Update analytics data'
+  git-user-email:
+    description: 'Git user email for commits'
+    required: false
+    default: 'cloudarchitectec@gmail.com'
+  git-user-name:
+    description: 'Git user name for commits'
+    required: false
+    default: 'cloudarchitectec@github'
+
+runs:
+  using: 'composite'
+  steps:
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install dependencies
+      shell: bash
+      run: |
+        pip3 install -r .github/workflows/scripts/requirements.txt
+    
+    - name: Verify analytics script exists
+      shell: bash
+      run: |
+        if [ ! -f ".github/workflows/scripts/update_analytics.py" ]; then
+          echo "❌ Python analytics script not found"
+          exit 1
+        fi
+        echo "✅ Python analytics script found"
+    
+    - name: Run analytics update
+      shell: bash
+      env:
+        GOOGLE_SERVICE_ACCOUNT_KEY: ${{ inputs.google-service-account-key }}
+        GOOGLE_ANALYTICS_PROPERTY_ID: ${{ inputs.google-analytics-property-id }}
+      run: |
+        echo "🔄 Updating analytics data..."
+        python3 .github/workflows/scripts/update_analytics.py
+    
+    - name: Commit analytics data
+      shell: bash
+      run: |
+        git config --local user.email "${{ inputs.git-user-email }}"
+        git config --local user.name "${{ inputs.git-user-name }}"
+        
+        # Add the analytics file
+        git add data/analytics.json || true
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "📊 No changes to analytics data - skipping commit"
+        else
+          git commit -m "${{ inputs.commit-message }}" || true
+          echo "✅ Analytics data committed"
+        fi
