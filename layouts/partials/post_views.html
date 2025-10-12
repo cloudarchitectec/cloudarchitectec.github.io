@@ -1,16 +1,14 @@
 {{/* 
-Post Views Counter
-Usage: {{< post-views >}} or {{< post-views path="/posts/specific-post/" >}}
+Post Views Counter Partial
 */}}
 
 {{- $analytics := site.Data.analytics -}}
-{{- $currentPath := .Page.RelPermalink -}}
-{{- $targetPath := .Get "path" | default $currentPath -}}
+{{- $currentPath := .RelPermalink -}}
 
 {{- if $analytics -}}
   {{- $views := 0 -}}
   {{- range $analytics.topPages -}}
-    {{- if eq .path $targetPath -}}
+    {{- if eq .path $currentPath -}}
       {{- $views = .views -}}
     {{- end -}}
   {{- end -}}
@@ -19,7 +17,6 @@ Usage: {{< post-views >}} or {{< post-views path="/posts/specific-post/" >}}
   <div class="post-views">
     <span class="views-label">Post Views:</span>
     <span class="views-count">{{ $views }}</span>
-
   </div>
   {{- end -}}
 {{- end -}}
