@@ -1,67 +1,78 @@
 {
-  "lastUpdated": "2025-10-12T12:45:43.234284",
+  "lastUpdated": "2025-10-12T22:07:16.279685",
   "period": "Last 30 days",
   "metrics": {
-    "totalPageViews": 5787,
-    "totalUsers": 741,
-    "totalSessions": 1078
+    "totalPageViews": 6071,
+    "totalUsers": 862,
+    "totalSessions": 1207
   },
   "formatted": {
-    "totalPageViews": "5,787",
-    "totalUsers": "741",
-    "totalSessions": "1,078"
+    "totalPageViews": "6,071",
+    "totalUsers": "862",
+    "totalSessions": "1,207"
   },
-  "topPages": [],
+  "topPages": [
+    {
+      "path": "/posts/2022-12-03-bootcamp-to-aws/",
+      "title": "\u6587\u7d44\u8f49\u8077\u6fb3\u6d32 IT \u5de5\u7a0b\u5e2b\uff0c\u6211\u9760 Coding Bootcamp \u9032\u4e86 Amazon \u7576\u5de5\u7a0b\u5e2b\uff01 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
+      "views": 417
+    },
+    {
+      "path": "/posts/2025-07-11-why-coding-bootcamp/",
+      "title": "\u8f49\u8077 IT \u4e0d\u8e29\u96f7\uff1a\u6587\u7d44\u8f49\u8077\u5de5\u7a0b\u5e2b\u7684 Coding Bootcamp \u6311\u9078\u6307\u5357 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
+      "views": 127
+    }
+  ],
   "topCountries": [
     {
       "country": "Taiwan",
-      "users": 540,
-      "percentage": 75.2
+      "users": 628,
+      "percentage": 75.1
     },
     {
       "country": "Australia",
-      "users": 88,
-      "percentage": 12.3
+      "users": 101,
+      "percentage": 12.1
     },
     {
       "country": "United States",
-      "users": 39,
-      "percentage": 5.4
+      "users": 41,
+      "percentage": 4.9
     },
     {
       "country": "Hong Kong",
-      "users": 12,
-      "percentage": 1.7
+      "users": 19,
+      "percentage": 2.3
     },
     {
       "country": "Japan",
-      "users": 12,
+      "users": 14,
       "percentage": 1.7
     },
     {
       "country": "Ireland",
-      "users": 6,
+      "users": 8,
+      "percentage": 1.0
+    },
+    {
+      "country": "Singapore",
+      "users": 7,
+      "percentage": 0.8
+    },
+    {
+      "country": "United Kingdom",
+      "users": 7,
       "percentage": 0.8
     },
     {
       "country": "Sweden",
       "users": 6,
-      "percentage": 0.8
+      "percentage": 0.7
     },
     {
       "country": "Canada",
       "users": 5,
-      "percentage": 0.7
-    },
-    {
-      "country": "Singapore",
-      "users": 5,
-      "percentage": 0.7
-    },
-    {
-      "country": "United Kingdom",
-      "users": 5,
-      "percentage": 0.7
+      "percentage": 0.6
     }
   ],
   "metadata": {
