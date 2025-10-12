@@ -8,7 +8,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-def update_analytics_update():
+def quick_analytics_update():
     """Quick analytics update with minimal dependencies"""
     try:
         # Check if required environment variables are set
@@ -104,5 +104,5 @@ def update_analytics_update():
     return True
 
 if __name__ == "__main__":
-    success = update_analytics_update()
+    success = quick_analytics_update()
     sys.exit(0)  # Always exit successfully to not break the build
