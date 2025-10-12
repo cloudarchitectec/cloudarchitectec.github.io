@@ -10,6 +10,8 @@ tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
 
 ![程式訓練營開學典禮](images/medium-0*ywUyojRimOqTsYDU.jpg)Photo by [ELLA DON](https://unsplash.com/@elladon?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
+{{< post-views >}}
+
 這個系列我想要跟大家分享自己從零基礎轉職為工程師的旅程，這個系列以日記的形式，忠實記錄了我踏上轉職之路的心路歷程～
 
 這趟旅程的起點，就從 2019 年在澳洲雪梨就讀 Coding Bootcamp 開始...

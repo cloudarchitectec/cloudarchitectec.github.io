@@ -1,0 +1,187 @@
+{{/* 
+Landing Page Analytics - Combined Stats and Countries in One Block
+Usage: {{< landing-analytics >}}
+*/}}
+
+{{- $analytics := site.Data.analytics -}}
+
+{{- if $analytics -}}
+<div class="analytics-stats landing-analytics">
+  <div class="analytics-card analytics-combined">
+    <h3>📊 Site Analytics</h3>
+    <div class="analytics-period">{{ $analytics.period }}</div>
+    
+    <!-- Main Metrics -->
+    <div class="analytics-metrics">
+      <div class="metric">
+        <div class="metric-value">{{ $analytics.formatted.totalPageViews }}</div>
+        <div class="metric-label">Total Site Visits</div>
+      </div>
+      
+      <div class="metric">
+        <div class="metric-value">{{ $analytics.formatted.totalUsers }}</div>
+        <div class="metric-label">Active Users</div>
+      </div>
+    </div>
+    
+    <!-- Top Countries -->
+    {{- if $analytics.topCountries -}}
+    <div class="countries-section">
+      <h4>🌍 Users by Countries</h4>
+      <div class="countries-grid">
+        {{- range $analytics.topCountries -}}
+        <div class="country-item">
+          <span class="country-name">{{ .country }}</span>
+          <span class="country-percentage">{{ .percentage }}%</span>
+        </div>
+        {{- end -}}
+      </div>
+    </div>
+    {{- end -}}
+    
+    <div class="analytics-updated">
+      Last updated: {{ dateFormat "2006-01-02 15:04" (time $analytics.lastUpdated) }}
+    </div>
+  </div>
+</div>
+
+<style>
+.landing-analytics {
+  margin: 2rem 0;
+  font-family: var(--theme-font, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif);
+}
+
+.analytics-combined {
+  background: var(--theme-bg-secondary, #f8f9fa);
+  border: 1px solid var(--theme-border, #e1e5e9);
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.analytics-combined h3 {
+  margin: 0 0 1rem 0;
+  color: var(--theme-text-primary, #333);
+}
+
+.analytics-period {
+  font-size: 0.9rem;
+  color: var(--theme-text-secondary, #666);
+  margin-bottom: 1.5rem;
+}
+
+.analytics-metrics {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.metric {
+  text-align: center;
+  padding: 1rem;
+  background: var(--theme-bg-primary, #fff);
+  border-radius: 6px;
+  border: 1px solid var(--theme-border-light, #f0f0f0);
+}
+
+.metric-value {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--theme-accent, #007acc);
+  margin-bottom: 0.5rem;
+}
+
+.metric-label {
+  font-size: 0.85rem;
+  color: var(--theme-text-secondary, #666);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.countries-section h4 {
+  margin: 0 0 1rem 0;
+  color: var(--theme-text-primary, #333);
+  font-size: 1.1rem;
+}
+
+.countries-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+}
+
+.country-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem;
+  background: var(--theme-bg-primary, #fff);
+  border-radius: 6px;
+  border: 1px solid var(--theme-border-light, #f0f0f0);
+}
+
+.country-name {
+  font-weight: 500;
+  color: var(--theme-text-primary, #333);
+  font-size: 0.9rem;
+}
+
+.country-percentage {
+  font-weight: 600;
+  color: var(--theme-accent, #007acc);
+  font-size: 0.9rem;
+}
+
+.analytics-updated {
+  font-size: 0.8rem;
+  color: var(--theme-text-muted, #888);
+  text-align: center;
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--theme-border-light, #f0f0f0);
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .analytics-combined {
+    background: var(--theme-bg-secondary, #2d3748);
+    border-color: var(--theme-border, #4a5568);
+  }
+  
+  .metric, .country-item {
+    background: var(--theme-bg-primary, #1a202c);
+    border-color: var(--theme-border-light, #4a5568);
+  }
+  
+  .analytics-combined h3, .countries-section h4,
+  .country-name {
+    color: var(--theme-text-primary, #f7fafc);
+  }
+  
+  .analytics-period, .metric-label {
+    color: var(--theme-text-secondary, #cbd5e0);
+  }
+  
+  .analytics-updated {
+    color: var(--theme-text-muted, #a0aec0);
+    border-top-color: var(--theme-border-light, #4a5568);
+  }
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .analytics-metrics {
+    grid-template-columns: 1fr;
+  }
+  
+  .countries-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+{{- else -}}
+<div class="analytics-unavailable">
+  <p>📊 Site analytics will be available once data collection begins.</p>
+</div>
+{{- end -}}

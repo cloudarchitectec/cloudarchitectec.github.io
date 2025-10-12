@@ -1,6 +1,6 @@
 # Cloud Architect EC
 
-[![Site Deployment Status](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml)
+[![Site Deployment Status](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml)
 
 > 澳洲雲端架構師 EC 的部落格 | Cloud Architect EC's Blog
 
@@ -73,13 +73,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Fixed categories and tags and relevant format/shortcode
 - Added `automated_blog_converter.py` to convert formatted Hugo blog posts
 - Removed unused TailwindCSS dependency
-
-## Contributing
-
-This is a personal blog repository. While contributions are not expected, feel free to:
-- 🐛 Report issues
-- 💡 Suggest improvements
-- 🔗 Share interesting resources
+- Added stats display
 
 ## License
 

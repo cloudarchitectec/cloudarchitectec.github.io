@@ -1,0 +1,77 @@
+{
+  "lastUpdated": "2025-10-12T19:30:00.000Z",
+  "period": "Last 30 days",
+  "metrics": {
+    "totalPageViews": 15247,
+    "totalUsers": 11823,
+    "totalSessions": 13456,
+    "bounceRate": 62,
+    "averageSessionDuration": 185
+  },
+  "formatted": {
+    "totalPageViews": "15,247",
+    "totalUsers": "11,823",
+    "totalSessions": "13,456",
+    "bounceRate": "62%",
+    "averageSessionDuration": "3m 5s"
+  },
+  "topCountries": [
+    {
+      "country": "Australia",
+      "users": 4735,
+      "percentage": 40.1
+    },
+    {
+      "country": "Taiwan",
+      "users": 3012,
+      "percentage": 25.5
+    },
+    {
+      "country": "United States",
+      "users": 1893,
+      "percentage": 16.0
+    },
+    {
+      "country": "Canada",
+      "users": 1065,
+      "percentage": 9.0
+    },
+    {
+      "country": "United Kingdom",
+      "users": 710,
+      "percentage": 6.0
+    }
+  ],
+  "topPages": [
+    {
+      "path": "/posts/2023-11-04-azure-vs-aws-certs-ft-chatgpt/",
+      "title": "Azure vs AWS 證照比較 ft. ChatGPT",
+      "views": 2847
+    },
+    {
+      "path": "/posts/2023-09-01-cloud-roles/",
+      "title": "雲端工程師職位完整解析",
+      "views": 2134
+    },
+    {
+      "path": "/posts/2023-06-17-devops-interview-1/",
+      "title": "DevOps 面試經驗分享",
+      "views": 1923
+    },
+    {
+      "path": "/posts/2019-08-19-coding-bootcamp-orientation/",
+      "title": "零基礎轉職澳洲工程師: 2019.08.19 程式訓練營開學典禮",
+      "views": 1245
+    },
+    {
+      "path": "/posts/2023-01-06-keys-to-transistion/",
+      "title": "轉職雲端工程師的關鍵",
+      "views": 1567
+    }
+  ],
+  "metadata": {
+    "fetchedAt": "2025-10-12T19:30:00.000Z",
+    "source": "Mock data for development",
+    "note": "This is sample data for testing the analytics display"
+  }
+}
