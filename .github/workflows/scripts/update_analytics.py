@@ -5,8 +5,35 @@ Quick analytics update script for Hugo build process
 import json
 import os
 import sys
+import re
 from datetime import datetime
 from pathlib import Path
+
+def is_post_published(post_slug):
+    """Check if a post is currently published (not draft) by reading its frontmatter"""
+    try:
+        # Try to find the post file
+        content_dir = Path("content/posts")
+        possible_paths = [
+            content_dir / post_slug / "index.md",
+            content_dir / f"{post_slug}.md",
+        ]
+        
+        for post_path in possible_paths:
+            if post_path.exists():
+                with open(post_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    # Check for draft: true in frontmatter
+                    # Match both 'draft: true' and 'draft = true' formats
+                    if re.search(r'^draft:\s*true\s*$', content, re.MULTILINE | re.IGNORECASE):
+                        return False
+                    return True
+        
+        # If post file not found, assume it's not published
+        return False
+    except Exception:
+        # If there's any error reading the file, assume it's not published for safety
+        return False
 
 def quick_analytics_update():
     """Quick analytics update with minimal dependencies"""
@@ -67,7 +94,7 @@ def quick_analytics_update():
                 metric=OrderBy.MetricOrderBy(metric_name="screenPageViews"),
                 desc=True
             )],
-            limit=10,
+            limit=20,  # Fetch more to filter out system pages, then take top 5
         )
         
         # Build the request for top countries
@@ -107,12 +134,36 @@ def quick_analytics_update():
                     page_views = int(row.metric_values[0].value)
                     
                     # Only include actual blog posts (filter out homepage, search, etc.)
-                    if path.startswith('/posts/') and not path.endswith('/'):
-                        top_pages.append({
-                            "path": path,
-                            "title": title,
-                            "views": page_views
-                        })
+                    # Include only actual blog posts with date-based slugs (YYYY-MM-DD format)
+                    if path.startswith('/posts/') and path != '/posts/' and path != '/posts':
+                        # Remove trailing slash for comparison
+                        clean_path = path.rstrip('/')
+                        # Check if it's a valid post path (not just the posts index or system pages)
+                        path_parts = clean_path.split('/')
+                        if len(path_parts) >= 3 and path_parts[2]:  # /posts/something
+                            post_slug = path_parts[2]
+                            # Filter out system/navigation pages - only include posts with date-based slugs
+                            # and exclude the main navigation pages (about, consultation, etc.)
+                            excluded_slugs = [
+                                '2018-01-01-iam-ec',      # About EC page
+                                '2018-01-02-ec-post-list', # Post list page  
+                                '2018-01-03-ec-consultation', # Consultation page
+                                '2018-01-04-popular-posts'    # Popular posts page
+                            ]
+                            
+                            # Only include if it's not in excluded list, has reasonable view count,
+                            # and the post is currently published (not draft)
+                            if (post_slug not in excluded_slugs and 
+                                page_views >= 100 and 
+                                is_post_published(post_slug)):
+                                top_pages.append({
+                                    "path": path,
+                                    "title": title,
+                                    "views": page_views
+                                })
+        
+        # Keep only top 5 most popular posts
+        top_pages = top_pages[:5]
         
         # Extract top countries data
         top_countries = []
@@ -167,7 +218,7 @@ def quick_analytics_update():
             json.dump(data, f, indent=2)
         
         print(f"✅ Quick analytics update: {views:,} views, {users:,} users, {sessions:,} sessions")
-        print(f"📄 Found {len(top_pages)} popular posts")
+        print(f"📄 Found {len(top_pages)} published popular posts (excluding drafts and system pages)")
         print(f"🌍 Found {len(top_countries)} countries")
         
     except Exception as error:
