@@ -74,8 +74,6 @@ jobs:
           google-service-account-key: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
           google-analytics-property-id: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
           commit-message: "📊 Update analytics ($(date '+%Y-%m-%d %H:%M UTC'))"
-          git-user-email: "cloudarchitectec@gmail.com"
-          git-user-name: "Analytics Bot"
           
       - name: Push changes
         if: steps.check_update.outputs.skip_update != 'true'
