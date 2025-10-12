@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "lastUpdated": "2025-10-12T12:14:01.288380",
   "period": "Last 30 days",
   "metrics": {
@@ -13,5 +14,75 @@
   },
   "metadata": {
     "source": "Quick fetch during Hugo build"
+=======
+  "lastUpdated": "2025-10-12T10:30:00.000000",
+  "period": "Last 30 days",
+  "metrics": {
+    "totalPageViews": 15234,
+    "totalUsers": 8456,
+    "totalSessions": 12789
+  },
+  "formatted": {
+    "totalPageViews": "15,234",
+    "totalUsers": "8,456",
+    "totalSessions": "12,789"
+  },
+  "topPages": [
+    {
+      "path": "/posts/2019-08-19-coding-bootcamp-orientation/",
+      "title": "零基礎轉職澳洲工程師: 2019.08.19 程式訓練營開學典禮",
+      "views": 1234
+    },
+    {
+      "path": "/posts/2019-08-20-the-real-game-begins/",
+      "title": "真正的遊戲開始了",
+      "views": 987
+    },
+    {
+      "path": "/posts/2019-08-21-Im-feeling-it/",
+      "title": "我感覺到了",
+      "views": 756
+    },
+    {
+      "path": "/posts/2019-08-22-Embracing-the-Aussie-values/",
+      "title": "擁抱澳洲價值觀",
+      "views": 643
+    },
+    {
+      "path": "/posts/2019-08-23-Survived-the-1st-Week/",
+      "title": "熬過了第一週",
+      "views": 532
+    }
+  ],
+  "topCountries": [
+    {
+      "country": "Australia",
+      "users": 3652,
+      "percentage": 43.2
+    },
+    {
+      "country": "Taiwan",
+      "users": 2197,
+      "percentage": 26.0
+    },
+    {
+      "country": "United States",
+      "users": 845,
+      "percentage": 10.0
+    },
+    {
+      "country": "Singapore",
+      "users": 507,
+      "percentage": 6.0
+    },
+    {
+      "country": "Canada",
+      "users": 422,
+      "percentage": 5.0
+    }
+  ],
+  "metadata": {
+    "source": "Test data for popular posts"
+>>>>>>> 9e1800b (fixed analytics errors)
   }
 }
