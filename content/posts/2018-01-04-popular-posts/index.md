@@ -1,8 +1,9 @@
 ---
-title: "熱門文章"
+title: "澳洲雲端架構師 EC 熱門文章"
 date: 2025-10-12
 layout: "single"
 hidemeta: true
+hiddenInHomeList: true
 slug: "2018-01-04-popular-posts"
 image: ""
 images: [""]
