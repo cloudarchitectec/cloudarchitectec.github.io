@@ -14,7 +14,7 @@ inputs:
   git-user-email:
     description: 'Git user email for commits'
     required: false
-    default: 'cloudarchitectec@gmail.com'
+    default: 'analytics-bot@cloudarchitectec.com'
   git-user-name:
     description: 'Git user name for commits'
     required: false
