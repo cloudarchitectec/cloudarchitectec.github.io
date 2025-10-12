@@ -29,12 +29,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
           
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          node-version: '18'
-          cache: 'npm'
-          cache-dependency-path: '**/package-lock.json'
+          python-version: '3.11'
+          cache: 'pip'
           
       - name: Check if analytics update is needed
         id: check_update
@@ -66,205 +65,23 @@ jobs:
       - name: Install dependencies
         if: steps.check_update.outputs.skip_update != 'true'
         run: |
-          npm init -y
-          npm install googleapis@latest
+          pip3 install -r .github/workflows/scripts/requirements.txt
           
-      - name: Create analytics fetcher script
+      - name: Verify Python analytics script exists
         if: steps.check_update.outputs.skip_update != 'true'
         run: |
-          cat > fetch-analytics.js << 'EOF'
-          const { google } = require('googleapis');
-          const fs = require('fs');
-          const path = require('path');
-          
-          async function fetchAnalytics() {
-            try {
-              console.log('🔄 Initializing Google Analytics API...');
-              
-              // Parse service account key
-              const serviceAccountKey = JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY);
-              const propertyId = process.env.GOOGLE_ANALYTICS_PROPERTY_ID;
-              
-              // Initialize Google Analytics
-              const auth = new google.auth.GoogleAuth({
-                credentials: serviceAccountKey,
-                scopes: ['https://www.googleapis.com/auth/analytics.readonly'],
-              });
-              
-              const analyticsdata = google.analyticsdata('v1beta');
-              
-              console.log('📊 Fetching analytics data...');
-              
-              // Fetch main metrics (last 30 days)
-              const mainMetrics = await analyticsdata.properties.runReport({
-                auth,
-                property: `properties/${propertyId}`,
-                requestBody: {
-                  dateRanges: [{ startDate: '30daysAgo', endDate: 'today' }],
-                  metrics: [
-                    { name: 'screenPageViews' },
-                    { name: 'totalUsers' },
-                    { name: 'sessions' },
-                    { name: 'bounceRate' },
-                    { name: 'averageSessionDuration' }
-                  ],
-                },
-              });
-              
-              // Fetch country data
-              const countryData = await analyticsdata.properties.runReport({
-                auth,
-                property: `properties/${propertyId}`,
-                requestBody: {
-                  dateRanges: [{ startDate: '30daysAgo', endDate: 'today' }],
-                  metrics: [{ name: 'totalUsers' }],
-                  dimensions: [{ name: 'country' }],
-                  orderBys: [{ metric: { metricName: 'totalUsers' }, desc: true }],
-                  limit: 10,
-                },
-              });
-              
-              // Fetch top pages
-              const topPages = await analyticsdata.properties.runReport({
-                auth,
-                property: `properties/${propertyId}`,
-                requestBody: {
-                  dateRanges: [{ startDate: '30daysAgo', endDate: 'today' }],
-                  metrics: [{ name: 'screenPageViews' }],
-                  dimensions: [{ name: 'pagePath', }, { name: 'pageTitle' }],
-                  orderBys: [{ metric: { metricName: 'screenPageViews' }, desc: true }],
-                  limit: 10,
-                },
-              });
-              
-              // Process main metrics
-              const mainRow = mainMetrics.data.rows?.[0];
-              const totalViews = parseInt(mainRow?.metricValues[0]?.value || '0');
-              const totalUsers = parseInt(mainRow?.metricValues[1]?.value || '0');
-              const totalSessions = parseInt(mainRow?.metricValues[2]?.value || '0');
-              const bounceRate = parseFloat(mainRow?.metricValues[3]?.value || '0');
-              const avgSessionDuration = parseFloat(mainRow?.metricValues[4]?.value || '0');
-              
-              // Process country data
-              const countries = countryData.data.rows?.map(row => ({
-                country: row.dimensionValues[0].value,
-                users: parseInt(row.metricValues[0].value),
-              })) || [];
-              
-              const totalCountryUsers = countries.reduce((sum, c) => sum + c.users, 0);
-              const countriesWithPercentage = countries.map(c => ({
-                ...c,
-                percentage: totalCountryUsers > 0 ? parseFloat(((c.users / totalCountryUsers) * 100).toFixed(1)) : 0,
-              }));
-              
-              // Process top pages
-              const pages = topPages.data.rows?.map(row => ({
-                path: row.dimensionValues[0].value,
-                title: row.dimensionValues[1].value,
-                views: parseInt(row.metricValues[0].value),
-              })) || [];
-              
-              // Create analytics data object
-              const analyticsData = {
-                lastUpdated: new Date().toISOString(),
-                period: 'Last 30 days',
-                metrics: {
-                  totalPageViews: totalViews,
-                  totalUsers: totalUsers,
-                  totalSessions: totalSessions,
-                  bounceRate: Math.round(bounceRate * 100), // Convert to percentage
-                  averageSessionDuration: Math.round(avgSessionDuration), // Convert to seconds
-                },
-                formatted: {
-                  totalPageViews: totalViews.toLocaleString(),
-                  totalUsers: totalUsers.toLocaleString(),
-                  totalSessions: totalSessions.toLocaleString(),
-                  bounceRate: `${Math.round(bounceRate * 100)}%`,
-                  averageSessionDuration: `${Math.floor(avgSessionDuration / 60)}m ${Math.round(avgSessionDuration % 60)}s`,
-                },
-                topCountries: countriesWithPercentage.slice(0, 5),
-                topPages: pages.slice(0, 5),
-                metadata: {
-                  fetchedAt: new Date().toISOString(),
-                  source: 'Google Analytics 4',
-                  propertyId: propertyId,
-                }
-              };
-              
-              // Ensure data directory exists
-              const dataDir = path.join(process.cwd(), 'data');
-              if (!fs.existsSync(dataDir)) {
-                fs.mkdirSync(dataDir, { recursive: true });
-                console.log('📁 Created data directory');
-              }
-              
-              // Save to data file
-              const filePath = path.join(dataDir, 'analytics.json');
-              fs.writeFileSync(filePath, JSON.stringify(analyticsData, null, 2));
-              
-              // Log summary
-              console.log('✅ Analytics data updated successfully');
-              console.log('📊 Summary:');
-              console.log(`   📈 Total Page Views: ${analyticsData.formatted.totalPageViews}`);
-              console.log(`   👥 Total Users: ${analyticsData.formatted.totalUsers}`);
-              console.log(`   🌍 Top Country: ${countriesWithPercentage[0]?.country || 'N/A'} (${countriesWithPercentage[0]?.percentage || 0}%)`);
-              console.log(`   📝 Top Page: ${pages[0]?.title || 'N/A'} (${pages[0]?.views || 0} views)`);
-              
-              return analyticsData;
-              
-            } catch (error) {
-              console.error('❌ Error fetching analytics:', error.message);
-              
-              // Create fallback data to prevent build failures
-              const fallbackData = {
-                lastUpdated: new Date().toISOString(),
-                period: 'Last 30 days',
-                error: 'Failed to fetch analytics data',
-                metrics: {
-                  totalPageViews: 0,
-                  totalUsers: 0,
-                  totalSessions: 0,
-                  bounceRate: 0,
-                  averageSessionDuration: 0,
-                },
-                formatted: {
-                  totalPageViews: 'N/A',
-                  totalUsers: 'N/A',
-                  totalSessions: 'N/A',
-                  bounceRate: 'N/A',
-                  averageSessionDuration: 'N/A',
-                },
-                topCountries: [],
-                topPages: [],
-                metadata: {
-                  fetchedAt: new Date().toISOString(),
-                  source: 'Fallback data',
-                  error: error.message,
-                }
-              };
-              
-              const dataDir = path.join(process.cwd(), 'data');
-              if (!fs.existsSync(dataDir)) {
-                fs.mkdirSync(dataDir, { recursive: true });
-              }
-              
-              fs.writeFileSync(path.join(dataDir, 'analytics.json'), JSON.stringify(fallbackData, null, 2));
-              console.log('⚠️  Created fallback analytics data');
-              
-              // Don't exit with error - allow the workflow to continue
-              return fallbackData;
-            }
-          }
-          
-          fetchAnalytics();
-          EOF
+          if [ ! -f ".github/workflows/scripts/update_analytics.py" ]; then
+            echo "❌ Python analytics script not found"
+            exit 1
+          fi
+          echo "✅ Python analytics script found"
           
       - name: Fetch Analytics Data
         if: steps.check_update.outputs.skip_update != 'true'
         env:
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
           GOOGLE_ANALYTICS_PROPERTY_ID: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
-        run: node fetch-analytics.js
+        run: python3 .github/workflows/scripts/update_analytics.py
         
       - name: Commit analytics data
         if: steps.check_update.outputs.skip_update != 'true'
