@@ -98,6 +98,7 @@ jobs:
               echo "📊 Latest metrics:"
               jq -r '"   📈 Page Views: " + .formatted.totalPageViews' data/analytics.json
               jq -r '"   👥 Users: " + .formatted.totalUsers' data/analytics.json
+              jq -r '"   🔄 Sessions: " + .formatted.totalSessions' data/analytics.json
               
               # Show top countries with percentages
               echo "   🌍 Top Countries:"

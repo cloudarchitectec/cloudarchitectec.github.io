@@ -55,8 +55,6 @@ jobs:
           google-service-account-key: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
           google-analytics-property-id: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
           commit-message: "📊 Quick analytics update before build"
-          git-user-email: "your-email@example.com"
-          git-user-name: "Your Name"
       - name: Update submodules
         run: |
           echo "Initial submodule status:"
