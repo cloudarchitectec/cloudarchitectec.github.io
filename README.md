@@ -50,7 +50,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Fixed all the internal reference links & categories 
 - Added 3 missing posts
 - Centralised footer and updated footers for all the posts
-- Configued Google analytics & logo
+- Configured Google analytics & logo
 
 2025.09.30
 - Fixed tags, pagination, images, titles
@@ -65,13 +65,13 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 
 2025.10.05
 - Imported all coding bootcamp blogs from Blogger
-- Added bootcamp catogory
+- Added bootcamp category
 - Automated post list page generation by categories
 - Minor fixes
 
 2025.10.12
-- Fixed categories and tags and their format/shortcode
-- Added `automated_blog_converter.py` to generate formatted Hugo blog posts
+- Fixed categories and tags and relevant format/shortcode
+- Added `automated_blog_converter.py` to convert formatted Hugo blog posts
 - Removed unused TailwindCSS dependency
 
 ## Contributing
