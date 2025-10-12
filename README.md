@@ -71,6 +71,10 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Automated post list page generation by categories
 - Minor fixes
 
+2025.10.12
+- Fixed categories and tags and their format/shortcode
+- Added `automated_blog_converter.py` to generate formatted Hugo blog posts
+
 ## Contributing
 
 This is a personal blog repository. While contributions are not expected, feel free to:
