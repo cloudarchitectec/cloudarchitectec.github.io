@@ -1,22 +1,14 @@
 {{/* 
 Analytics Stats Shortcode
-Usage: {{< analytics-stats >}} or {{< analytics-stats type="summary" >}}
-
-Types:
-- summary (default): Shows main metrics in a card
-- countries: Shows top countries 
-- pages: Shows top pages
-- all: Shows everything
+Usage: {{< analytics-stats >}}
+Shows all analytics data in one unified card
 */}}
 
-{{- $type := .Get "type" | default "summary" -}}
 {{- $analytics := site.Data.analytics -}}
 
 {{- if $analytics -}}
-<div class="analytics-stats" data-type="{{ $type }}">
-  
-  {{- if or (eq $type "summary") (eq $type "all") -}}
-  <div class="analytics-card analytics-summary">
+<div class="analytics-stats">
+  <div class="analytics-card">
     <h3>📊 Site Analytics</h3>
     <div class="analytics-period">{{ $analytics.period }}</div>
     
@@ -32,40 +24,22 @@ Types:
       </div>
     </div>
     
-    <div class="analytics-updated">
-      Last updated: {{ dateFormat "2006-01-02 15:04" (time $analytics.lastUpdated) }}
-    </div>
-  </div>
-  {{- end -}}
-  
-  {{- if and $analytics.topCountries (or (eq $type "countries") (eq $type "all")) -}}
-  <div class="analytics-card analytics-countries">
-    <h4>🌍 Top Countries</h4>
-    <div class="countries-list">
-      {{- range $analytics.topCountries -}}
-      <div class="country-item">
-        <span class="country-name">{{ .country }}</span>
-        <span class="country-stats">{{ .users }} users ({{ .percentage }}%)</span>
+    {{- if $analytics.topCountries -}}
+    <div class="countries-section">
+      <h4>🌍 Users by Countries</h4>
+      <div class="countries-list">
+        {{- range $analytics.topCountries -}}
+        <div class="country-item">
+          <span class="country-name">{{ .country }}</span>
+          <span class="country-stats">{{ .users }} users ({{ .percentage }}%)</span>
+        </div>
+        {{- end -}}
       </div>
-      {{- end -}}
     </div>
+    {{- end -}}
+    
   </div>
-  {{- end -}}
-  
-  {{- if and $analytics.topPages (or (eq $type "pages") (eq $type "all")) -}}
-  <div class="analytics-card analytics-pages">
-    <h4>📝 Popular Pages</h4>
-    <div class="pages-list">
-      {{- range $analytics.topPages -}}
-      <div class="page-item">
-        <a href="{{ .path }}" class="page-title">{{ .title }}</a>
-        <span class="page-views">{{ .views }} views</span>
-      </div>
-      {{- end -}}
-    </div>
-  </div>
-  {{- end -}}
-  
+</div>
   {{- if $analytics.error -}}
   <div class="analytics-error">
     ⚠️ Analytics data temporarily unavailable: {{ $analytics.error }}
@@ -85,7 +59,6 @@ Types:
   border: 1px solid var(--theme-border, #e1e5e9);
   border-radius: 8px;
   padding: 1.5rem;
-  margin-bottom: 1rem;
 }
 
 .analytics-card h3, .analytics-card h4 {
@@ -103,7 +76,7 @@ Types:
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .metric {
@@ -128,13 +101,19 @@ Types:
   letter-spacing: 0.5px;
 }
 
-.countries-list, .pages-list {
+.countries-section {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--theme-border-light, #f0f0f0);
+}
+
+.countries-list {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
 }
 
-.country-item, .page-item {
+.country-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -144,21 +123,12 @@ Types:
   border: 1px solid var(--theme-border-light, #f0f0f0);
 }
 
-.country-name, .page-title {
+.country-name {
   font-weight: 500;
   color: var(--theme-text-primary, #333);
 }
 
-.page-title {
-  text-decoration: none;
-  color: var(--theme-link, #007acc);
-}
-
-.page-title:hover {
-  text-decoration: underline;
-}
-
-.country-stats, .page-views {
+.country-stats {
   font-size: 0.9rem;
   color: var(--theme-text-secondary, #666);
 }
@@ -167,7 +137,7 @@ Types:
   font-size: 0.8rem;
   color: var(--theme-text-muted, #888);
   text-align: center;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   padding-top: 1rem;
   border-top: 1px solid var(--theme-border-light, #f0f0f0);
 }
@@ -188,23 +158,25 @@ Types:
     border-color: var(--theme-border, #4a5568);
   }
   
-  .metric, .country-item, .page-item {
+  .metric, .country-item {
     background: var(--theme-bg-primary, #1a202c);
     border-color: var(--theme-border-light, #4a5568);
   }
   
-  .analytics-card h3, .analytics-card h4,
-  .country-name, .page-title {
+  .analytics-card h3, .analytics-card h4, .country-name {
     color: var(--theme-text-primary, #f7fafc);
   }
   
-  .analytics-period, .metric-label,
-  .country-stats, .page-views {
+  .analytics-period, .metric-label, .country-stats {
     color: var(--theme-text-secondary, #cbd5e0);
   }
   
   .analytics-updated {
     color: var(--theme-text-muted, #a0aec0);
+    border-top-color: var(--theme-border-light, #4a5568);
+  }
+  
+  .countries-section {
     border-top-color: var(--theme-border-light, #4a5568);
   }
 }
@@ -215,14 +187,10 @@ Types:
     grid-template-columns: repeat(2, 1fr);
   }
   
-  .country-item, .page-item {
+  .country-item {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.5rem;
-  }
-  
-  .page-title {
-    font-size: 0.9rem;
   }
 }
 </style>

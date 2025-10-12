@@ -1,9 +1,8 @@
 ---
-title: "Cloud Architect EC - Home"
+title: "澳洲雲端架構師 EC 的部落格"
 ---
-
 # 澳洲雲端架構師 EC 的部落格
 
-歡迎來到我的技術部落格！分享雲端架構、DevOps 和澳洲科技職場的經驗。
+旅澳多年的台灣女生，從打工度假到移民澳洲，從文組到轉職成工程師 (成功入職 Amazon & 微軟)。旅行過 22個國家，致力於生活中的各式體驗。希望跟大家分享我對澳洲生活、職場、文化、旅行的觀察筆記。點此預約[<<澳洲雲端架構師 EC 職涯諮詢服務>>](https://forms.gle/Zuro8YryCN5hH9Gk9)
 
-{{< landing-analytics >}}
+{{< analytics-stats type="summary" >}}

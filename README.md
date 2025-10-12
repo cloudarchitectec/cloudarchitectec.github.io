@@ -74,6 +74,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Added `automated_blog_converter.py` to convert formatted Hugo blog posts
 - Removed unused TailwindCSS dependency
 - Added stats display
+- Added popular pages
 
 ## License
 
