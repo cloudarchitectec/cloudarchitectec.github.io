@@ -22,8 +22,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - **Static Site Generator**: [Hugo](https://gohugo.io/) (v0.135.0+)
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Deployment**: GitHub Actions → GitHub Pages
-- **Languages**: Traditional Chinese (Primary), English
-- **Dependencies**: TailwindCSS (via npm)
+
 
 ## Features
 
@@ -33,9 +32,8 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - 📊 Reading time estimation
 - 🔗 Social sharing buttons
 - 🧭 Breadcrumb navigation
-- 📋 Code copy buttons
 - 🏷️ Tag and category system
-- 🌐 Multilingual support
+
 
 ## Timelines
 2025.09.15 
@@ -74,6 +72,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 2025.10.12
 - Fixed categories and tags and their format/shortcode
 - Added `automated_blog_converter.py` to generate formatted Hugo blog posts
+- Removed unused TailwindCSS dependency
 
 ## Contributing
 
