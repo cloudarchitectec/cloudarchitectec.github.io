@@ -1,0 +1,17 @@
+{
+  "lastUpdated": "2025-10-12T12:14:01.288380",
+  "period": "Last 30 days",
+  "metrics": {
+    "totalPageViews": 5782,
+    "totalUsers": 741,
+    "totalSessions": 1078
+  },
+  "formatted": {
+    "totalPageViews": "5,782",
+    "totalUsers": "741",
+    "totalSessions": "1,078"
+  },
+  "metadata": {
+    "source": "Quick fetch during Hugo build"
+  }
+}
