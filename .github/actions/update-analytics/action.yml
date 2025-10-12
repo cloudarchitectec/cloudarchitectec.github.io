@@ -14,11 +14,11 @@ inputs:
   git-user-email:
     description: 'Git user email for commits'
     required: false
-    default: 'github-actions[bot]'
+    default: 'cloudarchitectec@gmail.com'
   git-user-name:
     description: 'Git user name for commits'
     required: false
-    default: 'github-actions[bot]'
+    default: 'Analytics Bot'
 
 runs:
   using: 'composite'
