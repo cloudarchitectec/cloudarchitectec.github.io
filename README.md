@@ -1,6 +1,6 @@
 # Cloud Architect EC
 
-[![Site Deployment Status](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/hugo.yml)
+[![Site Deployment Status](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml)
 
 > 澳洲雲端架構師 EC 的部落格 | Cloud Architect EC's Blog
 
@@ -22,8 +22,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - **Static Site Generator**: [Hugo](https://gohugo.io/) (v0.135.0+)
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Deployment**: GitHub Actions → GitHub Pages
-- **Languages**: Traditional Chinese (Primary), English
-- **Dependencies**: TailwindCSS (via npm)
+
 
 ## Features
 
@@ -33,9 +32,8 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - 📊 Reading time estimation
 - 🔗 Social sharing buttons
 - 🧭 Breadcrumb navigation
-- 📋 Code copy buttons
 - 🏷️ Tag and category system
-- 🌐 Multilingual support
+
 
 ## Timelines
 2025.09.15 
@@ -52,7 +50,7 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Fixed all the internal reference links & categories 
 - Added 3 missing posts
 - Centralised footer and updated footers for all the posts
-- Configued Google analytics & logo
+- Configured Google analytics & logo
 
 2025.09.30
 - Fixed tags, pagination, images, titles
@@ -67,16 +65,16 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 
 2025.10.05
 - Imported all coding bootcamp blogs from Blogger
-- Added bootcamp catogory
+- Added bootcamp category
 - Automated post list page generation by categories
 - Minor fixes
 
-## Contributing
-
-This is a personal blog repository. While contributions are not expected, feel free to:
-- 🐛 Report issues
-- 💡 Suggest improvements
-- 🔗 Share interesting resources
+2025.10.12
+- Fixed categories and tags and relevant format/shortcode
+- Added `automated_blog_converter.py` to convert formatted Hugo blog posts
+- Removed unused TailwindCSS dependency
+- Added google stats on landing page
+- Added popular posts page
 
 ## License
 

@@ -1,7 +1,7 @@
 ---
-title: "零基礎轉職澳洲工程師: 2020.02.09 Final Project – Finnish Line"
+title: "零基礎轉職澳洲工程師: 2020.02.09 Final Project – Finish Line"
 date: 2020-02-09
-slug: "2020-02-09-final-project-finnish-line"
+slug: "2020-02-09-final-project-finish-line"
 image: "images/jest.JPG"
 images: ['images/jest.JPG']
 categories: ["零基礎轉職澳洲工程師"]

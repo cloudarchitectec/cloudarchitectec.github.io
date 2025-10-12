@@ -1,0 +1,55 @@
+{{/* 
+Post Views Counter
+Usage: {{< post-views >}} or {{< post-views path="/posts/specific-post/" >}}
+*/}}
+
+{{- $analytics := site.Data.analytics -}}
+{{- $currentPath := .Page.RelPermalink -}}
+{{- $targetPath := .Get "path" | default $currentPath -}}
+
+{{- if $analytics -}}
+  {{- $views := 0 -}}
+  {{- range $analytics.topPages -}}
+    {{- if eq .path $targetPath -}}
+      {{- $views = .views -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- if gt $views 0 -}}
+  <div class="post-views">
+    <span class="views-label">Post Views:</span>
+    <span class="views-count">{{ $views }}</span>
+
+  </div>
+  {{- end -}}
+{{- end -}}
+
+<style>
+.post-views {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+  color: var(--theme-text-secondary, #666);
+  margin: 0.25rem 0;
+}
+
+.views-icon {
+  font-size: 0.8rem;
+}
+
+.views-count {
+  font-weight: 600;
+}
+
+.views-label {
+  font-size: 0.85rem;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .post-views {
+    color: var(--theme-text-secondary, #cbd5e0);
+  }
+}
+</style>

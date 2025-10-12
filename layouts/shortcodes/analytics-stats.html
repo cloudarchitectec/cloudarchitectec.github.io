@@ -1,0 +1,172 @@
+{{/* 
+Analytics Stats Shortcode
+Usage: {{< analytics-stats >}}
+Shows site stats in a compact, WordPress-style widget with country flags
+*/}}
+
+{{- $analytics := site.Data.analytics -}}
+
+{{- if $analytics -}}
+<div class="blog-stats-widget">
+  <div class="stats-line-1">
+    <span class="stat-item">
+      <strong>部落格統計： {{ $analytics.formatted.totalPageViews }}</strong> 次瀏覽
+    </span>
+    <span class="stat-separator">•</span>
+    <span class="stat-item">
+      <strong>{{ $analytics.formatted.totalUsers }}</strong> 位讀者
+    </span>
+  </div>
+  {{- if $analytics.topCountries -}}
+  <div class="stats-line-2">
+    <span class="stat-item">
+      <strong>讀者來自:</strong>
+    </span>
+    <span class="countries-flags">
+      {{- range first 5 $analytics.topCountries -}}
+      {{- $flag := "" -}}
+      {{- if eq .country "Australia" -}}{{ $flag = "🇦🇺 澳洲" -}}
+      {{- else if eq .country "Taiwan" -}}{{ $flag = "🇹🇼 台灣" -}}
+      {{- else if eq .country "United States" -}}{{ $flag = "🇺🇸 美國" -}}
+      {{- else if eq .country "Canada" -}}{{ $flag = "🇨🇦 加拿大" -}}
+      {{- else if eq .country "United Kingdom" -}}{{ $flag = "🇬🇧 英國" -}}
+      {{- else if eq .country "Japan" -}}{{ $flag = "🇯🇵 日本" -}}
+      {{- else if eq .country "Singapore" -}}{{ $flag = "🇸🇬 新加坡" -}}
+      {{- else if eq .country "Germany" -}}{{ $flag = "🇩🇪 德國" -}}
+      {{- else if eq .country "France" -}}{{ $flag = "🇫🇷 法國" -}}
+      {{- else if eq .country "New Zealand" -}}{{ $flag = "🇳🇿 紐西蘭" -}}
+      {{- else if eq .country "Hong Kong" -}}{{ $flag = "🇭🇰 香港" -}}
+      {{- else if eq .country "South Korea" -}}{{ $flag = "🇰🇷 韓國" -}}
+      {{- else if eq .country "Malaysia" -}}{{ $flag = "🇲🇾 馬來西亞" -}}
+      {{- else if eq .country "Thailand" -}}{{ $flag = "🇹🇭 泰國" -}}
+      {{- else if eq .country "India" -}}{{ $flag = "🇮🇳 印度" -}}
+      {{- else if eq .country "China" -}}{{ $flag = "🇨🇳 中國" -}}
+      {{- else if eq .country "Netherlands" -}}{{ $flag = "🇳🇱 荷蘭" -}}
+      {{- else -}}{{ $flag = "🌍" -}}
+      {{- end -}}
+      <span class="flag-stat" title="{{ .country }}: {{ .percentage }}%">
+        {{ $flag }} {{ .percentage }}%
+      </span>
+      {{- end -}}
+    </span>
+  </div>
+  {{- end -}}
+  </div>
+</div>
+
+<style>
+.blog-stats-widget {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  margin: 1rem 0 2rem 0;
+  padding: 0.75rem 1rem;
+  background: var(--code-bg);
+  border-left: 3px solid var(--theme);
+  border-radius: 4px;
+  font-family: inherit;
+}
+
+.stats-summary {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.stats-line-1 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.stats-line-2 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.stat-item {
+  color: var(--content);
+  font-size: 0.85rem;
+}
+
+.stat-item strong {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.stat-separator {
+  color: var(--tertiary);
+  font-weight: normal;
+}
+
+.countries-flags {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.flag-stat {
+  font-size: 0.8rem;
+  color: var(--content);
+  white-space: nowrap;
+  cursor: help;
+}
+
+.flag-stat:hover {
+  color: var(--primary);
+}
+
+/* Light mode optimization */
+:root {
+  --stats-bg-light: #f8f9fa;
+  --stats-border-light: #e9ecef;
+}
+
+@media (prefers-color-scheme: light) {
+  .blog-stats-widget {
+    background: var(--stats-bg-light, #f8f9fa);
+    border-left-color: var(--stats-border-light, #e9ecef);
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  .blog-stats-widget {
+    background: var(--code-bg);
+    border-left-color: var(--border);
+  }
+}
+
+/* Mobile responsive */
+@media (max-width: 480px) {
+  .stats-summary {
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .blog-stats-widget {
+    font-size: 0.8rem;
+    padding: 0.6rem 0.8rem;
+  }
+  
+  .countries-flags {
+    gap: 0.3rem;
+  }
+  
+  .flag-stat {
+    font-size: 0.75rem;
+  }
+}
+</style>
+
+{{- else -}}
+<div class="blog-stats-widget">
+  <div class="stats-summary">
+    <span class="stat-item">📊 Analytics loading...</span>
+  </div>
+</div>
+{{- end -}}

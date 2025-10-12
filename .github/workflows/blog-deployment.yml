@@ -6,7 +6,7 @@
 # 3. Update .gitmodules submodule reference
 # 4. Commit and push changes
 #
-name: Deploy Hugo site to Pages
+name: Deploy Blog
 
 on:
   workflow_dispatch:
@@ -49,6 +49,91 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+      - name: Update Analytics Data
+        env:
+          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          GOOGLE_ANALYTICS_PROPERTY_ID: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
+        run: |
+          # Only update analytics if secrets are available
+          if [[ -n "$GOOGLE_SERVICE_ACCOUNT_KEY" && -n "$GOOGLE_ANALYTICS_PROPERTY_ID" ]]; then
+            echo "🔄 Updating analytics data before build..."
+            
+            # Setup Node.js for analytics
+            curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+            sudo apt-get install -y nodejs
+            
+            # Install googleapis
+            npm init -y
+            npm install googleapis@latest
+            
+            # Create and run analytics script (condensed version)
+            cat > update-analytics.js << 'ANALYTICS_EOF'
+            const { google } = require('googleapis');
+            const fs = require('fs');
+            
+            async function quickAnalyticsUpdate() {
+              try {
+                const auth = new google.auth.GoogleAuth({
+                  credentials: JSON.parse(process.env.GOOGLE_SERVICE_ACCOUNT_KEY),
+                  scopes: ['https://www.googleapis.com/auth/analytics.readonly'],
+                });
+                
+                const analyticsdata = google.analyticsdata('v1beta');
+                const propertyId = process.env.GOOGLE_ANALYTICS_PROPERTY_ID;
+                
+                const response = await analyticsdata.properties.runReport({
+                  auth,
+                  property: `properties/${propertyId}`,
+                  requestBody: {
+                    dateRanges: [{ startDate: '30daysAgo', endDate: 'today' }],
+                    metrics: [
+                      { name: 'screenPageViews' },
+                      { name: 'totalUsers' },
+                      { name: 'sessions' }
+                    ],
+                  },
+                });
+                
+                const row = response.data.rows?.[0];
+                const views = parseInt(row?.metricValues[0]?.value || '0');
+                const users = parseInt(row?.metricValues[1]?.value || '0');
+                const sessions = parseInt(row?.metricValues[2]?.value || '0');
+                
+                const data = {
+                  lastUpdated: new Date().toISOString(),
+                  period: 'Last 30 days',
+                  metrics: { totalPageViews: views, totalUsers: users, totalSessions: sessions },
+                  formatted: {
+                    totalPageViews: views.toLocaleString(),
+                    totalUsers: users.toLocaleString(),
+                    totalSessions: sessions.toLocaleString()
+                  },
+                  metadata: { source: 'Quick fetch during Hugo build' }
+                };
+                
+                if (!fs.existsSync('data')) fs.mkdirSync('data', { recursive: true });
+                fs.writeFileSync('data/analytics.json', JSON.stringify(data, null, 2));
+                
+                console.log(`✅ Quick analytics update: ${views} views, ${users} users`);
+              } catch (error) {
+                console.log(`⚠️  Analytics update failed: ${error.message}`);
+                // Don't fail the build - just skip analytics update
+              }
+            }
+            
+            quickAnalyticsUpdate();
+            ANALYTICS_EOF
+            
+            node update-analytics.js
+            
+            # Commit if there are changes
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add data/analytics.json || true
+            git diff --staged --quiet || git commit -m "📊 Quick analytics update before build" || true
+          else
+            echo "⚠️  Analytics secrets not configured - skipping analytics update"
+          fi
       - name: Update submodules
         run: |
           echo "Initial submodule status:"

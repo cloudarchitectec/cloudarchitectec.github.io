@@ -5,7 +5,7 @@ slug: "2025-04-23-vanuatu-day-5"
 image: "images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg"
 images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊", "萬那杜","vanuatu","獨旅", "自駕"]
+tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
 (在萬那杜，跟人類一樣不可控制的還有天氣)

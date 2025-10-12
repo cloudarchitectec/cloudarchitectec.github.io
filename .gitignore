@@ -66,8 +66,7 @@ out/
 # -----------------------
 # Project documentation (private)
 # -----------------------
-EC.md
-intro.md
+docs
 
 # -----------------------
 # Unit test / coverage reports
@@ -143,3 +142,10 @@ logs/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# -----------------------
+# automated_blog_converter.py specific
+# -----------------------
+
+python/input
+python/output

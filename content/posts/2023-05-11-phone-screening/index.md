@@ -4,13 +4,9 @@ date: 2023-05-11
 slug: "2023-05-11-phone-screening"
 image: "images/medium-0*VtTwo_4RcFVfiCkx.jpg"
 images: ['images/medium-0*VtTwo_4RcFVfiCkx.jpg']
-categories: ["投資理財"]
-tags: ["投資理財"]
+categories: ["海外職場"]
+tags: ["澳洲求職必勝法則","面試"]
 ---
-
-* * *
-
-### 澳洲求職必勝法則：Phone Screening 電話初篩策略應答分析與實戰分享
 
 ![Two people facing each other and smiling](images/medium-0*VtTwo_4RcFVfiCkx.jpg)Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

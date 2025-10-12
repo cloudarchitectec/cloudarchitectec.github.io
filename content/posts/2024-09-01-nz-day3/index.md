@@ -5,7 +5,7 @@ slug: "2024-09-01-nz-day3"
 image: "images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg"
 images: ['images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg', 'images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg', 'images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg', 'images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpeg.jpg', 'images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg', 'images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg', 'images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg', 'images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpeg.jpg', 'images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["旅遊","自駕",“滑雪” ,"紐西蘭"]
+tags: ["旅遊","自駕","滑雪","紐西蘭"]
 ---
 
 終於迎來這次紐西蘭北島的重點行程：滑雪！
