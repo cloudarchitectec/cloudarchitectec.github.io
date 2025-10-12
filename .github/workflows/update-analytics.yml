@@ -67,41 +67,23 @@ jobs:
         run: |
           pip3 install -r .github/workflows/scripts/requirements.txt
           
-      - name: Verify Python analytics script exists
+      - name: Update Analytics Data
+        if: steps.check_update.outputs.skip_update != 'true'
+        uses: ./.github/actions/update-analytics
+        with:
+          google-service-account-key: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          google-analytics-property-id: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
+          commit-message: "📊 Update analytics ($(date '+%Y-%m-%d %H:%M UTC'))"
+          
+      - name: Push changes
         if: steps.check_update.outputs.skip_update != 'true'
         run: |
-          if [ ! -f ".github/workflows/scripts/update_analytics.py" ]; then
-            echo "❌ Python analytics script not found"
-            exit 1
-          fi
-          echo "✅ Python analytics script found"
-          
-      - name: Fetch Analytics Data
-        if: steps.check_update.outputs.skip_update != 'true'
-        env:
-          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
-          GOOGLE_ANALYTICS_PROPERTY_ID: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
-        run: python3 .github/workflows/scripts/update_analytics.py
-        
-      - name: Commit analytics data
-        if: steps.check_update.outputs.skip_update != 'true'
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action (Analytics)"
-          
-          # Add the analytics file
-          git add data/analytics.json
-          
-          # Check if there are changes to commit
-          if git diff --staged --quiet; then
-            echo "📊 No changes to analytics data - skipping commit"
-          else
-            # Simplified commit message with just timestamp
-            commit_msg="📊 Update analytics ($(date '+%Y-%m-%d %H:%M UTC'))"
-            
-            git commit -m "$commit_msg"
+          # Push if there are committed changes
+          if [[ $(git log --oneline -1 --grep="📊 Update analytics") ]]; then
             git push
-            echo "✅ Analytics data committed and pushed"
+            echo "✅ Analytics data pushed to repository"
+          else
+            echo "📊 No analytics changes to push"
           fi
           
       - name: Output summary
@@ -116,6 +98,12 @@ jobs:
               echo "📊 Latest metrics:"
               jq -r '"   📈 Page Views: " + .formatted.totalPageViews' data/analytics.json
               jq -r '"   👥 Users: " + .formatted.totalUsers' data/analytics.json
-              jq -r '"   🔄 Last Updated: " + .lastUpdated' data/analytics.json
+              jq -r '"   🔄 Sessions: " + .formatted.totalSessions' data/analytics.json
+              
+              # Show top countries with percentages
+              echo "   🌍 Top Countries:"
+              jq -r '.topCountries[] | select(.percentage > 0) | "      " + .country + ": " + (.percentage | tostring) + "% (" + (.users | tostring) + " users)"' data/analytics.json | head -5
+              
+              jq -r '"   🕐 Last Updated: " + .lastUpdated' data/analytics.json
             fi
           fi

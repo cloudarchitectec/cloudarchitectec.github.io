@@ -50,31 +50,11 @@ jobs:
           submodules: recursive
           fetch-depth: 0
       - name: Update Analytics Data
-        env:
-          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
-          GOOGLE_ANALYTICS_PROPERTY_ID: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
-        run: |
-          # Only update analytics if secrets are available
-          if [[ -n "$GOOGLE_SERVICE_ACCOUNT_KEY" && -n "$GOOGLE_ANALYTICS_PROPERTY_ID" ]]; then
-            echo "🔄 Updating analytics data before build..."
-            
-            # Setup Python for analytics
-            sudo apt-get update && sudo apt-get install -y python3 python3-pip
-            
-            # Install Google Analytics dependencies
-            pip3 install -r .github/workflows/scripts/requirements.txt
-            
-            # Use the Python analytics script
-            python3 .github/workflows/scripts/update_analytics.py
-            
-            # Commit if there are changes
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add data/analytics.json || true
-            git diff --staged --quiet || git commit -m "📊 Quick analytics update before build" || true
-          else
-            echo "⚠️  Analytics secrets not configured - skipping analytics update"
-          fi
+        uses: ./.github/actions/update-analytics
+        with:
+          google-service-account-key: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          google-analytics-property-id: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
+          commit-message: "📊 Quick analytics update before build"
       - name: Update submodules
         run: |
           echo "Initial submodule status:"

@@ -23,7 +23,7 @@ def quick_analytics_update():
         # Import Google Analytics libraries
         try:
             from google.analytics.data_v1beta import BetaAnalyticsDataClient
-            from google.analytics.data_v1beta.types import RunReportRequest, DateRange, Metric
+            from google.analytics.data_v1beta.types import RunReportRequest, DateRange, Metric, Dimension, OrderBy
             from google.oauth2 import service_account
         except ImportError as e:
             print(f"⚠️  Google Analytics libraries not available: {e}")
@@ -43,8 +43,8 @@ def quick_analytics_update():
         
         print("🔄 Fetching analytics data...")
         
-        # Build the request
-        request = RunReportRequest(
+        # Build the request for main metrics
+        main_request = RunReportRequest(
             property=f"properties/{property_id}",
             date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
             metrics=[
@@ -54,17 +54,87 @@ def quick_analytics_update():
             ],
         )
         
-        # Run the report
-        response = client.run_report(request=request)
+        # Build the request for top pages
+        pages_request = RunReportRequest(
+            property=f"properties/{property_id}",
+            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            metrics=[Metric(name="screenPageViews")],
+            dimensions=[
+                Dimension(name="pagePath"),
+                Dimension(name="pageTitle")
+            ],
+            order_bys=[OrderBy(
+                metric=OrderBy.MetricOrderBy(metric_name="screenPageViews"),
+                desc=True
+            )],
+            limit=10,
+        )
         
-        # Extract data
-        if response.rows:
-            row = response.rows[0]
+        # Build the request for top countries
+        countries_request = RunReportRequest(
+            property=f"properties/{property_id}",
+            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            metrics=[Metric(name="totalUsers")],
+            dimensions=[Dimension(name="country")],
+            order_bys=[OrderBy(
+                metric=OrderBy.MetricOrderBy(metric_name="totalUsers"),
+                desc=True
+            )],
+            limit=10,
+        )
+        
+        # Run the reports
+        main_response = client.run_report(request=main_request)
+        pages_response = client.run_report(request=pages_request)
+        countries_response = client.run_report(request=countries_request)
+        
+        # Extract main metrics data
+        if main_response.rows:
+            row = main_response.rows[0]
             views = int(row.metric_values[0].value) if row.metric_values else 0
             users = int(row.metric_values[1].value) if len(row.metric_values) > 1 else 0
             sessions = int(row.metric_values[2].value) if len(row.metric_values) > 2 else 0
         else:
             views = users = sessions = 0
+        
+        # Extract top pages data
+        top_pages = []
+        if pages_response.rows:
+            for row in pages_response.rows:
+                if row.dimension_values and row.metric_values:
+                    path = row.dimension_values[0].value
+                    title = row.dimension_values[1].value if len(row.dimension_values) > 1 else "Unknown"
+                    page_views = int(row.metric_values[0].value)
+                    
+                    # Only include actual blog posts (filter out homepage, search, etc.)
+                    if path.startswith('/posts/') and not path.endswith('/'):
+                        top_pages.append({
+                            "path": path,
+                            "title": title,
+                            "views": page_views
+                        })
+        
+        # Extract top countries data
+        top_countries = []
+        total_country_users = 0
+        if countries_response.rows:
+            # First pass: calculate total users from all countries
+            for row in countries_response.rows:
+                if row.metric_values:
+                    total_country_users += int(row.metric_values[0].value)
+            
+            # Second pass: create country list with percentages
+            for row in countries_response.rows:
+                if row.dimension_values and row.metric_values:
+                    country = row.dimension_values[0].value
+                    country_users = int(row.metric_values[0].value)
+                    percentage = round((country_users / total_country_users) * 100, 1) if total_country_users > 0 else 0
+                    
+                    top_countries.append({
+                        "country": country,
+                        "users": country_users,
+                        "percentage": percentage
+                    })
         
         # Prepare data
         data = {
@@ -80,6 +150,8 @@ def quick_analytics_update():
                 "totalUsers": f"{users:,}",
                 "totalSessions": f"{sessions:,}"
             },
+            "topPages": top_pages,
+            "topCountries": top_countries,
             "metadata": {
                 "source": "Quick fetch during Hugo build"
             }
@@ -95,6 +167,8 @@ def quick_analytics_update():
             json.dump(data, f, indent=2)
         
         print(f"✅ Quick analytics update: {views:,} views, {users:,} users, {sessions:,} sessions")
+        print(f"📄 Found {len(top_pages)} popular posts")
+        print(f"🌍 Found {len(top_countries)} countries")
         
     except Exception as error:
         print(f"⚠️  Analytics update failed: {error}")
