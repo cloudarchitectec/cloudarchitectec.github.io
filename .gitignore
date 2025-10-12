@@ -66,8 +66,7 @@ out/
 # -----------------------
 # Project documentation (private)
 # -----------------------
-EC.md
-intro.md
+docs
 
 # -----------------------
 # Unit test / coverage reports
