@@ -100,6 +100,11 @@ jobs:
               echo "📊 Latest metrics:"
               jq -r '"   📈 Page Views: " + .formatted.totalPageViews' data/analytics.json
               jq -r '"   👥 Users: " + .formatted.totalUsers' data/analytics.json
-              jq -r '"   🔄 Last Updated: " + .lastUpdated' data/analytics.json
+              
+              # Show top countries with percentages
+              echo "   🌍 Top Countries:"
+              jq -r '.topCountries[] | select(.percentage > 0) | "      " + .country + ": " + (.percentage | tostring) + "% (" + (.users | tostring) + " users)"' data/analytics.json | head -5
+              
+              jq -r '"   🕐 Last Updated: " + .lastUpdated' data/analytics.json
             fi
           fi
