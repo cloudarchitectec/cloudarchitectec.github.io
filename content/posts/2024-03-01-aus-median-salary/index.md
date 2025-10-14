@@ -1,16 +1,12 @@
 ---
-title: "2023 年澳洲薪資中位數、產業與地區薪資統計分享：讓我們用數據來說話"
+title: "澳洲職場統計數據：2023 年澳洲薪資中位數、產業與地區薪資分享"
 date: 2024-03-01
 slug: "2024-03-01-aus-median-salary"
 image: "images/medium-0*0uAgsok1JRZvwi0k.jpg"
 images: ['images/medium-0*0uAgsok1JRZvwi0k.jpg', 'images/medium-1*PB46lQ5iZqbVusENJ-xxWw.png.jpg', 'images/medium-1*Ma8_iNPDVReXHTL-HWH5Zw.png.jpg', 'images/medium-1*AW9UO19oIVjHoMa2kh7sGw.png.jpg', 'images/medium-1*KOLsZLA1T-U54wIG01J1VQ.png.jpg', 'images/medium-1*OKIJEys1q2mD8KTPT3Yb3w.png.jpg']
 categories: ["海外職場"]
-tags: ["薪資"]
+tags: ["薪資","澳洲職場統計數據"]
 ---
-
-* * *
-
-### 2023 年澳洲薪資中位數、產業與地區薪資統計分享：讓我們用數據來說話
 
 ![](images/medium-0*0uAgsok1JRZvwi0k.jpg)Photo by [Stephen Dawson](https://unsplash.com/@dawson2406?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

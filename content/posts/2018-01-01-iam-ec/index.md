@@ -5,7 +5,7 @@ slug: "2018-01-01-iam-ec"
 image: "images/medium-0*s8lY75qUNwwZVglG.jpg"
 images: ['images/medium-0*s8lY75qUNwwZVglG.jpg']
 categories: ["EC"]
-tags: ["自我介紹", "澳洲移民", "轉職工程師"]
+tags: ["自我介紹", "澳洲移民"]
 description: "從台灣英文系到成功移民澳洲、轉職成為 Amazon 與微軟的雲端架構師 - EC 的完整職涯故事分享"
 ---
 

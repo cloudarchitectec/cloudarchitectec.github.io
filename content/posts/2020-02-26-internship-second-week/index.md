@@ -5,7 +5,7 @@ slug: "2020-02-26-internship-second-week"
 image: "images/89245870_135401031158136_6879449233414422528_n.jpg"
 images: ['images/89245870_135401031158136_6879449233414422528_n.jpg']
 categories: ["零基礎轉職澳洲工程師"]
-tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+tags: [程式訓練營", "Coding Bootcamp"]
 draft: true
 ---
 

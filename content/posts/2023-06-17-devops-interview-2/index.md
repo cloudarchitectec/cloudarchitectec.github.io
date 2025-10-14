@@ -1,11 +1,11 @@
 ---
-title: "跨國能源公司 DevOps 工程師面試心得 II：行為面試"
+title: 澳洲面試分享：跨國能源公司 DevOps 工程師 II：行為面試"
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-2"
 image: "images/medium-0*-cJX5ON0RTaomZNr.jpg"
 images: ['images/medium-0*-cJX5ON0RTaomZNr.jpg']
 categories: ["海外職場"]
-tags: ["面試","DevOps 工程師","澳洲求職必勝法則"]
+tags: ["DevOps 工程師","澳洲面試分享"]
 ---
 
 ![](images/medium-0*-cJX5ON0RTaomZNr.jpg)Photo by [Amy Hirschi](https://unsplash.com/@amyhirschi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -20,7 +20,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 具體可以參考我之前的面試分享，這也可以說是我人生目前為止我覺得最棒的一次面試：
 
-[跨國能源公司 DevOps 工程師面試心得 I：技術面試](/posts/2023-06-17-devops-interview-1/)
+[澳洲面試分享：跨國能源公司 DevOps 工程師 I：技術面試](/posts/2023-06-17-devops-interview-1/)
 
 這次的第二次面試則回歸到最傳統的面試官問我答，我答完面試官再問下一題模式，讓我居然有些不習慣XDD
 

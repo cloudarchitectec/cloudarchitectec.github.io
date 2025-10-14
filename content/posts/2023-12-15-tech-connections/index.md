@@ -1,14 +1,12 @@
 ---
-title: "如何在澳洲增加工作上的人脈? 如何經營自己的職場品牌? 如何提高自己找到工作的機率? 你不可不知的 Tech Meet-ups!"
+title: "澳洲求職必勝法則：利用 Tech Meet-ups 增加工作人脈、經營職場品牌，提高錄取機率!"
 date: 2023-12-15
 slug: "2023-12-15-tech-connections"
 image: "images/medium-0*M-Nsha3Kr5GQFhi_.jpg"
 images: ['images/medium-0*M-Nsha3Kr5GQFhi_.jpg', 'images/medium-1*cUxo55MxD-zjIxzSzIHw8Q.png.jpg', 'images/medium-1*Mf2_XB6J4I6s3JQg-WUjRA.png.jpg', 'images/medium-1*Tas7j8ZA1GVKhLmMkeUUKw.png.jpg', 'images/medium-1*vNUhERllI0LNMPp4aa6hFQ.png.jpg', 'images/medium-1*sFJD3jQZURveaRmypOKonQ.png.jpg', 'images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png.jpg', 'images/medium-1*9jJ12WPnePR-vuJ_IF3HTg.png.jpg', 'images/medium-1*WnBcHvtXznF5SCPBr-wFrA.png.jpg', 'images/medium-1*Ts4-MJD68Kw2BzNl2z11lQ.png.jpg', 'images/medium-0*TozX87zgUY3ia-IV.jpg.jpg', 'images/medium-1*owy9aRx6zJK_mHlUZiVlsA.png.jpg', 'images/medium-1*SF8Npxo4g2o6puU29vjyNQ.png.jpg']
-categories: ["投資理財"]
-tags: ["投資理財"]
+categories: ["海外職場"]
+tags: ["澳洲求職必勝法則"]
 ---
-
-### 如何在澳洲增加工作上的人脈? 如何經營自己的職場品牌? 如何提高自己找到工作的機率? 你不可不知的 Tech Meet-ups!
 
 ![](images/medium-0*M-Nsha3Kr5GQFhi_.jpg)Photo by [Kenny Eliason](https://unsplash.com/@neonbrand?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

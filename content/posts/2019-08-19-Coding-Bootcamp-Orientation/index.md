@@ -5,7 +5,7 @@ slug: "2019-08-19-coding-bootcamp-orientation"
 image: "images/medium-0*ywUyojRimOqTsYDU.jpg"
 images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
-tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+tags: [程式訓練營", "Coding Bootcamp"]
 ---
 
 ![程式訓練營開學典禮](images/medium-0*ywUyojRimOqTsYDU.jpg)Photo by [ELLA DON](https://unsplash.com/@elladon?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

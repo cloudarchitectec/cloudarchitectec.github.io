@@ -1,11 +1,11 @@
 ---
-title: "2023–2024 最新澳洲數據: 澳洲 DevOps 工程師薪資大揭秘"
+title: "澳洲職場統計數據：2024 澳洲 DevOps 工程師薪資大揭秘"
 date: 2024-02-19
 slug: "2024-02-19-devops-2023-2024-salary"
 image: "images/medium-0*wVIVFXLLPPZ4yFC4.jpg"
 images: ['images/medium-0*wVIVFXLLPPZ4yFC4.jpg']
 categories: ["海外職場"]
-tags: ["薪資"]
+tags: ["薪資","澳洲職場統計數據"]
 ---
 
 ![澳洲DevOps工程師薪資分析](images/medium-0*wVIVFXLLPPZ4yFC4.jpg)Photo by [Eldar Nazarov](https://unsplash.com/@eldarnazarov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

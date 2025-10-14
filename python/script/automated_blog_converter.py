@@ -18,7 +18,7 @@ import json
 warnings.filterwarnings('ignore', message='urllib3 v2 only supports OpenSSL 1.1.1+')
 
 # Configuration
-CATEGORIES = ["投資理財", "旅行紀錄", "海外職場", "澳洲生活"]
+CATEGORIES = ["海外職場", "投資理財", "旅行紀錄", "澳洲生活"]
 SLUG_MAX_LENGTH = 75
 
 # Paths

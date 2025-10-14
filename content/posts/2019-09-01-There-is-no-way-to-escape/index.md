@@ -5,7 +5,7 @@ slug: "2019-09-01-there-is-no-way-to-escape"
 image: "images/medium-0*Ajqd_LT2PTta4eAV.jpg"
 images: ['images/medium-0*Ajqd_LT2PTta4eAV.jpg', 'images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
-tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+tags: [程式訓練營", "Coding Bootcamp"]
 ---
 
 ![程式學習無處可逃的挑戰](images/medium-0*Ajqd_LT2PTta4eAV.jpg)Photo by [EXPANALOG](https://unsplash.com/@diogo_ferrer?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

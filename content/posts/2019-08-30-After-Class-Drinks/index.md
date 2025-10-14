@@ -5,7 +5,7 @@ slug: "2019-08-30-after-class-drinks"
 image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
-tags: ["轉職工程師","程式訓練營", "Coding Bootcamp"]
+tags: [程式訓練營", "Coding Bootcamp"]
 ---
 
 ### 2019-08-30
