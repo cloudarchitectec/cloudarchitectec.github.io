@@ -97,10 +97,10 @@ def quick_analytics_update():
             limit=20,  # Fetch more to filter out system pages, then take top 5
         )
         
-        # Build the request for top countries
+        # Build the request for top countries #TODO
         countries_request = RunReportRequest(
             property=f"properties/{property_id}",
-            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            date_ranges=[DateRange(start_date="90daysAgo", end_date="today")],
             metrics=[Metric(name="totalUsers")],
             dimensions=[Dimension(name="country")],
             order_bys=[OrderBy(
@@ -145,25 +145,20 @@ def quick_analytics_update():
                             # Filter out system/navigation pages - only include posts with date-based slugs
                             # and exclude the main navigation pages (about, consultation, etc.)
                             excluded_slugs = [
-                                '2018-01-01-iam-ec',      # About EC page
-                                '2018-01-02-ec-post-list', # Post list page  
-                                '2018-01-03-ec-consultation', # Consultation page
                                 '2018-01-04-popular-posts'    # Popular posts page
                             ]
                             
-                            # Only include if it's not in excluded list, has reasonable view count,
-                            # and the post is currently published (not draft)
+                            # Only include if not in excluded list and not draft
                             if (post_slug not in excluded_slugs and 
-                                page_views >= 100 and 
                                 is_post_published(post_slug)):
                                 top_pages.append({
                                     "path": path,
                                     "title": title,
                                     "views": page_views
                                 })
-        
-        # Keep only top 5 most popular posts
-        top_pages = top_pages[:5]
+
+        # Keep top 10 most popular posts
+        top_pages = top_pages[:10]
         
         # Extract top countries data
         top_countries = []

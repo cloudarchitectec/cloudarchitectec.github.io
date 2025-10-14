@@ -5,12 +5,8 @@ slug: "2024-09-27-how-long-tofire"
 image: "images/medium-0*6FlTC363YDM-gs_Z.jpg"
 images: ['images/medium-0*6FlTC363YDM-gs_Z.jpg', 'images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png.jpg', 'images/medium-1*tILRbx_NtxQzJL_kx31oQg.png.jpg', 'images/medium-1*0zV01KykJx7kRSEZfgZgsA.png.jpg']
 categories: ["投資理財"]
-tags: ["好想要退休", "FIRE"]
+tags: ["好想要退休", "FIRE", "退休規劃"]
 ---
-
-* * *
-
-### 好想要退休！我與退休之間的距離：澳洲工程師是否比台灣人更容易達成財務自由 (FIRE)？
 
 ![FIRE財務自由退休規劃](images/medium-0*6FlTC363YDM-gs_Z.jpg)Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

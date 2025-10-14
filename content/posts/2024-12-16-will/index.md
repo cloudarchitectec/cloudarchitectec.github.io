@@ -5,12 +5,8 @@ slug: "2024-12-16-will"
 image: "images/medium-0*E__KYju_lVrQDjj6.jpg"
 images: ['images/medium-0*E__KYju_lVrQDjj6.jpg', 'images/medium-1*sAkqF--a_kKj6Od1HW-Lyg.png.jpg', 'images/medium-1*V7gvWqb2-VbwTCRswWCzbQ.png.jpg', 'images/medium-1*FOBkY0d_lhvkB8xMehVwRA.png.jpg']
 categories: ["投資理財"]
-tags: ["好想要退休", "FIRE","法律", "遺囑"]
+tags: ["好想要退休","FIRE","退休規劃"]
 ---
-
-* * *
-
-### 好想要退休！錢財乃身外之物，生不帶來，死不帶去，但你知道在澳洲要怎麼立遺屬嗎？
 
 ### 正文開始之前的閒聊
 
