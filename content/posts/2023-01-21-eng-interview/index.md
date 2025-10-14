@@ -5,12 +5,8 @@ slug: "2023-01-21-eng-interview"
 image: "images/medium-0*3NXkWf7Nc8zqLlyb.jpg"
 images: ['images/medium-0*3NXkWf7Nc8zqLlyb.jpg']
 categories: ["海外職場"]
-tags: ["面試", "求職", "澳洲生活"]
+tags: ["英文面試", "澳洲求職必勝法則"]
 ---
-
-* * *
-
-### 澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略
 
 ![澳洲英文職場面試準備策略](images/medium-0*3NXkWf7Nc8zqLlyb.jpg)Photo by [LinkedIn Sales Solutions](https://unsplash.com/ja/@linkedinsalesnavigator?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

@@ -1,11 +1,11 @@
 ---
-title: 澳洲面試分享：跨國能源公司 DevOps 工程師 III：不好意思，我想要再加試一場！
+title: 澳洲面試心得：跨國能源公司 DevOps 工程師 III：不好意思，我想要再加試一場！
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-3"
 image: "images/medium-0*tXT9M2Ald1m5anwO.jpg"
 images: ['images/medium-0*tXT9M2Ald1m5anwO.jpg']
 categories: ["海外職場"]
-tags: ["DevOps 工程師","澳洲面試分享"]
+tags: ["DevOps 工程師","澳洲面試心得"]
 ---
 
 ![](images/medium-0*tXT9M2Ald1m5anwO.jpg)Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
@@ -14,9 +14,9 @@ tags: ["DevOps 工程師","澳洲面試分享"]
 
 還沒有看過前兩集的朋友，請看這邊：
 
-- [澳洲面試分享：跨國能源公司 DevOps 工程師 I：技術面試](/posts/2023-06-17-devops-interview-1/)
+- [澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試](/posts/2023-06-17-devops-interview-1/)
 
-- [澳洲面試分享：跨國能源公司 DevOps 工程師 II：行為面試](2023-06-17-devops-interview-2)
+- [澳洲面試心得：跨國能源公司 DevOps 工程師 II：行為面試](2023-06-17-devops-interview-2)
 
 ### 某個週三下午
 
