@@ -1,107 +1,77 @@
 {
-  "lastUpdated": "2025-10-15T19:33:43.957912",
-  "period": "Since 2023-01-01",
+  "lastUpdated": "2025-10-12T22:07:16.279685",
+  "period": "Last 30 days",
   "metrics": {
-    "totalPageViews": 6970,
-    "totalUsers": 1283,
-    "totalSessions": 1711
+    "totalPageViews": 6071,
+    "totalUsers": 862,
+    "totalSessions": 1207
   },
   "formatted": {
-    "totalPageViews": "6,970",
-    "totalUsers": "1,283",
-    "totalSessions": "1,711"
+    "totalPageViews": "6,071",
+    "totalUsers": "862",
+    "totalSessions": "1,207"
   },
   "topPages": [
     {
       "path": "/posts/2022-12-03-bootcamp-to-aws/",
       "title": "\u6587\u7d44\u8f49\u8077\u6fb3\u6d32 IT \u5de5\u7a0b\u5e2b\uff0c\u6211\u9760 Coding Bootcamp \u9032\u4e86 Amazon \u7576\u5de5\u7a0b\u5e2b\uff01 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 507
-    },
-    {
-      "path": "/posts/2018-01-03-ec-consultation/",
-      "title": "\u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC\uff1a\u5c08\u70ba\u8f49\u8077\u8005\u91cf\u8eab\u6253\u9020\u7684\u8077\u6daf\u8aee\u8a62\uff5c\u6d77\u5916\u8077\u5834\u00d7\u5c65\u6b77\u512a\u5316 \u00d7 \u9762\u8a66\u653b\u7565 \u00d7 DevOps/\u96f2\u7aef\u8077\u6daf | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 362
-    },
-    {
-      "path": "/posts/2018-01-02-ec-post-list/",
-      "title": "\u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC \u6587\u7ae0\u5217\u8868 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 235
-    },
-    {
-      "path": "/posts/2018-01-01-iam-ec/",
-      "title": "\u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC \uff5c\u5927\u5bb6\u597d\uff0c\u6211\u662f EC | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 184
-    },
-    {
-      "path": "/posts/2023-09-08-reflection-on-transition/",
-      "title": "\u8f49\u8077\u6210\u529f\u4e86\uff0c\u7136\u5f8c\u5462\uff1f\u5f9e\u6587\u7d44\u5230\u6fb3\u6d32 FAANG \u5de5\u7a0b\u5e2b\uff0c\u6211\u4f5c\u70ba\u300c\u5016\u5b58\u8005\u300d\u7684\u6399\u624e\u8207\u53cd\u601d | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 159
+      "views": 417
     },
     {
       "path": "/posts/2025-07-11-why-coding-bootcamp/",
       "title": "\u8f49\u8077 IT \u4e0d\u8e29\u96f7\uff1a\u6587\u7d44\u8f49\u8077\u5de5\u7a0b\u5e2b\u7684 Coding Bootcamp \u6311\u9078\u6307\u5357 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 150
-    },
-    {
-      "path": "/posts/2025-10-04-goodbye-medium/",
-      "title": "\u63b0\u63b0 Medium\uff01\u6211\u642c\u5bb6\u5230\u81ea\u67b6\u90e8\u843d\u683c\u5566 \ud83c\udf89 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 93
-    },
-    {
-      "path": "/posts/2025-07-23-refinance/",
-      "title": "\u6fb3\u6d32\u9996\u6b21\u7f6e\u696d\u6307\u5357\uff1aRefinance \u662f\u4ec0\u9ebc\uff0c\u53ef\u4ee5\u5403\u55ce\uff1f\u624b\u628a\u624b\u5e6b\u4f60\u91d0\u6e05\u623f\u8cb8\u8f49\u8cb8\u8003\u91cf\u8207\u601d\u8def\uff01 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 91
+      "views": 127
     }
   ],
   "topCountries": [
     {
       "country": "Taiwan",
-      "users": 957,
-      "percentage": 76.6
+      "users": 628,
+      "percentage": 75.1
     },
     {
       "country": "Australia",
-      "users": 123,
-      "percentage": 9.8
+      "users": 101,
+      "percentage": 12.1
     },
     {
       "country": "United States",
-      "users": 61,
+      "users": 41,
       "percentage": 4.9
     },
     {
       "country": "Hong Kong",
-      "users": 27,
-      "percentage": 2.2
+      "users": 19,
+      "percentage": 2.3
     },
     {
       "country": "Japan",
-      "users": 25,
-      "percentage": 2.0
-    },
-    {
-      "country": "United Kingdom",
       "users": 14,
-      "percentage": 1.1
+      "percentage": 1.7
     },
     {
-      "country": "Canada",
-      "users": 12,
+      "country": "Ireland",
+      "users": 8,
       "percentage": 1.0
     },
     {
       "country": "Singapore",
-      "users": 12,
-      "percentage": 1.0
+      "users": 7,
+      "percentage": 0.8
     },
     {
-      "country": "Ireland",
-      "users": 11,
-      "percentage": 0.9
+      "country": "United Kingdom",
+      "users": 7,
+      "percentage": 0.8
     },
     {
       "country": "Sweden",
-      "users": 7,
+      "users": 6,
+      "percentage": 0.7
+    },
+    {
+      "country": "Canada",
+      "users": 5,
       "percentage": 0.6
     }
   ],
