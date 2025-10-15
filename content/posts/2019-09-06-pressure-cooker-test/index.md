@@ -5,7 +5,7 @@ slug: "2019-09-06-pressure-cooker-test"
 image: "images/69692014_602334746967902_2410745854546673664_n.jpg"
 images: ['images/69692014_602334746967902_2410745854546673664_n.jpg', 'images/69920733_392338554991930_6859941603625140224_n.jpg', 'images/ec-app.JPG']
 categories: ["零基礎轉職澳洲工程師"]
-tags: [程式訓練營", "Coding Bootcamp"]
+tags: ["程式訓練營", "Coding Bootcamp"]
 ---
 
 ### 2019-09-05 & 2019-09-06

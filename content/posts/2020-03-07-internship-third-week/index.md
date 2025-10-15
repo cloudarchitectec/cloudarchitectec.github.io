@@ -5,7 +5,7 @@ slug: "2020-03-07-internship-third-week"
 image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
-tags: [程式訓練營", "Coding Bootcamp"]
+tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
 ---
 

@@ -9,6 +9,20 @@ import re
 from datetime import datetime
 from pathlib import Path
 
+# Config
+DEFAULT_TOP_POSTS = 8  # Number of top posts to keep
+DEFAULT_TOP_COUNTRIES = 10  # Number of top countries to keep
+
+# Time periods for analytics data
+# Start dates can be:
+# - Absolute dates in "YYYY-MM-DD" format (e.g., "2023-01-01")
+# - Relative dates like "NdaysAgo" (e.g., "30daysAgo")
+# - Special values like "today" or "yesterday"
+DEFAULT_MAIN_METRICS_PERIOD = "2023-01-01"  # Period for page views, users, sessions
+DEFAULT_COUNTRIES_PERIOD = "2023-01-01"     # Period for countries analysis
+DEFAULT_TOP_PAGES_PERIOD = "30daysAgo"     # Period for popular pages analysis
+DEFAULT_END_DATE = "today"                  # End date for all analytics periods
+
 def is_post_published(post_slug):
     """Check if a post is currently published (not draft) by reading its frontmatter"""
     try:
@@ -73,7 +87,7 @@ def quick_analytics_update():
         # Build the request for main metrics
         main_request = RunReportRequest(
             property=f"properties/{property_id}",
-            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            date_ranges=[DateRange(start_date=DEFAULT_MAIN_METRICS_PERIOD, end_date=DEFAULT_END_DATE)],
             metrics=[
                 Metric(name="screenPageViews"),
                 Metric(name="totalUsers"),
@@ -84,7 +98,7 @@ def quick_analytics_update():
         # Build the request for top pages
         pages_request = RunReportRequest(
             property=f"properties/{property_id}",
-            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            date_ranges=[DateRange(start_date=DEFAULT_TOP_PAGES_PERIOD, end_date=DEFAULT_END_DATE)],
             metrics=[Metric(name="screenPageViews")],
             dimensions=[
                 Dimension(name="pagePath"),
@@ -97,17 +111,17 @@ def quick_analytics_update():
             limit=20,  # Fetch more to filter out system pages, then take top 5
         )
         
-        # Build the request for top countries #TODO
+        # Build the request for top countries
         countries_request = RunReportRequest(
             property=f"properties/{property_id}",
-            date_ranges=[DateRange(start_date="90daysAgo", end_date="today")],
+            date_ranges=[DateRange(start_date=DEFAULT_COUNTRIES_PERIOD, end_date=DEFAULT_END_DATE)],
             metrics=[Metric(name="totalUsers")],
             dimensions=[Dimension(name="country")],
             order_bys=[OrderBy(
                 metric=OrderBy.MetricOrderBy(metric_name="totalUsers"),
                 desc=True
             )],
-            limit=10,
+            limit=DEFAULT_TOP_COUNTRIES,
         )
         
         # Run the reports
@@ -157,8 +171,8 @@ def quick_analytics_update():
                                     "views": page_views
                                 })
 
-        # Keep top 10 most popular posts
-        top_pages = top_pages[:10]
+        # Keep top N most popular posts
+        top_pages = top_pages[:DEFAULT_TOP_POSTS]
         
         # Extract top countries data
         top_countries = []
@@ -185,7 +199,7 @@ def quick_analytics_update():
         # Prepare data
         data = {
             "lastUpdated": datetime.now().isoformat(),
-            "period": "Last 30 days",
+            "period": f"Since {DEFAULT_MAIN_METRICS_PERIOD}",
             "metrics": {
                 "totalPageViews": views,
                 "totalUsers": users,

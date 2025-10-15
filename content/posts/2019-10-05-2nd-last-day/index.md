@@ -5,7 +5,7 @@ slug: "2019-10-05-2nd-last-day"
 image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
-tags: [程式訓練營", "Coding Bootcamp"]
+tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
 ---
 

@@ -5,7 +5,7 @@ slug: "2023-10-20-ivorys-rock"
 image: "images/medium-0*PCoJ-Bt57jcje8VH.jpg"
 images: ['images/medium-0*PCoJ-Bt57jcje8VH.jpg', 'images/medium-1*QHL554_H2WPCApfkYPymuA.jpeg.jpg', 'images/medium-1*EdUTjlQcoOL7Bl5YLSQlgg.jpeg.jpg', 'images/medium-1*f8gEPY6prbKaF3sZjuiFPg.jpeg.jpg', 'images/medium-1*TEbFVZ6ST0uyTaPcC9S4Bw.jpeg.jpg', 'images/medium-1*OzBtDbWfGdtFiPwEs6hBUg.jpeg.jpg', 'images/medium-1*0iw3EDTqN4ruET_pNCZZ9g.jpeg.jpg', 'images/medium-1*bqJrXdhSHXUUQLlgAdNgRQ.jpeg.jpg', 'images/medium-1*XjA_rNx_FUwwK3d3fUCDYA.jpeg.jpg', 'images/medium-1*1jgNUOk-pPseAm6Vk3yaTQ.jpeg.jpg']
 categories: ["旅行紀錄"]
-tags: ["澳洲","布里斯本"]
+tags: ["澳洲旅遊","布里斯本"]
 ---
 
 ![](images/medium-0*PCoJ-Bt57jcje8VH.jpg)Photo by [Tegan Mierle](https://unsplash.com/@tegan?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

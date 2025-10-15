@@ -5,7 +5,7 @@ slug: "2019-08-21-im-feeling-it"
 image: "images/medium-0*BSj9yl-OTGs5uKYD.jpg"
 images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
-tags: [程式訓練營", "Coding Bootcamp"]
+tags: ["程式訓練營", "Coding Bootcamp"]
 ---
 
 ![程式學習動力滿滿的一天](images/medium-0*BSj9yl-OTGs5uKYD.jpg)Photo by [Troy T](https://unsplash.com/@ttcollect?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

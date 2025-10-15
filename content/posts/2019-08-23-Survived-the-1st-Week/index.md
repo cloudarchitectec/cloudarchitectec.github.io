@@ -5,7 +5,7 @@ slug: "2019-08-23-survived-the-1st-week"
 image: "images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg"
 images: ['images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
-tags: [程式訓練營", "Coding Bootcamp"]
+tags: ["程式訓練營", "Coding Bootcamp"]
 ---
 
 ![程式訓練營第一週成功生存](images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpeg.jpg)

@@ -5,7 +5,7 @@ slug: "2019-10-25-symantec-field-trip"
 image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
-tags: [程式訓練營", "Coding Bootcamp"]
+tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
 ---
 
