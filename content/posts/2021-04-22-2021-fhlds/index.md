@@ -5,7 +5,7 @@ slug: "2021-04-22-2021-fhlds"
 image: "images/medium-0*tgP5H0td-4BCpX4d.jpg"
 images: ['images/medium-0*tgP5H0td-4BCpX4d.jpg']
 categories: ["投資理財"]
-tags: ["澳洲房地產","首次置業", "坎培拉"]
+tags: ["澳洲首次置業指南","澳洲房地產","坎培拉"]
 ---
 
 ![公寓](images/medium-0*tgP5H0td-4BCpX4d.jpg)Photo by [Francesca Tosolini](https://unsplash.com/@fromitaly?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

@@ -4,11 +4,9 @@ date: 2024-03-08
 slug: "2024-03-08-au-visa-options"
 image: "images/medium-0*w2i9_BUm90zNlp3e.jpg"
 images: ['images/medium-0*w2i9_BUm90zNlp3e.jpg']
-categories: ["投資理財"]
-tags: ["投資理財"]
+categories: ["澳洲生活"]
+tags: ["澳洲移民","澳洲簽證"]
 ---
-
-### 澳洲簽證種類分析：台灣人想要登入澳洲有哪些選項？
 
 ![澳洲簽證移民選項分析指南](images/medium-0*w2i9_BUm90zNlp3e.jpg)Photo by [mana5280](https://unsplash.com/@mana5280?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 

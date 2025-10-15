@@ -1,10 +1,8 @@
-# Cloud Architect EC
+# 澳洲雲端架構師 EC 的部落格 | Cloud Architect EC's Blog
 
-[![Site Deployment Status](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml)
+[![Blog Deployment](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml/badge.svg)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/blog-deployment.yml) [![Analytics Update](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/update-analytics.yml/badge.svg?branch=main)](https://github.com/cloudarchitectec/cloudarchitectec.github.io/actions/workflows/update-analytics.yml)
 
-> 澳洲雲端架構師 EC 的部落格 | Cloud Architect EC's Blog
-
-🌐 **Live Site**: [https://cloudarchitectec.github.io](https://cloudarchitectec.github.io)
+🌐 **Live Blog**: [https://cloudarchitectec.github.io](https://cloudarchitectec.github.io)
 
 ## About
 

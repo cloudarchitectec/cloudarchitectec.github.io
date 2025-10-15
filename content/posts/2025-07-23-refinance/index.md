@@ -5,12 +5,8 @@ slug: "2025-07-23-refinance"
 image: "images/medium-0*0JW321nq0m43VdhB.jpg"
 images: ['images/medium-0*0JW321nq0m43VdhB.jpg']
 categories: ["投資理財"]
-tags: ["澳洲房地產"]
+tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
 ---
-
-* * *
-
-### 澳洲首次置業指南：Refinance 是什麼，可以吃嗎？手把手幫你釐清房貸轉貸考量與思路！
 
 ![澳洲房貸轉貸利率比較](images/medium-0*0JW321nq0m43VdhB.jpg)Photo by [Kostiantyn Li](https://unsplash.com/@leekos?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
@@ -100,10 +96,7 @@ tags: ["澳洲房地產"]
 
 希望以上分享，對於正在考慮要不要轉貸的你們有所幫助，也歡迎大家留言跟我分享你們在澳洲的轉貸經驗！
 
-如果你對於澳洲房產投資有興趣，歡迎閲讀我之前分享的投資房鬼故事：
-
-[**好想要退休！土地為王？多災多難的澳洲投資房心路歷程**  
- _經歷一場不太成功，也不太失敗的公寓投資。EC 在布里斯本買了一棟帶土地的四房 house，如果你以為從此開始 EC…](/posts/2024-10-31-investment-property/)[](/posts/2024-10-31-investment-property/)
+如果你對於澳洲房產投資有興趣，歡迎閲讀我之前分享的投資房鬼故事：[**好想要退休！土地為王？多災多難的澳洲投資房心路歷程**](/posts/2024-10-31-investment-property/)
 
 或是留言告訴我你們想看的相關文章！只要有許願，就有機會實現喔～
 

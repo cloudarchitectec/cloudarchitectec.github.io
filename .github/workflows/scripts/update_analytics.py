@@ -9,6 +9,20 @@ import re
 from datetime import datetime
 from pathlib import Path
 
+# Config #TODO refactor
+# Time periods for analytics date - dates can be:
+# - Absolute dates in "YYYY-MM-DD" format (e.g., "2023-01-01")
+# - Relative dates like "NdaysAgo" (e.g., "30daysAgo")
+# - Special values like "today" or "yesterday"
+DEFAULT_MAIN_METRICS_PERIOD = "2023-01-01"  # Period for page views, users, sessions
+DEFAULT_COUNTRIES_PERIOD = "2023-01-01"     # Period for countries analysis
+DEFAULT_TOP_PAGES_PERIOD = "30daysAgo"     # Period for popular pages analysis
+DEFAULT_END_DATE = "today"                  # End date for all analytics periods
+DEFAULT_TOP_POSTS = 8  # Number of top posts to keep
+DEFAULT_TOP_COUNTRIES = 10  # Number of top countries to keep
+
+
+
 def is_post_published(post_slug):
     """Check if a post is currently published (not draft) by reading its frontmatter"""
     try:
@@ -73,7 +87,7 @@ def quick_analytics_update():
         # Build the request for main metrics
         main_request = RunReportRequest(
             property=f"properties/{property_id}",
-            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            date_ranges=[DateRange(start_date=DEFAULT_MAIN_METRICS_PERIOD, end_date=DEFAULT_END_DATE)],
             metrics=[
                 Metric(name="screenPageViews"),
                 Metric(name="totalUsers"),
@@ -84,7 +98,7 @@ def quick_analytics_update():
         # Build the request for top pages
         pages_request = RunReportRequest(
             property=f"properties/{property_id}",
-            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            date_ranges=[DateRange(start_date=DEFAULT_TOP_PAGES_PERIOD, end_date=DEFAULT_END_DATE)],
             metrics=[Metric(name="screenPageViews")],
             dimensions=[
                 Dimension(name="pagePath"),
@@ -100,14 +114,14 @@ def quick_analytics_update():
         # Build the request for top countries
         countries_request = RunReportRequest(
             property=f"properties/{property_id}",
-            date_ranges=[DateRange(start_date="30daysAgo", end_date="today")],
+            date_ranges=[DateRange(start_date=DEFAULT_COUNTRIES_PERIOD, end_date=DEFAULT_END_DATE)],
             metrics=[Metric(name="totalUsers")],
             dimensions=[Dimension(name="country")],
             order_bys=[OrderBy(
                 metric=OrderBy.MetricOrderBy(metric_name="totalUsers"),
                 desc=True
             )],
-            limit=10,
+            limit=DEFAULT_TOP_COUNTRIES,
         )
         
         # Run the reports
@@ -145,25 +159,20 @@ def quick_analytics_update():
                             # Filter out system/navigation pages - only include posts with date-based slugs
                             # and exclude the main navigation pages (about, consultation, etc.)
                             excluded_slugs = [
-                                '2018-01-01-iam-ec',      # About EC page
-                                '2018-01-02-ec-post-list', # Post list page  
-                                '2018-01-03-ec-consultation', # Consultation page
                                 '2018-01-04-popular-posts'    # Popular posts page
                             ]
                             
-                            # Only include if it's not in excluded list, has reasonable view count,
-                            # and the post is currently published (not draft)
+                            # Only include if not in excluded list and not draft
                             if (post_slug not in excluded_slugs and 
-                                page_views >= 100 and 
                                 is_post_published(post_slug)):
                                 top_pages.append({
                                     "path": path,
                                     "title": title,
                                     "views": page_views
                                 })
-        
-        # Keep only top 5 most popular posts
-        top_pages = top_pages[:5]
+
+        # Keep top N most popular posts
+        top_pages = top_pages[:DEFAULT_TOP_POSTS]
         
         # Extract top countries data
         top_countries = []
@@ -190,7 +199,7 @@ def quick_analytics_update():
         # Prepare data
         data = {
             "lastUpdated": datetime.now().isoformat(),
-            "period": "Last 30 days",
+            "period": f"Since {DEFAULT_MAIN_METRICS_PERIOD}",
             "metrics": {
                 "totalPageViews": views,
                 "totalUsers": users,

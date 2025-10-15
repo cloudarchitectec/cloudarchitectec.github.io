@@ -1,14 +1,7 @@
 name: Update Analytics Data
 
 on:
-  # Trigger 1: Weekly schedule (configurable)
-  schedule:
-    # Run every Sunday at 2 AM UTC (change cron below to modify frequency)
-    # Examples: '0 2 * * 0' (weekly), '0 2 * * *' (daily), '0 2 1 * *' (monthly)
-    - cron: '0 2 * * 0'
-  
-  # Trigger 2: Manual run
-  workflow_dispatch:
+  workflow_dispatch: # Manual trigger
     inputs:
       force_update:
         description: 'Force update even if data is recent'
@@ -78,12 +71,16 @@ jobs:
       - name: Push changes
         if: steps.check_update.outputs.skip_update != 'true'
         run: |
-          # Push if there are committed changes
-          if [[ $(git log --oneline -1 --grep="📊 Update analytics") ]]; then
-            git push
-            echo "✅ Analytics data pushed to repository"
+          # Only push if we're on the main branch and have committed changes
+          if [[ "$GITHUB_REF" == "refs/heads/main" ]]; then
+            if [[ $(git log --oneline -1 --grep="📊 Update analytics") ]]; then
+              git push
+              echo "✅ Analytics data pushed to repository"
+            else
+              echo "📊 No analytics changes to push"
+            fi
           else
-            echo "📊 No analytics changes to push"
+            echo "⏭️ Skipping push - not on main branch (current: ${GITHUB_REF#refs/heads/})"
           fi
           
       - name: Output summary
