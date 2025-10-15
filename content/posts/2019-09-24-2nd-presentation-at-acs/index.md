@@ -1,5 +1,5 @@
 ---
-title: "零基礎轉職澳洲工程師: 2019.09.24 2nd Presentation at ACS"
+title: "零基礎轉職澳洲工程師: 2019.09.23-24 個人網站成果發表"
 date: 2019-09-24
 slug: "2019-09-24-2nd-presentation-at-acs"
 image: ""
