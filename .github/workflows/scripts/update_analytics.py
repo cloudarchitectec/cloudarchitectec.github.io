@@ -9,12 +9,8 @@ import re
 from datetime import datetime
 from pathlib import Path
 
-# Config
-DEFAULT_TOP_POSTS = 8  # Number of top posts to keep
-DEFAULT_TOP_COUNTRIES = 10  # Number of top countries to keep
-
-# Time periods for analytics data
-# Start dates can be:
+# Config #TODO refactor
+# Time periods for analytics date - dates can be:
 # - Absolute dates in "YYYY-MM-DD" format (e.g., "2023-01-01")
 # - Relative dates like "NdaysAgo" (e.g., "30daysAgo")
 # - Special values like "today" or "yesterday"
@@ -22,6 +18,10 @@ DEFAULT_MAIN_METRICS_PERIOD = "2023-01-01"  # Period for page views, users, sess
 DEFAULT_COUNTRIES_PERIOD = "2023-01-01"     # Period for countries analysis
 DEFAULT_TOP_PAGES_PERIOD = "30daysAgo"     # Period for popular pages analysis
 DEFAULT_END_DATE = "today"                  # End date for all analytics periods
+DEFAULT_TOP_POSTS = 8  # Number of top posts to keep
+DEFAULT_TOP_COUNTRIES = 10  # Number of top countries to keep
+
+
 
 def is_post_published(post_slug):
     """Check if a post is currently published (not draft) by reading its frontmatter"""
