@@ -212,13 +212,14 @@ function copyPageUrl(button) {
 
 function shareFacebook(button) {
   const url = button.getAttribute('data-url');
-  window.open(`https://facebook.com/sharer/sharer.php?u=${url}`);
+  const title = button.getAttribute('data-title');
+  window.open(`https://facebook.com/sharer/sharer.php?u=${url}&quote=${title}`);
 }
 
 function shareThreads(button) {
   const url = button.getAttribute('data-url');
   const title = button.getAttribute('data-title');
-  window.open(`https://threads.net/intent/post?text=${title}%20${url}`);
+  window.open(`https://threads.net/intent/post?text=<澳洲雲端架構師 EC>%0A${title}%20${url}`);
 }
 
 function shareEmail(button) {
