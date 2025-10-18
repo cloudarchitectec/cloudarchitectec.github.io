@@ -5,7 +5,7 @@ slug: "2023-04-15-interview-ending-questions"
 image: "images/medium-0*e6sW2xjAmuheAzMv.jpg"
 images: ['images/medium-0*e6sW2xjAmuheAzMv.jpg']
 categories: ["海外職場"]
-tags: ["澳洲求職必勝法則","面試"]
+tags: ["澳洲求職必勝法則","英文面試"]
 ---
 
 ![澳洲英文職場面試技巧策略](images/medium-0*e6sW2xjAmuheAzMv.jpg)Photo by [Christina @ wocintechchat.com](https://unsplash.com/it/@wocintechchat?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)

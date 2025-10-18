@@ -5,7 +5,7 @@ slug: "2023-05-11-phone-screening"
 image: "images/medium-0*VtTwo_4RcFVfiCkx.jpg"
 images: ['images/medium-0*VtTwo_4RcFVfiCkx.jpg']
 categories: ["海外職場"]
-tags: ["澳洲求職必勝法則","面試"]
+tags: ["澳洲求職必勝法則","英文面試"]
 ---
 
 ![Two people facing each other and smiling](images/medium-0*VtTwo_4RcFVfiCkx.jpg)Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
