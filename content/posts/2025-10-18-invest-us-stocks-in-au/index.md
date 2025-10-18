@@ -3,8 +3,8 @@ title: "好想要退休！在澳洲想投資美股該如何進行？直接買美
 date: 2025-10-18
 slug: "2025-10-18-invest-us-stocks-in-au"
 categories: ["投資理財"]
-image: "black-flat-computer-monitor.jpg"
-images: ["black-flat-computer-monitor.jpg"]
+image: "images/black-flat-computer-monitor.jpg"
+images: ["images/black-flat-computer-monitor.jpg"]
 tags: ["ETF","FIRE","好想要退休"]
 ---
 
