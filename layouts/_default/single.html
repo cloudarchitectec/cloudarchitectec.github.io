@@ -37,7 +37,7 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
-  {{- partial "share-buttons.html" . }}
+  {{- partial "share_buttons.html" . }}
 
   {{- if .Content }}
   <div class="post-content">
@@ -63,7 +63,7 @@
   
   {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
   <div style="margin-top: 2rem;">
-    {{- partial "share_icons.html" . -}}
+    {{- partial "social_icons.html" . -}}
   </div>
   {{- end }}
   

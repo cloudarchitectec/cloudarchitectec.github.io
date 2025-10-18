@@ -1,7 +1,7 @@
 {{- $pageurl := .Permalink }}
 {{- $title := .Title }}
 
-<div class="medium-share-buttons">
+<div class="medium-share_buttons">
   <button class="share-toggle-button" aria-label="Share post" aria-expanded="false">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
@@ -162,13 +162,13 @@ document.addEventListener('DOMContentLoaded', function() {
         className: e.target.className,
         isButton: !!e.target.closest('.share-toggle-button'),
         isDropdown: !!e.target.closest('.share-dropdown'),
-        isShareButtons: !!e.target.closest('.medium-share-buttons')
+        isShareButtons: !!e.target.closest('.medium-share_buttons')
       });
       logState();
     }, 'document click handler');
     
     const openDropdown = document.querySelector('.share-dropdown.show');
-      if (openDropdown && !e.target.closest('.medium-share-buttons')) {
+      if (openDropdown && !e.target.closest('.medium-share_buttons')) {
         handleError(() => {
           console.log('Closing dropdown due to outside click');
           const button = openDropdown.previousElementSibling;
@@ -195,7 +195,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function copyPageUrl(button) {
   const url = button.getAttribute('data-url');
   navigator.clipboard.writeText(url).then(() => {
-    const tooltip = button.closest('.medium-share-buttons').querySelector('.copy-tooltip');
+    const tooltip = button.closest('.medium-share_buttons').querySelector('.copy-tooltip');
     tooltip.setAttribute('aria-hidden', 'false');
     tooltip.style.display = 'block';
     setTimeout(() => tooltip.classList.add('show'), 10);
@@ -229,7 +229,7 @@ function shareEmail(button) {
 </script>
 
 <style>
-.medium-share-buttons {
+.medium-share_buttons {
   position: relative;
   display: flex;
   justify-content: flex-end;
