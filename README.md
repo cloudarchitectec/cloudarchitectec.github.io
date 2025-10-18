@@ -6,7 +6,7 @@
 
 ## About
 
-This repository hosts the source code for Cloud Architect EC's technical blog, built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
+This repository hosts the source code for Cloud Architect EC's blog, built with [Hugo](https://gohugo.io/) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
 
 ### Topics Covered
 - ☁️ Cloud Architecture (AWS, Azure)

@@ -37,6 +37,8 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
+  {{- partial "share-buttons.html" . }}
+
   {{- if .Content }}
   <div class="post-content">
     {{- if not (.Param "disableAnchoredHeadings") }}

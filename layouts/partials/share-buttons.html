@@ -1,0 +1,367 @@
+{{- $pageurl := .Permalink }}
+{{- $title := .Title }}
+
+<div class="medium-share-buttons">
+  <button class="share-toggle-button" aria-label="Share post" aria-expanded="false">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
+      <polyline points="16 6 12 2 8 6"></polyline>
+      <line x1="12" y1="2" x2="12" y2="15"></line>
+    </svg>
+  </button>
+  <div class="share-dropdown" aria-hidden="true">
+    <button class="share-option copy-link" onclick="copyPageUrl(this)" aria-label="Copy link" data-url="{{ $pageurl }}">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+      </svg>
+      <span>Copy link</span>
+    </button>
+    <button class="share-option facebook" onclick="shareFacebook(this)" aria-label="Share on Facebook" data-url="{{ $pageurl }}">
+      <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="24px" width="24px" fill="currentColor">
+        <path d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z"/>
+      </svg>
+      <span>Share on Facebook</span>
+    </button>
+    <button class="share-option threads" onclick="shareThreads(this)" aria-label="Share on Threads" data-url="{{ $pageurl }}" data-title="{{ $title }}">
+      <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="24px" width="24px" fill="currentColor">
+        <rect width="512" height="512" rx="62.554" fill="currentColor"/>
+        <text x="256" y="320" text-anchor="middle" font-size="280" font-family="Arial, sans-serif" fill="white">@</text>
+      </svg>
+      <span>Share on Threads</span>
+    </button>
+    <button class="share-option email" onclick="shareEmail(this)" aria-label="Share via Email" data-url="{{ $pageurl }}" data-title="{{ $title }}">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+        <polyline points="22,6 12,13 2,6"></polyline>
+      </svg>
+      <span>Share via Email</span>
+    </button>
+  </div>
+  <div class="copy-tooltip" aria-hidden="true">Link copied!</div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('Share buttons initialized');
+  let isTransitioning = false;
+  let currentDropdown = null;
+  let lastClickTime = 0;
+  
+  // Error handling wrapper
+  const handleError = (fn, context) => {
+    try {
+      fn();
+    } catch (error) {
+      console.error(`Error in ${context}:`, error);
+      isTransitioning = false;  // Reset state on error
+    }
+  };
+
+  // Debug state tracker
+  const logState = () => {
+    const dropdowns = document.querySelectorAll('.share-dropdown');
+    console.log('Current State:', {
+      isTransitioning,
+      currentDropdown: currentDropdown?.classList.contains('show'),
+      openDropdowns: Array.from(dropdowns).filter(d => d.classList.contains('show')).length,
+      lastClickTime
+    });
+  };
+  
+  // Handle toggle button clicks
+  document.querySelectorAll('.share-toggle-button').forEach(button => {
+    button.addEventListener('click', function(e) {
+      handleError(() => {
+        console.log('Share button clicked');
+        e.stopPropagation();
+        e.preventDefault();
+        
+        // Debounce clicks
+        const now = Date.now();
+        if (now - lastClickTime < 300) {
+          console.log('Click debounced');
+          return;
+        }
+        lastClickTime = now;
+        
+        logState();
+      
+      if (isTransitioning) {
+        console.log('Transition in progress, ignoring click');
+        return;
+      }
+      
+      const dropdown = this.nextElementSibling;
+      const isExpanded = this.getAttribute('aria-expanded') === 'true';
+      console.log('Current state:', { isExpanded, isTransitioning });
+      
+      isTransitioning = true;
+      
+      if (isExpanded) {
+        console.log('Hiding dropdown');
+        // Hide dropdown
+        this.setAttribute('aria-expanded', 'false');
+        dropdown.setAttribute('aria-hidden', 'true');
+        dropdown.classList.remove('show');
+        
+        // Clear current dropdown reference
+        currentDropdown = null;
+        
+        setTimeout(() => {
+          if (!dropdown.classList.contains('show')) {  // Check if still hidden
+            dropdown.style.display = 'none';
+          }
+          isTransitioning = false;
+          console.log('Hide transition complete');
+        }, 300);
+      } else {
+        console.log('Showing dropdown');
+        
+        // Close any other open dropdown first
+        if (currentDropdown && currentDropdown !== dropdown) {
+          const prevButton = currentDropdown.previousElementSibling;
+          prevButton.setAttribute('aria-expanded', 'false');
+          currentDropdown.setAttribute('aria-hidden', 'true');
+          currentDropdown.classList.remove('show');
+          currentDropdown.style.display = 'none';
+        }
+        
+        // Show dropdown
+        this.setAttribute('aria-expanded', 'true');
+        dropdown.setAttribute('aria-hidden', 'false');
+        dropdown.style.display = 'flex';
+        currentDropdown = dropdown;
+        
+        // Force a reflow
+        dropdown.offsetHeight;
+        
+        requestAnimationFrame(() => {
+          dropdown.classList.add('show');
+          setTimeout(() => {
+            isTransitioning = false;
+            console.log('Show transition complete');
+          }, 300);
+        });
+      }
+    }, { capture: true });
+  });
+
+  // Prevent dropdown from closing when clicking inside
+  document.querySelectorAll('.share-dropdown').forEach(dropdown => {
+    dropdown.addEventListener('click', e => {
+      e.stopPropagation();
+    });
+  });
+
+  // Close dropdown when clicking outside
+  document.addEventListener('click', function(e) {
+    handleError(() => {
+      console.log('Document click detected', {
+        target: e.target.tagName,
+        className: e.target.className,
+        isButton: !!e.target.closest('.share-toggle-button'),
+        isDropdown: !!e.target.closest('.share-dropdown'),
+        isShareButtons: !!e.target.closest('.medium-share-buttons')
+      });
+      logState();
+    }, 'document click handler');
+    
+    const openDropdown = document.querySelector('.share-dropdown.show');
+      if (openDropdown && !e.target.closest('.medium-share-buttons')) {
+        handleError(() => {
+          console.log('Closing dropdown due to outside click');
+          const button = openDropdown.previousElementSibling;
+          button.setAttribute('aria-expanded', 'false');
+          openDropdown.setAttribute('aria-hidden', 'true');
+          openDropdown.classList.remove('show');
+          currentDropdown = null;
+          isTransitioning = true;
+          
+          setTimeout(() => {
+            if (!openDropdown.classList.contains('show')) {
+              openDropdown.style.display = 'none';
+            }
+            isTransitioning = false;
+            console.log('Outside click close complete');
+            logState();
+          }, 300);
+        }, 'outside click close');
+      }
+    });
+  }, { capture: true });
+});
+
+function copyPageUrl(button) {
+  const url = button.getAttribute('data-url');
+  navigator.clipboard.writeText(url).then(() => {
+    const tooltip = button.closest('.medium-share-buttons').querySelector('.copy-tooltip');
+    tooltip.setAttribute('aria-hidden', 'false');
+    tooltip.style.display = 'block';
+    setTimeout(() => tooltip.classList.add('show'), 10);
+    
+    setTimeout(() => {
+      tooltip.classList.remove('show');
+      setTimeout(() => {
+        tooltip.style.display = 'none';
+        tooltip.setAttribute('aria-hidden', 'true');
+      }, 300);
+    }, 2000);
+  });
+}
+
+function shareFacebook(button) {
+  const url = button.getAttribute('data-url');
+  window.open(`https://facebook.com/sharer/sharer.php?u=${url}`);
+}
+
+function shareThreads(button) {
+  const url = button.getAttribute('data-url');
+  const title = button.getAttribute('data-title');
+  window.open(`https://threads.net/intent/post?text=${title}%20${url}`);
+}
+
+function shareEmail(button) {
+  const url = button.getAttribute('data-url');
+  const title = button.getAttribute('data-title');
+  window.open(`mailto:?subject=${title}&body=${title}%0A${url}`);
+}
+</script>
+
+<style>
+.medium-share-buttons {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.share-toggle-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  padding: 8px;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  color: #757575;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.share-toggle-button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #333;
+}
+
+.share-dropdown {
+  display: none;
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 4px;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  flex-direction: column;
+  min-width: 200px;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.share-dropdown.show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.share-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 16px;
+  border: none;
+  background: none;
+  color: #333;
+  font-size: 14px;
+  text-align: left;
+  cursor: pointer;
+  width: 100%;
+  transition: background-color 0.2s ease;
+}
+
+.share-option:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.share-option svg {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+}
+
+.copy-tooltip {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%) translateY(8px);
+  margin-top: 8px;
+  padding: 6px 12px;
+  border-radius: 4px;
+  background-color: #333;
+  color: white;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.copy-tooltip.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+.copy-tooltip::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: 50%;
+  margin-left: -4px;
+  border-width: 0 4px 4px;
+  border-style: solid;
+  border-color: transparent transparent #333;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .share-toggle-button {
+    color: #a0a0a0;
+  }
+
+  .share-toggle-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #e0e0e0;
+  }
+
+  .share-dropdown {
+    background-color: #1a1a1a;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .share-option {
+    color: #e0e0e0;
+  }
+
+  .share-option:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+}
+</style>
