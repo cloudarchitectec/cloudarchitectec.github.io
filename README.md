@@ -74,6 +74,9 @@ This repository hosts the source code for Cloud Architect EC's technical blog, b
 - Added google stats on landing page
 - Added popular posts page
 
+2025.10.18
+- Commented out image generation code in python/script/automated_blog_converter.py as it's currently broken
+
 ## License
 
 Content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

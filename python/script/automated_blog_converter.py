@@ -4,6 +4,7 @@ Automates the creation of Hugo blog posts from markdown files with Unsplash imag
 """
 
 import re
+import os
 import click
 import requests
 import shutil
@@ -13,6 +14,7 @@ from pathlib import Path
 from slugify import slugify
 from PIL import Image
 import json
+from bs4 import BeautifulSoup
 
 # Suppress urllib3 warning on macOS
 warnings.filterwarnings('ignore', message='urllib3 v2 only supports OpenSSL 1.1.1+')
@@ -32,23 +34,128 @@ HUGO_CONTENT_DIR = PROJECT_ROOT / "content" / "posts"
 def get_unsplash_image_from_url(photo_url):
     """Extract image info from Unsplash photo URL and get download link."""
     
-    # Extract photo ID from URL
-    photo_id_match = re.search(r'/photos/.*?([a-zA-Z0-9_-]{11})/?(?:\?|$)', photo_url)
-    if not photo_id_match:
+    click.echo("\n=== URL Processing Debug Info ===")
+    click.echo(f"Input URL: {photo_url}")
+    
+    click.echo("\n=== URL Processing Debug Info ===")
+    click.echo(f"Input URL: {photo_url}")
+    
+    # Extract photo ID and description from URL
+    photo_id = None
+    description = None
+    
+    # Clean up the URL first
+    clean_url = photo_url.strip()
+    if '?' in clean_url:
+        clean_url = clean_url.split('?')[0]
+    
+    # Extract both description and ID
+    parts = clean_url.split('/photos/')
+    if len(parts) > 1:
+        # Get everything after /photos/
+        full_slug = parts[1].strip()
+        
+        # Find the last part which should be the ID
+        if '-' in full_slug:
+            # Format with description
+            slug_parts = full_slug.split('-')
+            potential_id = slug_parts[-1]
+            if len(potential_id) == 11:  # Standard Unsplash ID length
+                photo_id = potential_id
+                # Join all parts except the last one to get description
+                description = '-'.join(slug_parts[:-1])
+        else:
+            # Format without description
+            if len(full_slug) == 11:  # Direct ID format
+                photo_id = full_slug
+    
+    # If still no photo_id, try regex as fallback
+    if not photo_id:
+        patterns = [
+            r'/photos/(?:.*?-)?([a-zA-Z0-9_-]{11})/?(?:\?|$)',  # Matches both formats
+            r'([a-zA-Z0-9_-]{11})/?$'  # Just the ID at the end
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, clean_url)
+            if match:
+                photo_id = match.group(1)
+                break
+    
+    if photo_id:
+        click.echo(f"📷 Extracted photo ID: {photo_id}")
+        
+        # Process description for alt text if available
+        if description:
+            # Convert hyphens to spaces and clean up
+            alt_text = description.replace('-', ' ').strip()
+            # Take first few meaningful words
+            words = re.findall(r'\b[a-zA-Z]{3,}\b', alt_text.lower())
+            alt_text = ' '.join(words[:3]) if words else "image"  # Use up to 3 words
+            click.echo(f"📝 Generated alt text from description: {alt_text}")
+        else:
+            alt_text = "image"
+            click.echo("ℹ️ No description found in URL, using default alt text")
+    
+    if not photo_id:
         click.echo(f"❌ Could not extract photo ID from URL: {photo_url}")
         return None
     
-    photo_id = photo_id_match.group(1)
-    click.echo(f"📷 Extracted photo ID: {photo_id}")
-    
-    # Unsplash direct download URL (no API key needed)
-    download_url = f"https://unsplash.com/photos/{photo_id}/download"
+    try:
+        # Get the photographer info from the page
+        response = requests.get(photo_url, timeout=10)
+        response.raise_for_status()
+        page_content = response.text
+        
+        # Extract photographer info
+        username_match = re.search(r'"username":"([^"]*)"', page_content)
+        name_match = re.search(r'"name":"([^"]*)"', page_content)
+        username = username_match.group(1) if username_match else "photographer"
+        photographer_name = name_match.group(1) if name_match else username
+        
+        # Try to get a better alt text from the page if available
+        alt_match = re.search(r'"alt_description":"([^"]*)"', page_content)
+        if alt_match and alt_match.group(1):
+            page_alt_text = alt_match.group(1).lower()
+            words = re.findall(r'\b[a-zA-Z]{3,}\b', page_alt_text)
+            if words:
+                alt_text = " ".join(words[:3])  # Use up to 3 words from page description
+        
+        # Create image info dictionary with clean URLs
+        image_info = {
+            "photo_id": photo_id,
+            "download_url": f"https://images.unsplash.com/photo-{photo_id}?ixlib=rb-4.0.3&q=85&w=1400&fit=crop",
+            "photo_url": photo_url,
+            "alt_description": alt_text,
+            "photographer": photographer_name,
+            "photographer_url": f"https://unsplash.com/@{username}"
+        }
+        
+        click.echo(f"✅ Alt text: '{alt_text}'")
+        click.echo(f"👨‍💻 Photographer: {photographer_name} (@{username})")
+        return image_info
+        
+    except Exception as e:
+        click.echo(f"⚠️ Error getting metadata: {e}")
+        # Return basic info if metadata fetch fails
+        return {
+            "photo_id": photo_id,
+            "download_url": f"https://images.unsplash.com/photo-{photo_id}",
+            "photo_url": photo_url,
+            "alt_description": "image",
+            "photographer": "Unsplash Photographer",
+            "photographer_url": "https://unsplash.com"
+        }
     
     try:
-        # Get the actual download URL from redirect
-        response = requests.head(download_url, timeout=10, allow_redirects=True)
+        # First try to get image metadata to get the best URL
+        response = requests.get(photo_url, timeout=10)
         response.raise_for_status()
-        actual_download_url = response.url if response.history else download_url
+        page_content = response.text
+        
+        # Try to find the optimized image URL
+        img_url_match = re.search(r'"regular":"([^"]+)"', page_content)
+        actual_download_url = img_url_match.group(1) if img_url_match else download_url
         
         # Try to get photographer and alt text from the page
         click.echo("🔍 Extracting photographer info...")
@@ -134,8 +241,26 @@ def create_meaningful_filename(description_or_url):
 
 
 def extract_title_from_content(content):
-    """Extract the first heading from markdown content."""
+    """Extract title from content, first trying front matter, then headings."""
     lines = content.strip().split('\n')
+    
+    # First try to get title from front matter
+    in_front_matter = False
+    for line in lines:
+        line = line.strip()
+        if line == '---':
+            in_front_matter = not in_front_matter
+            continue
+        if in_front_matter and line.startswith('title:'):
+            # Extract title, handling both quoted and unquoted titles
+            title = line[6:].strip()
+            if title.startswith('"') and title.endswith('"'):
+                title = title[1:-1]
+            elif title.startswith("'") and title.endswith("'"):
+                title = title[1:-1]
+            return title
+    
+    # If no title in front matter, try headings
     for line in lines:
         line = line.strip()
         if line.startswith('# '):
@@ -148,7 +273,7 @@ def extract_title_from_content(content):
     # If no heading found, use first non-empty line
     for line in lines:
         line = line.strip()
-        if line and not line.startswith('#'):
+        if line and not line.startswith('#') and line != '---':
             return line[:50] + "..." if len(line) > 50 else line
     
     return "Untitled Post"
@@ -156,31 +281,150 @@ def extract_title_from_content(content):
 
 def download_image(image_info, output_path):
     """Download and save an image."""
-    click.echo(f"⬇️  Downloading from: {image_info['download_url']}")
-    click.echo(f"💾 Saving to: {output_path}")
+    click.echo("\n=== Image Download Debug Info ===")
+    click.echo("Image Info Dictionary:")
+    for key, value in image_info.items():
+        click.echo(f"  {key}: {value}")
     
-    try:
-        response = requests.get(image_info["download_url"], timeout=30)
-        response.raise_for_status()
-        
-        click.echo(f"📦 Downloaded {len(response.content)} bytes")
-        
-        with open(output_path, 'wb') as f:
-            f.write(response.content)
-        
-        # Verify image is valid
-        with Image.open(output_path) as img:
-            img.verify()
-        
-        click.echo(f"✅ Image verified and saved successfully")
-        return True
-        
-    except Exception as e:
-        click.echo(f"❌ Error downloading image: {e}")
-        if output_path.exists():
-            output_path.unlink()
-            click.echo(f"🗑️  Cleaned up failed download")
+    if 'photo_id' not in image_info:
+        click.echo("❌ Error: photo_id missing from image_info dictionary")
         return False
+        
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36',
+        'Accept': 'image/webp,image/apng,image/*,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Referer': 'https://unsplash.com/'
+    }
+    
+    # Check if it's a premium photo using image_info
+    if any(premium_indicator in image_info['photo_url'] 
+           for premium_indicator in ['plus.unsplash.com', 'premium_photo']):
+        click.echo("\n❌ This appears to be a premium Unsplash photo which cannot be downloaded for free.")
+        click.echo("Please provide a URL to a free photo instead.")
+        return None
+
+    # Try to get the actual image URL from the photo page first
+    try:
+        click.echo("\nFetching image URL from photo page...")
+        page_response = requests.get(image_info['photo_url'], headers=headers, timeout=30)
+        page_content = page_response.text
+        
+        # Check response for premium indicators
+        if 'premium_photo' in page_content or 'plus.unsplash.com' in page_content:
+            click.echo("\n❌ This appears to be a premium Unsplash photo which cannot be downloaded for free.")
+            click.echo("Please provide a URL to a free photo instead.")
+            return None
+        
+        # Try multiple patterns to find the image URL
+        patterns = [
+            r'"regular":"(https://images\.unsplash\.com/photo-[^"]+)"',  # New pattern for regular size
+            r'"url":"(https://images\.unsplash\.com/photo-[^"]+)"',
+            r'srcSet="(https://images\.unsplash\.com/photo-[^?"]+)',
+            r'<meta property="og:image" content="([^"]+)"',
+            r'<img class="[^"]*" src="(https://images\.unsplash\.com/photo-[^"]+)"'  # Direct image src
+        ]
+        
+        # Extract timestamp and photo ID pattern from the page
+        timestamp_pattern = r'"uploadedAt":"([^"]+)"'
+        timestamp_match = re.search(timestamp_pattern, page_content)
+        timestamp = ""
+        if timestamp_match:
+            try:
+                timestamp = datetime.fromisoformat(timestamp_match.group(1).replace('Z', '+00:00')).strftime('%s')
+            except ValueError:
+                pass
+
+        found_url = None
+        for pattern in patterns:
+            matches = re.finditer(pattern, page_content)
+            for match in matches:
+                potential_url = match.group(1)
+                if image_info['photo_id'] in potential_url:
+                    found_url = potential_url
+                    break
+            if found_url:
+                break
+        
+        if found_url:
+            # Clean up the URL and add quality parameters
+            base_url = found_url.split('?')[0]  # Remove any existing parameters
+            url_formats = [
+                f"{base_url}?q=85&w=1400&fit=crop&ixlib=rb-4.0.3",
+                f"{base_url}?q=80&w=1000&auto=format&ixlib=rb-4.0.3",
+                base_url  # Try the direct URL as well
+            ]
+            click.echo(f"Found direct image URL: {url_formats[0]}")
+        else:
+            # Try to extract download URL from photo page
+            page_response = requests.get(image_info['photo_url'], headers=headers, timeout=30)
+            soup = BeautifulSoup(page_response.text, 'html.parser')
+            
+            # Look for the download button or meta tags
+            download_link = soup.find('a', {'data-test': 'photo-download'})
+            if download_link and 'href' in download_link.attrs:
+                url_formats = [download_link['href']]
+                click.echo(f"Found download URL from page: {url_formats[0]}")
+            else:
+                # Fallback to constructed URLs
+                url_formats = [
+                    f"https://images.unsplash.com/photo-{image_info['photo_id']}?ixlib=rb-4.0.3&q=85&w=1400&fit=crop",
+                    f"https://images.unsplash.com/photo-{image_info['photo_id']}?ixlib=rb-4.0.3&q=80&w=1000",
+                    f"https://source.unsplash.com/{image_info['photo_id']}/1400x1000"
+                ]
+                click.echo("⚠️ Using constructed URLs")
+    except Exception as e:
+        click.echo(f"⚠️ Failed to fetch photo page, using fallback URLs: {e}")
+        url_formats = [
+            f"https://images.unsplash.com/photo-{image_info['photo_id']}?ixlib=rb-4.0.3&q=85&w=1400&fit=crop",
+            f"https://source.unsplash.com/{image_info['photo_id']}/1400x1000"
+        ]
+    
+    click.echo("\nTrying multiple URL formats:")
+    for url in url_formats:
+        try:
+            click.echo(f"\nAttempting to download from: {url}")
+            response = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
+            click.echo(f"Status Code: {response.status_code}")
+            click.echo(f"Response Headers: {dict(response.headers)}")
+            
+            if response.status_code == 200:
+                # Check if we got an image
+                content_type = response.headers.get('Content-Type', '').lower()
+                if not ('image/' in content_type or content_type.endswith('jpeg') or content_type.endswith('jpg')):
+                    click.echo(f"❌ Received non-image content type: {content_type}")
+                    continue
+                
+                # Save the image
+                with open(output_path, 'wb') as f:
+                    f.write(response.content)
+                
+                click.echo(f"📦 Downloaded {len(response.content)} bytes")
+                
+                # Verify the downloaded image
+                try:
+                    with Image.open(output_path) as img:
+                        # Actually load the image to verify it
+                        img.load()
+                        img.verify()
+                    click.echo("✅ Image verified successfully")
+                    return True
+                except Exception as e:
+                    click.echo(f"❌ Downloaded file is not a valid image: {e}")
+                    if os.path.exists(output_path):
+                        os.remove(output_path)
+            else:
+                click.echo(f"❌ Failed with status code: {response.status_code}")
+        
+        except Exception as e:
+            click.echo(f"❌ Error trying URL {url}: {str(e)}")
+            click.echo(f"Error type: {type(e).__name__}")
+            if os.path.exists(output_path):
+                os.remove(output_path)
+            continue
+    
+    click.echo("❌ Failed to download image from any URL")
+    return False
 
 
 def generate_front_matter(title, slug, categories, tags, image_filename, image_info):
@@ -211,15 +455,22 @@ tags: {json.dumps(tags, ensure_ascii=False)}
 
 def create_post_content(content, image_filename, image_info):
     """Create the complete post content with image and attribution."""
+    # Image section temporarily disabled
     image_section = ""
-    if image_info:
-        alt_text = image_info["alt_description"]
-        photographer = image_info["photographer"]
-        photographer_url = image_info["photographer_url"]
-        
-        image_section = f"""![{alt_text}](images/{image_filename})Photo by [{photographer}]({photographer_url}) on [Unsplash](https://unsplash.com)
-
-"""
+    # if image_info:
+    #     alt_text = image_info["alt_description"]
+    #     photographer = image_info["photographer"]
+    #     photographer_url = image_info["photographer_url"]
+    #     
+    #     # Updated image section format with newlines and centered image
+    #     image_section = f"""
+    # {{< figure
+    #     src="images/{image_filename}"
+    #     alt="{alt_text}"
+    #     caption="Photo by [{photographer}]({photographer_url}) on [Unsplash](https://unsplash.com)"
+    #     >}}
+    # 
+    # """
     
     # Add footer at the end
     full_content = content.strip()
@@ -230,10 +481,13 @@ def create_post_content(content, image_filename, image_info):
 
 
 @click.command()
-@click.option('--input-file', '-i', default='source.md', help='Input markdown file name')
+@click.argument('input_file', required=True)
 @click.option('--auto-copy', '-c', is_flag=True, help='Automatically copy to Hugo content directory')
 def main(input_file, auto_copy):
-    """Hugo Blog Post Generator CLI Tool"""
+    """Hugo Blog Post Generator CLI Tool.
+    
+    INPUT_FILE: Name of the markdown file to process (e.g., my-post.md)
+    """
     
     click.echo("🚀 Hugo Blog Post Generator")
     click.echo("=" * 40)
@@ -264,18 +518,11 @@ def main(input_file, auto_copy):
     # Get user inputs
     title = click.prompt("Blog post title", default=extracted_title).strip()
     
-    # Get simple slug title from user
+    # Combine today's date with input file name for slug
     today = datetime.now().strftime("%Y-%m-%d")
-    slug_title = click.prompt("Enter slug title (e.g., 'ai-discussion')", default="").strip()
-    
-    if slug_title:
-        # Use user input for slug
-        slug = f"{today}-{slug_title}"[:SLUG_MAX_LENGTH]
-    else:
-        # Fallback to auto-generated slug from title
-        title_slug = slugify(title, max_length=SLUG_MAX_LENGTH-len(today)-1)
-        slug = f"{today}-{title_slug}"[:SLUG_MAX_LENGTH]
-        click.echo(f"💡 Using auto-generated slug: {slug}")
+    file_slug = Path(input_file).stem  # Get filename without extension
+    slug = f"{today}-{file_slug}"[:SLUG_MAX_LENGTH]
+    click.echo(f"📝 Generated slug from date and filename: {slug}")
     
     # Categories selection
     click.echo("\n📂 Available categories:")
@@ -294,23 +541,9 @@ def main(input_file, auto_copy):
     tags_input = click.prompt("Enter tags (comma-separated)", default="").strip()
     tags = [tag.strip() for tag in tags_input.split(',') if tag.strip()] if tags_input else []
     
-    # Image handling
-    click.echo("\n🖼️  Image Processing:")
+    # Skip image handling
     image_info = None
     image_filename = None
-    
-    unsplash_url = click.prompt("Unsplash photo URL (or press Enter to skip)", default="").strip()
-    
-    if unsplash_url:
-        image_info = get_unsplash_image_from_url(unsplash_url)
-        
-        if image_info:
-            image_filename = create_meaningful_filename(unsplash_url)
-            click.echo(f"📝 Generated filename: {image_filename}")
-        else:
-            click.echo("❌ Could not process Unsplash URL")
-    else:
-        click.echo("⏭️  Skipping image (no URL provided)")
     
     # Create output structure
     click.echo(f"\n📁 Creating output structure:")
@@ -322,23 +555,37 @@ def main(input_file, auto_copy):
     images_dir.mkdir(exist_ok=True)
     click.echo(f"✅ Created images directory: {images_dir}")
     
-    # Download image if available
-    if image_info and image_filename:
-        image_path = images_dir / image_filename
-        click.echo(f"\n📥 Image Download:")
-        if download_image(image_info, image_path):
-            click.echo(f"✅ Image saved: {image_path}")
-        else:
-            click.echo("❌ Image download failed, proceeding without image")
-            image_info = None
-            image_filename = None
-    else:
-        click.echo("⏭️  No image to download")
+    # Download image if available - temporarily disabled
+    # if image_info and image_filename:
+    #     image_path = images_dir / image_filename
+    #     click.echo(f"\n📥 Image Download:")
+    #     if download_image(image_info, image_path):
+    #         click.echo(f"✅ Image saved: {image_path}")
+    #     else:
+    #         click.echo("❌ Image download failed, proceeding without image")
+    #         image_info = None
+    #         image_filename = None
+    # else:
+    #     click.echo("⏭️  No image to download")
+    
+    # Temporary: always set these to None to skip image processing
+    image_info = None
+    image_filename = None
     
     # Generate post content
     click.echo(f"\n📝 Generating content:")
     click.echo(f"🔧 Image filename for front matter: {image_filename}")
     click.echo(f"🔧 Image info available: {image_info is not None}")
+    
+    # Remove any existing front matter from content
+    content_lines = content.strip().split('\n')
+    while content_lines and content_lines[0].strip() == '---':
+        # Find the end of the front matter
+        for i, line in enumerate(content_lines[1:], 1):
+            if line.strip() == '---':
+                content_lines = content_lines[i+1:]  # Skip the front matter
+                break
+    content = '\n'.join(content_lines).strip()
     
     front_matter = generate_front_matter(title, slug, selected_categories, tags, image_filename, image_info)
     post_content = create_post_content(content, image_filename, image_info)
