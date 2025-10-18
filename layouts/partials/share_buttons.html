@@ -1,5 +1,7 @@
 {{- $pageurl := .Permalink }}
 {{- $title := .Title }}
+{{- $facebookHashtag := .Site.Params.sharing.facebookHashtag | default "#澳洲雲端架構師EC" }}
+{{- $threadsPrefix := .Site.Params.sharing.threadsPrefix | default "<澳洲雲端架構師 EC>" }}
 
 <div class="medium-share_buttons">
   <button class="share-toggle-button" aria-label="Share post" aria-expanded="false">
@@ -17,13 +19,13 @@
       </svg>
       <span>Copy link</span>
     </button>
-    <button class="share-option facebook" onclick="shareFacebook(this)" aria-label="Share on Facebook" data-url="{{ $pageurl }}">
+    <button class="share-option facebook" onclick="shareFacebook(this)" aria-label="Share on Facebook" data-url="{{ $pageurl }}" data-hashtag="{{ $facebookHashtag }}">
       <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="24px" width="24px" fill="currentColor">
         <path d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z"/>
       </svg>
       <span>Share on Facebook</span>
     </button>
-    <button class="share-option threads" onclick="shareThreads(this)" aria-label="Share on Threads" data-url="{{ $pageurl }}" data-title="{{ $title }}">
+    <button class="share-option threads" onclick="shareThreads(this)" aria-label="Share on Threads" data-url="{{ $pageurl }}" data-title="{{ $title }}" data-prefix="{{ $threadsPrefix }}">
       <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="24px" width="24px" fill="currentColor">
         <rect width="512" height="512" rx="62.554" fill="currentColor"/>
         <text x="256" y="320" text-anchor="middle" font-size="280" font-family="Arial, sans-serif" fill="white">@</text>
@@ -212,14 +214,18 @@ function copyPageUrl(button) {
 
 function shareFacebook(button) {
   const url = button.getAttribute('data-url');
-  const title = button.getAttribute('data-title');
-  window.open(`https://facebook.com/sharer/sharer.php?u=${url}&quote=${title}`);
+  const hashtag = button.getAttribute('data-hashtag');
+  console.log('Facebook sharing:', { url, hashtag });
+  // Facebook only allows URL and hashtag parameters - title/text is restricted
+  window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}&hashtag=${encodeURIComponent(hashtag)}`);
 }
 
 function shareThreads(button) {
   const url = button.getAttribute('data-url');
   const title = button.getAttribute('data-title');
-  window.open(`https://threads.net/intent/post?text=<澳洲雲端架構師 EC>%0A${title}%20${url}`);
+  const prefix = button.getAttribute('data-prefix');
+  console.log('Threads sharing:', { url, title, prefix });
+  window.open(`https://threads.net/intent/post?text=${encodeURIComponent(prefix)}%0A${encodeURIComponent(title)}%20${encodeURIComponent(url)}`);
 }
 
 function shareEmail(button) {
