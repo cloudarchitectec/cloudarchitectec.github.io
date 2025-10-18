@@ -5,7 +5,7 @@ slug: "2024-12-24-life-insurance"
 image: "images/medium-0*Za2PV_3X9oaOZ0Ci.jpg"
 images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png.jpg', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png.jpg', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png.jpg']
 categories: ["投資理財"]
-tags: ["好想要退休", "FIRE","保險", "退休規劃"]
+tags: ["好想要退休", "FIRE", "退休規劃"]
 ---
 
 ### **前言**
