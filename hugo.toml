@@ -73,7 +73,6 @@ disablePathToLower = true
   # Social sharing customization
   [params.sharing]
     brandName = "澳洲雲端架構師 EC"
-    facebookHashtag = "#澳洲雲端架構師EC"
     threadsPrefix = "<澳洲雲端架構師 EC>"
 
   # Fuzzy search configuration optimized for Traditional Chinese

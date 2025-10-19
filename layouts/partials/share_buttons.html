@@ -1,6 +1,5 @@
 {{- $pageurl := .Permalink }}
 {{- $title := .Title }}
-{{- $facebookHashtag := .Site.Params.sharing.facebookHashtag | default "#澳洲雲端架構師EC" }}
 {{- $threadsPrefix := .Site.Params.sharing.threadsPrefix | default "<澳洲雲端架構師 EC>" }}
 
 <div class="medium-share_buttons">
@@ -19,7 +18,7 @@
       </svg>
       <span>Copy link</span>
     </button>
-    <button class="share-option facebook" onclick="shareFacebook(this)" aria-label="Share on Facebook" data-url="{{ $pageurl }}" data-hashtag="{{ $facebookHashtag }}">
+    <button class="share-option facebook" onclick="shareFacebook(this)" aria-label="Share on Facebook" data-url="{{ $pageurl }}">
       <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="24px" width="24px" fill="currentColor">
         <path d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z"/>
       </svg>
@@ -45,81 +44,42 @@
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  console.log('Share buttons initialized');
   let isTransitioning = false;
   let currentDropdown = null;
   let lastClickTime = 0;
   
-  // Error handling wrapper
-  const handleError = (fn, context) => {
-    try {
-      fn();
-    } catch (error) {
-      console.error(`Error in ${context}:`, error);
-      isTransitioning = false;  // Reset state on error
-    }
-  };
-
-  // Debug state tracker
-  const logState = () => {
-    const dropdowns = document.querySelectorAll('.share-dropdown');
-    console.log('Current State:', {
-      isTransitioning,
-      currentDropdown: currentDropdown?.classList.contains('show'),
-      openDropdowns: Array.from(dropdowns).filter(d => d.classList.contains('show')).length,
-      lastClickTime
-    });
-  };
-  
   // Handle toggle button clicks
   document.querySelectorAll('.share-toggle-button').forEach(button => {
     button.addEventListener('click', function(e) {
-      handleError(() => {
-        console.log('Share button clicked');
-        e.stopPropagation();
-        e.preventDefault();
-        
-        // Debounce clicks
-        const now = Date.now();
-        if (now - lastClickTime < 300) {
-          console.log('Click debounced');
-          return;
-        }
-        lastClickTime = now;
-        
-        logState();
+      e.stopPropagation();
+      e.preventDefault();
       
-      if (isTransitioning) {
-        console.log('Transition in progress, ignoring click');
+      // Debounce clicks
+      const now = Date.now();
+      if (now - lastClickTime < 300 || isTransitioning) {
         return;
       }
+      lastClickTime = now;
       
       const dropdown = this.nextElementSibling;
       const isExpanded = this.getAttribute('aria-expanded') === 'true';
-      console.log('Current state:', { isExpanded, isTransitioning });
       
       isTransitioning = true;
       
       if (isExpanded) {
-        console.log('Hiding dropdown');
         // Hide dropdown
         this.setAttribute('aria-expanded', 'false');
         dropdown.setAttribute('aria-hidden', 'true');
         dropdown.classList.remove('show');
-        
-        // Clear current dropdown reference
         currentDropdown = null;
         
         setTimeout(() => {
-          if (!dropdown.classList.contains('show')) {  // Check if still hidden
+          if (!dropdown.classList.contains('show')) {
             dropdown.style.display = 'none';
           }
           isTransitioning = false;
-          console.log('Hide transition complete');
         }, 300);
       } else {
-        console.log('Showing dropdown');
-        
         // Close any other open dropdown first
         if (currentDropdown && currentDropdown !== dropdown) {
           const prevButton = currentDropdown.previousElementSibling;
@@ -142,11 +102,10 @@ document.addEventListener('DOMContentLoaded', function() {
           dropdown.classList.add('show');
           setTimeout(() => {
             isTransitioning = false;
-            console.log('Show transition complete');
           }, 300);
         });
       }
-    }, { capture: true });
+    });
   });
 
   // Prevent dropdown from closing when clicking inside
@@ -158,40 +117,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Close dropdown when clicking outside
   document.addEventListener('click', function(e) {
-    handleError(() => {
-      console.log('Document click detected', {
-        target: e.target.tagName,
-        className: e.target.className,
-        isButton: !!e.target.closest('.share-toggle-button'),
-        isDropdown: !!e.target.closest('.share-dropdown'),
-        isShareButtons: !!e.target.closest('.medium-share_buttons')
-      });
-      logState();
-    }, 'document click handler');
-    
     const openDropdown = document.querySelector('.share-dropdown.show');
-      if (openDropdown && !e.target.closest('.medium-share_buttons')) {
-        handleError(() => {
-          console.log('Closing dropdown due to outside click');
-          const button = openDropdown.previousElementSibling;
-          button.setAttribute('aria-expanded', 'false');
-          openDropdown.setAttribute('aria-hidden', 'true');
-          openDropdown.classList.remove('show');
-          currentDropdown = null;
-          isTransitioning = true;
-          
-          setTimeout(() => {
-            if (!openDropdown.classList.contains('show')) {
-              openDropdown.style.display = 'none';
-            }
-            isTransitioning = false;
-            console.log('Outside click close complete');
-            logState();
-          }, 300);
-        }, 'outside click close');
-      }
-    });
-  }, { capture: true });
+    if (openDropdown && !e.target.closest('.medium-share_buttons')) {
+      const button = openDropdown.previousElementSibling;
+      button.setAttribute('aria-expanded', 'false');
+      openDropdown.setAttribute('aria-hidden', 'true');
+      openDropdown.classList.remove('show');
+      currentDropdown = null;
+      isTransitioning = true;
+      
+      setTimeout(() => {
+        if (!openDropdown.classList.contains('show')) {
+          openDropdown.style.display = 'none';
+        }
+        isTransitioning = false;
+      }, 300);
+    }
+  });
 });
 
 function copyPageUrl(button) {
@@ -214,17 +156,13 @@ function copyPageUrl(button) {
 
 function shareFacebook(button) {
   const url = button.getAttribute('data-url');
-  const hashtag = button.getAttribute('data-hashtag');
-  console.log('Facebook sharing:', { url, hashtag });
-  // Facebook only allows URL and hashtag parameters - title/text is restricted
-  window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}&hashtag=${encodeURIComponent(hashtag)}`);
+  window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`);
 }
 
 function shareThreads(button) {
   const url = button.getAttribute('data-url');
   const title = button.getAttribute('data-title');
   const prefix = button.getAttribute('data-prefix');
-  console.log('Threads sharing:', { url, title, prefix });
   window.open(`https://threads.net/intent/post?text=${encodeURIComponent(prefix)}%0A${encodeURIComponent(title)}%20${encodeURIComponent(url)}`);
 }
 
