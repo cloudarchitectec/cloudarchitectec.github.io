@@ -69,6 +69,11 @@ disablePathToLower = true
   
   # Enhanced social sharing configuration
   ShareButtons = ["linkedin", "twitter", "facebook", "whatsapp"]
+  
+  # Social sharing customization
+  [params.sharing]
+    brandName = "澳洲雲端架構師 EC"
+    threadsPrefix = "<澳洲雲端架構師 EC>"
 
   # Fuzzy search configuration optimized for Traditional Chinese
   [params.fuseOpts]

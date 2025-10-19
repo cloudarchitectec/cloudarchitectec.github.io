@@ -1,5 +1,5 @@
 ---
-title: "澳洲雲端架構師 EC：專為轉職者量身打造的職涯諮詢｜海外職場×履歷優化 × 面試攻略 × DevOps/雲端職涯"
+title: "澳洲雲端架構師 EC | 專為轉職者量身打造的職涯諮詢"
 date: 2018-01-03
 slug: "2018-01-03-ec-consultation"
 image: "images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg"
@@ -10,7 +10,7 @@ tags: ["職涯","海外職場", "英文面試"]
 
 ![EC職涯諮詢服務](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg)Architecting Career Success Beyond the Cloud
 
-### 🔔 服務升級公告：諮詢服務全面優化
+### 🔔 海外職場×履歷優化 × 面試攻略 × DevOps/雲端職涯
 
 <strong>👉👉 [點擊預約雲端架構師 EC 職涯諮詢服務](https://forms.gle/Zuro8YryCN5hH9Gk9) 👈👈</strong>
 

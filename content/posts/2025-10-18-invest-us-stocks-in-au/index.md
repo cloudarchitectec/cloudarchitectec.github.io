@@ -8,7 +8,6 @@ images: ["images/black-flat-computer-monitor.jpg"]
 tags: ["ETF","FIRE","好想要退休"]
 ---
 
-
 ![black-flat-screen-computer-monitor](images/black-flat-computer-monitor.jpg)Photo by [Nick Chong on Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-N__BnvQ_w18)
 
 
