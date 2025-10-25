@@ -279,6 +279,46 @@ def extract_title_from_content(content):
     return "Untitled Post"
 
 
+def extract_categories_and_tags_from_content(content):
+    """Extract categories and tags from front matter if they exist."""
+    lines = content.strip().split('\n')
+    
+    in_front_matter = False
+    existing_categories = []
+    existing_tags = []
+    
+    for line in lines:
+        line = line.strip()
+        if line == '---':
+            in_front_matter = not in_front_matter
+            continue
+        
+        if in_front_matter:
+            if line.startswith('categories:'):
+                # Extract categories - handle both formats: ["cat1", "cat2"] or ["cat1","cat2"]
+                categories_str = line[11:].strip()
+                try:
+                    existing_categories = json.loads(categories_str)
+                except json.JSONDecodeError:
+                    # Try to parse manually if json fails
+                    categories_str = categories_str.strip('[]')
+                    if categories_str:
+                        existing_categories = [cat.strip().strip('"\'') for cat in categories_str.split(',')]
+                
+            elif line.startswith('tags:'):
+                # Extract tags - handle both formats: ["tag1", "tag2"] or ["tag1","tag2"]
+                tags_str = line[5:].strip()
+                try:
+                    existing_tags = json.loads(tags_str)
+                except json.JSONDecodeError:
+                    # Try to parse manually if json fails
+                    tags_str = tags_str.strip('[]')
+                    if tags_str:
+                        existing_tags = [tag.strip().strip('"\'') for tag in tags_str.split(',')]
+    
+    return existing_categories, existing_tags
+
+
 def download_image(image_info, output_path):
     """Download and save an image."""
     click.echo("\n=== Image Download Debug Info ===")
@@ -446,6 +486,8 @@ tags: {json.dumps(tags, ensure_ascii=False)}
 title: "{title}"
 date: {today}
 slug: "{slug}"
+image: ""
+images: [""]
 categories: {json.dumps(categories, ensure_ascii=False)}
 tags: {json.dumps(tags, ensure_ascii=False)}
 ---"""
@@ -515,6 +557,9 @@ def main(input_file, auto_copy):
     extracted_title = extract_title_from_content(content)
     click.echo(f"📝 Extracted title: {extracted_title}")
     
+    # Extract existing categories and tags from front matter
+    existing_categories, existing_tags = extract_categories_and_tags_from_content(content)
+    
     # Get user inputs
     title = click.prompt("Blog post title", default=extracted_title).strip()
     
@@ -524,12 +569,29 @@ def main(input_file, auto_copy):
     slug = f"{today}-{file_slug}"[:SLUG_MAX_LENGTH]
     click.echo(f"📝 Generated slug from date and filename: {slug}")
     
-    # Categories selection
+    # Categories selection with existing categories as default
     click.echo("\n📂 Available categories:")
     for i, cat in enumerate(CATEGORIES, 1):
         click.echo(f"  {i}. {cat}")
     
-    category_input = click.prompt("Select category number(s) (comma-separated)", type=str)
+    # Show existing categories if found
+    if existing_categories:
+        click.echo(f"\n🔍 Found existing categories in file: {existing_categories}")
+        # Find the indices of existing categories in the CATEGORIES list
+        default_indices = []
+        for cat in existing_categories:
+            try:
+                index = CATEGORIES.index(cat) + 1  # +1 because we show 1-based numbers
+                default_indices.append(str(index))
+            except ValueError:
+                click.echo(f"⚠️  Category '{cat}' not found in available categories")
+        
+        default_category_str = ",".join(default_indices) if default_indices else "1"
+        category_input = click.prompt("Select category number(s) (comma-separated)", 
+                                    default=default_category_str, type=str)
+    else:
+        category_input = click.prompt("Select category number(s) (comma-separated)", type=str)
+    
     try:
         category_indices = [int(x.strip()) - 1 for x in category_input.split(',')]
         selected_categories = [CATEGORIES[i] for i in category_indices if 0 <= i < len(CATEGORIES)]
@@ -537,8 +599,14 @@ def main(input_file, auto_copy):
         click.echo("❌ Invalid category selection. Using first category.")
         selected_categories = [CATEGORIES[0]]
     
-    # Tags input
-    tags_input = click.prompt("Enter tags (comma-separated)", default="").strip()
+    # Tags input with existing tags as default
+    if existing_tags:
+        click.echo(f"\n🏷️  Found existing tags in file: {existing_tags}")
+        default_tags_str = ",".join(existing_tags)
+        tags_input = click.prompt("Enter tags (comma-separated)", default=default_tags_str).strip()
+    else:
+        tags_input = click.prompt("Enter tags (comma-separated)", default="").strip()
+    
     tags = [tag.strip() for tag in tags_input.split(',') if tag.strip()] if tags_input else []
     
     # Skip image handling

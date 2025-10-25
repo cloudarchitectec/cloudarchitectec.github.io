@@ -52,14 +52,11 @@ A EC CLI tool to automate blog post creation with Unsplash images.
 ## Command Options
 
 ```bash
-# Use different input file
-python automated_blog_converter.py -i my-draft.md
-
 # Auto-copy to Hugo content folder (saves manual copying)
-python automated_blog_converter.py -c
+cd python/script
 
 # Both together
-python automated_blog_converter.py -i my-draft.md -c
+python3 automated_blog_converter.py 2025-nz-trip-snowboarding.md -c 
 ```
 
 ## Variables You Can Tweak
