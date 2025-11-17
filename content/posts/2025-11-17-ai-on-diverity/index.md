@@ -5,7 +5,7 @@ slug: "2025-11-17-ai-on-diverity"
 image: "images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"
 images: ["images/gemini-diversity.jpg","images/gpt-diversity.jpg","images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"]
 categories: ["海外職場"]
-tags: [ "科技業", "AI", "Diversity"]
+tags: [ "科技業", "AI", "Diversity", "DevOps 工程師", "職涯"]
 ---
       
 ![a paper with ‘empowerment’ on it](images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg)Photo by [Daria Nepriakhina 🇺🇦 on Unsplash](https://unsplash.com/@epicantus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
