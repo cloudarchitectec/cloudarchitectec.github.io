@@ -9,7 +9,7 @@ import re
 from datetime import datetime
 from pathlib import Path
 
-# Config #TODO refactor
+# Configuration for analytics data collection
 # Time periods for analytics date - dates can be:
 # - Absolute dates in "YYYY-MM-DD" format (e.g., "2023-01-01")
 # - Relative dates like "NdaysAgo" (e.g., "30daysAgo")

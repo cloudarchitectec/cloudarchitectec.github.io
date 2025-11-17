@@ -1,5 +1,5 @@
 ---
-title: 澳洲面試心得：跨國能源公司 DevOps 工程師 II：行為面試"
+title: 澳洲面試心得：跨國能源公司 DevOps 工程師 II：行為面試
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-2"
 image: "images/medium-0*-cJX5ON0RTaomZNr.jpg"

@@ -36,7 +36,7 @@ tags: ["英文面試", "澳洲求職必勝法則"]
 
 接下來，在面試之前要做的幾件事:
 
-  * **熟讀 JD (** job description**)**
+  * **熟讀 JD (job description)**
 
 
 
