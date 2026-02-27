@@ -31,8 +31,9 @@ tags: ["雲端架構師"]
 (我沒想到在 Medium 上要插入表格這麼難，我還得先把 word 轉成 pdf 再截圖。如果有人知道更好的方法，請告訴我XD)
 
 ![技術顧問電子郵件對話](images/medium-1*pagC-o_q85qAQ1-luqGizQ.png.jpg)
+![雲端解決方案架構師郵件](images/medium-1*MbOfcJtKI4qtU-NFFVxk0w.png.jpg)
 
-*![雲端解決方案架構師郵件](images/medium-1*MbOfcJtKI4qtU-NFFVxk0w.png.jpg)![雲端工程師職位詢問](images/medium-1*yPIHVj6MrSCkuJvigRtcFA.png.jpg)*
+![雲端工程師職位詢問](images/medium-1*yPIHVj6MrSCkuJvigRtcFA.png.jpg)
 
 ### 職務日常比較 ｜**Day-to-Day life**
 

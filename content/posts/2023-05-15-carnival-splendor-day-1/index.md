@@ -21,9 +21,7 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 住在布里斯本的我跟住在塔斯馬尼亞的友人 Ashley 決定一起進行一個為期九天的南太平洋遊輪之旅。這是我人生第一次的遊輪旅行，Ashley 則是在十年前參加過一個類似的遊輪行程。這趟遊輪之行從雪梨出發，途中會經過 Vanuatu (台灣: 萬那杜/中國: 瓦努阿圖) 的 Mystery Island 跟 New Caledonia (新喀里多尼亞)的 Noumea 小島、Lifou 小島。除去登船當天以及下船當天，我們會有四天在海上的行程以及四天在小島上的行程。
 
-我們訂的是有陽台的雙人房，一個人大概是1200澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。詳細的行程資訊請參考遊輪公司的官方網站**:**[Carnival Splendor](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)
-
-*。*
+我們訂的是有陽台的雙人房，一個人大概是1200澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。詳細的行程資訊請參考遊輪公司的官方網站**:**[Carnival Splendor](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)。
 
 ![Carnival Splendor 郵輪航線圖](images/medium-1*9VkvnBxVqpdapqOWreIMLg.png.jpg)
 

@@ -35,9 +35,7 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 ### **Gather & Feast **咖啡店
 
-一開始我們先到了一家位於卡布丘的咖啡店 [**Gather & Feast**](https://maps.app.goo.gl/bGFKDigfQJPu1FmcA?g_st=ic)
-
-*，裝潢非常有氣氛！我們看到別桌客人的餐點份量都很巨大、擺盤也都很美，不過藉於我們剛吃完早餐才出門，所以這次就只點了咖啡，他們的咖啡非常好喝(雖然拉花有點弱)，我們已經決定會再拜訪這家店！*
+一開始我們先到了一家位於卡布丘的咖啡店 [**Gather & Feast**](https://maps.app.goo.gl/bGFKDigfQJPu1FmcA?g_st=ic)，裝潢非常有氣氛！我們看到別桌客人的餐點份量都很巨大、擺盤也都很美，不過藉於我們剛吃完早餐才出門，所以這次就只點了咖啡，他們的咖啡非常好喝(雖然拉花有點弱)，我們已經決定會再拜訪這家店！
 
 ![Gather & Feast 咖啡店內部裝潢](images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg)![Gather & Feast 咖啡店精緻的咖啡拉花](images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg)
 
@@ -49,17 +47,13 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 *Bribie Island 一景*
 
-我們兩個先在免費的博物館裡玩得不亦樂乎，然後就去吃了當地知名的炸魚薯條店 [Savige’s Seafood](https://maps.app.goo.gl/vjGiqj46dK4dPDgo8?g_st=ic)
-
-*，真心好吃耶！*
+我們兩個先在免費的博物館裡玩得不亦樂乎，然後就去吃了當地知名的炸魚薯條店 [Savige’s Seafood](https://maps.app.goo.gl/vjGiqj46dK4dPDgo8?g_st=ic)，真心好吃耶！
 
 ![](images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpeg.jpg)
 
 *![](images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpeg.jpg)Savige’s Seafood*
 
-吃完午餐本來打算去吃冰淇淋的，結果我們突發奇想，突然好奇這個小島上不知道有沒有珍奶店，於是我們就到了一家開在日式旋轉壽司店裡的珍奶店，也是這個小島的唯一一家珍奶店[Cube Tea Bribie Island](https://maps.app.goo.gl/1EaasG65dQjm36us6?g_st=ic)
-
-*，有夠神奇😆 (但是珍奶沒有特別好喝，建議不要來XD 我們還開車繞了超久才到這家珍奶店！)*
+吃完午餐本來打算去吃冰淇淋的，結果我們突發奇想，突然好奇這個小島上不知道有沒有珍奶店，於是我們就到了一家開在日式旋轉壽司店裡的珍奶店，也是這個小島的唯一一家珍奶店[Cube Tea Bribie Island](https://maps.app.goo.gl/1EaasG65dQjm36us6?g_st=ic)，有夠神奇😆 (但是珍奶沒有特別好喝，建議不要來XD 我們還開車繞了超久才到這家珍奶店！)
 
 然後我們就開始模仿IG拍一些意義不明的網美照，但是真的好難喔！通常拍了十幾張也只會成功一張，常常還不成功🤣🤣🤣
 

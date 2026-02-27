@@ -49,9 +49,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 這好像是好幾年前很流行的面試題，但我從來沒有認真研究過大家都怎麼回答，或是面試官到底想看到怎麼樣的回答? 這題是想要考驗申請人的創意嗎?XD
 
-(寫這篇文章時我上網找了相關資訊，看到這篇簡體中文的文章，才知道原來這是 Google 的面試題，解析請參考: <[谷歌面试题解析：一辆校车能装下多少乒乓球](https://www.woshipm.com/zhichang/3455467.html>)
-
-*)*
+(寫這篇文章時我上網找了相關資訊，看到這篇簡體中文的文章，才知道原來這是 Google 的面試題，解析請參考: <[谷歌面试题解析：一辆校车能装下多少乒乓球](https://www.woshipm.com/zhichang/3455467.html>))
 
 我個人覺得我的答案還滿無聊的。
 
