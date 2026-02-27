@@ -1,7 +1,7 @@
 ---
 title: "紐西蘭北島滑雪之旅(下集)：2025.08.10-08.15 滑雪心得之單板新手我上纜車了！"
 date: 2025-10-25
-slug: "2025-10-25-2025-nz-trip-snowboarding"
+slug: "2025-10-25-2025-nz-trip-snowboarding-2"
 image: "images/rainbow-over-snow.jpeg"
 images: ["images/rainbow-over-snow.jpeg","images/snowy-mountains","images/snowboard.jpeg"]
 categories: ["旅行紀錄"]
