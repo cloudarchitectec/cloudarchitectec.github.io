@@ -12,7 +12,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ### **一個女生的歐洲獨旅:** 2024.04.27 **荷蘭** 在藍瓷小鎮台夫特 (Delft) 慶祝國王節
 
-![荷蘭精美郵票設計](images/medium-1*iZBJQceEcHZX_UyJyBY-BQ.jpeg.jpg)荷蘭的郵票真心太可愛！
+![荷蘭精美郵票設計](images/medium-1*iZBJQceEcHZX_UyJyBY-BQ.jpeg.jpg)
+
+*荷蘭的郵票真心太可愛！*
 
 其實我一直到了荷蘭之後，才發現我剛好遇到了國王節 (Koningsdag)!
 
@@ -22,7 +24,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 一開始聽到這個節日時，我一直很困惑這個國王是哪一個，因為澳洲的女王節/國王節其實是慶祝英國皇室的女王/國王的生日XD
 
-![荷蘭國王節慶祝商品](images/medium-1*2G80AH0uJdcbyiN6NS9KBw.jpeg.jpg)![威廉亞歷山大國王藍瓷](images/medium-1*dPmYODwOd2u3MAUIiOEGbg.jpeg.jpg)商店擺滿國王節的慶祝商品(左) 國王畫像的藍瓷(右)
+![荷蘭國王節慶祝商品](images/medium-1*2G80AH0uJdcbyiN6NS9KBw.jpeg.jpg)
+
+*![威廉亞歷山大國王藍瓷](images/medium-1*dPmYODwOd2u3MAUIiOEGbg.jpeg.jpg)商店擺滿國王節的慶祝商品(左) 國王畫像的藍瓷(右)*
 
 ### 荷蘭國王節慶祝活動
 
@@ -44,20 +48,26 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 身為一個澳洲人，我身上當然沒有橘色的東西XD 但畢竟來到當地就是志在參與，所以我在千挑萬選之下，買了這頂 4.99 歐的兩用帽，一面是全橘色（戴起來非常像櫻桃小丸子)、一面則是白底上面點綴著橘色拿破崙蛋糕，超可愛！而且它本身也是一個實用的遮陽帽 >///<
 
-![國王節橘色慶祝帽子](images/medium-1*jSA9dQaTaaHGnCumGaNMCQ.jpeg.jpg)![荷蘭橘色拿破崙蛋糕圖案](images/medium-1*jEt8b4BMlX9iKO3hWnaUmg.jpeg.jpg)![Orange Tompouce 蛋糕](images/medium-1*F_5EKmGeVzycpPzqRMzP0Q.jpeg.jpg)這個帽子是不是實用又可愛！順便放一張跟蛋糕本人的合照XD
+![國王節橘色慶祝帽子](images/medium-1*jSA9dQaTaaHGnCumGaNMCQ.jpeg.jpg)![荷蘭橘色拿破崙蛋糕圖案](images/medium-1*jEt8b4BMlX9iKO3hWnaUmg.jpeg.jpg)
+
+*![Orange Tompouce 蛋糕](images/medium-1*F_5EKmGeVzycpPzqRMzP0Q.jpeg.jpg)這個帽子是不是實用又可愛！順便放一張跟蛋糕本人的合照XD*
 
 ### 藍瓷小鎮台夫特
 
 除了國王節之外，今天的重點是荷蘭藍瓷小鎮台夫特，距離海牙只要15分鐘火車！算是昨天在萊登吃完荷蘭煎餅之後，突然得到的旅行靈感。
 
-![台夫特藍瓷盤荷蘭煎餅](images/medium-1*R3AJTFraMz0I1zi0QkzzPw.jpeg.jpg)![Delft 藍瓷餐具體驗](images/medium-1*cjIbm8jjWUkqbLTGJQqGJg.jpeg.jpg)![荷蘭傳統美食配藍瓷](images/medium-1*M8szS0QHbXy5pv3rurTD5Q.jpeg.jpg)藍瓷盤上的巨大荷蘭煎餅
+![台夫特藍瓷盤荷蘭煎餅](images/medium-1*R3AJTFraMz0I1zi0QkzzPw.jpeg.jpg)
+
+*![Delft 藍瓷餐具體驗](images/medium-1*cjIbm8jjWUkqbLTGJQqGJg.jpeg.jpg)![荷蘭傳統美食配藍瓷](images/medium-1*M8szS0QHbXy5pv3rurTD5Q.jpeg.jpg)藍瓷盤上的巨大荷蘭煎餅*
 
 關於萊登的遊記請看：
 
 [**一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城**  
  _萊登 (Leiden) 是知名荷蘭畫家林布蘭的故鄉，也是歐洲知名的大學城。於16世紀成立的萊登大學是荷蘭最古老的大學，也是我 2009–2010來荷蘭交換的學校！](/posts/2024-04-26-leiden/)[](/posts/2024-04-26-leiden/)
 
-![台夫特藍瓷林布蘭夜巡](images/medium-1*e2FULclg8xAk7duIBMQLtA.jpeg.jpg)藍瓷版林布蘭的名畫夜巡
+![台夫特藍瓷林布蘭夜巡](images/medium-1*e2FULclg8xAk7duIBMQLtA.jpeg.jpg)
+
+*藍瓷版林布蘭的名畫夜巡*
 
 如果你看了荷蘭藍瓷之後覺得，這不是中國青花瓷嗎？沒錯喔，因為這就是從青花瓷演變而來哈哈哈哈
 
@@ -67,25 +77,33 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ### Royal Delft 皇家藍瓷博物館
 
-![Royal Delft 皇家藍瓷博物館](images/medium-1*BR6OBQdh4SdCUHVwQ9Aj9g.jpeg.jpg)![荷蘭皇室認證藍瓷工坊](images/medium-1*oEP4BWLeVut-6iQmoAQWeQ.jpeg.jpg)Royal Delft 皇家藍瓷博物館
+![Royal Delft 皇家藍瓷博物館](images/medium-1*BR6OBQdh4SdCUHVwQ9Aj9g.jpeg.jpg)
+
+*![荷蘭皇室認證藍瓷工坊](images/medium-1*oEP4BWLeVut-6iQmoAQWeQ.jpeg.jpg)Royal Delft 皇家藍瓷博物館*
 
 我去參觀的 Royal Delft 皇家藍瓷博物館的皇家之名可不是浪得虛名，他們的確是荷蘭皇室認證的，直到現在也持續在製造荷蘭藍瓷，荷蘭皇室也會在招待重要外賓的國宴上使用荷蘭藍瓷製作的碗盆。
 
 皇家藍瓷博物館非常值得一來！而且我建議早上來，因為早上有很多旅行團，我完全就默默跟在他們後面聽英文導覽，導覽員奶奶講得非常好！聽完之後我自己再回去博物館逛了一圈，把之前沒看仔細看的說明補足，但我覺得自己看真的不如導覽精彩。
 
-![台夫特藍瓷鬱金香花瓶](images/medium-1*iVA3hZl5Qt5WoTbNJDt_sw.jpeg.jpg)![荷蘭藍瓷獨特花器設計](images/medium-1*XinAmbcwpo7qS3v9slQnfw.jpeg.jpg)藍瓷花瓶真的好酷！一朵花有自己的一個家XD
+![台夫特藍瓷鬱金香花瓶](images/medium-1*iVA3hZl5Qt5WoTbNJDt_sw.jpeg.jpg)
+
+*![荷蘭藍瓷獨特花器設計](images/medium-1*XinAmbcwpo7qS3v9slQnfw.jpeg.jpg)藍瓷花瓶真的好酷！一朵花有自己的一個家XD*
 
 現在管區裡還有畢卡索特展！
 
 你們知道畢卡索杯杯也做過瓷器藝術嗎？展覽館裡面放的是真品（是個有錢的私人收藏家借給博物館展覽的），還有畢卡索製作的影片，我整個驚呆，因為我一直以為畢杯杯是古人吧XDD 沒想到影片中他看起來好現代。
 
-![畢卡索瓷器藝術作品](images/medium-1*IClL30Sy9HZR4UEqI8o6Dw.jpeg.jpg)![Picasso 陶瓷創作](images/medium-1*CAsSxcSp4b_prMaGHJ_HnQ.jpeg.jpg)畢卡索製作的瓷器
+![畢卡索瓷器藝術作品](images/medium-1*IClL30Sy9HZR4UEqI8o6Dw.jpeg.jpg)
+
+*![Picasso 陶瓷創作](images/medium-1*CAsSxcSp4b_prMaGHJ_HnQ.jpeg.jpg)畢卡索製作的瓷器*
 
 參觀完整個博物館後，會對荷蘭藍瓷有深入了解。皇家藍瓷博物館的藍瓷其實有兩種，一種是用貼紙轉印的 (好酷的技術)，一種是手工繪製的！背後的logo 不同，手工的藍瓷還會有畫家的簽名跟編號，每一個都是獨一無二的，真心是非常值得收藏！！！
 
 我在裡面糾結了很久要不要入手，因為手工繪製的無敵貴，一個14公分的盤子要$167歐元 (澳幣272、台幣5800)。而且荷蘭畢竟是我旅行的起點，我覺得我真的沒有信心在之後三週的旅程帶著它，於是只好忍痛放手 QAQ
 
-![台夫特手工藍瓷畫家簽名](images/medium-1*F3ZaM5dkgW0K87Fnnj64fQ.jpeg.jpg)![Royal Delft 藍瓷認證標誌](images/medium-1*3cku1hvnbxJhLr8KJ6UX4Q.jpeg.jpg)手工繪製的藍瓷後面會有特殊商標跟畫家的簽名
+![台夫特手工藍瓷畫家簽名](images/medium-1*F3ZaM5dkgW0K87Fnnj64fQ.jpeg.jpg)
+
+*![Royal Delft 藍瓷認證標誌](images/medium-1*3cku1hvnbxJhLr8KJ6UX4Q.jpeg.jpg)手工繪製的藍瓷後面會有特殊商標跟畫家的簽名*
 
 祈願我以後可以成為荷蘭手工藍瓷餐具的擁有者，如果可以擺一套美美的在家多棒啊！！！
 

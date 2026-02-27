@@ -20,7 +20,9 @@ tags: ["薪資","澳洲職場統計數據"]
 
 ### 薪資中位數
 
-![](images/medium-1*PB46lQ5iZqbVusENJ-xxWw.png.jpg)澳洲薪資中位數
+![](images/medium-1*PB46lQ5iZqbVusENJ-xxWw.png.jpg)
+
+*澳洲薪資中位數*
 
 澳洲人的薪資中位數(包含全職與兼職)為每週 1,300 澳幣(約26748台幣)，其中男性為1,509 澳幣 (約31058台幣)，女性為1,130 澳幣(約23257台幣)。 也就是說澳洲人的年薪中位數為約67,600澳幣(約140萬台幣)。
 
@@ -41,7 +43,9 @@ tags: ["薪資","澳洲職場統計數據"]
 
 ### 產業薪資分布
 
-![](images/medium-1*Ma8_iNPDVReXHTL-HWH5Zw.png.jpg)![](images/medium-1*AW9UO19oIVjHoMa2kh7sGw.png.jpg)澳洲產業薪資分布
+![](images/medium-1*Ma8_iNPDVReXHTL-HWH5Zw.png.jpg)
+
+*![](images/medium-1*AW9UO19oIVjHoMa2kh7sGw.png.jpg)澳洲產業薪資分布*
 
 接著讓我們來看一下澳洲各個產業的薪資表現，很明顯可以看到礦業以每週 $3008.2 澳幣獨佔鰲頭，第二名是水電瓦斯垃圾處理業每週 $2350.7 澳幣，第三名則是 IT 通信產業每週 $2172.6 澳幣。
 
@@ -61,7 +65,9 @@ tags: ["薪資","澳洲職場統計數據"]
 
 ### 各州/領地的薪資分布
 
-![](images/medium-1*KOLsZLA1T-U54wIG01J1VQ.png.jpg)![](images/medium-1*OKIJEys1q2mD8KTPT3Yb3w.png.jpg)澳洲各州/領地薪資分布
+![](images/medium-1*KOLsZLA1T-U54wIG01J1VQ.png.jpg)
+
+*![](images/medium-1*OKIJEys1q2mD8KTPT3Yb3w.png.jpg)澳洲各州/領地薪資分布*
 
 全澳的每週薪資為 1,489.80 澳幣，其中以首領地 1,704.80 澳幣最高，西澳與北領地分別以每週1,656.20 澳幣跟 1,612.10澳幣緊追在後。
 

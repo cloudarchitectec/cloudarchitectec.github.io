@@ -11,7 +11,9 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 ### Carnival Splendor 澳洲南太平洋郵輪 2023.05.18 — Day 4 Noumea (New Caledonia)
 
-![郵輪房務創意毛巾鱷魚](images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg)毛巾鱷魚
+![郵輪房務創意毛巾鱷魚](images/medium-1*xCzvJaGZ5kvXA0YHUmzXSQ.jpeg.jpg)
+
+*毛巾鱷魚*
 
 * * *
 
@@ -19,19 +21,25 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 終於到達了第一個島 Noumea！從陽台望出去非常 city vibe (或是更精確的說，港口工業區vibe)。吃完早餐後就準備下船啦～下船的時候還有工作人員會站在旁邊準備幫你拍下船照XD
 
-![Noumea港口郵輪下船過程](images/medium-1*8GnbJJzSQPG_of0SILSVKg.jpeg.jpg)Noumea 下船中
+![Noumea港口郵輪下船過程](images/medium-1*8GnbJJzSQPG_of0SILSVKg.jpeg.jpg)
+
+*Noumea 下船中*
 
 **島上行程**
 
 之前就聽說過下船後訂行程的價格大概是遊輪上的一半，於是我們下船後才訂了 hop on hop off bus，一人$15澳幣 (在船上訂好像要$60，好誇張)。價差更大的tour 可能會差到一人$100，所以千萬不要傻傻在遊輪上訂行程喔！Noumea 的海水非常清澈，只可惜因為幾個月前有鯊魚攻擊遊客的事件，所以 Noumea 到目前為止還是全面禁止游泳 QAQ
 
-![Noumea清澈海水美景](images/medium-1*F41yXeA7EJ7-cYP-HH9fdQ.jpeg.jpg)Noumea 海邊
+![Noumea清澈海水美景](images/medium-1*F41yXeA7EJ7-cYP-HH9fdQ.jpeg.jpg)
+
+*Noumea 海邊*
 
 **Noumea 市區**
 
 今天主要的行程就是搭觀光巴士以及在市區內亂晃。
 
-![Noumea市區綠地公園](images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpeg.jpg)Noumea 公園![新喀里多尼亞傳統教堂](images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg)教堂
+![Noumea市區綠地公園](images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpeg.jpg)
+
+*Noumea 公園![新喀里多尼亞傳統教堂](images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg)教堂*
 
 然後還有另一個特別奇怪的觀察，就是這裡的廁所都還算乾淨，但每一個馬桶都沒有馬桶蓋，why????!!!! 我跟 Ashley 百思不得其解耶
 

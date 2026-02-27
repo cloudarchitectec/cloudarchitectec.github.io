@@ -48,7 +48,9 @@ Stay Well 主要是補助整體的身心健康 (wellbeing)，$299澳幣可以用
 
 身為微軟員工，你可以選擇跟公司合作的保險公司 GU Health，也可以自己找喜歡的保險公司購買私人保險，微軟一個月會補助 $191.5澳幣。
 
-澳洲的健保叫 Medicare，一般澳洲公民和永久居民都享有此福利。雖然澳洲沒有強迫人民購買私人保險，但為了減輕財政負擔，澳洲政府會向年收入超過 9 萬(單身)或是18萬(家庭)且沒有購買私人保險的民眾徵收 1–1.5% 年收入的 [Medicare levy surcharge](https://www.ato.gov.au/Individuals/Tax-return/2022/Tax-return/Medicare-levy-questions-M1-M2/M2-Medicare-levy-surcharge-%28MLS%29-2022/#:~:text=Depending%20on%20your%20income%20for,distribution%20tax%20has%20been%20paid.)。舉例來說，一個年收 $9 萬的單生人士一年要付 $9000 澳幣 Medicare levy surcharge，所以很多人都會覺得與其多繳 $9000的稅，不如拿去買私人保險。
+澳洲的健保叫 Medicare，一般澳洲公民和永久居民都享有此福利。雖然澳洲沒有強迫人民購買私人保險，但為了減輕財政負擔，澳洲政府會向年收入超過 9 萬(單身)或是18萬(家庭)且沒有購買私人保險的民眾徵收 1–1.5% 年收入的 [Medicare levy surcharge](https://www.ato.gov.au/Individuals/Tax-return/2022/Tax-return/Medicare-levy-questions-M1-M2/M2-Medicare-levy-surcharge-%28MLS%29-2022/#:~:text=Depending%20on%20your%20income%20for,distribution%20tax%20has%20been%20paid.)
+
+*。舉例來說，一個年收 $9 萬的單生人士一年要付 $9000 澳幣 Medicare levy surcharge，所以很多人都會覺得與其多繳 $9000的稅，不如拿去買私人保險。*
 
   * **ESPP (Employee Stock Purchase Program)**
 

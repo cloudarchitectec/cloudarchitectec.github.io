@@ -18,7 +18,9 @@ tags: ["DevOps 工程師","澳洲面試心得"]
 
 以下是我第一版的履歷，可以看出我的技能跟 DevOps 基本上不太符合XD
 
-![澳洲求職履歷範本展示](images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg)2023年履歷 v1.0
+![澳洲求職履歷範本展示](images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg)
+
+*2023年履歷 v1.0*
 
 但我可能勝在分別在兩大雲平台 (AWS & Microsoft Azure) 工作過，再加上擁有不少雲端證照 (其實我總共有九張，但限於版面因素放不下XD)，有些 Hiring Manager (HM) 還是會對找我來聊聊感興趣。
 

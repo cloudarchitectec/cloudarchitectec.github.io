@@ -8,7 +8,9 @@ categories: ["EC"]
 tags: ["職涯","海外職場", "英文面試"]
 ---
 
-![EC職涯諮詢服務](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg)Architecting Career Success Beyond the Cloud
+![EC職涯諮詢服務](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg)
+
+*Architecting Career Success Beyond the Cloud*
 
 ### 🔔 海外職場×履歷優化 × 面試攻略 × DevOps/雲端職涯
 

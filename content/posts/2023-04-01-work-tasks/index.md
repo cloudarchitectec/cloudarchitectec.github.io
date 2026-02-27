@@ -15,7 +15,9 @@ tags: ["職涯"]
 
 ### 前言
 
-這個方法是我最近在 podcast **大人的 Small Talk E**[**P121 不再憑直覺換工作！轉職也有系統化做法？**](https://podcasts.apple.com/us/podcast/ep121-%E4%B8%8D%E5%86%8D%E6%86%91%E7%9B%B4%E8%A6%BA%E6%8F%9B%E5%B7%A5%E4%BD%9C-%E8%BD%89%E8%81%B7%E4%B9%9F%E6%9C%89%E7%B3%BB%E7%B5%B1%E5%8C%96%E5%81%9A%E6%B3%95/id1452688611?i=1000506406004)上學到的，聽完之後覺得是一個以系統性方法來分析職位內容跟個人工作傾向，非常適用於最近在考慮要不要轉換職涯方向的我，所以想要加上我自己個人的解讀來跟大家分享一下。
+這個方法是我最近在 podcast **大人的 Small Talk E**[**P121 不再憑直覺換工作！轉職也有系統化做法？**](https://podcasts.apple.com/us/podcast/ep121-%E4%B8%8D%E5%86%8D%E6%86%91%E7%9B%B4%E8%A6%BA%E6%8F%9B%E5%B7%A5%E4%BD%9C-%E8%BD%89%E8%81%B7%E4%B9%9F%E6%9C%89%E7%B3%BB%E7%B5%B1%E5%8C%96%E5%81%9A%E6%B3%95/id1452688611?i=1000506406004)
+
+*上學到的，聽完之後覺得是一個以系統性方法來分析職位內容跟個人工作傾向，非常適用於最近在考慮要不要轉換職涯方向的我，所以想要加上我自己個人的解讀來跟大家分享一下。*
 
 ### 如何做工作小任務分析:
 
@@ -31,7 +33,9 @@ tags: ["職涯"]
 
 以下是我對於 Solution Architect 這個職位的工作小任務分析，我總共歸納出14個小任務。有趣的是，我最後的總分是 0 分XDD (也就是我喜歡的小任務跟不喜歡的小任務剛好打成平手)。Bryan 的廣播裡沒有提到評分加總這個概念，但我覺得如果你的整體評分可以是正數或是越高越好，那就代表其實你的現職並沒有那麼難以忍受(可能只是其中一兩項你不喜歡)，所以你也可以用此作為要不要轉職的標準，畢竟世界上沒有完美的工作，人總是要做出取捨XD
 
-![SA 工作小任務分析 1–6](images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg)![SA 工作小任務分析 7–10](images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg)![SA 工作小任務分析 11–13](images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg)![SA 工作小任務分析 14](images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg)
+![SA 工作小任務分析 1–6](images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg)![SA 工作小任務分析 7–10](images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg)
+
+*![SA 工作小任務分析 11–13](images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg)![SA 工作小任務分析 14](images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg)*
 
 如果你們有嘗試這個工作小任務分析，也歡迎在留言跟我分享你們的結果。你們的工作可以被分成多少的小任務? 裡面負1分小任務比較多，還是正1分小任務比較多? 你們的總分是正數還是負數呢? 你們覺得這個分析有幫助嗎? 因為我也非常好奇大家的分析結果! 哈哈
 

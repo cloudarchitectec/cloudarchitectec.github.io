@@ -92,7 +92,9 @@ ATS 突然傳訊息問我有什麼需要幫忙的嗎？我心想，少在那邊�
 
 ### Workshop 當日
 
-![技術工作坊演示文稿首頁設計](images/medium-1*GESZpUU1YXukmjSgmnKlRw.png.jpg)我當天的投影片首頁
+![技術工作坊演示文稿首頁設計](images/medium-1*GESZpUU1YXukmjSgmnKlRw.png.jpg)
+
+*我當天的投影片首頁*
 
 這個 workshop 是 hybrid 的模式，客戶的雪梨團隊會到雪梨辦公室，其他客戶會遠端加入。微軟這邊也是，一些人在雪梨現場，一些人遠端加入。
 

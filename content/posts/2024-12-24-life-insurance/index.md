@@ -63,7 +63,9 @@ A: 當我發現自己已經開始需要研究保險的時候XDDD
 
 **EC 建議** ：
 
-  * 避免踩雷，請盡量使用政府推薦的中立比價工具 [MoneySmart](https://moneysmart.gov.au/how-life-insurance-works/life-insurance-claims-comparison-tool)，而非商業比價網站。
+  * 避免踩雷，請盡量使用政府推薦的中立比價工具 [MoneySmart](https://moneysmart.gov.au/how-life-insurance-works/life-insurance-claims-comparison-tool)
+
+*，而非商業比價網站。*
   * 很多保險公司不提供線上投保，需透過專人聯繫。
   * 部分公司甚至要求找持牌財務顧問（Financial Advisor）才能購買。
 

@@ -56,13 +56,17 @@ Garret 講的是他自己成為程式設計師的故事，非常有趣！
 
 我給的指令是「輕輕把花生醬上的封膜撕掉」，後來大家學乖了，每個指令要嘛加上溫柔地 (“gently”)，要嘛就要描述地很明確，避免老師又用暴力破解法XD (未來的 EC: 當年的我只覺得這段教學的娛樂性很強，在台下哈哈大笑。現在的我發現這真是深刻的一課，雖然電腦的運算能力比人類強大太多，但如果指令下得不夠明確或是不了解電腦的運作方式，其實很容易會得到意外的結果，這也是為什麼我們工程師常常在 debug 的原因！)
 
-![程式訓練營早餐互動時光](images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg)![剩餘的早餐花生醬吐司](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg)右圖是最後被留在講桌上的花生醬吐司，也太慘烈了lol
+![程式訓練營早餐互動時光](images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg)
+
+*![剩餘的早餐花生醬吐司](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg)右圖是最後被留在講桌上的花生醬吐司，也太慘烈了lol*
 
 ### 晶片玩具
 
 今天我們也獲得了一個新玩具 Circuit Playground (長得有點像晶片)，我們可以寫程式控制它的變化，例如可以寫程式讓它唱歌(今天有同學成功XD)，還可以讓它閃七彩霓虹燈! 超酷的啦!!!!
 
-![程式實作創意教學道具](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg)![老師自製程式概念教學工具](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg)![創意程式學習互動裝置](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg)這個酷東西真的很好玩，Garret真的是一個很有想法的老師！
+![程式實作創意教學道具](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg)![老師自製程式概念教學工具](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg)
+
+*![創意程式學習互動裝置](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg)這個酷東西真的很好玩，Garret真的是一個很有想法的老師！*
 
 ### 凱西小姐
 

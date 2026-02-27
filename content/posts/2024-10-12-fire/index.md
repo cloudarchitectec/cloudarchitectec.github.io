@@ -46,7 +46,9 @@ tags: ["好想要退休", "FIRE", "退休規劃"]
 
 * * *
 
-![PTT 宅男退休分享文截圖第一頁](images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg)![PTT 宅男退休分享文截圖第二頁](images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg)
+![PTT 宅男退休分享文截圖第一頁](images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg)
+
+*![PTT 宅男退休分享文截圖第二頁](images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg)*
 
 ### 心得
 

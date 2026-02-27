@@ -36,7 +36,9 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 
 假設這個 migration project 的設計在三月談好了，預計七月開始部署到雲上，這個項目預計做到年底完成，所以我在 sales pipeline 上就必須要列出像下面這個表格，上面寫著客戶預計在哪個日期部署哪些服務、這些服務會花多少錢、以及每個 milestone 的進度。
 
-![雲端移轉項目初期時程規劃](images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg)一開始的項目進度
+![雲端移轉項目初期時程規劃](images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg)
+
+*一開始的項目進度*
 
 ### 執行上的困難
 
@@ -44,7 +46,9 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 
 我前面說過 Microsoft ANZ (Australia & New Zealand) 追求的是 100% forecasting accuracy，也就是説這個我今年三月訂好的計畫只要有任何時間或是金額上的更動都不行。
 
-![雲端移轉項目實際執行狀況](images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg)實際上的項目進度
+![雲端移轉項目實際執行狀況](images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg)
+
+*實際上的項目進度*
 
   1. 例如客戶說「EC 啊～我們這個項目的進度有點延遲，八月的 migration 我們現在可能要延遲兩週，變成 9/15 才能部署」。我就要在系統裡做筆記，然後通知我的經理，然後我的經理就會問我說是什麼問題呢？微軟要怎麼幫助他們呢？我說客戶好像沒錢，不如你幫他出錢？XD (這是開玩笑的，但客戶很常有預算問題是真的，下面會更詳細說明)。
   2. 或是客戶說「EC 啊～我們這個項目的進度有點延遲，八月的我們只能 migrate 50個 VMs)」，然後我的經理就會說「EC 啊～你八月的 ACR 怎麼只有一萬呢？這樣不行啊，快跟我解釋一下為什麼，我要去跟微軟高層解釋。」
@@ -66,11 +70,15 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 基本上 cost estimation 我們通常都是用 Azure Pricing Calculator 算的，這個網頁是公開的，有興趣的人可以自己上去玩玩看：<https://azure.microsoft.com/en-au/pricing/calculator/>
 
-![Azure雲端服務價格計算工具](images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg)Azure Pricing Calculator
+![Azure雲端服務價格計算工具](images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg)
+
+*Azure Pricing Calculator*
 
 我也遇過一些奇葩客戶，例如有一個客戶狂改他們的 networking design，下子說他們要用 VPN Gateway，一下子說他們要用 Virtual WAN。然後叫我算價錢給他們，但又不給我參數。例如要算VPN Gateway的價格我必須要知道他們要選哪一個 VPN Gateway SKU，然後他們又不告訴他們需要的 throughput 有多少，是要叫我去通靈嗎？XD
 
-![VPN閘道服務價格計算器](images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg)VPN Gateway Pricing Calculator
+![VPN閘道服務價格計算器](images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg)
+
+*VPN Gateway Pricing Calculator*
 
 好，所以我就自己用了一些常見的 assumptions 算了一個數字給他們 (通靈就通靈！)，然後請客戶確認是否跟他們內部的參數和項目預算相符，然後客戶就不回信了。就算我再三 follow up，跟不同人follow up，請其他們去 follow up 也都不回我。大哭！
 
@@ -84,7 +92,9 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 如果讓我換一個圓餅圖來表示 SA 的工作時間分配，其實是長這樣子的（前提：這是以微軟的 SA 工作為例，聽說 AWS 的 SA 不需要花這麼多時間在Sales Pipeline Managment）
 
-![微軟雲端架構師工作內容分布圖](images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg)Microsoft CSA Work Distribution
+![微軟雲端架構師工作內容分布圖](images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg)
+
+*Microsoft CSA Work Distribution*
 
 - **Task 1 Presentation/Workshops & Task 2 Technical Guidance/Customer Meeting**：算是技術相關的工作內容，合起來佔 30%。但我其實也很好奇，你們覺得提供 technical guidance、creating technical demo & poc、 presentation 這樣就算是一個技術職位嗎? 還是只有 hardcode programming 才算哈哈？ 我打算之後來寫一篇 <<Software Engineer、Cloud Engineer、DevOps Engineer，你寫的 code 跟我寫的到底有什麼不同?>>，裡面會提供一些 code samples，來進一步跟大家解析這三個 engineer 職位的不同，有興趣的人請在下方加1 XD
 

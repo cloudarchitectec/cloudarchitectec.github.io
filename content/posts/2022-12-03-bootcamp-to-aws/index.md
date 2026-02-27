@@ -8,7 +8,9 @@ categories: ["海外職場"]
 tags: ["轉職工程師", "海外職場", "科技業"]
 ---
 
-![筆記本與筆電](images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg)planning photo @[Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters)
+![筆記本與筆電](images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg)
+
+*planning photo @[Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters)*
 
 ### **轉職背景**
 
@@ -40,7 +42,9 @@ tags: ["轉職工程師", "海外職場", "科技業"]
 
 **II. 制定轉職計畫**
 
-決定要轉職 IT 後，我的第一步是嘗試一些免費的線上程式課程，例如 [FreeCodeCamp ](https://www.freecodecamp.org/)跟 [Codecademy](https://www.codecademy.com/) 都是很好的資源，至少要先確定我對寫程式有興趣，並且能從中得到樂趣，才繼續進行我的轉職大業。
+決定要轉職 IT 後，我的第一步是嘗試一些免費的線上程式課程，例如 [FreeCodeCamp ](https://www.freecodecamp.org/)
+
+*跟 [Codecademy](https://www.codecademy.com/) 都是很好的資源，至少要先確定我對寫程式有興趣，並且能從中得到樂趣，才繼續進行我的轉職大業。*
 
 其實網路上有非常多人就靠著這些免費或付費的學習資源，自學成為了工程師。然而我在自學了一個月後，發現這樣的方式很難讓我達成轉職成功的目的，於是我開始研究是否要回澳洲大學重讀一個 Computer Science 學位或是去讀 coding bootcamp (coding bootcamp 是一個源自美國的概念，類似台灣的資策會或是程式訓練營，提供網頁開發的相關程式技能培訓，讓人成功轉職工程師的私人機構)。
 

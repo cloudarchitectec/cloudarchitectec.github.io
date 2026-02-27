@@ -32,7 +32,9 @@ tags: ["雲端證照"]
 
 ### **Learning Path 規劃**
 
-**[AWS 證照](https://aws.amazon.com/certification/?fbclid=IwAR00Na8OOyFcgLu3zUiEnzPXIo7eyyyBwyZ-P1Xh49e_FavaPmmnOgMPnlc)**
+**[AWS 證照](https://aws.amazon.com/certification/?fbclid=IwAR00Na8OOyFcgLu3zUiEnzPXIo7eyyyBwyZ-P1Xh49e_FavaPmmnOgMPnlc)
+
+****
 
 AWS 分級非常清晰，分別為 fundamental 一張、Associate 三張、Professional 兩張，以及 Specialty 六張。證照路線規劃明確，speciality 的 domains 也區分得非常清楚，不會有重疊的部分。
 
@@ -42,7 +44,9 @@ AWS 分級非常清晰，分別為 fundamental 一張、Associate 三張、Profe
 
 除非考試免費或是你的目標是盡可能蒐集更多 AWS 證照，或是你是非技術人員(sales、account executive、manager)，但公司又要求你要考基礎 AWS 證照，不然建議技術職的大家完全可以從 Solution Architect Associate，省時省力XD (Cloud Practitioner 在面試的加分程度基本上是近乎於零XD)
 
-**[Azure 證照](https://learn.microsoft.com/en-us/certifications/browse/)**
+**[Azure 證照](https://learn.microsoft.com/en-us/certifications/browse/)
+
+****
 
 Azure 證照則是完全相反，他們有超多 fundamental (例如 AI、Azure、Power Platform、Dymanic 365 等等)、超多 Assocaites、超多 professional 跟 specialty 證照。
 
@@ -54,7 +58,9 @@ Azure 證照則是完全相反，他們有超多 fundamental (例如 AI、Azure�
 
 除此之外，Azure 證照領域的區分細緻到很奇怪的地步，例如把 identity 分出來單純做一個證照 (通常 identity 會是security的一部分，而且是比重最高的部分)。甚至其中一個 Azure service AVD (Azure Virtual Desktop) 也可以自己獨立出來一個證照，我覺得完全就是莫名其妙XDD
 
-如果可以的話，我也是建議跳過 AZ-900，直接考 AZ-104。但針對 Azure 證照 AZ-900 有一個小秘訣，如果你上微軟的網站報名免費的 [virtual training day](https://info.microsoft.com/AU-HCSAzureHybridInfra-CATALOG-FY21-07Jul-07-MicrosoftAzureVirtualTrainingDayFundamentals-SRDEM33006_CatalogDisplayPage.html)，上完課之後就可以直接獲得免費的考試 voucher 一張! AWS 完全就沒有這個優惠!
+如果可以的話，我也是建議跳過 AZ-900，直接考 AZ-104。但針對 Azure 證照 AZ-900 有一個小秘訣，如果你上微軟的網站報名免費的 [virtual training day](https://info.microsoft.com/AU-HCSAzureHybridInfra-CATALOG-FY21-07Jul-07-MicrosoftAzureVirtualTrainingDayFundamentals-SRDEM33006_CatalogDisplayPage.html)
+
+*，上完課之後就可以直接獲得免費的考試 voucher 一張! AWS 完全就沒有這個優惠!*
 
 ### 考試本身
 

@@ -8,7 +8,9 @@ categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 ---
 
-![薩爾斯堡遊客中心莫札特紀念冊](images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpeg.jpg)薩爾斯堡遊客中心莫札特小冊子
+![薩爾斯堡遊客中心莫札特紀念冊](images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpeg.jpg)
+
+*薩爾斯堡遊客中心莫札特小冊子*
 
 其實我的歐洲行程裡本來完全沒有規劃要去奧地利，只是到了慕尼黑後，我突然發現慕尼黑離奧地利的薩爾斯堡超近，只要 1.5–2 個小時的火車，再加上慕尼黑市區也沒有太多重要景點，唯一一個我特別想去的近郊景點達豪集中營，我也在抵達慕尼黑當天就成功跑完了，於是就決定把薩爾斯堡，也是莫札特的故鄉排進行程！
 
@@ -24,7 +26,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### 薩爾斯堡
 
-![奧地利薩爾斯堡火車站外觀](images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpeg.jpg)![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpeg.jpg)![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpeg.jpg)薩爾斯堡火車站與街景
+![奧地利薩爾斯堡火車站外觀](images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpeg.jpg)
+
+*![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpeg.jpg)![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpeg.jpg)薩爾斯堡火車站與街景*
 
 一到薩爾斯堡，其實沒有太多跨國的感覺，因為奧地利也是講德文XD (我真的覺得這就是住在歐洲有趣的地方，感覺火車坐一坐就有可能不小心出國!)
 
@@ -44,7 +48,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 我覺得這個景點說真的沒有太令人驚豔，但還是可以勉強來參觀一下
 
-![莫札特Q版雕像紀念品](images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpeg.jpg)![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpeg.jpg)莫札特雕像與壁畫
+![莫札特Q版雕像紀念品](images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpeg.jpg)
+
+*![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpeg.jpg)莫札特雕像與壁畫*
 
 **莫扎特故居 Mozart Residence**
 
@@ -58,7 +64,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 例如莫札特他家附近有一家莫札特咖啡廳，但咖啡廳其實跟莫札特一點關係都沒有，純粹就是老闆買下咖啡廳後，改名成莫札特咖啡廳而已
 
-![薩爾斯堡莫札特主題咖啡廳](images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpeg.jpg)![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpeg.jpg)![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpeg.jpg)莫札特咖啡廳
+![薩爾斯堡莫札特主題咖啡廳](images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpeg.jpg)
+
+*![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpeg.jpg)![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpeg.jpg)莫札特咖啡廳*
 
 我在這裡吃了莫札特蛋糕，這個蛋糕也是以莫札特命名而已，跟他本人也是一點關係都沒有。總之成分就是巧克力蛋糕、奶油杏仁霜跟一層開心果。說實話，不怎樣，甚至都沒吃到開心果味lol
 
@@ -70,7 +78,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 而且這個莫札特巧克力，還有不同的版本，還有人專文分析教你買哪一種才是最正統的：[莫札特巧克力要買哪一種? 哪種莫札特巧克力才是真的? 奧地利必買伴手禮](https://inin.tw/mozartkugel/)
 
-![薩爾斯堡限定正版莫札特巧克力](images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpeg.jpg)只有在薩爾斯堡才能買到的版本
+![薩爾斯堡限定正版莫札特巧克力](images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpeg.jpg)
+
+*只有在薩爾斯堡才能買到的版本*
 
 我剛好在路上看到這個據說只有在薩爾斯堡才能買到的正版手工巧克力，於是我就買了一個 6 顆的組合想說來體驗看看…… 我覺得真的好吃耶！
 
@@ -84,13 +94,19 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 簡單心得：船長姊姊是個超瘦超正大正妹
 
-![薩爾斯河遊船女船長背影](images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpeg.jpg)船長姊姊的背影XD
+![薩爾斯河遊船女船長背影](images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpeg.jpg)
+
+*船長姊姊的背影XD*
 
 ### Stiegl-Brauwelt 啤酒廠
 
-![奧地利Stiegl啤酒廠葡萄柚啤酒](images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpeg.jpg)![薩爾斯堡啤酒廠德式午餐](images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpeg.jpg)![德式法蘭克福香腸與麵包](images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpeg.jpg)酒廠午餐
+![奧地利Stiegl啤酒廠葡萄柚啤酒](images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpeg.jpg)
 
-![Stiegl啤酒廠檸檬果味啤酒](images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpeg.jpg)![奧地利傳統風味晚餐](images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpeg.jpg)![啤酒廠手工黃芥末醬](images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpeg.jpg)酒廠晚餐
+*![薩爾斯堡啤酒廠德式午餐](images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpeg.jpg)![德式法蘭克福香腸與麵包](images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpeg.jpg)酒廠午餐*
+
+![Stiegl啤酒廠檸檬果味啤酒](images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpeg.jpg)
+
+*![奧地利傳統風味晚餐](images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpeg.jpg)![啤酒廠手工黃芥末醬](images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpeg.jpg)酒廠晚餐*
 
 薩爾斯堡有個奧地利本土啤酒廠 Stiegl-Brauwelt 可以參觀（門票一樣是包在薩爾斯堡卡裡)，但我因為時間來不及所以沒辦法參觀他們的啤酒博物館。不過我的午餐跟晚餐都是在這裡吃的，我的媽啊！他們葡萄柚啤酒超級驚豔，檸檬啤酒也不錯！不知道澳洲能不能買到？
 
@@ -98,7 +114,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### 薩爾斯堡要塞&要塞纜車Festung Hohensalzburg
 
-![薩爾斯堡要塞俯瞰城市全景](images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpeg.jpg)![要塞山頂眺望阿爾卑斯山景](images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpeg.jpg)薩爾斯堡要塞
+![薩爾斯堡要塞俯瞰城市全景](images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpeg.jpg)
+
+*![要塞山頂眺望阿爾卑斯山景](images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpeg.jpg)薩爾斯堡要塞*
 
 門票跟上下纜車票也都包在薩爾斯堡卡裡！我個人建議時間有限的人上下山都直接坐纜車，因為山上超美，可以俯瞰薩爾斯堡的美景，會花很多時間拍風景照跟自拍照。
 
@@ -106,7 +124,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### Mönchsberg Elevator
 
-![Mönchsberg電梯觀景台入口](images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpeg.jpg)![現代美術館旁的觀景電梯](images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpeg.jpg)![電梯觀景台俯瞰薩爾斯堡](images/medium-1*rb-zBQbH87RNfabxuS830Q.jpeg.jpg)Mönchsberg Elevator
+![Mönchsberg電梯觀景台入口](images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpeg.jpg)
+
+*![現代美術館旁的觀景電梯](images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpeg.jpg)![電梯觀景台俯瞰薩爾斯堡](images/medium-1*rb-zBQbH87RNfabxuS830Q.jpeg.jpg)Mönchsberg Elevator*
 
 最後一個景點是 Mönchsberg Elevator，這是位於現代美術館旁邊的電梯，搭上去之後有個觀景平台，我個人覺得很適合黃昏時去，如果可以待到晚上的話聽說夜景很棒！
 
@@ -118,7 +138,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### 旅行紀念品
 
-![薩爾斯堡插畫風格城市明信片](images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpeg.jpg)超可愛的薩爾斯堡明信片
+![薩爾斯堡插畫風格城市明信片](images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpeg.jpg)
+
+*超可愛的薩爾斯堡明信片*
 
 每次旅行其實我會買的紀念品都只有明信片而已XD
 

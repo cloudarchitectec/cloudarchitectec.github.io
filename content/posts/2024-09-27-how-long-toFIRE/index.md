@@ -10,7 +10,9 @@ tags: ["好想要退休", "FIRE", "退休規劃"]
 
 ![FIRE財務自由退休規劃](images/medium-0*6FlTC363YDM-gs_Z.jpg)Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
-過去幾年 EC 總是三不五時嚷嚷著要退休，有一陣子也很熱衷於吸收有關 FIRE ([Financial Independence, Retire Early](https://zh.wikipedia.org/zh-tw/FIRE%E8%BF%90%E5%8A%A8)) 運動的資訊，也投資了一些 ETFs ([指數基金](https://zh.wikipedia.org/zh-tw/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91))。
+過去幾年 EC 總是三不五時嚷嚷著要退休，有一陣子也很熱衷於吸收有關 FIRE ([Financial Independence, Retire Early](https://zh.wikipedia.org/zh-tw/FIRE%E8%BF%90%E5%8A%A8)
+
+*) 運動的資訊，也投資了一些 ETFs ([指數基金](https://zh.wikipedia.org/zh-tw/%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91))。*
 
 * * *
 

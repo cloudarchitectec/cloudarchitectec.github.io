@@ -48,7 +48,9 @@ tags: ["澳洲求職必勝法則", "轉職工程師","英文面試"]
 
 - **更新 LinkedIn Profile，把所有的工作經歷跟成就寫成英文** (以下是我自己的 LinkedIn 工作經歷描述，供大家參考)
 
-![](images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png)我的 LinkedIn 工作經歷描述
+![](images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png)
+
+*我的 LinkedIn 工作經歷描述*
 
 **當你抵達澳洲後，我建議你立刻做以下三件事：**
 
@@ -84,11 +86,15 @@ tags: ["澳洲求職必勝法則", "轉職工程師","英文面試"]
 
 1. **澳洲版的 104 人力銀行** [**Seek.com**](https://www.seek.com.au/)
 
-![](images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png)Seek.com.au
+![](images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png)
+
+*Seek.com.au*
 
 **2. 透過 LinkedIn Jobs**
 
-![](images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png)LinkedIn Jobs
+![](images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png)
+
+*LinkedIn Jobs*
 
 **3. 最後一個方法就是 Networking/Networking/Networking**
 
@@ -98,7 +104,9 @@ tags: ["澳洲求職必勝法則", "轉職工程師","英文面試"]
 
 以下是兩篇我寫的 Linkedin 文章，供大家參考。其實我突然想到如何經營 Linkedin 也可以寫一篇，想看的人一樣請留言XD
 
-![](images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png) ![](images/medium-1*6KGdpzZwegqjjnCelIeHlg.png)LinkedIn posts
+![](images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png) ![](images/medium-1*6KGdpzZwegqjjnCelIeHlg.png)
+
+*LinkedIn posts*
 
 最後請多多在 LinkedIn 加 connections，增加自己在澳洲科技業的人脈。但也不要隨便亂加XD。我每送出一個申請都會寫 personal note，上面寫說我們是在哪裡認識的，或是我是透過誰看到他們的個人資訊，想要跟他們 connect。假設你在 LinkedIn 上看到一個人的工作背景你非常有興趣，也可以傳訊息問他們願不願意出來喝杯咖啡聊聊，你請客，向他們討教一些問題，或是約 virtual coffee 也可以，基本上我遇見的人都非常樂意幫忙。
 
