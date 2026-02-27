@@ -25,9 +25,7 @@ tags: ["雲端證照"]
 
 ### **學習資源**
 
-  * **A Cloud Guru (ACG) 課程**[**AZ-104 Microsoft Azure Administrator Certification Prep**](https://learn.acloud.guru/course/160303d7-6947-4fbc-9d19-fa304849f92e/dashboard)
-
-***(免費，因為我有 AWS 員工的學習資源XD)***
+  * **A Cloud Guru (ACG) 課程**[**AZ-104 Microsoft Azure Administrator Certification Prep**](https://learn.acloud.guru/course/160303d7-6947-4fbc-9d19-fa304849f92e/dashboard)**(免費，因為我有 AWS 員工的學習資源XD)**
 
 
 
@@ -43,9 +41,7 @@ tags: ["雲端證照"]
 
 **EC 評價: 免費的話可以用一用，但我之後考 AZ-305 的時候應該會找一找有沒有其他更有效的資源。**
 
-  * **Tutorial Dojo 的練習題**[**AZ-104 MICROSOFT AZURE ADMINISTRATOR PRACTICE EXAMS**](https://tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/)
-
-***(USD$11.99 ，使用折扣碼 TutorialDojo 只要 USD$8.99)***
+  * **Tutorial Dojo 的練習題**[**AZ-104 MICROSOFT AZURE ADMINISTRATOR PRACTICE EXAMS**](https://tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/)**(USD$11.99 ，使用折扣碼 TutorialDojo 只要 USD$8.99)**
 
 
 
@@ -55,9 +51,7 @@ tags: ["雲端證照"]
 
 **EC 評價: review mode 我很喜歡，如果 USD$8.99 對你來說不會造成負擔的話，推薦購買!**
 
-  * **Udemy 的練習題**[**AZ-104: Microsoft Azure Administrator Practice Tests 2022**](https://www.udemy.com/course/az-104-microsoft-azure-administrator-exam-practice-tests/)
-
-***(AUD $26.99)***
+  * **Udemy 的練習題**[**AZ-104: Microsoft Azure Administrator Practice Tests 2022**](https://www.udemy.com/course/az-104-microsoft-azure-administrator-exam-practice-tests/)**(AUD $26.99)**
 
 
 
@@ -69,9 +63,7 @@ tags: ["雲端證照"]
 
 **EC 評價: 這個價格跟這個形式我不會買，因為不適合我個人的學習模式。**
 
-  * **YouTube 的**[**AZ-104: Weekend Exam Cram | 190 Questions & Answers | Pass AZ-104 in 5 hours | Free pdf with answers **](https://www.youtube.com/watch?v=QGZWqYIpOMw)
-
-***(免費)***
+  * **YouTube 的**[**AZ-104: Weekend Exam Cram | 190 Questions & Answers | Pass AZ-104 in 5 hours | Free pdf with answers**](https://www.youtube.com/watch?v=QGZWqYIpOMw)**(免費)**
 
 
 

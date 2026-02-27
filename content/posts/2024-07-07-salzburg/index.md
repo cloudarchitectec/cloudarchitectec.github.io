@@ -28,7 +28,11 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ![奧地利薩爾斯堡火車站外觀](images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpeg.jpg)
 
-*![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpeg.jpg)![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpeg.jpg)薩爾斯堡火車站與街景*
+![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpeg.jpg)
+
+![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpeg.jpg)
+
+*薩爾斯堡火車站與街景*
 
 一到薩爾斯堡，其實沒有太多跨國的感覺，因為奧地利也是講德文XD (我真的覺得這就是住在歐洲有趣的地方，感覺火車坐一坐就有可能不小心出國!)
 
@@ -40,7 +44,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 **莫扎特出生地 Mozart Birthplace**
 
-![莫札特出生地粉橘色外觀建築](images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpeg.jpg) 黃色那棟建築就是莫扎特出生地
+![莫札特出生地粉橘色外觀建築](images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpeg.jpg)
+
+*黃色那棟建築就是莫扎特出生地*
 
 這裡我非常驚訝的是莫札特他爸媽也租了26年的公寓，看來在薩爾斯堡買房也是不容易XDD
 
@@ -50,11 +56,15 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ![莫札特Q版雕像紀念品](images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpeg.jpg)
 
-*![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpeg.jpg)莫札特雕像與壁畫*
+![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpeg.jpg)
+
+*莫札特雕像與壁畫*
 
 **莫扎特故居 Mozart Residence**
 
-![薩爾斯堡莫札特故居博物館外觀](images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpeg.jpg) 莫札特故居
+![薩爾斯堡莫札特故居博物館外觀](images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpeg.jpg)
+
+*莫札特故居*
 
 另一個景點莫扎特故居，我建議大家千萬不要來，不僅浪費錢，還浪費時間！！！(除非你像我一樣已經買了薩爾斯堡卡，抱持著順便進來上免費廁所的心XDD)我覺得薩爾斯堡很大一部分就是瘋狂消費莫札特的城市lol
 
@@ -66,7 +76,11 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ![薩爾斯堡莫札特主題咖啡廳](images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpeg.jpg)
 
-*![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpeg.jpg)![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpeg.jpg)莫札特咖啡廳*
+![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpeg.jpg)
+
+![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpeg.jpg)
+
+*莫札特咖啡廳*
 
 我在這裡吃了莫札特蛋糕，這個蛋糕也是以莫札特命名而已，跟他本人也是一點關係都沒有。總之成分就是巧克力蛋糕、奶油杏仁霜跟一層開心果。說實話，不怎樣，甚至都沒吃到開心果味lol
 

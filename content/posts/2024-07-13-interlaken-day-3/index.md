@@ -41,6 +41,10 @@ Rosti 是由馬鈴薯刨絲之後浸泡過鹽水再拿去煎（薯餅已經有�
 
 ![瑞士Feldschlösschen費爾德城堡啤酒](images/medium-1*dpF3Q-Xh-VeKKJzznYZB4Q.jpeg.jpg)
 
-*![Coop超市現烤雞腿](images/medium-1*-YDjgc09vwAK7QLHLP-XBA.jpeg.jpg)![瑞士當地人推薦紅色啤酒](images/medium-1*DIJd_kmV2lBKihwMxRjw-Q.jpeg.jpg)瑞士超市烤雞腿與啤酒*
+![Coop超市現烤雕腿](images/medium-1*-YDjgc09vwAK7QLHLP-XBA.jpeg.jpg)
+
+![疑士當地人推舉紅色啤酒](images/medium-1*DIJd_kmV2lBKihwMxRjw-Q.jpeg.jpg)
+
+*疑士超市烤雕腿與啤酒*
 
 {{< footer >}}

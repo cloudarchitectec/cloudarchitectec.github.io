@@ -54,9 +54,7 @@ tags: ["澳洲生活"]
 
 
 
-加入 Medium 付費會員的費用是一個月 5 美元或是一年 50 美元 (其實不太便宜XD)。加入付費會員後可以享有[這些好處](https://help.medium.com/hc/en-us/articles/115004545567-Become-a-member#:~:text=Medium%20Memberships%20are%20%245%2Fmonth%20or%20%2450%2Fyear)
-
-*(剛剛查了一下居然沒有中文版的說明，我覺得 Medium 對於中文社群真的很不友善！)*
+加入 Medium 付費會員的費用是一個月 5 美元或是一年 50 美元 (其實不太便宜XD)。加入付費會員後可以享有[這些好處](https://help.medium.com/hc/en-us/articles/115004545567-Become-a-member#:~:text=Medium%20Memberships%20are%20%245%2Fmonth%20or%20%2450%2Fyear)(剛剛查了一下居然沒有中文版的說明，我覺得 Medium 對於中文社群真的很不友善！)
 
 付費跟免費最大的差別是，Medium 免費會員一個月最多只能免費閱讀三篇「付費」文章(免費文章不受此限制，可以盡情閱讀)，Medium 付費會員可以無限制閱讀付費文章，我覺得對於輕量閱讀的 Medium 讀者影響其實不大，除此之外就沒有什麼特別吸引人之處了，難怪有很多人都不加入付費會員🤣
 
@@ -88,11 +86,7 @@ Medium 的文章收入計算其實非常複雜！雖然官方有公佈一些計�
 
 
 
-詳細規定請參考[這裡](https://help.medium.com/hc/en-us/articles/360036691193)
-
-*，但算式大概是這樣的：*
-
-![Medium收入計算公式](images/medium-1*FHBszSnAcT6KbLuEzONPlg.png.jpg)
+詳細規定請參考[這裡](https://help.medium.com/hc/en-us/articles/360036691193)，但算式大概是這樣的：
 
 *Medium 文章收入官方算式*
 
@@ -118,7 +112,11 @@ Medium 的文章收入計算其實非常複雜！雖然官方有公佈一些計�
 
 ![Medium粉絲數量統計](images/medium-1*majJdF6On50KL0IyVSTNug.png.jpg)
 
-*粉絲數量![Medium文章閱讀次數統計](images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg)文章閱讀次數*
+*粉絲數量*
+
+![Medium文章閱讀次數統計](images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png.jpg)
+
+*文章閱讀次數*
 
 其實真的算是非常小咖啦！而且仔細一看就會發現付出跟收入完全不符合正比，感覺真的就是在用愛發電😆
 

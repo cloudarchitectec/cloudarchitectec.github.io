@@ -94,7 +94,11 @@ Au Bon Marche 是當地的連鎖超市，我去逛的這間分店其實滿大的
 
 ![Au Bon Marche 連鎖超市](images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpeg.jpg)
 
-*![萬那杜當地汽水](images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg)![超市酒類區布幕遮蓋](images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg)超市初體驗*
+![萬那杉當地汽水](images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg)
+
+![[超市酒類區布幕逗蛋](images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg)
+
+*超市初體驗*
 
 逛完超市其實也才兩點多，但我真心無處可去😆 只好搭公車回機場換匯（至少這個公車司機沒有騙我錢😆），然後走路回民宿，也算是度過悠閒的一天～
 

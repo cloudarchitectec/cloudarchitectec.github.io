@@ -22,7 +22,7 @@ Bar 裡面有很多有趣的標語XD
 
 ![Cloud 9酒吧有趣標語裝飾](images/medium-0*QcchKBHhmEXEnYp_.jpg)
 
-*![海上酒吧內部創意標誌](images/medium-0*7WzJ_c1ClUre89qX.jpg)*
+![海上酒吧內部創意標誌](images/medium-0*7WzJ_c1ClUre89qX.jpg)
 
 我覺得 Cloud 9 好玩的地方在於跟你一同前往的遊客！我遇到人超好的美國大叔 Travis、他的斐濟女友 Reshmi，還有我的斐濟小 gay 蜜 Kusitino。
 
@@ -47,7 +47,9 @@ Travis 人完全好到爆表，我們只是隨口閒聊到說我想要去「跳�
 
 ![Cloud 9酒吧派對氣氛](images/medium-0*0i5Qtp7dsBw_-J9O.jpg)
 
-*![海上酒吧shots狂歡時光](images/medium-0*DCghkyylWU5GChrP.jpg)後來直接在酒吧狂喝 shots*
+![海上酒吧shots狂歡時光](images/medium-0*DCghkyylWU5GChrP.jpg)
+
+*後來直接在酒吧狂喝 shots*
 
 船上還有一群 black mamas，最會帶氣氛就是他們，其中一個人還跟我說她帶著她的歌單去叫 DJ 播她的歌XD
 

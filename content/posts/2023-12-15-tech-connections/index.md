@@ -60,7 +60,11 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
   1. **ReactJS:**[**https://www.meetup.com/en-AU/reactbris/**](https://www.meetup.com/en-AU/reactbris/)
 
-![](images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png.jpg) ReactBris Logo![](images/medium-1*9jJ12WPnePR-vuJ_IF3HTg.png.jpg)
+![](images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png.jpg) 
+
+*ReactBris Logo*
+
+![](images/medium-1*9jJ12WPnePR-vuJ_IF3HTg.png.jpg)
 
 *ReactBris 介紹＆近期活動*
 
@@ -82,9 +86,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 心得：前前東家 AWS (Amazon Web Services) 布里斯本辦的 meet up 團體。活動通常是在布里斯本 AWS 辦公室進行，主題大多都是跟 AWS 雲端技術相關。辦公室位於市中心 30 樓，風景很好。因為公司大、活動經費多，我上次去覺得食物好吃 (是廚師外燴，而不像一般活動都只是訂披薩而已)，布里斯本 AWS 辦公室還有特殊的 beer tap （中文我不會說，但請看以下示意圖）。這個是布里斯本辦公室特有的，有機會去的人一定要體驗看看XD 就當作免費去參觀 AWS 辦公室也值得XD
 
-![](images/medium-0*TozX87zgUY3ia-IV.jpg.jpg)
-
-*beer tap 是意圖，圖片來源：<https://englishlive.ef.com/zh-tw/blog/english-in-the-real-world/bar-pub/>*
+![](images/medium-0*TozX87zgUY3ia-IV.jpg.jpg)beer tap 是意圖，圖片來源：<https://englishlive.ef.com/zh-tw/blog/english-in-the-real-world/bar-pub/>
 
 另外因為是AWS舉辦的活動，所以去那邊可以認識很多在 AWS 工作的人，不失為一個更加了解 AWS 的方式。
 

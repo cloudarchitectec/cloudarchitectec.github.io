@@ -18,6 +18,8 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 
 ![學習裝備](images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg)
 
+*Su 的學習裝備*
+
 除了第一天就自備外接螢幕外，第二天她還帶了筆電直立式散熱器、人體工學鍵盤、人體工學滑鼠，她跟我說這些投資很值得，全部加起來大概兩百澳不到LOL
 
 另外她已經連續兩天跟我說「要是學校可以提供 standing table 就好了」… 所以哪天我要是去上學發現她買了一套在學校，我覺得也不是太意外?😂 (她在自己家裡也買了一套)
@@ -58,15 +60,29 @@ Garret 講的是他自己成為程式設計師的故事，非常有趣！
 
 ![程式訓練營早餐互動時光](images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg)
 
-*![剩餘的早餐花生醬吐司](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg)右圖是最後被留在講桌上的花生醬吐司，也太慘烈了lol*
+*程式訓練營早餐互動時光*
+
+![剩餘的早餐花生醬吐司](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg)
+
+*最後被留在講桌上的花生醬吐司，也太慘烈了lol*
 
 ### 晶片玩具
 
 今天我們也獲得了一個新玩具 Circuit Playground (長得有點像晶片)，我們可以寫程式控制它的變化，例如可以寫程式讓它唱歌(今天有同學成功XD)，還可以讓它閃七彩霓虹燈! 超酷的啦!!!!
 
-![程式實作創意教學道具](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg)![老師自製程式概念教學工具](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg)
+這個酷東西真的很好玩，Garret真的是一個很有想法的老師！
 
-*![創意程式學習互動裝置](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg)這個酷東西真的很好玩，Garret真的是一個很有想法的老師！*
+![程式實作創意教學道具](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg)
+
+*程式實作創意教學道具*
+
+![老師自製程式概念教學工具](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg)
+
+*老師自製程式概念教學工具*
+
+![創意程式學習互動裝置](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg)
+
+*創意程式學習互動裝置*
 
 ### 凱西小姐
 

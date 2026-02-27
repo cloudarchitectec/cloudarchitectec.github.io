@@ -26,7 +26,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 ![瑞士火車沿途四個湖泊景色](images/medium-1*bgE52bqShgmt9nqamDlgYA.jpeg.jpg)
 
-*![阿爾卑斯山間湖泊倒影](images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpeg.jpg)![火車車窗外瑞士山水風光](images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpeg.jpg)火車沿途的湖景超美*
+![阿爾卑斯山間湖泊倒影](images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpeg.jpg)
+
+![火車車窗外瑞士山水風光](images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpeg.jpg)
+
+*火車沿途的湖景超美*
 
 杯杯跟我提到，他其中一個兒子環遊世界時的其中一站是臺灣，他兒子跟他說臺灣的食物好吃（我心想那當然囉XD）、風景漂亮、人也很nice!
 
@@ -46,7 +50,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 ![伯恩熊公園的棕熊覓食](images/medium-1*EILbqYqargPjS28k9RcgVQ.jpeg.jpg)
 
-*![熊公園厭世表情棕熊](images/medium-1*gggTRlie6ezAERC6U46peQ.jpeg.jpg)![瑞士政府保護區內的熊](images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpeg.jpg)熊公園*
+![熊公園厭世表情棘熊](images/medium-1*gggTRlie6ezAERC6U46peQ.jpeg.jpg)
+
+![疑士政府保護區內的熊](images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpeg.jpg)
+
+*熊公園*
 
 ### 愛因斯坦居所與愛因斯塔咖啡
 
@@ -54,7 +62,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 ![愛因斯坦伯恩故居外觀建築](images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpeg.jpg)
 
-*![故居改建博物館入口](images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpeg.jpg)![物理學家愛因斯坦伯恩舊居](images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpeg.jpg)愛因斯坦在伯恩的故居*
+![故居改建博物館入口](images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpeg.jpg)
+
+![物理學家愛因斯坦伯恐舊居](images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpeg.jpg)
+
+*愛因斯坦在伏恒的故居*
 
 當時愛因斯坦居住的故居，現在一樓是咖啡館、二三樓則以博物館的形式對外開放。愛因斯坦故居的參觀門票要$7瑞士法朗，我看了 Google 評價，毀譽參半，但因為我覺得票價也不是很貴，所以我還是入內參觀了。
 
@@ -66,7 +78,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 ![愛因斯坦咖啡館復古環境](images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpeg.jpg)
 
-*![相對論主題招牌愛因斯坦咖啡](images/medium-1*axkvw5ZdF2iH3kSPCyFg.jpeg.jpg)![杏仁甜酒白蘭地特調咖啡](images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpeg.jpg)愛因斯坦咖啡*
+![相對論主題招牌愛因斯坦咖啡](images/medium-1*axkvw5ZdF2iH3kSPCyFg.jpeg.jpg)
+
+![桂仁甜酒白蘭地特劊咖啡](images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpeg.jpg)
+
+*愛因斯坦咖啡*
 
 品嚐之後發現這杯咖啡酒非常烈，一入喉有烈酒的擊喉感，喝一口之後整個人就已經熱了起來！雖然它大概是一般咖啡的兩倍價格，但感覺很值回票價？因為白蘭地加很多XDDD
 

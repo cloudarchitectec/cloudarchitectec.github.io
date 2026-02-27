@@ -22,11 +22,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![萬那杜芒果 smoothie](images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpeg.jpg)
 
-*![租車等待漫長時光](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg)*
+![租車等待漫長時光](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg)
 
 ![萬那杜租車 SUV](images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpeg.jpg)
 
-*![新車低里程數](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg)車子滿新的，里程數也不高！很喜歡～*
+![新車低里程數](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg)
+
+*車子滿新的，里程數也不高！很喜歡～*
 
 ### Eton Beach
 
@@ -50,7 +52,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![83酒廠參觀外觀](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg)
 
-*![83酒廠內部設施](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)83 Distrillery*
+![83酒廠內部設施](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)
+
+*83 Distrillery*
 
 本來要去巧克力工廠 Aelen chocolate factory（我去之前還看到他們的臉書廣告），但導航先帶我到了一個道路施工的地方，後來繞了一圈也沒找到，只好放棄。
 
@@ -58,7 +62,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![83 釀酒廠外觀建築](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg)
 
-*![萬那杜蔗糖釀酒廠](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)83 Distrillery*
+![萬那杜蔗糖釀酒廠](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)
+
+*83 Distrillery*
 
 ### Nambawan Café
 
@@ -86,10 +92,10 @@ Port Vila 南邊的路比起北邊來說好很多，雖然有坑，但沒有到�
 
 ![Pacific Lagoon 花園公寓](images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg)
 
-*![萬那杜住宿環境](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg)*
+![萬那杜住宿環境](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg)
 
 ![兩房公寓內部空間](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpeg.jpg)
 
-*![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg)*
+![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg)
 
 {{< footer >}}

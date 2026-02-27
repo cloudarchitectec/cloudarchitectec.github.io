@@ -18,13 +18,17 @@ tags: ["旅遊", "斐濟"]
 
 ![準備前往Malamala島的渡船](images/medium-0*dT_WyPnWXajYGYcL.jpg)
 
-*![Malamala島一日遊船隻](images/medium-0*R9AbkCk0zQIkb9-o.jpg)準備登船出海*
+![Malamala島一日遊船隻](images/medium-0*R9AbkCk0zQIkb9-o.jpg)
+
+*登船出海*
 
 途中必須再度炫耀一下我的美甲！Malamala 就是這個一個很圓的小島
 
 ![斐濟旅遊精緻美甲造型](images/medium-0*p9yMD2FNOryFwREY.jpg)
 
-*![Malamala島排隊等候的遊客](images/medium-0*5aNAFP6zOqe13T5_.jpg)美甲與排隊登島的遊客*
+![Malamala島排隊等候的遊客](images/medium-0*5aNAFP6zOqe13T5_.jpg)
+
+*美甲與排隊登島的遊客*
 
 我超級推薦這個小島的！因為這裡水超清澈無雜質，站在 jetty 上就可以看到底下的各種魚！
 
@@ -32,13 +36,15 @@ tags: ["旅遊", "斐濟"]
 
 ![Malamala島水上活動設備](images/medium-0*tx1vHrgAoRwihmAn.jpg)
 
-*![Malamala島無邊際泳池](images/medium-0*iXqoP6t0sPIp1q7b.jpg)*
+![Malamala島無邊際泳池](images/medium-0*iXqoP6t0sPIp1q7b.jpg)
 
 食物無敵好吃、調酒無敵好喝！
 
 ![Malamala島特色熱帶調酒](images/medium-0*5RrmqHw5bxvmzDi8.jpg)
 
-*![斐濟海島風味雞尾酒](images/medium-0*B8sqPydAQ1MWoyjD.jpg)這兩杯調酒的好喝程度都跟 Tokatoka 旅館不是同一個等級的*
+![斐濟海島風味雞尾酒](images/medium-0*B8sqPydAQ1MWoyjD.jpg)
+
+*這兩杯調酒的好喝程度都跟 Tokatoka 旅館不是同一個等級的*
 
 按摩區在海邊，可以一邊聽海浪聲一邊按摩。
 

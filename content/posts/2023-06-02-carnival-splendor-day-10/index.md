@@ -30,9 +30,7 @@ tags: ["旅遊", "新喀里多尼亞"]
 
   * **Cruise $1208/pp** : 九天的南太平洋郵輪陽台雙人房，一個人的價格是$1208。其實我覺得包吃包住包交通這個價格比起一般出國旅行的機票跟住宿花費來說，真的是輕鬆又省錢，難怪會有很多人喜歡郵輪旅行XD
   * **旅行保險 $103/pp** : 去南太平洋規定要買保險。
-  * **郵輪上的開支 $187** : 其實郵輪上真的沒什麼好花錢的(因為已經包吃包住包一些免費活動了)，我九天花了不到$200! 而且有很多錢都還是硬花的，因為我實在太無聊了XDDD 例如我花 $6.5 買了一杯現榨果汁，花 $4 買了一杯咖啡 (後來發現咖啡實在太難喝了，後面的咖啡錢都省下來了XD)，花了$60買了三杯調酒，基本上只有[ Alchemy Bar ](https://www.carnival.com.au/onboard/alchemy-bar)
-
-*的調酒好喝。在賭場花了$20，因為我實在太無聊了。只有義大利麵製作課我覺得花得很值得哈哈*
+  * **郵輪上的開支 $187** : 其實郵輪上真的沒什麼好花錢的(因為已經包吃包住包一些免費活動了)，我九天花了不到$200! 而且有很多錢都還是硬花的，因為我實在太無聊了XDDD 例如我花 $6.5 買了一杯現榨果汁，花 $4 買了一杯咖啡 (後來發現咖啡實在太難喝了，後面的咖啡錢都省下來了XD)，花了$60買了三杯調酒，基本上只有[ Alchemy Bar ](https://www.carnival.com.au/onboard/alchemy-bar)的調酒好喝。在賭場花了$20，因為我實在太無聊了。只有義大利麵製作課我覺得花得很值得哈哈
   * **島上的 tour 開支$180** ：我們去了四天小島，我們都是到了島上才訂行程，所以四天我就花了這些錢，但根據個人選擇的行程不同花費應該也會不一樣。
   * **紀念品$10** ：基本上我就只買了兩張明信片跟兩張郵票哈哈哈
 
@@ -52,9 +50,7 @@ tags: ["旅遊", "新喀里多尼亞"]
   8. **脫口秀** ：值得去看一下，但我覺得這個應該很看當天脫口秀表演的人對不對你的胃口。我看了三場只喜歡第一個人，剩下兩個一個是我覺得笑話很低級，另一個人我覺得根本不好笑XD
   9. **冰雕** : 其實就只是看他們雕冰雕，但至少是個免費的活動。
   10. **Bingo (付費)** : 去體驗一下跟整場觀眾一起玩賓果的經驗也算是滿有趣的，但屬於體驗過一次後我應該不會再參加的活動。
-  11. **Deal or no deal (付費**): 這是把一個澳洲同名的遊戲型電視節目 [Deal or No Deal ](https://en.wikipedia.org/wiki/Deal_or_No_Deal_%28Australian_game_show%29)
-
-*搬到船上，我印象中台灣也有類似的節目，查了一下叫[平民大富翁](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%B0%91%E5%A4%A7%E5%AF%8C%E7%BF%81)，是沈玉琳的節目XD 觀眾要花錢才能參與遊戲，我覺得有點無聊XD*
+  11. **Deal or no deal (付費**): 這是把一個澳洲同名的遊戲型電視節目 [Deal or No Deal ](https://en.wikipedia.org/wiki/Deal_or_No_Deal_%28Australian_game_show%29)搬到船上，我印象中台灣也有類似的節目，查了一下叫[平民大富翁](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%B0%91%E5%A4%A7%E5%AF%8C%E7%BF%81)，是沈玉琳的節目XD 觀眾要花錢才能參與遊戲，我覺得有點無聊XD
   12. **賭場(付費**): 我個人沒什麼偏財運，也不是特別愛賭博，所以我覺得勉強打發時間還可以(可是輸錢都輸很快，有可能5分鐘就輸了澳幣20，我覺得打發時間的CP值很低XDD)。
 
 
@@ -74,9 +70,7 @@ tags: ["旅遊", "新喀里多尼亞"]
   * **筆** ：需要填文件的時候很有用 (或是寫明信片的時候! 雖然我被朋友笑說這個年代還有誰在寫明信片QAQ)
   * **高跟鞋** ：拍照時使用，看起來腿會比較長。男生的話，也可以準備拍照時看起來會更高更好看的鞋子!
   * **Reef shoes** : 完全必帶，Kmart/big w 一雙$10就有，我在小島的海灘上被刮到腳超痛!
-  * **Snorkeling mask** : Kmart 有便宜的，也可以在 Amazon 買全罩式的，浮潛時視野比較清晰(類似[這種](https://www.amazon.com.au/AouloveS-Panoramic-Adjustable-Breathing-Anti-Leak/dp/B0BFGZKC24/ref=asc_df_B0BFGZKC24/?tag=googleshopdsk-22&linkCode=df0&hvadid=633553393862&hvpos=&hvnetw=g&hvrand=17006967514425320654&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9069077&hvtargid=pla-1943332306067&th=1&psc=1)
-
-*)。*
+  * **Snorkeling mask** : Kmart 有便宜的，也可以在 Amazon 買全罩式的，浮潛時視野比較清晰(類似[這種](https://www.amazon.com.au/AouloveS-Panoramic-Adjustable-Breathing-Anti-Leak/dp/B0BFGZKC24/ref=asc_df_B0BFGZKC24/?tag=googleshopdsk-22&linkCode=df0&hvadid=633553393862&hvpos=&hvnetw=g&hvrand=17006967514425320654&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9069077&hvtargid=pla-1943332306067&th=1&psc=1))。
   * **泳衣** ：可以至少帶個三套，因為旅程中有連續四天的小島行程，平常在遊輪上不管是玩滑水道或是泡加熱 spa 池都需要。
   * **透明的卡套** ：在船上所有消費都是透過一張 sail & sign card，同時也是你房間的鑰匙。一上船之後就會拿到這張卡，但他們不會發任何卡套，於是很多人只好在商店購買，建議自己攜帶一條掛在脖子上的卡套省錢。 PS: 卡套的英文叫 lanyard，我自己覺得這是一個台灣人學英文的時候不太會學到的字XD
   * **泡麵** ：一開始我想說餐廳的選項那麼多，應該不需要吧！但真的吃到最後覺得好膩!!! 我後來吃了兩次泡麵，覺得自己特別幸福~

@@ -13,7 +13,9 @@ tags: ["旅遊", "郵輪"]
 
 ![郵輪房務創意毛巾猩猩](images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpeg.jpg)
 
-*毛巾猩猩(?) 房務員還把 Ashley 的眼鏡放在上面，超好笑!*
+*毛巾猩猩(?)*
+
+房務員還把 Ashley 的眼鏡放在上面，超好笑!
 
 * * *
 
@@ -61,7 +63,11 @@ Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始
 
 ![郵輪80年代現場樂團表演](images/medium-1*XU3yT7_raobC99qC2ioKiA.jpeg.jpg)
 
-*有 live band 真的很嗨![郵輪80年代螢光棒派對](images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpeg.jpg)而且還發螢光棒!*
+*有 live band 真的很嗨*
+
+![郵輪80年代螢光棒派對](images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpeg.jpg)
+
+*而且還發螢光棒!*
 
 很多人也裝扮得很認真，但超多首80年代的歌我跟Ashley 都不知道，很難嗨起來 lol
 

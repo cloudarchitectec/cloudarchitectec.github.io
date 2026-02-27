@@ -37,9 +37,11 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 一開始我們先到了一家位於卡布丘的咖啡店 [**Gather & Feast**](https://maps.app.goo.gl/bGFKDigfQJPu1FmcA?g_st=ic)，裝潢非常有氣氛！我們看到別桌客人的餐點份量都很巨大、擺盤也都很美，不過藉於我們剛吃完早餐才出門，所以這次就只點了咖啡，他們的咖啡非常好喝(雖然拉花有點弱)，我們已經決定會再拜訪這家店！
 
-![Gather & Feast 咖啡店內部裝潢](images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg)![Gather & Feast 咖啡店精緻的咖啡拉花](images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg)
+![Gather & Feast 咖啡店內部裝潢](images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg)
+![Gather & Feast 咖啡店精緻的咖啡拉花](images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg)
+![Gather & Feast 咖啡店溫馨的用餐環境](images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg)
 
-*![Gather & Feast 咖啡店溫馨的用餐環境](images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg)Gather & Feast*
+*Gather & Feast*
 
 接著就是前往今天的重頭戲 Bribie Island 了，這個島跟澳洲本土有個跨海大橋連接，所以不用坐船，一到達島上我們立刻驚呼連連，這個島實在太美了!
 

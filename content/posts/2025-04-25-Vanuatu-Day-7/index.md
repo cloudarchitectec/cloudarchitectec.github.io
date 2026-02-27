@@ -40,7 +40,11 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![度假村住宿房間](images/medium-1*-Sp5itPOK0GWT9bIqOTnXg.jpeg.jpg)
 
-*![小島住宿環境](images/medium-1*EmJ1UseG69n-QxK0Iv_Ovw.jpeg.jpg)![島上度假村設施](images/medium-1*DYTggfGKwgYSao676193lw.jpeg.jpg)Hideaway Island*
+![小島住宿環境](images/medium-1*EmJ1UseG69n-QxK0Iv_Ovw.jpeg.jpg)
+
+![島上度假村設施](images/medium-1*DYTggfGKwgYSao676193lw.jpeg.jpg)
+
+*Hideaway Island*
 
 入住之後發現 hideaway island resort 比我想像中好太多了！首先是房間寬敞，還有自己的洗手台！雖然廁所跟衛浴是跟其他房間共用，但各位，他們有超強大的熱水！！！而且浴室還有一瓶海倫仙度絲可以洗頭，真心是超棒棒！
 

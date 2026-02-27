@@ -23,7 +23,11 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 ![Lifou島接駁小船交通](images/medium-1*--9Pw_aiyqSGzhUf2ZieUQ.jpeg.jpg)
 
-*Lifou 接駁小船![Lifou島碼頭登陸點](images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpeg.jpg)Lifou Jetty*
+*Lifou 接駁小船*
+
+![Lifou島碼頭登陸點](images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpeg.jpg)
+
+*Lifou Jetty*
 
 **Swimming Tour**
 

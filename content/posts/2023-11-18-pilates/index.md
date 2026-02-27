@@ -49,7 +49,9 @@ categories: ["澳洲生活"]
 
 
 
-![澳洲皮拉提茲啞鈴器材](images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpeg.jpg)![澳洲皮拉提茲彈力球設備](images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpeg.jpg)
+![澳洲皮拉提茲啞鈴器材](images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpeg.jpg)
+
+![澳洲皮拉提茲彈力球設備](images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpeg.jpg)
 
 *除了基本的 reformer 機器之外，還會有啞鈴、彈力環、彈力球等其他輔助道具*
 

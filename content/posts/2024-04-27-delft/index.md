@@ -26,7 +26,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ![荷蘭國王節慶祝商品](images/medium-1*2G80AH0uJdcbyiN6NS9KBw.jpeg.jpg)
 
-*![威廉亞歷山大國王藍瓷](images/medium-1*dPmYODwOd2u3MAUIiOEGbg.jpeg.jpg)商店擺滿國王節的慶祝商品(左) 國王畫像的藍瓷(右)*
+![威廉亞歷山大國王藍瓷](images/medium-1*dPmYODwOd2u3MAUIiOEGbg.jpeg.jpg)
+
+*商店擺滿國王節的慶祝商品(左) 國王畫像的藍瓷(右)*
 
 ### 荷蘭國王節慶祝活動
 
@@ -48,9 +50,13 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 身為一個澳洲人，我身上當然沒有橘色的東西XD 但畢竟來到當地就是志在參與，所以我在千挑萬選之下，買了這頂 4.99 歐的兩用帽，一面是全橘色（戴起來非常像櫻桃小丸子)、一面則是白底上面點綴著橘色拿破崙蛋糕，超可愛！而且它本身也是一個實用的遮陽帽 >///<
 
-![國王節橘色慶祝帽子](images/medium-1*jSA9dQaTaaHGnCumGaNMCQ.jpeg.jpg)![荷蘭橘色拿破崙蛋糕圖案](images/medium-1*jEt8b4BMlX9iKO3hWnaUmg.jpeg.jpg)
+![國王節橘色慶祝帽子](images/medium-1*jSA9dQaTaaHGnCumGaNMCQ.jpeg.jpg)
 
-*![Orange Tompouce 蛋糕](images/medium-1*F_5EKmGeVzycpPzqRMzP0Q.jpeg.jpg)這個帽子是不是實用又可愛！順便放一張跟蛋糕本人的合照XD*
+![荷蘭橘色拿破崙蛋糕圖案](images/medium-1*jEt8b4BMlX9iKO3hWnaUmg.jpeg.jpg)
+
+![Orange Tompouce 蛋糕](images/medium-1*F_5EKmGeVzycpPzqRMzP0Q.jpeg.jpg)
+
+*這個帽子是不是實用又可愛！順便放一張跟蛋糕本人的合照XD*
 
 ### 藍瓷小鎮台夫特
 
@@ -58,7 +64,11 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ![台夫特藍瓷盤荷蘭煎餅](images/medium-1*R3AJTFraMz0I1zi0QkzzPw.jpeg.jpg)
 
-*![Delft 藍瓷餐具體驗](images/medium-1*cjIbm8jjWUkqbLTGJQqGJg.jpeg.jpg)![荷蘭傳統美食配藍瓷](images/medium-1*M8szS0QHbXy5pv3rurTD5Q.jpeg.jpg)藍瓷盤上的巨大荷蘭煎餅*
+![Delft 藍瓷餐具體驗](images/medium-1*cjIbm8jjWUkqbLTGJQqGJg.jpeg.jpg)
+
+![荷蘭傳統美食配藍瓷](images/medium-1*M8szS0QHbXy5pv3rurTD5Q.jpeg.jpg)
+
+*藍瓷盤上的巨大荷蘭煎餅*
 
 關於萊登的遊記請看：
 
@@ -79,7 +89,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ![Royal Delft 皇家藍瓷博物館](images/medium-1*BR6OBQdh4SdCUHVwQ9Aj9g.jpeg.jpg)
 
-*![荷蘭皇室認證藍瓷工坊](images/medium-1*oEP4BWLeVut-6iQmoAQWeQ.jpeg.jpg)Royal Delft 皇家藍瓷博物館*
+![荷蘭皇室認證藍瓷工坊](images/medium-1*oEP4BWLeVut-6iQmoAQWeQ.jpeg.jpg)
+
+*Royal Delft 皇家藍瓷博物館*
 
 我去參觀的 Royal Delft 皇家藍瓷博物館的皇家之名可不是浪得虛名，他們的確是荷蘭皇室認證的，直到現在也持續在製造荷蘭藍瓷，荷蘭皇室也會在招待重要外賓的國宴上使用荷蘭藍瓷製作的碗盆。
 
@@ -87,7 +99,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ![台夫特藍瓷鬱金香花瓶](images/medium-1*iVA3hZl5Qt5WoTbNJDt_sw.jpeg.jpg)
 
-*![荷蘭藍瓷獨特花器設計](images/medium-1*XinAmbcwpo7qS3v9slQnfw.jpeg.jpg)藍瓷花瓶真的好酷！一朵花有自己的一個家XD*
+![荷蘭藍瓷獨特花器設計](images/medium-1*XinAmbcwpo7qS3v9slQnfw.jpeg.jpg)
+
+*藍瓷花瓶真的好酷！一朵花有自己的一個家XD*
 
 現在管區裡還有畢卡索特展！
 
@@ -95,7 +109,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ![畢卡索瓷器藝術作品](images/medium-1*IClL30Sy9HZR4UEqI8o6Dw.jpeg.jpg)
 
-*![Picasso 陶瓷創作](images/medium-1*CAsSxcSp4b_prMaGHJ_HnQ.jpeg.jpg)畢卡索製作的瓷器*
+![Picasso 陶瓷創作](images/medium-1*CAsSxcSp4b_prMaGHJ_HnQ.jpeg.jpg)
+
+*畢卡索製作的瓷器*
 
 參觀完整個博物館後，會對荷蘭藍瓷有深入了解。皇家藍瓷博物館的藍瓷其實有兩種，一種是用貼紙轉印的 (好酷的技術)，一種是手工繪製的！背後的logo 不同，手工的藍瓷還會有畫家的簽名跟編號，每一個都是獨一無二的，真心是非常值得收藏！！！
 
@@ -103,7 +119,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ![台夫特手工藍瓷畫家簽名](images/medium-1*F3ZaM5dkgW0K87Fnnj64fQ.jpeg.jpg)
 
-*![Royal Delft 藍瓷認證標誌](images/medium-1*3cku1hvnbxJhLr8KJ6UX4Q.jpeg.jpg)手工繪製的藍瓷後面會有特殊商標跟畫家的簽名*
+![Royal Delft 藍瓷認證標誌](images/medium-1*3cku1hvnbxJhLr8KJ6UX4Q.jpeg.jpg)
+
+*手工繪製的藍瓷後面會有特殊商標跟畫家的簽名*
 
 祈願我以後可以成為荷蘭手工藍瓷餐具的擁有者，如果可以擺一套美美的在家多棒啊！！！
 

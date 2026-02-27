@@ -34,7 +34,9 @@ AWS 是雲端科技的龍頭，市占率大概是 1/3 之一，遠遠超過第�
 
 一打開盒子，我想說「這個電腦看起來也太小了吧? 難道微軟的科技這麼先進?」 拆開之後才發現，是微軟自己出的耳機 Surface headphone 2!!!!!!!!!!!
 
-![微軟Surface耳機周邊產品](images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpeg.jpg)Surface headphones 2, surface mouse, surface pen and surface dock![微軟Surface配件組合套裝](images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpeg.jpg)
+![微軟Surface耳機周邊產品](images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpeg.jpg)
+
+![微軟Surface配件組合套裝](images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpeg.jpg)
 
 *Surface headphones 2, surface mouse, surface pen and surface dock*
 

@@ -28,9 +28,7 @@ tags: ["AWS"]
 
 現在的我顯然已經失去了那些動力哈哈哈!
 
-我在離開微軟前，利用微軟的資源預約了其他三場考試，分別為 [HashiCorp Certified: Terraform Associate (003)](https://www.hashicorp.com/certification/terraform-associate)、[Microsoft Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)、 [Microsoft DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)
-
-*，我至今還沒有去考。這幾場考試時間一路被我從八月延到十二月，我現在甚至不排除把他們一路延到明年XDDD*
+我在離開微軟前，利用微軟的資源預約了其他三場考試，分別為 [HashiCorp Certified: Terraform Associate (003)](https://www.hashicorp.com/certification/terraform-associate)、[Microsoft Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)、 [Microsoft DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)，我至今還沒有去考。這幾場考試時間一路被我從八月延到十二月，我現在甚至不排除把他們一路延到明年XDDD
 
 如果想要了解我對雲端證照的看法，以及兩個證照系統的比較，歡迎參考我的這篇文章：
 
@@ -130,7 +128,9 @@ tags: ["AWS"]
 
 ![Azure解決方案架構師證照成績](images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png.jpg)
 
-*![Azure解決方案架構師證照認證](images/medium-1*gnswMcSZJJI9ja13c66TtQ.png.jpg)Microsoft Solution Architect 證照更新考試結果*
+![Azure解決方案架構師證照認證](images/medium-1*gnswMcSZJJI9ja13c66TtQ.png.jpg)
+
+*Microsoft Solution Architect 證照更新考試結果*
 
 好吧，所以我覺得追根究底可能只是因為 Microsoft Azure Administrator Associate 跟Microsoft Solution Architect 的考試方向差異極大，前者專注於考一些實際操作上的細節 (說真的根本沒有人會默背那些細節，要操作時再看 documentation 就可以了)，後者則是考驗 solution design 跟 solution architecting 的概念。
 

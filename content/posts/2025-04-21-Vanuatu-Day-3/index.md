@@ -38,7 +38,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![Pele Island 迎賓椰子水](images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg)
 
-*![當地特色椰子飲品](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg)迎賓椰子水*
+![當地特色椰子飲品](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg)
+
+*迎賓椰子水*
 
 我必須要說，這邊的安全意識不太高，不管是坐船或是浮潛，都完全沒有提供救生衣的選項。要是有意外發生又有人不會游泳，不就 GG 了🤣
 
@@ -66,11 +68,13 @@ Pele island 島上有四個村莊，人口大約40人(官方資料寫200人）�
 
 ![Pele Island 團體合照](images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg)
 
-*![澳洲遊客團友聚餐](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg)*
+![澳洲遊客團友聚餐](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg)
 
 ![當地豐盛午餐](images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg)
 
-*![萬那杜滿漢全席](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg)午餐、同行遊客*
+![萬那杜滿漢全席](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg)
+
+*午餐、同行遊客*
 
 ### 奶奶語錄登場：**「這吹風機沒人用過」**
 

@@ -45,7 +45,7 @@ Vanuatu 是一個海島國家，由 80 幾個小島組成。離澳洲非常近�
 
 ![萬那杜入境卡廣告](images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpeg.jpg)
 
-*![太平洋島國海關](images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg)*
+![太平洋島國海關](images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg)
 
 一下飛機，頓時又有種回到屏東的感覺。
 
@@ -81,7 +81,7 @@ Port Vila 的機場不大，一下飛機之後，走幾步路就到了海關。�
 
 ![Joy 奶奶民宿房間](images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpeg.jpg)
 
-*![萬那杜住宿陽台](images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg)*
+![萬那杜住宿陽台](images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg)
 
 到了民宿之後，主人是個當地人老奶奶 Joy，人感覺非常nice，英文也很好！跟我介紹了一下住宿環境，在這15分鐘之內，我立刻被蚊子叮兩個包囧
 

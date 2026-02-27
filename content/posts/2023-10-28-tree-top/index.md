@@ -16,8 +16,6 @@ tags: ["澳洲旅遊","布里斯本"]
 
 他們還有另外兩個園區，分別在黃金海岸的 [Mount Tamborine](https://www.treetopchallenge.com.au/tamborine-treetop-adventure?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHVjoxRZRjKkTi3H5mtEY8lgn6XDv5eBYbIEpBElkcbImi88GJeYegBoCQb8QAvD_BwE) 跟 [Currumbin](https://www.treetopchallenge.com.au/adventure-park/currumbin-wildlife-sanctuary?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHas9NpVJBmg8yCiY92AJW_9FqwiLIX0-L7K2PVtpciJHS1kgwLub_xoCNaUQAvD_BwE)
 
-*。*
-
 每個時段都有限定的入場人數，大家出發前記得要先上官網選時段購票 (成人 $65澳幣)，網站上說大概需要三小時完成挑戰，但其實入場後並沒有時間限制，如果你想待更久也可以。
 
 對 tree top challenge 沒有概念的人，可以看這個官方介紹影片，非常刺激喔XDD
@@ -38,7 +36,9 @@ tags: ["澳洲旅遊","布里斯本"]
 
 ![](images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpeg.jpg)
 
-*![](images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpeg.jpg)安全說明 ＆ 上裝備*
+![](images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpeg.jpg)
+
+*安全說明 ＆ 上裝備*
 
 在正式開始之前，室友 C 表示興奮期待，我表示瑟瑟發抖 （好險我本人其實不怕高，我只是孬 🤣🤣🤣）。
 
@@ -48,7 +48,10 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 ![](images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpeg.jpg)
 
-*![](images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpeg.jpg)![](images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpeg.jpg)各式挑戰*
+![](images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpeg.jpg)
+![](images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpeg.jpg)
+
+*各式挑戰*
 
 這是一個全身的運動，需要用到核心、伸展度、臂力、腿。我玩到第二個 challenge 中間，手臂就沒力了，之後的好幾關都是靠硬撐跟運氣才沒有掉下去 (過程中無法退出，也沒辦法讓別人先走，所以也不太能休息，真的是滿想哭的，下面會詳細解釋為什麼）。
 

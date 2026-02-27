@@ -29,7 +29,9 @@ tags: ["旅遊", "德國"]
 
 ![林德霍夫宮後方阿爾卑斯山雪景](images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpeg.jpg)
 
-*![林德霍夫宮周圍山景](images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpeg.jpg)林德霍夫宮的山景*
+![林德霍夫宮周圍山景](images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpeg.jpg)
+
+*林德霍夫宮的山景*
 
 這個團只有包含遊覽車上的解說，如果要入內參觀兩個城堡，門票需要上車後另外用現金購買，兩個城堡一共是33歐。我上網查到的資訊是林德霍夫宮裡面其實滿小的，沒什麼好參觀的，外面的花園還比較漂亮，所以我就沒買這個門票，單買新天鵝堡的參觀門票是19歐。
 
@@ -37,7 +39,7 @@ tags: ["旅遊", "德國"]
 
 ![路德維希二世國王的林德霍夫宮外觀](images/medium-1*SZwEaOh11Ke3Kib768magA.jpeg.jpg)
 
-*![林德霍夫宮精緻的巴洛克式建築](images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpeg.jpg)*
+![林德霍夫宮精緻的巴洛克式建築](images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpeg.jpg)
 
 ![德國林德霍夫宮全景](images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpeg.jpg)
 
@@ -73,7 +75,9 @@ tags: ["旅遊", "德國"]
 
 ![懸在山谷上方的瑪麗安橋遠景](images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpeg.jpg)
 
-*![瑪麗安橋橋面與遊客](images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpeg.jpg)瑪莉安橋*
+![瑪麗安橋橋面與遊客](images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpeg.jpg)
+
+*瑪莉安橋*
 
 瑪麗安橋的重要性在於，只有在這裡你才可以從最佳角度拍到新天鵝堡（就像在迪士尼logo 上的一樣)，當天遊客雖多，但是稍微等一下還是可以找到不錯的拍照角度。
 

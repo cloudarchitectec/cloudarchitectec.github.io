@@ -16,7 +16,11 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 
 ![National Park 背包客棧](images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg)
 
-*![紐西蘭背包客棧雙人房](images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg)![背包客棧共用廚房設施](images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg)National Park Backpackers*
+![紛西蘇蘭背包客樊雙人房](images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg)
+
+![背包客樊共用廁房設施](images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg)
+
+*National Park Backpackers*
 
 Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪課(5個小時上課、1小時午休)。但不得不說雪場的配套措施滿爛的(或是說根本沒有配套措施，大家自生自滅吧😂)
 
@@ -34,7 +38,11 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 ![Whakapapa 雪場滑雪課程](images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg)
 
-*![紐西蘭北島最大雪場](images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg)![女生學習單板滑雪](images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg)Whakapapa 雪場*
+![紛西蘇蘭北島最大雪場](images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg)
+
+![女生學習單板滑雪](images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg)
+
+*Whakapaka 雪場*
 
 但是我覺得單板的確是個很有趣的運動，也建議大家一定要訂時間長一點的課程。我多年前在墨爾本學過1–2小時的 ski 課程，真的是沒什麼感覺就結束了🤣
 

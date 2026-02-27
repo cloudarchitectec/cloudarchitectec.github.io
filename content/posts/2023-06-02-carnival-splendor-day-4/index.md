@@ -39,17 +39,25 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 ![Noumea市區綠地公園](images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpeg.jpg)
 
-*Noumea 公園![新喀里多尼亞傳統教堂](images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg)教堂*
+*Noumea市區綠地公園*
+
+![新喀里多尼亞傳統教堂](images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpeg.jpg)
+
+*新喀里多尼亞傳統教堂*
 
 然後還有另一個特別奇怪的觀察，就是這裡的廁所都還算乾淨，但每一個馬桶都沒有馬桶蓋，why????!!!! 我跟 Ashley 百思不得其解耶
 
 ![新喀里多尼亞特色建築景觀](images/medium-1*OZXhSe0Fr53Mz9qseweKOA.jpeg.jpg)
+
+*新喀里多尼亞特色建築景觀*
 
 **午餐**
 
 後來我在港口邊的超市買了一個生魚片 poke bowel，醬料很微妙。一盒是微辣的蔥油、一盒是烤肉醬，上面還有像是炸過的玉米粒。生魚片本身還滿新鮮好吃的，但我多希望他們給我一點醬油跟芥末哈哈哈
 
 ![Noumea當地Poke Bowl午餐](images/medium-1*1RkNhZGhiM4cNXR4ja9CCg.jpeg.jpg)
+
+*Noumea當地Poke Bowl午餐*
 
 **新克里多亞 New Caledonia**
 
@@ -65,10 +73,14 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 ![郵輪陽台海景休憩時光](images/medium-1*4vieIsVH9cBc4umpaGgT7g.jpeg.jpg)
 
+*郵輪陽台海景休憩時光*
+
 **Island deck party**
 
 今天總算天空作美，大家終於有辦法在甲板上跳舞
 
 ![郵輪島嶼主題甲板派對](images/medium-1*uVGQvX5gRy42oH8WSCQp6A.jpeg.jpg)
+
+*郵輪島嶼主題甲板派對*
 
 {{< footer >}}

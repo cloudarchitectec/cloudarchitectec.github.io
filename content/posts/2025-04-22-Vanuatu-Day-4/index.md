@@ -34,11 +34,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![Banana Bay 度假村海灘](images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg)
 
-*![度假村太平洋海景](images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg)*
+![度假村太平洋海景](images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg)
 
 ![Banana Bay 椰林泳池](images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg)
 
-*![度假村室內餐廳](images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg)Banana Bay Beach Resort*
+![度假村室內餐廳](images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg)
+
+*Banana Bay Beach Resort*
 
 Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但我要直接在這邊住兩天。而且我早上 10 點就到了，有夠早😆
 
@@ -64,7 +66,9 @@ Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但�
 
 ![度假村小屋門口風景](images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg)
 
-*![小屋屋頂裝飾花朵](images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg)我的小屋上有可愛小花*
+![小屋屋頂裝飾花朵](images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg)
+
+*我的小屋上有可愛小花*
 
 回到房間後，我想說來拍個房間的影片。最好笑的是，我拍完影片就把正門拉起來了，因為正門對應的是所有車輛進出的大門口。然後正門的門閂就從外面鎖住了🤣🤣🤣
 

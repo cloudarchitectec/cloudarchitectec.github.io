@@ -22,7 +22,10 @@ tags: ["旅遊", "郵輪"]
 
 ![Carnival郵輪陽台房內部](images/medium-1*67HCCHz_fSzckeRLuUmWYg.jpeg.jpg)
 
-*遊輪房間: 陽台房![郵輪房間精緻衛浴設施](images/medium-1*Syk9imF-O3YSSPzPSj5Lvg.jpeg.jpg)遊輪房間衛浴*
+*遊輪房間: 陽台房*
+
+![郵輪房間精緻衛浴設施](images/medium-1*Syk9imF-O3YSSPzPSj5Lvg.jpeg.jpg)
+*遊輪房間衛浴*
 
 **遊輪App**
 

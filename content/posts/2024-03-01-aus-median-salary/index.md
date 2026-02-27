@@ -43,9 +43,7 @@ tags: ["薪資","澳洲職場統計數據"]
 
 ### 產業薪資分布
 
-![](images/medium-1*Ma8_iNPDVReXHTL-HWH5Zw.png.jpg)
-
-*![](images/medium-1*AW9UO19oIVjHoMa2kh7sGw.png.jpg)澳洲產業薪資分布*
+![](images/medium-1*Ma8_iNPDVReXHTL-HWH5Zw.png.jpg)![](images/medium-1*AW9UO19oIVjHoMa2kh7sGw.png.jpg)澳洲產業薪資分布
 
 接著讓我們來看一下澳洲各個產業的薪資表現，很明顯可以看到礦業以每週 $3008.2 澳幣獨佔鰲頭，第二名是水電瓦斯垃圾處理業每週 $2350.7 澳幣，第三名則是 IT 通信產業每週 $2172.6 澳幣。
 

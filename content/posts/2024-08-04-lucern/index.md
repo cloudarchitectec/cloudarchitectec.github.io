@@ -33,7 +33,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 ![特呂布湖被雪覆蓋的美景](images/medium-1*RlIQZVBBsnETpGDGj-Wrdg.jpeg.jpg)
 
-*![瑞士中部雪地健行體驗](images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpeg.jpg)![Trubsee湖雪白湖面景色](images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpeg.jpg)特呂布湖 Trubsee 雪中健行*
+![疑士中部雪地健行體驗](images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpeg.jpg)
+
+![Trubsee湖雪白湖面景色](images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpeg.jpg)
+
+*特魬布湖 Trubsee 雪中健行*
 
 到了 Trubsee 湖時，其實天氣不算太好，但至少不像在少女峰時遇到眼睛都睜不開的大風雪，所以我還是很興奮地進行了半小時的雪地健行。
 

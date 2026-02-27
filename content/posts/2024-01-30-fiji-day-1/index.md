@@ -77,7 +77,9 @@ tags: ["旅遊", "斐濟"]
 
 ![Blue Heaven 調酒攪拌前](images/medium-0*opxsp1CbN83N2ijw.jpg)
 
-*![Blue Heaven 調酒攪拌後](images/medium-0*cyBcrR1JXVgt8jYA.jpg)Cocktail: Blue Heaven。攪拌完之後就更黑暗，更不heaven 了XD*
+![Blue Heaven 調酒攪拌後](images/medium-0*cyBcrR1JXVgt8jYA.jpg)
+
+*Cocktail: Blue Heaven。攪拌完之後就更黑暗，更不heaven 了XD*
 
 在斐濟的第一餐我點了一個披薩，上菜的時候真是巨大無比，但是味道極其一般！看來網路謠言說斐濟的食物很難吃，是真的！連這種充滿起司與熱量的食物都只能做成這樣，感覺其他食物也是不用期待了？
 
@@ -87,7 +89,7 @@ tags: ["旅遊", "斐濟"]
 
 ![Tokatoka Hotel 泳池設施](images/medium-0*NCkv3nLUbqStxDQ-.jpg)
 
-*![Tokatoka Hotel 兒童划水道](images/medium-0*5qokt42-Vvfwjemf.jpg)旅館泳池*
+![Tokatoka Hotel 兒童划水道](images/medium-0*5qokt42-Vvfwjemf.jpg)旅館泳池
 
 這是一個非常適合家庭旅遊的旅館，泳池裡還有划水道，超可愛！
 
@@ -95,10 +97,10 @@ tags: ["旅遊", "斐濟"]
 
 ![斐濟椰子樹風景](images/medium-0*S_9Mv4N0NThC0zzU.jpg)
 
-*![Tokatoka Hotel 周邊環境](images/medium-0*pDobfaSWYVpF9XWV.jpg)Tokatoka Hotel 周遭*
+![Tokatoka Hotel 周邊環境](images/medium-0*pDobfaSWYVpF9XWV.jpg)Tokatoka Hotel 周遭
 
 看看這椰子樹，難道不是屏東嗎？然後外面的道路也很像屏東鄉下，連山看起來都像是大武山哈哈哈哈
 
-總之，這就是我的斐濟之行第一天，接下來也會繼續發表我的斐濟遊記，請大家多多支持 :)
+總之，這就是我的斐濟之行第一天，接下來也會繼續發表我的斐濟遊記，請大家多多支持 XD
 
 {{< footer >}}

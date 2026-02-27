@@ -24,7 +24,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![海島度假村早餐時光](images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg)
 
-*![蚊子大軍圍攻用餐](images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg)我吃早餐，蚊子吃我?!*
+![蚊子大軍圍攻用餐](images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg)
+
+*我吃早餐，蚊子吃我?!*
 
 ### M Resort & Spa
 
@@ -34,7 +36,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![M Resort & Spa 高級度假村](images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg)
 
-*![度假村海邊餐廳](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg)M Resort & Spa*
+![度假村海邊餐廳](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg)
+
+*M Resort & Spa*
 
 一到之後完全覺得也太美了！完全就是高級度假村的風格，超美！我點了 lemongrass chicken (擺盤很美、份量很大，但味道一般），反倒是我點的mocktail 很好喝，但我一直以為 mocktail 應該會做成雞尾酒🍹的樣子？我覺得這杯比較像是 smoothie 吧😆
 
@@ -60,11 +64,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![人生首次 kayaking 體驗](images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg)
 
-*![海邊划獨木舟樂趣](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg)*
+![海邊划獨木舟樂趣](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg)
 
 ![Fatumaru Lodge 游泳池](images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg)
 
-*![度假村海邊設施](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg)Fatumaru Lodge*
+![度假村海邊設施](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg)
+
+*Fatumaru Lodge*
 
 晚上本來全副武裝（狂噴防蚊液）準備開車去附近的餐廳吃飯。吃飯前我先開車去超市附屬的加油站加油（這裡的加油站是像台灣一樣會有人服務的喔，完全不用下車！）
 
@@ -72,7 +78,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![萬那杜超市烤雞](images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg)
 
-*![外帶薯條烤雞晚餐](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg)超市晚餐*
+![外帶薯條烤雞晚餐](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg)
+
+*超市晚餐*
 
 我真的覺得這個租車公司不錯，市區內他們可以免費到你的住宿點 pick up 車子。希望萬那杜的基礎建設可以慢慢改善，東南海岸線開起來真的很舒服～ 西南海岸線跟北區則是悲劇一場。然後市區平日很容易大塞車，我覺得在這裡體驗到塞車也是很有趣😆
 

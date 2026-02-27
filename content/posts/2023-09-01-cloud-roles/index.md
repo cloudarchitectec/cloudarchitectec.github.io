@@ -24,8 +24,9 @@ tags: ["雲端架構師"]
 
 第一集的傳送門在此：
 
-[**微軟雲端架構師 (Solution Architect) 職位解析 第一集：Org Chart & Solution Architecting**  
- _跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…](2023-07-28-ms-csa-1)[](2023-07-28-ms-csa-1)
+[**微軟雲端架構師 (Solution Architect) 職位解析 第一集：Org Chart & Solution Architecting**](2023-07-28-ms-csa-1)
+
+跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是，「所以雲端架構師(Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解…
 
 ### 軟體工程師 (Software Engineer)
 
@@ -57,13 +58,7 @@ tags: ["雲端架構師"]
 
 *JavaScript Code from W3School*
 
-複雜一點的例子可以用 React 這個奠基於 JavaScript 的 frontend framework (目前的業界標準應該是用 TypeScript 寫居多) 來寫一個圈圈叉叉的遊戲 。下面的程式碼是個 React functional component ，左手邊的這幾行程式，會變成右手邊那一個圈圈叉叉的遊戲。(題外話：圈圈叉叉這個遊戲的英文叫做 Tic-Tac-Toe，很有趣吧)。如果看完整的程式碼或是想要自己玩玩看，這個程式碼來自 [React 的官方部落格](https://react.dev/blog/2023/03/16/introducing-react-dev)
-
-*。*
-
-![](images/medium-1*uvMwEGVDyxV5k7f3r11mrg.png.jpg)
-
-*Tic-Tac-Toe from React Doc*
+複雜一點的例子可以用 React 這個奠基於 JavaScript 的 frontend framework (目前的業界標準應該是用 TypeScript 寫居多) 來寫一個圈圈叉叉的遊戲 。下面的程式碼是個 React functional component ，左手邊的這幾行程式，會變成右手邊那一個圈圈叉叉的遊戲。(題外話：圈圈叉叉這個遊戲的英文叫做 Tic-Tac-Toe，很有趣吧)。如果看完整的程式碼或是想要自己玩玩看，這個程式碼來自 [React 的官方部落格](https://react.dev/blog/2023/03/16/introducing-react-dev)。
 
 ### 雲端顧問/雲端工程師 (Cloud Consultant/Cloud Engineer)
 
@@ -79,17 +74,13 @@ AWS 跟微軟也有自己的 consulting department，例如我之前工作的 AW
 
 
 
-所以一個雲端顧問/雲端工程師會寫的程式碼如下。這是用 CloudFormation in YAML 寫出來的程式碼，目的是在 AWS 上面部署一個有 public IP 的 EC2 instance，完整說明可以參考[官方文件](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html)
-
-*。*
+所以一個雲端顧問/雲端工程師會寫的程式碼如下。這是用 CloudFormation in YAML 寫出來的程式碼，目的是在 AWS 上面部署一個有 public IP 的 EC2 instance，完整說明可以參考[官方文件](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html)。
 
 ![](images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png.jpg)
 
 *EC2 in yaml from AWS*
 
-如果我們舉一個比較複雜的例子，假設我們要在 AWS 上部署一個 Wordpress 網站跟一個 MySQL DB 作為資料庫，那我們的程式碼就會像圖片裡那樣。完整的程式碼來自 [AWS 網站](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-ap-southeast-2.html)
-
-*的[這個連結](https://s3.ap-southeast-2.amazonaws.com/cloudformation-templates-ap-southeast-2/WordPress_Single_Instance.template)。*
+如果我們舉一個比較複雜的例子，假設我們要在 AWS 上部署一個 Wordpress 網站跟一個 MySQL DB 作為資料庫，那我們的程式碼就會像圖片裡那樣。完整的程式碼來自 [AWS 網站](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-ap-southeast-2.html)的[這個連結](https://s3.ap-southeast-2.amazonaws.com/cloudformation-templates-ap-southeast-2/WordPress_Single_Instance.template)。
 
 ![](images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png.jpg)
 
@@ -112,9 +103,7 @@ DevOps 工程師的技能樹有：
 
 
 
-讓我們以 Azure DevOps Pipeline 的程式碼為例，完整程式碼可以參考[微軟網站](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)
-
-*。*
+讓我們以 Azure DevOps Pipeline 的程式碼為例，完整程式碼可以參考[微軟網站](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)。
 
 ![](images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png.jpg)
 

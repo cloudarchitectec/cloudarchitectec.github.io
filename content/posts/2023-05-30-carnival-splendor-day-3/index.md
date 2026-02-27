@@ -27,13 +27,13 @@ tags: ["旅遊", "郵輪"]
 
 ![手工義大利麵餃製作完成品](images/medium-1*2ICrlpB91ri065acmRb-EA.jpeg.jpg)
 
-*完成品*
+*手工義大利麵餃製作完成品*
 
 做完之後餐廳會直接把你自己做好的義大利麵餃現煮給你品嚐(我選擇了青醬)，除此之外這個課程還包含了午餐(沙拉、大蒜麵包、魚排、提拉米蘇)，我個人覺得非常值得，因為在外面上烹飪課少說也要$100，這個還包了午餐!
 
 ![郵輪義大利麵烹飪課午餐](images/medium-1*lioXG3b1t8i3YdbYAOLhgQ.jpeg.jpg)
 
-*午餐*
+*郵輪義大利麵烹飪課午餐*
 
 **甲板**
 
@@ -41,7 +41,11 @@ tags: ["旅遊", "郵輪"]
 
 ![郵輪九樓中央甲板海景](images/medium-1*-T8XXFbxD06E9qH0SZndFQ.jpeg.jpg)
 
-*九樓: mid deck![郵輪九樓船尾甲板風景](images/medium-1*4gX9KAb4Cz5rgXXCTKFZOA.jpeg.jpg)九樓: aft deck*
+*九樓: 中央甲板海景*
+
+![郵輪九樓船尾甲板風景](images/medium-1*4gX9KAb4Cz5rgXXCTKFZOA.jpeg.jpg)
+
+*九樓: 船尾甲板風景*
 
 **咖啡**
 

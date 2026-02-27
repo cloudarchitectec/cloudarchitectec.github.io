@@ -40,7 +40,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ![度假村雷雨天室外景象](images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg)
 
-*![暴雨中的太平洋海景](images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg)*
+![暴雨中的太平洋海景](images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg)
 
 讓我們把時間拉回現在！
 

@@ -32,7 +32,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![WHY Coffee 文青咖啡廳](images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpeg.jpg)
 
-*![法蘭克福精品咖啡店](images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpeg.jpg)![德國特色藝術咖啡館](images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpeg.jpg)WHY! Coffee*
+![法蘭克福精品咖啡店](images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpeg.jpg)
+
+![德國特色藝術咖啡館](images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpeg.jpg)
+
+*WHY! Coffee*
 
 ### 歌德故居 (frankfurter goethe-haus)
 
@@ -42,11 +46,19 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![歌德故居 18 世紀豪宅](images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpeg.jpg)
 
-*![Goethe House 古典內裝](images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpeg.jpg)![德國文豪歌德居住空間](images/medium-1*JueQdVN97WE9XSCXPakwkA.jpeg.jpg)歌德故居*
+![Goethe House 古典內裝](images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpeg.jpg)
+
+![德國文豪歌德居住空間](images/medium-1*JueQdVN97WE9XSCXPakwkA.jpeg.jpg)
+
+*歌德故居*
 
 ![歌德故居美麗花園](images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpeg.jpg)
 
-*![Frankfurt 歷史建築庭院](images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpeg.jpg)![德國文學紀念品店](images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpeg.jpg)花園跟紀念品店也很可愛*
+![Frankfurt 歷史建築庭院](images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpeg.jpg)
+
+![德國文學紀念品店](images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpeg.jpg)
+
+*花園跟紀念品店也很可愛*
 
 ### Paulaner am Dom 午餐
 
@@ -64,7 +76,11 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 ![Paulaner 德國豬腳啤酒](images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpeg.jpg)
 
-*![法蘭克福傳統德式料理](images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpeg.jpg)![德國 Knodel 馬鈴薯團](images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpeg.jpg)Paulaner am Dom*
+![法蘭克福傳統德式料理](images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpeg.jpg)
+
+![德國 Knodel 馬鈴薯團](images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpeg.jpg)
+
+*Paulaner am Dom*
 
 ### Der Backer Eifler
 
@@ -72,7 +88,11 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 ![Der Backer Eifler 德式草莓蛋糕](images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpeg.jpg)
 
-*![法蘭克福傳統麵包店](images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpeg.jpg)![德國花草茶下午茶](images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpeg.jpg)Der Backer Eifler*
+![法蘭克福傳統麵包店](images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpeg.jpg)
+
+![德國花草茶下午茶](images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpeg.jpg)
+
+*Der Backer Eifler*
 
 ### Main River Cruise
 

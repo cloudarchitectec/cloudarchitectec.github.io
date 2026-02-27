@@ -22,7 +22,9 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![德國傳統蝴蝶餅 Pretzel](images/medium-1*cEf2YgS2isLvWN_SxTaeiA.jpeg.jpg)
 
-*![法蘭克福早餐手工麵包](images/medium-1*z76YqWPPyIezu93i43T3VQ.jpeg.jpg)![歐洲旅行自製拿鐵](images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpeg.jpg)*
+![法蘭克早餐手工麵包](images/medium-1*z76YqWPPyIezu93i43T3VQ.jpeg.jpg)
+
+![歐洲旅行自製拿鐵](images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpeg.jpg)
 
 ### 德國火車一等車廂初體驗
 
@@ -78,7 +80,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![紐倫堡城堡俯瞰市景](images/medium-1*QwnD2FI9fKNRJEBzzmUq8w.jpeg.jpg)
 
-*![Imperial Castle 中世紀建築](images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpeg.jpg)![Nuremberg 皇帝城堡](images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpeg.jpg)紐倫堡城堡*
+![Imperial Castle 中世紀建筑](images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpeg.jpg)
+
+![Nuremberg 皇帝城堡](images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpeg.jpg)
+
+*紙倉堡城堡*
 
 這裏是個免費看市景的好地方! 如果不想要付費參觀博物館的話，我覺得光是上來看城堡外面的風景都很值得！
 

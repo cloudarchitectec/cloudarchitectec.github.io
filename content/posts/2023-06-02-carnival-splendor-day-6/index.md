@@ -46,9 +46,12 @@ Mystery Island 感覺是一個非常商業化的小島，例如一上島就看�
 
 雖然說是保證看到海龜，船上的工作人員在航程中也指了好幾處，但我跟Ashley 完全沒看到。總共坐船時間約1小時，這個價格我覺得不是太推薦這個行程。
 
+每次導遊一指，前面桃紅色的姐姐就會附和說"喔喔喔~ 看到了!" (但是她男友跟坐在後面的我們什麼都沒看到?lol)
+
 ![Mystery Island海龜尋找船遊](images/medium-1*9IcJ4KIjbFEvdsyxyVwFAg.jpeg.jpg)
 
-*每次導遊一指，前面桃紅色的姐姐就會附和說"喔喔喔~ 看到了!" (但是她男友跟坐在後面的我們什麼都沒看到?lol)*
+*Mystery Island海龜尋找船遊*
+
 
 **Mystery Island 小提醒**
 
@@ -64,7 +67,11 @@ Mystery Island 感覺是一個非常商業化的小島，例如一上島就看�
 
 ![郵輪額外付費海鮮拼盤](images/medium-1*g_gRl-BxQrTYKwXsnREJLw.jpeg.jpg)
 
-*![郵輪海鮮巧達濃湯](images/medium-1*b2rWJ-wohW5j2M7jKemQfQ.jpeg.jpg)海鮮需要額外付費*
+*郵輪額外付費海鮮拼盤*
+
+![郵輪額外付費海鮮巧達濃湯](images/medium-1*b2rWJ-wohW5j2M7jKemQfQ.jpeg.jpg)
+
+*郵輪額外付費海鮮巧達濃湯*
 
 ![郵輪24小時霜淇淋機](images/medium-1*uqXU87fqe7SQiEMwTIyvvg.jpeg.jpg)
 

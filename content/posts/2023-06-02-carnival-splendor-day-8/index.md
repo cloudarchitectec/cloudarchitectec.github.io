@@ -31,7 +31,9 @@ tags: ["旅遊", "郵輪"]
 
 ![郵輪甲板藍色圓球休息艙](images/medium-1*exhtrGEZ2WIMBURU1Olzlg.jpeg.jpg)
 
-*![郵輪甲板戶外休憩空間](images/medium-1*g-Z47LNsC4CV53sULFleXg.jpeg.jpg)甲板上的藍色圓球休息區*
+![郵輪甲板戶外休憩空間](images/medium-1*g-Z47LNsC4CV53sULFleXg.jpeg.jpg)
+
+*甲板上的藍色圓球休息區*
 
 覺得有點可惜，要是天氣再熱一點就好了！五月的郵輪真的不太適合怕冷的我，只要不在房間的時間(房間的空調可以自己調溫度)，我大概有50%的時間都覺得很冷哈哈哈
 

@@ -28,7 +28,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![納粹黨代會檔案中心外觀](images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpeg.jpg)
 
-*![Documentation Center 臨時展](images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpeg.jpg)![紐倫堡納粹歷史博物館](images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpeg.jpg)納粹黨代會檔案中心*
+![Documentation Center 臨時展](images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpeg.jpg)
+
+![紐倫堡納粹歷史博物館](images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpeg.jpg)
+
+*納粹黨代會檔案中心*
 
 部落客莉莉嗯在[【紐倫堡景點】納粹黨集會場檔案中心門票、交通，走進納粹遺址博物館](https://lillian.tw/dokumentationszentrum-reichsparteitagsgelande/#google_vignette)
 
@@ -44,7 +48,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![紐倫堡動物園超大爆米花](images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpeg.jpg)
 
-*![歐洲最大動物園之一](images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpeg.jpg)![德國勞動節動物園體驗](images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpeg.jpg)爆米花真心超大包，逛完之後還剩 3/4 包*
+![歐洲最大動物園之一](images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpeg.jpg)
+
+![德國劳動節動物園體驗](images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpeg.jpg)
+
+*爆米花真心超大包，透完之後還剩 3/4 包*
 
 接著為了轉換心情，也為了充分利用我的紐倫堡卡，我來到了紐倫堡動物園，這裡號稱是歐洲最大也最美的動物園之一，非常值得一來（持紐倫堡咖入場免費）。
 
@@ -58,7 +66,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![紐倫堡審判紀念館歷史意義](images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpeg.jpg)
 
-*![Memoriam Nuremberg Trials](images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpeg.jpg)![二戰戰犯法庭審判](images/medium-1*XKd20tYk57ftqXcq0TclKw.jpeg.jpg)紐倫堡審判紀念館*
+![Memoriam Nuremberg Trials](images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpeg.jpg)
+
+![二戰戰犯法庭審判](images/medium-1*XKd20tYk57ftqXcq0TclKw.jpeg.jpg)
+
+*紐倫堡審判紀念館*
 
 執行著名紐倫堡大審判的法院，詳細記載英法俄如何裁決懲處二戰時的主要官員，也有大幅記載如何懲處執行「大屠殺」的納粹重要官員。這是歷史上第一次除了國家需要為戰爭罪負責之外，個人也要經由軍事審判為 committing war crimes 負責，非常具有歷史意義！
 
@@ -68,7 +80,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ![Restaurant Burgwächter 烤豬肩](images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpeg.jpg)
 
-*![巴伐利亞傳統紅啤酒](images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpeg.jpg)![德國脆皮豬肉料理](images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpeg.jpg)Restaurant Burgwächter 晚餐*
+![巴伐利亞傳統紅啤酒](images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpeg.jpg)
+
+![德國脈皮豬肉料理](images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpeg.jpg)
+
+*Restaurant Burgwächter 晩餐*
 
 最後晚餐回到城堡附近Restaurant Burgwächter，吃德國巴伐利亞的餐點烤豬肩（因為我太討厭馬鈴薯團團了，所以就要求換成德國麵包），紐倫堡的特色是 red beer。
 
