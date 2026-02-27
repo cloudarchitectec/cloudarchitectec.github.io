@@ -20,7 +20,9 @@ tags: ["AWS"]
 
 在過去三年內我考過了 5 張微軟 Azure 雲端證照以及 6 張 AWS 雲端證照。
 
-![Azure雲端證照成就展示](images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png.jpg)![AWS雲端證照成就展示](images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png.jpg)11 張雲端證照
+![Azure雲端證照成就展示](images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png.jpg)
+
+*![AWS雲端證照成就展示](images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png.jpg)11 張雲端證照*
 
 會考這麼多，一方面是因為我之前在微軟和 AWS 工作，證照費由公司全額補助 (仔細想想賺了大概 2000–3000 澳幣的證照費XD)，另一方面可能是因為我那時候剛入行，比較有衝勁，而且還很閒(?)
 
@@ -45,7 +47,9 @@ tags: ["AWS"]
 
 例如下圖我在 2022.02.19 通過 AWS Solution Architect Professional (該證照的有限期限為三年，到 2025.02.19)，你們可以看到我的 AWS Cloud Practitioner 跟 AWS Solution Architect Associate 有限期限也就隨之被延長到 2025.02.19。
 
-![AWS雲端證照管理面板展示](images/medium-1*gi-BinpRY4mO2kvLs90O_g.png.jpg)AWS 證照
+![AWS雲端證照管理面板展示](images/medium-1*gi-BinpRY4mO2kvLs90O_g.png.jpg)
+
+*AWS 證照*
 
 不過第二種方式只適用於兩條主要的 AWS 證照路線 ：
 
@@ -72,7 +76,9 @@ tags: ["AWS"]
 
 就 Microsoft Azure Administrator Associate 證照更新考試來說，題目是 26 提選擇題(單選)。但是我真的太久沒有碰 Azure 了，考試前也完全沒準備，考試中也沒有認真查資料，所以我獲得了一個這樣的下場：
 
-![Azure證照更新考試第一次成績](images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png.jpg)第一次證照更新考試分數 — EC
+![Azure證照更新考試第一次成績](images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png.jpg)
+
+*第一次證照更新考試分數 — EC*
 
 57% 就能通過的開卷考，我居然還考了 42%，真是爛斃了XDD
 
@@ -82,7 +88,9 @@ tags: ["AWS"]
 
 第一次失敗後，我立刻開始了第二次考試。此時我突然想到，既然是開卷考，那我不如請 ChatGPT 來試試? 於是我把每一個問題跟答案丟給 ChatGPT，結果它獲得的分數是：
 
-![ChatGPT證照更新考試成績](images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png.jpg)第二次證照更新考試分數- ChatGPT
+![ChatGPT證照更新考試成績](images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png.jpg)
+
+*第二次證照更新考試分數- ChatGPT*
 
 事實證明 ChatGPT 考得比我還差XDDD (果然有沒有連網還是有差哈哈！)
 
@@ -92,19 +100,25 @@ tags: ["AWS"]
 
   1. 我覺得 ChatGPT 「感覺」還是滿聰明的，因為它每選擇一個答案，都還會給我一些解釋。(雖然就最終結果來說，它的答題正確率並沒有特別高？)
 
-![ChatGPT回答考試題目示例](images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png.jpg)ChatGPT 回答範例一
+![ChatGPT回答考試題目示例](images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png.jpg)
+
+*ChatGPT 回答範例一*
 
 2\. ChatGPT 有著基本的語意判斷邏輯，不會因為我少給了它一個選項，就只在我給的選項中選答案。
 
 這一題的答案其實有五個選項，但我複製過來後，加上選項數字時少加了一個，不過 ChatGPT 並沒有因此被我迷惑，還是選出了正確答案「 DiskA, DiskB, DiskC, and DiskD」。
 
-![ChatGPT語意判斷邏輯示例](images/medium-1*C4EmZWOgy7LR-yxBI346eA.png.jpg)ChatGPT 回答範例二
+![ChatGPT語意判斷邏輯示例](images/medium-1*C4EmZWOgy7LR-yxBI346eA.png.jpg)
+
+*ChatGPT 回答範例二*
 
 3\. ChatGPT 有自己的看法，例如我明明給了它四個選項，它卻告訴我此題無解XD
 
 雖然我也覺得這題題目沒有出得很好，而且 ChatGPT 應該是對的，因為 banned password Contoso 很明顯應該是禁不了選項Ａ(裡面用 0 取代了英文字母Ｏ)。但如果真心硬要選一個答案的話，我覺得 D 應該還是一個比較有可能的選項。這也是 ChatGPT 跟人類不一樣的地方，像我們明知道考題出錯了，但為了避免失分，我們還是會硬選一個，而不是直接不作答。
 
-![ChatGPT對考題的獨立見解](images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png.jpg)ChatGPT 回答範例三
+![ChatGPT對考題的獨立見解](images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png.jpg)
+
+*ChatGPT 回答範例三*
 
 ### Microsoft Azure Solutions Architect Expert 證照更新考試心得
 
@@ -112,7 +126,11 @@ tags: ["AWS"]
 
 事實證明我不愧是做過 Microsoft Solution Architect 的女子，立刻輕鬆高分通過XDD
 
-![Azure解決方案架構師證照成績](images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png.jpg)![Azure解決方案架構師證照認證](images/medium-1*gnswMcSZJJI9ja13c66TtQ.png.jpg)Microsoft Solution Architect 證照更新考試結果
+![Azure解決方案架構師證照成績](images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png.jpg)
+
+![Azure解決方案架構師證照認證](images/medium-1*gnswMcSZJJI9ja13c66TtQ.png.jpg)
+
+*Microsoft Solution Architect 證照更新考試結果*
 
 好吧，所以我覺得追根究底可能只是因為 Microsoft Azure Administrator Associate 跟Microsoft Solution Architect 的考試方向差異極大，前者專注於考一些實際操作上的細節 (說真的根本沒有人會默背那些細節，要操作時再看 documentation 就可以了)，後者則是考驗 solution design 跟 solution architecting 的概念。
 

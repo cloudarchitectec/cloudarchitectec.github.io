@@ -14,7 +14,13 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 
 這個背包客棧有超大的共用廚房跟室內攀岩場 (攀岩需額外付費)，算是我個人住過品質非常不錯的backpacker，房間很乾淨而且沒有異味😆
 
-![National Park 背包客棧](images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg)![紐西蘭背包客棧雙人房](images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg)![背包客棧共用廚房設施](images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg)National Park Backpackers
+![National Park 背包客棧](images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpeg.jpg)
+
+![紛西蘇蘭背包客樊雙人房](images/medium-1*gk5xpoyK4lLNepyubVabGw.jpeg.jpg)
+
+![背包客樊共用廁房設施](images/medium-1*BeoM54StZPRhqubSf3dYkg.jpeg.jpg)
+
+*National Park Backpackers*
 
 Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪課(5個小時上課、1小時午休)。但不得不說雪場的配套措施滿爛的(或是說根本沒有配套措施，大家自生自滅吧😂)
 
@@ -24,11 +30,19 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 後來發現在晴天且沒有積雪時 開車上下山很容易，因為全程都是柏油路！
 
-![紐西蘭自駕上山滑雪路況](images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpeg.jpg)自駕上山
+![紐西蘭自駕上山滑雪路況](images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpeg.jpg)
+
+*自駕上山*
 
 我非常推薦整天的課程，因為六小時的課才能稍微涵蓋基本技巧。我個人只有學到後刃落葉飄 (heelside falling leaf) 有信心的地步，前刃(toeside）我不知道為什麼一直抓不到重心😂
 
-![Whakapapa 雪場滑雪課程](images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg)![紐西蘭北島最大雪場](images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg)![女生學習單板滑雪](images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg)Whakapapa 雪場
+![Whakapapa 雪場滑雪課程](images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpeg.jpg)
+
+![紛西蘇蘭北島最大雪場](images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpeg.jpg)
+
+![女生學習單板滑雪](images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpeg.jpg)
+
+*Whakapaka 雪場*
 
 但是我覺得單板的確是個很有趣的運動，也建議大家一定要訂時間長一點的課程。我多年前在墨爾本學過1–2小時的 ski 課程，真的是沒什麼感覺就結束了🤣
 
@@ -38,7 +52,9 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 下午之後天氣糟到完全沒辦法繼續滑(大暴雨)，所以我們就提早下山了。但在暴雨中開車下山也是滿驚險的，視線超級差！我就一路開超慢當路隊長下山😆
 
-![滑雪場暴雨驚險下山](images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpeg.jpg)![雪場餐廳犒賞用餐](images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpeg.jpg)第二天驚險下山後決定去附近餐廳吃飯犒賞自己
+![滑雪場暴雨驚險下山](images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpeg.jpg)
+
+*![雪場餐廳犒賞用餐](images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpeg.jpg)第二天驚險下山後決定去附近餐廳吃飯犒賞自己*
 
 以下是我的滑雪裝備心得總結：
 

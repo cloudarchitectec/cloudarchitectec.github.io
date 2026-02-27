@@ -63,7 +63,7 @@ tags: ["雲端證照"]
 
 **EC 評價: 這個價格跟這個形式我不會買，因為不適合我個人的學習模式。**
 
-  * **YouTube 的**[**AZ-104: Weekend Exam Cram | 190 Questions & Answers | Pass AZ-104 in 5 hours | Free pdf with answers **](https://www.youtube.com/watch?v=QGZWqYIpOMw)**(免費)**
+  * **YouTube 的**[**AZ-104: Weekend Exam Cram | 190 Questions & Answers | Pass AZ-104 in 5 hours | Free pdf with answers**](https://www.youtube.com/watch?v=QGZWqYIpOMw)**(免費)**
 
 
 

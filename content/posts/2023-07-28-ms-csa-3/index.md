@@ -65,7 +65,9 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
 第一種解決方案非常直接明瞭就叫 DSC 哈哈！但要跟 Azure Automation Account 一起合併使用才可以，這個解決方案在官方文件跟 YouTube 上都有一些相關影片，我自己也簡單在 Azure Portal 上做了一個 demo。
 
-![Azure Automation DSC 配置介面](images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png.jpg)DSC demo in Azure portal
+![Azure Automation DSC 配置介面](images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png.jpg)
+
+*DSC demo in Azure portal*
 
 * * *
 
@@ -73,7 +75,9 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
   * **官方文件** : [About Azure Automanage Machine Best Practices | Microsoft Learn](https://learn.microsoft.com/en-us/azure/automanage/overview-about)
 
-![Azure策略客體分配配置界面](images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png.jpg)Azure documenetation: newer version of DSC
+![Azure策略客體分配配置界面](images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png.jpg)
+
+*Azure documenetation: newer version of DSC*
 
 但是在 DSC 的官方文件上，又寫說現在有更新版的 DSC，叫做 Azure Policy Guest Assignment，結果一點進去連結，又說 Azure Policy Guest Assignment 現在改名為 Azure Automanage machine 了。
 
@@ -92,7 +96,9 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
 Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然後成功在我自己的 Azure Portal 上做了一個 demo。
 
-![Azure自動管理服務介面演示](images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png.jpg)Automanage demo in Azure portal
+![Azure自動管理服務介面演示](images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png.jpg)
+
+*Automanage demo in Azure portal*
 
 因為我實在搞不懂 solution 2 跟 solution 1 & 3 之間的關係跟差異，所以我就放棄 solution 2 了。想說至少我現在研究出來兩種解決方案，而且都還有 demo，先跟客戶開會聽聽他們實際上的要求再說。
 

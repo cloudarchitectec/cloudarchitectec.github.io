@@ -14,7 +14,9 @@ tags: ["澳洲求職必勝法則"]
 
 Tech meet-ups 是澳洲科技業非常盛行的活動，由主辦團體根據不同主題請講者來與大家分享任何技術、文化以及新知。你可以通過 [Meetups](https://www.meetup.com/lp/how-to-group-start?utm_medium=SEM&utm_source=google&utm_campaign=mmrk_adwords_orgacq_au_branded_ny23&utm_term=group&utm_content=lp_grp_v2&gclid=Cj0KCQiA0oagBhDHARIsAI-Bbgdp11Txnrid62gvvvBf09LPS1i95SDv497XJ2pROE7oMqmxORXPLmQaAhPdEALw_wcB) 網站來尋找自己有興趣的 meetups 聚會，他們同時也有手機 app 可以下載 — [Andriod](https://play.google.com/store/apps/details?id=com.meetup&hl=en-AU&pli=1) 及 [Iphone](https://apps.apple.com/us/app/meetup-social-events-groups/id375990038) 。如果想的話，你也可以號招志同道合的好友成立一個 meetup 團體喔～
 
-![](images/medium-1*cUxo55MxD-zjIxzSzIHw8Q.png.jpg)Meet up website
+![](images/medium-1*cUxo55MxD-zjIxzSzIHw8Q.png.jpg)
+
+*Meet up website*
 
 Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等) 給參加者，是一個非常好的 networking 機會 (或是你就想成去蹭一頓免費的晚餐也可以XD)。活動大部分都是免費的，只有少部分特殊活動需要事先付費。不管是你想要增進業界人脈、正在找工作或是剛到一個新的城市，我完全都會推薦大家多多去參與 meet ups。
 
@@ -58,7 +60,13 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
   1. **ReactJS:**[**https://www.meetup.com/en-AU/reactbris/**](https://www.meetup.com/en-AU/reactbris/)
 
-![](images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png.jpg) ReactBris Logo![](images/medium-1*9jJ12WPnePR-vuJ_IF3HTg.png.jpg)ReactBris 介紹＆近期活動
+![](images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png.jpg) 
+
+*ReactBris Logo*
+
+![](images/medium-1*9jJ12WPnePR-vuJ_IF3HTg.png.jpg)
+
+*ReactBris 介紹＆近期活動*
 
 介紹：這是一個對於 React、Redux、React Native 或其他前端開發生態系統中感興趣的開發人員的群組。這個群體是為 React 愛好者和專業人士成立的，讓大家聚在一起，分享知識，並一同享受開發的樂趣。
 

@@ -29,25 +29,33 @@ tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
 
 我跟 Ashley 其實週六早上就先分別飛往雪梨，在雪梨度過了一個週末，然後星期一下午才開始我們的登船行程。我們一到 Circular Quay 立刻就看到了我們的遊輪，然後就開始了瘋狂拍照的行程，不只自己要拍，還要幫別人拍XD
 
-![郵輪以及雪梨歌劇院](images/medium-1*x6LKifrtorOnK9sxiX0h9Q.jpeg.jpg)郵輪以及雪梨歌劇院
+![郵輪以及雪梨歌劇院](images/medium-1*x6LKifrtorOnK9sxiX0h9Q.jpeg.jpg)
+
+*郵輪以及雪梨歌劇院*
 
 ### **Cruise Check-in**
 
 郵輪 Check-in 的動線還滿流暢的！記得飲料必須要隨身攜帶，不能託運 (Carnival 的新規定是一人可以帶一瓶 750ml酒 + 12 瓶 350ml 以內的無酒精飲料，但這次並沒有人特別檢查！Ashley 帶了13瓶飲料也沒人發現XD)
 
-![25瓶飲料、2瓶酒以及泡麵](images/medium-1*D0Jc3uYW_mTTSjCQCjSIdA.jpeg.jpg)25瓶飲料、2瓶酒以及泡麵
+![25瓶飲料、2瓶酒以及泡麵](images/medium-1*D0Jc3uYW_mTTSjCQCjSIdA.jpeg.jpg)
+
+*25瓶飲料、2瓶酒以及泡麵*
 
 上船後的第一件事就是參加安全講習 (safety briefing)，結束後就可以直接去房間了，房卡會放在房門口信箱裡，用一個信封裝著。
 
 我們訂的陽台房出發前剛好正對著雪梨歌劇院，真的是非常幸運~
 
-![郵輪陽台房眺望雪梨歌劇院](images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpeg.jpg)從陽台看雪梨歌劇院
+![郵輪陽台房眺望雪梨歌劇院](images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpeg.jpg)
+
+*從陽台看雪梨歌劇院*
 
 **出發啦**
 
 4點遊輪正式出航，一路上看到了很美的夕陽與晚霞。
 
-![雪梨港灣大橋夕陽美景](images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpeg.jpg)雪梨大橋與夕陽
+![雪梨港灣大橋夕陽美景](images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpeg.jpg)
+
+*雪梨大橋與夕陽*
 
 **晚餐 — Gold Pearl (Main Dining Room)**
 
@@ -59,12 +67,16 @@ Check-in 時我們選的是 early dine-in，所以5:15 就可以入座用餐了�
 
 吃完晚餐我們回房間休息了一下 (其實我已經累到不行了，因為我早上還上班處理了一堆事)，然後去了劇院觀賞晚上 9:30的 welcome aboard show。表演的工作人員真的都很認真努力，但這個 show 其實感覺看與不看都可以XD
 
-![Carnival郵輪三樓劇場](images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpeg.jpg)三樓劇場
+![Carnival郵輪三樓劇場](images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpeg.jpg)
+
+*三樓劇場*
 
 ### **第一天小結**
 
 渡輪還算平穩，但三不五時還是會有搖晃感，我們倆個人都吃了一顆暈船藥做準備，所以完全沒有不舒服的感覺。但如果特別會暈船的人，可能還是要三思再決定要不要參與遊輪行(或是需要勤奮地吃暈船藥XD)。
 
-![遊輪九樓露天電影院設施](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)九樓的露天電影院
+![遊輪九樓露天電影院設施](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpeg.jpg)
+
+*九樓的露天電影院*
 
 {{< footer >}}

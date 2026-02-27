@@ -16,7 +16,9 @@ tags: ["旅遊", "斐濟"]
 
 這是 Tokatoka 飯店的早餐，很普通，這樣一人還要$20 FJD，也就是 $280 台幣 (好險我的房間是含早餐的，不用再額外付錢)。
 
-![Tokatoka飯店豐盛歐陸式早餐](images/medium-1*lQQDZ9d75S-w1F47tWt-Zw.jpeg.jpg)![斐濟熱帶水果早餐](images/medium-1*4Ar0XAYW7or1rjElNGF78g.jpeg.jpg)
+![Tokatoka飯店豐盛歐陸式早餐](images/medium-1*lQQDZ9d75S-w1F47tWt-Zw.jpeg.jpg)
+
+![斐濟熱帶水果早餐](images/medium-1*4Ar0XAYW7or1rjElNGF78g.jpeg.jpg)
 
 我今天的行程是去 Nadi 市區閒晃，然後回飯店按摩跟玩滑水道。出發前我稍微查了一下，大家對斐濟的治安好像還是有點疑慮，大眾交通工具不是太可靠，因此我這次完全沒有調查大眾交通方式，而是選擇搭乘計程車前往。
 
@@ -30,9 +32,17 @@ tags: ["旅遊", "斐濟"]
 
 後來發現美食街裡居然還有一間珍奶店，我立刻點了一杯斐濟珍奶！
 
-![斐濟美食街炸雞薯條](images/medium-1*OaA-O_K5Enslu7bk6qFmvw.jpeg.jpg)![斐濟當地珍珠奶茶](images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpeg.jpg)炸雞與珍奶
+![斐濟美食街炸雞薯條](images/medium-1*OaA-O_K5Enslu7bk6qFmvw.jpeg.jpg)
 
-![珍奶店飲料菜單](images/medium-1*maKJl591iSb1XH8bd3q3Aw.jpeg.jpg)![斐濟特色手搖飲品](images/medium-1*EWueicjjVL2iUQT_V-qrJg.jpeg.jpg)事過境遷，我真的忘了我當初點什麼了，應該也沒有太好喝XD
+![斐濟當地珍珠奶茶](images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpeg.jpg)
+
+*炸雞與珍奶*
+
+![珍奶店飲料菜單](images/medium-1*maKJl591iSb1XH8bd3q3Aw.jpeg.jpg)
+
+![斐濟特色手搖飲品](images/medium-1*EWueicjjVL2iUQT_V-qrJg.jpeg.jpg)
+
+*事過境遷，我真的忘了我當初點什麼了，應該也沒有太好喝XD*
 
 ### 差點遭遇詐騙(?)
 
@@ -51,11 +61,15 @@ tags: ["旅遊", "斐濟"]
 
 而且我覺得斐濟的物價感覺也沒有特別便宜，大概就是澳洲物價的 7 折吧，所以如果大家想要去一個便宜的海島國家度假，我可能會比較推薦泰國XD
 
-![斐濟FJD7元橄欖球紀念紙鈔](images/medium-1*68-6whc9cjMou1308Lj0JQ.jpeg.jpg)斐濟居然有$7的紙鈔，超有趣！看描述應該是斐濟橄欖球隊的紀念版
+![斐濟FJD7元橄欖球紀念紙鈔](images/medium-1*68-6whc9cjMou1308Lj0JQ.jpeg.jpg)
+
+*斐濟居然有$7的紙鈔，超有趣！看描述應該是斐濟橄欖球隊的紀念版*
 
 ### 再度回到計程車司機
 
-![斐濟南迪市區傳統禮品店](images/medium-1*GwRTJPhtv1cu-CI1tkpQmQ.jpeg.jpg)市區的禮品店
+![斐濟南迪市區傳統禮品店](images/medium-1*GwRTJPhtv1cu-CI1tkpQmQ.jpeg.jpg)
+
+*市區的禮品店*
 
 這裡要提一下，司機放我在市區的禮品店下車後，他居然連錢也不收，說他等一下回來接我的時候再一起付就好，司機真的不怕我回來不找他嗎? 而且我根本沒有斐濟的手機號碼，於是計程車司機把他的電話寫在一張紙上給我，然後跟我說「你想回飯店的時候再把紙條拿給紀念品店的店員，他們會幫你打電話給我」。我當下心中真的是充滿了滿滿的困惑XDDD
 
@@ -67,10 +81,18 @@ tags: ["旅遊", "斐濟"]
 
 不得不說飯店的按摩小屋裝潢氣氛還不錯～
 
-![飯店私人按摩小屋外觀](images/medium-1*pR_hCUL162C3Qx7wGHTGFw.jpeg.jpg)![飯店按摩小屋內部環境](images/medium-1*ME6HFCkpu4PTV4WcvrjqqA.jpeg.jpg)飯店的按摩小屋
+![飯店私人按摩小屋外觀](images/medium-1*pR_hCUL162C3Qx7wGHTGFw.jpeg.jpg)
+
+![飯店按摩小屋內部環境](images/medium-1*ME6HFCkpu4PTV4WcvrjqqA.jpeg.jpg)
+
+*飯店的按摩小屋*
 
 飯店的泳池還有滑水道，小朋友們玩得超級開心的！我自己也上去滑了一次體驗一下～
 
-![Tokatoka飯店戶外游泳池](images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpeg.jpg)![Tokatoka飯店泳池休閒區](images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpeg.jpg)Tokatoka Hotel 的泳池設施
+![Tokatoka飯店戶外游泳池](images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpeg.jpg)
+
+![Tokatoka飯店泳池休閒區](images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpeg.jpg)
+
+*Tokatoka Hotel 的泳池設施*
 
 {{< footer >}}

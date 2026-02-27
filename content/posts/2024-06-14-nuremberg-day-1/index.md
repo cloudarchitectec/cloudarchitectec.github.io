@@ -12,13 +12,19 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### **一個女生的歐洲獨旅:** 2024.04.30 德國 紐倫堡 (Nuremberg) Day 1 — 第一個讓我想移居的德國城市
 
-![紐倫堡地鐵站現代化設計](images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpeg.jpg)紐倫堡地鐵站
+![紐倫堡地鐵站現代化設計](images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpeg.jpg)
+
+*紐倫堡地鐵站*
 
 住在法蘭克福的這兩個晚上我真的是很喜歡透過大窗戶觀察外面的行人XD
 
 覬覦了轉角那家麵包店兩天後，我在 check out 當天早上 6:35 下樓買了他們今天新鮮烤好的蝴蝶餅 (pretzel) ，外層鹹香香酥，內層有嚼勁又不會太硬！配上我的自製拿鐵，太好吃了~
 
-![德國傳統蝴蝶餅 Pretzel](images/medium-1*cEf2YgS2isLvWN_SxTaeiA.jpeg.jpg)![法蘭克福早餐手工麵包](images/medium-1*z76YqWPPyIezu93i43T3VQ.jpeg.jpg)![歐洲旅行自製拿鐵](images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpeg.jpg)
+![德國傳統蝴蝶餅 Pretzel](images/medium-1*cEf2YgS2isLvWN_SxTaeiA.jpeg.jpg)
+
+![法蘭克早餐手工麵包](images/medium-1*z76YqWPPyIezu93i43T3VQ.jpeg.jpg)
+
+![歐洲旅行自製拿鐵](images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpeg.jpg)
 
 ### 德國火車一等車廂初體驗
 
@@ -36,19 +42,27 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 但我覺得這位姊姊才是一等車廂的極致直接帶酒上來喝！後來我仔細一看姊姊的手拿包是全黑的LV，果然是低調奢華XDD
 
-![德國火車一等車廂 LV 姊姊](images/medium-1*h4mvEITaKjkC0ryYdUvo8Q.jpeg.jpg)![德鐵頭等艙豪華體驗](images/medium-1*xzQs9md4GWKRHqltU3S5ww.jpeg.jpg)德國火車一等車廂初體驗
+![德國火車一等車廂 LV 姊姊](images/medium-1*h4mvEITaKjkC0ryYdUvo8Q.jpeg.jpg)
+
+*![德鐵頭等艙豪華體驗](images/medium-1*xzQs9md4GWKRHqltU3S5ww.jpeg.jpg)德國火車一等車廂初體驗*
 
 ### 好喜歡紐倫堡
 
-![紐倫堡中央廣場小市集](images/medium-1*WRbOi_9nExtfYxyBRNBVKw.jpeg.jpg)![Nuremberg 聖誕市集場地](images/medium-1*ig6JggBYl-YWUZapayNv6w.jpeg.jpg)![德國傳統市集木屋攤位](images/medium-1*aMb7J9Cke4-wH2o9NCaY6g.jpeg.jpg)紐倫堡的聖誕市集很有名，但非聖誕節期間來也是有個小小的市集。希望以後有機會再訪紐倫堡來逛這個歐洲最大的聖誕市集
+![紐倫堡中央廣場小市集](images/medium-1*WRbOi_9nExtfYxyBRNBVKw.jpeg.jpg)![Nuremberg 聖誕市集場地](images/medium-1*ig6JggBYl-YWUZapayNv6w.jpeg.jpg)
+
+*![德國傳統市集木屋攤位](images/medium-1*aMb7J9Cke4-wH2o9NCaY6g.jpeg.jpg)紐倫堡的聖誕市集很有名，但非聖誕節期間來也是有個小小的市集。希望以後有機會再訪紐倫堡來逛這個歐洲最大的聖誕市集*
 
 我其實滿建議在紐倫堡待個2–3晚，因為這個小鎮 (為什麼大家一直叫它小鎮，紐倫堡明明很大哈哈)，有非常多值得參觀的地方！
 
 他們有超多博物館、有中世紀的歷史、藝術、交通發展史，有沈重的納粹發展史，而且非常安全、氣氛也很好，我這次住了兩個晚上，以後也會考慮再訪！
 
-這裡推薦大家可以先上網買好[紐倫堡卡(Nürnberg CARD+Fürth)](https://tourismus.nuernberg.de/en/booking/nuernberg-card-city-card/?fbclid=IwZXh0bgNhZW0CMTAAAR0cNbhR7DTQX82gI294ylSOrtbjpZPBetqIJu5MtMwihbpbjSNVaP0vbrM_aem_ZmFrZWR1bW15MTZieXRlcw#/)，一下火車即可開始使用。這個卡可以免費去紐倫堡跟Fürth 的40個景點，加搭乘所有的大眾運輸交通免費，一張卡要價33€ (我算了一下，兩天內我的交通費22.9跟景點門票51.5，加起來74.4，等於省了一半的費用！
+這裡推薦大家可以先上網買好[紐倫堡卡(Nürnberg CARD+Fürth)](https://tourismus.nuernberg.de/en/booking/nuernberg-card-city-card/?fbclid=IwZXh0bgNhZW0CMTAAAR0cNbhR7DTQX82gI294ylSOrtbjpZPBetqIJu5MtMwihbpbjSNVaP0vbrM_aem_ZmFrZWR1bW15MTZieXRlcw#/)
 
-如果你只在紐倫堡待一天的話，我另外還發現了另一個 [Nuremberg Municipal Museums 的博物館套票](https://museums.nuernberg.de/visitor-information/admission)，任何一個 Municipal Museum 的門票是 7.5EUR，但只要你在加上€3，就可以變成一個 €10.5 的一日票，適用於滿多個博物館的，我覺得如果只待一天的話其實可以考慮這個套票，更划算。
+*，一下火車即可開始使用。這個卡可以免費去紐倫堡跟Fürth 的40個景點，加搭乘所有的大眾運輸交通免費，一張卡要價33€ (我算了一下，兩天內我的交通費22.9跟景點門票51.5，加起來74.4，等於省了一半的費用！*
+
+如果你只在紐倫堡待一天的話，我另外還發現了另一個 [Nuremberg Municipal Museums 的博物館套票](https://museums.nuernberg.de/visitor-information/admission)
+
+*，任何一個 Municipal Museum 的門票是 7.5EUR，但只要你在加上€3，就可以變成一個 €10.5 的一日票，適用於滿多個博物館的，我覺得如果只待一天的話其實可以考慮這個套票，更划算。*
 
 ### Bratwurst Röslein 午餐 (紐倫堡香腸)
 
@@ -56,13 +70,21 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 但我後來想想，沒吃飽也好啊，這樣飯後才可以吃更多小點XDDD
 
-![Bratwurst Röslein 紐倫堡香腸](images/medium-1*fT-2EQohU3kBIoQ_43jH7Q.jpeg.jpg)![德國傳統手指香腸](images/medium-1*TTdrSj24MhyITTLeu0ruww.jpeg.jpg)![Nuremberg 特色羊腸香腸](images/medium-1*zxmTKdj-LCTFIwdVjjtP-A.jpeg.jpg)紐倫堡香腸
+![Bratwurst Röslein 紐倫堡香腸](images/medium-1*fT-2EQohU3kBIoQ_43jH7Q.jpeg.jpg)
+
+*![德國傳統手指香腸](images/medium-1*TTdrSj24MhyITTLeu0ruww.jpeg.jpg)![Nuremberg 特色羊腸香腸](images/medium-1*zxmTKdj-LCTFIwdVjjtP-A.jpeg.jpg)紐倫堡香腸*
 
 至於香腸的味道，嗯，是個好吃的香腸。但這種 bratwurst 我覺得吃起來都差不多，澳洲也有很多這種香腸，我覺得沒什麼特別的 (論香腸，當然還是台灣的練煙腸最好吃XDD)
 
 ### 紐倫堡城堡 Imperial Castle of Nuremberg
 
-![紐倫堡城堡俯瞰市景](images/medium-1*QwnD2FI9fKNRJEBzzmUq8w.jpeg.jpg)![Imperial Castle 中世紀建築](images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpeg.jpg)![Nuremberg 皇帝城堡](images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpeg.jpg)紐倫堡城堡
+![紐倫堡城堡俯瞰市景](images/medium-1*QwnD2FI9fKNRJEBzzmUq8w.jpeg.jpg)
+
+![Imperial Castle 中世紀建筑](images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpeg.jpg)
+
+![Nuremberg 皇帝城堡](images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpeg.jpg)
+
+*紙倉堡城堡*
 
 這裏是個免費看市景的好地方! 如果不想要付費參觀博物館的話，我覺得光是上來看城堡外面的風景都很值得！
 
@@ -74,7 +96,9 @@ Bell Tower 滿好爬的，約五分鐘，但不爬也可以。因為其實城堡
 
 ### 紐倫堡市立博物館(City Museum in Fembo house)
 
-![Fembo House 市立博物館](images/medium-1*w3v2ZrjBh5MV70OGUFrjMg.jpeg.jpg)![紐倫堡中世紀城市發展史](images/medium-1*YdcpokwKtAYaZY4f-rYp-A.jpeg.jpg)![神聖羅馬帝國歷史展覽](images/medium-1*p5ZoJIDZ-NOLHXShPUmcng.jpeg.jpg)紐倫堡市立博物館
+![Fembo House 市立博物館](images/medium-1*w3v2ZrjBh5MV70OGUFrjMg.jpeg.jpg)
+
+*![紐倫堡中世紀城市發展史](images/medium-1*YdcpokwKtAYaZY4f-rYp-A.jpeg.jpg)![神聖羅馬帝國歷史展覽](images/medium-1*p5ZoJIDZ-NOLHXShPUmcng.jpeg.jpg)紐倫堡市立博物館*
 
 這是我整趟歐洲行程最喜歡的博物館，英文語音導覽做得很棒！！！
 

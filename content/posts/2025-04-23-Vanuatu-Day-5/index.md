@@ -38,7 +38,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### 下雨天，宅宅天
 
-![度假村雷雨天室外景象](images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg)![暴雨中的太平洋海景](images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg)
+![度假村雷雨天室外景象](images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg)
+
+![暴雨中的太平洋海景](images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg)
 
 讓我們把時間拉回現在！
 
@@ -54,7 +56,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 午餐吃了一個評論說很好吃的夏威夷披薩，要價$19.3澳幣，我覺得很不行。吃完之後我就跑回房間睡午覺，結果大睡了四小時😆😆😆
 
-![度假村手工夏威夷披薩](images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg)很有手工感的披薩
+![度假村手工夏威夷披薩](images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg)
+
+*很有手工感的披薩*
 
 在半夢半醒之間，天氣好像放晴了好一陣子，也來了很多 day trip 的客人。我甚至還聽到有一個小朋友說「this is the best day ever」😆 只能說就算是同一個時間點在同一個地方，大家還是可以有非常不同的旅遊體驗！
 

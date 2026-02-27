@@ -14,7 +14,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### 萬那杜不意外
 
-![民宿奶奶手作豐盛早餐](images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg)奶奶自製的超豐盛早餐
+![民宿奶奶手作豐盛早餐](images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg)
+
+*奶奶自製的超豐盛早餐*
 
 早上起來先把昨天洗的衣服收一收，吃完早餐、收拾完之後準備跟民宿奶奶道別。我跟奶奶說我今天要去 Banana Beach Bay，已經在網路上聯絡好一個司機，報價 vt1500。他說我的民宿有點難找，所以要我走去機場等他，我覺得ok，反正民宿很近，走路只要五分鐘（只是中間的馬路是黃土路，而不是柏油路）。
 
@@ -30,9 +32,15 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### Banana beach bay resort
 
-![Banana Bay 度假村海灘](images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg)![度假村太平洋海景](images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg)
+![Banana Bay 度假村海灘](images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg)
 
-![Banana Bay 椰林泳池](images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg)![度假村室內餐廳](images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg)Banana Bay Beach Resort
+![度假村太平洋海景](images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg)
+
+![Banana Bay 椰林泳池](images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg)
+
+![度假村室內餐廳](images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg)
+
+*Banana Bay Beach Resort*
 
 Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但我要直接在這邊住兩天。而且我早上 10 點就到了，有夠早😆
 
@@ -48,13 +56,19 @@ Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但�
 
 好險後來又被我的等到短暫放晴，順利浮潛成功！我甚至覺得這裡好像還比 Pele island 漂亮。不過這邊的風浪很強，我中間游到這個小小的開口，結果差點被大浪卷出去外海🤣🤣🤣
 
-![浮潛差點被捲外海驚險](images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg)差點喪命囧
+![浮潛差點被捲外海驚險](images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg)
+
+*差點喪命囧*
 
 好險我嚇了一跳之後，立刻恢復冷靜，先用手抓住旁邊的礁岩，固定住自己，然後等浪打回來的一刻順勢用力游回來！真是太驚險了！你們真的差一點就可能看不到我了😂
 
 ### 跟說好的都不一樣
 
-![度假村小屋門口風景](images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg)![小屋屋頂裝飾花朵](images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg)我的小屋上有可愛小花
+![度假村小屋門口風景](images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg)
+
+![小屋屋頂裝飾花朵](images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg)
+
+*我的小屋上有可愛小花*
 
 回到房間後，我想說來拍個房間的影片。最好笑的是，我拍完影片就把正門拉起來了，因為正門對應的是所有車輛進出的大門口。然後正門的門閂就從外面鎖住了🤣🤣🤣
 

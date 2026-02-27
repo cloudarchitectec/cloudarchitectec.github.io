@@ -20,7 +20,7 @@ tags: ["澳洲移民","澳洲簽證"]
 
   * 在澳洲生活超過10年，一路從打工度假、留學、獨立技術移民(我是靠NSW 州政府擔保 190 拿到澳洲永居)，最後通過入籍考試正式宣誓為澳洲公民 (沒錯，EC 現在是拿台灣跟澳洲兩本護照)，基本上所有的申請文件都是自己處理的。
   * 在澳洲做過 2 年移民代理助理的工作，當時專門幫申請人申辦雇主擔保457/186/187 (457 就是現在 482 簽證的前身) 以及配偶簽移民309/100/820/801，有不少準備文件的經驗跟簽證下批的案例。
-  * 3 年[會計職業評估機構 CAANZ ](https://www.charteredaccountantsanz.com/become-a-member/migration-assessment/australia-immigration)的會計移民職業評估資深審核專員的工作經驗。職業評估是獨立技術移民 189/190 的先決條件，我的工作內容就是協助澳洲移民局評估海外會計師的學歷以及工作經驗是否符合移民澳洲的資格。如果是靠會計移民澳洲的申請人可以看一下你們的職業評估，說不定上面有 EC 的簽名XDDD
+  * 3 年[會計職業評估機構 CAANZ ](https://www.charteredaccountantsanz.com/become-a-member/migration-assessment/australia-immigration)的會計移民職業評估資深審核專員的工作經驗。職業評估是獨立技術移民 189/190 的先決條件，我的工作內容就是協助澳洲移民局評估海外會計師的學歷以及工作經驗是否符合移民澳洲的資格。如果是靠會計移民澳洲的申請人可以看一下你們的職業評估，說不定上面有 EC 的簽名XDDD*
   * 擁有澳洲國立大學的移民法學位 (Graduate Certificate of Australian Migration Law and Practice at The Australian National University)，其時 EC 一度有考慮過要當澳洲註冊移民代理 (Registered Migration Agent)，所以我才會跑去 ANU 讀這個學位，只是後來不是太喜歡這行的生態 (很多移民仲介公司不僅黑心，還遊走法律邊緣，所以我後來就放棄這件事了。現在想起來真是好險好險，不然也不會有後來進行科技業轉職大冒險的我了XDDD)
 
 

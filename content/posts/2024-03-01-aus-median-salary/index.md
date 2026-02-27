@@ -20,7 +20,9 @@ tags: ["薪資","澳洲職場統計數據"]
 
 ### 薪資中位數
 
-![](images/medium-1*PB46lQ5iZqbVusENJ-xxWw.png.jpg)澳洲薪資中位數
+![](images/medium-1*PB46lQ5iZqbVusENJ-xxWw.png.jpg)
+
+*澳洲薪資中位數*
 
 澳洲人的薪資中位數(包含全職與兼職)為每週 1,300 澳幣(約26748台幣)，其中男性為1,509 澳幣 (約31058台幣)，女性為1,130 澳幣(約23257台幣)。 也就是說澳洲人的年薪中位數為約67,600澳幣(約140萬台幣)。
 
@@ -61,7 +63,9 @@ tags: ["薪資","澳洲職場統計數據"]
 
 ### 各州/領地的薪資分布
 
-![](images/medium-1*KOLsZLA1T-U54wIG01J1VQ.png.jpg)![](images/medium-1*OKIJEys1q2mD8KTPT3Yb3w.png.jpg)澳洲各州/領地薪資分布
+![](images/medium-1*KOLsZLA1T-U54wIG01J1VQ.png.jpg)
+
+*![](images/medium-1*OKIJEys1q2mD8KTPT3Yb3w.png.jpg)澳洲各州/領地薪資分布*
 
 全澳的每週薪資為 1,489.80 澳幣，其中以首領地 1,704.80 澳幣最高，西澳與北領地分別以每週1,656.20 澳幣跟 1,612.10澳幣緊追在後。
 

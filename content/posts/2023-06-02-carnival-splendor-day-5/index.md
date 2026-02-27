@@ -11,7 +11,9 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 ### Carnival Splendor 澳洲南太平洋郵輪 2023.05.19 — Day 5 Lifou (New Caledonia)
 
-![郵輪房務創意毛巾兔子](images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpeg.jpg)今天的毛巾動物是什麼呢? (下文有答案)
+![郵輪房務創意毛巾兔子](images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpeg.jpg)
+
+*今天的毛巾動物是什麼呢? (下文有答案)*
 
 * * *
 
@@ -19,21 +21,33 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 
 這個小島沒有足夠深的港口，所以船只能停在海上，透過接駁小船把遊客送到島上。為了避開人潮，我們6:30就起床了，7點吃了buffet 早餐，順利搭上8:30的接駁小船。
 
-![Lifou島接駁小船交通](images/medium-1*--9Pw_aiyqSGzhUf2ZieUQ.jpeg.jpg)Lifou 接駁小船![Lifou島碼頭登陸點](images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpeg.jpg)Lifou Jetty
+![Lifou島接駁小船交通](images/medium-1*--9Pw_aiyqSGzhUf2ZieUQ.jpeg.jpg)
+
+*Lifou 接駁小船*
+
+![Lifou島碼頭登陸點](images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpeg.jpg)
+
+*Lifou Jetty*
 
 **Swimming Tour**
 
 這次我們一樣是上了島再訂 tour，我們訂的是三小時的 swimming tour $30 (說是 tour，但就是開車半小時載你到另一個海邊，然後把你放在那游泳，兩個小時後再回來接你)。跟我們同行的泰國情侶 Nan & Pattie 說，同樣的行程在遊輪上訂的話要$150!!!
 
-![Lifou島當地旅遊行程告示](images/medium-1*7PgD26vI-d-yONvrGR-qEw.jpeg.jpg)Tour 告示牌
+![Lifou島當地旅遊行程告示](images/medium-1*7PgD26vI-d-yONvrGR-qEw.jpeg.jpg)
+
+*Tour 告示牌*
 
 其實這個海灘真的滿美的，沙子非常細，海水也無敵清澈！不過今天晴時多雲，所以沒有到非常溫暖，但也不冷就是了。
 
-![Lifou島椰子飲品乾杯](images/medium-1*KbwckbPHton3dvodP2-OQg.jpeg.jpg)椰子 cheers!
+![Lifou島椰子飲品乾杯](images/medium-1*KbwckbPHton3dvodP2-OQg.jpeg.jpg)
+
+*椰子 cheers!*
 
 Ashley 在這裡買了一個雞肉咖哩便當，立刻成為野狗包圍的對象XDD
 
-![Lifou島野狗覬覦食物](images/medium-1*pFEUKRkQrGBUcK7CPCSwxA.jpeg.jpg)野狗虎視眈眈!
+![Lifou島野狗覬覦食物](images/medium-1*pFEUKRkQrGBUcK7CPCSwxA.jpeg.jpg)
+
+*野狗虎視眈眈!*
 
 **Lifou vs Noumea**
 
@@ -45,19 +59,25 @@ Lifou 跟 Noumea 感覺差很多，雖然有居民居住，但感覺是非常鄉
 
 本來不想睡的我，可能是因為洗完澡又吃完泡麵太舒服了，想著說要坐在床上玩手機，結果我直接坐著睡著哈哈哈哈
 
-![滿漢大餐泡麵首次品嚐](images/medium-1*PL5k02W0pByIHUcKRJ7ffw.jpeg.jpg)這其實是我第一次吃滿漢大餐，大家聽到都很驚訝XDD
+![滿漢大餐泡麵首次品嚐](images/medium-1*PL5k02W0pByIHUcKRJ7ffw.jpeg.jpg)
+
+*這其實是我第一次吃滿漢大餐，大家聽到都很驚訝XDD*
 
 **White Night**
 
 今天晚上是 white night，所以大家穿上白色的服裝。不過今天晚上的派對是silent party，也就是每個人戴著耳機各自聽自己喜歡的音樂跳舞。我記得雪梨也有同樣主題的夜店。
 
-![郵輪White Night無聲派對](images/medium-1*mW5U1eIHTAk5xFCjC0CE-g.jpeg.jpg)White Night 耳機
+![郵輪White Night無聲派對](images/medium-1*mW5U1eIHTAk5xFCjC0CE-g.jpeg.jpg)
+
+*White Night 耳機*
 
 我覺得遊輪最棒的地方就是幾乎所有的活動都是老少皆宜，不管是爺爺奶奶或是小朋友，都能一起參與絕大多數的活動。
 
 PS: 跟工作人員閒聊了一下，才原來我今天的毛巾動物是兔子！他們還有一本書教你如何折毛巾動物
 
-![郵輪房務毛巾兔子造型](images/medium-1*sj7OZg5di7AAyxWxN0KN1Q.jpeg.jpg)原來是兔子 Rabbit! 這裡會強調是 rabbit 是因為還有另一種毛巾兔子叫 bunny
+![郵輪房務毛巾兔子造型](images/medium-1*sj7OZg5di7AAyxWxN0KN1Q.jpeg.jpg)
+
+*原來是兔子 Rabbit! 這裡會強調是 rabbit 是因為還有另一種毛巾兔子叫 bunny*
 
 **郵輪安全反思**
 

@@ -8,14 +8,18 @@ images: ["images/black-flat-computer-monitor.jpg"]
 tags: ["ETF","FIRE","好想要退休"]
 ---
 
-![black-flat-screen-computer-monitor](images/black-flat-computer-monitor.jpg)Photo by [Nick Chong on Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-N__BnvQ_w18)
+![black-flat-screen-computer-monitor](images/black-flat-computer-monitor.jpg)
+
+*Photo by [Nick Chong on Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-N__BnvQ_w18)*
 
 
 ## 前言：為什麼要寫這篇文章？
 
 大家好，我是 EC！
 
-上一篇文章[《好想要退休！讓我們來談談澳洲人最愛的澳洲指數基金 ETFs 組合》](/posts/2024-10-19-etf/)發表之後，收到了很多讀者的熱烈迴響，真的非常感謝大家的支持！
+上一篇文章[《好想要退休！讓我們來談談澳洲人最愛的澳洲指數基金 ETFs 組合》](/posts/2024-10-19-etf/)
+
+*發表之後，收到了很多讀者的熱烈迴響，真的非常感謝大家的支持！*
 
 其中大家最好奇的是：「EC～文章中討論到的 VGS 雖然是澳洲投資主流，但管理費要 0.18%。美國那邊有一檔代號 VT 的 ETF，費用才 0.07%。一樣是投資全世界，為什麼我們不直接開個美股帳戶買 VT 就好了？不是更香嗎？」
 
@@ -126,7 +130,9 @@ tags: ["ETF","FIRE","好想要退休"]
 
 本篇文章都以 Pearler 平台舉例，因為這是我目前唯一使用的投資平台。我個人覺得他們的 auto investment 功能是特點，客服也非常專業。
 
-如果你對於使用 Pearler 平台有興趣，可以使用我的[<<EC Pearler 推薦連結>>](https://pearler.com/invited/ELLIE68198)加入，加入後我們可以各自得到 $20。跟其他平台比起來 referral bonus 是滿爛的，我看其他平台都直接送股票哈哈哈哈，所以不加入也沒關係～ 
+如果你對於使用 Pearler 平台有興趣，可以使用我的[<<EC Pearler 推薦連結>>](https://pearler.com/invited/ELLIE68198)
+
+*加入，加入後我們可以各自得到 $20。跟其他平台比起來 referral bonus 是滿爛的，我看其他平台都直接送股票哈哈哈哈，所以不加入也沒關係～*
 
 如果想要看澳洲投資平台的比較，或是其他問題，都歡迎留言或來信跟我說！
 

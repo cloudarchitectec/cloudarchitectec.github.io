@@ -12,8 +12,7 @@ images:
   - "images/0*s0H-Uir4l9_Oukde.jpg"
 ---
 
-![Photo by Christopher Sardegna on Unsplash](images/0*VPTnrBLCs211J6nV.jpg)
-*Photo by [Christopher Sardegna](https://unsplash.com/@css?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
+![Photo by Christopher Sardegna on Unsplash](images/0*VPTnrBLCs211J6nV.jpg)*Photo by [Christopher Sardegna](https://unsplash.com/@css?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
 
 *分享我從文組轉職科技業工程師後，在科技大廠 Amazon、微軟，以及大型石油公司 Shell 三個不同技術職位的任職經驗中獲得的技能與經驗分享。進一步分析我認為要轉職成功需要具備哪些要素。*
 

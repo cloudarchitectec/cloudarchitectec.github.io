@@ -31,7 +31,10 @@ tags: ["職涯"]
 
 以下是我對於 Solution Architect 這個職位的工作小任務分析，我總共歸納出14個小任務。有趣的是，我最後的總分是 0 分XDD (也就是我喜歡的小任務跟不喜歡的小任務剛好打成平手)。Bryan 的廣播裡沒有提到評分加總這個概念，但我覺得如果你的整體評分可以是正數或是越高越好，那就代表其實你的現職並沒有那麼難以忍受(可能只是其中一兩項你不喜歡)，所以你也可以用此作為要不要轉職的標準，畢竟世界上沒有完美的工作，人總是要做出取捨XD
 
-![SA 工作小任務分析 1–6](images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg)![SA 工作小任務分析 7–10](images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg)![SA 工作小任務分析 11–13](images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg)![SA 工作小任務分析 14](images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg)
+![SA 工作小任務分析 1–6](images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png.jpg)
+![SA 工作小任務分析 7–10](images/medium-1*40SNwlids93GYrZPDVBbCg.png.jpg)
+![SA 工作小任務分析 11–13](images/medium-1*SmTbs4TV1x42FO3tN-H30w.png.jpg)
+![SA 工作小任務分析 14](images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png.jpg)
 
 如果你們有嘗試這個工作小任務分析，也歡迎在留言跟我分享你們的結果。你們的工作可以被分成多少的小任務? 裡面負1分小任務比較多，還是正1分小任務比較多? 你們的總分是正數還是負數呢? 你們覺得這個分析有幫助嗎? 因為我也非常好奇大家的分析結果! 哈哈
 

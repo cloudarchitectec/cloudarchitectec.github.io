@@ -8,13 +8,21 @@ categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 ---
 
-![阿姆斯特丹中央火車站](images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg)阿姆斯特丹火車站
+![阿姆斯特丹中央火車站](images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg)
+
+*阿姆斯特丹火車站*
 
 結束了香港轉機一日行，我整個累到爆炸！
 
 加上國泰的 Kosher 飛機餐難吃到爆炸，所以我選擇在香港機場飽餐一頓，然後上機就直接跟空姐說晚餐不用叫我了。
 
-![香港機場轉機美食廣場](images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpeg.jpg)![機場餐廳價格表](images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpeg.jpg)![香港機場豐盛餐點](images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpeg.jpg)雖然超好吃也吃超飽，但是這個價錢也超誇張lol
+![香港機場轉機美食廣場](images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpeg.jpg)
+
+![機場餐廳價格表](images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpeg.jpg)
+
+![香港機場豐盛餐點](images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpeg.jpg)
+
+雖然超好吃也吃超飽，但是這個價錢也超誇張lol
 
 接下來要飛 13 小時到荷蘭阿姆斯特丹，隨著年紀增長，我真的覺得長程飛機越發難熬 (也可能是因為我的財力沒有隨著一起增長到可以坐商務艙的程度XDD)。
 
@@ -28,7 +36,13 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 於是領到行李之後我立刻換上 Kathmandu 的外套跟我為這趟歐洲行準備的夏季防水 hiking boots！事實證明這是個再正確不過的選擇，因為一出火車站，我立刻被寒冷的狂風吹得不要不要！
 
-![歐洲獨旅行李箱準備](images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpeg.jpg)![荷蘭旅行裝備整理](images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpeg.jpg)![Kathmandu 防水登山靴](images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpeg.jpg)本來就已經裂開的行李箱，成功從澳洲跨洋來到了歐洲XD
+![歐洲獨旅行李箱準備](images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpeg.jpg)
+
+![荷蘭旅行裝備整理](images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpeg.jpg)
+
+![Kathmandu 防水登山靴](images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpeg.jpg)
+
+*本來就已經裂開的行李箱，成功從澳洲跨洋來到了歐洲XD*
 
 題外話，阿姆斯特丹的海關居然只有歐盟成員國加瑞士人才能用電子通關，其他所有人都要人工通關！！！我驚呆了，而且他們人工通關還只開兩個。於是光過海關就花了40分鐘！我建議他們向澳洲學習，這時候就覺得澳洲好先進！(雖然兩個荷蘭海關都很帥 >///<)
 
@@ -36,31 +50,57 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 如果是跟我一樣短程來訪的人，建議不用買 OV card (因為押金是不會退給你的，而且有一定的餘額下限，也就是說卡裡一定要維持 20 歐以上）。直接用手機 Apple Pay 即可，也就是荷蘭說的 OV pay，這個名詞我當初研究了好一陣子，但說白了就是進站跟出站都直接刷同一張信用卡就對了。OV pay 的火車機器是黃色柱子、公車上刷卡的地方會有ov pay 圖案。上下車都要刷卡，沒刷到罰錢。
 
-![阿姆斯特丹火車站運河美景](images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpeg.jpg)阿姆斯特丹火車站一出來的河景
+![阿姆斯特丹火車站運河美景](images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpeg.jpg)
+
+*阿姆斯特丹火車站一出來的河景*
 
 ### Dolzon cafe
 
-![Dolzon Cafe 荷蘭烘焙坊](images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpeg.jpg)![阿姆斯特丹手作麵包店](images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpeg.jpg)![街角傳統麵包烘焙坊](images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpeg.jpg)很可愛的麵包店
+![Dolzon Cafe 荷蘭烘焙坊](images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpeg.jpg)
 
-火車站寄放完行李之後，我立刻去 Dolzon cafe 吃早餐。【[阿姆斯特丹美食】Dolzon麵包烘焙坊，每日新鮮出爐肉桂捲、黑麥麵包！](https://lillian.tw/dolzon/)這篇網誌推薦這家說是荷蘭最好吃的麵包店，我買了推薦的肉桂捲跟青醬麵包，的確覺得滿好吃的。不過這個咖啡店離中央車站其實有段距離，但可搭通勤渡輪加走10分鐘抵達。
+![阿姆斯特丹手作麵包店](images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpeg.jpg)
+
+![街角傳統麵包烘焙坊](images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpeg.jpg)
+
+*很可愛的麵包店*
+
+火車站寄放完行李之後，我立刻去 Dolzon cafe 吃早餐。【[阿姆斯特丹美食】Dolzon麵包烘焙坊，每日新鮮出爐肉桂捲、黑麥麵包！](https://lillian.tw/dolzon/)
+
+*這篇網誌推薦這家說是荷蘭最好吃的麵包店，我買了推薦的肉桂捲跟青醬麵包，的確覺得滿好吃的。不過這個咖啡店離中央車站其實有段距離，但可搭通勤渡輪加走10分鐘抵達。*
 
 題外話，阿姆斯特丹的渡輪是完全免費的，我個人還滿推薦搭的，除了行人之外還有很多腳踏車甚至小汽車直接開上船XD（跟我在臺灣/澳洲的渡輪經驗都非常不同，我覺得值得體驗！荷蘭人跟我說渡輪最長的航線是13分鐘，她也非常推薦安排進市區行程裡，可以從水上欣賞阿姆斯特丹的風光，我因為時間有限，就沒有特別去找那條航線了）。
 
-![阿姆斯特丹免費通勤渡輪](images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpeg.jpg)![荷蘭運河水上交通](images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpeg.jpg)![市區渡輪腳踏車載運](images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpeg.jpg)阿姆斯特丹免費渡輪
+![阿姆斯特丹免費通勤渡輪](images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpeg.jpg)
+
+![荷蘭運河水上交通](images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpeg.jpg)
+
+![市區渡輪腳踏車載運](images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpeg.jpg)
+
+*阿姆斯特丹免費渡輪*
 
 吃完早餐後居然開始暴雨 QAQ 荷蘭的天氣的瘋狂程度完全超越墨爾本，我只好在中央車站的星巴克躲雨（他們暖氣開得很足，很舒服)。
 
 ### 運河游船
 
-![荷蘭經典運河屋建築](images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpeg.jpg)最愛的荷蘭運河屋
+![荷蘭經典運河屋建築](images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpeg.jpg)
 
-![阿姆斯特丹運河遊船觀光](images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpeg.jpg)![荷蘭運河船遊覽體驗](images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpeg.jpg)運河游船
+*最愛的荷蘭運河屋*
+
+![阿姆斯特丹運河遊船觀光](images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpeg.jpg)
+
+![荷蘭運河船遊覽體驗](images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpeg.jpg)
+
+*運河游船*
 
 好不容易雨小了一點我決定去搭運河游船，船長阿姨有一種冷幽默! 這裡我建議大家記得坐面向船頭的右側，因為大部分的景點都在那邊（我很不幸地坐的是左側XD)。穿梭在阿姆斯特丹的運河間是個很特別的體驗，即使天氣不佳我也覺得很值得~
 
 ### 號稱荷蘭最好吃的尿尿小童薯條
 
-![尿尿小童薯條店排隊人潮](images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpeg.jpg)![荷蘭最夯薯條美食](images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpeg.jpg)尿尿小童薯條
+![尿尿小童薯條店排隊人潮](images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpeg.jpg)
+
+![荷蘭最夯薯條美食](images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpeg.jpg)
+
+*尿尿小童薯條*
 
 搭完游船，我跑去買號稱荷蘭最好吃的尿尿小童薯條！其實我本來是對這個觀光客美食不屑一顧，但真心超多人排隊！而且我後來覺得在冷冷的陰雨天吃個熱熱的薯條也是不錯。
 
@@ -68,13 +108,25 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ### 辛格花市
 
-![阿姆斯特丹辛格水上花市](images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpeg.jpg)![荷蘭鬱金香花卉市場](images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpeg.jpg)![Bloemenmarkt 傳統花市](images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpeg.jpg)辛格花市
+![阿姆斯特丹辛格水上花市](images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpeg.jpg)
+
+![荷蘭鬱金香花卉市場](images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpeg.jpg)
+
+![Bloemenmarkt 傳統花市](images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpeg.jpg)
+
+*辛格花市*
 
 吃完薯條，我看了一下時間，發現還有點空擋於是就前往辛格花市 (Bloemenmarkt, Singel)。據說這是唯一一個水上花市！但除了花之外，也賣滿多紀念品的，有興趣的人也可以來逛逛。
 
 ### 住宿選擇：海牙 AirBnB
 
-![海牙 Airbnb 溫馨小陽台](images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpeg.jpg)![荷蘭住宿柬埔寨貓咪](images/medium-1*NgasYZx34uIW8BacGwudNg.jpeg.jpg)![Airbnb 可愛黑白貓](images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpeg.jpg)AirBnB 的小陽台跟貓咪們都好可愛
+![海牙 Airbnb 溫馨小陽台](images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpeg.jpg)
+
+![荷蘭住宿柬埔寨貓咪](images/medium-1*NgasYZx34uIW8BacGwudNg.jpeg.jpg)
+
+![Airbnb 可愛黑白貓](images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpeg.jpg)
+
+*AirBnB 的小陽台跟貓咪們都好可愛*
 
 接著我就回到 Amsterdam Central 準備搭約一小時的火車到 Den Haag，前往 airbnb！
 

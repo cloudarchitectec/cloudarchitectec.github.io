@@ -12,7 +12,9 @@ tags: ["旅遊", "新喀里多尼亞"]
 
 ### Carnival Splendor 澳洲南太平洋郵輪 2023.05.24 — 返回雪梨 & 心得總結
 
-![郵輪返回雪梨港大橋合影](images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg)郵輪與雪梨大橋
+![郵輪返回雪梨港大橋合影](images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpeg.jpg)
+
+*郵輪與雪梨大橋*
 
 * * *
 

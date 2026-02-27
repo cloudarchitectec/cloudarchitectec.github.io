@@ -12,7 +12,9 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### **一個女生的歐洲獨旅:** 2024.05.01 德國 紐倫堡 (Nuremberg) Day 2 — 近代史中的紐倫堡
 
-![紐倫堡 Airbnb 澳洲書籍](images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpeg.jpg)在紐倫堡 airbnb 房間裡發現一本關於澳洲人的書，太有趣XD
+![紐倫堡 Airbnb 澳洲書籍](images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpeg.jpg)
+
+*在紐倫堡 airbnb 房間裡發現一本關於澳洲人的書，太有趣XD*
 
 5 月 1 號 是德國的勞動節，絕大多數的商店/超市都不會營業，好險幾個主要景點還是會持續開放！
 
@@ -24,9 +26,17 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### 納粹黨代會檔案中心 Documentation Center Nazi Party
 
-![納粹黨代會檔案中心外觀](images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpeg.jpg)![Documentation Center 臨時展](images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpeg.jpg)![紐倫堡納粹歷史博物館](images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpeg.jpg)納粹黨代會檔案中心
+![納粹黨代會檔案中心外觀](images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpeg.jpg)
 
-部落客莉莉嗯在[【紐倫堡景點】納粹黨集會場檔案中心門票、交通，走進納粹遺址博物館](https://lillian.tw/dokumentationszentrum-reichsparteitagsgelande/#google_vignette)裡，對於這個展館的介紹讓我對這個展館有很高的期待，她說：
+![Documentation Center 臨時展](images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpeg.jpg)
+
+![紐倫堡納粹歷史博物館](images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpeg.jpg)
+
+*納粹黨代會檔案中心*
+
+部落客莉莉嗯在[【紐倫堡景點】納粹黨集會場檔案中心門票、交通，走進納粹遺址博物館](https://lillian.tw/dokumentationszentrum-reichsparteitagsgelande/#google_vignette)
+
+*裡，對於這個展館的介紹讓我對這個展館有很高的期待，她說：*
 
  _「這是我覺得絕對要去的景點，尤其是對二戰歷史有興趣或是納粹黨歷史有興趣的人，這個博物館非常詳細的介紹納粹黨成立、成名、戰敗的過程，也有紀錄許多猶太人與種族屠殺的故事，非常有意義，我大概在裡頭待了3~4小時。隔壁就是有名的全國黨代會集會場。」_
 
@@ -36,7 +46,13 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### 紐倫堡動物園
 
-![紐倫堡動物園超大爆米花](images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpeg.jpg)![歐洲最大動物園之一](images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpeg.jpg)![德國勞動節動物園體驗](images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpeg.jpg)爆米花真心超大包，逛完之後還剩 3/4 包
+![紐倫堡動物園超大爆米花](images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpeg.jpg)
+
+![歐洲最大動物園之一](images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpeg.jpg)
+
+![德國劳動節動物園體驗](images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpeg.jpg)
+
+*爆米花真心超大包，透完之後還剩 3/4 包*
 
 接著為了轉換心情，也為了充分利用我的紐倫堡卡，我來到了紐倫堡動物園，這裡號稱是歐洲最大也最美的動物園之一，非常值得一來（持紐倫堡咖入場免費）。
 
@@ -48,7 +64,13 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### 紐倫堡審判紀念館 Memoriam Nuremberg Trials
 
-![紐倫堡審判紀念館歷史意義](images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpeg.jpg)![Memoriam Nuremberg Trials](images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpeg.jpg)![二戰戰犯法庭審判](images/medium-1*XKd20tYk57ftqXcq0TclKw.jpeg.jpg)紐倫堡審判紀念館
+![紐倫堡審判紀念館歷史意義](images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpeg.jpg)
+
+![Memoriam Nuremberg Trials](images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpeg.jpg)
+
+![二戰戰犯法庭審判](images/medium-1*XKd20tYk57ftqXcq0TclKw.jpeg.jpg)
+
+*紐倫堡審判紀念館*
 
 執行著名紐倫堡大審判的法院，詳細記載英法俄如何裁決懲處二戰時的主要官員，也有大幅記載如何懲處執行「大屠殺」的納粹重要官員。這是歷史上第一次除了國家需要為戰爭罪負責之外，個人也要經由軍事審判為 committing war crimes 負責，非常具有歷史意義！
 
@@ -56,7 +78,13 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### Restaurant Burgwächter 晚餐
 
-![Restaurant Burgwächter 烤豬肩](images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpeg.jpg)![巴伐利亞傳統紅啤酒](images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpeg.jpg)![德國脆皮豬肉料理](images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpeg.jpg)Restaurant Burgwächter 晚餐
+![Restaurant Burgwächter 烤豬肩](images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpeg.jpg)
+
+![巴伐利亞傳統紅啤酒](images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpeg.jpg)
+
+![德國脈皮豬肉料理](images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpeg.jpg)
+
+*Restaurant Burgwächter 晩餐*
 
 最後晚餐回到城堡附近Restaurant Burgwächter，吃德國巴伐利亞的餐點烤豬肩（因為我太討厭馬鈴薯團團了，所以就要求換成德國麵包），紐倫堡的特色是 red beer。
 
@@ -66,6 +94,8 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 我這幾天在德國餐廳吃飯的感想就是，這些道地德式料理都沒有特別好吃，價位還不低(我真心覺得雪梨 The rocks 的德國豬腳餐廳 [Munich Brauhaus Sydney](https://search.app.goo.gl/JT3DEHH) 還比較好吃XDD)。除了體驗道地德國食物之外，我會建議大家不如吃 kebab 餐廳/餐車/小店，或是火車站裏面的麵包店跟餐廳，都更便宜且美味 (而且其實土耳其食物 doner 已經成為德國人生活的一部分了)。
 
-![德國麵包店精緻烘焙](images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpeg.jpg)![德式土耳其 Doner 料理](images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpeg.jpg)德國的麵包店跟土耳其食物真的很好吃
+![德國麵包店精緻烘焙](images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpeg.jpg)
+
+*![德式土耳其 Doner 料理](images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpeg.jpg)德國的麵包店跟土耳其食物真的很好吃*
 
 {{< footer >}}

@@ -8,7 +8,9 @@ categories: ["海外職場"]
 tags: ["雲端證照"]
 ---
 
-![Exam badge of AZ Solutions Architect Expert](images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg)Microsoft Certified Azure Solution Architect Expert
+![Exam badge of AZ Solutions Architect Expert](images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png.jpg)
+
+*Microsoft Certified Azure Solution Architect Expert*
 
 * * *
 

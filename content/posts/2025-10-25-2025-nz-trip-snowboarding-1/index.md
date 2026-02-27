@@ -1,7 +1,7 @@
 ---
 title: "紐西蘭北島滑雪之旅(上集)：2025.08.10-08.15 滑雪之外的 400 公里自駕與溫泉天堂"
 date: 2025-10-25
-slug: "2025-10-25-2025-nz-trip-beyond-snowboarding"
+slug: "2025-10-25-2025-nz-trip-snowboarding-1"
 image: "images/blue-spring.jpeg"
 images: ["images/blue-spring.jpeg","images/flight-macca.jpeg","images/cows.jpeg"]
 categories: ["旅行紀錄"]
@@ -72,7 +72,9 @@ Whitney 是一位非常講究飲食健康的旅伴，這點真是太棒了！
 
 接著，就是此行非滑雪部份的 MVP（Most Valuable Place）！
 
-我們在 Rotorua 訂的公寓式旅館 [**Alpin Motel & Conference Centre**](https://www.booking.com/hotel/nz/alpin-motel-conference-centre.en-gb.html?aid=311984&label=alpin-motel-conference-centre-udJ3JGmU2wi_It3%2A4JNbSQS442454505006%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-11457017408%3Alp9069087%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YXORK0YJiVoOxcWODxYDaAA&sid=0d41785ff962b3a8ebe01296f48ec2ed&dest_id=900039038&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1761374495&srpvid=4e6f2f0d76ba005a&type=total&ucfs=1&)，簡直是天堂！這是一間兩房公寓，重點是——每一戶的後院都有 Private Hot Tub！
+我們在 Rotorua 訂的公寓式旅館 [**Alpin Motel & Conference Centre**](https://www.booking.com/hotel/nz/alpin-motel-conference-centre.en-gb.html?aid=311984&label=alpin-motel-conference-centre-udJ3JGmU2wi_It3%2A4JNbSQS442454505006%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-11457017408%3Alp9069087%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YXORK0YJiVoOxcWODxYDaAA&sid=0d41785ff962b3a8ebe01296f48ec2ed&dest_id=900039038&dest_type=city&dist=0&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&sb_price_type=total&sr_order=popularity&srepoch=1761374495&srpvid=4e6f2f0d76ba005a&type=total&ucfs=1&)
+
+*，簡直是天堂！這是一間兩房公寓，重點是——每一戶的後院都有 Private Hot Tub！*
 
 在經歷了四晚克難的雪山背包客棧後，這個公寓的一切設備都讓我們感動到不行！
 

@@ -30,7 +30,9 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 
 百般糾結之下，我們意外發現了飛奧克蘭的機票只要 $400 澳幣($8,000台幣)，九月初算是雪季末但還是可以滑雪，而且滑完雪北島還有溫泉可以泡，那就決定是你啦！(澳洲的雪山不像日本，通常都沒有溫泉的選項。)
 
-![紐西蘭北島深山風景](images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg)紐西蘭深山XD
+![紐西蘭北島深山風景](images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpeg.jpg)
+
+*紐西蘭深山XD*
 
 * * *
 
@@ -115,7 +117,9 @@ EC 在 2012 年時一個人去過紐西蘭南島，我記得當年拿台灣護�
 
 ### 花費總結
 
-![紐西蘭特色綿羊牧場](images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg)紐西蘭特產羊咩咩
+![紐西蘭特色綿羊牧場](images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpeg.jpg)
+
+*紐西蘭特產羊咩咩*
 
 這次八天七夜的紐西蘭滑雪行，我個人的花費約台幣 5 萬 6。今年剛好出國兩趟，所以我還做了一個歐洲旅費跟紐西蘭旅費的對照表XD
 
