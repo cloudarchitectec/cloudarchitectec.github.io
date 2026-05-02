@@ -1,7 +1,7 @@
 ---
 title: "Gemini vs ChatGPT 人設大不同！科技業職場觀察：AI 如何解讀多元包容、性別意識跟政治正確"
-date: 2025-11-17
-slug: "2025-11-17-ai-on-diverity"
+date: 2025-10-31
+slug: "2025-10-31-ai-on-diverity"
 image: "images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"
 images: ["images/gemini-diversity.jpg","images/gpt-diversity.jpg","images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"]
 categories: ["海外職場"]
