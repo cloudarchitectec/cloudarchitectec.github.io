@@ -1,7 +1,7 @@
 ---
 title: "[我要升官加薪] 第一集：天上掉下來的... Principal Engineer 職位?"
-date: 2025-11-24
-slug: "2025-11-24-pe-1-pe-or-not"
+date: 2025-11-14
+slug: "2025-11-14-pe-1-pe-or-not"
 image: "images/christoph-theisinger-B4mV8nB8pGA-unsplash.jpg"
 images: []
 categories: ["海外職場"]
