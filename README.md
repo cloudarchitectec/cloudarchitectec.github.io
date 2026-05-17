@@ -33,51 +33,121 @@ This repository hosts the source code for Cloud Architect EC's blog, built with 
 - 🏷️ Tag and category system
 
 
-## Timelines
-2025.09.15 
-- Initial setup
+## Changelog
 
-2025.09.28
-- Fixed theme and deployment
-- Added tags/categories 
-- Updated home page to feature images + post title
-- Added search functionality
-- Started reference link cleanup
+All notable changes to this project will be documented in this file.
 
-2025.09.29
-- Fixed all the internal reference links & categories 
-- Added 3 missing posts
-- Centralised footer and updated footers for all the posts
-- Configured Google analytics & logo
+---
 
-2025.09.30
-- Fixed tags, pagination, images, titles
-- Configured Google Search Console
-- Added Schema.org configuration
-- Added alt text to images
+### [2026.05.17]
 
-2025.10.04
-- Updated footer
-- Added email subscription with Google Forms
-- First post
+#### Changed
+- Improved search functionality — fixed duplicate results caused by language settings
+- Improved converter script to resolve Unsplash image download issue
 
-2025.10.05
+#### Removed
+- Popular posts
+
+---
+
+### [2025.10.19]
+
+#### Added
+- Share buttons for Facebook, Threads, Email, and Copy Link
+
+#### Changed
+- Improved Google Analytics implementation
+
+#### Fixed
+- Commented out broken image generation code in `python/script/automated_blog_converter.py`
+
+---
+
+### [2025.10.12]
+
+#### Added
+- `automated_blog_converter.py` to convert formatted Hugo blog posts
+- Google stats on landing page
+- Popular posts page
+
+#### Fixed
+- Categories, tags, and related format/shortcode issues
+
+#### Removed
+- Unused TailwindCSS dependency
+
+---
+
+### [2025.10.05]
+
+#### Added
 - Imported all coding bootcamp blogs from Blogger
-- Added bootcamp category
+- Bootcamp category
 - Automated post list page generation by categories
+
+#### Fixed
 - Minor fixes
 
-2025.10.12
-- Fixed categories and tags and relevant format/shortcode
-- Added `automated_blog_converter.py` to convert formatted Hugo blog posts
-- Removed unused TailwindCSS dependency
-- Added google stats on landing page
-- Added popular posts page
+---
 
-2025.10.19
-- Improved google analytics implementation
-- Commented out image generation code in python/script/automated_blog_converter.py as it's currently broken
-- Added share buttons to share posts on Facebook, Threads, Email and Copy Links
+### [2025.10.04]
+
+#### Added
+- Email subscription via Google Forms
+- First post
+
+#### Changed
+- Updated footer
+
+---
+
+### [2025.09.30]
+
+#### Added
+- Schema.org configuration
+- Alt text to images
+
+#### Changed
+- Configured Google Search Console
+
+#### Fixed
+- Tags, pagination, images, and titles
+
+---
+
+### [2025.09.29]
+
+#### Added
+- 3 missing posts
+- Centralised footer; updated footers across all posts
+
+#### Changed
+- Configured Google Analytics and logo
+
+#### Fixed
+- All internal reference links and categories
+
+---
+
+### [2025.09.28]
+
+#### Added
+- Tags and categories
+- Search functionality
+
+#### Changed
+- Updated home page to feature images and post titles
+
+#### Fixed
+- Theme and deployment
+- Started reference link cleanup
+
+---
+
+### [2025.09.15]
+
+#### Added
+- Initial setup
 
 ## License
 

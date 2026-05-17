@@ -7,7 +7,7 @@ images: ['images/medium-0*JM2v8QZs4ggC3_NW.jpg']
 categories: ["EC"]
 ---
 
-![](images/medium-0*JM2v8QZs4ggC3_NW.jpg)Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+![](images/medium-0*JM2v8QZs4ggC3_NW.jpg)Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com)
 
 嗨～我是 EC，一位從台灣文組背景轉職成為澳洲雲端架構師的工程師。
 
