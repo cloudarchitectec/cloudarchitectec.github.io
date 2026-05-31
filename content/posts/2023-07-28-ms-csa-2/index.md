@@ -17,7 +17,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
 這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
-  1. [**微軟雲端架構師 (Solution Architect) 職位解析 第一集：Org Chart & Solution Architecting**](2023-07-28-ms-csa-1)
+  1. [《微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart》](2023-07-28-ms-csa-1)
   2. **Solution Architecting >> 你正在閱讀的文章**
   3. Technical Guidance/Customer Meetings
   4. Technical Presentation/Workshops

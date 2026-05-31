@@ -7,7 +7,7 @@ A EC CLI tool to automate blog post creation with Unsplash images.
 1. **Install dependencies:**
    ```bash
    cd python/script
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 2. **No setup required!**

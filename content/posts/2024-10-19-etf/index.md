@@ -8,9 +8,7 @@ categories: ["投資理財"]
 tags: ["好想要退休", "FIRE","ETF", "退休規劃"]
 ---
 
-> 以下純屬我個人的研究分享，不代表任何理財建議。EC 是有個澳洲會計學位啦，但我只是個工程師，不是專業財經人士。
-
-> 以下分享，你們要是覺得有道理就聽一聽。要是覺得沒道理，歡迎留言跟我討論你的想法，我們互相學習，共同成長 :)
+> 以下純屬我個人的研究分享，不代表任何理財建議。EC 是有個澳洲會計學位啦，但我只是個工程師，不是專業財經人士。以下分享，你們要是覺得有道理就聽一聽。要是覺得沒道理，歡迎留言跟我討論你的想法，我們互相學習，共同成長 :)
 
 網路上分享指數基金 ETFs 的資訊其實不少，但澳洲因為市場較小 ，而且主要的語言也不是中文，所以相關資訊比較少一點。我最近剛好想要調整一下自己的 ETF 投資策略，想說就順便來跟大家分享一下我整理好的資料吧～
 
@@ -97,7 +95,7 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
   * **股息 Income distribution — quarterly** : 這個其實也算重要，但我上面沒有特別提。澳洲的 ETFs 通常都會給不錯的股息 (dividends)，這點跟美國的 ETFs 其實很不一樣。VAS 是每季都發股息。股息雖然很棒，但如果你們了解股息的原理，其實股息跟升值有時候是背道而馳的XD (這裡先不細談，不然我這篇要寫成一篇論文了XD) 所以我覺得就把它當作日常小確幸吧，對於長期投資者來說，我覺得在我們退休之前，升值遠比股息重要。
   * **基金規模 ETF size — 16 billons:** 基金規模是 160 億澳幣，像我上面提過的，我個人覺得超過 10 億就已經算是不錯的規模，我個人沒有追求基金規模越大越好，但如果該基金只有數百萬澳幣的規模，我是不會投資的，因為我覺得流動性太小、風險太高。
   * **主要持股 Number of holdings — 306:** VAS 追蹤的指數是 ASX300，所以只持股 300 多間澳洲上市公司。
-  * **指數 Benchmark — S &P ASK300 index：**追蹤的指數
+  * **指數 Benchmark — S&P/ASX300 index**：追蹤的指數
   * **投資目標 Investment objective** ：真的很短，所以一定要看一下投資目標跟你的投資理念是否相符。
   * **概述 ETF overview** ：真的很短，所以一定要看一下 ETF 概述跟你的投資理念是否相符。
   * **投資回報率 Performance return ：** 這裡我看的是 ETF total，這是包含股息 distribution 跟升值 growth 的總成長率。
@@ -136,14 +134,13 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 
 ### ETF 關鍵指標與比較分析
 
-所以講了這麼多，到底應該要挑哪一個 ETF？ 以下是這五個 ETF 的 fact sheets:
+所以講了這麼多，到底應該要挑哪一個 ETF？ 以下是這五個 ETF 的 fact sheets (以下只是舉例，比較時請記得上網搜尋最新的 fact sheets):
 
-  * VGS: <https://fund-docs.vanguard.com/ETF-Vanguard_MSCI_Index_International_Shares_ETF_8212_FS_VGS.pdf>
-  * IVV: <https://www.blackrock.com/au/literature/fact-sheet/ivv-ishares-s-p-500-etf-fund-fact-sheet-en-au.pdf>
-  * VAS: <https://fund-docs.vanguard.com/ETF-Vanguard_Australian_Shares_Index_ETF_8205_FS_VAS.pdf>
-  * A200: <https://www.betashares.com.au/files/factsheets/A200-Factsheet.pdf>
-  * VHY: <https://fund-docs.vanguard.com/ETF-Vanguard_Australian_Shares_High_Yield_ETF_8210_FS_VHY.pdf>
-
+  * VGS: [Vanguard MSCI International Shares Index ETF | 30 April 2026](https://fund-docs.vanguard.com/ETF-Vanguard_MSCI_Index_International_Shares_ETF_8212_FS_VGS.pdf)
+  * IVV: [iShares S&P 500 ETF | April 2026 ](https://www.blackrock.com/au/literature/fact-sheet/ivv-ishares-s-p-500-etf-fund-fact-sheet-en-au.pdf)
+  * VAS: [Vanguard Australian Shares Index ETF | 30 April 2026](https://fund-docs.vanguard.com/ETF-Vanguard_Australian_Shares_Index_ETF_8205_FS_VAS.pdf)
+  * A200: [Betashares Australia 200 ETF | 30 April 2026](https://www.betashares.com.au/files/factsheets/A200-Factsheet.pdf)
+  * VHY: [Vanguard Australian Shares High Yield ETF | 30 April 2026](https://fund-docs.vanguard.com/ETF-Vanguard_Australian_Shares_High_Yield_ETF_8210_FS_VHY.pdf)
 
 
 不過大家都知道，我最愛做表格了XDD
@@ -167,8 +164,6 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 
   * **我只想投美國股市跟澳洲股市，不太想投注在新興市場或債券XD**
 
-
-
 因為我覺得全世界的股市都跟美股息息相關，美股跌，基本上全世界都跌。美股漲，基本上全世界都漲，而且其他地方還不一定長得比美股多。
 
 我之前也投過新興市場，但我覺得收益太少，而且風險太高了，所以我後來就把錢賣掉拿去投房地產了。我之前投的新興市場 ETF 是 VGE (Vanguard FTSE Emerging Markets Shares)，裡面有台灣的台積電、中國騰訊跟阿里巴巴、印度的 infosys 等等。可能過幾年後我會再重新考慮把新興市場納入投資組合。
@@ -176,8 +171,6 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 債券的話，其實我同意股票跟債券的投資應該要保持一定的平衡，例如 90%股票、10%債券之類的，但我覺得我還年輕XD，我願意為了高報酬 all in 股市！而且我 all in 的指數型 ETF，已經算是偏保守且足夠分散 (diversified) 的組合了(我個人是不買個股的XD 之前 Amazon 跟微軟發的公司股票我都是一拿到就賣掉XD)。可能等我年紀再大一點，我會分配一些錢去防禦型資產，但這不在我當前的規劃中。
 
   * **Diversified portfolio is the king, or is it?**
-
-
 
 我對自己的評價是一個篇保守型的投資者，對於保守型投資者來說，我們很喜歡利用分散投資組合 (diversification) 來降低風險，也就是雞蛋不要放在同一個籃子裡。
 

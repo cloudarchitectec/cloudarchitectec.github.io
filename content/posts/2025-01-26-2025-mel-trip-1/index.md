@@ -16,7 +16,7 @@ tags: ["墨爾本", "旅遊", "澳網"]
 
 **1/18 Sat**
 
-第一天大約中午抵達墨爾本，下午立刻跟俄羅斯朋友 Igor 約見面 (這是我之前內推進AWS的朋友)。這是我第一次見到他太太跟兒子！必須說他太太好有氣質又好聊，兒子 Matthew 是一個超可愛的天使寶寶 (超愛笑又超 chill）
+第一天大約中午抵達墨爾本，下午立刻跟俄羅斯朋友 I 約見面 (這是我之前內推進AWS的朋友)。這是我第一次見到他太太跟兒子！必須說他太太好有氣質又好聊，兒子 Matthew 是一個超可愛的天使寶寶 (超愛笑又超 chill）
 
 ![墨爾本韓式料理大餐](images/medium-1*x9MDnMbbKv9t-ruvsLHrPw.jpeg.jpg)
 
@@ -24,9 +24,9 @@ tags: ["墨爾本", "旅遊", "澳網"]
 
 ![韓式火锅湯品](images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpeg.jpg)
 
-*墓爾本的韓餐～ 我們完全點太多XD*
+*墨爾本的韓餐～ 我們完全點太多XD*
 
-晚上跟前 AWS 同事 Jeff 大大一起吃飯，還跟他女友一起去打迷你高爾夫，是個好聊的正妹藥劑師！
+晚上跟前 AWS 同事 J 一起吃飯，還跟他女友一起去打迷你高爾夫，是個好聊的正妹藥劑師！
 
 ![墨爾本迷你高爾夫場地](images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpeg.jpg)
 
@@ -34,7 +34,7 @@ tags: ["墨爾本", "旅遊", "澳網"]
 
 **1/19 Sun**
 
-早上跟我的 medium 粉絲吃飯，墨爾本粉絲見面會報名了三個，最後只來一個XD
+早上跟我的 medium 讀者吃飯，墨爾本讀者見面會報名了三個，最後只來一個XD
 
 必須說我大推這間位於 Docklands 的 [Daybreak cafe ](https://www.daybreakcafe.com.au/)
 

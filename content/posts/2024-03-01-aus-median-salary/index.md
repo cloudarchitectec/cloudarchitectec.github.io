@@ -91,9 +91,9 @@ tags: ["薪資","澳洲職場統計數據"]
 
 **如果想要看我怎麼從文組成功轉職科技大廠工程師，以下三篇是我的精選文章：**
 
-  * [**文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！**](/posts/2022-12-03-bootcamp-to-aws/)
-  * [**轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)**](/posts/2022-12-10-career-transition-analysis/)
-  * [**不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考**](/posts/2023-01-06-keys-to-transistion/)
+  * [《文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！》](/posts/2022-12-03-bootcamp-to-aws/)
+  * [《轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)》](/posts/2022-12-10-career-transition-analysis/)
+  * [《不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考》](/posts/2023-01-06-keys-to-transistion/)
 
 **最後來跟大家分析一下澳洲各州/領地的薪資：**
 
