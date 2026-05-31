@@ -22,15 +22,15 @@ tags: ["轉職工程師", "薪資","職涯"]
 
 題外話，其實我當年從文組轉職的目標是當 Web Developer/Software Engineer! 如果你不是 IT 相關產業的，你可能不會知道，雖然 Cloud Consultant、Solution Architect、Software Engineer 都是 IT 相關職業，但實際的工作內容跟專業技能可能天差地遠，甚至我們彼此之間也不一定了解對方在做什麼XD
 
-例如我曾經試圖跟我做 Support Engineer 跟 Data Analyst 的朋友解釋過 Cloud Consultant 跟 Solution Architect 在做什麼，結果不管我怎麼講，他們都還是一頭霧水哈哈哈哈。我之前做過簡單的比較，雖然當時比較的是 Software Developer 而不是 DevOps Engineer，但大家有興趣的話還是可以參考: [Solution Architect、Technical Consultant、Software Developer 比較](/posts/2023-03-17-sa-vs-cloud-engineer/)
+例如我曾經試圖跟我做 Support Engineer 跟 Data Analyst 的朋友解釋過 Cloud Consultant 跟 Solution Architect 在做什麼，結果不管我怎麼講，他們都還是一頭霧水哈哈哈哈。我之前做過簡單的比較，雖然當時比較的是 Software Developer 而不是 DevOps Engineer，但大家有興趣的話還是可以參考: [《那些沒人告訴你的雲端職位真相：Solution Architect 與 Cloud Engineer 職場日常大揭密！》](/posts/2023-03-17-sa-vs-cloud-engineer/)
 
 ### 背景
 
-如果是第一次看我的文章的人，可以參考[[介紹] 大家好，我是EC!](/posts/2018-01-01-iam-ec/)，有我詳細的生平(?)。簡單來說，我是土生土長的台灣人，靠著自己的奮鬥成功移民澳洲。大學讀英文系，後來憑著一股不服輸的心 (參考:[[](/posts/2022-12-03-bootcamp-to-aws/)(/posts/2022-12-10-career-transition-analysis/)[] 文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜](/posts/2022-12-03-bootcamp-to-aws/) )，裸辭了做了三年的辦公室文書工作，讀了六個月的全職 coding bootcamp (全端網頁工程師課程)。
+如果是第一次看我的文章的人，可以參考[《大家好，我是EC!》](/posts/2018-01-01-iam-ec/)，有我詳細的生平(?)。簡單來說，我是土生土長的台灣人，靠著自己的奮鬥成功移民澳洲。大學讀英文系，後來憑著一股不服輸的心 (參考:[《文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了亞馬遜》](/posts/2022-12-03-bootcamp-to-aws/))，裸辭了做了三年的辦公室文書工作，讀了六個月的全職 coding bootcamp (全端網頁工程師課程)。
 
-畢業時剛好遇到 2020 年 Covid 襲擊澳洲，投了200份履歷，最後只拿到一個 offer，成功進入 Amazon Web Services (AWS) Cloud Consultant (請參考：[澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享](/posts/2022-12-23-aws-ps-ca/))
+畢業時剛好遇到 2020 年 Covid 襲擊澳洲，投了200份履歷，最後只拿到一個 offer，成功進入 Amazon Web Services (AWS) Cloud Consultant (請參考：[《澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享》](/posts/2022-12-23-aws-ps-ca/))
 
-在AWS 兩年後，我想要嘗試另一朵雲跟另一個職位，於是我加入了微軟當 Azure Solution Architect，目前入職七個月，請參考：[從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽到另一朵雲？](/posts/2022-12-03-aws-to-ms/)。
+在AWS 兩年後，我想要嘗試另一朵雲跟另一個職位，於是我加入了微軟當 Azure Solution Architect，目前入職七個月，請參考：[《從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽到另一朵雲？》](/posts/2022-12-03-aws-to-ms/)。
 
 ### 我的掙扎
 
@@ -136,7 +136,7 @@ tags: ["轉職工程師", "薪資","職涯"]
 
 而且我好像不是一個會妥協的人 lol
 
-在我轉職科技業前，我在一家紐澳會計職業協會做文書 (會計評估) 的工作: 澳洲人公司、全英文環境、同事好相處、工作簡單(我每天大概只要花 2 個小時就能把工作做完)、年薪澳幣7萬 (台幣140萬)，標準的錢多事少離家近。結果後來我做了什麼決定?XD 因為覺得職涯沒有發展，加上我想要做一份有專業技術能力的工作，所以我裸辭了，跑去讀 coding bootcamp (參考: [不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考](/posts/2023-01-06-keys-to-transistion/)。
+在我轉職科技業前，我在一家紐澳會計職業協會做文書 (會計評估) 的工作: 澳洲人公司、全英文環境、同事好相處、工作簡單(我每天大概只要花 2 個小時就能把工作做完)、年薪澳幣7萬 (台幣140萬)，標準的錢多事少離家近。結果後來我做了什麼決定?XD 因為覺得職涯沒有發展，加上我想要做一份有專業技術能力的工作，所以我裸辭了，跑去讀 coding bootcamp (參考: [《不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考》](/posts/2023-01-06-keys-to-transistion/)。
 
 **錢可以買到心理健康嗎?**
 
@@ -168,7 +168,7 @@ tags: ["轉職工程師", "薪資","職涯"]
 
 首先我在十一月中會收到一筆為數不小的微軟股票。到時候我入職也超過一年了，到時候對這個職位的判斷標準應該會更加客觀。而且說不定我忍著忍著就習慣了? 又或者我做著做著突然就越來越得心應手了，隨著挫折感變小，工作成就感會變高，再加上錢的份上，我可能就不想走了? 其實我的職位內容從七月之後開始要大改，說不定我會喜歡七月大改後的職位內容也不一定?
 
-我糾結的點可能在於，能源公司的 offer 滿好的，我也不知道我之後有沒有辦法拿到同樣的機會，因為我開給澳洲大型旅行社的薪水是能源公司的 7 成 (也就是微軟的一半)，結果我第一關還是被拒了。這兩個面試中間差了一個月，但我中間沒有做任何技術相關的準備，只做了一般面試前的準備 (關於我的面試準備守則，請參考我的另一篇文章: [如何準備澳洲辦公室英文面試](/posts/2023-01-21-eng-interview/))。
+我糾結的點可能在於，能源公司的 offer 滿好的，我也不知道我之後有沒有辦法拿到同樣的機會，因為我開給澳洲大型旅行社的薪水是能源公司的 7 成 (也就是微軟的一半)，結果我第一關還是被拒了。這兩個面試中間差了一個月，但我中間沒有做任何技術相關的準備，只做了一般面試前的準備 (關於我的面試準備守則，請參考我的另一篇文章: [《如何準備澳洲辦公室英文面試》](/posts/2023-01-21-eng-interview/))。
 
 所以我個人技術能力是一樣的。但是能源公司的 hiring manager 在知道我現有能力不足的情況下，相信我可以勝任，決定把我送進第二輪面試，我也是相當感謝他的。只是我不知道他是不是我心中那種很 supportive 的 tech lead…
 

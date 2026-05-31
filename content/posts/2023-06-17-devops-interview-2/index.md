@@ -20,7 +20,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 具體可以參考我之前的面試分享，這也可以說是我人生目前為止我覺得最棒的一次面試：
 
-[澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試](/posts/2023-06-17-devops-interview-1/)
+[《澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試》](/posts/2023-06-17-devops-interview-1/)
 
 這次的第二次面試則回歸到最傳統的面試官問我答，我答完面試官再問下一題模式，讓我居然有些不習慣XDD
 

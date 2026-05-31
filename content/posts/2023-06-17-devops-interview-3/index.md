@@ -14,9 +14,9 @@ tags: ["DevOps 工程師","澳洲面試心得"]
 
 還沒有看過前兩集的朋友，請看這邊：
 
-- [澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試](/posts/2023-06-17-devops-interview-1/)
+- [《澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試》](/posts/2023-06-17-devops-interview-1/)
 
-- [澳洲面試心得：跨國能源公司 DevOps 工程師 II：行為面試](2023-06-17-devops-interview-2)
+- [《澳洲面試心得：跨國能源公司 DevOps 工程師 II：行為面試》](2023-06-17-devops-interview-2)
 
 ### 某個週三下午
 
