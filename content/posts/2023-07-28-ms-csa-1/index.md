@@ -1,5 +1,5 @@
 ---
-title: "微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart & Solution Architecting"
+title: "微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-1"
 image: "images/medium-0*K1HNZvbky5n_Ejol.jpg"
