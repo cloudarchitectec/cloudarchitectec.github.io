@@ -39,121 +39,58 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-### [2026.05.17]
-
-#### Changed
+**2026.05.17**
 - Improved search functionality — fixed duplicate results caused by language settings
 - Improved converter script to resolve Unsplash image download issue
+- Removed popular posts
 
-#### Removed
-- Popular posts
-
----
-
-### [2025.10.19]
-
-#### Added
-- Share buttons for Facebook, Threads, Email, and Copy Link
-
-#### Changed
+**2025.10.19**
 - Improved Google Analytics implementation
-
-#### Fixed
 - Commented out broken image generation code in `python/script/automated_blog_converter.py`
+- Added share buttons for Facebook, Threads, Email, and Copy Link
 
----
+**2025.10.12**
+- Fixed categories, tags, and related format/shortcode issues
+- Added `automated_blog_converter.py` to convert formatted Hugo blog posts
+- Removed unused TailwindCSS dependency
+- Added Google stats on landing page
+- Added popular posts page
 
-### [2025.10.12]
-
-#### Added
-- `automated_blog_converter.py` to convert formatted Hugo blog posts
-- Google stats on landing page
-- Popular posts page
-
-#### Fixed
-- Categories, tags, and related format/shortcode issues
-
-#### Removed
-- Unused TailwindCSS dependency
-
----
-
-### [2025.10.05]
-
-#### Added
+**2025.10.05**
 - Imported all coding bootcamp blogs from Blogger
-- Bootcamp category
+- Added bootcamp category
 - Automated post list page generation by categories
-
-#### Fixed
 - Minor fixes
 
----
-
-### [2025.10.04]
-
-#### Added
-- Email subscription via Google Forms
+**2025.10.04**
+- Updated footer
+- Added email subscription via Google Forms
 - First post
 
-#### Changed
-- Updated footer
-
----
-
-### [2025.09.30]
-
-#### Added
-- Schema.org configuration
-- Alt text to images
-
-#### Changed
+**2025.09.30**
+- Fixed tags, pagination, images, and titles
 - Configured Google Search Console
+- Added Schema.org configuration
+- Added alt text to images
 
-#### Fixed
-- Tags, pagination, images, and titles
-
----
-
-### [2025.09.29]
-
-#### Added
-- 3 missing posts
+**2025.09.29**
+- Fixed all internal reference links and categories
+- Added 3 missing posts
 - Centralised footer; updated footers across all posts
-
-#### Changed
 - Configured Google Analytics and logo
 
-#### Fixed
-- All internal reference links and categories
-
----
-
-### [2025.09.28]
-
-#### Added
-- Tags and categories
-- Search functionality
-
-#### Changed
+**2025.09.28**
+- Fixed theme and deployment
+- Added tags and categories
 - Updated home page to feature images and post titles
-
-#### Fixed
-- Theme and deployment
+- Added search functionality
 - Started reference link cleanup
 
----
-
-### [2025.09.15]
-
-#### Added
+**2025.09.15**
 - Initial setup
 
+--
 ## License
 
 Content is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Code is licensed under [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-*Built with ❤️ using Hugo and PaperMod*

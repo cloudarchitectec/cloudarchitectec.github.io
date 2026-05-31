@@ -7,23 +7,24 @@ Shows view count for the current post (placeholder until analytics integration)
 {{- $analytics := site.Data.analytics -}}
 {{- $currentPath := .Page.RelPermalink -}}
 
-{{- if $analytics.topPages -}}
-  {{- range $analytics.topPages -}}
-    {{- if eq .path $currentPath -}}
+{{- /* Post Views display disabled */}}
+{{- /* if $analytics.topPages }}
+  { range $analytics.topPages }}
+    { if eq .path $currentPath }}
       <div class="post-views-count">
         <span class="views-icon">👁️</span>
         <span class="views-text">{{ .views }} 次閱讀</span>
       </div>
-      {{- break -}}
-    {{- end -}}
-  {{- end -}}
-{{- else -}}
+      { break }}
+    { end }}
+  { end }}
+{ else }}
   {{/* Fallback when analytics data is not available */}}
   <div class="post-views-count">
     <span class="views-icon">👁️</span>
     <span class="views-text">載入中...</span>
   </div>
-{{- end -}}
+{ end */ -}}
 
 <style>
 .post-views-count {
