@@ -6,6 +6,7 @@ image: "images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg"
 images: ['images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg', 'images/medium-1*H9WpBHFGIQ2C-tuiTvAiHg.png.jpg']
 categories: ["EC"]
 tags: ["職涯","海外職場", "英文面試"]
+draft: true
 ---
 
 ![EC職涯諮詢服務](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png.jpg)
