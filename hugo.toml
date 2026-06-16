@@ -45,7 +45,7 @@ disablePathToLower = true
     sameAs = [
       "https://www.linkedin.com/in/elliettchen/",
       "https://github.com/cloudarchitectec",
-      "https://www.threads.com/@cloud_architect_ec"
+      # "https://www.threads.com/@cloud_architect_ec"
     ]
     
   defaultTheme = "auto" # dark, light
@@ -111,17 +111,17 @@ disablePathToLower = true
     name = "email"
     url = "mailto:cloudarchitectec@gmail.com"
 
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
+  # [[params.socialIcons]]
+  #   name = "rss"
+  #   url = "/index.xml"
 
   [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/elliettchen/"
 
-  [[params.socialIcons]]
-    name = "threads"
-    url = "https://www.threads.com/@cloud_architect_ec"
+  # [[params.socialIcons]]
+  #   name = "threads"
+  #   url = "https://www.threads.com/@cloud_architect_ec"
 
   [[params.socialIcons]]
     name = "github"
@@ -144,10 +144,10 @@ disablePathToLower = true
     lang = "zh-TW"
 
   # Newsletter Subscription Configuration
-  [params.newsletter]
-    enabled = true
-    formAction = "https://docs.google.com/forms/d/e/1FAIpQLSdzcSC4uJl-nfNj68GOStX9EeqJXD9pFkz-XtRGUNiUIHK-fQ/formResponse"
-    emailField = "emailAddress"
+  # [params.newsletter]
+  #   enabled = true
+  #   formAction = "https://docs.google.com/forms/d/e/1FAIpQLSdzcSC4uJl-nfNj68GOStX9EeqJXD9pFkz-XtRGUNiUIHK-fQ/formResponse"
+  #   emailField = "emailAddress"
 
 [languages]
   [languages.zh-hant]
@@ -164,10 +164,10 @@ disablePathToLower = true
       name = "文章列表"
       url = "/posts/2018-01-02-ec-post-list"
       weight = 25
-    [[languages.zh-hant.menu.main]]
-      name = "職涯諮詢"
-      url = "/posts/2018-01-03-ec-consultation"
-      weight = 15
+    # [[languages.zh-hant.menu.main]]
+    #   name = "職涯諮詢"
+    #   url = "/posts/2018-01-03-ec-consultation"
+    #   weight = 15
     [[languages.zh-hant.menu.main]]
       name = "標籤"
       url = "/tags"

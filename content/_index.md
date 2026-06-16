@@ -9,8 +9,9 @@ title: "澳洲雲端架構師 EC"
 
 致力於分享海外求職、轉職工程師的系統性攻略與實戰經驗。
 
-如果你也在思考職涯方向，歡迎預約專屬於你的職涯諮詢：[<<雲端架構師 EC 職涯諮詢>>](/posts/2018-01-03-ec-consultation/)
+<!-- 如果你也在思考職涯方向，歡迎預約專屬於你的職涯諮詢：[<<雲端架構師 EC 職涯諮詢>>](/posts/2018-01-03-ec-consultation/) -->
 
+📩 信箱：<a href="mailto:cloudarchitectec@gmail.com">cloudarchitectec@gmail.com</a>
 {{< analytics-stats >}}
 
 # 文章列表
