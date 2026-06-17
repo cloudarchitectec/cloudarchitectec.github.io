@@ -23,8 +23,7 @@ A EC CLI tool to automate blog post creation with Unsplash images.
 
 2. **Run the script:**
    ```bash
-   cd python/script
-   python automated_blog_converter.py
+   python3 python/script/automated_blog_converter.py {file_name}.md
    ```
 
 3. **Answer the prompts:**

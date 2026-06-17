@@ -111,9 +111,9 @@ disablePathToLower = true
     name = "email"
     url = "mailto:cloudarchitectec@gmail.com"
 
-  # [[params.socialIcons]]
-  #   name = "rss"
-  #   url = "/index.xml"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
 
   [[params.socialIcons]]
     name = "linkedin"
