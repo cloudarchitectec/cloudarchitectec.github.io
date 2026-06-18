@@ -39,6 +39,10 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+**2026.06.18**
+- Added custom domain
+- Added buy EC a coffee
+
 **2026.05.17**
 - Improved search functionality — fixed duplicate results caused by language settings
 - Improved converter script to resolve Unsplash image download issue

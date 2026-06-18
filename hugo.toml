@@ -44,8 +44,8 @@ disablePathToLower = true
     publisherType = "Person"  # Since you're a personal brand
     sameAs = [
       "https://www.linkedin.com/in/elliettchen/",
-      "https://github.com/cloudarchitectec",
-      # "https://www.threads.com/@cloud_architect_ec"
+      "https://cloudarchitectec.com/",
+      "https://www.threads.com/@cloud_architect_ec"
     ]
     
   defaultTheme = "auto" # dark, light
@@ -107,25 +107,22 @@ disablePathToLower = true
     enabled = false
 
   # Social Icons Configuration
-  [[params.socialIcons]]
-    name = "email"
-    url = "mailto:cloudarchitectec@gmail.com"
 
   [[params.socialIcons]]
     name = "rss"
     url = "/index.xml"
 
   [[params.socialIcons]]
+    name = "email"
+    url = "mailto:cloudarchitectec@gmail.com"
+
+  [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/elliettchen/"
 
-  # [[params.socialIcons]]
-  #   name = "threads"
-  #   url = "https://www.threads.com/@cloud_architect_ec"
-
   [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/cloudarchitectec"
+    name = "threads"
+    url = "https://www.threads.com/@cloud_architect_ec"
 
   # Enable comments globally
   comments = true
@@ -180,6 +177,10 @@ disablePathToLower = true
       name = "搜尋"
       url = "/search"
       weight = 60
+    [[languages.zh-hant.menu.main]]
+      name = "請EC喝咖啡 ☕️"
+      url = "https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ"
+      weight = 70
 
 [markup]
   [markup.highlight]
