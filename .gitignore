@@ -148,5 +148,4 @@ yarn-error.log*
 # automated_blog_converter.py specific
 # -----------------------
 
-python/input
-python/output
+tools/blog-converter/

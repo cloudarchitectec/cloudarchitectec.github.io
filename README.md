@@ -50,7 +50,7 @@ All notable changes to this project will be documented in this file.
 
 **2025.10.19**
 - Improved Google Analytics implementation
-- Commented out broken image generation code in `python/script/automated_blog_converter.py`
+- Commented out broken image generation code in `tools/blog-converter/automated_blog_converter.py`
 - Added share buttons for Facebook, Threads, Email, and Copy Link
 
 **2025.10.12**

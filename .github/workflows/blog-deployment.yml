@@ -141,7 +141,19 @@ jobs:
           hugo \
             --gc \
             --minify \
+            --cleanDestinationDir \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
+      - name: Post-build checks
+        run: |
+          echo "=== POST-BUILD CHECKS ==="
+          [ -f "public/CNAME" ] && echo "✅ CNAME present" || (echo "❌ CNAME missing from public/" && exit 1)
+          if command -v xmllint &>/dev/null; then
+            xmllint --noout public/index.xml && echo "✅ RSS valid" || (echo "❌ RSS invalid" && exit 1)
+          fi
+          grep -rl "comments.cloudarchitectec.com" public/posts/*/index.html | head -1 | grep -q . \
+            && echo "✅ Remark42 embed present in posts" \
+            || echo "⚠️  Remark42 embed not found — check comments = true in hugo.toml"
+          echo "=== CHECKS DONE ==="
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

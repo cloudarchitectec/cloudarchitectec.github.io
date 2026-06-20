@@ -34,6 +34,9 @@ disablePathToLower = true
   
   # Google Analytics Configuration
   googleAnalytics = "G-F5Z4F1PYEE"
+
+  # Enable comments via Remark42
+  comments = true
   
   # SEO and Analytics enhancements
   [params.analytics]
@@ -124,22 +127,6 @@ disablePathToLower = true
     name = "threads"
     url = "https://www.threads.com/@cloud_architect_ec"
 
-  # Enable comments globally
-  comments = true
-  
-  # Giscus Comments Configuration
-  [params.giscus]
-    repo = "cloudarchitectec/cloudarchitectec.github.io"
-    repoId = "R_kgDOPv4HjQ"
-    category = "General"
-    categoryId = "DIC_kwDOPv4Hjc4Cv-up"
-    mapping = "pathname"
-    reactionsEnabled = "1"
-    emitMetadata = "0"
-    inputPosition = "bottom"
-    theme = "preferred_color_scheme"
-    lang = "zh-TW"
-
   # Newsletter Subscription Configuration
   # [params.newsletter]
   #   enabled = true
@@ -169,10 +156,10 @@ disablePathToLower = true
       name = "標籤"
       url = "/tags"
       weight = 40
-    [[languages.zh-hant.menu.main]]
-      name = "分類"
-      url = "/categories"
-      weight = 50
+    # [[languages.zh-hant.menu.main]]
+    #   name = "分類"
+    #   url = "/categories"
+    #   weight = 50
     [[languages.zh-hant.menu.main]]
       name = "搜尋"
       url = "/search"

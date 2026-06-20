@@ -1,4 +1,0 @@
-requests==2.31.0
-Pillow==11.1.0
-click==8.1.7
-python-dotenv==1.2.2

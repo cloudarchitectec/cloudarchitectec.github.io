@@ -1,66 +1,20 @@
-<style>
-  /* Minimal clean comments styling */
-  #giscus-comments {
-    margin: 3rem 0 2rem 0;
-    padding: 2rem 0 0 0;
-    border-top: 1px solid var(--border);
-    text-align: left !important;
-  }
-  
-  /* Force consistent alignment */
-  #giscus-comments .giscus-frame {
-    width: 100% !important;
-  }
-  
-  #giscus-comments .giscus {
-    text-align: left !important;
-  }
-  
-  #giscus-comments * {
-    text-align: left !important;
-  }
-  
-  /* Hide sorting filters - multiple selectors to catch them all */
-  .giscus [role="tablist"],
-  .giscus .Timeline-Item--condensed,
-  .giscus-timeline-sort,
-  [data-testid="discussion-timeline-sort"],
-  .giscus .d-flex.flex-justify-between,
-  .giscus .subnav,
-  .giscus .tabnav,
-  .giscus .UnderlineNav,
-  .giscus .UnderlineNav-item,
-  .giscus button[aria-pressed],
-  .giscus .segmented-control {
-    display: none !important;
-  }
-  
-  /* Hide giscus branding more aggressively */
-  .giscus-frame footer,
-  .giscus footer,
-  .giscus .text-small,
-  .giscus [href*="giscus"],
-  .giscus .color-fg-muted:last-child,
-  .giscus .mt-3.text-center {
-    display: none !important;
-  }
-</style>
-
-<div id="giscus-comments" class="comments">
-  <script src="https://giscus.app/client.js"
-        data-repo="cloudarchitectec/cloudarchitectec.github.io"
-        data-repo-id="R_kgDOPv4HjQ"
-        data-category="General"
-        data-category-id="DIC_kwDOPv4Hjc4Cv-up"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="zh-TW"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-  </script>
-</div>
+{{- if (ne (.Param "comments") false) }}
+<div id="remark42"></div>
+<script>
+  var remark_config = {
+    host: "https://comments.cloudarchitectec.com",
+    site_id: "cloudarchitectec",
+    locale: "zh-TW",
+    components: ["embed"],
+    no_footer: true,
+  };
+  (function(c) {
+    for (var i = 0; i < c.length; i++) {
+      var d = document, s = d.createElement("script");
+      s.src = remark_config.host + "/web/" + c[i] + ".js";
+      s.defer = true;
+      d.head.appendChild(s);
+    }
+  })(remark_config.components || ["embed"]);
+</script>
+{{- end }}
