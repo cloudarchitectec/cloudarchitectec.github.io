@@ -1,10 +1,12 @@
 {{- if (ne (.Param "comments") false) }}
+<hr style="margin:1.5rem 0;">
+<p style="font-size:0.85em;color:var(--secondary);margin-bottom:0.75rem;padding:0.35rem 0.75rem;border-left:3px solid var(--border);background:var(--entry);border-radius:0 4px 4px 0;">💬 使用暱稱即可留言；填寫 Email 可收到回覆通知。</p>
 <div id="remark42"></div>
 <script>
   var remark_config = {
     host: "https://comments.cloudarchitectec.com",
     site_id: "cloudarchitectec",
-    locale: "zh-TW",
+    locale: "zh-tw",
     components: ["embed"],
     no_footer: true,
   };
