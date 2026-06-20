@@ -84,7 +84,7 @@ jobs:
           [ -f "themes/${THEME_NAME}/layouts/_default/baseof.html" ] && echo "✅ baseof.html found" || echo "❌ baseof.html missing"
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Verify theme installation
         run: |
           echo "=== THEME VERIFICATION ==="
