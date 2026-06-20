@@ -35,7 +35,7 @@ disablePathToLower = true
   # Google Analytics Configuration
   googleAnalytics = "G-F5Z4F1PYEE"
 
-  # Enable comments via Remark42
+  # Enable Waline comments
   comments = true
   
   # SEO and Analytics enhancements

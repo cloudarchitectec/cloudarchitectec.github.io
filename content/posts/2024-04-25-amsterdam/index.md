@@ -2,13 +2,13 @@
 title: "一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的運河屋"
 date: 2024-04-25
 slug: "2024-04-25-amsterdam"
-image: "images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg"
-images: ['images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg', 'images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpeg.jpg', 'images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpeg.jpg', 'images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpeg.jpg', 'images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpeg.jpg', 'images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpeg.jpg', 'images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpeg.jpg', 'images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpeg.jpg', 'images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpeg.jpg', 'images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpeg.jpg', 'images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpeg.jpg', 'images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpeg.jpg', 'images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpeg.jpg', 'images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpeg.jpg', 'images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpeg.jpg', 'images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpeg.jpg', 'images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpeg.jpg', 'images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpeg.jpg', 'images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpeg.jpg', 'images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpeg.jpg', 'images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpeg.jpg', 'images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpeg.jpg', 'images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpeg.jpg', 'images/medium-1*NgasYZx34uIW8BacGwudNg.jpeg.jpg', 'images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpeg.jpg', 'images/medium-0*YugyH-UDQuUIxt2_.png.jpg']
+image: "images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpg"
+images: ['images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpg', 'images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpg', 'images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpg', 'images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpg', 'images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpg', 'images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpg', 'images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpg', 'images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpg', 'images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpg', 'images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpg', 'images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpg', 'images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpg', 'images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpg', 'images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpg', 'images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpg', 'images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpg', 'images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpg', 'images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpg', 'images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpg', 'images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpg', 'images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpg', 'images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpg', 'images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpg', 'images/medium-1*NgasYZx34uIW8BacGwudNg.jpg', 'images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpg', 'images/medium-0*YugyH-UDQuUIxt2_.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 ---
 
-![阿姆斯特丹中央火車站](images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpeg.jpg)
+![阿姆斯特丹中央火車站](images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpg)
 
 *阿姆斯特丹火車站*
 
@@ -16,11 +16,11 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 加上國泰的 Kosher 飛機餐難吃到爆炸，所以我選擇在香港機場飽餐一頓，然後上機就直接跟空姐說晚餐不用叫我了。
 
-![香港機場轉機美食廣場](images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpeg.jpg)
+![香港機場轉機美食廣場](images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpg)
 
-![機場餐廳價格表](images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpeg.jpg)
+![機場餐廳價格表](images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpg)
 
-![香港機場豐盛餐點](images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpeg.jpg)
+![香港機場豐盛餐點](images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpg)
 
 雖然超好吃也吃超飽，但是這個價錢也超誇張lol
 
@@ -36,11 +36,11 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 於是領到行李之後我立刻換上 Kathmandu 的外套跟我為這趟歐洲行準備的夏季防水 hiking boots！事實證明這是個再正確不過的選擇，因為一出火車站，我立刻被寒冷的狂風吹得不要不要！
 
-![歐洲獨旅行李箱準備](images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpeg.jpg)
+![歐洲獨旅行李箱準備](images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpg)
 
-![荷蘭旅行裝備整理](images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpeg.jpg)
+![荷蘭旅行裝備整理](images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpg)
 
-![Kathmandu 防水登山靴](images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpeg.jpg)
+![Kathmandu 防水登山靴](images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpg)
 
 *本來就已經裂開的行李箱，成功從澳洲跨洋來到了歐洲XD*
 
@@ -50,17 +50,17 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 如果是跟我一樣短程來訪的人，建議不用買 OV card (因為押金是不會退給你的，而且有一定的餘額下限，也就是說卡裡一定要維持 20 歐以上）。直接用手機 Apple Pay 即可，也就是荷蘭說的 OV pay，這個名詞我當初研究了好一陣子，但說白了就是進站跟出站都直接刷同一張信用卡就對了。OV pay 的火車機器是黃色柱子、公車上刷卡的地方會有ov pay 圖案。上下車都要刷卡，沒刷到罰錢。
 
-![阿姆斯特丹火車站運河美景](images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpeg.jpg)
+![阿姆斯特丹火車站運河美景](images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpg)
 
 *阿姆斯特丹火車站一出來的河景*
 
 ### Dolzon cafe
 
-![Dolzon Cafe 荷蘭烘焙坊](images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpeg.jpg)
+![Dolzon Cafe 荷蘭烘焙坊](images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpg)
 
-![阿姆斯特丹手作麵包店](images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpeg.jpg)
+![阿姆斯特丹手作麵包店](images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpg)
 
-![街角傳統麵包烘焙坊](images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpeg.jpg)
+![街角傳統麵包烘焙坊](images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpg)
 
 *很可愛的麵包店*
 
@@ -70,11 +70,11 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 題外話，阿姆斯特丹的渡輪是完全免費的，我個人還滿推薦搭的，除了行人之外還有很多腳踏車甚至小汽車直接開上船XD（跟我在臺灣/澳洲的渡輪經驗都非常不同，我覺得值得體驗！荷蘭人跟我說渡輪最長的航線是13分鐘，她也非常推薦安排進市區行程裡，可以從水上欣賞阿姆斯特丹的風光，我因為時間有限，就沒有特別去找那條航線了）。
 
-![阿姆斯特丹免費通勤渡輪](images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpeg.jpg)
+![阿姆斯特丹免費通勤渡輪](images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpg)
 
-![荷蘭運河水上交通](images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpeg.jpg)
+![荷蘭運河水上交通](images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpg)
 
-![市區渡輪腳踏車載運](images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpeg.jpg)
+![市區渡輪腳踏車載運](images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpg)
 
 *阿姆斯特丹免費渡輪*
 
@@ -82,13 +82,13 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ### 運河游船
 
-![荷蘭經典運河屋建築](images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpeg.jpg)
+![荷蘭經典運河屋建築](images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpg)
 
 *最愛的荷蘭運河屋*
 
-![阿姆斯特丹運河遊船觀光](images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpeg.jpg)
+![阿姆斯特丹運河遊船觀光](images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpg)
 
-![荷蘭運河船遊覽體驗](images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpeg.jpg)
+![荷蘭運河船遊覽體驗](images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpg)
 
 *運河游船*
 
@@ -96,9 +96,9 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ### 號稱荷蘭最好吃的尿尿小童薯條
 
-![尿尿小童薯條店排隊人潮](images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpeg.jpg)
+![尿尿小童薯條店排隊人潮](images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpg)
 
-![荷蘭最夯薯條美食](images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpeg.jpg)
+![荷蘭最夯薯條美食](images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpg)
 
 *尿尿小童薯條*
 
@@ -108,11 +108,11 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ### 辛格花市
 
-![阿姆斯特丹辛格水上花市](images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpeg.jpg)
+![阿姆斯特丹辛格水上花市](images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpg)
 
-![荷蘭鬱金香花卉市場](images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpeg.jpg)
+![荷蘭鬱金香花卉市場](images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpg)
 
-![Bloemenmarkt 傳統花市](images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpeg.jpg)
+![Bloemenmarkt 傳統花市](images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpg)
 
 *辛格花市*
 
@@ -120,11 +120,11 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
 
 ### 住宿選擇：海牙 AirBnB
 
-![海牙 Airbnb 溫馨小陽台](images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpeg.jpg)
+![海牙 Airbnb 溫馨小陽台](images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpg)
 
-![荷蘭住宿柬埔寨貓咪](images/medium-1*NgasYZx34uIW8BacGwudNg.jpeg.jpg)
+![荷蘭住宿柬埔寨貓咪](images/medium-1*NgasYZx34uIW8BacGwudNg.jpg)
 
-![Airbnb 可愛黑白貓](images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpeg.jpg)
+![Airbnb 可愛黑白貓](images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpg)
 
 *AirBnB 的小陽台跟貓咪們都好可愛*
 

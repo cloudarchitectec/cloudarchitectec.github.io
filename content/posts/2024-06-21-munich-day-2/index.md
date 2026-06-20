@@ -3,7 +3,7 @@ title: "一個女生的歐洲獨旅: 2024.05.03 德國 慕尼黑 (Munich) Day 2 
 date: 2024-06-21
 slug: "2024-06-21-munich-day-2"
 image: "images/overlook.jpg"
-images: ['images/overlook.jpg', 'images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpeg.jpg', 'images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpeg.jpg', 'images/medium-1*SZwEaOh11Ke3Kib768magA.jpeg.jpg', 'images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpeg.jpg', 'images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpeg.jpg', 'images/medium-1*WB02YiElLutRyeP8coe6TA.jpeg.jpg', 'images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpeg.jpg', 'images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpeg.jpg', 'images/medium-0*uDgkbRN29kumZlPU.png.jpg']
+images: ['images/overlook.jpg', 'images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpg', 'images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpg', 'images/medium-1*SZwEaOh11Ke3Kib768magA.jpg', 'images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpg', 'images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpg', 'images/medium-1*WB02YiElLutRyeP8coe6TA.jpg', 'images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpg', 'images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpg', 'images/medium-0*uDgkbRN29kumZlPU.png']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "德國"]
 ---
@@ -27,9 +27,9 @@ tags: ["旅遊", "德國"]
 
 我甚至還帶了我在紐倫堡買的爆米花（沒錯我還沒吃完)。
 
-![林德霍夫宮後方阿爾卑斯山雪景](images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpeg.jpg)
+![林德霍夫宮後方阿爾卑斯山雪景](images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpg)
 
-![林德霍夫宮周圍山景](images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpeg.jpg)
+![林德霍夫宮周圍山景](images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpg)
 
 *林德霍夫宮的山景*
 
@@ -37,11 +37,11 @@ tags: ["旅遊", "德國"]
 
 ### 林德霍夫宮 Schloss Linderhof
 
-![路德維希二世國王的林德霍夫宮外觀](images/medium-1*SZwEaOh11Ke3Kib768magA.jpeg.jpg)
+![路德維希二世國王的林德霍夫宮外觀](images/medium-1*SZwEaOh11Ke3Kib768magA.jpg)
 
-![林德霍夫宮精緻的巴洛克式建築](images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpeg.jpg)
+![林德霍夫宮精緻的巴洛克式建築](images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpg)
 
-![德國林德霍夫宮全景](images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpeg.jpg)
+![德國林德霍夫宮全景](images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpg)
 
 *林德霍夫宮*
 
@@ -55,7 +55,7 @@ tags: ["旅遊", "德國"]
 
 ### 新天鵝堡 Schloss Neuschwanstein
 
-![瑪麗安橋上新天鵝堡最佳拍攝角度](images/medium-1*WB02YiElLutRyeP8coe6TA.jpeg.jpg)
+![瑪麗安橋上新天鵝堡最佳拍攝角度](images/medium-1*WB02YiElLutRyeP8coe6TA.jpg)
 
 *瑪莉安橋才能拍到的最佳角度*
 
@@ -73,9 +73,9 @@ tags: ["旅遊", "德國"]
 
 3\. 搭馬車，單程 8 歐: 網路上有部落客說她覺得馬很辛苦，建議大家不要去搭，我覺得這點就是見仁見智。但重點是馬走的路跟人走的路線是一樣的，要上瑪麗安橋還要再走15–20分鐘。我個人是覺得不如搭公車，一下車走5分鐘就可以到橋上了。
 
-![懸在山谷上方的瑪麗安橋遠景](images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpeg.jpg)
+![懸在山谷上方的瑪麗安橋遠景](images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpg)
 
-![瑪麗安橋橋面與遊客](images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpeg.jpg)
+![瑪麗安橋橋面與遊客](images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpg)
 
 *瑪莉安橋*
 

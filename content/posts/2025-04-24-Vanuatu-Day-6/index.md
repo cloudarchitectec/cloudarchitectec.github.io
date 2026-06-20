@@ -2,8 +2,8 @@
 title: "太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜就是開心"
 date: 2025-04-24
 slug: "2025-04-24-vanuatu-day-6"
-image: "images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg"
-images: ['images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg', 'images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpeg.jpg', 'images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg', 'images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg', 'images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg', 'images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg', 'images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpeg.jpg', 'images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg', 'images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg', 'images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg', 'images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpeg.jpg', 'images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpeg.jpg']
+image: "images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpg"
+images: ['images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpg', 'images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpg', 'images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg', 'images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpg', 'images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpg', 'images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpg', 'images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg', 'images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpg', 'images/medium-1*meuPajg-ogijqOy7m4apGA.jpg', 'images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg', 'images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpg', 'images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
@@ -20,13 +20,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 後來租車公司完全11點才到，傻眼！我中間等到太無聊/太餓，還點了一杯smoothie 🤣
 
-![萬那杜芒果 smoothie](images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpeg.jpg)
+![萬那杜芒果 smoothie](images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpg)
 
-![租車等待漫長時光](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpeg.jpg)
+![租車等待漫長時光](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpg)
 
-![萬那杜租車 SUV](images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpeg.jpg)
+![萬那杜租車 SUV](images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpg)
 
-![新車低里程數](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpeg.jpg)
+![新車低里程數](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpg)
 
 *車子滿新的，里程數也不高！很喜歡～*
 
@@ -40,7 +40,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### Blue lagoon
 
-![萬那杜 Blue Lagoon 天然瀉湖](images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpeg.jpg)
+![萬那杜 Blue Lagoon 天然瀉湖](images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpg)
 
 *超美的 Blue Lagoon*
 
@@ -50,9 +50,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### Aelen Chocolate Factory/83 Distillery
 
-![83酒廠參觀外觀](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg)
+![83酒廠參觀外觀](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg)
 
-![83酒廠內部設施](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)
+![83酒廠內部設施](images/medium-1*meuPajg-ogijqOy7m4apGA.jpg)
 
 *83 Distrillery*
 
@@ -60,15 +60,15 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 之后就開車去附近的釀酒廠 83 distillery，可惜他們這邊沒有供應餐點，我一個人開車也不能參加 tasting (品酒活動)，所以上了個廁所我就走了🤣 （不然我覺得那邊充滿了蔗糖香，超好聞）
 
-![83 釀酒廠外觀建築](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpeg.jpg)
+![83 釀酒廠外觀建築](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg)
 
-![萬那杜蔗糖釀酒廠](images/medium-1*meuPajg-ogijqOy7m4apGA.jpeg.jpg)
+![萬那杜蔗糖釀酒廠](images/medium-1*meuPajg-ogijqOy7m4apGA.jpg)
 
 *83 Distrillery*
 
 ### Nambawan Café
 
-![萬那杜超大份牛排三明治](images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpeg.jpg)
+![萬那杜超大份牛排三明治](images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpg)
 
 *超大份 steak sandwich*
 
@@ -90,12 +90,12 @@ Port Vila 南邊的路比起北邊來說好很多，雖然有坑，但沒有到�
 
 晚餐糾結了很久要不要出去外面吃，看了一些 Google reviews，覺得出去還要開車、還要被蚊子叮，餐點看起來也一般，價錢又高，就還是決定在旅館吃泡麵了🤣
 
-![Pacific Lagoon 花園公寓](images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpeg.jpg)
+![Pacific Lagoon 花園公寓](images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpg)
 
-![萬那杜住宿環境](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpeg.jpg)
+![萬那杜住宿環境](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpg)
 
-![兩房公寓內部空間](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpeg.jpg)
+![兩房公寓內部空間](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg)
 
-![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpeg.jpg)
+![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg)
 
 {{< footer >}}

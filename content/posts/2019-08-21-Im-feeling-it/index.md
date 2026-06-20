@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.21 好像有感覺了？"
 date: 2019-08-21
 slug: "2019-08-21-im-feeling-it"
 image: "images/medium-0*BSj9yl-OTGs5uKYD.jpg"
-images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg']
+images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 ---
@@ -16,7 +16,7 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 
 但在開始之前，我必須跟你們分享一下 Su 的裝備到底有多誇張XDDD
 
-![學習裝備](images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpeg.jpg)
+![學習裝備](images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpg)
 
 *Su 的學習裝備*
 
@@ -58,11 +58,11 @@ Garret 講的是他自己成為程式設計師的故事，非常有趣！
 
 我給的指令是「輕輕把花生醬上的封膜撕掉」，後來大家學乖了，每個指令要嘛加上溫柔地 (“gently”)，要嘛就要描述地很明確，避免老師又用暴力破解法XD (未來的 EC: 當年的我只覺得這段教學的娛樂性很強，在台下哈哈大笑。現在的我發現這真是深刻的一課，雖然電腦的運算能力比人類強大太多，但如果指令下得不夠明確或是不了解電腦的運作方式，其實很容易會得到意外的結果，這也是為什麼我們工程師常常在 debug 的原因！)
 
-![程式訓練營早餐互動時光](images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpeg.jpg)
+![程式訓練營早餐互動時光](images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpg)
 
 *程式訓練營早餐互動時光*
 
-![剩餘的早餐花生醬吐司](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpeg.jpg)
+![剩餘的早餐花生醬吐司](images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpg)
 
 *最後被留在講桌上的花生醬吐司，也太慘烈了lol*
 
@@ -72,15 +72,15 @@ Garret 講的是他自己成為程式設計師的故事，非常有趣！
 
 這個酷東西真的很好玩，Garret真的是一個很有想法的老師！
 
-![程式實作創意教學道具](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpeg.jpg)
+![程式實作創意教學道具](images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpg)
 
 *程式實作創意教學道具*
 
-![老師自製程式概念教學工具](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpeg.jpg)
+![老師自製程式概念教學工具](images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpg)
 
 *老師自製程式概念教學工具*
 
-![創意程式學習互動裝置](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpeg.jpg)
+![創意程式學習互動裝置](images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpg)
 
 *創意程式學習互動裝置*
 

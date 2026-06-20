@@ -3,7 +3,7 @@ title: "轉職 IT 不踩雷：文組轉職工程師的 Coding Bootcamp 挑選指
 date: 2025-07-11
 slug: "2025-07-11-why-coding-bootcamp"
 image: "images/medium-0*q2epsdGOAZx-wOF5.jpg"
-images: ['images/medium-0*q2epsdGOAZx-wOF5.jpg', 'images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png.jpg']
+images: ['images/medium-0*q2epsdGOAZx-wOF5.jpg', 'images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png']
 categories: ["海外職場"]
 tags: ["程式訓練營"]
 ---
@@ -213,7 +213,7 @@ tags: ["程式訓練營"]
 
 下面順便提供網路資訊查出來的澳洲前三大 coding bootcamp 的比較，僅供大家參考！
 
-![程式設計課程內容架構圖](images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png.jpg)
+![程式設計課程內容架構圖](images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png)
 
 實際的最新資訊還請自行上每間學校的官網查詢（畢竟每個學校可能隨時更新規定）
 

@@ -3,7 +3,7 @@ title: "我在澳洲練皮拉提茲：Studio Pilates vs Pronto Pilates 課程比
 date: 2023-11-18
 slug: "2023-11-18-pilates"
 image: "images/medium-0*RRTjZyO7i2FCSmM-.jpg"
-images: ['images/medium-0*RRTjZyO7i2FCSmM-.jpg', 'images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpeg.jpg', 'images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpeg.jpg', 'images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpeg.jpg', 'images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpeg.jpg', 'images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpeg.jpg', 'images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpeg.jpg']
+images: ['images/medium-0*RRTjZyO7i2FCSmM-.jpg', 'images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpg', 'images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpg', 'images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpg', 'images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpg', 'images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpg', 'images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpg']
 categories: ["澳洲生活"]
 ---
 
@@ -35,7 +35,7 @@ categories: ["澳洲生活"]
 
 ### 什麼是皮拉提茲
 
-![澳洲皮拉提茲教室設備](images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpeg.jpg)![澳洲皮拉提茲器材環境](images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpeg.jpg)
+![澳洲皮拉提茲教室設備](images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpg)![澳洲皮拉提茲器材環境](images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpg)
 
 *皮拉提茲教室與器材*
 
@@ -49,9 +49,9 @@ categories: ["澳洲生活"]
 
 
 
-![澳洲皮拉提茲啞鈴器材](images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpeg.jpg)
+![澳洲皮拉提茲啞鈴器材](images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpg)
 
-![澳洲皮拉提茲彈力球設備](images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpeg.jpg)
+![澳洲皮拉提茲彈力球設備](images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpg)
 
 *除了基本的 reformer 機器之外，還會有啞鈴、彈力環、彈力球等其他輔助道具*
 
@@ -75,9 +75,9 @@ Pronto Pilates 則是在課程的前後會加上兩個跟瑜伽很類似的暖�
 
 皮拉提茲的課程主要是透過這個黑色的 reformer 的器材輔助來進行。機器上面會有不同重量的彈簧（以顏色標示）。根據不同動作，以及每個人的身體強度，可以自由調整重量。
 
-![澳洲皮拉提茲Reformer器材](images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpeg.jpg)
+![澳洲皮拉提茲Reformer器材](images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpg)
 
-![澳洲皮拉提茲彈簧重量設定](images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpeg.jpg)
+![澳洲皮拉提茲彈簧重量設定](images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpg)
 
 *Reformer 與彈簧*
 

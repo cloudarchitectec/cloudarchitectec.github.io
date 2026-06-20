@@ -1,0 +1,184 @@
+/* Comment section — match coffee CTA, compact (~75% height) */
+.comments-section {
+  background: #fef0d4;
+  border: 2px solid #c8820a;
+  border-radius: 12px;
+  padding: 16px 27px;
+  margin: 2.25rem 0 1.125rem;
+}
+
+.comments-hint {
+  margin: 0 0 0.75rem;
+  font-size: 17px;
+  font-weight: 500;
+  color: #4a3008;
+  line-height: 1.4;
+}
+
+/* Waline widget — warm cream palette, scaled down */
+#waline {
+  --waline-font-size: 17px;
+  --waline-info-font-size: 13px;
+  --waline-theme-color: #c8820a;
+  --waline-active-color: #a66d08;
+  --waline-color: #4a3008;
+  --waline-bg-color: #fffdf8;
+  --waline-bg-color-light: #fdf6e8;
+  --waline-bg-color-hover: #fceccc;
+  --waline-border-color: #e8c88a;
+  --waline-disable-bg-color: #fdf6e8;
+  --waline-disable-color: #8a6020;
+  --waline-code-bg-color: #4a3008;
+  --waline-bq-color: #fdf6e8;
+  --waline-info-bg-color: #fdf6e8;
+  --waline-info-color: #8a6020;
+  --waline-light-grey: #8a6020;
+  --waline-dark-grey: #6b4a18;
+  --waline-avatar-size: 2.5rem;
+  --waline-border: 1px solid #e8c88a;
+  --waline-box-shadow: none;
+}
+
+#waline .wl-panel {
+  background: #fffdf8;
+  border-color: #e8c88a;
+  border-radius: 9px;
+  margin: 0.35em;
+}
+
+#waline .wl-header label {
+  padding: 0.5em 0.35em;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+#waline .wl-header input {
+  padding: 0.35em;
+  font-size: 17px;
+}
+
+#waline .wl-editor {
+  min-height: 6.5em;
+  margin: 0.5em 0.4em;
+  font-size: 17px;
+  line-height: 1.4;
+}
+
+#waline .wl-footer {
+  margin: 0.35em 0.55em;
+}
+
+#waline .wl-btn {
+  padding: 0.4em 0.75em;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+#waline .wl-btn.primary {
+  border-color: #4a3008;
+  background: #4a3008;
+  color: #fef0d4;
+}
+
+#waline .wl-btn.primary:hover,
+#waline .wl-btn.primary:active {
+  border-color: #3a2406;
+  background: #3a2406;
+  color: #fef0d4;
+}
+
+#waline .wl-comment {
+  margin-bottom: 0.5em;
+}
+
+#waline .wl-count {
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #4a3008;
+}
+
+#waline .wl-empty {
+  padding: 0.85em;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+#waline .wl-header {
+  border-bottom-color: #e8c88a;
+}
+
+#waline .wl-meta-head {
+  padding: 0.25em 0;
+}
+
+#waline .wl-meta-head,
+#waline .wl-empty {
+  color: #4a3008;
+}
+
+#waline .wl-sort li {
+  color: #4a3008;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+#waline .wl-sort li.active {
+  color: #4a3008;
+  font-weight: 500;
+}
+
+#waline .wl-info .wl-text-number {
+  font-size: 13px;
+  color: #8a6020;
+}
+
+#waline a.wl-action[href*="mastering-markdown"] {
+  display: none !important;
+}
+
+#waline button.wl-action[title="預覽"],
+#waline label.wl-action[for="wl-image-upload"],
+#waline input#wl-image-upload {
+  display: none !important;
+}
+
+#waline .wl-panel > .wl-preview {
+  display: none !important;
+}
+
+/* Keep cream styling in dark mode — same as coffee CTA */
+body.dark .comments-section {
+  background: #fef0d4;
+  border-color: #c8820a;
+}
+
+body.dark .comments-hint {
+  color: #4a3008;
+}
+
+body.dark #waline {
+  --waline-theme-color: #c8820a;
+  --waline-active-color: #a66d08;
+  --waline-color: #4a3008;
+  --waline-bg-color: #fffdf8;
+  --waline-bg-color-light: #fdf6e8;
+  --waline-bg-color-hover: #fceccc;
+  --waline-border-color: #e8c88a;
+  --waline-white: #fffdf8;
+  --waline-light-grey: #8a6020;
+  --waline-dark-grey: #6b4a18;
+}
+
+body.dark #waline .wl-panel {
+  background: #fffdf8;
+}
+
+@media screen and (max-width: 768px) {
+  .comments-section {
+    padding: 14px 16px;
+  }
+}

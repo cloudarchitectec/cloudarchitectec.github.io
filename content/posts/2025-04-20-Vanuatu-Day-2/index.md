@@ -2,13 +2,13 @@
 title: "太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區"
 date: 2025-04-20
 slug: "2025-04-20-vanuatu-day-2"
-image: "images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg"
-images: ['images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg', 'images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpeg.jpg', 'images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpeg.jpg', 'images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpeg.jpg', 'images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpeg.jpg', 'images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpeg.jpg', 'images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpeg.jpg', 'images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpeg.jpg', 'images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg', 'images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg', 'images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpeg.jpg', 'images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpeg.jpg', 'images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpeg.jpg', 'images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpeg.jpg', 'images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg', 'images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg']
+image: "images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpg"
+images: ['images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpg', 'images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpg', 'images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpg', 'images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpg', 'images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpg', 'images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpg', 'images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpg', 'images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpg', 'images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpg', 'images/medium-1*IcQLON4WrjDLCgkuF210_A.jpg', 'images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpg', 'images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpg', 'images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpg', 'images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpg', 'images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpg', 'images/medium-1*vX0owHmslNh8Meghoioplg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
-![Port Vila 市區街景](images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpeg.jpg)
+![Port Vila 市區街景](images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpg)
 
 *Port Vila 市區*
 
@@ -18,7 +18,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 事後我跟奶奶聊天，奶奶說早餐的確是7–7:30供應，但她今天睡過頭了🤣🤣🤣
 
-![民宿陽台悠閒早餐](images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpeg.jpg)
+![民宿陽台悠閒早餐](images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpg)
 
 *坐在陽台吃早餐，其實也是滿愜意的*
 
@@ -28,9 +28,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### 神奇的萬那杜公車
 
-![萬那杜老舊私營巴士](images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpeg.jpg)
+![萬那杜老舊私營巴士](images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpg)
 
-*![當地特色小巴交通](images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpeg.jpg)萬那杜巴士*
+*![當地特色小巴交通](images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpg)萬那杜巴士*
 
 萬那杜的公車沒有固定形式，只能靠車牌前面的B來辨認，感覺很像私營小巴，因為真的每台車都不一樣，多數巴士的內裝也都非常老舊、各有各的風格，我試著跟其中一個巴士司機聊了一下，他似乎沒辦法跟我解釋其中奧祕，只跟我說反正就是認車牌。
 
@@ -51,13 +51,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 一開始她推薦我去一個海邊，但那個地方是我週五打算去的景點，於是她就推薦了我去市區附近的 Banyan bar。
 
 
-![Banyan Bar 海邊酒吧](images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpeg.jpg)
+![Banyan Bar 海邊酒吧](images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpg)
 
-*![海濱餐廳休憩環境](images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpeg.jpg)*
+*![海濱餐廳休憩環境](images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpg)*
 
-![太平洋海邊風情](images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpeg.jpg)
+![太平洋海邊風情](images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpg)
 
-*![Banyan Bar 用餐空間](images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpeg.jpg)Banyan Bar*
+*![Banyan Bar 用餐空間](images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpg)Banyan Bar*
 
 出門後我在外面等了一下公車，但週日真的沒什麼車子。想說不如走去機場可能比較有機會（後來發現從民宿走去機場真的超近！只是黃土路，沒鋪柏油，拖著行李箱其實也不好走）。
 
@@ -69,15 +69,15 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 但我還是很推薦 Rossi’s 這間餐廳，風景悠美就在海邊、服務好（居然先上了一杯免費的萊姆水、食物好吃，而且海風徐徐很涼爽！（萬那杜 99% 的地方都沒有冷氣，包含機場、旅館、餐廳、超市🤣）
 
-![萬那杜市區街景一角](images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpeg.jpg)
+![萬那杜市區街景一角](images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpg)
 
-*![Rossi餐廳美味餐點](images/medium-1*IcQLON4WrjDLCgkuF210_A.jpeg.jpg)市區一角與 Rossi 的餐點*
+*![Rossi餐廳美味餐點](images/medium-1*IcQLON4WrjDLCgkuF210_A.jpg)市區一角與 Rossi 的餐點*
 
 而且 Port Vila 真的是滿漂亮的，市區附近走路10分鐘就可以看到美到不行的海邊，海水清澈到我還看到小魚了😆
 
-![Port Vila 清澈海水](images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpeg.jpg)
+![Port Vila 清澈海水](images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpg)
 
-*![太平洋海邊美景](images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpeg.jpg)市區就有很美的海景*
+*![太平洋海邊美景](images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpg)市區就有很美的海景*
 
 ### 當地市集
 
@@ -87,7 +87,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 一下車發現旁邊居然有當地市集，於是就小逛了一下。我是裡面唯一兩個外國人，而且顧客也不多，每個攤位都在跟我大眼瞪小眼，所以只拍了一張照片。基本上蔬菜跟芭蕉都是 150–250vt 之間，價錢會用馬克筆寫在紙板上或是直接寫在水果上，很有趣😆
 
-![萬那杜傳統市集](images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpeg.jpg)
+![萬那杜傳統市集](images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpg)
 
 ### 超市初體驗
 
@@ -100,13 +100,13 @@ Au Bon Marche 是當地的連鎖超市，我去逛的這間分店其實滿大的
 逛著逛著看到一條特別的走道，一開始還以為這一個走道是賣布的🤣 後來才發現是萬那杜從週六中午開始到週一中午不能賣酒，所以就直接用布蓋起來😆
 
 
-![Au Bon Marche 連鎖超市](images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpeg.jpg)
+![Au Bon Marche 連鎖超市](images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpg)
 *Au Bon Marche 連鎖超市*
 
-![超市酒類區布幕遮蓋](images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpeg.jpg)
+![超市酒類區布幕遮蓋](images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpg)
 *超市酒類區*
 
-![零食採買](images/medium-1*vX0owHmslNh8Meghoioplg.jpeg.jpg)
+![零食採買](images/medium-1*vX0owHmslNh8Meghoioplg.jpg)
 *零食採買*
 
 逛完超市其實也才兩點多，但我真心無處可去😆 只好搭公車回機場換匯（至少這個公車司機沒有騙我錢😆），然後走路回民宿，也算是度過悠閒的一天～

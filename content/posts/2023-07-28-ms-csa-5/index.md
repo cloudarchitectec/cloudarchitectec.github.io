@@ -3,7 +3,7 @@ title: "微軟雲端架構師 (Solution Architect) 職位解析 5：Sales Pipeli
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-5"
 image: "images/medium-0*Sre5eGm5dFF7JeEH.jpg"
-images: ['images/medium-0*Sre5eGm5dFF7JeEH.jpg', 'images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg', 'images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg', 'images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg', 'images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg', 'images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg']
+images: ['images/medium-0*Sre5eGm5dFF7JeEH.jpg', 'images/medium-1*VS549NIHXaMLhE-uWxMEFw.png', 'images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png', 'images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png', 'images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png', 'images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
 ---
@@ -36,7 +36,7 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 
 假設這個 migration project 的設計在三月談好了，預計七月開始部署到雲上，這個項目預計做到年底完成，所以我在 sales pipeline 上就必須要列出像下面這個表格，上面寫著客戶預計在哪個日期部署哪些服務、這些服務會花多少錢、以及每個 milestone 的進度。
 
-![雲端移轉項目初期時程規劃](images/medium-1*VS549NIHXaMLhE-uWxMEFw.png.jpg)
+![雲端移轉項目初期時程規劃](images/medium-1*VS549NIHXaMLhE-uWxMEFw.png)
 
 *一開始的項目進度*
 
@@ -46,7 +46,7 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 
 我前面說過 Microsoft ANZ (Australia & New Zealand) 追求的是 100% forecasting accuracy，也就是説這個我今年三月訂好的計畫只要有任何時間或是金額上的更動都不行。
 
-![雲端移轉項目實際執行狀況](images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png.jpg)
+![雲端移轉項目實際執行狀況](images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png)
 
 *實際上的項目進度*
 
@@ -70,13 +70,13 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 基本上 cost estimation 我們通常都是用 Azure Pricing Calculator 算的，這個網頁是公開的，有興趣的人可以自己上去玩玩看：<https://azure.microsoft.com/en-au/pricing/calculator/>
 
-![Azure雲端服務價格計算工具](images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png.jpg)
+![Azure雲端服務價格計算工具](images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png)
 
 *Azure Pricing Calculator*
 
 我也遇過一些奇葩客戶，例如有一個客戶狂改他們的 networking design，下子說他們要用 VPN Gateway，一下子說他們要用 Virtual WAN。然後叫我算價錢給他們，但又不給我參數。例如要算VPN Gateway的價格我必須要知道他們要選哪一個 VPN Gateway SKU，然後他們又不告訴他們需要的 throughput 有多少，是要叫我去通靈嗎？XD
 
-![VPN閘道服務價格計算器](images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png.jpg)
+![VPN閘道服務價格計算器](images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png)
 
 *VPN Gateway Pricing Calculator*
 
@@ -92,7 +92,7 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 如果讓我換一個圓餅圖來表示 SA 的工作時間分配，其實是長這樣子的（前提：這是以微軟的 SA 工作為例，聽說 AWS 的 SA 不需要花這麼多時間在Sales Pipeline Managment）
 
-![微軟雲端架構師工作內容分布圖](images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png.jpg)
+![微軟雲端架構師工作內容分布圖](images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png)
 
 *Microsoft CSA Work Distribution*
 

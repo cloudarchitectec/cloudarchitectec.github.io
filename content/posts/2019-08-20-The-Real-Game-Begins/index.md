@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.20 好戲登場"
 date: 2019-08-20
 slug: "2019-08-20-the-real-game-begins"
 image: "images/medium-0*tccay5yVUk7f1Hm7.jpg"
-images: ['images/medium-0*tccay5yVUk7f1Hm7.jpg', 'images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpeg.jpg', 'images/medium-1*NyILRsUnysMY9zenjmapLg.jpeg.jpg']
+images: ['images/medium-0*tccay5yVUk7f1Hm7.jpg', 'images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpg', 'images/medium-1*NyILRsUnysMY9zenjmapLg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 ---
@@ -22,7 +22,7 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 
 ### 電腦基本硬體架構
 
-![電腦硬體基礎架構教學](images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpeg.jpg)
+![電腦硬體基礎架構教學](images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpg)
 
 結束後一樣分開兩個小隊，老師開始拆解電腦結構，跟我們說明了一下各個重點。之後就開始講 command line (CLI)，雖然 CLI 概念在事先預習功課上就有提到，但我也只是勉強跟上而已! 老師講得啪啪快，重點是同學還能一直踴躍發問，我真心是要累死🙂‍↕️
 
@@ -46,7 +46,7 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 
 但不得不說走完的確覺得心情變好了，感覺我做人也不是太失敗XD
 
-![程式訓練營同學午休漫步時光](images/medium-1*NyILRsUnysMY9zenjmapLg.jpeg.jpg)
+![程式訓練營同學午休漫步時光](images/medium-1*NyILRsUnysMY9zenjmapLg.jpg)
 
 回來之後就開始狂做練習簿 (workbook)。這裡再度批評一下，有些題目根本只有用mac的人才做得了，老師也不事先說，我回家看slack才看到，練習題我也是做得七零八落...
 

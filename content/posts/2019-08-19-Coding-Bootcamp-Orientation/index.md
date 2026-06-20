@@ -3,7 +3,7 @@ title: "零基礎轉職澳洲工程師: 2019.08.19 程式訓練營開學典禮"
 date: 2019-08-19
 slug: "2019-08-19-coding-bootcamp-orientation"
 image: "images/medium-0*ywUyojRimOqTsYDU.jpg"
-images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg']
+images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 ---
@@ -45,7 +45,7 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 
 大家聊了一下，時間一到就進教室，Su 示意我她有特別想坐的位子，我才發現她居然帶了一個 20 幾吋的外接螢幕來學校！！！這真的不會太威嗎XDD (Su 是個頭嬌小，講話很秀氣的女生。)
 
-![訓練營學員自備外接螢幕](images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpeg.jpg)
+![訓練營學員自備外接螢幕](images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpg)
 
 *Su自己帶來的螢幕*
 
@@ -67,7 +67,7 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 
 中午學校提供了免費午餐，午餐時間當然要跟同學們繼續交流啊QAQ (聊到我又啞了一次)，下午開始玩一個要跟所有同學/老師/工作人員交談並尋找每個人跟你的三個共通點的破冰遊戲……我真心用盡我最後一絲力氣（內心不斷在想 give me a breakkkkkkk!!!!），最後收集了22個人，我也算是盡力了吧LOL
 
-![程式設計訓練營破冰遊戲](images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpeg.jpg)
+![程式設計訓練營破冰遊戲](images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpg)
 
 *破冰遊戲簡直要累死 I 人*
 
@@ -85,7 +85,7 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 
 下面是今天獲得的贈品，有一個冷水壺/咖啡杯/提袋/t-shirt/兩張貼紙/開瓶器鑰匙圈 (友人 Clair 表示: 看起來有種宅宅的感覺XD)
 
-![程式訓練營開學禮品包](images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpeg.jpg)
+![程式訓練營開學禮品包](images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpg)
 
 *上課第一天的大禮包*
 

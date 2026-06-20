@@ -3,7 +3,7 @@ title: "好想要退休！案例分析：33 歲宅男實現財務自由 (FIRE) �
 date: 2024-10-12
 slug: "2024-10-12-fire"
 image: "images/medium-0*nS9EKqLaT0hNig_O.jpg"
-images: ['images/medium-0*nS9EKqLaT0hNig_O.jpg', 'images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg', 'images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg']
+images: ['images/medium-0*nS9EKqLaT0hNig_O.jpg', 'images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpg', 'images/medium-1*38JWFFErSC_uEtd6rDrTow.jpg']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
 ---
@@ -46,9 +46,9 @@ tags: ["好想要退休", "FIRE", "退休規劃"]
 
 * * *
 
-![PTT 宅男退休分享文截圖第一頁](images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpeg.jpg)
+![PTT 宅男退休分享文截圖第一頁](images/medium-1*POjgwMluh9qI2nOqAR8Jgw.jpg)
 
-*![PTT 宅男退休分享文截圖第二頁](images/medium-1*38JWFFErSC_uEtd6rDrTow.jpeg.jpg)*
+*![PTT 宅男退休分享文截圖第二頁](images/medium-1*38JWFFErSC_uEtd6rDrTow.jpg)*
 
 ### 心得
 

@@ -2,8 +2,8 @@
 title: "太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包"
 date: 2025-04-26
 slug: "2025-04-26-vanuatu-day-8"
-image: "images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg"
-images: ['images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg', 'images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg', 'images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg', 'images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg', 'images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg', 'images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg', 'images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg', 'images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg', 'images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg', 'images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg', 'images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg', 'images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg']
+image: "images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpg"
+images: ['images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpg', 'images/medium-1*stHnWueAbTORnYhAAg04-Q.jpg', 'images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpg', 'images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpg', 'images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpg', 'images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpg', 'images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpg', 'images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpg', 'images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpg', 'images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpg', 'images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpg', 'images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
@@ -22,9 +22,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 今天早上離開 hideaway island 前，很糾結要不要再浮潛一次，最後決定還是覺得算了（不想重複上述流程）。
 
-![海島度假村早餐時光](images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpeg.jpg)
+![海島度假村早餐時光](images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpg)
 
-![蚊子大軍圍攻用餐](images/medium-1*stHnWueAbTORnYhAAg04-Q.jpeg.jpg)
+![蚊子大軍圍攻用餐](images/medium-1*stHnWueAbTORnYhAAg04-Q.jpg)
 
 *我吃早餐，蚊子吃我?!*
 
@@ -34,15 +34,15 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 於是直接前往 M Resort & Spa，果然20分鐘的路程我又開了50分鐘，因為北邊的路真的太爛了 😂😂😂 而且我開到最後三公里Google maps 也失去作用，完全一片空白，好險路上還有少少的指標。
 
-![M Resort & Spa 高級度假村](images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpeg.jpg)
+![M Resort & Spa 高級度假村](images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpg)
 
-![度假村海邊餐廳](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpeg.jpg)
+![度假村海邊餐廳](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpg)
 
 *M Resort & Spa*
 
 一到之後完全覺得也太美了！完全就是高級度假村的風格，超美！我點了 lemongrass chicken (擺盤很美、份量很大，但味道一般），反倒是我點的mocktail 很好喝，但我一直以為 mocktail 應該會做成雞尾酒🍹的樣子？我覺得這杯比較像是 smoothie 吧😆
 
-![香茅雞精緻擺盤](images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpeg.jpg)
+![香茅雞精緻擺盤](images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpg)
 
 *擺盤好美！*
 
@@ -50,7 +50,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### Fatumaru Lodge
 
-![萬那杜旅遊景色記錄](images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpeg.jpg)
+![萬那杜旅遊景色記錄](images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpg)
 
 今天的住宿也是金錢的力量，一晚要澳幣$226，但不得不說滿漂亮的，設備也很齊全，淋浴間有兩個蓮蓬頭，洗完澡去櫃檯借吹風機還借到一台dyson!!!!! 這是我第一次用 Dyson 吹風機，我平常吹頭髮大概要20–30分鐘，還無法全乾，Dyson 居然只要吹五分鐘就乾了，太神了吧😆
 
@@ -62,13 +62,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 甚至還跑去使用了一下這裡的游泳池，然後我突然發現為什麼我這幾天就算旅館有泳池我也沒去（雖然主要是因為時間不夠），因為真的好無聊🤣🤣🤣 我都來到這種有真海邊的地方了，一個人在泳池真的不怎麼好玩😆
 
-![人生首次 kayaking 體驗](images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpeg.jpg)
+![人生首次 kayaking 體驗](images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpg)
 
-![海邊划獨木舟樂趣](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpeg.jpg)
+![海邊划獨木舟樂趣](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpg)
 
-![Fatumaru Lodge 游泳池](images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpeg.jpg)
+![Fatumaru Lodge 游泳池](images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpg)
 
-![度假村海邊設施](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpeg.jpg)
+![度假村海邊設施](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpg)
 
 *Fatumaru Lodge*
 
@@ -76,9 +76,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 結果我完全太會算，一加完剛好就是我還車需要的油量+10公里。進到超市後發現他們居然有在賣烤雞跟薯條，於是我就決定外帶回旅館，這樣剛好明天租車公司可以直接到旅館領車，我也不用再加油。
 
-![萬那杜超市烤雞](images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpeg.jpg)
+![萬那杜超市烤雞](images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpg)
 
-![外帶薯條烤雞晚餐](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpeg.jpg)
+![外帶薯條烤雞晚餐](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpg)
 
 *超市晚餐*
 

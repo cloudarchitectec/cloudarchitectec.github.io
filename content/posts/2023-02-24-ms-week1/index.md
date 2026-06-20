@@ -2,8 +2,8 @@
 title: "澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享"
 date: 2023-02-24
 slug: "2023-02-24-ms-week1"
-image: "images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg"
-images: ['images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg', 'images/medium-1*aZU2WYmUy-OhffJ6aaMbcg.jpeg.jpg', 'images/medium-1*lHetegP84aqFpikFtTacMA.jpeg.jpg']
+image: "images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpg"
+images: ['images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpg', 'images/medium-1*aZU2WYmUy-OhffJ6aaMbcg.jpg', 'images/medium-1*lHetegP84aqFpikFtTacMA.jpg']
 categories: ["海外職場"]
 tags: ["微軟"]
 ---
@@ -12,7 +12,7 @@ tags: ["微軟"]
 
 ### 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享
 
-![微軟坎培拉辦公室-門口](images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpeg.jpg)
+![微軟坎培拉辦公室-門口](images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpg)
 
 *微軟坎培拉辦公室-門口*
 
@@ -24,13 +24,13 @@ tags: ["微軟"]
 
 結果不看不知道，一看嚇一跳! 微軟的坎培拉辦公室非常迷你，而且樓層也很低 (分別在大樓的二樓跟四樓，請不要問我三樓怎麼了，我也不知道XDD)
 
-![微軟坎培拉辦公室-廚房](images/medium-1*aZU2WYmUy-OhffJ6aaMbcg.jpeg.jpg)
+![微軟坎培拉辦公室-廚房](images/medium-1*aZU2WYmUy-OhffJ6aaMbcg.jpg)
 
 *微軟坎培拉辦公室-廚房*
 
 廚房沒零食，重點是居然只有一個螢幕哈哈哈哈哈哈 (Amazon 是雙螢幕，而且桌子大概是微軟的兩倍大)。這個差異深深讓我體驗到由奢入儉難啊XD
 
-![筆電與外接螢幕](images/medium-1*lHetegP84aqFpikFtTacMA.jpeg.jpg)
+![筆電與外接螢幕](images/medium-1*lHetegP84aqFpikFtTacMA.jpg)
 
 *微軟坎培拉辦公室-辦公桌*
 

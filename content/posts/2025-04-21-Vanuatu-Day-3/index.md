@@ -2,13 +2,13 @@
 title: "太平洋小島上的大冒險：2025.04.21 Vanuatu Day 3 地震驚魂、小島浮潛與部落文化初體驗"
 date: 2025-04-21
 slug: "2025-04-21-vanuatu-day-3"
-image: "images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg"
-images: ['images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg', 'images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg', 'images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg', 'images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg', 'images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg', 'images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg', 'images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg', 'images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg', 'images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg']
+image: "images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpg"
+images: ['images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpg', 'images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpg', 'images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpg', 'images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpg', 'images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpg', 'images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpg', 'images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpg', 'images/medium-1*hiICIdXxnAwERYT7ougJMw.jpg', 'images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
-![Pele Island 太平洋美景](images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpeg.jpg)
+![Pele Island 太平洋美景](images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpg)
 
 *Pele Island 一景*
 
@@ -20,7 +20,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 雖然說地震對於台灣人來說不算太罕見，但萬那杜歷經 2024 年 12 月的大地震後一直到現在也還沒恢復過來。這裡的房子也不知道穩不穩固，於是我立刻把房門打開，想說如果有需要的話可以快速逃生。好險地震很快就結束了，後來上網才發現是芮氏規模 5.6 的地震，真的是滿大的🤣
 
-![萬那杜 5.6 級地震警報](images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpeg.jpg)
+![萬那杜 5.6 級地震警報](images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpg)
 
 *地震警報*
 
@@ -36,9 +36,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 到了島上有個迎賓飲料椰子水，接著開船 15 分鐘帶我們出海浮潛。
 
-![Pele Island 迎賓椰子水](images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpeg.jpg)
+![Pele Island 迎賓椰子水](images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpg)
 
-![當地特色椰子飲品](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpeg.jpg)
+![當地特色椰子飲品](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpg)
 
 *迎賓椰子水*
 
@@ -54,7 +54,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 這個一日遊還包含當地村莊導覽，我覺得非常有趣！
 
-![Pele Island 村莊指示牌](images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpeg.jpg)
+![Pele Island 村莊指示牌](images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpg)
 
 *村牌*
 
@@ -66,13 +66,13 @@ Pele island 島上有四個村莊，人口大約40人(官方資料寫200人）�
 
 馬克杯杯聽到我早上超早就上車之後超傻眼（因為說真的，我住的地方其實在港口跟其他人的住宿點中間），跟我說我等一下回程要記得跟 tour guide 說請他們第一個放我下車。我後來完全忘記這件事，他還主動幫我去提醒 tour guide，所以我就成為本團最早下車的人，五點就到家了✌️
 
-![Pele Island 團體合照](images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpeg.jpg)
+![Pele Island 團體合照](images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpg)
 
-![澳洲遊客團友聚餐](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpeg.jpg)
+![澳洲遊客團友聚餐](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpg)
 
-![當地豐盛午餐](images/medium-1*hiICIdXxnAwERYT7ougJMw.jpeg.jpg)
+![當地豐盛午餐](images/medium-1*hiICIdXxnAwERYT7ougJMw.jpg)
 
-![萬那杜滿漢全席](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpeg.jpg)
+![萬那杜滿漢全席](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpg)
 
 *午餐、同行遊客*
 

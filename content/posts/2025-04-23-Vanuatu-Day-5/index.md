@@ -2,15 +2,15 @@
 title: "太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃改不上變化，變化趕不上天氣造化"
 date: 2025-04-23
 slug: "2025-04-23-vanuatu-day-5"
-image: "images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg"
-images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg']
+image: "images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpg"
+images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
 (在萬那杜，跟人類一樣不可控制的還有天氣)
 
-![萬那杜度假村大雷雨天](images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpeg.jpg)
+![萬那杜度假村大雷雨天](images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpg)
 
 ### 隨便聊聊就成交
 
@@ -34,13 +34,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 我一路在外面看海看到 5:30，工作人員才再度出現，感覺他們剛剛好像是出去採買了。晚餐就吃了一個 fish wrap，要價澳幣23.5。也開喝了超市買的 American cola，我覺得比可樂甜，卻又比較沒氣，感覺還是可樂好喝😆
 
-![度假村 Fish Wrap 晚餐](images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpeg.jpg)
+![度假村 Fish Wrap 晚餐](images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpg)
 
 ### 下雨天，宅宅天
 
-![度假村雷雨天室外景象](images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpeg.jpg)
+![度假村雷雨天室外景象](images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpg)
 
-![暴雨中的太平洋海景](images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpeg.jpg)
+![暴雨中的太平洋海景](images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpg)
 
 讓我們把時間拉回現在！
 
@@ -56,7 +56,7 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 午餐吃了一個評論說很好吃的夏威夷披薩，要價$19.3澳幣，我覺得很不行。吃完之後我就跑回房間睡午覺，結果大睡了四小時😆😆😆
 
-![度假村手工夏威夷披薩](images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpeg.jpg)
+![度假村手工夏威夷披薩](images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpg)
 
 *很有手工感的披薩*
 

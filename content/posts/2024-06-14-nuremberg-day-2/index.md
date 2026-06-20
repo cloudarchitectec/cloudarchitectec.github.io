@@ -2,8 +2,8 @@
 title: "一個女生的歐洲獨旅: 2024.05.01 德國 紐倫堡 (Nuremberg) Day 2 — 近代史中的紐倫堡"
 date: 2024-06-14
 slug: "2024-06-14-nuremberg-day-2"
-image: "images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpeg.jpg"
-images: ['images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpeg.jpg', 'images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpeg.jpg', 'images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpeg.jpg', 'images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpeg.jpg', 'images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpeg.jpg', 'images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpeg.jpg', 'images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpeg.jpg', 'images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpeg.jpg', 'images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpeg.jpg', 'images/medium-1*XKd20tYk57ftqXcq0TclKw.jpeg.jpg', 'images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpeg.jpg', 'images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpeg.jpg', 'images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpeg.jpg', 'images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpeg.jpg', 'images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpeg.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png.jpg']
+image: "images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpg"
+images: ['images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpg', 'images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpg', 'images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpg', 'images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpg', 'images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpg', 'images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpg', 'images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpg', 'images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpg', 'images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpg', 'images/medium-1*XKd20tYk57ftqXcq0TclKw.jpg', 'images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpg', 'images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpg', 'images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpg', 'images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg', 'images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "德國"]
 ---
@@ -12,7 +12,7 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### **一個女生的歐洲獨旅:** 2024.05.01 德國 紐倫堡 (Nuremberg) Day 2 — 近代史中的紐倫堡
 
-![紐倫堡 Airbnb 澳洲書籍](images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpeg.jpg)
+![紐倫堡 Airbnb 澳洲書籍](images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpg)
 
 *在紐倫堡 airbnb 房間裡發現一本關於澳洲人的書，太有趣XD*
 
@@ -26,11 +26,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### 納粹黨代會檔案中心 Documentation Center Nazi Party
 
-![納粹黨代會檔案中心外觀](images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpeg.jpg)
+![納粹黨代會檔案中心外觀](images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpg)
 
-![Documentation Center 臨時展](images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpeg.jpg)
+![Documentation Center 臨時展](images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpg)
 
-![紐倫堡納粹歷史博物館](images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpeg.jpg)
+![紐倫堡納粹歷史博物館](images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpg)
 
 *納粹黨代會檔案中心*
 
@@ -46,11 +46,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### 紐倫堡動物園
 
-![紐倫堡動物園超大爆米花](images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpeg.jpg)
+![紐倫堡動物園超大爆米花](images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpg)
 
-![歐洲最大動物園之一](images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpeg.jpg)
+![歐洲最大動物園之一](images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpg)
 
-![德國劳動節動物園體驗](images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpeg.jpg)
+![德國劳動節動物園體驗](images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpg)
 
 *爆米花真心超大包，透完之後還剩 3/4 包*
 
@@ -64,11 +64,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### 紐倫堡審判紀念館 Memoriam Nuremberg Trials
 
-![紐倫堡審判紀念館歷史意義](images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpeg.jpg)
+![紐倫堡審判紀念館歷史意義](images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpg)
 
-![Memoriam Nuremberg Trials](images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpeg.jpg)
+![Memoriam Nuremberg Trials](images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpg)
 
-![二戰戰犯法庭審判](images/medium-1*XKd20tYk57ftqXcq0TclKw.jpeg.jpg)
+![二戰戰犯法庭審判](images/medium-1*XKd20tYk57ftqXcq0TclKw.jpg)
 
 *紐倫堡審判紀念館*
 
@@ -78,11 +78,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 ### Restaurant Burgwächter 晚餐
 
-![Restaurant Burgwächter 烤豬肩](images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpeg.jpg)
+![Restaurant Burgwächter 烤豬肩](images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpg)
 
-![巴伐利亞傳統紅啤酒](images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpeg.jpg)
+![巴伐利亞傳統紅啤酒](images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpg)
 
-![德國脈皮豬肉料理](images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpeg.jpg)
+![德國脈皮豬肉料理](images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpg)
 
 *Restaurant Burgwächter 晩餐*
 
@@ -94,8 +94,8 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 我這幾天在德國餐廳吃飯的感想就是，這些道地德式料理都沒有特別好吃，價位還不低(我真心覺得雪梨 The rocks 的德國豬腳餐廳 [Munich Brauhaus Sydney](https://search.app.goo.gl/JT3DEHH) 還比較好吃XDD)。除了體驗道地德國食物之外，我會建議大家不如吃 kebab 餐廳/餐車/小店，或是火車站裏面的麵包店跟餐廳，都更便宜且美味 (而且其實土耳其食物 doner 已經成為德國人生活的一部分了)。
 
-![德國麵包店精緻烘焙](images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpeg.jpg)
+![德國麵包店精緻烘焙](images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg)
 
-*![德式土耳其 Doner 料理](images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpeg.jpg)德國的麵包店跟土耳其食物真的很好吃*
+*![德式土耳其 Doner 料理](images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpg)德國的麵包店跟土耳其食物真的很好吃*
 
 {{< footer >}}

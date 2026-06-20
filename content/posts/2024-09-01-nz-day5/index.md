@@ -2,8 +2,8 @@
 title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程"
 date: 2024-09-01
 slug: "2024-09-01-nz-day5"
-image: "images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg"
-images: ['images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg', 'images/medium-1*TzNByHydsdUIifAgZOzl9A.jpeg.jpg', 'images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpeg.jpg', 'images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpeg.jpg', 'images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpeg.jpg', 'images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpeg.jpg', 'images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpeg.jpg', 'images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpeg.jpg', 'images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpeg.jpg', 'images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpeg.jpg', 'images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpeg.jpg', 'images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpeg.jpg', 'images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpeg.jpg', 'images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpeg.jpg', 'images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpeg.jpg', 'images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpeg.jpg', 'images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpeg.jpg', 'images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpeg.jpg', 'images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpeg.jpg', 'images/medium-1*VaESvSGforp84FHtAq6GRQ.jpeg.jpg', 'images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpeg.jpg', 'images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpeg.jpg']
+image: "images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpg"
+images: ['images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpg', 'images/medium-1*TzNByHydsdUIifAgZOzl9A.jpg', 'images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg', 'images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg', 'images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpg', 'images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpg', 'images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg', 'images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg', 'images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg', 'images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpg', 'images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpg', 'images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg', 'images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpg', 'images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpg', 'images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpg', 'images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpg', 'images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpg', 'images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpg', 'images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpg', 'images/medium-1*VaESvSGforp84FHtAq6GRQ.jpg', 'images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpg', 'images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","自駕","滑雪","紐西蘭"]
 ---
@@ -12,65 +12,65 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 
 ### 兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程
 
-![Taupo 湖畔早餐美景](images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpeg.jpg)
+![Taupo 湖畔早餐美景](images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpg)
 
 離開 Taupo 之前，我們特地來這個紐西蘭北島第一大湖的湖畔吃早餐，一補昨天抵達時下雨的遺憾。天晴時還可以遠眺雪山喔🏔️～非常美
 
 ### 火山口地熱公園 Craters of the Moon
 
-![紐西蘭月球坑地熱公園](images/medium-1*TzNByHydsdUIifAgZOzl9A.jpeg.jpg)
+![紐西蘭月球坑地熱公園](images/medium-1*TzNByHydsdUIifAgZOzl9A.jpg)
 
-![Craters of the Moon 冷煙地表](images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpeg.jpg)
+![Craters of the Moon 冷煙地表](images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg)
 
-![地熋公園火山口奇觀](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpeg.jpg)
+![地熋公園火山口奇觀](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg)
 
 第一站是火山口地熱公園，我把它稱為紐西蘭的月世界。看到一片綠油油卻冒煙的地表真的好妙😆
 
 ### Wairakei Terrace & Thermal Health Spa
 
-![Wairakei 地熱溫泉 SPA](images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpeg.jpg)
+![Wairakei 地熱溫泉 SPA](images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpg)
 
-*![紐西蘭溫泉療癒體驗](images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpeg.jpg)*
+*![紐西蘭溫泉療癒體驗](images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpg)*
 
 接著我們就去泡了溫泉 spa，總共有四個池可以泡，一個人入場費才$27紐幣，覺得好超值！而且我們是平日去的，人潮不多，超級享受！一解前幾天滑雪的痠痛😊
 
 接著我們就驅車前往下一個城市Rotorua! 非常幸運剛好碰到他們每週四一次的夜市！吃了超多亞洲街頭小吃，非常開心😋
 
-![Rotorua 夜市亞洲街頭小吃](images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpeg.jpg)
+![Rotorua 夜市亞洲街頭小吃](images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg)
 
-![紛西蘇蘭夜市美食攙位](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpeg.jpg)
+![紛西蘇蘭夜市美食攙位](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg)
 
-![夜市多元文化美食](images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpeg.jpg)
+![夜市多元文化美食](images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg)
 
 *夜市小吃*
 
 不得不說我們這趟去紐西蘭真的覺得紐西蘭人口好少，走在路上或是商店裡都沒有人（紐西蘭國土是台灣七倍，但人口只有七百萬)。感覺經濟活動有相對蕭條，難怪很多紐西蘭人都跑來澳洲工作🤣
 
-![Rotorua 湖畔悠閒散步](images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpeg.jpg)
+![Rotorua 湖畔悠閒散步](images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpg)
 
-![Rotorua 湖邊公園風景](images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpeg.jpg)
+![Rotorua 湖邊公園風景](images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpg)
 
-![Rotorua 大湖壯麗景色](images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpeg.jpg)
+![Rotorua 大湖壯麗景色](images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg)
 
 *Rotorua 也有一個會大的湖～*
 
 ### Ciabatta Bakery
 
-![Ciabatta Bakery 美味椒鹽捲餅](images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpeg.jpg)
+![Ciabatta Bakery 美味椒鹽捲餅](images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpg)
 
-*![紐西蘭早餐麵包店](images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpeg.jpg)*
+*![紐西蘭早餐麵包店](images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpg)*
 
-![Rotorua 特色甜甜圈](images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpeg.jpg)
+![Rotorua 特色甜甜圈](images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpg)
 
-*![麵包店豐盛早餐](images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpeg.jpg)*
+*![麵包店豐盛早餐](images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpg)*
 
 隔天早上去吃了我昨天隨手一查的 Ciabatta Bakery，他家的pretzels簡直驚人得好吃，好吃到我們吃完之後欲罷不能，又跑去加點甜甜圈🍩，結果甜甜圈很普通🤣
 
 ### Skyline 溜溜車
 
-![Rotorua Skyline 溜溜車體驗](images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpeg.jpg)
+![Rotorua Skyline 溜溜車體驗](images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpg)
 
-*![Skyline 溜索冒險活動](images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpeg.jpg)Skyline*
+*![Skyline 溜索冒險活動](images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpg)Skyline*
 
 接著跑去 Skyline，本來還在糾結溜溜車要玩幾次，後來心一橫想說來都來了，那就玩好玩滿，於是買了五次溜溜車加一次溜索的終極套裝行程😆
 
@@ -78,9 +78,9 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 
 ### Redwood 紅木森林健行
 
-![](images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpeg.jpg)
+![](images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpg)
 
-*![](images/medium-1*VaESvSGforp84FHtAq6GRQ.jpeg.jpg)Redwood*
+*![](images/medium-1*VaESvSGforp84FHtAq6GRQ.jpg)Redwood*
 
 結束 Skyline 的行程，我們前往 Redwood 紅木森林健行。真的是滿漂亮的，但路線設計有點莫名奇妙，感覺就是為了達到想要達到的長度，所以左邊繞一圈，右邊讓一圈🤣
 
@@ -92,8 +92,8 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 
 Until next time 🏔️
 
-![紐西蘭特產巧克力](images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpeg.jpg)
+![紐西蘭特產巧克力](images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpg)
 
-*![Cookie Time 餅乾](images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpeg.jpg)紐西蘭伴手禮*
+*![Cookie Time 餅乾](images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpg)紐西蘭伴手禮*
 
 {{< footer >}}

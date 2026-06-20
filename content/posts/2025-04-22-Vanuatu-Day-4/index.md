@@ -2,19 +2,19 @@
 title: "太平洋小島上的大冒險：2025.04.22 Vanuatu Day 4 接送烏龍、浮潛驚魂，什麼時候才能沒有驚喜？"
 date: 2025-04-22
 slug: "2025-04-22-vanuatu-day-4"
-image: "images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg"
-images: ['images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg', 'images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg', 'images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg', 'images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg', 'images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg', 'images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg', 'images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg', 'images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg', 'images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg']
+image: "images/medium-1*W_lYhpedYzoigHFl_371YA.jpg"
+images: ['images/medium-1*W_lYhpedYzoigHFl_371YA.jpg', 'images/medium-1*-8odrRotWV1DY2-64yUUkw.jpg', 'images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpg', 'images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpg', 'images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpg', 'images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpg', 'images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpg', 'images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpg', 'images/medium-1*1conafcYlghU2c3uBYeixQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
-![萬那杜住宿冷水澡挑戰](images/medium-1*W_lYhpedYzoigHFl_371YA.jpeg.jpg)
+![萬那杜住宿冷水澡挑戰](images/medium-1*W_lYhpedYzoigHFl_371YA.jpg)
 
 有生之年我能不能在 Vanuatu 洗到熱水澡？🤣
 
 ### 萬那杜不意外
 
-![民宿奶奶手作豐盛早餐](images/medium-1*-8odrRotWV1DY2-64yUUkw.jpeg.jpg)
+![民宿奶奶手作豐盛早餐](images/medium-1*-8odrRotWV1DY2-64yUUkw.jpg)
 
 *奶奶自製的超豐盛早餐*
 
@@ -32,13 +32,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 ### Banana beach bay resort
 
-![Banana Bay 度假村海灘](images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpeg.jpg)
+![Banana Bay 度假村海灘](images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpg)
 
-![度假村太平洋海景](images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpeg.jpg)
+![度假村太平洋海景](images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpg)
 
-![Banana Bay 椰林泳池](images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpeg.jpg)
+![Banana Bay 椰林泳池](images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpg)
 
-![度假村室內餐廳](images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpeg.jpg)
+![度假村室內餐廳](images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpg)
 
 *Banana Bay Beach Resort*
 
@@ -56,7 +56,7 @@ Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但�
 
 好險後來又被我的等到短暫放晴，順利浮潛成功！我甚至覺得這裡好像還比 Pele island 漂亮。不過這邊的風浪很強，我中間游到這個小小的開口，結果差點被大浪卷出去外海🤣🤣🤣
 
-![浮潛差點被捲外海驚險](images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpeg.jpg)
+![浮潛差點被捲外海驚險](images/medium-1*a1Br9AxUjG41pSY5tSkstg.jpg)
 
 *差點喪命囧*
 
@@ -64,9 +64,9 @@ Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但�
 
 ### 跟說好的都不一樣
 
-![度假村小屋門口風景](images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpeg.jpg)
+![度假村小屋門口風景](images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpg)
 
-![小屋屋頂裝飾花朵](images/medium-1*1conafcYlghU2c3uBYeixQ.jpeg.jpg)
+![小屋屋頂裝飾花朵](images/medium-1*1conafcYlghU2c3uBYeixQ.jpg)
 
 *我的小屋上有可愛小花*
 

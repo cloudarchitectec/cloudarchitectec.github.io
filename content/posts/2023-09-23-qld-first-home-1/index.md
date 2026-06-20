@@ -3,7 +3,7 @@ title: "澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃�
 date: 2023-09-23
 slug: "2023-09-23-qld-first-home-1"
 image: "images/medium-0*y2wpY7FCgV16jMh5.jpg"
-images: ['images/medium-0*y2wpY7FCgV16jMh5.jpg', 'images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png.jpg']
+images: ['images/medium-0*y2wpY7FCgV16jMh5.jpg', 'images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
 ---
@@ -86,7 +86,7 @@ tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
 
 如果你不確定自己想要買房的區域位於哪一個類別，你也可以使用 [Postcode search tool ](https://www.nhfic.gov.au/support-buy-home/property-price-caps)輸入你想買房的那區的郵遞區號，即可得知你的房價限制。
 
-![澳洲首次置業房價限制查詢](images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png.jpg)
+![澳洲首次置業房價限制查詢](images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png)
 
 **申請辦法**
 

@@ -2,13 +2,13 @@
 title: "一個女生的歐洲獨旅: 2024.05.04 奧地利 薩爾斯堡 (Salzburg) — 音樂神童莫札特的故鄉"
 date: 2024-07-07
 slug: "2024-07-07-salzburg"
-image: "images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpeg.jpg"
-images: ['images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpeg.jpg', 'images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpeg.jpg', 'images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpeg.jpg', 'images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpeg.jpg', 'images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpeg.jpg', 'images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpeg.jpg', 'images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpeg.jpg', 'images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpeg.jpg', 'images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpeg.jpg', 'images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpeg.jpg', 'images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpeg.jpg', 'images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpeg.jpg', 'images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpeg.jpg', 'images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpeg.jpg', 'images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpeg.jpg', 'images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpeg.jpg', 'images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpeg.jpg', 'images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpeg.jpg', 'images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpeg.jpg', 'images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpeg.jpg', 'images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpeg.jpg', 'images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpeg.jpg', 'images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpeg.jpg', 'images/medium-1*rb-zBQbH87RNfabxuS830Q.jpeg.jpg', 'images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpeg.jpg', 'images/medium-0*8KEkPcMzwV1zW23d.png.jpg']
+image: "images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpg"
+images: ['images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpg', 'images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpg', 'images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpg', 'images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpg', 'images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpg', 'images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpg', 'images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpg', 'images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpg', 'images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpg', 'images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpg', 'images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpg', 'images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpg', 'images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpg', 'images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpg', 'images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpg', 'images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpg', 'images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpg', 'images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpg', 'images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpg', 'images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpg', 'images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpg', 'images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpg', 'images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpg', 'images/medium-1*rb-zBQbH87RNfabxuS830Q.jpg', 'images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpg', 'images/medium-0*8KEkPcMzwV1zW23d.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 ---
 
-![薩爾斯堡遊客中心莫札特紀念冊](images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpeg.jpg)
+![薩爾斯堡遊客中心莫札特紀念冊](images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpg)
 
 *薩爾斯堡遊客中心莫札特小冊子*
 
@@ -26,11 +26,11 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### 薩爾斯堡
 
-![奧地利薩爾斯堡火車站外觀](images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpeg.jpg)
+![奧地利薩爾斯堡火車站外觀](images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpg)
 
-![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpeg.jpg)
+![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpg)
 
-![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpeg.jpg)
+![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpg)
 
 *薩爾斯堡火車站與街景*
 
@@ -44,7 +44,7 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 **莫扎特出生地 Mozart Birthplace**
 
-![莫札特出生地粉橘色外觀建築](images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpeg.jpg)
+![莫札特出生地粉橘色外觀建築](images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpg)
 
 *黃色那棟建築就是莫扎特出生地*
 
@@ -54,15 +54,15 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 我覺得這個景點說真的沒有太令人驚豔，但還是可以勉強來參觀一下
 
-![莫札特Q版雕像紀念品](images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpeg.jpg)
+![莫札特Q版雕像紀念品](images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpg)
 
-![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpeg.jpg)
+![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpg)
 
 *莫札特雕像與壁畫*
 
 **莫扎特故居 Mozart Residence**
 
-![薩爾斯堡莫札特故居博物館外觀](images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpeg.jpg)
+![薩爾斯堡莫札特故居博物館外觀](images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpg)
 
 *莫札特故居*
 
@@ -74,11 +74,11 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 例如莫札特他家附近有一家莫札特咖啡廳，但咖啡廳其實跟莫札特一點關係都沒有，純粹就是老闆買下咖啡廳後，改名成莫札特咖啡廳而已
 
-![薩爾斯堡莫札特主題咖啡廳](images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpeg.jpg)
+![薩爾斯堡莫札特主題咖啡廳](images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpg)
 
-![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpeg.jpg)
+![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpg)
 
-![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpeg.jpg)
+![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpg)
 
 *莫札特咖啡廳*
 
@@ -92,7 +92,7 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 而且這個莫札特巧克力，還有不同的版本，還有人專文分析教你買哪一種才是最正統的：[莫札特巧克力要買哪一種? 哪種莫札特巧克力才是真的? 奧地利必買伴手禮](https://inin.tw/mozartkugel/)
 
-![薩爾斯堡限定正版莫札特巧克力](images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpeg.jpg)
+![薩爾斯堡限定正版莫札特巧克力](images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpg)
 
 *只有在薩爾斯堡才能買到的版本*
 
@@ -108,19 +108,19 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 簡單心得：船長姊姊是個超瘦超正大正妹
 
-![薩爾斯河遊船女船長背影](images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpeg.jpg)
+![薩爾斯河遊船女船長背影](images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpg)
 
 *船長姊姊的背影XD*
 
 ### Stiegl-Brauwelt 啤酒廠
 
-![奧地利Stiegl啤酒廠葡萄柚啤酒](images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpeg.jpg)
+![奧地利Stiegl啤酒廠葡萄柚啤酒](images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpg)
 
-*![薩爾斯堡啤酒廠德式午餐](images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpeg.jpg)![德式法蘭克福香腸與麵包](images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpeg.jpg)酒廠午餐*
+*![薩爾斯堡啤酒廠德式午餐](images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpg)![德式法蘭克福香腸與麵包](images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpg)酒廠午餐*
 
-![Stiegl啤酒廠檸檬果味啤酒](images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpeg.jpg)
+![Stiegl啤酒廠檸檬果味啤酒](images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpg)
 
-*![奧地利傳統風味晚餐](images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpeg.jpg)![啤酒廠手工黃芥末醬](images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpeg.jpg)酒廠晚餐*
+*![奧地利傳統風味晚餐](images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpg)![啤酒廠手工黃芥末醬](images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpg)酒廠晚餐*
 
 薩爾斯堡有個奧地利本土啤酒廠 Stiegl-Brauwelt 可以參觀（門票一樣是包在薩爾斯堡卡裡)，但我因為時間來不及所以沒辦法參觀他們的啤酒博物館。不過我的午餐跟晚餐都是在這裡吃的，我的媽啊！他們葡萄柚啤酒超級驚豔，檸檬啤酒也不錯！不知道澳洲能不能買到？
 
@@ -128,9 +128,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### 薩爾斯堡要塞&要塞纜車Festung Hohensalzburg
 
-![薩爾斯堡要塞俯瞰城市全景](images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpeg.jpg)
+![薩爾斯堡要塞俯瞰城市全景](images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpg)
 
-*![要塞山頂眺望阿爾卑斯山景](images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpeg.jpg)薩爾斯堡要塞*
+*![要塞山頂眺望阿爾卑斯山景](images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpg)薩爾斯堡要塞*
 
 門票跟上下纜車票也都包在薩爾斯堡卡裡！我個人建議時間有限的人上下山都直接坐纜車，因為山上超美，可以俯瞰薩爾斯堡的美景，會花很多時間拍風景照跟自拍照。
 
@@ -138,9 +138,9 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### Mönchsberg Elevator
 
-![Mönchsberg電梯觀景台入口](images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpeg.jpg)
+![Mönchsberg電梯觀景台入口](images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpg)
 
-*![現代美術館旁的觀景電梯](images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpeg.jpg)![電梯觀景台俯瞰薩爾斯堡](images/medium-1*rb-zBQbH87RNfabxuS830Q.jpeg.jpg)Mönchsberg Elevator*
+*![現代美術館旁的觀景電梯](images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpg)![電梯觀景台俯瞰薩爾斯堡](images/medium-1*rb-zBQbH87RNfabxuS830Q.jpg)Mönchsberg Elevator*
 
 最後一個景點是 Mönchsberg Elevator，這是位於現代美術館旁邊的電梯，搭上去之後有個觀景平台，我個人覺得很適合黃昏時去，如果可以待到晚上的話聽說夜景很棒！
 
@@ -152,7 +152,7 @@ tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
 
 ### 旅行紀念品
 
-![薩爾斯堡插畫風格城市明信片](images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpeg.jpg)
+![薩爾斯堡插畫風格城市明信片](images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpg)
 
 *超可愛的薩爾斯堡明信片*
 

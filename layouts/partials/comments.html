@@ -1,22 +1,47 @@
 {{- if (ne (.Param "comments") false) }}
-<hr style="margin:1.5rem 0;">
-<p style="font-size:0.85em;color:var(--secondary);margin-bottom:0.75rem;padding:0.35rem 0.75rem;border-left:3px solid var(--border);background:var(--entry);border-radius:0 4px 4px 0;">💬 使用暱稱即可留言；填寫 Email 可收到回覆通知。</p>
-<div id="remark42"></div>
-<script>
-  var remark_config = {
-    host: "https://comments.cloudarchitectec.com",
-    site_id: "cloudarchitectec",
-    locale: "zh-tw",
-    components: ["embed"],
-    no_footer: true,
-  };
-  (function(c) {
-    for (var i = 0; i < c.length; i++) {
-      var d = document, s = d.createElement("script");
-      s.src = remark_config.host + "/web/" + c[i] + ".js";
-      s.defer = true;
-      d.head.appendChild(s);
-    }
-  })(remark_config.components || ["embed"]);
+<div class="comments-section">
+  <p class="comments-hint">快來分享你的想法吧～</p>
+  <div id="waline"></div>
+</div>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+<style>
+  #waline a.wl-action[href*="mastering-markdown"] {
+    display: none !important;
+  }
+  #waline button.wl-action[title="預覽"],
+  #waline label.wl-action[for="wl-image-upload"],
+  #waline input#wl-image-upload {
+    display: none !important;
+  }
+  #waline .wl-panel > .wl-preview {
+    display: none !important;
+  }
+</style>
+<script type="module">
+  import { init } from "https://unpkg.com/@waline/client@v3/dist/waline.js";
+
+  init({
+    el: "#waline",
+    serverURL: "https://comments.cloudarchitectec.com",
+    lang: "zh-TW",
+    locale: {
+      placeholder: "寫下你的想法吧！",
+      sofa: "還沒有留言，快來搶沙發！",
+      submit: "送出",
+      nick: "暱稱",
+      mail: "Email",
+      optional: "選填",
+      latest: "最新留言",
+      oldest: "最舊留言",
+      hottest: "熱門留言",
+      comment: "則留言",
+    },
+    meta: ["nick", "mail"],
+    requiredMeta: ["nick"],
+    login: "disable",
+    search: false,
+    copyright: false,
+    pageview: false,
+  });
 </script>
 {{- end }}

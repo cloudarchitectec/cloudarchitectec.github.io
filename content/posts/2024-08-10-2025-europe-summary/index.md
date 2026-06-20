@@ -2,13 +2,13 @@
 title: "一個女生的歐洲獨旅: 荷德瑞奧 17 天自助總花費以及心得"
 date: 2024-08-10
 slug: "2024-08-10-2025-europe-summary"
-image: "images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg"
-images: ['images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg', 'images/medium-1*VSBL1Ga01lA0h_ugMTmCvA.png.jpg', 'images/medium-1*737C75lS7B1NQxbjQqlVQw.jpeg.jpg', 'images/medium-0*6QLsmelpga0ynQ4B.png.jpg']
+image: "images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpg"
+images: ['images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpg', 'images/medium-1*VSBL1Ga01lA0h_ugMTmCvA.png', 'images/medium-1*737C75lS7B1NQxbjQqlVQw.jpg', 'images/medium-0*6QLsmelpga0ynQ4B.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "荷蘭", "德國", "瑞士", "奧地利"]
 ---
 
-![歐洲獨旅回程國泰航空機艙](images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpeg.jpg) 回程的國泰航班
+![歐洲獨旅回程國泰航空機艙](images/medium-1*pMJSHzZJX9thwjQS9n7lkQ.jpg) 回程的國泰航班
 
 17 天歐洲之旅的遊記就這樣結束啦！
 
@@ -30,13 +30,13 @@ tags: ["獨旅","旅遊", "歐洲", "荷蘭", "德國", "瑞士", "奧地利"]
 
 ### 花費
 
-![歐洲17天自助旅行費用分析圖表](images/medium-1*VSBL1Ga01lA0h_ugMTmCvA.png.jpg)
+![歐洲17天自助旅行費用分析圖表](images/medium-1*VSBL1Ga01lA0h_ugMTmCvA.png)
 
 *旅費分析*
 
 這趟旅行共花費 $6632 澳幣(約14萬台幣)，其中機票 $1920 澳幣 (澳洲布里斯本出發，去程飛荷蘭阿姆斯特丹，由瑞士蘇黎世機場返回) 跟住宿 $2039 澳幣各占1/3，景點門票跟交通各占10%、吃喝占16%。個人消費包含紀念品跟禮物也才花了$112出頭，其實真的是滿厲害的。
 
-![歐洲獨旅紀念品伴手禮收藏](images/medium-1*737C75lS7B1NQxbjQqlVQw.jpeg.jpg)
+![歐洲獨旅紀念品伴手禮收藏](images/medium-1*737C75lS7B1NQxbjQqlVQw.jpg)
 
 *整趟旅行的紀念品，包含伴手禮*
 

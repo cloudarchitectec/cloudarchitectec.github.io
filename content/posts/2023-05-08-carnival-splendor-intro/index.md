@@ -2,15 +2,15 @@
 title: "Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)"
 date: 2023-05-08
 slug: "2023-05-08-carnival-splendor-intro"
-image: "images/medium-1*HavaLtcputghs8Qb_HQGIg.png.jpg"
-images: ['images/medium-1*HavaLtcputghs8Qb_HQGIg.png.jpg', 'images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png.jpg']
+image: "images/medium-1*HavaLtcputghs8Qb_HQGIg.png"
+images: ['images/medium-1*HavaLtcputghs8Qb_HQGIg.png', 'images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "郵輪"]
 ---
 
 ### **Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)**
 
-![Carnival South Pacific Cruise](images/medium-1*HavaLtcputghs8Qb_HQGIg.png.jpg)
+![Carnival South Pacific Cruise](images/medium-1*HavaLtcputghs8Qb_HQGIg.png)
 
 * * *
 
@@ -39,7 +39,7 @@ tags: ["旅遊", "郵輪"]
   * 注意這裡的海外旅遊保險有其相關規定: 澳洲醫保卡(medicare)或是信用卡公司附的保險，都是不符合規定的! 一定要買特定的郵輪旅遊險，包含以下關鍵字 ‘multi-night cruise’ 跟 ‘Covid’ 才可以，大概一個人的保險費會在 $150–200 澳幣之間(視年紀跟健康狀況保費會略有不同)。
   * 我個人買的是網友推薦的[ Qantas 的 South Pacific 保險](https://insurance.qantas.com/travel-insurance?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF11YPIV4aCyM_0p5EbnWG6QNxEE13DjY4vIBzXedN8qPvC1Morl8T4aAl6vEALw_wcB&gclsrc=aw.ds)，而且買保險的時候記得要把 Vanuatu 跟 New Caledonia 這兩個國家加進去(如下圖黃色標誌)。我2023.4月買的保費是一人$103，算是比較便宜，但是保險範圍比較廣的郵輪保險。
 
-![澳洲郵輪旅遊保險選擇畫面](images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png.jpg)
+![澳洲郵輪旅遊保險選擇畫面](images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png)
 
 **3\. 行李規定**
 

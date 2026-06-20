@@ -42,7 +42,7 @@ All notable changes to this project will be documented in this file.
 **2026.06.20**
 - Added custom domain
 - Added buy EC a coffee
-- Implemented Remark42 comments
+- Migrated comments from Remark42 to Waline (zh-TW UI)
 - Update action references
 
 **2026.05.17**

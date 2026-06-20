@@ -3,7 +3,7 @@ title: "從非移民專業到澳洲PR：我如何靠研究政府法規，創造�
 date: 2023-11-10
 slug: "2023-11-10-how-i-become-pr"
 image: "images/medium-0*1xfcDaGhCc5nGsk1.jpg"
-images: ['images/medium-0*1xfcDaGhCc5nGsk1.jpg', 'images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpeg.jpg', 'images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png.jpg', 'images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png.jpg']
+images: ['images/medium-0*1xfcDaGhCc5nGsk1.jpg', 'images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpg', 'images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png', 'images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png']
 categories: ["澳洲生活"]
 tags: ["澳洲移民","澳洲簽證"]
 ---
@@ -28,7 +28,7 @@ tags: ["澳洲移民","澳洲簽證"]
 
 我至今仍然覺得這是個非常棒的決定，我走過澳洲各大城市，住過的地方遠比我大多數澳洲朋友多，也認識了非常多非常棒的人，然後經歷了各式奇妙體驗，至今仍然讓我回味不已！
 
-![澳洲邦代海灘悉尼生活](images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpeg.jpg)
+![澳洲邦代海灘悉尼生活](images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpg)
 
 *Bondi Beach — NSW*
 
@@ -82,7 +82,7 @@ tags: ["澳洲移民","澳洲簽證"]
 
 當時的我沒有想太多，只覺得既然符合了規定，我就先來申請看看吧 (申請的那天是 2015.09.18)！雖然這是一個列在公開網站上的資訊，但我當時諮詢過的所有移民仲介中，完全沒有人提到這件事，甚至是我自己打工的移民仲介的老闆跟同事也都不知道這件事。可能是因為他們覺得機率太低了，又或是他們不會像我這麼無聊把網站上的每個規定都細細讀過一遍?XD
 
-![澳洲新州190簽證EOI申請](images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png.jpg)
+![澳洲新州190簽證EOI申請](images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png)
 
 *當年的 NSW 190 Nomination EOI 申請紀錄 (我的分數真的很低，加上州擔保的 5 分之後也才 65)*
 
@@ -96,7 +96,7 @@ tags: ["澳洲移民","澳洲簽證"]
 
 最後就在 2016.04.01 當天，我收到了澳洲永久居留權。沒錯，你沒看錯，就是愚人節當天！當下我真的覺得很幽默XDDD
 
-![澳洲永居簽證獲批信件](images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png.jpg)
+![澳洲永居簽證獲批信件](images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png)
 
 *澳洲永居下簽信*
 

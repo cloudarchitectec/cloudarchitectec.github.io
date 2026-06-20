@@ -2,15 +2,15 @@
 title: "微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得"
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-exam"
-image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg"
-images: ['images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg']
+image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png"
+images: ['images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png']
 categories: ["海外職場"]
 tags: ["雲端證照"]
 ---
 
 ### 微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得
 
-![Microsoft AZ-104 Azure Administrator Associate 證照徽章](images/medium-1*wsOHIUJhyLsNwTMM3VnvsA.png.jpg)
+![Microsoft AZ-104 Azure Administrator Associate 證照徽章](images/medium-1*wsOHIUJhyLsNwTMM3VnvsA.png)
 
 *AZ-104 Azure Administrator Associate Badge*
 
@@ -47,7 +47,7 @@ Azure 考試結束後，考生可以針對「每一題」考試題目提出回�
   * 最難考的雲證照: AWS Solution Architect Associate, AWS Solution Architect Professional, Azure Administrator Associate
   * 最簡單的雲證照: AWS Cloud Practitioner, AWS Developer Associate, AWS System Admin Associate
 
-![EC 個人雲端證照統計圖表](images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png.jpg)
+![EC 個人雲端證照統計圖表](images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png)
 
 *個人雲端證照統計*
 
