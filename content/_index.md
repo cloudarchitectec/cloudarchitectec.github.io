@@ -3,15 +3,14 @@ title: "澳洲雲端架構師 EC"
 ---
 # 澳洲雲端架構師 EC
 
-旅澳多年的台灣女生，從打工度假到移民澳洲、從文組成功轉職科技業。
+旅澳多年的台灣女生，從打工度假、留學生到成為澳洲公民。
 
 曾任 Amazon (AWS) 與微軟雲端架構師，現為資深 DevOps 工程師。
 
-致力於分享海外求職、轉職工程師的系統性攻略與實戰經驗。
+致力於分享文組轉職工程師、澳洲職場、FIRE 理財規劃的系統性攻略。
 
 <!-- 如果你也在思考職涯方向，歡迎預約專屬於你的職涯諮詢：[<<雲端架構師 EC 職涯諮詢>>](/posts/2018-01-03-ec-consultation/) -->
 
-📩 信箱：<a href="mailto:cloudarchitectec@gmail.com">cloudarchitectec@gmail.com</a>
 {{< analytics-stats >}}
 
 # 文章列表

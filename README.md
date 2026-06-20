@@ -39,6 +39,12 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+**2026.06.20**
+- Added custom domain
+- Added buy EC a coffee
+- Implemented Remark42 comments
+- Update action references
+
 **2026.05.17**
 - Improved search functionality — fixed duplicate results caused by language settings
 - Improved converter script to resolve Unsplash image download issue
@@ -46,7 +52,7 @@ All notable changes to this project will be documented in this file.
 
 **2025.10.19**
 - Improved Google Analytics implementation
-- Commented out broken image generation code in `python/script/automated_blog_converter.py`
+- Commented out broken image generation code in `tools/blog-converter/automated_blog_converter.py`
 - Added share buttons for Facebook, Threads, Email, and Copy Link
 
 **2025.10.12**
