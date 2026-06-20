@@ -52,7 +52,7 @@ jobs:
           tar -xzf dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz
           echo "${{ runner.temp }}/dart-sass/dart-sass:$PATH" >> $GITHUB_PATH
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: recursive
           fetch-depth: 0
@@ -84,7 +84,7 @@ jobs:
           [ -f "themes/${THEME_NAME}/layouts/_default/baseof.html" ] && echo "✅ baseof.html found" || echo "❌ baseof.html missing"
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
       - name: Verify theme installation
         run: |
           echo "=== THEME VERIFICATION ==="
@@ -155,7 +155,7 @@ jobs:
             || echo "⚠️  Remark42 embed not found — check comments = true in hugo.toml"
           echo "=== CHECKS DONE ==="
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
@@ -169,4 +169,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

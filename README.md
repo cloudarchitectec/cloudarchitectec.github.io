@@ -39,9 +39,11 @@ All notable changes to this project will be documented in this file.
 
 ---
 
-**2026.06.18**
+**2026.06.20**
 - Added custom domain
 - Added buy EC a coffee
+- Implemented Remark42 comments
+- Update action references
 
 **2026.05.17**
 - Improved search functionality — fixed duplicate results caused by language settings
