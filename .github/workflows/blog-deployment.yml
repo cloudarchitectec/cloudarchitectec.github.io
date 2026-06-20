@@ -150,12 +150,18 @@ jobs:
           if command -v xmllint &>/dev/null; then
             xmllint --noout public/index.xml && echo "✅ RSS valid" || (echo "❌ RSS invalid" && exit 1)
           fi
+          grep -rl "@waline/client" public/posts/*/index.html | head -1 | grep -q . \
+            && echo "✅ Waline embed present in posts" \
+            || (echo "❌ Waline embed not found — check comments = true in hugo.toml" && exit 1)
           grep -rl "comments.cloudarchitectec.com" public/posts/*/index.html | head -1 | grep -q . \
-            && echo "✅ Remark42 embed present in posts" \
-            || echo "⚠️  Remark42 embed not found — check comments = true in hugo.toml"
+            && echo "✅ Comment server URL present in posts" \
+            || (echo "❌ Comment server URL not found" && exit 1)
+          grep -rl "zh-TW" public/posts/*/index.html | head -1 | grep -q . \
+            && echo "✅ Waline zh-TW locale present in posts" \
+            || (echo "❌ Waline zh-TW locale not found" && exit 1)
           echo "=== CHECKS DONE ==="
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: ./public
 
