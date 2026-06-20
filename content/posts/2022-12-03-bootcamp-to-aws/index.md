@@ -2,13 +2,13 @@
 title: "文組轉職澳洲 IT 工程師，我靠 Coding Bootcamp 進了 Amazon 當工程師！"
 date: 2022-12-03
 slug: "2022-12-03-bootcamp-to-aws"
-image: "images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg"
-images: ['images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg']
+image: "images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpg"
+images: ['images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpg']
 categories: ["海外職場"]
 tags: ["轉職工程師", "海外職場", "科技業"]
 ---
 
-![筆記本與筆電](images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpeg.jpg)planning photo @[Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters)
+![筆記本與筆電](images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpg)planning photo @[Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters)
 
 ### **轉職背景**
 

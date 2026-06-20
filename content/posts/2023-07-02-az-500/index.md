@@ -18,7 +18,7 @@ tags: ["雲端證照"]
 
 ### 前言
 
-![AZ-500資安證照考試成績單](images/medium-1*JDM25uySjROCzXf6MNv1og.png.jpg)
+![AZ-500資安證照考試成績單](images/medium-1*JDM25uySjROCzXf6MNv1og.png)
 
 *成績單*
 
@@ -26,7 +26,7 @@ tags: ["雲端證照"]
 
 擁有豐富考證歷史的我，已經非常了解對我自己最有效的證照學習方式：我喜歡從教學影片入門、快速建立概念，再搭配大量練習題測試吸收程度、針對弱點加強。
 
-![AWS與Azure雲端證照考試歷程](images/medium-1*AsafZNOn3JAvxl3wS05oPw.png.jpg)
+![AWS與Azure雲端證照考試歷程](images/medium-1*AsafZNOn3JAvxl3wS05oPw.png)
 
 *我的 AWS 和 Microsoft Azure 雲端證照考試歷史*
 

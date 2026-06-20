@@ -3,7 +3,7 @@ title: "Software Engineer、Cloud Engineer、DevOps Engineer 熱門職位技能�
 date: 2023-09-01
 slug: "2023-09-01-cloud-roles"
 image: "images/medium-0*-brIU6Z7a6AQFe6B.jpg"
-images: ['images/medium-0*-brIU6Z7a6AQFe6B.jpg', 'images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png.jpg', 'images/medium-1*uvMwEGVDyxV5k7f3r11mrg.png.jpg', 'images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png.jpg', 'images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png.jpg', 'images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png.jpg']
+images: ['images/medium-0*-brIU6Z7a6AQFe6B.jpg', 'images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png', 'images/medium-1*uvMwEGVDyxV5k7f3r11mrg.png', 'images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png', 'images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png', 'images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png']
 categories: ["海外職場"]
 tags: ["雲端架構師"]
 ---
@@ -54,7 +54,7 @@ tags: ["雲端架構師"]
 
 如果我們用 vanilla JavaScript 舉例，左邊的程式碼會生成一個按鈕，按下去後會出現 HelloWorld 這個字。
 
-![](images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png.jpg)
+![](images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png)
 
 *JavaScript Code from W3School*
 
@@ -76,13 +76,13 @@ AWS 跟微軟也有自己的 consulting department，例如我之前工作的 AW
 
 所以一個雲端顧問/雲端工程師會寫的程式碼如下。這是用 CloudFormation in YAML 寫出來的程式碼，目的是在 AWS 上面部署一個有 public IP 的 EC2 instance，完整說明可以參考[官方文件](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html)。
 
-![](images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png.jpg)
+![](images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png)
 
 *EC2 in yaml from AWS*
 
 如果我們舉一個比較複雜的例子，假設我們要在 AWS 上部署一個 Wordpress 網站跟一個 MySQL DB 作為資料庫，那我們的程式碼就會像圖片裡那樣。完整的程式碼來自 [AWS 網站](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-ap-southeast-2.html)的[這個連結](https://s3.ap-southeast-2.amazonaws.com/cloudformation-templates-ap-southeast-2/WordPress_Single_Instance.template)。
 
-![](images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png.jpg)
+![](images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png)
 
 *CloudFormation template from AWS*
 
@@ -105,7 +105,7 @@ DevOps 工程師的技能樹有：
 
 讓我們以 Azure DevOps Pipeline 的程式碼為例，完整程式碼可以參考[微軟網站](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)。
 
-![](images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png.jpg)
+![](images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png)
 
 *Azure DevOps Pipeline tempalte from Microsoft*
 

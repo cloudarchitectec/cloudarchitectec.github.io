@@ -2,13 +2,13 @@
 title: "太平洋小島上的大冒險：2025.04.19 Vanuatu Day 1 一個女生勇闖萬那杜"
 date: 2025-04-19
 slug: "2025-04-19-vanuatu-day-1"
-image: "images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg"
-images: ['images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg', 'images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpeg.jpg', 'images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpeg.jpg', 'images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg', 'images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpeg.jpg', 'images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpeg.jpg', 'images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpeg.jpg', 'images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg']
+image: "images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpg"
+images: ['images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpg', 'images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpg', 'images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpg', 'images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpg', 'images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpg', 'images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpg', 'images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpg', 'images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
-![萬那杜機場入境初印象](images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpeg.jpg)
+![萬那杜機場入境初印象](images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpg)
 
 ### 前言
 
@@ -26,7 +26,7 @@ Vanuatu 是一個海島國家，由 80 幾個小島組成。離澳洲非常近�
 
 ### 遊記
 
-![Virgin Australia 復活節巧克力](images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpeg.jpg)
+![Virgin Australia 復活節巧克力](images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpg)
 
 這次去萬那杜做的是 Virgin Australia，雖然飛機上不供餐，但因為是復活節，所以空姐發了小兔子巧克力給大家。
 
@@ -34,15 +34,15 @@ Vanuatu 是一個海島國家，由 80 幾個小島組成。離澳洲非常近�
 
 然後我發現廣告上居然有我是先上網預約的租車公司的折價券，後來我還真的成功以此獲得折扣了，太有趣了！
 
-![萬那杜入境卡廣告](images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpeg.jpg)
+![萬那杜入境卡廣告](images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpg)
 
-![太平洋島國海關](images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpeg.jpg)
+![太平洋島國海關](images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpg)
 
 一下飛機，頓時又有種回到屏東的感覺。
 
 不知道大家記不記得，我在斐濟遊記裡也提到我覺得他們的山看起來像是屏東的大武山XD
 
-![Port Vila 機場山景](images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpeg.jpg)
+![Port Vila 機場山景](images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpg)
 
 ### 排隊再排隊
 
@@ -54,7 +54,7 @@ Port Vila 的機場不大，一下飛機之後，走幾步路就到了海關。�
 
 只好再度開始排隊買sim card 跟換匯！
 
-![萬那杜機場換匯櫃台](images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpeg.jpg)
+![萬那杜機場換匯櫃台](images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpg)
 
 我必須要說，在我這十幾年的旅行生涯中，我真的很少有帶著大筆澳幣現金出國到當地換匯的經驗，但沒辦法，在這裡基本上刷卡要嘛行不通，要嘛要高額手續費 (3–5%)。
 
@@ -70,9 +70,9 @@ Port Vila 的機場不大，一下飛機之後，走幾步路就到了海關。�
 
 ### 民宿介紹
 
-![Joy 奶奶民宿房間](images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpeg.jpg)
+![Joy 奶奶民宿房間](images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpg)
 
-![萬那杜住宿陽台](images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpeg.jpg)
+![萬那杜住宿陽台](images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpg)
 
 到了民宿之後，主人是個當地人老奶奶 Joy，人感覺非常nice，英文也很好！跟我介紹了一下住宿環境，在這15分鐘之內，我立刻被蚊子叮兩個包囧
 

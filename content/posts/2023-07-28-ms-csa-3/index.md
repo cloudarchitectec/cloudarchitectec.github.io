@@ -3,7 +3,7 @@ title: "微軟雲端架構師 (Solution Architect) 職位解析 3：Technical Gu
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-3"
 image: "images/medium-0*qzQRQkRstSx0mfxj.jpg"
-images: ['images/medium-0*qzQRQkRstSx0mfxj.jpg', 'images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png.jpg', 'images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png.jpg', 'images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png.jpg']
+images: ['images/medium-0*qzQRQkRstSx0mfxj.jpg', 'images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png', 'images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png', 'images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
 ---
@@ -65,7 +65,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
 第一種解決方案非常直接明瞭就叫 DSC 哈哈！但要跟 Azure Automation Account 一起合併使用才可以，這個解決方案在官方文件跟 YouTube 上都有一些相關影片，我自己也簡單在 Azure Portal 上做了一個 demo。
 
-![Azure Automation DSC 配置介面](images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png.jpg)
+![Azure Automation DSC 配置介面](images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png)
 
 *DSC demo in Azure portal*
 
@@ -75,7 +75,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
   * **官方文件** : [About Azure Automanage Machine Best Practices | Microsoft Learn](https://learn.microsoft.com/en-us/azure/automanage/overview-about)
 
-![Azure策略客體分配配置界面](images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png.jpg)
+![Azure策略客體分配配置界面](images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png)
 
 *Azure documenetation: newer version of DSC*
 
@@ -96,7 +96,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
 Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然後成功在我自己的 Azure Portal 上做了一個 demo。
 
-![Azure自動管理服務介面演示](images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png.jpg)
+![Azure自動管理服務介面演示](images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png)
 
 *Automanage demo in Azure portal*
 

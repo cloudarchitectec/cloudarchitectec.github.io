@@ -2,8 +2,8 @@
 title: "一個女生的歐洲獨旅: 2024.04.29 德國 法蘭克福 (Frankfurt) Day 2 — 不來也沒關係的城市"
 date: 2024-06-06
 slug: "2024-06-06-frankfurt-day-2"
-image: "images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpeg.jpg"
-images: ['images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpeg.jpg', 'images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpeg.jpg', 'images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpeg.jpg', 'images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpeg.jpg', 'images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpeg.jpg', 'images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpeg.jpg', 'images/medium-1*JueQdVN97WE9XSCXPakwkA.jpeg.jpg', 'images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpeg.jpg', 'images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpeg.jpg', 'images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpeg.jpg', 'images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpeg.jpg', 'images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpeg.jpg', 'images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpeg.jpg', 'images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpeg.jpg', 'images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpeg.jpg', 'images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpeg.jpg', 'images/medium-1*ELy7knYb5OLxKAPt3Ie-nw.jpeg.jpg', 'images/medium-1*9NMq9XZuQy2aYj41HEIjrA.jpeg.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png.jpg']
+image: "images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpg"
+images: ['images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpg', 'images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpg', 'images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpg', 'images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpg', 'images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpg', 'images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpg', 'images/medium-1*JueQdVN97WE9XSCXPakwkA.jpg', 'images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpg', 'images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpg', 'images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpg', 'images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpg', 'images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpg', 'images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpg', 'images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpg', 'images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpg', 'images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpg', 'images/medium-1*ELy7knYb5OLxKAPt3Ie-nw.jpg', 'images/medium-1*9NMq9XZuQy2aYj41HEIjrA.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "德國"]
 ---
@@ -16,7 +16,7 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 今天早上先走去跟歐元塔合照，這是一個單純的拍照景點，附近其實沒什麼好逛的，但是拍起來真的也是滿好看的XD
 
-![法蘭克福歐元塔地標建築](images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpeg.jpg)
+![法蘭克福歐元塔地標建築](images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpg)
 
 *歐元塔*
 
@@ -30,11 +30,11 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 這家咖啡廳很微妙，牆上有不少藝術品，但後面又放了很多要出售的電器（冰箱洗衣機等等），整體而言環境很舒服，是個讓人放鬆的咖啡廳，我還是滿推薦的～
 
-![WHY Coffee 文青咖啡廳](images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpeg.jpg)
+![WHY Coffee 文青咖啡廳](images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpg)
 
-![法蘭克福精品咖啡店](images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpeg.jpg)
+![法蘭克福精品咖啡店](images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpg)
 
-![德國特色藝術咖啡館](images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpeg.jpg)
+![德國特色藝術咖啡館](images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpg)
 
 *WHY! Coffee*
 
@@ -44,19 +44,19 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 
 不得不說18世紀的豪宅也是真的很豪（他們家應該是中產階級），四層樓的房子，每層約4個房間。家裏還有廚師跟女僕。而且每個房間都有不同的顏色主題，但又不會太俗氣。果然不管在哪個年代，當有錢人住豪宅都最爽了XDDD
 
-![歌德故居 18 世紀豪宅](images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpeg.jpg)
+![歌德故居 18 世紀豪宅](images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpg)
 
-![Goethe House 古典內裝](images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpeg.jpg)
+![Goethe House 古典內裝](images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpg)
 
-![德國文豪歌德居住空間](images/medium-1*JueQdVN97WE9XSCXPakwkA.jpeg.jpg)
+![德國文豪歌德居住空間](images/medium-1*JueQdVN97WE9XSCXPakwkA.jpg)
 
 *歌德故居*
 
-![歌德故居美麗花園](images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpeg.jpg)
+![歌德故居美麗花園](images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpg)
 
-![Frankfurt 歷史建築庭院](images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpeg.jpg)
+![Frankfurt 歷史建築庭院](images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpg)
 
-![德國文學紀念品店](images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpeg.jpg)
+![德國文學紀念品店](images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpg)
 
 *花園跟紀念品店也很可愛*
 
@@ -74,11 +74,11 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 我真的寧願他們給我薯條、薯泥或是整顆馬鈴薯都好XDD 我後來發現這個東西是德國常見配菜，所以我下一次去餐廳就直接問服務生說我可不可以不要把這個馬鈴薯團團換成麵包
 
-![Paulaner 德國豬腳啤酒](images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpeg.jpg)
+![Paulaner 德國豬腳啤酒](images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpg)
 
-![法蘭克福傳統德式料理](images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpeg.jpg)
+![法蘭克福傳統德式料理](images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpg)
 
-![德國 Knodel 馬鈴薯團](images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpeg.jpg)
+![德國 Knodel 馬鈴薯團](images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpg)
 
 *Paulaner am Dom*
 
@@ -86,11 +86,11 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 接著我走近這家很多人的麵包店，他們的草莓蛋糕超級好吃！因為已經喝過咖啡，所以這次我選了茶。基本上他們會到一杯熱開水給你，然後你可以自選茶包。我本來以為就是一般的茶，沒想到居然是認真的花草茶，而且超級好喝！但我後來去超市沒看到這個茶包，不然我還滿想買一盒的。
 
-![Der Backer Eifler 德式草莓蛋糕](images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpeg.jpg)
+![Der Backer Eifler 德式草莓蛋糕](images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpg)
 
-![法蘭克福傳統麵包店](images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpeg.jpg)
+![法蘭克福傳統麵包店](images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpg)
 
-![德國花草茶下午茶](images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpeg.jpg)
+![德國花草茶下午茶](images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpg)
 
 *Der Backer Eifler*
 
@@ -100,7 +100,7 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 看票價當然是坐長程划算，但我不想花這麼多時間在游船上，所以選的是短程。這裡提醒大家如果你跟我一樣是坐紅線的話，上船請坐右側 (我覺得我每次游船都坐錯邊😂) 整體而言算是個舒適的行程，但是真的也沒有太多景點或特殊的景緻，所以說真的不坐也沒關係XD
 
-![法蘭克福美茵河遊船](images/medium-1*ELy7knYb5OLxKAPt3Ie-nw.jpeg.jpg)
+![法蘭克福美茵河遊船](images/medium-1*ELy7knYb5OLxKAPt3Ie-nw.jpg)
 
 *Main River Cruise*
 
@@ -108,7 +108,7 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 晚餐是我昨天剩下來的Kebab + 麵包，和我帶來的味增湯，太美味了！
 
-![獨旅簡單晚餐組合](images/medium-1*9NMq9XZuQy2aYj41HEIjrA.jpeg.jpg)
+![獨旅簡單晚餐組合](images/medium-1*9NMq9XZuQy2aYj41HEIjrA.jpg)
 
 *晚餐*
 

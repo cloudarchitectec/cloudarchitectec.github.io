@@ -2,13 +2,13 @@
 title: "一個女生的歐洲獨旅: 2024.05.08 瑞士首都伯恩 (Bern) 說走就走之旅"
 date: 2024-07-22
 slug: "2024-07-22-bern"
-image: "images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg"
-images: ['images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg', 'images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpeg.jpg', 'images/medium-1*bgE52bqShgmt9nqamDlgYA.jpeg.jpg', 'images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpeg.jpg', 'images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpeg.jpg', 'images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpeg.jpg', 'images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpeg.jpg', 'images/medium-1*EILbqYqargPjS28k9RcgVQ.jpeg.jpg', 'images/medium-1*gggTRlie6ezAERC6U46peQ.jpeg.jpg', 'images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpeg.jpg', 'images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpeg.jpg', 'images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpeg.jpg', 'images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpeg.jpg', 'images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpeg.jpg', 'images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpeg.jpg', 'images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpeg.jpg', 'images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpeg.jpg', 'images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpeg.jpg', 'images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpeg.jpg', 'images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpeg.jpg', 'images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpeg.jpg', 'images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpeg.jpg', 'images/medium-0*UQyYhVGA_oLdfGDf.png.jpg']
+image: "images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpg"
+images: ['images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpg', 'images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpg', 'images/medium-1*bgE52bqShgmt9nqamDlgYA.jpg', 'images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpg', 'images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpg', 'images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpg', 'images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpg', 'images/medium-1*EILbqYqargPjS28k9RcgVQ.jpg', 'images/medium-1*gggTRlie6ezAERC6U46peQ.jpg', 'images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpg', 'images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpg', 'images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpg', 'images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpg', 'images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpg', 'images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpg', 'images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpg', 'images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpg', 'images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpg', 'images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpg', 'images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpg', 'images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg', 'images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg', 'images/medium-0*UQyYhVGA_oLdfGDf.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 ---
 
-![瑞士首都伯恩聯邦國會大廈](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpeg.jpg)
+![瑞士首都伯恩聯邦國會大廈](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpg)
 
 *瑞士 國會大廈*
 
@@ -16,7 +16,7 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 今天要離開茵特拉肯 (Interlaken)，前往歐洲行的最後一個城市琉森 (Luzern) ！
 
-![瑞士便利商店鮪魚三明治冰拿鐵](images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpeg.jpg)
+![瑞士便利商店鮪魚三明治冰拿鐵](images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpg)
 
 *我最愛的瑞士便利商店餐點組合：鮪魚三明治與冰拿鐵*
 
@@ -24,11 +24,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 在前往琉森的火車上，我遇到一個人超好的瑞士杯杯！他不僅把景觀比較好的座位讓給我拍照，沿途幫我介紹經過的四個湖泊，杯杯還給了我他身為當地人的旅遊建議 (杯杯不建議我今天上皮拉圖斯山，因為今天的天氣看起來很糟，就算上山可能也只會看到霧茫茫的一片，但他說我可以到了旅館之後再跟旅館櫃檯確認一下情況，最喜歡這種給意見但是又不武斷的人了！）
 
-![瑞士火車沿途四個湖泊景色](images/medium-1*bgE52bqShgmt9nqamDlgYA.jpeg.jpg)
+![瑞士火車沿途四個湖泊景色](images/medium-1*bgE52bqShgmt9nqamDlgYA.jpg)
 
-![阿爾卑斯山間湖泊倒影](images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpeg.jpg)
+![阿爾卑斯山間湖泊倒影](images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpg)
 
-![火車車窗外瑞士山水風光](images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpeg.jpg)
+![火車車窗外瑞士山水風光](images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpg)
 
 *火車沿途的湖景超美*
 
@@ -40,19 +40,19 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 瑞士的首都伯恩其名稱來自德文的熊「Bär」。因為公爵 Zähringen 在 1191 年建城時，捕捉的第一隻動物就是熊。
 
-![伯恩麵包店熊造型塔甜點](images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpeg.jpg)
+![伯恩麵包店熊造型塔甜點](images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpg)
 
-*![瑞士伯恩可愛熊塔糕點](images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpeg.jpg)伯恩麵包店裡面賣的熊塔，超可愛*
+*![瑞士伯恩可愛熊塔糕點](images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpg)伯恩麵包店裡面賣的熊塔，超可愛*
 
 現在的瑞士政府還特地為熊建了巨大的熊公園，但裡面只住了三隻熊！
 
 因為熊會移動，而且他們住的地方有夠大，我看其他人的遊記也不一定有看到熊。結果我超幸運一抵達就看到兩隻！一隻不停走來走去覓食，一隻表情非常厭世，把頭靠在樹枝上我整個要笑死XDD
 
-![伯恩熊公園的棕熊覓食](images/medium-1*EILbqYqargPjS28k9RcgVQ.jpeg.jpg)
+![伯恩熊公園的棕熊覓食](images/medium-1*EILbqYqargPjS28k9RcgVQ.jpg)
 
-![熊公園厭世表情棘熊](images/medium-1*gggTRlie6ezAERC6U46peQ.jpeg.jpg)
+![熊公園厭世表情棘熊](images/medium-1*gggTRlie6ezAERC6U46peQ.jpg)
 
-![疑士政府保護區內的熊](images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpeg.jpg)
+![疑士政府保護區內的熊](images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpg)
 
 *熊公園*
 
@@ -60,11 +60,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 除了熊公園之外，這裡還有一個愛因斯坦相關的景點，雖然愛因斯坦是德國人，但他曾在伯恩住過七年，並在伯恩專利局工作。這段期間也是愛因斯坦在研究中取得豐碩成果的時期，著名的相對論便是在 1905 年發表的喔！
 
-![愛因斯坦伯恩故居外觀建築](images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpeg.jpg)
+![愛因斯坦伯恩故居外觀建築](images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpg)
 
-![故居改建博物館入口](images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpeg.jpg)
+![故居改建博物館入口](images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpg)
 
-![物理學家愛因斯坦伯恐舊居](images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpeg.jpg)
+![物理學家愛因斯坦伯恐舊居](images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpg)
 
 *愛因斯坦在伏恒的故居*
 
@@ -76,11 +76,11 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 但樓下的愛因斯坦咖啡店我個人覺得還不錯，是一個很舒服的環境（而且有廁所XD）。他們的招牌是愛因斯坦咖啡，特別之處在於將杏仁甜酒(Amaretto)、白蘭地與濃縮咖啡三者調和，上面再加上打發的鮮奶油，是款帶有濃濃酒味的咖啡！（總結了我這幾天在瑞士喝咖啡的經驗，我發現瑞士的咖啡特色就是上面都會有厚厚一層鮮奶油）
 
-![愛因斯坦咖啡館復古環境](images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpeg.jpg)
+![愛因斯坦咖啡館復古環境](images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpg)
 
-![相對論主題招牌愛因斯坦咖啡](images/medium-1*axkvw5ZdF2iH3kSPCyFg.jpeg.jpg)
+![相對論主題招牌愛因斯坦咖啡](images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpg)
 
-![桂仁甜酒白蘭地特劊咖啡](images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpeg.jpg)
+![桂仁甜酒白蘭地特劊咖啡](images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpg)
 
 *愛因斯坦咖啡*
 
@@ -92,13 +92,13 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 事實證明臨時改行程到伯恩是個非常正確的決定！可以看到熊好酷！而且伯恩不愧是被列為世界遺產的城市，簡直美翻天！
 
-![世界遺產伯恩古城街道](images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpeg.jpg)
+![世界遺產伯恩古城街道](images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpg)
 
-*![瑞士首都伯恩歷史建築群](images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpeg.jpg)*
+*![瑞士首都伯恩歷史建築群](images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpg)*
 
-![伯恩鐘樓與拱廊建築](images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpeg.jpg)
+![伯恩鐘樓與拱廊建築](images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpg)
 
-*![瑞士伯恩中世紀街景](images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpeg.jpg)伯恩街景*
+*![瑞士伯恩中世紀街景](images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpg)伯恩街景*
 
 最重要的是，我到伯恩後天氣立刻從多雲轉大晴天，完全沒下雨（證明我不是雨女 😂）。好天氣旅遊真的方便很多！
 
@@ -108,8 +108,8 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 
 只好瞬間放棄，去超市買了晚餐之後，回旅館休息。在琉森的住宿是一個今年才剛開始開幕的膠囊旅館，一晚約83澳幣(因為其他旅館至少一晚都超過300澳幣以上，爆炸貴，而且看起來也不是特別高級）。其實我覺得這個膠囊旅館還不錯，內部空間非常寬敞，而且可愛！但是那個昏黃的燈光真的是讓我連自己的櫃子都看不到XDDD 猜測可能是因為膠囊旅館隨時有人入住，為了讓旅客艘時有個可休息的環境，所以才把燈光調整成這樣？
 
-![琉森膠囊旅館超市晚餐](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpeg.jpg)
+![琉森膠囊旅館超市晚餐](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg)
 
-*![膠囊旅館書籍交換休息區](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpeg.jpg)晚餐與膠囊旅館的換書區*
+*![膠囊旅館書籍交換休息區](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg)晚餐與膠囊旅館的換書區*
 
 {{< footer >}}

@@ -2,8 +2,8 @@
 title: "科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?"
 date: 2022-11-25
 slug: "2022-11-25-faang-salary"
-image: "images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg"
-images: ['images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg']
+image: "images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpg"
+images: ['images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpg']
 categories: ["海外職場"]
 tags: ["科技業", "海外職場", "薪資"]
 ---
@@ -12,7 +12,7 @@ tags: ["科技業", "海外職場", "薪資"]
 
 ### 科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪價值 230 萬台幣!?
 
-![澳洲薪資結構分析](images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpeg.jpg)
+![澳洲薪資結構分析](images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpg)
 
 * * *
 

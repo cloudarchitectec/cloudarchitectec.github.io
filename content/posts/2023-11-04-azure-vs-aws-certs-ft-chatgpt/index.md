@@ -3,7 +3,7 @@ title: "微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更�
 date: 2023-11-04
 slug: "2023-11-04-azure-vs-aws-certs-ft-chatgpt"
 image: "images/medium-0*IHdurgjhEtnGcDd7.jpg"
-images: ['images/medium-0*IHdurgjhEtnGcDd7.jpg', 'images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png.jpg', 'images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png.jpg', 'images/medium-1*gi-BinpRY4mO2kvLs90O_g.png.jpg', 'images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png.jpg', 'images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png.jpg', 'images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png.jpg', 'images/medium-1*C4EmZWOgy7LR-yxBI346eA.png.jpg', 'images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png.jpg', 'images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png.jpg', 'images/medium-1*gnswMcSZJJI9ja13c66TtQ.png.jpg']
+images: ['images/medium-0*IHdurgjhEtnGcDd7.jpg', 'images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png', 'images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png', 'images/medium-1*gi-BinpRY4mO2kvLs90O_g.png', 'images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png', 'images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png', 'images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png', 'images/medium-1*C4EmZWOgy7LR-yxBI346eA.png', 'images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png', 'images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png', 'images/medium-1*gnswMcSZJJI9ja13c66TtQ.png']
 categories: ["海外職場"]
 tags: ["AWS"]
 ---
@@ -20,9 +20,9 @@ tags: ["AWS"]
 
 在過去三年內我考過了 5 張微軟 Azure 雲端證照以及 6 張 AWS 雲端證照。
 
-![Azure雲端證照成就展示](images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png.jpg)
+![Azure雲端證照成就展示](images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png)
 
-*![AWS雲端證照成就展示](images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png.jpg)11 張雲端證照*
+*![AWS雲端證照成就展示](images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png)11 張雲端證照*
 
 會考這麼多，一方面是因為我之前在微軟和 AWS 工作，證照費由公司全額補助 (仔細想想賺了大概 2000–3000 澳幣的證照費XD)，另一方面可能是因為我那時候剛入行，比較有衝勁，而且還很閒(?)
 
@@ -47,7 +47,7 @@ tags: ["AWS"]
 
 例如下圖我在 2022.02.19 通過 AWS Solution Architect Professional (該證照的有限期限為三年，到 2025.02.19)，你們可以看到我的 AWS Cloud Practitioner 跟 AWS Solution Architect Associate 有限期限也就隨之被延長到 2025.02.19。
 
-![AWS雲端證照管理面板展示](images/medium-1*gi-BinpRY4mO2kvLs90O_g.png.jpg)
+![AWS雲端證照管理面板展示](images/medium-1*gi-BinpRY4mO2kvLs90O_g.png)
 
 *AWS 證照*
 
@@ -76,7 +76,7 @@ tags: ["AWS"]
 
 就 Microsoft Azure Administrator Associate 證照更新考試來說，題目是 26 提選擇題(單選)。但是我真的太久沒有碰 Azure 了，考試前也完全沒準備，考試中也沒有認真查資料，所以我獲得了一個這樣的下場：
 
-![Azure證照更新考試第一次成績](images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png.jpg)
+![Azure證照更新考試第一次成績](images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png)
 
 *第一次證照更新考試分數 — EC*
 
@@ -88,7 +88,7 @@ tags: ["AWS"]
 
 第一次失敗後，我立刻開始了第二次考試。此時我突然想到，既然是開卷考，那我不如請 ChatGPT 來試試? 於是我把每一個問題跟答案丟給 ChatGPT，結果它獲得的分數是：
 
-![ChatGPT證照更新考試成績](images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png.jpg)
+![ChatGPT證照更新考試成績](images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png)
 
 *第二次證照更新考試分數- ChatGPT*
 
@@ -100,7 +100,7 @@ tags: ["AWS"]
 
   1. 我覺得 ChatGPT 「感覺」還是滿聰明的，因為它每選擇一個答案，都還會給我一些解釋。(雖然就最終結果來說，它的答題正確率並沒有特別高？)
 
-![ChatGPT回答考試題目示例](images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png.jpg)
+![ChatGPT回答考試題目示例](images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png)
 
 *ChatGPT 回答範例一*
 
@@ -108,7 +108,7 @@ tags: ["AWS"]
 
 這一題的答案其實有五個選項，但我複製過來後，加上選項數字時少加了一個，不過 ChatGPT 並沒有因此被我迷惑，還是選出了正確答案「 DiskA, DiskB, DiskC, and DiskD」。
 
-![ChatGPT語意判斷邏輯示例](images/medium-1*C4EmZWOgy7LR-yxBI346eA.png.jpg)
+![ChatGPT語意判斷邏輯示例](images/medium-1*C4EmZWOgy7LR-yxBI346eA.png)
 
 *ChatGPT 回答範例二*
 
@@ -116,7 +116,7 @@ tags: ["AWS"]
 
 雖然我也覺得這題題目沒有出得很好，而且 ChatGPT 應該是對的，因為 banned password Contoso 很明顯應該是禁不了選項Ａ(裡面用 0 取代了英文字母Ｏ)。但如果真心硬要選一個答案的話，我覺得 D 應該還是一個比較有可能的選項。這也是 ChatGPT 跟人類不一樣的地方，像我們明知道考題出錯了，但為了避免失分，我們還是會硬選一個，而不是直接不作答。
 
-![ChatGPT對考題的獨立見解](images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png.jpg)
+![ChatGPT對考題的獨立見解](images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png)
 
 *ChatGPT 回答範例三*
 
@@ -126,9 +126,9 @@ tags: ["AWS"]
 
 事實證明我不愧是做過 Microsoft Solution Architect 的女子，立刻輕鬆高分通過XDD
 
-![Azure解決方案架構師證照成績](images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png.jpg)
+![Azure解決方案架構師證照成績](images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png)
 
-![Azure解決方案架構師證照認證](images/medium-1*gnswMcSZJJI9ja13c66TtQ.png.jpg)
+![Azure解決方案架構師證照認證](images/medium-1*gnswMcSZJJI9ja13c66TtQ.png)
 
 *Microsoft Solution Architect 證照更新考試結果*
 

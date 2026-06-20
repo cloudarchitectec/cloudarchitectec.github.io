@@ -2,23 +2,23 @@
 title: "太平洋小島上的大冒險：2025.04.27 Vanuatu Day 9 挑戰完成！一個女生成功闖蕩萬那杜！"
 date: 2025-04-27
 slug: "2025-04-27-vanuatu-day-9"
-image: "images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg"
-images: ['images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg', 'images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpeg.jpg', 'images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpeg.jpg', 'images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpeg.jpg', 'images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpeg.jpg', 'images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpeg.jpg', 'images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpeg.jpg', 'images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpeg.jpg', 'images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpeg.jpg']
+image: "images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpg"
+images: ['images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpg', 'images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpg', 'images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpg', 'images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpg', 'images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpg', 'images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpg', 'images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpg', 'images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpg', 'images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
 ---
 
 (I’m flying home today 🇦🇺❤️)
 
-![萬那杜市區街頭裝置藝術](images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpeg.jpg)
+![萬那杜市區街頭裝置藝術](images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpg)
 
 *路上的裝置藝術*
 
 ### 最後的市區半日遊
 
-![萬那杜市區街景漫步](images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpeg.jpg)
+![萬那杜市區街景漫步](images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpg)
 
-*![Pizza Hot 山寨版招牌](images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpeg.jpg)是 Pizza Hot 不是 Pizza Hut 喔XD*
+*![Pizza Hot 山寨版招牌](images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpg)是 Pizza Hot 不是 Pizza Hut 喔XD*
 
 早上 checked out 之後就先把行李寄放在旅館，好好拍了一下車子的影片（請祝我還車檢查順利），然後就把車子鑰匙留給櫃檯，開始我的市區漫步游。
 
@@ -32,13 +32,13 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 窮人如我點了fish burger，裡面居然是 grilled fish 覺得很超值，而且感覺什麼食物配上這個景都是無敵😆
 
-![Waterfront 高級餐廳魚漢堡](images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpeg.jpg)
+![Waterfront 高級餐廳魚漢堡](images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpg)
 
-*![港口景觀餐廳內裝](images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpeg.jpg)*
+*![港口景觀餐廳內裝](images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpg)*
 
-![Waterfront 餐廳港口美景](images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpeg.jpg)
+![Waterfront 餐廳港口美景](images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpg)
 
-*![水景餐廳戶外用餐區](images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpeg.jpg)Waterfront bar & grill*
+*![水景餐廳戶外用餐區](images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpg)Waterfront bar & grill*
 
 ### 按摩便宜又有冷氣吹，太舒適了
 
@@ -52,9 +52,9 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 
 沒想到他們居然是真泰式按摩耶，我完全被折來折去！我本來以為只是一個噱頭😆
 
-![萬那杜泰式按摩店內部](images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpeg.jpg)
+![萬那杜泰式按摩店內部](images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpg)
 
-*![按摩店冷氣房休息區](images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpeg.jpg)按摩店意外的高級*
+*![按摩店冷氣房休息區](images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpg)按摩店意外的高級*
 
 ### 我已經不是當年的我了
 

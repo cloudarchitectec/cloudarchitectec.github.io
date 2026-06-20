@@ -3,7 +3,7 @@ title: "澳洲面試心得：全澳最大旅行社公司 Flight Centre - DevOps 
 date: 2023-06-09
 slug: "2023-06-09-flight-centre-interview"
 image: "images/medium-0*nKEd05l3NF0Z26i8.jpg"
-images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png.jpg']
+images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png']
 categories: ["海外職場"]
 tags: ["DevOps 工程師","澳洲面試心得"]
 ---
@@ -18,7 +18,7 @@ tags: ["DevOps 工程師","澳洲面試心得"]
 
 以下是我第一版的履歷，可以看出我的技能跟 DevOps 基本上不太符合XD
 
-![澳洲求職履歷範本展示](images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png.jpg)
+![澳洲求職履歷範本展示](images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png)
 
 *2023年履歷 v1.0*
 
@@ -36,7 +36,7 @@ tags: ["DevOps 工程師","澳洲面試心得"]
 
 大家可以看出綠色真的是少的可憐，我的強項主要在於雲端解決方案的架構規劃 (solution architecting)，而且只是在理論層面。實際操作的經驗都是在自己的 AWS/Azure account 裡面玩一玩而已，完全沒有企業等級的實務經驗，但這也就是我為什麼想要從架構師 (Architect) 轉職工程師 (Engineer)的原因，比起架構師「著重於解決方案的整體架構」，我更想要獲得的是「在企業級的大型系統上的實務處理經驗」。
 
-![DevOps技能自我評估表格](images/medium-1*1WzCeZQjzOzhmKVcctcttw.png.jpg)
+![DevOps技能自我評估表格](images/medium-1*1WzCeZQjzOzhmKVcctcttw.png)
 
 ### **面試心得**
 

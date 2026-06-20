@@ -2,13 +2,13 @@
 title: "澳洲布里斯本：開車可抵達的可愛小島 Bribie Island 一日遊"
 date: 2023-09-15
 slug: "2023-09-15-bribie-island"
-image: "images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg"
-images: ['images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg', 'images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg', 'images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg', 'images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg', 'images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpeg.jpg', 'images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpeg.jpg', 'images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpeg.jpg', 'images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpeg.jpg', 'images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpeg.jpg']
+image: "images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png"
+images: ['images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png', 'images/medium-1*47A-V60RsbpvtmX2uvHciA.jpg', 'images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpg', 'images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpg', 'images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpg', 'images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpg', 'images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpg', 'images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpg', 'images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["澳洲旅遊","布里斯本"]
 ---
 
-![Bribie Island 位於布里斯本北方](images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png.jpg)
+![Bribie Island 位於布里斯本北方](images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png)
 
 *Bribie Island on Google Maps*
 
@@ -37,29 +37,29 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 一開始我們先到了一家位於卡布丘的咖啡店 [**Gather & Feast**](https://maps.app.goo.gl/bGFKDigfQJPu1FmcA?g_st=ic)，裝潢非常有氣氛！我們看到別桌客人的餐點份量都很巨大、擺盤也都很美，不過藉於我們剛吃完早餐才出門，所以這次就只點了咖啡，他們的咖啡非常好喝(雖然拉花有點弱)，我們已經決定會再拜訪這家店！
 
-![Gather & Feast 咖啡店內部裝潢](images/medium-1*47A-V60RsbpvtmX2uvHciA.jpeg.jpg)
-![Gather & Feast 咖啡店精緻的咖啡拉花](images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpeg.jpg)
-![Gather & Feast 咖啡店溫馨的用餐環境](images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpeg.jpg)
+![Gather & Feast 咖啡店內部裝潢](images/medium-1*47A-V60RsbpvtmX2uvHciA.jpg)
+![Gather & Feast 咖啡店精緻的咖啡拉花](images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpg)
+![Gather & Feast 咖啡店溫馨的用餐環境](images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpg)
 
 *Gather & Feast*
 
 接著就是前往今天的重頭戲 Bribie Island 了，這個島跟澳洲本土有個跨海大橋連接，所以不用坐船，一到達島上我們立刻驚呼連連，這個島實在太美了!
 
-![Bribie Island 海岸風景](images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpeg.jpg)
+![Bribie Island 海岸風景](images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpg)
 
 *Bribie Island 一景*
 
 我們兩個先在免費的博物館裡玩得不亦樂乎，然後就去吃了當地知名的炸魚薯條店 [Savige’s Seafood](https://maps.app.goo.gl/vjGiqj46dK4dPDgo8?g_st=ic)，真心好吃耶！
 
-![](images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpeg.jpg)
+![](images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpg)
 
-*![](images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpeg.jpg)Savige’s Seafood*
+*![](images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpg)Savige’s Seafood*
 
 吃完午餐本來打算去吃冰淇淋的，結果我們突發奇想，突然好奇這個小島上不知道有沒有珍奶店，於是我們就到了一家開在日式旋轉壽司店裡的珍奶店，也是這個小島的唯一一家珍奶店[Cube Tea Bribie Island](https://maps.app.goo.gl/1EaasG65dQjm36us6?g_st=ic)，有夠神奇😆 (但是珍奶沒有特別好喝，建議不要來XD 我們還開車繞了超久才到這家珍奶店！)
 
 然後我們就開始模仿IG拍一些意義不明的網美照，但是真的好難喔！通常拍了十幾張也只會成功一張，常常還不成功🤣🤣🤣
 
-![Bribie Island 海邊拍照](images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpeg.jpg)
+![Bribie Island 海邊拍照](images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpg)
 
 *意義不明的舉手照，到底是誰想到這種姿勢的XD*
 
@@ -69,7 +69,7 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 而且這裡的人潮不多，有一種步調緩慢的悠閒渡假感，推薦給大家♥️
 
-![EC 與室友 C 的合照](images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpeg.jpg)
+![EC 與室友 C 的合照](images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpg)
 
 *我與室友C*
 

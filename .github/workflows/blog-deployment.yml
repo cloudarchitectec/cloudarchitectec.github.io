@@ -131,6 +131,7 @@ jobs:
           [ -f "themes/${THEME_NAME}/theme.toml" ] && echo "✅ theme.toml present" || echo "❌ theme.toml missing!"
           echo "Content directory structure:"
           ls -la content/ || echo "No content directory"
+          python3 scripts/check-post-images.py
           echo "=== STARTING HUGO BUILD ==="
       - name: Build with Hugo
         env:
@@ -159,6 +160,11 @@ jobs:
           grep -rl "zh-TW" public/posts/*/index.html | head -1 | grep -q . \
             && echo "✅ Waline zh-TW locale present in posts" \
             || (echo "❌ Waline zh-TW locale not found" && exit 1)
+          if grep -rE 'src=\\?"?images/' public/posts/*/index.html; then
+            echo "❌ Unresolved image src in built HTML (PaperMod could not resolve bundle resource)"
+            exit 1
+          fi
+          echo "✅ All post images resolved in built HTML"
           echo "=== CHECKS DONE ==="
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5

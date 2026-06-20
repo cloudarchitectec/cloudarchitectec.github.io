@@ -2,15 +2,15 @@
 title: "微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)"
 date: 2022-11-25
 slug: "2022-11-25-ms-csa-interview"
-image: "images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg"
-images: ['images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg']
+image: "images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpg"
+images: ['images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpg']
 categories: ["海外職場"]
 tags: ["英文面試"]
 ---
 
 ### 微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)
 
-![微軟雲端架構師職位面試](images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpeg.jpg)
+![微軟雲端架構師職位面試](images/medium-1*QQCmTcjKzD7XpOnF3gHbcg.jpg)
 
 * * *
 

@@ -3,7 +3,7 @@ title: "澳洲布里斯本：陽光海岸高空樹頂挑戰 (Tree Top Challenge 
 date: 2023-10-28
 slug: "2023-10-28-tree-top"
 image: "images/medium-0*tPI7MVQyyD5Q4TRi.jpg"
-images: ['images/medium-0*tPI7MVQyyD5Q4TRi.jpg', 'images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpeg.jpg', 'images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpeg.jpg', 'images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpeg.jpg', 'images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpeg.jpg', 'images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpeg.jpg', 'images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpeg.jpg', 'images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpeg.jpg', 'images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpeg.jpg']
+images: ['images/medium-0*tPI7MVQyyD5Q4TRi.jpg', 'images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpg', 'images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpg', 'images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpg', 'images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpg', 'images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpg', 'images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpg', 'images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpg', 'images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["澳洲旅遊","布里斯本"]
 ---
@@ -28,15 +28,15 @@ tags: ["澳洲旅遊","布里斯本"]
 
 這天在出門前，我們兩個早上還先去上了皮拉提茲課 (自以為時間很多XDD)，好險最後還是順利在預定時間抵達了園區。
 
-![](images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpeg.jpg)
+![](images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpg)
 
 *Tree Top Challenge — Big Pineapple*
 
 進去簡單報到之後，就會先開始著裝。一開始工作人員會把裝備都先在地板上擺好，之後只要按照教練一個口令一個動作著裝即可。
 
-![](images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpeg.jpg)
+![](images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpg)
 
-![](images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpeg.jpg)
+![](images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpg)
 
 *安全說明 ＆ 上裝備*
 
@@ -46,10 +46,10 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 根據難度不同，樹的高度大概在 3–30 公尺之間，挑戰的內容包含溜索(一開始我被那種滑下去，腳底懸空的失重感嚇得要死，後來發現這個是最簡單的挑戰，因為完全不用出力😆)、爬樓梯、走繩索、走高空木板等等各式體能挑戰。每個挑戰視難度大概耗時 25–45 分鐘不等。
 
-![](images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpeg.jpg)
+![](images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpg)
 
-![](images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpeg.jpg)
-![](images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpeg.jpg)
+![](images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpg)
+![](images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpg)
 
 *各式挑戰*
 
@@ -61,7 +61,7 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 **缺點：** 一旦你決定開始一個挑戰（把勾勾掛上去），沒有完成你是不能下來的。而且也不能讓你後面的人越過你先走，所以其實壓力滿大的！像排我後面的迪迪超強，他完全被我從頭擋到尾。不過澳洲人都很好，基本上也不會有人催你，大家就是默默等待。
 
-![](images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpeg.jpg)
+![](images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpg)
 
 *安全掛鉤*
 
@@ -79,7 +79,7 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 講了這麼多，為什麼這個地方叫 Tree Top Challenge Big Pineapple 呢？就由圖片來揭曉吧🍍(Big Pineapple 是這附近的一個地標：<https://maps.app.goo.gl/FBdUgLQu4hmrXegYA>)
 
-![](images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpeg.jpg)
+![](images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpg)
 
 *與大鳳梨合照*
 

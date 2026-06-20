@@ -3,7 +3,7 @@ title: "好想要退休！澳洲人壽保險知識分享，在澳洲打拼的你
 date: 2024-12-24
 slug: "2024-12-24-life-insurance"
 image: "images/medium-0*Za2PV_3X9oaOZ0Ci.jpg"
-images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png.jpg', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png.jpg', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png.jpg']
+images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
 ---
@@ -32,7 +32,7 @@ A: 當我發現自己已經開始需要研究保險的時候XDDD
 
 詳情請見我的精美表格分析，居然還上色，我真是太棒了！
 
-![澳洲人壽保險種類比較表](images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png.jpg)
+![澳洲人壽保險種類比較表](images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png)
 
 ### 澳洲人壽保險的 3 個重要知識點
 
@@ -47,7 +47,7 @@ A: 當我發現自己已經開始需要研究保險的時候XDDD
 
 **EC 建議** ：如果想完全控制保險安排，建議別透過 Super 購買。以下 EC 製作的精美對照表，讓你一次看清兩者的差異：
 
-![澳洲退休金保險對比分析](images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png.jpg)
+![澳洲退休金保險對比分析](images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png)
 
 * * *
 
@@ -59,7 +59,7 @@ A: 當我發現自己已經開始需要研究保險的時候XDDD
 
 > 題外話，澳洲的各式比價網站，例如 Canstar、iSelect、Compare the Market 這些民間組織都是盈利的，如果廠商願意付錢，他們的產品就可以在比價結果中被優先顯示，所以我是不用這些網站的，請認明中立的政府比價網 MoneySmart：<https://moneysmart.gov.au/how-life-insurance-works/life-insurance-claims-comparison-tool>
 
-![澳洲人壽保險理賠統計](images/medium-1*dDf7egiCTurnHQw2wgx1ew.png.jpg)
+![澳洲人壽保險理賠統計](images/medium-1*dDf7egiCTurnHQw2wgx1ew.png)
 
 **EC 建議** ：
 

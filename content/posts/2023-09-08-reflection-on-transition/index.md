@@ -3,7 +3,7 @@ title: "轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我�
 date: 2023-09-08
 slug: "2023-09-08-reflection-on-transition"
 image: "images/medium-0*RZlpg-Oae0Ai-ckp.jpg"
-images: ['images/medium-0*RZlpg-Oae0Ai-ckp.jpg', 'images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png.jpg', 'images/medium-1*O7vFsi0MX11kiDTCGNydUg.png.jpg']
+images: ['images/medium-0*RZlpg-Oae0Ai-ckp.jpg', 'images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png', 'images/medium-1*O7vFsi0MX11kiDTCGNydUg.png']
 categories: ["海外職場"]
 tags: ["轉職工程師"]
 ---
@@ -18,13 +18,13 @@ tags: ["轉職工程師"]
 
 上週我在 LinkedIn 上發表了一篇文章，跟大家分享我的新工作，還有我轉職的心路歷程，談我一路怎麼從英文系、移民澳洲並成為紐澳會計師協會的Senior Accounting Assessor (工作內容是協助澳洲移民局審核澳洲會計師移民資格)、辭掉安定的工作去讀程式訓練營、加入 AWS 成為 Technical Consultant、加入微軟成為 Solution Architect，最近又轉職成 DevOps Engineer 的故事，收到了不少迴響。
 
-![LinkedIn轉職經驗分享文章](images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png.jpg)
+![LinkedIn轉職經驗分享文章](images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png)
 
 *LinkedIn Post about my new job as DevOps Engineer*
 
 幾天後，我收到了一封很溫暖的訊息！來自我的 AWS 前同事感謝我撥出時間跟她的 mentee 分享我的轉職心得。在這篇 LinkedIn 文章發表後，我又收到幾位同樣轉職成功或是正在轉職路上的人私訊我，希望我能給他們一些意見。
 
-![轉職成功者後續發展經驗談](images/medium-1*O7vFsi0MX11kiDTCGNydUg.png.jpg)
+![轉職成功者後續發展經驗談](images/medium-1*O7vFsi0MX11kiDTCGNydUg.png)
 
 於是興起了我想要寫這篇文章的念頭！
 

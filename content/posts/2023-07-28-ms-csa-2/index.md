@@ -3,7 +3,7 @@ title: "微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Arc
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-2"
 image: "images/medium-0*XTejTjV9ZtCU27LU.jpg"
-images: ['images/medium-0*XTejTjV9ZtCU27LU.jpg', 'images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg', 'images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg', 'images/medium-0*S01TqTt4irw1xdCl.png.jpg']
+images: ['images/medium-0*XTejTjV9ZtCU27LU.jpg', 'images/medium-1*04yK12_QyvHHIdvlN2rmMw.png', 'images/medium-1*a9im277bnzrf4AP90h5p_Q.png', 'images/medium-0*S01TqTt4irw1xdCl.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
 ---
@@ -48,7 +48,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
   2. **Logic Tier** ：這一層就是廣義的後端 (backend)，是用來運行企業商業邏輯的 application servers。
   3. **Data Tier** ：這一層就是廣義的資料庫 (databases)。
 
-![三層式網頁應用程式概念圖](images/medium-1*04yK12_QyvHHIdvlN2rmMw.png.jpg)
+![三層式網頁應用程式概念圖](images/medium-1*04yK12_QyvHHIdvlN2rmMw.png)
 
 *圖 1: Three-Tier Web App Concept*
 
@@ -56,7 +56,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
 我先做個簡單的一對一圖示，請注意這裡的每一個服務，都有其他替代選項。我只是先挑一個常見的AWS雲服務作為案例，實際上企業會選擇哪一個AWS雲服務，需要靠雲端架構師了解客戶的需求，經由多次討論之後才會下決定。
 
-![AWS三層式架構簡化版](images/medium-1*a9im277bnzrf4AP90h5p_Q.png.jpg)
+![AWS三層式架構簡化版](images/medium-1*a9im277bnzrf4AP90h5p_Q.png)
 
 *圖 2: Three-Tier Web App on AWS (Super Simplified Version)*
 
@@ -70,7 +70,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 
 ### **一般來說，AWS 的 web application 架構圖 (solution design) 會長這樣：**
 
-![AWS三層式網頁應用程式架構圖](images/medium-0*S01TqTt4irw1xdCl.png.jpg) 圖 3: Three-Tier Web App on AWS (AWS simplified version)
+![AWS三層式網頁應用程式架構圖](images/medium-0*S01TqTt4irw1xdCl.png) 圖 3: Three-Tier Web App on AWS (AWS simplified version)
 
 這裡添加的新元素有：
 
