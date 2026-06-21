@@ -24,17 +24,19 @@ POST_VALIDATION_DIR = SCRIPTS_DIR / "post-validation"
 
 def load_check_module(filename: str):
     path = POST_VALIDATION_DIR / filename
-    module_name = path.stem.replace("-", "_")
+    module_name = f"post_validation_{path.stem.replace('-', '_')}"
     spec = importlib.util.spec_from_file_location(module_name, path)
     if spec is None or spec.loader is None:
         raise ImportError(f"Cannot load {path}")
     mod = importlib.util.module_from_spec(spec)
+    sys.modules[module_name] = mod
     spec.loader.exec_module(mod)
     return mod
 
 
 cover_check = load_check_module("cover-check.py")
 frontmatter_check = load_check_module("frontmatter-check.py")
+size_check = load_check_module("image-size-check.py")
 
 
 def resolve_post_path(arg: str) -> Path:
@@ -68,21 +70,28 @@ def get_staged_post_dirs() -> list[Path]:
     return sorted(dirs)
 
 
-def validate_post(md_file: Path) -> tuple[list[str], bool]:
-    """Return (errors, has_image_refs)."""
+def validate_post(md_file: Path) -> tuple[list[str], list[str], bool]:
+    """Return (errors, warnings, has_image_refs)."""
     text = md_file.read_text(encoding="utf-8", errors="replace")
     post_dir = md_file.parent
     errors: list[str] = []
+    warnings: list[str] = []
 
     errors.extend(frontmatter_check.check(text, post_dir.name))
     errors.extend(cover_check.check(text))
+
+    size_warnings, size_errors = size_check.check_post_images(
+        md_file, text, cover_check.extract_image_paths
+    )
+    warnings.extend(size_warnings)
+    errors.extend(size_errors)
 
     has_refs = bool(cover_check.extract_image_paths(text)) or (post_dir / "images").exists()
     if has_refs:
         for path in cover_check.check_bundle_images(md_file):
             errors.append(f"missing bundle image: {path}")
 
-    return errors, has_refs
+    return errors, warnings, has_refs
 
 
 def run_checks(
@@ -91,6 +100,7 @@ def run_checks(
     label: str,
 ) -> int:
     format_failures: list[tuple[str, list[str]]] = []
+    warn_items: list[tuple[str, str]] = []
     checked_with_images = 0
 
     double_errors = cover_check.check_double_extensions(POSTS_DIR, post_dirs_for_double_ext)
@@ -101,9 +111,11 @@ def run_checks(
         return 1
 
     for md_file in md_files:
-        errors, has_refs = validate_post(md_file)
+        errors, warnings, has_refs = validate_post(md_file)
         if has_refs:
             checked_with_images += 1
+        for w in warnings:
+            warn_items.append((md_file.parent.name, w))
         if errors:
             format_failures.append((md_file.parent.name, errors))
 
@@ -114,6 +126,11 @@ def run_checks(
     else:
         print(f"Checked {len(md_files)} posts ({checked_with_images} with image refs)")
 
+    if warn_items:
+        print(f"⚠️  {len(warn_items)} image size warning(s):")
+        for slug, msg in warn_items:
+            print(f"  {slug}: {msg}")
+
     if format_failures:
         print(f"❌ {len(format_failures)} post(s) with validation errors:")
         for slug, errors in format_failures:
@@ -122,7 +139,10 @@ def run_checks(
                 print(f"    - {err}")
         return 1
 
-    print("✅ All post validation checks passed")
+    if warn_items:
+        print("✅ All post validation checks passed (with size warnings above)")
+    else:
+        print("✅ All post validation checks passed")
     return 0
 
 

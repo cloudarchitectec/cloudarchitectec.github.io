@@ -2,7 +2,10 @@
 
 from __future__ import annotations
 
-from conftest import cover_check, frontmatter_check
+from pathlib import Path
+
+from conftest import cover_check, frontmatter_check, size_check
+from PIL import Image
 
 UNSPLASH_FM = """\
 cover:
@@ -103,3 +106,34 @@ class TestFrontmatterCheck:
     def test_unquoted_title_passes(self):
         text = GOOD_POST.replace('title: "Test post"', "title: 中文標題 without quotes")
         assert not any("title" in e for e in frontmatter_check.check(text, "test-slug"))
+
+
+class TestImageSizeCheck:
+    def test_soft_warn_large_inline(self, tmp_path: Path):
+        img = tmp_path / "big.jpg"
+        Image.new("RGB", (2500, 1200), color="red").save(img, quality=95)
+        info = size_check.read_image_info(img)
+        assert info is not None
+        warnings, errors = size_check.check_info(info, "inline")
+        assert warnings
+        assert not errors
+
+    def test_hard_error_oversized(self, tmp_path: Path):
+        img = tmp_path / "huge.jpg"
+        Image.new("RGB", (4500, 3000), color="blue").save(img, quality=95)
+        info = size_check.read_image_info(img)
+        assert info is not None
+        warnings, errors = size_check.check_info(info, "cover")
+        assert errors
+        assert any("hard limit" in e for e in errors)
+
+    def test_optimize_reduces_file(self, tmp_path: Path):
+        img = tmp_path / "big.jpg"
+        Image.new("RGB", (3000, 2000), color="green").save(img, quality=95)
+        before = img.stat().st_size
+        changed, _ = size_check.optimize_image(img, "inline")
+        assert changed
+        assert img.stat().st_size < before
+        info = size_check.read_image_info(img)
+        assert info is not None
+        assert info.long_edge <= size_check.OPTIMIZE_INLINE_LONG_EDGE
