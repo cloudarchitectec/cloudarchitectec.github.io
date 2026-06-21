@@ -153,6 +153,10 @@ jobs:
           if command -v xmllint &>/dev/null; then
             xmllint --noout public/index.xml && echo "✅ RSS valid" || (echo "❌ RSS invalid" && exit 1)
           fi
+          grep -q 'media:content' public/index.xml \
+            && grep -q '/posts/.*/images/' public/index.xml \
+            && echo "✅ RSS has cover media:content with post bundle URLs" \
+            || (echo "❌ RSS missing media:content — check layouts/_default/rss.xml" && exit 1)
           grep -rl "@waline/client" public/posts/*/index.html | head -1 | grep -q . \
             && echo "✅ Waline embed present in posts" \
             || (echo "❌ Waline embed not found — check comments = true in hugo.toml" && exit 1)
@@ -168,6 +172,14 @@ jobs:
           grep -rl 'dashboard.mailerlite.com/jsonp/2459287/forms/190870271382520893/subscribe' public/posts/*/index.html | head -1 | grep -q . \
             && echo "✅ MailerLite subscribe action present in posts" \
             || (echo "❌ MailerLite subscribe action not found" && exit 1)
+          TAG_LIST="public/tags/devops-工程師/index.html"
+          [ -f "$TAG_LIST" ] || (echo "❌ Tag list page not built: $TAG_LIST" && exit 1)
+          grep -q 'entry-header' "$TAG_LIST" \
+            && echo "✅ Tag list page has entry-header (post titles)" \
+            || (echo "❌ Tag list missing entry-header — check layouts/_default/list.html" && exit 1)
+          grep -q 'post-meta-enhanced' "$TAG_LIST" && grep -qv 'entry-header' "$TAG_LIST" \
+            && (echo "❌ Tag list has orphan post-meta-enhanced without titles" && exit 1) \
+            || echo "✅ Tag list layout OK"
           if grep -rE 'src=\\?"?images/' public/posts/*/index.html; then
             echo "❌ Unresolved image src in built HTML (PaperMod could not resolve bundle resource)"
             exit 1

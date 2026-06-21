@@ -57,7 +57,10 @@ class TestRssCoverImages:
         assert media is not None, "expected media:content for cover.image post"
         url = media.get("url") or ""
         assert "cEukkv42O40-unsplash" in url, f"unexpected cover URL: {url}"
+        assert "/posts/2026-06-17-retirement-plan/" in url, f"cover must be post bundle URL, got: {url}"
         assert url.startswith("http"), url
+        thumb = item.find("media:thumbnail", NS)
+        assert thumb is not None and thumb.get("url") == url
 
     def test_posts_with_cover_have_media_content(self, built_rss):
         """Sample recent posts with cover.image should expose media:content."""
