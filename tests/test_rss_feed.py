@@ -82,7 +82,7 @@ class TestMailerLiteRss:
         assert "index-mailerlite" in built_feeds["mailerlite"]
 
     def test_retirement_cover_is_first_img_with_absolute_url(self, built_feeds):
-        """MailerLite reads first Hugo-rendered img in excerpt — cover must lead."""
+        """MailerLite reads first body-style img — cover after first paragraph, with dimensions."""
         item = item_for_slug(built_feeds["mailerlite"], "2026-06-17-retirement-plan")
         assert item is not None
         desc = item.findtext("description") or ""
@@ -90,6 +90,8 @@ class TestMailerLiteRss:
         assert src is not None, "expected cover img in MailerLite description"
         assert src.startswith("https://cloudarchitectec.com/posts/2026-06-17-retirement-plan/images/")
         assert "cEukkv42O40-unsplash" in src
+        assert "width=" in desc and "height=" in desc
+        assert desc.index("<p>") < desc.index("<img"), "cover img should follow opening paragraph text"
 
     def test_sydney_cover_precedes_body_images(self, built_feeds):
         """Cover hero should appear before inline spirits.jpg in MailerLite feed."""
@@ -99,6 +101,7 @@ class TestMailerLiteRss:
         src = first_img_src(desc)
         assert src is not None
         assert "ZsH1wHv2iTU-unsplash" in src, f"expected cover hero first, got: {src}"
+        assert "spirits.jpg" not in desc[: desc.index("<img") + 1], "spirits must not precede cover"
 
     def test_posts_with_cover_have_media_content(self, built_feeds):
         for slug in ("2026-06-17-retirement-plan", "2026-05-17-sydney-mca"):

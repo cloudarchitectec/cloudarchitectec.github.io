@@ -1,5 +1,5 @@
-{{- /* MailerLite RSS — inject cover.image as first Hugo-rendered body image in excerpt.
-     Standard index.xml stays clean for feed readers; use this URL in MailerLite only. */}}
+{{- /* MailerLite RSS — inject cover.image like inline body images MailerLite already renders.
+     Standard index.xml stays clean; point MailerLite at /index-mailerlite.xml only. */}}
 {{- $authorEmail := "" }}
 {{- with site.Params.author }}
   {{- if reflect.IsMap . }}
@@ -53,11 +53,18 @@
       {{- $coverAlt := $page.Params.cover.alt | default $page.Title }}
       {{- $coverURL = printf "%s/%s" (strings.TrimSuffix "/" $page.Permalink) $coverPath }}
       {{- if not (strings.Contains $descBody (path.Base $coverPath)) }}
-        {{- $coverMD := printf "![%s](%s)" $coverAlt $coverURL }}
-        {{- $coverHTML := $page.RenderString $coverMD }}
-        {{- $descBody = printf "%s%s" $coverHTML $descBody }}
+        {{- $coverHTML := partial "mailerlite-cover-img.html" (dict "page" $page "coverURL" $coverURL "coverAlt" $coverAlt "coverPath" $coverPath) }}
+        {{- /* MailerLite picks first body-style img after text — insert after first paragraph */}}
+        {{- if strings.Contains $descBody "</p>" }}
+          {{- $descBody = replace $descBody "</p>" (printf "</p>%s" $coverHTML) 1 }}
+        {{- else }}
+          {{- $descBody = printf "%s%s" $coverHTML $descBody }}
+        {{- end }}
       {{- end }}
     {{- end }}
+    {{- /* Summary may emit relative /posts/... img src; MailerLite needs absolute URLs */}}
+    {{- $absImgSrc := printf "src=\"%s/posts/" (strings.TrimSuffix "/" site.BaseURL) }}
+    {{- $descBody = replace $descBody "src=\"/posts/" $absImgSrc }}
     <item>
       <title>{{ $page.Title | html }}</title>
       <link>{{ $page.Permalink }}</link>

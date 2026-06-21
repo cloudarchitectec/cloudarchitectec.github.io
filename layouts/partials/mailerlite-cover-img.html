@@ -1,0 +1,13 @@
+{{- /* Match inline body image HTML that MailerLite actually renders (see spirits.jpg in index.xml). */}}
+{{- $page := .page }}
+{{- $coverURL := .coverURL }}
+{{- $coverAlt := .coverAlt }}
+{{- $coverPath := .coverPath }}
+{{- $imgRes := $page.Resources.GetMatch (path.Base $coverPath) }}
+{{- if not $imgRes }}{{ $imgRes = $page.Resources.GetMatch $coverPath }}{{ end }}
+{{- $orientation := "landscape" }}
+{{- with $imgRes }}
+  {{- if lt .Width .Height }}{{ $orientation = "portrait" }}
+  {{- else if eq .Width .Height }}{{ $orientation = "square" }}{{ end }}
+{{- end }}
+<p><figure class="post-figure post-figure--{{ $orientation }}"><img src="{{ $coverURL }}" alt="{{ $coverAlt }}" loading="lazy" decoding="async"{{- with $imgRes }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}></figure></p>
