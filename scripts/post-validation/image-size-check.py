@@ -6,6 +6,7 @@ Soft limits print warnings; hard limits fail validation (commit blocked).
 from __future__ import annotations
 
 import re
+import struct
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -89,6 +90,59 @@ def read_image_info(path: Path) -> ImageInfo | None:
         return None
 
 
+def is_progressive_jpeg(path: Path) -> bool:
+    """Return True when JPEG uses progressive (SOF2) encoding."""
+    suffix = path.suffix.lower()
+    if suffix not in {".jpg", ".jpeg"}:
+        return False
+    try:
+        with open(path, "rb") as f:
+            if f.read(2) != b"\xff\xd8":
+                return False
+            while True:
+                if f.read(1) != b"\xff":
+                    return False
+                marker_byte = f.read(1)
+                if not marker_byte:
+                    return False
+                marker = marker_byte[0]
+                if marker in (0xC0, 0xC1, 0xC3):
+                    return False
+                if marker == 0xC2:
+                    return True
+                if marker in (0xD8, 0xD9, 0x01):
+                    continue
+                length_bytes = f.read(2)
+                if len(length_bytes) < 2:
+                    return False
+                length = struct.unpack(">H", length_bytes)[0]
+                if length < 2:
+                    return False
+                f.seek(length - 2, 1)
+    except OSError:
+        return False
+    return False
+
+
+def normalize_jpeg_baseline(path: Path, quality: int = JPEG_QUALITY) -> tuple[bool, str]:
+    """Re-save JPEG as baseline (progressive=False). Returns (changed, message)."""
+    if Image is None:
+        return False, "Pillow not installed"
+    if path.suffix.lower() not in {".jpg", ".jpeg"}:
+        return False, "not a JPEG"
+    if not is_progressive_jpeg(path):
+        return False, "already baseline"
+
+    before = path.stat().st_size
+    with Image.open(path) as img:
+        img.load()
+        working = img.convert("RGB") if img.mode not in ("RGB", "L") else img
+        working.save(path, format="JPEG", quality=quality, optimize=True, progressive=False)
+
+    after = path.stat().st_size
+    return True, f"progressive -> baseline ({before // 1024}KB -> {after // 1024}KB)"
+
+
 def check_info(info: ImageInfo, role: str) -> tuple[list[str], list[str]]:
     warnings: list[str] = []
     errors: list[str] = []
@@ -117,6 +171,12 @@ def check_info(info: ImageInfo, role: str) -> tuple[list[str], list[str]]:
         warnings.append(
             f"cover may look soft on desktop: {rel} — {info.width}x{info.height} "
             f"(recommended long edge >= 1200px)"
+        )
+
+    if role == "cover" and is_progressive_jpeg(info.path):
+        warnings.append(
+            f"cover uses progressive JPEG: {rel} — re-encode as baseline; "
+            f"run scripts/optimize-post-images.py --fix-progressive --apply"
         )
 
     return warnings, errors
@@ -174,7 +234,7 @@ def _shrink_until_soft_bytes(img: Image.Image, max_edge: int, soft_bytes: int, *
         if as_png:
             resized.save(bio, format="PNG", optimize=True)
         else:
-            resized.save(bio, format="JPEG", quality=JPEG_QUALITY, optimize=True)
+            resized.save(bio, format="JPEG", quality=JPEG_QUALITY, optimize=True, progressive=False)
         if bio.tell() <= soft_bytes:
             break
         w, h = resized.size
@@ -215,9 +275,9 @@ def optimize_image(path: Path, role: str) -> tuple[bool, str]:
         if as_png:
             resized.save(path, format="PNG", optimize=True)
         elif suffix == ".jpeg":
-            resized.save(path, format="JPEG", quality=JPEG_QUALITY, optimize=True)
+            resized.save(path, format="JPEG", quality=JPEG_QUALITY, optimize=True, progressive=False)
         else:
-            resized.save(path, format="JPEG", quality=JPEG_QUALITY, optimize=True)
+            resized.save(path, format="JPEG", quality=JPEG_QUALITY, optimize=True, progressive=False)
 
         after = path.stat().st_size
         if after >= before and info.long_edge <= max_edge and before <= soft_bytes:

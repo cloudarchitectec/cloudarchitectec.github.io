@@ -50,6 +50,31 @@ A EC CLI tool to automate blog post creation with Unsplash images.
 
 **Post footer:** Subscribe + coffee CTAs render from `layouts/partials/post-footer.html` via `single.html`. Do **not** add `{{< footer >}}` to generated posts.
 
+## Cover JPEG encoding (baseline vs progressive)
+
+Unsplash CDN downloads may arrive as **progressive JPEG** (`file … progressive` in terminal). Browsers render both; this repo standardizes on **baseline** for consistency and tooling compatibility.
+
+**On every new cover download**, `automated_blog_converter.py` calls `normalize_jpeg_baseline()` after save.
+
+**Rules:**
+
+| Rule | Detail |
+|------|--------|
+| Cover format | Baseline JPEG (`progressive=False`, quality 85) |
+| When | Immediately after Unsplash download |
+| Check | `check-posts.py` warns if cover is still progressive |
+| Bulk fix existing | `python3 scripts/optimize-post-images.py --fix-progressive --apply` |
+
+```bash
+# Preview progressive JPEGs in post bundles
+python3 scripts/optimize-post-images.py --fix-progressive --dry-run
+
+# Re-encode all progressive JPEGs as baseline
+python3 scripts/optimize-post-images.py --fix-progressive --apply
+```
+
+Verify one file: `file content/posts/{slug}/images/*.jpg` — should say **baseline**, not **progressive**.
+
 ## Command Options
 
 ```bash
@@ -100,6 +125,7 @@ tools/blog-converter/
 ✅ Extracts title from first heading  
 ✅ Generates date-based slug (2025-10-12-title)  
 ✅ Downloads your chosen image from Unsplash (no signup needed!)  
+✅ Saves cover JPEG as **baseline** encoding (auto after Unsplash download)  
 ✅ Extracts real photographer info and creates simple alt text  
 ✅ Creates clean image filename (just the photo ID)  
 ✅ Generates Hugo front matter (ready to publish)  

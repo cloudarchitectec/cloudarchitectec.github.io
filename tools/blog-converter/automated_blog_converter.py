@@ -3,6 +3,7 @@
 Automates the creation of Hugo blog posts from markdown files with Unsplash images.
 Emits cover.image / cover.alt / cover.credit front matter (no duplicate body hero).
 Post footer (subscribe + coffee) is layout-driven — never appends {{< footer >}}.
+Cover JPEGs are normalized to baseline encoding after Unsplash download.
 Post rules enforced by scripts/post-validation/ — run scripts/check-posts.py --help.
 """
 
@@ -33,11 +34,34 @@ SLUG_MAX_LENGTH = 75
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent.parent
 CHECK_SCRIPT = PROJECT_ROOT / "scripts" / "check-posts.py"
+SIZE_CHECK_MODULE = PROJECT_ROOT / "scripts" / "post-validation" / "image-size-check.py"
 
 load_dotenv(PROJECT_ROOT / ".env")
 INPUT_DIR = SCRIPT_DIR / "input"
 OUTPUT_DIR = SCRIPT_DIR / "output"
 HUGO_CONTENT_DIR = PROJECT_ROOT / "content" / "posts"
+
+
+def load_size_check_module():
+    """Load shared image-size-check helpers (baseline JPEG normalization)."""
+    import importlib.util
+
+    spec = importlib.util.spec_from_file_location("image_size_check", SIZE_CHECK_MODULE)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"Cannot load {SIZE_CHECK_MODULE}")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+def normalize_downloaded_jpeg(image_path: Path) -> None:
+    """Unsplash CDN may return progressive JPEG; re-save as baseline for repo consistency."""
+    size_check = load_size_check_module()
+    changed, msg = size_check.normalize_jpeg_baseline(image_path)
+    if changed:
+        click.echo(f"✅ Normalized JPEG encoding: {msg}")
+    else:
+        click.echo("✅ JPEG encoding: baseline")
 
 
 def extract_unsplash_photo_id(url):
@@ -114,6 +138,8 @@ def download_unsplash_image(photo_id, photo_url, output_path):
         with open(output_path, "wb") as f:
             f.write(img_resp.content)
         click.echo(f"✅ Downloaded {len(img_resp.content):,} bytes")
+
+        normalize_downloaded_jpeg(output_path)
 
         try:
             with Image.open(output_path) as img:

@@ -179,3 +179,35 @@ class TestImageSizeCheck:
         info = size_check.read_image_info(img)
         assert info is not None
         assert info.long_edge <= size_check.OPTIMIZE_INLINE_LONG_EDGE
+
+
+class TestProgressiveJpeg:
+    def test_is_progressive_jpeg_detects_encoding(self, tmp_path: Path):
+        baseline = tmp_path / "baseline.jpg"
+        progressive = tmp_path / "progressive.jpg"
+        img = Image.new("RGB", (400, 300), color="red")
+        img.save(baseline, format="JPEG", quality=85, progressive=False)
+        img.save(progressive, format="JPEG", quality=85, progressive=True)
+        assert not size_check.is_progressive_jpeg(baseline)
+        assert size_check.is_progressive_jpeg(progressive)
+
+    def test_normalize_jpeg_baseline_converts_progressive(self, tmp_path: Path):
+        path = tmp_path / "cover.jpg"
+        Image.new("RGB", (800, 600), color="blue").save(
+            path, format="JPEG", quality=85, progressive=True
+        )
+        changed, msg = size_check.normalize_jpeg_baseline(path)
+        assert changed
+        assert "baseline" in msg
+        assert not size_check.is_progressive_jpeg(path)
+
+    def test_check_info_warns_progressive_cover(self, tmp_path: Path):
+        path = tmp_path / "hero.jpg"
+        Image.new("RGB", (1400, 900), color="orange").save(
+            path, format="JPEG", quality=85, progressive=True
+        )
+        info = size_check.read_image_info(path)
+        assert info is not None
+        warnings, errors = size_check.check_info(info, "cover")
+        assert not errors
+        assert any("progressive JPEG" in w for w in warnings)
