@@ -97,5 +97,3 @@ draft: true
   * **📘 Facebook**[**澳洲雲端架構師 EC 臉書粉專**](https://www.facebook.com/cloudarchitectec)
   * **🧵 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
   * **📩 合作信箱：**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
-
-{{< footer >}}

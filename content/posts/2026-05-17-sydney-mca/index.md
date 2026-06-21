@@ -37,6 +37,3 @@ tags: ["雪梨"]
 ![rooftop_cafe](images/rooftop_cafe.jpg)
 ![opera_house](images/opera_house.jpg)
 ![harbour_bridge](images/harbour_bridge.jpg)
-
-
-{{< footer >}}

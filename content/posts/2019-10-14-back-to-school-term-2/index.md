@@ -65,5 +65,3 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 因為之前我們分別是三天做一個 terminal application 跟七天做一個 portfolio website，這次給我們兩週那這個作業是得有多大!!!! 完全剉著等(大哭一場)
 
 好的~ 以上就是我開學第一天的心得哈哈哈哈
-
-{{< footer >}}

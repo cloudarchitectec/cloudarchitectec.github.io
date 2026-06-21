@@ -79,5 +79,3 @@ Loops 會在一天之內完成，總共有五關，一關一個小時，面試�
 ### **面試結果**
 
 一樣是面試完隔天我就收到 Recruiter 2號 (跟之前的 sourcing recruiter 是不同人) 的 email 說希望找時間跟我聊聊 interview feedback。在與 Recruiter 2 的電話對話中，我獲得了口頭 offer。經過一番思考，我決定迎接這個全新的挑戰: 新的公司文化、新的雲服務平台、新的職位、新的城市!
-
-{{< footer >}}

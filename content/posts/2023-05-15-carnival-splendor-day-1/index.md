@@ -84,5 +84,3 @@ Check-in 時我們選的是 early dine-in，所以5:15 就可以入座用餐了�
 ![遊輪九樓露天電影院設施](images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpg)
 
 *九樓的露天電影院*
-
-{{< footer >}}

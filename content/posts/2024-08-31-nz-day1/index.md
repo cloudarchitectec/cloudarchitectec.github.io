@@ -98,5 +98,3 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 ![貓咪陪睡超級療癒](images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpg)
 
 *![紐西蘭特色巧克力伴手禮](images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpg)民宿主人還送了我們紐西蘭特色巧克力*
-
-{{< footer >}}

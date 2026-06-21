@@ -99,5 +99,3 @@ tags: ["獨旅","旅遊", "歐洲", "德國"]
 ![德國麵包店精緻烘焙](images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg)
 
 *![德式土耳其 Doner 料理](images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpg)德國的麵包店跟土耳其食物真的很好吃*
-
-{{< footer >}}

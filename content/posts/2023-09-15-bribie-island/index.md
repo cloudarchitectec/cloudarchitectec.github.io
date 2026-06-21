@@ -72,5 +72,3 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 ![EC 與室友 C 的合照](images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpg)
 
 *我與室友C*
-
-{{< footer >}}

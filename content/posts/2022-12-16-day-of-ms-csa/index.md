@@ -59,5 +59,3 @@ Azure Cloud Solution Architect (CSA) 是我在微軟的工作職稱，這是我�
 這就是我菜鳥 CSA 的一天 :(
 
 總之我們的工作就是「代客 Google」，各種求神拜佛希望會有內部資源或是依靠我的各種人脈，希望可以找到一個答案。然後再根據我們的專業判斷把解答提供給客戶，如果有任何我們不確定的答案，就使出我的 consulting skills/soft skills，給出一個「雖然我現在不知道答案，但我會回去研究一下再回覆你 (I don’t have an answer to this question on top of my mind, but I’ll do a bit research and get back to you the next day. Does that sound good to you?)」 這句英文非常實用! 請大家一定要學起來XDDD
-
-{{< footer >}}

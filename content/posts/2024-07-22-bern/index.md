@@ -111,5 +111,3 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 ![琉森膠囊旅館超市晚餐](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg)
 
 *![膠囊旅館書籍交換休息區](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg)晚餐與膠囊旅館的換書區*
-
-{{< footer >}}

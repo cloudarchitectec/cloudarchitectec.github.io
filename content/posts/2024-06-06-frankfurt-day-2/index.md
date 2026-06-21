@@ -113,5 +113,3 @@ Paulaner am Dom餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 ![獨旅簡單晚餐組合](images/medium-1*9NMq9XZuQy2aYj41HEIjrA.jpg)
 
 *晚餐*
-
-{{< footer >}}

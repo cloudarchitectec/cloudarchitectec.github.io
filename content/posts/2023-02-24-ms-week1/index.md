@@ -51,5 +51,3 @@ tags: ["微軟"]
 總之，我覺得我整體來說還是挺 chilled 的，想說 onboarding 這件事我不久前才做過一次，慢慢來啦! 但內心又覺得有點不安，畢竟 infrastructure 不是我擅長的領域 (其實我也沒有擅長的領域)、SA (technical sale) 也不是我做過的職位，然後我現在的 level 是要自己扛 customer engagement 的(沒有前輩可以罩我了QAQ)。
 
 總之，希望可以成功撐過一年 (祈禱)~
-
-{{< footer >}}

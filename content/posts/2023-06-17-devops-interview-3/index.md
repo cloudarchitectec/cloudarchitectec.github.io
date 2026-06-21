@@ -138,5 +138,3 @@ HR:「那你覺得你在這個團隊可以得到你想要的職涯發展嗎?」(
 前面也說過，我的專長其實是在 cloud engineering & solution architecting，這個工作主要負責的是 DevOps & Platform engineering，是我個人完全沒有實務經驗的領域。
 
 期待成為工程師的那一天！
-
-{{< footer >}}

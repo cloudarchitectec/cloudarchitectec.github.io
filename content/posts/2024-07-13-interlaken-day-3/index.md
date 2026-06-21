@@ -47,5 +47,3 @@ Rosti 是由馬鈴薯刨絲之後浸泡過鹽水再拿去煎（薯餅已經有�
 ![疑士當地人推舉紅色啤酒](images/medium-1*DIJd_kmV2lBKihwMxRjw-Q.jpg)
 
 *疑士超市烤雕腿與啤酒*
-
-{{< footer >}}

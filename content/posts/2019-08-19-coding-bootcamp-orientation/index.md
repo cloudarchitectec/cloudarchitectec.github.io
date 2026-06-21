@@ -99,5 +99,3 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 我要是這麼喜歡與人交流或講屁話，我就不會來做 IT 了啊QAQ (未來的 EC：嗯，結果後來我發現在澳洲科技業/西方職場，self-branding 就是一切，尤其是在 Tier 1 公司如 Amazon、微軟更是如此)
 
 真心希望這只是一時的，不然我辭去穩定的工作來讀 bootcamp 真心會是我人生最大的錯誤XDDD
-
-{{< footer >}}

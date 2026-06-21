@@ -2,10 +2,24 @@
 
 from __future__ import annotations
 
+import importlib.util
+import subprocess
 from pathlib import Path
 
 from conftest import cover_check, frontmatter_check, size_check
 from PIL import Image
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+CHECK_POSTS_PATH = REPO_ROOT / "scripts" / "check-posts.py"
+
+
+def load_check_posts():
+    spec = importlib.util.spec_from_file_location("check_posts", CHECK_POSTS_PATH)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"Cannot load {CHECK_POSTS_PATH}")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
 
 UNSPLASH_FM = """\
 cover:
@@ -28,14 +42,12 @@ categories: ["海外職場"]
 ---
 
 Body content here.
-
-{{{{< footer >}}}}
 """
 
 
 def wrap(fm_body: str, body: str | None = None) -> str:
     if body is None:
-        body = f"Content.\n\n{{{{< footer >}}}}"
+        body = "Content."
     return f"---\n{fm_body}\n---\n\n{body}"
 
 
@@ -77,11 +89,11 @@ class TestFrontmatterCheck:
     def test_slug_mismatch_rejected(self):
         assert any("slug must match" in e for e in frontmatter_check.check(GOOD_POST, "wrong-dir"))
 
-    def test_missing_footer_rejected(self):
-        text = GOOD_POST.replace("{{< footer >}}", "")
+    def test_legacy_footer_shortcode_rejected(self):
+        text = GOOD_POST + "\n\n{{{{< footer >}}}}"
         assert any("footer" in e for e in frontmatter_check.check(text, "test-slug"))
 
-    def test_landing_page_without_footer_passes(self):
+    def test_landing_page_passes(self):
         text = wrap(
             'title: "List"\ndate: 2018-01-02\nslug: "2018-01-02-ec-post-list"\n'
             'cover:\n  image: "images/x.jpg"\n  alt: "x"\nimages: ["images/x.jpg"]',
@@ -92,20 +104,50 @@ class TestFrontmatterCheck:
     def test_draft_without_cover_passes(self):
         text = wrap(
             'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ndraft: true',
-            body=f"No cover.\n\n{{{{< footer >}}}}",
+            body="No cover.",
         )
         assert frontmatter_check.check(text, "draft-post") == []
 
     def test_published_without_cover_rejected(self):
         text = wrap(
             'title: "Pub"\ndate: 2025-01-01\nslug: "pub-post"',
-            body=f"No cover.\n\n{{{{< footer >}}}}",
+            body="No cover.",
         )
         assert any("cover.image" in e for e in frontmatter_check.check(text, "pub-post"))
 
     def test_unquoted_title_passes(self):
         text = GOOD_POST.replace('title: "Test post"', "title: 中文標題 without quotes")
         assert not any("title" in e for e in frontmatter_check.check(text, "test-slug"))
+
+
+class TestCheckPostsGitPaths:
+    def test_git_index_paths_match_slug_dirs(self):
+        check_posts = load_check_posts()
+        entries = check_posts.list_post_entries_from_git()
+        assert entries
+
+        git_dirs = subprocess.run(
+            ["git", "ls-files", "--", "content/posts/"],
+            cwd=REPO_ROOT,
+            capture_output=True,
+            text=True,
+            check=True,
+        )
+        expected = sorted(
+            {
+                Path(line).parts[2]
+                for line in git_dirs.stdout.splitlines()
+                if line.endswith("/index.md")
+            }
+        )
+        assert [dir_name for _, dir_name in entries] == expected
+
+    def test_slug_mismatch_detected_with_git_dir_name(self):
+        check_posts = load_check_posts()
+        md_file, dir_name = check_posts.resolve_post_path("2019-08-19-coding-bootcamp-orientation")
+        text = md_file.read_text(encoding="utf-8")
+        assert dir_name == "2019-08-19-coding-bootcamp-orientation"
+        assert frontmatter_check.check(text, dir_name) == []
 
 
 class TestImageSizeCheck:

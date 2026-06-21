@@ -123,5 +123,3 @@ Introducing Commercial Software Engineering
 最後來開個賭盤吧！你們覺得我最後會收到這個職位的 offer 嗎？
 
 請留言XD
-
-{{< footer >}}

@@ -46,7 +46,9 @@ A EC CLI tool to automate blog post creation with Unsplash images.
    - `images/PHOTO_ID.jpg` - Downloaded image
 
 5. **Publish:**
-   - Copy to Hugo content folder or use `-c` flag
+   - Copy to Hugo content folder or use `-c` flag (runs post validation automatically)
+
+**Post footer:** Subscribe + coffee CTAs render from `layouts/partials/post-footer.html` via `single.html`. Do **not** add `{{< footer >}}` to generated posts.
 
 ## Command Options
 
@@ -102,5 +104,6 @@ tools/blog-converter/
 ✅ Creates clean image filename (just the photo ID)  
 ✅ Generates Hugo front matter (ready to publish)  
 ✅ Adds image with proper photographer attribution  
-✅ Adds `{{< footer >}}` at the end  
+✅ Strips legacy `{{< footer >}}` if present (post footer is layout-driven — see README)  
+✅ Validates output via `scripts/check-posts.py` before copy  
 ✅ Creates proper folder structure  

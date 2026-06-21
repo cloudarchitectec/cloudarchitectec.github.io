@@ -118,5 +118,3 @@ Also well done on having actual content for your blog posts.
 然後聽說我們班那四個退學的人，其實都是轉到bootcamp了~ 
 
 期待明天看到 Niraj 大哥😁
-
-{{< footer >}}

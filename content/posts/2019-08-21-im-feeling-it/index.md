@@ -106,5 +106,3 @@ Coder Academy 為了推廣 Women In Tech，每個學期都會提供一名女性(
 今天 Su 跟凱西妹妹下課後還要去參加一個叫作 Code Like A Girl 的技術聚會活動(需門票)，真心佩服他們。
 
 另外這幾天我每天都輪流收到來自 CA 奶奶們(我的前同事 Rob、Sabah、Elaine、前經理 Saranne) 的慰問簡訊XDDD 覺得超級感心的啦~
-
-{{< footer >}}

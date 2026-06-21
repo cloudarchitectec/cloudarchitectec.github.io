@@ -98,5 +98,3 @@ tags: ["旅遊", "斐濟"]
 ![Tokatoka飯店泳池休閒區](images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpg)
 
 *Tokatoka Hotel 的泳池設施*
-
-{{< footer >}}

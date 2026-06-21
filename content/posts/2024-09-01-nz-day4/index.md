@@ -63,5 +63,3 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 ![陶波晚餐泰式料理](images/medium-1*7bP06F_8XC_0PqIqnXwopg.jpg)
 
 *![紐西蘭泰國菜餐廳](images/medium-1*ZsEBy48L0CmZAgJSC860Qw.jpg)![泰式風味晚餐聚餐](images/medium-1*GOLqRjWO1ajauko9Yh9lHA.jpg)晚餐吃泰式料理*
-
-{{< footer >}}

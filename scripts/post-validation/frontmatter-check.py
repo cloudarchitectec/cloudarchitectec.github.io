@@ -23,8 +23,7 @@ _cover = _load_cover_check()
 parse_cover = _cover.parse_cover
 split_post = _cover.split_post
 
-FOOTER = re.compile(r"\{\{<\s*footer\s*>\}\}\s*$")
-LANDING = re.compile(r"\{\{<\s*categorized-posts\s*>\}\}")
+FOOTER_LEGACY = re.compile(r"\{\{<\s*footer\s*>\}\}")
 
 
 def get_fm_scalar(fm: str, key: str) -> str | None:
@@ -62,8 +61,10 @@ def check(text: str, dir_name: str) -> list[str]:
         errors.append(f"slug must match directory name (slug={slug!r}, dir={dir_name!r})")
 
     body_stripped = body.rstrip()
-    if body_stripped and not FOOTER.search(body_stripped) and not LANDING.search(body_stripped):
-        errors.append("body must end with {{< footer >}} (or use {{< categorized-posts >}} landing page)")
+    if FOOTER_LEGACY.search(body_stripped):
+        errors.append(
+            "remove {{< footer >}} from body — post footer renders from layouts/partials/post-footer.html"
+        )
 
     if not is_draft(fm):
         cover = parse_cover(fm)

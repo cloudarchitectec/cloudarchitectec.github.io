@@ -59,6 +59,8 @@
     {{- end }}
   </footer>
 
+  {{- partial "post-footer.html" . }}
+
   {{- partial "comments.html" . }}
   
   {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}

@@ -2,6 +2,7 @@
 """
 Automates the creation of Hugo blog posts from markdown files with Unsplash images.
 Emits cover.image / cover.alt / cover.credit front matter (no duplicate body hero).
+Post footer (subscribe + coffee) is layout-driven — never appends {{< footer >}}.
 Post rules enforced by scripts/post-validation/ — run scripts/check-posts.py --help.
 """
 
@@ -207,6 +208,14 @@ def remove_front_matter(content):
                 break
 
     return "\n".join(lines[start_idx:]).strip()
+
+
+FOOTER_LEGACY = re.compile(r"\n?\{\{<\s*footer\s*>\}\}\s*")
+
+
+def strip_legacy_footer_shortcode(content: str) -> str:
+    """Remove deprecated {{< footer >}} — post footer is layout-driven (post-footer.html)."""
+    return FOOTER_LEGACY.sub("", content).rstrip()
 
 
 def build_cover_credit(metadata: dict) -> dict[str, str]:
@@ -420,7 +429,7 @@ def main(input_file, auto_copy, no_hugo):
                 break
             click.echo("❌ Alt text is required when adding a cover image.")
 
-    clean_content = remove_front_matter(content)
+    clean_content = strip_legacy_footer_shortcode(remove_front_matter(content))
     front_matter = generate_front_matter(
         extracted_title,
         slug,
@@ -432,9 +441,7 @@ def main(input_file, auto_copy, no_hugo):
         credit=cover_credit,
     )
 
-    final_content = f"{front_matter}\n\n{clean_content}"
-    if not final_content.strip().endswith("{{< footer >}}"):
-        final_content += "\n\n{{< footer >}}"
+    final_content = f"{front_matter}\n\n{clean_content}".rstrip() + "\n"
 
     index_path = post_dir / "index.md"
     index_path.write_text(final_content, encoding="utf-8")
