@@ -4,7 +4,7 @@
 Rules live in scripts/post-validation/cover-check.py and frontmatter-check.py.
 
 Usage:
-  python3 scripts/check-posts.py              # full repo (CI)
+  python3 scripts/check-posts.py              # full repo (CI; uses git index paths)
   python3 scripts/check-posts.py --post SLUG  # single post
   python3 scripts/check-posts.py --staged     # git staged posts (pre-commit)
 """
@@ -18,7 +18,8 @@ import sys
 from pathlib import Path
 
 SCRIPTS_DIR = Path(__file__).resolve().parent
-POSTS_DIR = SCRIPTS_DIR.parent / "content" / "posts"
+REPO_ROOT = SCRIPTS_DIR.parent
+POSTS_DIR = REPO_ROOT / "content" / "posts"
 POST_VALIDATION_DIR = SCRIPTS_DIR / "post-validation"
 
 
@@ -39,45 +40,98 @@ frontmatter_check = load_check_module("frontmatter-check.py")
 size_check = load_check_module("image-size-check.py")
 
 
-def resolve_post_path(arg: str) -> Path:
-    path = Path(arg)
-    if path.is_file():
-        return path.resolve()
-    candidate = POSTS_DIR / arg / "index.md"
-    if candidate.is_file():
-        return candidate.resolve()
-    candidate = POSTS_DIR / arg
-    if candidate.is_file():
-        return candidate.resolve()
-    raise FileNotFoundError(f"Post not found: {arg}")
+def git_dir_name(path: str) -> str | None:
+    parts = Path(path).parts
+    if len(parts) >= 3 and parts[0] == "content" and parts[1] == "posts":
+        return parts[2]
+    return None
 
 
-def get_staged_post_dirs() -> list[Path]:
+def list_post_entries_from_git() -> list[tuple[Path, str]]:
+    """List post index.md files using git index paths (case-sensitive, matches Linux CI)."""
     result = subprocess.run(
-        ["git", "diff", "--cached", "--name-only", "--diff-filter=ACMR"],
+        ["git", "ls-files", "--", "content/posts/"],
+        cwd=REPO_ROOT,
         capture_output=True,
         text=True,
         check=False,
     )
-    dirs: set[Path] = set()
+    if result.returncode != 0:
+        print("❌ git ls-files failed; cannot validate posts without git index paths")
+        return []
+
+    entries: list[tuple[Path, str]] = []
+    seen: set[str] = set()
+    for line in result.stdout.splitlines():
+        line = line.strip()
+        if not line.endswith("/index.md"):
+            continue
+        dir_name = git_dir_name(line)
+        if dir_name is None or dir_name in seen:
+            continue
+        seen.add(dir_name)
+        entries.append((REPO_ROOT / line, dir_name))
+
+    return sorted(entries, key=lambda item: item[1])
+
+
+def resolve_post_path(arg: str) -> tuple[Path, str]:
+    path = Path(arg)
+    if path.is_file():
+        resolved = path.resolve()
+        try:
+            rel = resolved.relative_to(REPO_ROOT.resolve())
+            dir_name = git_dir_name(str(rel))
+            if dir_name is not None:
+                return resolved, dir_name
+        except ValueError:
+            pass
+        return resolved, resolved.parent.name
+
+    candidate = POSTS_DIR / arg / "index.md"
+    if candidate.is_file():
+        return candidate.resolve(), arg
+
+    candidate = POSTS_DIR / arg
+    if candidate.is_file():
+        return candidate.resolve(), Path(arg).stem
+
+    raise FileNotFoundError(f"Post not found: {arg}")
+
+
+def get_staged_post_entries() -> list[tuple[Path, str]]:
+    result = subprocess.run(
+        ["git", "diff", "--cached", "--name-only", "--diff-filter=ACMR"],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    entries: list[tuple[Path, str]] = []
+    seen: set[str] = set()
     for line in result.stdout.splitlines():
         line = line.strip()
         if not line.startswith("content/posts/"):
             continue
-        parts = Path(line).parts
-        if len(parts) >= 3:
-            dirs.add(POSTS_DIR / parts[2])
-    return sorted(dirs)
+        dir_name = git_dir_name(line)
+        if dir_name is None or dir_name in seen:
+            continue
+        md_file = POSTS_DIR / dir_name / "index.md"
+        if not md_file.is_file():
+            continue
+        seen.add(dir_name)
+        entries.append((md_file, dir_name))
+    return sorted(entries, key=lambda item: item[1])
 
 
-def validate_post(md_file: Path) -> tuple[list[str], list[str], bool]:
+def validate_post(md_file: Path, dir_name: str) -> tuple[list[str], list[str], bool]:
     """Return (errors, warnings, has_image_refs)."""
     text = md_file.read_text(encoding="utf-8", errors="replace")
     post_dir = md_file.parent
     errors: list[str] = []
     warnings: list[str] = []
 
-    errors.extend(frontmatter_check.check(text, post_dir.name))
+    errors.extend(frontmatter_check.check(text, dir_name))
     errors.extend(cover_check.check(text))
 
     size_warnings, size_errors = size_check.check_post_images(
@@ -95,7 +149,7 @@ def validate_post(md_file: Path) -> tuple[list[str], list[str], bool]:
 
 
 def run_checks(
-    md_files: list[Path],
+    entries: list[tuple[Path, str]],
     post_dirs_for_double_ext: list[Path] | None,
     label: str,
 ) -> int:
@@ -110,21 +164,21 @@ def run_checks(
             print(f"  {err}")
         return 1
 
-    for md_file in md_files:
-        errors, warnings, has_refs = validate_post(md_file)
+    for md_file, dir_name in entries:
+        errors, warnings, has_refs = validate_post(md_file, dir_name)
         if has_refs:
             checked_with_images += 1
         for w in warnings:
-            warn_items.append((md_file.parent.name, w))
+            warn_items.append((dir_name, w))
         if errors:
-            format_failures.append((md_file.parent.name, errors))
+            format_failures.append((dir_name, errors))
 
     if label == "single":
-        print(f"Checked post: {md_files[0].parent.name}")
+        print(f"Checked post: {entries[0][1]}")
     elif label == "staged":
-        print(f"Checked {len(md_files)} staged post(s) ({checked_with_images} with image refs)")
+        print(f"Checked {len(entries)} staged post(s) ({checked_with_images} with image refs)")
     else:
-        print(f"Checked {len(md_files)} posts ({checked_with_images} with image refs)")
+        print(f"Checked {len(entries)} posts ({checked_with_images} with image refs)")
 
     if warn_items:
         print(f"⚠️  {len(warn_items)} image size warning(s):")
@@ -166,22 +220,25 @@ def main() -> int:
 
     if args.post:
         try:
-            md_file = resolve_post_path(args.post)
+            md_file, dir_name = resolve_post_path(args.post)
         except FileNotFoundError as exc:
             print(f"❌ {exc}")
             return 1
-        return run_checks([md_file], [md_file.parent], "single")
+        return run_checks([(md_file, dir_name)], [md_file.parent], "single")
 
     if args.staged:
-        post_dirs = get_staged_post_dirs()
-        if not post_dirs:
+        entries = get_staged_post_entries()
+        if not entries:
             print("No staged post changes under content/posts/")
             return 0
-        md_files = [d / "index.md" for d in post_dirs if (d / "index.md").is_file()]
-        return run_checks(md_files, post_dirs, "staged")
+        post_dirs = [md_file.parent for md_file, _ in entries]
+        return run_checks(entries, post_dirs, "staged")
 
-    md_files = sorted(POSTS_DIR.rglob("index.md"))
-    return run_checks(md_files, None, "all")
+    entries = list_post_entries_from_git()
+    if not entries:
+        print("❌ No posts found via git ls-files under content/posts/")
+        return 1
+    return run_checks(entries, None, "all")
 
 
 if __name__ == "__main__":

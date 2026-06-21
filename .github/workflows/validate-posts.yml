@@ -1,0 +1,23 @@
+name: Validate Posts
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Validate Hugo posts
+        run: python3 scripts/check-posts.py
+
+      - name: Run post validation tests
+        run: |
+          pip install -q -r requirements.txt
+          pytest tests/ -q

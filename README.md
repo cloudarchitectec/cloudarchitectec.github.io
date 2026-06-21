@@ -30,7 +30,9 @@ pip install pre-commit
 pre-commit install
 ```
 
-This runs `scripts/check-posts.py --staged` on any commit touching `content/posts/`. Full scan: `python3 scripts/check-posts.py`. Tests: `pip install -r requirements.txt && pytest tests/`.
+This runs `scripts/check-posts.py --staged` on any commit touching `content/posts/`. Full scan uses `git ls-files` index paths (case-sensitive, matches Linux CI on macOS): `python3 scripts/check-posts.py`. Tests: `pip install -r requirements.txt && pytest tests/`.
+
+Pull requests to `main` also run post validation on Ubuntu (`.github/workflows/validate-posts.yml`) before deploy.
 
 
 ## Features
