@@ -2,15 +2,15 @@
 title: "微軟 Azure 雲端證照: AZ-305 Azure Solutions Architect Expert  證照考試心得"
 date: 2023-01-14
 slug: "2023-01-14-az-305"
-image: "images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png"
+cover:
+  image: "images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png"
+  alt: "Exam badge of AZ Solutions Architect Expert"
+  caption: "Microsoft Certified Azure Solution Architect Expert"
 images: ['images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png']
 categories: ["海外職場"]
 tags: ["雲端證照"]
+
 ---
-
-![Exam badge of AZ Solutions Architect Expert](images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png)
-
-*Microsoft Certified Azure Solution Architect Expert*
 
 * * *
 

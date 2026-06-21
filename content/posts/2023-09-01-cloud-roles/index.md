@@ -2,17 +2,23 @@
 title: "Software Engineer、Cloud Engineer、DevOps Engineer 熱門職位技能樹大公開：都是工程師，我們寫的程式居然不一樣？"
 date: 2023-09-01
 slug: "2023-09-01-cloud-roles"
-image: "images/medium-0*-brIU6Z7a6AQFe6B.jpg"
+cover:
+  image: "images/medium-0*-brIU6Z7a6AQFe6B.jpg"
+  alt: "Software Engineer、Cloud Engineer、DevOps Engineer 熱門職位技能樹大公開：都是工程師，我們寫的程式居然不一樣？"
+  credit:
+    photographer: "Jossuha Théophile"
+    photographer_url: "https://unsplash.com/@nunchakouy"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*-brIU6Z7a6AQFe6B.jpg', 'images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png', 'images/medium-1*uvMwEGVDyxV5k7f3r11mrg.png', 'images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png', 'images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png', 'images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png']
 categories: ["海外職場"]
 tags: ["雲端架構師"]
+
 ---
 
 * * *
 
 ### Software Engineer、Cloud Engineer、DevOps Engineer 熱門職位技能樹大公開：都是工程師，我們寫的程式居然不一樣？
 
-![](images/medium-0*-brIU6Z7a6AQFe6B.jpg)Photo by [Jossuha Théophile](https://unsplash.com/@nunchakouy?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 

@@ -2,17 +2,23 @@
 title: "轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思"
 date: 2023-09-08
 slug: "2023-09-08-reflection-on-transition"
-image: "images/medium-0*RZlpg-Oae0Ai-ckp.jpg"
+cover:
+  image: "images/medium-0*RZlpg-Oae0Ai-ckp.jpg"
+  alt: "FAANG工程師轉職成功反思"
+  credit:
+    photographer: "Federico Beccari"
+    photographer_url: "https://unsplash.com/@federize"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*RZlpg-Oae0Ai-ckp.jpg', 'images/medium-1*p-3UiwWyvNPEmIzUrGPvxg.png', 'images/medium-1*O7vFsi0MX11kiDTCGNydUg.png']
 categories: ["海外職場"]
 tags: ["轉職工程師"]
+
 ---
 
 * * *
 
 ### 轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思
 
-![FAANG工程師轉職成功反思](images/medium-0*RZlpg-Oae0Ai-ckp.jpg)Photo by [Federico Beccari](https://unsplash.com/@federize?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 

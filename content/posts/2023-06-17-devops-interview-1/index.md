@@ -2,13 +2,18 @@
 title: 澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-1"
-image: "images/medium-0*QVp3aout5pRymdfN.jpg"
+cover:
+  image: "images/medium-0*QVp3aout5pRymdfN.jpg"
+  alt: "DevOps平台工程師技術面試"
+  credit:
+    photographer: "AltumCode"
+    photographer_url: "https://unsplash.com/@altumcode"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*QVp3aout5pRymdfN.jpg', 'images/medium-1*6nycs2is5wewr0ctsxJjcg.png']
 categories: ["海外職場"]
 tags: ["DevOps 工程師","澳洲面試心得"]
----
 
-![DevOps平台工程師技術面試](images/medium-0*QVp3aout5pRymdfN.jpg)Photo by [AltumCode](https://unsplash.com/@altumcode?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 ### **Round 1: Technical Interview with DevOps Manager**
 

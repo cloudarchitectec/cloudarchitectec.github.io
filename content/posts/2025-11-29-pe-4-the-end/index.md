@@ -2,15 +2,19 @@
 title: "[我要升官加薪] 大結局：沒有升官加薪，但我很好"
 date: 2025-11-29
 slug: "2025-11-29-pe-4-the-end"
-image: "images/frank-albrecht-WDVbXsVUncQ-unsplash.jpg"
-images: []
+cover:
+  image: "images/frank-albrecht-WDVbXsVUncQ-unsplash.jpg"
+  alt: "end"
+  credit:
+    photographer: "Frank Albrecht"
+    photographer_url: "https://unsplash.com/@shotaspot"
+    photo_url: "https://unsplash.com/photos/brown-wooden-dock-beside-body-of-water-at-daytime-WDVbXsVUncQ"
+images: ["images/frank-albrecht-WDVbXsVUncQ-unsplash.jpg"]
 categories: ["海外職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
+
 ---
 
-![end](/images/frank-albrecht-WDVbXsVUncQ-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@shotaspot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Frank Albrecht</a> on <a href="https://unsplash.com/photos/brown-wooden-dock-beside-body-of-water-at-daytime-WDVbXsVUncQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
 
 **2025.11.19 | 布里斯本**

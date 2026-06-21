@@ -2,17 +2,19 @@
 title: "Amazon：你不知道的亞馬遜辦公室 — IT 設備販賣機"
 date: 2023-03-24
 slug: "2023-03-24-it-vending-machine"
-image: "images/medium-1*js1PtztgDyYljTiVon93-w.jpg"
+cover:
+  image: "images/medium-1*js1PtztgDyYljTiVon93-w.jpg"
+  alt: "IT 設備販賣機 \\(IT accessories vending machine\\)"
 images: ['images/medium-1*js1PtztgDyYljTiVon93-w.jpg']
 categories: ["海外職場"]
 tags: ["科技業", "AWS"]
+
 ---
 
 之前我在 AWS 工作的時候，最喜歡的就是拜訪各地的辦公室。澳洲來說，我去過坎培拉、雪梨、墨爾本、伯斯，海外的話則是去過新加坡跟台北的辦公室，每個都長得很類似，但又有自己不同的風格!
 
 其中我最喜歡的就是這台 IT 設備販賣機(不是每個辦公室都有，像坎培拉就沒有)，員工們可以刷 AWS 的員工證免費獲得工作上需要的 IT 設備。例如以下這台就是我去年在台北辦公室使用的自動販賣機:
 
-![IT 設備販賣機 \(IT accessories vending machine\)](images/medium-1*js1PtztgDyYljTiVon93-w.jpg)
 
 我看到的時候非常驚喜，因為久居澳洲的原因，我幾乎所有的3C插頭都是澳洲規格的八字型，於是我立刻在 IT 販賣機拿了一個 61W 的 usb-c 台灣插頭跟一條兩公尺的 usb-c 線XD！
 

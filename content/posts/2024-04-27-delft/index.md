@@ -2,19 +2,21 @@
 title: "一個女生的歐洲獨旅: 2024.04.27 荷蘭 在藍瓷小鎮台夫特 (Delft) 慶祝國王節"
 date: 2024-04-27
 slug: "2024-04-27-delft"
-image: "images/medium-1*iZBJQceEcHZX_UyJyBY-BQ.jpg"
+cover:
+  image: "images/medium-1*iZBJQceEcHZX_UyJyBY-BQ.jpg"
+  alt: "荷蘭精美郵票設計"
+  caption: "荷蘭的郵票真心太可愛！"
 images: ['images/medium-1*iZBJQceEcHZX_UyJyBY-BQ.jpg', 'images/medium-1*2G80AH0uJdcbyiN6NS9KBw.jpg', 'images/medium-1*dPmYODwOd2u3MAUIiOEGbg.jpg', 'images/medium-1*jSA9dQaTaaHGnCumGaNMCQ.jpg', 'images/medium-1*jEt8b4BMlX9iKO3hWnaUmg.jpg', 'images/medium-1*F_5EKmGeVzycpPzqRMzP0Q.jpg', 'images/medium-1*R3AJTFraMz0I1zi0QkzzPw.jpg', 'images/medium-1*cjIbm8jjWUkqbLTGJQqGJg.jpg', 'images/medium-1*M8szS0QHbXy5pv3rurTD5Q.jpg', 'images/medium-1*e2FULclg8xAk7duIBMQLtA.jpg', 'images/medium-1*BR6OBQdh4SdCUHVwQ9Aj9g.jpg', 'images/medium-1*oEP4BWLeVut-6iQmoAQWeQ.jpg', 'images/medium-1*iVA3hZl5Qt5WoTbNJDt_sw.jpg', 'images/medium-1*XinAmbcwpo7qS3v9slQnfw.jpg', 'images/medium-1*IClL30Sy9HZR4UEqI8o6Dw.jpg', 'images/medium-1*CAsSxcSp4b_prMaGHJ_HnQ.jpg', 'images/medium-1*F3ZaM5dkgW0K87Fnnj64fQ.jpg', 'images/medium-1*3cku1hvnbxJhLr8KJ6UX4Q.jpg', 'images/medium-0*LrQk1rT6zRrnPHB3.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
+
 ---
 
 * * *
 
 ### **一個女生的歐洲獨旅:** 2024.04.27 **荷蘭** 在藍瓷小鎮台夫特 (Delft) 慶祝國王節
 
-![荷蘭精美郵票設計](images/medium-1*iZBJQceEcHZX_UyJyBY-BQ.jpg)
 
-*荷蘭的郵票真心太可愛！*
 
 其實我一直到了荷蘭之後，才發現我剛好遇到了國王節 (Koningsdag)!
 

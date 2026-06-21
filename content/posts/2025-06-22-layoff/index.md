@@ -2,13 +2,18 @@
 title: "倖存者日記：沒想到 2025 Q2 年還有續集？當裁員成為澳洲科技業的新常態！"
 date: 2025-06-22
 slug: "2025-06-22-layoff"
-image: "images/medium-0*dVrFM_l0OZd8FyPr.jpg"
+cover:
+  image: "images/medium-0*dVrFM_l0OZd8FyPr.jpg"
+  alt: "職場裁員情境示意圖"
+  credit:
+    photographer: "Andrew Winkler"
+    photographer_url: "https://unsplash.com/@andrew_winky"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*dVrFM_l0OZd8FyPr.jpg']
 categories: ["海外職場"]
 tags: ["裁員"]
----
 
-![職場裁員情境示意圖](images/medium-0*dVrFM_l0OZd8FyPr.jpg)Photo by [Andrew Winkler](https://unsplash.com/@andrew_winky?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 ### 前言
 

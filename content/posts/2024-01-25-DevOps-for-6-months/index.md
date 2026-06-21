@@ -2,15 +2,21 @@
 title: "轉職 DevOps 工程師的第六個月：從焦慮到找到穩定節奏"
 date: 2024-01-25
 slug: "2024-01-25-DevOps-for-6-months"
-image: "images/medium-0*s0H-Uir4l9_Oukde.jpg"
+cover:
+  image: "images/medium-0*s0H-Uir4l9_Oukde.jpg"
+  alt: "DevOps工作環境示意圖"
+  credit:
+    photographer: "John Schnobrich"
+    photographer_url: "https://unsplash.com/@johnishappysometimes"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*s0H-Uir4l9_Oukde.jpg']
 categories: ["海外職場"]
 tags: ["薪資"]
+
 ---
 
 * * *
 
-![DevOps工作環境示意圖](images/medium-0*s0H-Uir4l9_Oukde.jpg)Photo by [John Schnobrich](https://unsplash.com/@johnishappysometimes?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前情提要
 

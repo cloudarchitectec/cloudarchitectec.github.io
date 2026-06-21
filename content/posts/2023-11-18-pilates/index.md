@@ -2,16 +2,22 @@
 title: "我在澳洲練皮拉提茲：Studio Pilates vs Pronto Pilates 課程比較"
 date: 2023-11-18
 slug: "2023-11-18-pilates"
-image: "images/medium-0*RRTjZyO7i2FCSmM-.jpg"
+cover:
+  image: "images/medium-0*RRTjZyO7i2FCSmM-.jpg"
+  alt: "澳洲皮拉提茲健身運動"
+  credit:
+    photographer: "freya yanggg yang"
+    photographer_url: "https://unsplash.com/@freyayangg"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*RRTjZyO7i2FCSmM-.jpg', 'images/medium-1*EGMeKQfy_75a5-xZry2xTg.jpg', 'images/medium-1*vZFyomAS_VX54Lo5MDqbdQ.jpg', 'images/medium-1*8mYZNpr0isaqw6x1F7fFwQ.jpg', 'images/medium-1*IqrCubsSNaHqBc2jHuizeA.jpg', 'images/medium-1*M8ckqxttpdCx7ChyxJtxiw.jpg', 'images/medium-1*iNULrvQmIESqqY4WQHfIkQ.jpg']
 categories: ["澳洲生活"]
+
 ---
 
 * * *
 
 ### 我在澳洲練皮拉提茲：Studio Pilates vs Pronto Pilates 課程比較
 
-![澳洲皮拉提茲健身運動](images/medium-0*RRTjZyO7i2FCSmM-.jpg)Photo by [freya yanggg yang](https://unsplash.com/@freyayangg?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 為什麼開始皮拉提茲 (pilates)
 

@@ -2,14 +2,15 @@
 title: "一個女生的歐洲獨旅: 2024.05.07 瑞士茵特拉肯 (Interlaken) Day 3: 好險我昨天上了少女峰"
 date: 2024-07-13
 slug: "2024-07-13-interlaken-day-3"
-image: "images/medium-1*kAztuhou_5maw331hvUdXw.jpg"
+cover:
+  image: "images/medium-1*kAztuhou_5maw331hvUdXw.jpg"
+  alt: "瑞士連鎖超市Migros外觀"
+  caption: "瑞士超市龍頭之一 Migros"
 images: ['images/medium-1*kAztuhou_5maw331hvUdXw.jpg', 'images/medium-1*KzPeX-mkySD8oBv38-KZCg.jpg', 'images/medium-1*khEc7eb4lgXXar6qXtfXxQ.jpg', 'images/medium-1*EaAvP0YQfDVZeeOS20hSkQ.jpg', 'images/medium-1*dpF3Q-Xh-VeKKJzznYZB4Q.jpg', 'images/medium-1*-YDjgc09vwAK7QLHLP-XBA.jpg', 'images/medium-1*DIJd_kmV2lBKihwMxRjw-Q.jpg', 'images/medium-0*oIRZcoDMy4YKZ_O8.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "瑞士"]
----
-![瑞士連鎖超市Migros外觀](images/medium-1*kAztuhou_5maw331hvUdXw.jpg)
 
-*瑞士超市龍頭之一 Migros*
+---
 
 非 Medium 付費會員，[請長按此處免費閱讀這篇文章](/posts/2024-07-13-interlaken-day-3/?source=friends_link&sk=eca18977cf659cd726abe3e8ceb7e7ae)
 

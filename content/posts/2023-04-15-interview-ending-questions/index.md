@@ -2,13 +2,18 @@
 title: "澳洲求職必勝法則：英文面試結尾別說沒問題！這樣反問面試官才加分"
 date: 2023-04-15
 slug: "2023-04-15-interview-ending-questions"
-image: "images/medium-0*e6sW2xjAmuheAzMv.jpg"
+cover:
+  image: "images/medium-0*e6sW2xjAmuheAzMv.jpg"
+  alt: "澳洲英文職場面試技巧策略"
+  credit:
+    photographer: "Christina @ wocintechchat.com"
+    photographer_url: "https://unsplash.com/@wocintechchat"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*e6sW2xjAmuheAzMv.jpg']
 categories: ["海外職場"]
 tags: ["澳洲求職必勝法則","英文面試"]
----
 
-![澳洲英文職場面試技巧策略](images/medium-0*e6sW2xjAmuheAzMv.jpg)Photo by [Christina @ wocintechchat.com](https://unsplash.com/it/@wocintechchat?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 之前在[澳洲求職必勝法則：前 Amazon & 微軟架構師的英文面試準備策略] 提到一個好的面試官在面試過程中絕對都會留下一點時間給申請人問問題。這時候如果申請人提出了一些好問題，不僅可以幫助你更加了解即將加入的公司與團隊文化，更可以在面試官心中留下一個好印象，大大提高錄取機率。
 

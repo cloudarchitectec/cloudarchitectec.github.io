@@ -2,15 +2,18 @@
 title: "好想要退休！退休前的最後一堂課：比 FIRE 數字更重要的，其實是這件事"
 date: 2026-06-17
 slug: "2026-06-17-retirement-plan"
-image: "images/cEukkv42O40-unsplash.jpg"
+cover:
+  image: "images/cEukkv42O40-unsplash.jpg"
+  alt: "海邊兩張藍色躺椅面向水面"
+  credit:
+    photographer: "Aaron Burden"
+    photographer_url: "https://unsplash.com/@aaronburden"
+    photo_url: "https://unsplash.com/photos/two-blue-beach-chairs-near-body-of-water-cEukkv42O40"
 images: ["images/cEukkv42O40-unsplash.jpg"]
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
+
 ---
-
-![landing](/images/cEukkv42O40-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aaron Burden</a> on <a href="https://unsplash.com/photos/two-blue-beach-chairs-near-body-of-water-cEukkv42O40?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 說到退休，我以前覺得那是一個很遙遠的詞，好像也不需要特別規劃，等時候到了就會自然發生？
 

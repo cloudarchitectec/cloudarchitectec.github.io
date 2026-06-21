@@ -2,17 +2,19 @@
 title: "太平洋小島上的大冒險：2025.04.27 Vanuatu Day 9 挑戰完成！一個女生成功闖蕩萬那杜！"
 date: 2025-04-27
 slug: "2025-04-27-vanuatu-day-9"
-image: "images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpg"
+cover:
+  image: "images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpg"
+  alt: "萬那杜市區街頭裝置藝術"
+  caption: "路上的裝置藝術"
 images: ['images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpg', 'images/medium-1*dlFgcc4hWF6Y1ZL0Fw3v3A.jpg', 'images/medium-1*W6e-W_o7sIATHLf13xk2sw.jpg', 'images/medium-1*qf5pYOcKf9PeGysyIsRyVw.jpg', 'images/medium-1*zbH0C-tNr31MyDnC4ILtbg.jpg', 'images/medium-1*rqb22i2t6i1nn4X2Ah32ig.jpg', 'images/medium-1*cc5t5_L95vCfSY1s5AWoQg.jpg', 'images/medium-1*_PlvryNofM3xK3qR7gWCjw.jpg', 'images/medium-1*uedO4Yq7iK3vC8YSiVf0ig.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
+
 ---
 
 (I’m flying home today 🇦🇺❤️)
 
-![萬那杜市區街頭裝置藝術](images/medium-1*79BTSKKCfYNyo7Pw0jkTDA.jpg)
 
-*路上的裝置藝術*
 
 ### 最後的市區半日遊
 

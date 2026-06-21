@@ -145,9 +145,10 @@
 <!-- Enhanced article layout for home page -->
 {{- if $.IsHome }}
 <article class="enhanced-post-entry">
-  {{- if .Params.image }}
+  {{- if .Params.cover.image }}
   <div class="post-image">
-    <img src="{{ .RelPermalink }}{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+    {{- $img := .Params.cover.image }}
+    <img src="{{ .RelPermalink }}{{ $img }}" alt="{{ .Params.cover.alt | default .Title }}" loading="lazy">
   </div>
   {{- else }}
   <div class="post-image" style="display: flex; align-items: center; justify-content: center; color: var(--secondary);">

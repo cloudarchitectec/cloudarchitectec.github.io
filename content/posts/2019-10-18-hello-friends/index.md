@@ -2,11 +2,11 @@
 title: "零基礎轉職澳洲工程師: 2019.10.18 Hello Friends!!!"
 date: 2019-10-18
 slug: "2019-10-18-hello-friends"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
+
 ---
 
 2019-10-18

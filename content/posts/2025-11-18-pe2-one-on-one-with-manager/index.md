@@ -2,16 +2,18 @@
 title: "[我要升官加薪] 第二集：跟主管聊完之後，我決定申請了"
 date: 2025-11-18
 slug: "2025-11-18-pe2-one-on-one-with-manager"
-image: "images/brett-jordan-bf1797VxQgY-unsplash.jpg"
-images: []
+cover:
+  image: "images/brett-jordan-bf1797VxQgY-unsplash.jpg"
+  alt: "one-on-one"
+  credit:
+    photographer: "Brett Jordan"
+    photographer_url: "https://unsplash.com/@brett-jordan"
+    photo_url: "https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-bf1797VxQgY"
+images: ["images/brett-jordan-bf1797VxQgY-unsplash.jpg"]
 categories: ["海外職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
+
 ---
-
-
-![one-on-one](images/brett-jordan-bf1797VxQgY-unsplash.jpg)Photo by [Brett Jordan ](https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-bf1797VxQgY)
-
-
 
 **2025.10.13 | 布里斯本**
 

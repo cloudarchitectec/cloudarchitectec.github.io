@@ -2,13 +2,18 @@
 title: "澳洲面試心得：全澳最大旅行社公司 Flight Centre - DevOps Security Engineer"
 date: 2023-06-09
 slug: "2023-06-09-flight-centre-interview"
-image: "images/medium-0*nKEd05l3NF0Z26i8.jpg"
+cover:
+  image: "images/medium-0*nKEd05l3NF0Z26i8.jpg"
+  alt: "澳洲DevOps資安工程師面試"
+  credit:
+    photographer: "Eldar Nazarov"
+    photographer_url: "https://unsplash.com/@eldarnazarov"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png']
 categories: ["海外職場"]
 tags: ["DevOps 工程師","澳洲面試心得"]
----
 
-![澳洲DevOps資安工程師面試](images/medium-0*nKEd05l3NF0Z26i8.jpg)Photo by [Eldar Nazarov](https://unsplash.com/@eldarnazarov?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 光說不練非君子XD
 

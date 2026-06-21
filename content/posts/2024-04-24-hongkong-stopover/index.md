@@ -2,16 +2,17 @@
 title: "一個女生的歐洲獨旅: 2024.04.24 香港轉機之昂坪纜車/大佛/市集一日遊"
 date: 2024-04-24
 slug: "2024-04-24-hongkong-stopover"
-image: "images/1*jyJocl-EZQDLk0Tg0ZWSQg.jpg"
+cover:
+  image: "images/1*jyJocl-EZQDLk0Tg0ZWSQg.jpg"
+  alt: "香港昂坪纜車"
 images:
-  - /images/1*jyJocl-EZQDLk0Tg0ZWSQg.jpg
-  - /images/1*3Ly1B0aUloXiWUr1iJejYw.jpg
-  - /images/1*BfFkvUzLns0xJZlGXX2lmA.jpg
+  - images/1*jyJocl-EZQDLk0Tg0ZWSQg.jpg
+  - images/1*3Ly1B0aUloXiWUr1iJejYw.jpg
+  - images/1*BfFkvUzLns0xJZlGXX2lmA.jpg
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "香港"]
----
 
-![香港昂坪纜車](/images/1*jyJocl-EZQDLk0Tg0ZWSQg.jpg)
+---
 
 這次 17 天的歐洲行我搭的是國泰，去程從布里斯本飛荷蘭阿姆斯特丹，中間在香港轉機15.5小時(第一段飛機 00:55–07:45，第二段飛機 23:10 — 06:55)，時間非常完美，剛好可以在香港出境一日遊！
 
@@ -37,7 +38,7 @@ tags: ["獨旅","旅遊", "歐洲", "香港"]
 
 接著我從機場1號客運大樓旁一號停車場前的巴士站搭 S1 號巴士，到東涌港鐵站巴士總站下車。這裡是一個地鐵/巴士站，東薈城outlet 也跟這個車站連在一起，大概走五分鐘就可以走到昂坪纜車站。
 
-![昂坪纜車景色](/images/1*3Ly1B0aUloXiWUr1iJejYw.jpg)
+![昂坪纜車景色](images/1*3Ly1B0aUloXiWUr1iJejYw.jpg)
 
 昂坪纜車票強烈建議事先購買，因為現場的排隊人潮真的很長！而且透過KKday 購票其實更便宜。我上網查的時候纜車有分兩種一般纜車跟水晶纜車(地板是透明的），我自己是買水晶纜車，但我建議買一般的就可以了！因為雖然地板是透明的很酷，但腳底下真的沒什麼好看的XDDD
 
@@ -49,7 +50,7 @@ tags: ["獨旅","旅遊", "歐洲", "香港"]
 
 纜車的終點站就是昂坪市集，有很多有趣的特色小店，滿值得一逛的。但我建議不要在上面用餐，因為所有餐廳的價格都很高，而且評價都很差。我自己是結束後回到山腳下的東薈城 outlet 吃東西，這裡的選擇超級多！
 
-![昂坪市集](/images/1*BfFkvUzLns0xJZlGXX2lmA.jpg)
+![昂坪市集](images/1*BfFkvUzLns0xJZlGXX2lmA.jpg)
 
 昂坪市集的終點就是昂坪大佛，不得不說近看真的很壯觀！要上去大佛要爬250階階梯，平常有在練腿的朋友，展現你們的實力的機會來了XDD
 

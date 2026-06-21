@@ -2,12 +2,17 @@
 title: "辭職去流浪，真的是解答嗎？"
 date: 2024-09-13
 slug: "2024-09-13-quit-and-travel"
-image: "images/medium-0*MY-EdliKyYS6OBxE.jpg"
+cover:
+  image: "images/medium-0*MY-EdliKyYS6OBxE.jpg"
+  alt: "澳洲裸辭旅行生活規劃"
+  credit:
+    photographer: "Jordan Ladikos"
+    photographer_url: "https://unsplash.com/@jordanladikos"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*MY-EdliKyYS6OBxE.jpg']
 categories: ["澳洲生活"]
----
 
-![澳洲裸辭旅行生活規劃](images/medium-0*MY-EdliKyYS6OBxE.jpg)Photo by [Jordan Ladikos](https://unsplash.com/@jordanladikos?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 ### **我是一個對旅遊很有執念的人**
 

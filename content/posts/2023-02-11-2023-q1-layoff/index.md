@@ -2,17 +2,23 @@
 title: "倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記"
 date: 2023-02-11
 slug: "2023-02-11-2023-q1-layoff"
-image: "images/medium-0*QlOjvTbX6Konfd3t.jpg"
+cover:
+  image: "images/medium-0*QlOjvTbX6Konfd3t.jpg"
+  alt: "A woman nervously  biting a pencil in her mouth"
+  credit:
+    photographer: "JESHOOTS.COM"
+    photographer_url: "https://unsplash.com/@jeshoots"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*QlOjvTbX6Konfd3t.jpg']
 categories: ["海外職場"]
 tags: ["裁員"]
+
 ---
 
 * * *
 
 ### **倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記**
 
-![A woman nervously  biting a pencil in her mouth](images/medium-0*QlOjvTbX6Konfd3t.jpg) Photo by [JESHOOTS.COM](https://unsplash.com/@jeshoots?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 相信大家最近多多少少都有看到各家科技大廠裁員的消息，今天就來分享我身為微軟員工的心情。
 

@@ -2,16 +2,16 @@
 title: "澳洲雲端架構師 EC | 專為轉職者量身打造的職涯諮詢"
 date: 2018-01-03
 slug: "2018-01-03-ec-consultation"
-image: "images/medium-1*s5mXELXu53uHBXW_rsHmKg.png"
+cover:
+  image: "images/medium-1*s5mXELXu53uHBXW_rsHmKg.png"
+  alt: "EC職涯諮詢服務"
+  caption: "Architecting Career Success Beyond the Cloud"
 images: ['images/medium-1*s5mXELXu53uHBXW_rsHmKg.png', 'images/medium-1*H9WpBHFGIQ2C-tuiTvAiHg.png']
 categories: ["EC"]
 tags: ["職涯","海外職場", "英文面試"]
 draft: true
+
 ---
-
-![EC職涯諮詢服務](images/medium-1*s5mXELXu53uHBXW_rsHmKg.png)
-
-*Architecting Career Success Beyond the Cloud*
 
 ### 🔔 海外職場×履歷優化 × 面試攻略 × DevOps/雲端職涯
 
@@ -98,4 +98,4 @@ draft: true
   * **🧵 Threads**[**Cloud Architect EC**](https://www.threads.net/@cloud_architect_ec)
   * **📩 合作信箱：**[**cloudarchitectec@gmail.com**](mailto:cloudarchitectec@gmail.com)
 
-
+{{< footer >}}

@@ -2,15 +2,15 @@
 title: "一個女生的歐洲獨旅: 2024.05.04 奧地利 薩爾斯堡 (Salzburg) — 音樂神童莫札特的故鄉"
 date: 2024-07-07
 slug: "2024-07-07-salzburg"
-image: "images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpg"
+cover:
+  image: "images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpg"
+  alt: "薩爾斯堡遊客中心莫札特紀念冊"
+  caption: "薩爾斯堡遊客中心莫札特小冊子"
 images: ['images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpg', 'images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpg', 'images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpg', 'images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpg', 'images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpg', 'images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpg', 'images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpg', 'images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpg', 'images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpg', 'images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpg', 'images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpg', 'images/medium-1*AXIjs7Y61inSZ6TY7oMCWw.jpg', 'images/medium-1*wKESCIvtgCYiWpa2JQcU0w.jpg', 'images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpg', 'images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpg', 'images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpg', 'images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpg', 'images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpg', 'images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpg', 'images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpg', 'images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpg', 'images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpg', 'images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpg', 'images/medium-1*rb-zBQbH87RNfabxuS830Q.jpg', 'images/medium-1*8nO9KY8awl4K5THbDvuyZw.jpg', 'images/medium-0*8KEkPcMzwV1zW23d.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "奧地利"]
+
 ---
-
-![薩爾斯堡遊客中心莫札特紀念冊](images/medium-1*UhxX7hvbF5QyHOs6Vh0bpg.jpg)
-
-*薩爾斯堡遊客中心莫札特小冊子*
 
 其實我的歐洲行程裡本來完全沒有規劃要去奧地利，只是到了慕尼黑後，我突然發現慕尼黑離奧地利的薩爾斯堡超近，只要 1.5–2 個小時的火車，再加上慕尼黑市區也沒有太多重要景點，唯一一個我特別想去的近郊景點達豪集中營，我也在抵達慕尼黑當天就成功跑完了，於是就決定把薩爾斯堡，也是莫札特的故鄉排進行程！
 

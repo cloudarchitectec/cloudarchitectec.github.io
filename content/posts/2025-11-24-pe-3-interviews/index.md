@@ -2,13 +2,19 @@
 title: "[我要升官加薪] 第三集：PE 面試流程分享"
 date: 2025-11-24
 slug: "2025-11-24-pe-3-interviews"
-image: "images/michal-czyz-ALM7RNZuDH8-unsplash.jpg"
-images: []
+cover:
+  image: "images/michal-czyz-ALM7RNZuDH8-unsplash.jpg"
+  alt: "interview"
+  credit:
+    photographer: "Michal Czyz"
+    photographer_url: "https://unsplash.com/@digitalmike"
+    photo_url: "https://unsplash.com/photos/gray-microphone-in-room-ALM7RNZuDH8"
+images: ["images/michal-czyz-ALM7RNZuDH8-unsplash.jpg"]
 categories: ["海外職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
+
 ---
 
-![interview](/images/michal-czyz-ALM7RNZuDH8-unsplash.jpg) Photo by <a href="https://unsplash.com/@digitalmike?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michal Czyz</a> on <a href="https://unsplash.com/photos/gray-microphone-in-room-ALM7RNZuDH8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       
 
 **2025.10.28 | 布里斯本**

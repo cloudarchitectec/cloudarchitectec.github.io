@@ -2,13 +2,16 @@
 title: "一個女生的歐洲獨旅: 2024.05.02 德國 慕尼黑 (Munich) Day 1 - 達豪集中營"
 date: 2024-06-21
 slug: "2024-06-21-munich-day-1"
-image: "images/medium-1*weSmOSbr-w_a2akWZOQVcw.jpg"
+cover:
+  image: "images/medium-1*weSmOSbr-w_a2akWZOQVcw.jpg"
+  alt: "達豪集中營紀念館入口"
 images: ['images/medium-1*weSmOSbr-w_a2akWZOQVcw.jpg', 'images/medium-1*6UGvwmWxSrGC4S_l6QbPWw.jpg', 'images/medium-1*Twt_naRZU_POlmkxBbmQiw.jpg', 'images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg', 'images/medium-1*6-K-Yc0e6KuHflRDNLpn0w.jpg', 'images/medium-1*XKk5lxiilyKXRF87sHuC5g.jpg', 'images/medium-1*PLmWB1-iDtv-E5iHMPu6FQ.jpg', 'images/medium-1*piurj-K_PCo94LzSty-ynA.jpg', 'images/medium-1*T6qAnQOYgSjV4tS9A7LkkA.jpg', 'images/medium-1*c8EGVih_Twvp9wmzczPt8Q.jpg', 'images/medium-1*fU2MDjmfGXGTfMZUK7QY3w.jpg', 'images/medium-1*UPvLV2JFps1e7pBw6tedlg.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "德國"]
+
 ---
 
-![達豪集中營紀念館入口](images/medium-1*weSmOSbr-w_a2akWZOQVcw.jpg) 達豪集中營
+達豪集中營
 
 今天從紐倫堡搭火車一小時前往慕尼黑，一下車就覺得這是一個還算安全的城市，很開心! (法蘭克福火車站/市區真的好糟，我建議大家可以跳過法蘭克福不去完全沒關係！畢竟那邊也沒有什麼觀光重點，而且旅遊體驗誠可貴，財務與人身安全價更高XD)
 

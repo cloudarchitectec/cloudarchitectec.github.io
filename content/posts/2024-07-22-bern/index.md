@@ -2,15 +2,15 @@
 title: "一個女生的歐洲獨旅: 2024.05.08 瑞士首都伯恩 (Bern) 說走就走之旅"
 date: 2024-07-22
 slug: "2024-07-22-bern"
-image: "images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpg"
+cover:
+  image: "images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpg"
+  alt: "瑞士首都伯恩聯邦國會大廈"
+  caption: "瑞士 國會大廈"
 images: ['images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpg', 'images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpg', 'images/medium-1*bgE52bqShgmt9nqamDlgYA.jpg', 'images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpg', 'images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpg', 'images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpg', 'images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpg', 'images/medium-1*EILbqYqargPjS28k9RcgVQ.jpg', 'images/medium-1*gggTRlie6ezAERC6U46peQ.jpg', 'images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpg', 'images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpg', 'images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpg', 'images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpg', 'images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpg', 'images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpg', 'images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpg', 'images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpg', 'images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpg', 'images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpg', 'images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpg', 'images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg', 'images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg', 'images/medium-0*UQyYhVGA_oLdfGDf.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
+
 ---
-
-![瑞士首都伯恩聯邦國會大廈](images/medium-1*PjSUjY-OyU7_kYIG8ekqkQ.jpg)
-
-*瑞士 國會大廈*
 
 ### 火車上結識瑞士杯杯
 

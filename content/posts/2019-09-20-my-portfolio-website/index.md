@@ -2,8 +2,14 @@
 title: "零基礎轉職澳洲工程師: 2019.09.19-20 第二個作業：個人網站完成"
 date: 2019-09-20
 slug: "2019-09-20-my-portfolio-website"
-image: ""
-images: ['']
+cover:
+  image: "images/hGV2TfOh0ns-unsplash.jpg"
+  alt: "MacBook 與 iMac 桌面工作場景"
+  credit:
+    photographer: "Domenico Loia"
+    photographer_url: "https://unsplash.com/@domenicoloia"
+    photo_url: "https://unsplash.com/photos/macbook-pro-on-table-beside-white-imac-and-magic-mouse-hGV2TfOh0ns"
+images: ["images/hGV2TfOh0ns-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 ---

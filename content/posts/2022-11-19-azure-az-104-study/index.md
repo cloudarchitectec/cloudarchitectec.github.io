@@ -2,13 +2,18 @@
 title: "微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 40 小時準備攻略"
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-study"
-image: "images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpg"
+cover:
+  image: "images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpg"
+  alt: "Azure雲端證照考試準備學習"
+  credit:
+    photographer: "Green Chameleon"
+    photographer_url: "https://unsplash.com/@craftedbygc"
+    photo_url: "https://unsplash.com/s/photos/exam"
 images: ['images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpg']
 categories: ["海外職場"]
 tags: ["雲端證照"]
----
 
-![Azure雲端證照考試準備學習](images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpg)Photo by [Green Chameleon](https://unsplash.com/@craftedbygc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/exam?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+---
 
 ### **背景介紹**
 

@@ -2,13 +2,18 @@
 title: "零基礎轉職澳洲工程師: 2019.08.19 程式訓練營開學典禮"
 date: 2019-08-19
 slug: "2019-08-19-coding-bootcamp-orientation"
-image: "images/medium-0*ywUyojRimOqTsYDU.jpg"
+cover:
+  image: "images/medium-0*ywUyojRimOqTsYDU.jpg"
+  alt: "程式訓練營開學典禮"
+  credit:
+    photographer: "ELLA DON"
+    photographer_url: "https://unsplash.com/@elladon"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
----
 
-![程式訓練營開學典禮](images/medium-0*ywUyojRimOqTsYDU.jpg)Photo by [ELLA DON](https://unsplash.com/@elladon?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 {{< post-views >}}
 

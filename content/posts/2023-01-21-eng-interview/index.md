@@ -2,13 +2,18 @@
 title: "澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略"
 date: 2023-01-21
 slug: "2023-01-21-eng-interview"
-image: "images/medium-0*3NXkWf7Nc8zqLlyb.jpg"
+cover:
+  image: "images/medium-0*3NXkWf7Nc8zqLlyb.jpg"
+  alt: "澳洲英文職場面試準備策略"
+  credit:
+    photographer: "LinkedIn Sales Solutions"
+    photographer_url: "https://unsplash.com/@linkedinsalesnavigator"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*3NXkWf7Nc8zqLlyb.jpg']
 categories: ["海外職場"]
 tags: ["英文面試", "澳洲求職必勝法則"]
----
 
-![澳洲英文職場面試準備策略](images/medium-0*3NXkWf7Nc8zqLlyb.jpg)Photo by [LinkedIn Sales Solutions](https://unsplash.com/ja/@linkedinsalesnavigator?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 今天想要簡單分享一下，在澳洲超過十年的我，收到面試通知時，會如何準備英文職場面試。
 

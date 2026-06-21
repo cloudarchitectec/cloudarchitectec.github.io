@@ -2,14 +2,18 @@
 title: "微軟雲端架構師 (Solution Architect) 職位解析 3：Technical Guidance/Customer Meetings"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-3"
-image: "images/medium-0*qzQRQkRstSx0mfxj.jpg"
+cover:
+  image: "images/medium-0*qzQRQkRstSx0mfxj.jpg"
+  alt: "微軟雲端架構師技術會議"
+  credit:
+    photographer: "Austin Distel"
+    photographer_url: "https://unsplash.com/@austindistel"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*qzQRQkRstSx0mfxj.jpg', 'images/medium-1*GKvx_eDUS7o26HFP7lt7tw.png', 'images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png', 'images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
+
 ---
-
-![微軟雲端架構師技術會議](images/medium-0*qzQRQkRstSx0mfxj.jpg)Photo by [Austin Distel](https://unsplash.com/@austindistel?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
 
 ### 前言
 

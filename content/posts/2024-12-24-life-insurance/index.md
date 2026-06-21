@@ -2,10 +2,17 @@
 title: "好想要退休！澳洲人壽保險知識分享，在澳洲打拼的你，有足夠的保障嗎？"
 date: 2024-12-24
 slug: "2024-12-24-life-insurance"
-image: "images/medium-0*Za2PV_3X9oaOZ0Ci.jpg"
+cover:
+  image: "images/medium-0*Za2PV_3X9oaOZ0Ci.jpg"
+  alt: "澳洲人壽保險理財規劃"
+  credit:
+    photographer: "Vlad Deep"
+    photographer_url: "https://unsplash.com/@vladdeep"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
+
 ---
 
 ### **前言**
@@ -17,7 +24,6 @@ A: 當我發現自己已經開始需要研究保險的時候XDDD
 
 人壽保險是我們在意外或疾病面前的最後一道防線。澳洲的保險分類雖然簡單，但選擇起來卻一點都不馬虎。本文幫助你快速了解澳洲的人壽保險種類與差異，希望大家都可以根據自身情況、審慎評估過後選擇最適合你的保險方案！
 
-![澳洲人壽保險理財規劃](images/medium-0*Za2PV_3X9oaOZ0Ci.jpg)Photo by [Vlad Deep](https://unsplash.com/@vladdeep?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 澳洲人壽保險分類
 

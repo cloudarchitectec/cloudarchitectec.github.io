@@ -2,16 +2,18 @@
 title: "好想要退休！在澳洲想投資美股該如何進行？直接買美股 ETF 會比投入 ASX 好嗎？"
 date: 2025-10-18
 slug: "2025-10-18-invest-us-stocks-in-au"
+cover:
+  image: "images/black-flat-computer-monitor.jpg"
+  alt: "black-flat-screen-computer-monitor"
+  credit:
+    photographer: "Nick Chong"
+    photographer_url: "https://unsplash.com/@nickchong"
+    photo_url: "https://unsplash.com/photos/black-flat-screen-computer-monitor-N__BnvQ_w18"
 categories: ["投資理財"]
-image: "images/black-flat-computer-monitor.jpg"
 images: ["images/black-flat-computer-monitor.jpg"]
 tags: ["ETF","FIRE","好想要退休"]
+
 ---
-
-![black-flat-screen-computer-monitor](images/black-flat-computer-monitor.jpg)
-
-*Photo by [Nick Chong on Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-N__BnvQ_w18)*
-
 
 ## 前言：為什麼要寫這篇文章？
 

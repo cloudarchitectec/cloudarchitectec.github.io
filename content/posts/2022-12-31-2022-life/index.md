@@ -2,17 +2,23 @@
 title: "2022 年澳洲生活回顧"
 date: 2022-12-31
 slug: "2022-12-31-2022-life"
-image: "images/medium-0*q75V0E9YMvskB2WL.jpg"
+cover:
+  image: "images/medium-0*q75V0E9YMvskB2WL.jpg"
+  alt: "new year"
+  credit:
+    photographer: "Ian Schneider"
+    photographer_url: "https://unsplash.com/@goian"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*q75V0E9YMvskB2WL.jpg']
 categories: ["澳洲生活"]
 tags: ["年度回顧"]
+
 ---
 
 * * *
 
 ### 2022 年澳洲生活回顧
 
-![new year](images/medium-0*q75V0E9YMvskB2WL.jpg)Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 今天是 2022 年的最後一天，看到朋友的分享，覺得我應該也要來回顧一下我的 2022!
 

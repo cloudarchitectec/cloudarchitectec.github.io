@@ -2,15 +2,21 @@
 title: "澳洲 FAANG — 微軟員工福利大公開"
 date: 2023-01-28
 slug: "2023-01-28-faang-benefits"
-image: "images/medium-0*TyPKjt_dMWUNDkNU.jpg"
+cover:
+  image: "images/medium-0*TyPKjt_dMWUNDkNU.jpg"
+  alt: "a person doing meditation"
+  credit:
+    photographer: "Jared Rice"
+    photographer_url: "https://unsplash.com/@jareddrice"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*TyPKjt_dMWUNDkNU.jpg']
 categories: ["海外職場"]
 tags: ["科技業"]
+
 ---
 
 ### 澳洲 FAANG — 微軟員工福利大公開
 
-![a person doing meditation](images/medium-0*TyPKjt_dMWUNDkNU.jpg)Photo by [Jared Rice](https://unsplash.com/@jareddrice?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

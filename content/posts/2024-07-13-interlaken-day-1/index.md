@@ -2,15 +2,15 @@
 title: "一個女生的歐洲獨旅: 2024.05.05 前往瑞士：茵特拉肯 (Interlaken) 韓劇愛的迫降拍攝地"
 date: 2024-07-13
 slug: "2024-07-13-interlaken-day-1"
-image: "images/medium-1*acW3_5doCStJ1vXN8J7LQw.jpg"
+cover:
+  image: "images/medium-1*acW3_5doCStJ1vXN8J7LQw.jpg"
+  alt: "茵特拉肯東站眺望阿爾卑斯山景"
+  caption: "Interlaken Ost 火車站的超美山景"
 images: ['images/medium-1*acW3_5doCStJ1vXN8J7LQw.jpg', 'images/medium-1*I7E1Oya3h_eOmuCjJcdw4A.jpg', 'images/medium-1*sEEzejIzrrAoFyfsr8thlg.jpg', 'images/medium-1*nIAj9UUiDoOzskR0fbMwyg.jpg', 'images/medium-1*1UtXOB1te4T0v3eiJDFUrg.jpg', 'images/medium-1*HjRHZhNwcQnIVg4jn_SvVw.jpg', 'images/medium-1*F5wtoaIyLJ9C40hKen797w.jpg', 'images/medium-1*cuzT-LeP31Ax8lmxX97qPw.jpg', 'images/medium-1*5U9PawSUHU3hNLZ_xRVdXg.jpg', 'images/medium-1*K9cT7oonbB1O7mHeCjXg3w.jpg', 'images/medium-1*FaBum1pCBGfzA7KV7ZlwWw.jpg', 'images/medium-1*9vUF5YroGUbqFNabuHPvBg.jpg', 'images/medium-1*UwkYbB2L6UalvkbI0zPInA.jpg', 'images/medium-1*U98n-QBq2e3aOJ1ac95aYA.jpg', 'images/medium-1*ka9cMlBKbsogGn32adamDQ.jpg', 'images/medium-1*qgMdlg4ZWAOru3ilkX8Lng.jpg', 'images/medium-1*dGETJcrQtBBjjDYgpAtYTw.jpg', 'images/medium-1*AhWPQJnVEl3vD-5VPwvyFA.jpg', 'images/medium-0*BPq3oedhBT5fxtFq.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "瑞士"]
+
 ---
-
-![茵特拉肯東站眺望阿爾卑斯山景](images/medium-1*acW3_5doCStJ1vXN8J7LQw.jpg)
-
-*Interlaken Ost 火車站的超美山景*
 
 * * *
 

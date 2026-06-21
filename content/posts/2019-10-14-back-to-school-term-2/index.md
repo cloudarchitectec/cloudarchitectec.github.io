@@ -2,8 +2,14 @@
 title: "零基礎轉職澳洲工程師: 2019.10.14 第二學期開學!!!"
 date: 2019-10-14
 slug: "2019-10-14-back-to-school-term-2"
-image: ""
-images: ['']
+cover:
+  image: "images/OyCl7Y4y0Bk-unsplash.jpg"
+  alt: "書本上的紅蘋果"
+  credit:
+    photographer: "Element5 Digital"
+    photographer_url: "https://unsplash.com/@element5digital"
+    photo_url: "https://unsplash.com/photos/red-apple-fruit-on-four-pyle-books-OyCl7Y4y0Bk"
+images: ["images/OyCl7Y4y0Bk-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 ---

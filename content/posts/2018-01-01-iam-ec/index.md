@@ -2,14 +2,19 @@
 title: "大家好，我是 EC"
 date: 2018-01-01
 slug: "2018-01-01-iam-ec"
-image: "images/medium-0*s8lY75qUNwwZVglG.jpg"
+cover:
+  image: "images/medium-0*s8lY75qUNwwZVglG.jpg"
+  alt: "Hello"
+  credit:
+    photographer: "Tim Mossholder"
+    photographer_url: "https://unsplash.com/@timmossholder"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*s8lY75qUNwwZVglG.jpg']
 categories: ["EC"]
 tags: ["轉職工程師", "澳洲移民"]
 description: "從台灣英文系到成功移民澳洲、轉職成為 Amazon 與微軟的雲端架構師 - EC 的完整職涯故事分享"
----
 
-![Hello](images/medium-0*s8lY75qUNwwZVglG.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 最近回顧了一下自己的學經歷，列著列著忽然有種「喔～原來我真的做了不少事情」的既視感（人生沒有白活啊XD）。
 

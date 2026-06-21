@@ -2,13 +2,18 @@
 title: "轉職可以一轉再轉嗎？薪水是轉職最重要的考量？"
 date: 2023-06-15
 slug: "2023-06-15-career-transition-again"
-image: "images/medium-0*sB1VtMiyTXKqNZ3E.jpg"
+cover:
+  image: "images/medium-0*sB1VtMiyTXKqNZ3E.jpg"
+  alt: "職涯轉職決策考量因素分析"
+  credit:
+    photographer: "Ian Schneider"
+    photographer_url: "https://unsplash.com/@goian"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*sB1VtMiyTXKqNZ3E.jpg']
 categories: ["海外職場"]
 tags: ["轉職工程師", "薪資","職涯"]
----
 
-![職涯轉職決策考量因素分析](images/medium-0*sB1VtMiyTXKqNZ3E.jpg)Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 * * *
 

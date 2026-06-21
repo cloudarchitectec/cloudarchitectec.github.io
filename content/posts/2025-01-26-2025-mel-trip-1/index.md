@@ -2,13 +2,14 @@
 title: "2025 墨爾本澳網行 (上)：好久不見墨爾本！與舊友重聚，第一次看澳網真的好嗨！"
 date: 2025-01-26
 slug: "2025-01-26-2025-mel-trip-1"
-image: "images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpg"
+cover:
+  image: "images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpg"
+  alt: "墨爾本澳網現場觀眾席"
 images: ['images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpg', 'images/medium-1*x9MDnMbbKv9t-ruvsLHrPw.jpg', 'images/medium-1*MS5DfHl9duhnSSWRTK_lxQ.jpg', 'images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpg', 'images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpg', 'images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpg', 'images/medium-1*3QGgpLYqTa8njm4QTLcVuw.jpg', 'images/medium-1*hwomF-3ethAj2uw8sEcyIA.jpg', 'images/medium-1*7Lxy-98mmkZnd2VkmbBwag.jpg', 'images/medium-1*zChHykykpqoi-skPv7YXmQ.jpg', 'images/medium-1*5Jc9_-pfwIwtevhHHEs4oQ.jpg', 'images/medium-1*pzhkbFEU1b6opi-OJnDiRQ.jpg', 'images/medium-1*xFLzR7JH8DLfwtkpImgiXQ.jpg', 'images/medium-1*xfYUpPwBTT_2qPiDpEgyFw.jpg', 'images/medium-1*fCilz9wLGtpQaqC-N7gocw.jpg', 'images/medium-1*s4u_tmZRJJzTdgVNQaOWjQ.jpg', 'images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg', 'images/medium-1*aeUKQKl8_KQYsrfFADEOzg.jpg', 'images/medium-1*3Lkq6QkiZzZ7ktP9u4BPrA.jpg', 'images/medium-1*TjwP2FNlcUi8OjS2WmuhWQ.jpg', 'images/medium-1*z5SLEb-5ggAN2IotkvIVHg.jpg', 'images/medium-1*1f6snXEPsf37byBuMZdu_w.jpg', 'images/medium-1*_w7iIKrm9oXoernv2yVXCg.jpg', 'images/medium-1*52lTIc0Nks_O2eGuYIe_MQ.jpg', 'images/medium-1*f23v8giYXBTxuc7XSc5iig.jpg', 'images/medium-1*uQSOZ-5lcbiQvwOq7wpTeA.jpg', 'images/medium-1*Ge2krh8kd53uKQn1YeaZwQ.jpg', 'images/medium-1*PHS3D5IjWVQEx2cxFDzhDg.jpg', 'images/medium-1*KGrjyZvoFG0HrQ6SvMTiwg.jpg', 'images/medium-1*9tJzIgltIcf-0RumED2Xng.jpg', 'images/medium-1*yOPfAxHzWeByd0HAkHfG-Q.jpg', 'images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpg', 'images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg', 'images/medium-1*TZ6aqe3xbQw_hMIbkpVn_A.jpg', 'images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpg', 'images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["墨爾本", "旅遊", "澳網"]
----
 
-![墨爾本澳網現場觀眾席](images/medium-1*RgiRTnHMIWJecOT51Ll3zw.jpg)
+---
 
 旅程的起因是去年台灣朋友 Jen 去墨爾本看完澳網後，跑來昆州找我玩，她說就算平常不看網球的人，也很值得參與這場盛事！並說她今年還要再來看澳網，問我要不要一起，於是我就答應了XD (去之前對於網球的知識近乎於零)
 

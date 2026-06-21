@@ -2,15 +2,21 @@
 title: "Gemini vs ChatGPT 人設大不同！科技業職場觀察：AI 如何解讀多元包容、性別意識跟政治正確"
 date: 2025-10-31
 slug: "2025-10-31-ai-on-diverity"
-image: "images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"
+cover:
+  image: "images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"
+  alt: "diversity"
+  credit:
+    photographer: "Daria Nepriakhina 🇺🇦"
+    photographer_url: "https://unsplash.com/@epicantus"
+    photo_url: "https://unsplash.com/photos/RLJN6xaGj1E"
 images: ["images/gemini-diversity.jpg","images/gpt-diversity.jpg","images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"]
 categories: ["海外職場"]
 tags: [ "科技業", "AI", "Diversity", "DevOps 工程師", "職涯"]
----
-      
-![diversity](images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg)
 
-*Photo by [Daria Nepriakhina 🇺🇦 on Unsplash](https://unsplash.com/@epicantus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+---
+
+      
+
 
 
 我是一個重度 AI 使用者!

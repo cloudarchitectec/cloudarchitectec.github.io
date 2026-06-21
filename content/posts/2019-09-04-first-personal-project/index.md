@@ -2,10 +2,17 @@
 title: "零基礎轉職澳洲工程師: 2019.09.04 開始個人作業 I"
 date: 2019-09-04
 slug: "2019-09-04-first-personal-project"
-image: ""
-images: ['']
+cover:
+  image: "images/qWwpHwip31M-unsplash.jpg"
+  alt: "在白板上書寫的人"
+  credit:
+    photographer: "Alvaro Reyes"
+    photographer_url: "https://unsplash.com/@alvarordesign"
+    photo_url: "https://unsplash.com/photos/person-working-on-blue-and-white-paper-on-board-qWwpHwip31M"
+images: ["images/qWwpHwip31M-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+
 ---
 
 天啊~ 我真心是太忙太忙了! 連寫日記紓壓的時間都沒有，只好速速寫幾件趣事。

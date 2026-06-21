@@ -2,17 +2,23 @@
 title: "微軟員工績效評估 (Microsoft Employee Performance Review)"
 date: 2023-06-03
 slug: "2023-06-03-ms-performance-review"
-image: "images/medium-0*56iblj35IDs0Ee1S.jpg"
+cover:
+  image: "images/medium-0*56iblj35IDs0Ee1S.jpg"
+  alt: "微軟員工績效評估 (Microsoft Employee Performance Review)"
+  credit:
+    photographer: "John Schnobrich"
+    photographer_url: "https://unsplash.com/@johnschno"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*56iblj35IDs0Ee1S.jpg']
 categories: ["海外職場"]
 tags: ["微軟"]
+
 ---
 
 * * *
 
 ### 微軟員工績效評估 (Microsoft Employee Performance Review)
 
-![](images/medium-0*56iblj35IDs0Ee1S.jpg)Photo by [John Schnobrich](https://unsplash.com/@johnschno?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

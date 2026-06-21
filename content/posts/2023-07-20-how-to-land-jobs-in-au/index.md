@@ -2,17 +2,23 @@
 title: "澳洲求職必勝法則：外國人身份也能成功找到澳洲科技業正職工作 — 旅澳台灣工程師的實戰秘笈公開！"
 date: 2023-07-20
 slug: "2023-07-20-how-to-land-jobs-in-au"
-image: "images/medium-0*UBDJ0UzDuIfVDgwG.jpg"
+cover:
+  image: "images/medium-0*UBDJ0UzDuIfVDgwG.jpg"
+  alt: "澳洲求職必勝法則：外國人身份也能成功找到澳洲科技業正職工作 — 旅澳台灣工程師的實戰秘笈公開！"
+  credit:
+    photographer: "Eric Prouzet"
+    photographer_url: "https://unsplash.com/@eprouzet"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*UBDJ0UzDuIfVDgwG.jpg', 'images/medium-1*7YCIVXTf2qOdTWXg6ANxFA.png', 'images/medium-1*hxXeBPONyQDXJ3ZZlSRdzQ.png', 'images/medium-1*TC-OX06deeWGxNnbwZLpEQ.png', 'images/medium-1*AAEYAGknPRY4VVdN1kV0Jg.png', 'images/medium-1*6KGdpzZwegqjjnCelIeHlg.png']
 categories: ["海外職場"]
 tags: ["澳洲求職必勝法則", "轉職工程師","英文面試"]
+
 ---
 
 * * *
 
 ### 澳洲求職必勝法則：外國人身份也能成功找到澳洲科技業正職工作 — 旅澳台灣工程師的實戰秘笈公開！
 
-![](images/medium-0*UBDJ0UzDuIfVDgwG.jpg)Photo by [Eric Prouzet](https://unsplash.com/@eprouzet?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 「外國人如果想嘗試在澳洲找到軟體工程師職缺，有辦法在去澳洲前就找到嗎?」
 

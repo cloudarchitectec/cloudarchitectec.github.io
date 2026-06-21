@@ -2,17 +2,23 @@
 title: "從非移民專業到澳洲PR：我如何靠研究政府法規，創造專屬自己的技術移民機會！"
 date: 2023-11-10
 slug: "2023-11-10-how-i-become-pr"
-image: "images/medium-0*1xfcDaGhCc5nGsk1.jpg"
+cover:
+  image: "images/medium-0*1xfcDaGhCc5nGsk1.jpg"
+  alt: "澳洲永居申請簽證指南"
+  credit:
+    photographer: "wuz"
+    photographer_url: "https://unsplash.com/@yungwuz_"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*1xfcDaGhCc5nGsk1.jpg', 'images/medium-1*5CTCCGxgEEIMkJmfI81fiA.jpg', 'images/medium-1*HvGJQkJLQXI8OhYozx1sCA.png', 'images/medium-1*rhO2hYu1iypdCDlNLe7rwA.png']
 categories: ["澳洲生活"]
 tags: ["澳洲移民","澳洲簽證"]
+
 ---
 
 * * *
 
 ### 從非移民專業到澳洲PR：我如何靠研究政府法規，創造專屬自己的技術移民機會！
 
-![澳洲永居申請簽證指南](images/medium-0*1xfcDaGhCc5nGsk1.jpg)Photo by [wuz](https://unsplash.com/@yungwuz_?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 今天要來分享我 2016 年是如何另闢蹊徑，透過自己閱讀澳洲政府網站的移民規定，在不可能中發現可能，最後成功幫助自己以及我最好的朋友成功拿到澳洲身份的故事！
 

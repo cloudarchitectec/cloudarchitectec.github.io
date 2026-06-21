@@ -2,13 +2,18 @@
 title: "2021 年澳洲生活回顧"
 date: 2022-01-02
 slug: "2022-01-02-2021-life"
-image: "images/medium-0*TadHtZ-lzReaiMZg.jpg"
+cover:
+  image: "images/medium-0*TadHtZ-lzReaiMZg.jpg"
+  alt: "Year 2021"
+  credit:
+    photographer: "Tarryn Myburgh"
+    photographer_url: "https://unsplash.com/@tarrynm"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*TadHtZ-lzReaiMZg.jpg']
 categories: ["澳洲生活"]
 tags: ["年度回顧"]
----
 
-![Year 2021](images/medium-0*TadHtZ-lzReaiMZg.jpg)Photo by [Tarryn Myburgh](https://unsplash.com/@tarrynm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 3月搬來坎培拉，4月時參加了五公里的 Canberra 馬拉松節。
 

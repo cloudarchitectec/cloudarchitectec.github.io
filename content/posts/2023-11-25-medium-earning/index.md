@@ -2,17 +2,23 @@
 title: "經營 Medium 一年，我到底賺了多少錢？"
 date: 2023-11-25
 slug: "2023-11-25-medium-earning"
-image: "images/medium-0*IcY5dAmbSyvZdlXl.jpg"
+cover:
+  image: "images/medium-0*IcY5dAmbSyvZdlXl.jpg"
+  alt: "Medium寫作收入分析"
+  credit:
+    photographer: "Ian Schneider"
+    photographer_url: "https://unsplash.com/@goian"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*IcY5dAmbSyvZdlXl.jpg', 'images/medium-1*FHBszSnAcT6KbLuEzONPlg.png', 'images/medium-1*WiMdaXsTAlswUtPIgTwfyA.png', 'images/medium-1*Bjr1jWxTvM02DgtNu0o-rQ.jpg', 'images/medium-1*majJdF6On50KL0IyVSTNug.png', 'images/medium-1*vVQCjERdwFMAtipQzFYQGQ.png']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]
+
 ---
 
 * * *
 
 ### 經營 Medium 一年，我到底賺了多少錢？
 
-![Medium寫作收入分析](images/medium-0*IcY5dAmbSyvZdlXl.jpg)Photo by [Ian Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 來賓請掌聲鼓勵鼓勵
 

@@ -2,13 +2,14 @@
 title: "兩個女生的紐西蘭自駕滑雪行: 2024.08.31 奧克蘭租車初體驗、漢密爾頓花園與超萌民宿貓咪"
 date: 2024-08-31
 slug: "2024-08-31-nz-day1"
-image: "images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpg"
+cover:
+  image: "images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpg"
+  alt: "奧克蘭機場抵達大廳"
 images: ['images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpg', 'images/medium-1*rlnReA8jGgj7TSS22Lws9Q.jpg', 'images/medium-1*WDGzYgn2D58lq_DH3Ka1ug.jpg', 'images/medium-1*Baow5AEwlPTYrZhC057HBA.jpg', 'images/medium-1*7peGx_1SjUl-9oBR1k9_iA.jpg', 'images/medium-1*Onso4fWanqbfzZHulkdBCw.jpg', 'images/medium-1*RwKCTe8NLlutsIHcIPdAZQ.jpg', 'images/medium-1*xK89OPVN0O1WIA1sj0v4rA.jpg', 'images/medium-1*hD5O5Vdq6lwlBYC3muadUA.jpg', 'images/medium-1*3DolXIvO2lz0SU04mleYbw.jpg', 'images/medium-1*7NuAgSznwjBass-sBz8XIg.jpg', 'images/medium-1*m1UcmtY74jtv5Iwag4uooQ.jpg', 'images/medium-1*1Mthr8xBlu5XuQCQShzFDQ.jpg', 'images/medium-1*MxcgNErvLKNcFxJTA3XlCA.jpg', 'images/medium-1*9dSdxYR49uv4mYhrx-7uMg.jpg', 'images/medium-1*1B50Iu_i0bbNuovrE9qHsg.jpg', 'images/medium-1*8_v77WiAilSJKzPpxhnHLQ.jpg', 'images/medium-1*G8pZlmMJoQylVL8s7JG0bg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","自駕","滑雪","紐西蘭"]
----
 
-![奧克蘭機場抵達大廳](images/medium-1*jH3W92ZL5t2FLLuvs2h8fQ.jpg)
+---
 
 紐西蘭行程的第一天，為了搭6:45的飛機，我們3:30就起床了！果然早起不是問題，早起做什麼才是問題🤣
 

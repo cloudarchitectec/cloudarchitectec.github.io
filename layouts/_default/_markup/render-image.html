@@ -1,0 +1,42 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- $resource := false -}}
+{{- $fragment := $u.Fragment -}}
+{{- $modifier := "" -}}
+{{- if $fragment -}}
+  {{- $modifier = $fragment -}}
+{{- end -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path }}
+  {{- $resource = or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+  {{- if $resource -}}
+    {{- $src = $resource.RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $src = printf "%s?%s" $src . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $alt := .Text -}}
+{{- $orientation := "" -}}
+{{- $figureClass := "post-figure" -}}
+{{- if $resource -}}
+  {{- if gt $resource.Width $resource.Height -}}
+    {{- $orientation = "landscape" -}}
+  {{- else if lt $resource.Width $resource.Height -}}
+    {{- $orientation = "portrait" -}}
+  {{- else -}}
+    {{- $orientation = "square" -}}
+  {{- end -}}
+  {{- if eq $modifier "portrait" -}}
+    {{- $orientation = "portrait" -}}
+  {{- end -}}
+  {{- $figureClass = printf "post-figure post-figure--%s" $orientation -}}
+  {{- if eq $modifier "wide" -}}
+    {{- $figureClass = printf "%s post-figure--wide" $figureClass -}}
+  {{- end -}}
+{{- end -}}
+<figure class="{{ $figureClass }}">
+<img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async"
+  {{- with $resource }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}
+  {{- if eq $modifier "center" }} style="margin-inline:auto;display:block"{{ end }}>
+</figure>

@@ -2,13 +2,18 @@
 title: "澳洲首次置業指南：Refinance 是什麼，可以吃嗎？手把手幫你釐清房貸轉貸考量與思路！"
 date: 2025-07-23
 slug: "2025-07-23-refinance"
-image: "images/medium-0*0JW321nq0m43VdhB.jpg"
+cover:
+  image: "images/medium-0*0JW321nq0m43VdhB.jpg"
+  alt: "澳洲房貸轉貸利率比較"
+  credit:
+    photographer: "Kostiantyn Li"
+    photographer_url: "https://unsplash.com/@leekos"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*0JW321nq0m43VdhB.jpg']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
----
 
-![澳洲房貸轉貸利率比較](images/medium-0*0JW321nq0m43VdhB.jpg)Photo by [Kostiantyn Li](https://unsplash.com/@leekos?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 哇喔～房貸是個大議題，這篇我就不延伸了，不然要寫出一篇萬言書來XD
 

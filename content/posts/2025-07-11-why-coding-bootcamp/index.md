@@ -2,13 +2,18 @@
 title: "轉職 IT 不踩雷：文組轉職工程師的 Coding Bootcamp 挑選指南"
 date: 2025-07-11
 slug: "2025-07-11-why-coding-bootcamp"
-image: "images/medium-0*q2epsdGOAZx-wOF5.jpg"
+cover:
+  image: "images/medium-0*q2epsdGOAZx-wOF5.jpg"
+  alt: "程式設計學習環境示意圖"
+  credit:
+    photographer: "Meghan Holmes"
+    photographer_url: "https://unsplash.com/@yellowteapot"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*q2epsdGOAZx-wOF5.jpg', 'images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png']
 categories: ["海外職場"]
 tags: ["程式訓練營"]
----
 
-![程式設計學習環境示意圖](images/medium-0*q2epsdGOAZx-wOF5.jpg)Photo by [Meghan Holmes](https://unsplash.com/@yellowteapot?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 上週在 Threads 上分享了我當年靠著讀完 coding bootcamp 成功從文組轉職工程師入職澳洲 Amazon 的故事，收到廣大熱議XD
 

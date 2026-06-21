@@ -21,6 +21,17 @@ This repository hosts the source code for Cloud Architect EC's blog, built with 
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Deployment**: GitHub Actions → GitHub Pages
 
+## Local development
+
+**Post validation (required before commit):**
+
+```bash
+pip install pre-commit
+pre-commit install
+```
+
+This runs `scripts/check-posts.py --staged` on any commit touching `content/posts/`. Full scan: `python3 scripts/check-posts.py`. Tests: `pip install -r requirements.txt && pytest tests/`.
+
 
 ## Features
 
@@ -38,6 +49,9 @@ This repository hosts the source code for Cloud Architect EC's blog, built with 
 All notable changes to this project will be documented in this file.
 
 ---
+**2026.06.21**
+- Fixed hero images
+- Added post & image validation
 
 **2026.06.20**
 - Added custom domain

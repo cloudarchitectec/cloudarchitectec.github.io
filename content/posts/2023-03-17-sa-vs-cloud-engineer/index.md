@@ -2,13 +2,18 @@
 title: "那些沒人告訴你的雲端職位真相：Solution Architect 與 Cloud Engineer 職場日常大揭密！"
 date: 2023-03-17
 slug: "2023-03-17-sa-vs-cloud-engineer"
-image: "images/medium-0*vud7bfAubM0_9bAN.jpg"
+cover:
+  image: "images/medium-0*vud7bfAubM0_9bAN.jpg"
+  alt: "new field"
+  credit:
+    photographer: "Jonas Weckschmied"
+    photographer_url: "https://unsplash.com/@jweckschmied"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*vud7bfAubM0_9bAN.jpg', 'images/medium-1*pagC-o_q85qAQ1-luqGizQ.png', 'images/medium-1*MbOfcJtKI4qtU-NFFVxk0w.png', 'images/medium-1*yPIHVj6MrSCkuJvigRtcFA.png']
 categories: ["海外職場"]
 tags: ["雲端架構師"]
----
 
-![new field](images/medium-0*vud7bfAubM0_9bAN.jpg)Photo by [Jonas Weckschmied](https://unsplash.com/@jweckschmied?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 > 雖然標題只寫了 Solution Architect 與 Cloud Engineer，但我認為 Software Engineer/Developer 算是大家比較熟悉的工程師相關職位，所以我決定把這個職位也納入討論，希望這三者的職務比較會對大家有所幫助～
 

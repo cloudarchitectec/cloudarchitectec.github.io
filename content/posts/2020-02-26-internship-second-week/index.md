@@ -2,11 +2,14 @@
 title: "零基礎轉職澳洲工程師: 2020-02-26 Internship – Second Week"
 date: 2020-02-26
 slug: "2020-02-26-internship-second-week"
-image: "images/89245870_135401031158136_6879449233414422528_n.jpg"
+cover:
+  image: "images/89245870_135401031158136_6879449233414422528_n.jpg"
+  alt: "零基礎轉職澳洲工程師: 2020-02-26 Internship – Second Week"
 images: ['images/89245870_135401031158136_6879449233414422528_n.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
+
 ---
 
 **
@@ -32,6 +35,5 @@ bar 的顏色區塊做出來(後來發現其實根本只要寫一行 code 就�
 寫 expression，所以搞超久的...... 另外最後還用我所剩不多的 CSS 知識把mobile buttons 做出來了!!! 其實應該是要為自己感到自豪的，但是這些勝利感覺都太微小了，搶救不了我們每天都覺得自己很爛的心態😂
 下午的 team
 time 是大家一起玩switch的馬力歐派對!!! 真心懷念之前跟好友W跟T玩 switch 的好笑時光! 同樣的遊戲跟同事玩起來果然就沒有那麼好玩哈哈哈哈
-![](images/89245870_135401031158136_6879449233414422528_n.jpg)
 
 {{< footer >}}

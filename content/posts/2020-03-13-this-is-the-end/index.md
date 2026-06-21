@@ -2,11 +2,11 @@
 title: "零基礎轉職澳洲工程師: 2020.03.13 125 This is it! This is the End!!!"
 date: 2020-03-13
 slug: "2020-03-13-this-is-the-end"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
+
 ---
 
 **

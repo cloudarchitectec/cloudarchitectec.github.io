@@ -2,15 +2,17 @@
 title: "太平洋小島上的大冒險：萬那杜花費分析以及心得總結"
 date: 2025-04-28
 slug: "2025-04-28-vanuatu-summary"
-image: "images/medium-0*1yEMcLGX3TExcBjX.jpg"
+cover:
+  image: "images/medium-0*1yEMcLGX3TExcBjX.jpg"
+  alt: "萬那杜旅遊總結回憶"
 images: ['images/medium-0*1yEMcLGX3TExcBjX.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
+
 ---
 
 這趟九天八夜的萬那杜獨旅，我大概花了$2500澳，約5萬2台幣。
 
-![萬那杜旅遊總結回憶](images/medium-0*1yEMcLGX3TExcBjX.jpg)
 
 其中機票、住宿、交通（租車三天$460澳)約各佔25%，食物佔15%。另外大家可以注意到我在萬那杜什麼紀念品或是禮物都沒買，因為真的沒有什麼好買的
 
