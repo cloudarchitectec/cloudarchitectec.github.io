@@ -39,6 +39,7 @@ tools/blog-converter/output/
 # Private project docs
 # -----------------------
 .agents/skills/
+.cursor/rules/
 
 # -----------------------
 # -----------------------

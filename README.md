@@ -49,6 +49,9 @@ This runs `scripts/check-posts.py --staged` on any commit touching `content/post
 All notable changes to this project will be documented in this file.
 
 ---
+**2026.06.21**
+- Fixed hero images
+- Added post & image validation
 
 **2026.06.20**
 - Added custom domain
