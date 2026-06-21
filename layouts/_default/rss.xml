@@ -66,22 +66,38 @@
     {{- range $pages }}
     {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
     {{- $page := . }}
+    {{- $descBody := $page.Description | default $page.Summary }}
+    {{- $coverURL := "" }}
+    {{- $coverMime := "image/jpeg" }}
+    {{- $coverAlt := $page.Title }}
+    {{- $coverWidth := "" }}
+    {{- $coverHeight := "" }}
+    {{- with $page.Params.cover.image }}
+      {{- $coverPath := . | strings.TrimPrefix "/" }}
+      {{- $coverURL = printf "%s/%s" (strings.TrimSuffix "/" $page.Permalink) $coverPath }}
+      {{- with $page.Params.cover.alt }}{{ $coverAlt = . }}{{ end }}
+      {{- $ext := path.Ext $coverPath | strings.TrimPrefix "." | lower }}
+      {{- if eq $ext "png" }}{{ $coverMime = "image/png" }}{{ else if eq $ext "webp" }}{{ $coverMime = "image/webp" }}{{ else if eq $ext "gif" }}{{ $coverMime = "image/gif" }}{{ end }}
+      {{- $imgRes := $page.Resources.GetMatch (path.Base $coverPath) }}
+      {{- if not $imgRes }}{{ $imgRes = $page.Resources.GetMatch $coverPath }}{{ end }}
+      {{- with $imgRes }}
+        {{- $coverWidth = printf "%d" .Width }}
+        {{- $coverHeight = printf "%d" .Height }}
+      {{- end }}
+      {{- /* MailerLite also scans description for the first <img> — prepend cover like WP plugins do */}}
+      {{- $descBody = printf "<p><img src=\"%s\" alt=\"%s\" /></p>%s" $coverURL $coverAlt $descBody }}
+    {{- end }}
     <item>
       <title>{{ $page.Title }}</title>
       <link>{{ $page.Permalink }}</link>
       <pubDate>{{ $page.PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ $page.Permalink }}</guid>
-      <description>{{ with $page.Description | html }}{{ . }}{{ else }}{{ $page.Summary | html }}{{ end -}}</description>
-      {{- with $page.Params.cover.image }}
-      {{- $coverPath := . | strings.TrimPrefix "/" }}
-      {{- $coverURL := printf "%s/%s" (strings.TrimSuffix "/" $page.Permalink) $coverPath }}
-      {{- $ext := path.Ext $coverPath | strings.TrimPrefix "." | lower }}
-      {{- $mime := "image/jpeg" }}
-      {{- if eq $ext "png" }}{{ $mime = "image/png" }}{{ else if eq $ext "webp" }}{{ $mime = "image/webp" }}{{ else if eq $ext "gif" }}{{ $mime = "image/gif" }}{{ end }}
-      <media:content url="{{ $coverURL }}" medium="image" type="{{ $mime }}" />
+      {{- if $coverURL }}
+      <media:content medium="image" url="{{ $coverURL }}" type="{{ $coverMime }}"{{ with $coverWidth }} width="{{ . }}"{{ end }}{{ with $coverHeight }} height="{{ . }}"{{ end }} />
       <media:thumbnail url="{{ $coverURL }}" />
       {{- end }}
+      <description>{{ $descBody | html }}</description>
       {{- if and site.Params.ShowFullTextinRSS $page.Content }}
       <content:encoded>{{ (printf "<![CDATA[%s]]>" $page.Content) | safeHTML }}</content:encoded>
       {{- end }}

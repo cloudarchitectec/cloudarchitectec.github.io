@@ -61,6 +61,9 @@ class TestRssCoverImages:
         assert url.startswith("http"), url
         thumb = item.find("media:thumbnail", NS)
         assert thumb is not None and thumb.get("url") == url
+        desc = item.findtext("description") or ""
+        assert "cEukkv42O40-unsplash" in desc, "description should prepend cover img for MailerLite"
+        assert "<img" in desc
 
     def test_posts_with_cover_have_media_content(self, built_rss):
         """Sample recent posts with cover.image should expose media:content."""
