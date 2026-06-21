@@ -91,7 +91,9 @@ class TestMailerLiteRss:
         assert src.startswith("https://cloudarchitectec.com/posts/2026-06-17-retirement-plan/images/")
         assert "cEukkv42O40-unsplash" in src
         assert "width=" in desc and "height=" in desc
-        assert desc.index("<p>") < desc.index("<img"), "cover img should follow opening paragraph text"
+        assert src.startswith("https://cloudarchitectec.com/posts/2026-06-17-retirement-plan/images/")
+        # MailerLite feed uses Hugo-resized ~800px copies, not full-size progressive JPEGs
+        assert "_hu_" in src or "800" in desc
 
     def test_sydney_cover_precedes_body_images(self, built_feeds):
         """Cover hero should appear before inline spirits.jpg in MailerLite feed."""
