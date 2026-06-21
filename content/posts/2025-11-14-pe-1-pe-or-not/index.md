@@ -9,7 +9,7 @@ cover:
     photographer: "Christoph Theisinger"
     photographer_url: "https://unsplash.com/@christoph-theisinger"
     photo_url: "https://unsplash.com/photos/brown-sand-near-brown-mountain-during-daytime-B4mV8nB8pGA"
-images: []
+images: ["images/christoph-theisinger-B4mV8nB8pGA-unsplash.jpg"]
 categories: ["海外職場"]
 tags: [ "科技業", "Diversity", "DevOps 工程師", "職涯"]
 

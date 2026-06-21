@@ -1,51 +1,5 @@
 # -----------------------
-# Node.js / npm / yarn
-# -----------------------
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-yarn.lock
-.pnp
-.pnp.js
-
-# -----------------------
-# Python bytecode
-# -----------------------
-__pycache__/
-*.py[cod]
-*$py.class
-
-# -----------------------
-# Virtual environments
-# -----------------------
-venv/
-.venv/
-env/
-.env/
-
-# -----------------------
-# Distribution / packaging
-# -----------------------
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# -----------------------
-# Hugo specific
+# Hugo
 # -----------------------
 public/
 resources/_gen/
@@ -53,68 +7,18 @@ resources/_gen/
 hugo_stats.json
 
 # -----------------------
-# Temporary files / build artifacts
+# Python
 # -----------------------
-*.tmp
-*.temp
-.sass-cache/
-.cache/
-dist/
-build/
-out/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
 
 # -----------------------
-# Project documentation (private)
+# Secrets / local config
 # -----------------------
-.agents/skills/
-
-# -----------------------
-# Unit test / coverage reports
-# -----------------------
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-pytest_cache/
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-
-# -----------------------
-# IDE / Editor specific
-# -----------------------
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# -----------------------
-# macOS / OS-specific
-# -----------------------
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-*~
-
-# -----------------------
-# Windows-specific
-# -----------------------
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-
-# -----------------------
-# Environment / secrets
-# -----------------------
+.env
 .env.*
 *.env
 *.secret
@@ -126,7 +30,67 @@ $RECYCLE.BIN/
 config.local.*
 
 # -----------------------
-# Deployment / CI specific
+# Local tooling
+# -----------------------
+tools/blog-converter/input/
+tools/blog-converter/output/
+
+# -----------------------
+# Private project docs
+# -----------------------
+.agents/skills/
+
+# -----------------------
+# -----------------------
+# Test / coverage
+# -----------------------
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# -----------------------
+# Build artifacts / caches
+# -----------------------
+*.tmp
+*.temp
+.sass-cache/
+.cache/
+/dist/
+/build/
+/out/
+
+# -----------------------
+# IDE / editor
+# -----------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -----------------------
+# macOS
+# -----------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*~
+
+# -----------------------
+# Deployment platforms
 # -----------------------
 .netlify/
 .vercel/
@@ -139,12 +103,3 @@ firebase-adminsdk*.json
 # -----------------------
 *.log
 logs/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# -----------------------
-# Blog converter local workflow
-# -----------------------
-tools/blog-converter/input/
-tools/blog-converter/output/

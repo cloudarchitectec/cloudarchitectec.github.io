@@ -9,7 +9,7 @@ cover:
     photographer: "Brett Jordan"
     photographer_url: "https://unsplash.com/@brett-jordan"
     photo_url: "https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-bf1797VxQgY"
-images: []
+images: ["images/brett-jordan-bf1797VxQgY-unsplash.jpg"]
 categories: ["海外職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
 

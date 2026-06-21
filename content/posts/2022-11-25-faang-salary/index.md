@@ -3,10 +3,13 @@ title: "科技大廠 FAANG 的薪資結構解析: 澳洲亞馬遜新鮮人年薪
 date: 2022-11-25
 slug: "2022-11-25-faang-salary"
 cover:
-  image: "images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpg"
+  image: "images/uXHIdfSKPiw-unsplash.jpg"
   alt: "澳洲薪資結構分析"
-  caption: "*"
-images: ['images/medium-1*67EP-zKtNzsXx3vKJKgO7g.jpg']
+  credit:
+    photographer: "Melissa Walker Horn"
+    photographer_url: "https://unsplash.com/@sugercoatit"
+    photo_url: "https://unsplash.com/photos/assorted-australian-dollar-banknotes-uXHIdfSKPiw"
+images: ["images/uXHIdfSKPiw-unsplash.jpg"]
 categories: ["海外職場"]
 tags: ["科技業", "海外職場", "薪資"]
 

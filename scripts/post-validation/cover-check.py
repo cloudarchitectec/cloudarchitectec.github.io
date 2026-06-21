@@ -1,21 +1,10 @@
-#!/usr/bin/env python3
-"""Verify post image references resolve to page bundle files.
-
-Deduplicates refs from front matter (image, images:) and inline markdown
-before comparing to files on disk. Raw string counts without dedup produce
-false positives when the same filename appears in multiple places.
-
-Also validates cover/hero and Unsplash attribution format (C8-S5).
-"""
+"""Cover image, bundle paths, and Unsplash attribution rules for Hugo posts."""
 
 from __future__ import annotations
 
-import argparse
 import re
-import sys
 from pathlib import Path
 
-POSTS_DIR = Path(__file__).resolve().parent.parent / "content" / "posts"
 MD_IMG = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
 DOUBLE_EXT_SUFFIXES = (".jpeg.jpg", ".png.jpg")
 DOUBLE_EXT_REF = re.compile(r"\.(?:jpeg\.jpg|png\.jpg)")
@@ -30,17 +19,6 @@ def split_post(text: str) -> tuple[str, str]:
     if len(parts) < 3:
         return "", text
     return parts[1], parts[2]
-
-
-def get_fm_value(fm: str, key: str) -> str | None:
-    for line in fm.splitlines():
-        m = re.match(rf'^\s*{re.escape(key)}:\s*"(.*)"\s*$', line)
-        if m:
-            return m.group(1)
-        m = re.match(rf"^\s*{re.escape(key)}:\s*'(.*)'\s*$", line)
-        if m:
-            return m.group(1)
-    return None
 
 
 def get_fm_nested(fm: str, key: str) -> str | None:
@@ -63,6 +41,30 @@ def parse_cover(fm: str) -> dict[str, str | dict[str, str]]:
             "photo_url": get_fm_nested(fm, "photo_url") or "",
         },
     }
+
+
+def parse_images_list(fm: str) -> list[str]:
+    paths: list[str] = []
+    in_images = False
+    for line in fm.splitlines():
+        if re.match(r"^\s*images\s*:\s*\[\s*\]\s*$", line):
+            return []
+        m = re.match(r"^\s*images\s*:\s*\[(.+)\]\s*$", line)
+        if m:
+            inner = m.group(1)
+            for part in re.findall(r'["\']([^"\']+)["\']', inner):
+                paths.append(part.strip())
+            return paths
+        if re.match(r"^\s*images\s*:\s*$", line):
+            in_images = True
+            continue
+        if in_images:
+            m = re.match(r'^\s*-\s+"?([^"\']+)"?\s*$', line)
+            if m:
+                paths.append(m.group(1).strip())
+            elif line.strip() and not line.startswith(" "):
+                in_images = False
+    return paths
 
 
 def extract_image_paths(text: str) -> list[str]:
@@ -123,7 +125,6 @@ def normalize_path(raw: str) -> str | None:
 
 
 def fm_declares_hero_images(fm: str) -> bool:
-    """True when front matter images: lists bundle paths (not empty placeholders)."""
     for line in fm.splitlines():
         m = re.match(r'^\s*images\s*:\s*\[(.+)\]\s*$', line)
         if m and re.search(r"images/[^'\"\s]", m.group(1)):
@@ -134,9 +135,8 @@ def fm_declares_hero_images(fm: str) -> bool:
     return bool(parse_cover(fm).get("image"))
 
 
-def check_post_format(md_file: Path) -> list[str]:
-    """Return format violations for cover/hero and Unsplash rules."""
-    text = md_file.read_text(encoding="utf-8", errors="replace")
+def check(text: str) -> list[str]:
+    """Return cover and bundle image format violations."""
     fm, body = split_post(text)
     errors: list[str] = []
 
@@ -158,6 +158,10 @@ def check_post_format(md_file: Path) -> list[str]:
     if cover_image:
         if not str(cover.get("alt") or "").strip():
             errors.append("cover.image set but cover.alt is missing or empty")
+
+        images_list = parse_images_list(fm)
+        if cover_image not in images_list:
+            errors.append("cover.image path must appear in images: array")
 
     if cover_image.endswith("-unsplash.jpg"):
         credit = cover.get("credit") or {}
@@ -187,136 +191,57 @@ def check_post_format(md_file: Path) -> list[str]:
     return errors
 
 
-def check_double_extensions(posts_dir: Path = POSTS_DIR) -> int:
-    """Fail if Medium-style double extensions remain (one-time migration complete)."""
+def check_double_extensions(posts_dir: Path, post_dirs: list[Path] | None = None) -> list[str]:
+    """Return error messages for double-extension files or refs."""
+    errors: list[str] = []
     bad_files: list[str] = []
-    bad_refs: list[tuple[str, str]] = []
+    bad_refs: list[str] = []
 
-    for images_dir in sorted(posts_dir.glob("*/images")):
+    if post_dirs is not None:
+        md_files = [d / "index.md" for d in post_dirs if (d / "index.md").is_file()]
+        image_dirs = [d / "images" for d in post_dirs if (d / "images").is_dir()]
+    else:
+        md_files = sorted(posts_dir.rglob("index.md"))
+        image_dirs = sorted(posts_dir.glob("*/images"))
+
+    for images_dir in image_dirs:
+        if not images_dir.is_dir():
+            continue
         for path in sorted(images_dir.iterdir()):
             if path.is_file() and any(path.name.endswith(s) for s in DOUBLE_EXT_SUFFIXES):
                 bad_files.append(str(path.relative_to(posts_dir.parent.parent)))
 
-    for md_file in sorted(posts_dir.rglob("index.md")):
-        if DOUBLE_EXT_REF.search(md_file.read_text(encoding="utf-8", errors="replace")):
-            bad_refs.append((md_file.parent.name, str(md_file.relative_to(posts_dir.parent.parent))))
-
-    if not bad_files and not bad_refs:
-        return 0
-
-    print("❌ Double image extensions found (.jpeg.jpg / .png.jpg):")
-    for path in bad_files[:10]:
-        print(f"  file: {path}")
-    if len(bad_files) > 10:
-        print(f"  ... and {len(bad_files) - 10} more files")
-    for slug, path in bad_refs[:10]:
-        print(f"  ref in: {path}")
-    if len(bad_refs) > 10:
-        print(f"  ... and {len(bad_refs) - 10} more posts")
-    print("  Use .jpg for JPEG and .png for PNG (not .jpeg.jpg / .png.jpg).")
-    return 1
-
-
-def check_posts(posts_dir: Path = POSTS_DIR, only: Path | None = None) -> int:
-    failures: list[tuple[str, list[str]]] = []
-    format_failures: list[tuple[str, list[str]]] = []
-    checked = 0
-
-    md_files = [only] if only else sorted(posts_dir.rglob("index.md"))
-
     for md_file in md_files:
-        post_dir = md_file.parent
-        text = md_file.read_text(encoding="utf-8", errors="replace")
-        seen: set[str] = set()
-        missing: list[str] = []
+        if DOUBLE_EXT_REF.search(md_file.read_text(encoding="utf-8", errors="replace")):
+            bad_refs.append(str(md_file.relative_to(posts_dir.parent.parent)))
 
-        for raw in extract_image_paths(text):
-            rel = normalize_path(raw)
-            if not rel or rel in seen:
-                continue
-            seen.add(rel)
-            if not (post_dir / rel).exists():
-                missing.append(rel)
+    if bad_files or bad_refs:
+        errors.append("double image extensions found (.jpeg.jpg / .png.jpg)")
+        for path in bad_files[:10]:
+            errors.append(f"  file: {path}")
+        for path in bad_refs[:10]:
+            errors.append(f"  ref in: {path}")
+        if len(bad_files) > 10:
+            errors.append(f"  ... and {len(bad_files) - 10} more files")
+        if len(bad_refs) > 10:
+            errors.append(f"  ... and {len(bad_refs) - 10} more posts")
 
-        if not seen and not (post_dir / "images").exists():
-            fmt_errors = check_post_format(md_file)
-            if fmt_errors:
-                format_failures.append((post_dir.name, fmt_errors))
+    return errors
+
+
+def check_bundle_images(md_file: Path) -> list[str]:
+    """Return missing bundle image paths for a post."""
+    post_dir = md_file.parent
+    text = md_file.read_text(encoding="utf-8", errors="replace")
+    seen: set[str] = set()
+    missing: list[str] = []
+
+    for raw in extract_image_paths(text):
+        rel = normalize_path(raw)
+        if not rel or rel in seen:
             continue
+        seen.add(rel)
+        if not (post_dir / rel).exists():
+            missing.append(rel)
 
-        checked += 1
-        if missing:
-            failures.append((post_dir.name, missing))
-
-        fmt_errors = check_post_format(md_file)
-        if fmt_errors:
-            format_failures.append((post_dir.name, fmt_errors))
-
-    if only:
-        print(f"Checked post: {only.parent.name}")
-    else:
-        print(f"Checked {checked} posts with image references")
-
-    exit_code = 0
-
-    if failures:
-        exit_code = 1
-        print(f"❌ {len(failures)} post(s) with missing bundle images:")
-        for slug, missing in failures:
-            print(f"  {slug}:")
-            for path in missing:
-                print(f"    - {path}")
-
-    if format_failures:
-        exit_code = 1
-        print(f"❌ {len(format_failures)} post(s) with image format violations:")
-        for slug, errors in format_failures:
-            print(f"  {slug}:")
-            for err in errors:
-                print(f"    - {err}")
-
-    if exit_code == 0:
-        print("✅ All post image references resolve to page bundle files")
-        print("✅ All post image format checks passed")
-
-    return exit_code
-
-
-def resolve_post_path(arg: str) -> Path:
-    path = Path(arg)
-    if path.is_file():
-        return path.resolve()
-    candidate = POSTS_DIR / arg / "index.md"
-    if candidate.is_file():
-        return candidate.resolve()
-    candidate = POSTS_DIR / arg
-    if candidate.is_file():
-        return candidate.resolve()
-    raise FileNotFoundError(f"Post not found: {arg}")
-
-
-def main() -> int:
-    parser = argparse.ArgumentParser(description="Verify post image paths and format")
-    parser.add_argument(
-        "--post",
-        metavar="SLUG_OR_PATH",
-        help="Check a single post (slug dir name or path to index.md)",
-    )
-    args = parser.parse_args()
-
-    only: Path | None = None
-    if args.post:
-        try:
-            only = resolve_post_path(args.post)
-        except FileNotFoundError as exc:
-            print(f"❌ {exc}")
-            return 1
-
-    exit_code = check_double_extensions()
-    if exit_code != 0:
-        return exit_code
-    return check_posts(only=only)
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+    return missing

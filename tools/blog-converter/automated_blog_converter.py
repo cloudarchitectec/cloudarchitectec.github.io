@@ -2,6 +2,7 @@
 """
 Automates the creation of Hugo blog posts from markdown files with Unsplash images.
 Emits cover.image / cover.alt / cover.credit front matter (no duplicate body hero).
+Post rules enforced by scripts/post-validation/ — run scripts/check-posts.py --help.
 """
 
 import json
@@ -30,7 +31,7 @@ SLUG_MAX_LENGTH = 75
 # Paths
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent.parent
-CHECK_SCRIPT = PROJECT_ROOT / "scripts" / "check-post-images.py"
+CHECK_SCRIPT = PROJECT_ROOT / "scripts" / "check-posts.py"
 
 load_dotenv(PROJECT_ROOT / ".env")
 INPUT_DIR = SCRIPT_DIR / "input"
@@ -279,7 +280,7 @@ def find_existing_images(images_dir):
 
 
 def validate_post(post_dir: Path) -> bool:
-    """Run check-post-images.py on a single post. Returns True if all checks pass."""
+    """Run check-posts.py on a single post. Returns True if all checks pass."""
     if not CHECK_SCRIPT.is_file():
         click.echo(f"⚠️  Validation script not found: {CHECK_SCRIPT}")
         return True
