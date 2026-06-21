@@ -1,0 +1,70 @@
+"""RSS feed checks — cover.image must appear as media:content for MailerLite."""
+
+from __future__ import annotations
+
+import re
+import shutil
+import subprocess
+import xml.etree.ElementTree as ET
+from pathlib import Path
+
+import pytest
+
+REPO_ROOT = Path(__file__).resolve().parents[1]
+RSS_PATH = REPO_ROOT / "public" / "index.xml"
+NS = {
+    "media": "http://search.yahoo.com/mrss/",
+    "content": "http://purl.org/rss/1.0/modules/content/",
+}
+
+
+def hugo_available() -> bool:
+    return shutil.which("hugo") is not None
+
+
+@pytest.fixture(scope="module")
+def built_rss():
+    if not hugo_available():
+        pytest.skip("hugo not installed")
+    result = subprocess.run(
+        ["hugo", "--gc", "--minify", "--cleanDestinationDir"],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+    )
+    if result.returncode != 0:
+        pytest.fail(f"hugo build failed:\n{result.stdout}\n{result.stderr}")
+    return RSS_PATH.read_text(encoding="utf-8")
+
+
+def item_for_slug(rss_text: str, slug: str) -> ET.Element | None:
+    root = ET.fromstring(rss_text)
+    channel = root.find("channel")
+    assert channel is not None
+    for item in channel.findall("item"):
+        link = item.findtext("link") or ""
+        if slug in link:
+            return item
+    return None
+
+
+class TestRssCoverImages:
+    def test_retirement_post_has_media_content_for_cover(self, built_rss):
+        """Cover-only heroes must be in RSS — MailerLite featured image reads media:content."""
+        item = item_for_slug(built_rss, "2026-06-17-retirement-plan")
+        assert item is not None, "retirement-plan item missing from index.xml"
+        media = item.find("media:content", NS)
+        assert media is not None, "expected media:content for cover.image post"
+        url = media.get("url") or ""
+        assert "cEukkv42O40-unsplash" in url, f"unexpected cover URL: {url}"
+        assert url.startswith("http"), url
+
+    def test_posts_with_cover_have_media_content(self, built_rss):
+        """Sample recent posts with cover.image should expose media:content."""
+        for slug in ("2026-06-17-retirement-plan", "2026-05-17-sydney-mca"):
+            item = item_for_slug(built_rss, slug)
+            assert item is not None, slug
+            assert item.find("media:content", NS) is not None, slug
+
+    def test_rss_declares_media_namespace(self, built_rss):
+        assert "xmlns:media=" in built_rss or "media:content" in built_rss
