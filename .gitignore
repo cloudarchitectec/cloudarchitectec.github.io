@@ -144,7 +144,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # -----------------------
-# Blog converter local workflow (drafts + generated posts)
+# Blog converter local workflow
 # -----------------------
 tools/blog-converter/input/
 tools/blog-converter/output/

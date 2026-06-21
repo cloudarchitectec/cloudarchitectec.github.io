@@ -2,10 +2,16 @@
 title: "零基礎轉職澳洲工程師: 2019.10.02 不吐不快"
 date: 2019-10-02
 slug: "2019-10-02-let-it-out"
-images: ['']
+cover:
+  image: "images/iTJ9qdICuZo-unsplash.jpg"
+  alt: "暗色背景上的 EXIT 標示"
+  credit:
+    photographer: "Baptiste Riethmann"
+    photographer_url: "https://unsplash.com/@du_sable_et_du_vent"
+    photo_url: "https://unsplash.com/photos/white-way-out-text-on-a-dark-background-iTJ9qdICuZo"
+images: ["images/iTJ9qdICuZo-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
 ---
 
 ### 2019-09-30
