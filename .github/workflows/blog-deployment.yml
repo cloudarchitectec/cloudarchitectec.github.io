@@ -152,11 +152,16 @@ jobs:
           [ -f "public/CNAME" ] && echo "✅ CNAME present" || (echo "❌ CNAME missing from public/" && exit 1)
           if command -v xmllint &>/dev/null; then
             xmllint --noout public/index.xml && echo "✅ RSS valid" || (echo "❌ RSS invalid" && exit 1)
+            xmllint --noout public/index-mailerlite.xml && echo "✅ MailerLite RSS valid" || (echo "❌ MailerLite RSS invalid" && exit 1)
           fi
           grep -q 'media:content' public/index.xml \
             && grep -q '/posts/.*/images/' public/index.xml \
             && echo "✅ RSS has cover media:content with post bundle URLs" \
             || (echo "❌ RSS missing media:content — check layouts/_default/rss.xml" && exit 1)
+          grep -q 'https://cloudarchitectec.com/posts/2026-06-17-retirement-plan/images/' public/index-mailerlite.xml \
+            && grep -q 'ZsH1wHv2iTU-unsplash' public/index-mailerlite.xml \
+            && echo "✅ MailerLite RSS injects cover images into excerpts" \
+            || (echo "❌ MailerLite RSS missing cover img — check layouts/index.mailerlite.xml" && exit 1)
           grep -rl "@waline/client" public/posts/*/index.html | head -1 | grep -q . \
             && echo "✅ Waline embed present in posts" \
             || (echo "❌ Waline embed not found — check comments = true in hugo.toml" && exit 1)

@@ -1,0 +1,76 @@
+{{- /* MailerLite RSS — inject cover.image as first Hugo-rendered body image in excerpt.
+     Standard index.xml stays clean for feed readers; use this URL in MailerLite only. */}}
+{{- $authorEmail := "" }}
+{{- with site.Params.author }}
+  {{- if reflect.IsMap . }}
+    {{- with .email }}{{ $authorEmail = . }}{{ end }}
+  {{- end }}
+{{- else }}
+  {{- with site.Author.email }}{{ $authorEmail = . }}{{ end }}
+{{- end }}
+
+{{- $authorName := "" }}
+{{- with site.Params.author }}
+  {{- if reflect.IsMap . }}
+    {{- with .name }}{{ $authorName = . }}{{ end }}
+  {{- else }}
+    {{- $authorName = . }}
+  {{- end }}
+{{- else }}
+  {{- with site.Author.name }}{{ $authorName = . }}{{ end }}
+{{- end }}
+
+{{- $pages := site.RegularPages }}
+{{- $limit := site.Config.Services.RSS.Limit }}
+{{- if ge $limit 1 }}
+  {{- $pages = $pages | first $limit }}
+{{- end }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>{{ site.Title }} (MailerLite)</title>
+    <link>{{ site.Home.Permalink }}</link>
+    <description>MailerLite feed for {{ site.Title }} — cover images injected into excerpts</description>
+    <generator>Hugo -- {{ hugo.Version }}</generator>
+    <language>{{ site.Language.LanguageCode }}</language>
+    {{- with $authorEmail }}
+    <managingEditor>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</managingEditor>
+    <webMaster>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</webMaster>
+    {{- end }}
+    {{- with site.Copyright }}
+    <copyright>{{ . | markdownify | plainify | strings.TrimPrefix "© " }}</copyright>
+    {{- end }}
+    {{- with site.Home.OutputFormats.Get "MailerLite" }}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end }}
+    {{- range $pages }}
+    {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
+    {{- $page := . }}
+    {{- $descBody := $page.Description | default $page.Summary }}
+    {{- $coverURL := "" }}
+    {{- with $page.Params.cover.image }}
+      {{- $coverPath := . | strings.TrimPrefix "/" }}
+      {{- $coverAlt := $page.Params.cover.alt | default $page.Title }}
+      {{- $coverURL = printf "%s/%s" (strings.TrimSuffix "/" $page.Permalink) $coverPath }}
+      {{- if not (strings.Contains $descBody (path.Base $coverPath)) }}
+        {{- $coverMD := printf "![%s](%s)" $coverAlt $coverURL }}
+        {{- $coverHTML := $page.RenderString $coverMD }}
+        {{- $descBody = printf "%s%s" $coverHTML $descBody }}
+      {{- end }}
+    {{- end }}
+    <item>
+      <title>{{ $page.Title | html }}</title>
+      <link>{{ $page.Permalink }}</link>
+      <pubDate>{{ $page.PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{- with $authorEmail }}<author>{{ . | html }}{{ with $authorName }} ({{ . | html }}){{ end }}</author>{{ end }}
+      <guid>{{ $page.Permalink }}</guid>
+      <description>{{ $descBody | html }}</description>
+      {{- with $coverURL }}
+      <media:content medium="image" url="{{ . }}" />
+      <media:thumbnail url="{{ . }}" />
+      {{- end }}
+    </item>
+    {{- end }}
+    {{- end }}
+  </channel>
+</rss>

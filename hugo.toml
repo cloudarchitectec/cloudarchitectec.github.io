@@ -181,5 +181,11 @@ disablePathToLower = true
   [markup.goldmark.renderer]
     unsafe = true
 
+[outputFormats.MailerLite]
+  mediaType = "application/rss+xml"
+  baseName = "index-mailerlite"
+  isPlainText = true
+  rel = "alternate"
+
 [outputs]
-  home = ["HTML", "RSS", "JSON"] # is necessary
+  home = ["HTML", "RSS", "JSON", "MailerLite"] # is necessary
