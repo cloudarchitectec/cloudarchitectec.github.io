@@ -82,5 +82,3 @@ Rentals
   * Snowboard + showboats $49NZD vs 112AUD (Perisher)
   * snow jacket + pants: $20NZD vs $117AUD (Perisher)
   * Helmet $10 NZD vs 40AUD (Perisher)
-
-{{< footer >}}

@@ -81,5 +81,3 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 下一篇要來講 Solution Architecting，也是我覺得CSA這個職位最專業，也最有技術力的地方，請大家敬請期待吧～
 
 我上次在一個好朋友(他是台灣的高中英文老師，非 IT 專業)面前跟另一個資工所的學生聊完 solution architecting/solution design，他看我的眼神立刻就不一樣了XDD 可能是因為我之前只有在他面前抱怨過工作，沒有講過技術內容，我一講完我可以感受到他看我的眼神立刻充滿了崇拜哈哈哈哈
-
-{{< footer >}}

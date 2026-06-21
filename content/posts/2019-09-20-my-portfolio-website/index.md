@@ -150,5 +150,3 @@ Damn, the flip card effect on your experiences page is so cool! Now I hate you �
 今天下午我要趕快來隨便把第三個作業寫完，然後準備下週迎接我的好朋友Ｗ的到來～～～
 
 下週五我們要一起幫朋友慶生，週六要去參加婚禮，好忙好忙啊～　然後下週居然又有另一個作業due 😦
-
-{{< footer >}}

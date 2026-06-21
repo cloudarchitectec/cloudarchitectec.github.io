@@ -126,5 +126,3 @@ tags: ["墨爾本", "旅遊", "澳網"]
 ![澳網園區熱鬧景象](images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpg)
 
 *![澳網場館外觀全景](images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpg)*
-
-{{< footer >}}

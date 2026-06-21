@@ -20,6 +20,8 @@ This repository hosts the source code for Cloud Architect EC's blog, built with 
 - **Static Site Generator**: [Hugo](https://gohugo.io/) (v0.135.0+)
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Deployment**: GitHub Actions → GitHub Pages
+- **Comment**: via Waline
+- **Newsletter**: via mailerlite
 
 ## Local development
 
@@ -33,7 +35,6 @@ pre-commit install
 This runs `scripts/check-posts.py --staged` on any commit touching `content/posts/`. Full scan uses `git ls-files` index paths (case-sensitive, matches Linux CI on macOS): `python3 scripts/check-posts.py`. Tests: `pip install -r requirements.txt && pytest tests/`.
 
 Pull requests to `main` also run post validation on Ubuntu (`.github/workflows/validate-posts.yml`) before deploy.
-
 
 ## Features
 
@@ -52,8 +53,9 @@ All notable changes to this project will be documented in this file.
 
 ---
 **2026.06.21**
+- Implemented MailerLite newsletter
 - Fixed hero images
-- Added post & image validation
+- Added post & image validation, commmit hook, PR validation
 
 **2026.06.20**
 - Added custom domain

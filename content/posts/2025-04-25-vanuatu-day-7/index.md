@@ -82,5 +82,3 @@ tags: ["旅遊","萬那杜","獨旅","自駕"]
 ![海邊火焰表演秀](images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpg)
 
 *![萬那杜傳統火焰舞](images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpg)火焰秀*
-
-{{< footer >}}

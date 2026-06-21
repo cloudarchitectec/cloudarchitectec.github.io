@@ -64,5 +64,3 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 Su 說「不可能，因為 20 幾歲的人絕對不會九點就睡!!!」 
 
 我簡直要笑死XDDDD
-
-{{< footer >}}

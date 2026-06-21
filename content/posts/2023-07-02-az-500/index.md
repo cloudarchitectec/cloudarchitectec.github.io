@@ -79,5 +79,3 @@ tags: ["雲端證照"]
 雖然我很順利第一次就通過了 AZ-500，但現在想想我覺得我應該在參加 AZ-500 考試之前先參加 <<AZ-700 考試：設計和實施 Microsoft Azure 網路解決方案（Microsoft Certified: Azure Network Engineer Associate）>>。由於網路安全在 AZ-500 中佔了很大的比重（20–25%），我覺得通過 AZ-700 考試會是一個極大的優勢。（有趣的是，我計劃接下來要參加的考試就是 AZ-700哈哈）
 
 大家也考過 Azure 或 AWS 雲端證照嗎？有沒有什麼獨門準備秘技？歡迎留言與我分享～
-
-{{< footer >}}

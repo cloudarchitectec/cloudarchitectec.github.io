@@ -191,5 +191,3 @@ ETF fact sheet 是一份提供 ETF 關鍵資訊的文件，通常包括基金的
 當然我不是巴菲特XD 我只是覺得有時候集中投入 (specialisation) 可能會帶給你比分散投資 (diversification) 更好的結果，這裡的大前提是你知道自己在幹嘛的情況XD
 
 有人也在投資澳洲 ETFs 嗎？快留言跟我分享你的投資策略與心得～
-
-{{< footer >}}

@@ -79,5 +79,3 @@ tags: ["旅遊", "郵輪"]
 ![郵輪Red Carpet夜店酒吧](images/medium-1*UebhifGmE_EM5D5YmAxK7Q.jpg)
 
 *夜店的 bar*
-
-{{< footer >}}

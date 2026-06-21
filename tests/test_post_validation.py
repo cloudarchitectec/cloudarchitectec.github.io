@@ -42,14 +42,12 @@ categories: ["海外職場"]
 ---
 
 Body content here.
-
-{{{{< footer >}}}}
 """
 
 
 def wrap(fm_body: str, body: str | None = None) -> str:
     if body is None:
-        body = f"Content.\n\n{{{{< footer >}}}}"
+        body = "Content."
     return f"---\n{fm_body}\n---\n\n{body}"
 
 
@@ -91,11 +89,11 @@ class TestFrontmatterCheck:
     def test_slug_mismatch_rejected(self):
         assert any("slug must match" in e for e in frontmatter_check.check(GOOD_POST, "wrong-dir"))
 
-    def test_missing_footer_rejected(self):
-        text = GOOD_POST.replace("{{< footer >}}", "")
+    def test_legacy_footer_shortcode_rejected(self):
+        text = GOOD_POST + "\n\n{{{{< footer >}}}}"
         assert any("footer" in e for e in frontmatter_check.check(text, "test-slug"))
 
-    def test_landing_page_without_footer_passes(self):
+    def test_landing_page_passes(self):
         text = wrap(
             'title: "List"\ndate: 2018-01-02\nslug: "2018-01-02-ec-post-list"\n'
             'cover:\n  image: "images/x.jpg"\n  alt: "x"\nimages: ["images/x.jpg"]',
@@ -106,14 +104,14 @@ class TestFrontmatterCheck:
     def test_draft_without_cover_passes(self):
         text = wrap(
             'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ndraft: true',
-            body=f"No cover.\n\n{{{{< footer >}}}}",
+            body="No cover.",
         )
         assert frontmatter_check.check(text, "draft-post") == []
 
     def test_published_without_cover_rejected(self):
         text = wrap(
             'title: "Pub"\ndate: 2025-01-01\nslug: "pub-post"',
-            body=f"No cover.\n\n{{{{< footer >}}}}",
+            body="No cover.",
         )
         assert any("cover.image" in e for e in frontmatter_check.check(text, "pub-post"))
 

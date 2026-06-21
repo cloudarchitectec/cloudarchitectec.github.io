@@ -67,5 +67,3 @@ like to talk to human beings. And tbh I don’t like human beings at all. I’d 
 在Niraj也要離開了囧 
 
 偉恩大哥應該也滿難過的，因為他跟 Niraj 是超好的朋友😭😭😭
-
-{{< footer >}}

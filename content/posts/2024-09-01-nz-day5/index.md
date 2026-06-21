@@ -97,5 +97,3 @@ Until next time 🏔️
 ![紐西蘭特產巧克力](images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpg)
 
 *![Cookie Time 餅乾](images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpg)紐西蘭伴手禮*
-
-{{< footer >}}

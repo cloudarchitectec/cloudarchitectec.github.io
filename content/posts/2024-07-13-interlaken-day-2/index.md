@@ -53,5 +53,3 @@ tags: ["獨旅","旅遊", "歐洲", "瑞士"]
 ![少女峰雲霧中的冰川隧道](images/medium-1*0LHs1jw9rGp7t0TWAW88tg.jpg)
 
 *![歐洲之巔少女峰景觀](images/medium-1*0gTDz3-Iz4_EYu_DZKGzLw.jpg)少女峰*
-
-{{< footer >}}

@@ -1,0 +1,239 @@
+/* Post footer: tags → CTA card (subscribe + coffee) → comments */
+
+.post-single .post-footer {
+  margin-top: 1.5rem;
+  margin-bottom: 0;
+}
+
+.post-footer-cta {
+  margin: 1rem 0 1.5rem;
+}
+
+.post-footer-cta-card {
+  background: #fef0d4;
+  border: 2px solid #c8820a;
+  border-radius: 12px;
+  padding: 18px 24px;
+}
+
+.post-footer-cta .ml-form-embedContainer,
+.post-footer-cta .ml-form-embedWrapper,
+.post-footer-cta .ml-form-align-center {
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.post-footer-cta-heading h4 {
+  margin: 0 0 0.35rem;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #4a3008;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
+
+.post-footer-cta-heading p {
+  margin: 0 0 0.85rem;
+  font-size: 13px;
+  line-height: 1.4;
+  color: #8a6020;
+}
+
+.post-footer-cta-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: stretch;
+}
+
+.post-footer-cta-form .ml-form-formContent {
+  flex: 1 1 220px;
+  min-width: 0;
+}
+
+.post-footer-cta-form .ml-form-fieldRow,
+.post-footer-cta-form .ml-field-group {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.post-footer-cta-form input.form-control {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.55em 0.75em;
+  font-size: 15px;
+  line-height: 1.4;
+  color: #4a3008;
+  background: #fffdf8;
+  border: 1px solid #e8c88a;
+  border-radius: 9px;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.post-footer-cta-form input.form-control::placeholder {
+  color: #8a6020;
+  opacity: 0.75;
+}
+
+.post-footer-cta-form input.form-control:focus {
+  outline: none;
+  border-color: #c8820a;
+  box-shadow: 0 0 0 2px rgba(200, 130, 10, 0.2);
+}
+
+.post-footer-cta-form .ml-form-embedSubmit {
+  flex: 0 0 auto;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.post-footer-cta-form button.primary {
+  height: 100%;
+  min-height: 42px;
+  padding: 0.55em 1.25em;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #fef0d4;
+  background: #4a3008;
+  border: 1px solid #4a3008;
+  border-radius: 9px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.post-footer-cta-form button.primary:hover,
+.post-footer-cta-form button.primary:active {
+  background: #3a2406;
+  border-color: #3a2406;
+}
+
+.post-footer-cta-success {
+  text-align: center;
+  padding: 0.25rem 0 0.5rem;
+}
+
+.post-footer-cta-success h4 {
+  margin: 0 0 0.35rem;
+  font-size: 17px;
+  font-weight: 500;
+  color: #4a3008;
+}
+
+.post-footer-cta-success p {
+  margin: 0;
+  font-size: 13px;
+  color: #8a6020;
+  line-height: 1.5;
+}
+
+.post-footer-cta-coffee {
+  margin: 0;
+  text-align: center;
+}
+
+.post-footer-cta-coffee--divider {
+  margin-top: 0.85rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid #e8c88a;
+}
+
+.post-footer-cta-coffee-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35em;
+  padding: 0.65em 1.35em;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: #fff;
+  background: #c8820a;
+  text-decoration: none;
+  cursor: pointer;
+  border-radius: 9px;
+  border: none;
+  transition: background 0.15s, transform 0.15s;
+}
+
+.post-footer-cta-coffee-btn:hover {
+  background: #a66d08;
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.post-footer-cta-coffee-btn:active {
+  transform: translateY(0);
+}
+
+.post-footer-cta .ml-form-embedSubmitLoad {
+  border-color: #fef0d4 #fef0d4 #fef0d4 transparent !important;
+}
+
+body.dark .post-footer-cta-card {
+  background: #fef0d4;
+  border-color: #c8820a;
+}
+
+body.dark .post-footer-cta-heading h4,
+body.dark .post-footer-cta-success h4 {
+  color: #4a3008;
+}
+
+body.dark .post-footer-cta-heading p,
+body.dark .post-footer-cta-success p {
+  color: #8a6020;
+}
+
+body.dark .post-footer-cta-coffee-btn {
+  color: #fff;
+  background: #c8820a;
+}
+
+body.dark .post-footer-cta-coffee-btn:hover {
+  background: #a66d08;
+  color: #fff;
+}
+
+body.dark .post-footer-cta-form input.form-control {
+  color: #4a3008;
+  background: #fffdf8;
+  border-color: #e8c88a;
+}
+
+body.dark .post-footer-cta-form button.primary {
+  color: #fef0d4;
+  background: #4a3008;
+  border-color: #4a3008;
+}
+
+body.dark .post-footer-cta-coffee--divider {
+  border-top-color: #e8c88a;
+}
+
+@media screen and (max-width: 768px) {
+  .post-footer-cta-card {
+    padding: 14px 16px;
+  }
+
+  .post-footer-cta-form {
+    flex-direction: column;
+  }
+
+  .post-footer-cta-form button.primary {
+    width: 100%;
+  }
+
+  .post-footer-cta-coffee-btn {
+    width: 100%;
+    box-sizing: border-box;
+  }
+}

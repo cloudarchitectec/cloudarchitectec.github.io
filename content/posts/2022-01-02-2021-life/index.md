@@ -68,5 +68,3 @@ tags: ["年度回顧"]
 總之人生不就是這樣，雖然也沒什麼好期待的，但感覺還是可以靠著珍惜日常小確幸繼續度過每一天XD
 
 Let’s hope better days will come~
-
-{{< footer >}}

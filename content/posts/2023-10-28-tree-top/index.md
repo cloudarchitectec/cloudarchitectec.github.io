@@ -87,5 +87,3 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 ![](images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpg)
 
 *與大鳳梨合照*
-
-{{< footer >}}

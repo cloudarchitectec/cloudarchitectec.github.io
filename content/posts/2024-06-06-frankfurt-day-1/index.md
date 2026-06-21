@@ -103,5 +103,3 @@ tags: ["獨旅","旅遊", "歐洲",  "德國"]
 ![法蘭克福土耳其餐廳](images/medium-1*TP_azikIT6LICW1xpSxE8A.jpg)![德國 Kebab 免費麵包](images/medium-1*zLVmZNEfw6w7uhhsGUdxpg.jpg)
 
 *右上就是老闆送的麵包*
-
-{{< footer >}}

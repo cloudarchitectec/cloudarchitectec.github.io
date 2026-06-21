@@ -66,5 +66,3 @@ tags: ["獨旅","旅遊", "歐洲",  "德國"]
 ![Never Again 反戰紀念碑](images/medium-1*UPvLV2JFps1e7pBw6tedlg.jpg)
 
 *Never Again 紀念碑*
-
-{{< footer >}}

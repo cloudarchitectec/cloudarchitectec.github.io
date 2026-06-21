@@ -85,5 +85,3 @@ tags: ["旅遊", "新喀里多尼亞", "郵輪"]
 ![郵輪島嶼主題甲板派對](images/medium-1*uVGQvX5gRy42oH8WSCQp6A.jpg)
 
 *郵輪島嶼主題甲板派對*
-
-{{< footer >}}

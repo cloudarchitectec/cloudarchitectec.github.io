@@ -18,5 +18,3 @@ challenge做完了，但其實還是沒有…… D先生解釋了之後，我還
 (我之前寫的是建立在之前已經有人寫過類似的component的基礎上)。你們可能會覺得自己重頭開始做會比較簡單，但我覺得不然，因為我到目前為止的實習體悟就是不管怎樣每件事都很難😂
 D 先生還跟我們說，現在你們跟Angular比較熟了，你們可以從 Angular 的角度來想想要怎麼把這個任務解構成更小的部分~ 然後我立馬就偷傳訊息給里奇大哥說 'Angular
 only makes things much more complicated and makes your life so much harder' 哈哈哈哈哈
-
-{{< footer >}}

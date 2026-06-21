@@ -60,5 +60,3 @@ tags: ["旅遊","自駕","滑雪","紐西蘭"]
 ![紐西蘭哈比村全景](images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpg)
 
 *![魔戒拍攝地導覽結束](images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpg)*
-
-{{< footer >}}

@@ -65,5 +65,3 @@ Senior Cloud Architect 除了要負責帶領技術團隊，常常還需要跟客
 
 
 以上就是 ProServ Cloud Architect 的簡單分享!
-
-{{< footer >}}

@@ -180,5 +180,3 @@ tags: ["轉職工程師", "薪資","職涯"]
 > 我心中理想的 tech lead: 「擁有技術專業知識 (technical expertise)、熟悉公司系統 (Knows the in and outs of the system)、願意花時間跟團隊成員一起 pair programming、在意團隊成員的身心健康 (personal wellbeing)」
 
 這種事到底怎麼驗證? 請大家告訴我!!! 哈哈哈哈~ 請大家多多留言跟我說說你們的想法XD 不要讓我一直在這邊自言自語、自我辯證哈哈哈
-
-{{< footer >}}

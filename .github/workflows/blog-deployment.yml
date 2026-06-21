@@ -162,6 +162,12 @@ jobs:
           grep -rl "zh-TW" public/posts/*/index.html | head -1 | grep -q . \
             && echo "✅ Waline zh-TW locale present in posts" \
             || (echo "❌ Waline zh-TW locale not found" && exit 1)
+          grep -rl 'post-footer-cta' public/posts/*/index.html | head -1 | grep -q . \
+            && echo "✅ MailerLite post footer present in posts" \
+            || (echo "❌ Post footer CTA not found — check partials/post-footer.html" && exit 1)
+          grep -rl 'dashboard.mailerlite.com/jsonp/2459287/forms/190870271382520893/subscribe' public/posts/*/index.html | head -1 | grep -q . \
+            && echo "✅ MailerLite subscribe action present in posts" \
+            || (echo "❌ MailerLite subscribe action not found" && exit 1)
           if grep -rE 'src=\\?"?images/' public/posts/*/index.html; then
             echo "❌ Unresolved image src in built HTML (PaperMod could not resolve bundle resource)"
             exit 1

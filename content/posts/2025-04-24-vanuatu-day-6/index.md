@@ -99,5 +99,3 @@ Port Vila 南邊的路比起北邊來說好很多，雖然有坑，但沒有到�
 ![兩房公寓內部空間](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg)
 
 ![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg)
-
-{{< footer >}}

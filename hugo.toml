@@ -127,11 +127,12 @@ disablePathToLower = true
     name = "threads"
     url = "https://www.threads.com/@cloud_architect_ec"
 
-  # Newsletter Subscription Configuration
-  # [params.newsletter]
-  #   enabled = true
-  #   formAction = "https://docs.google.com/forms/d/e/1FAIpQLSdzcSC4uJl-nfNj68GOStX9EeqJXD9pFkz-XtRGUNiUIHK-fQ/formResponse"
-  #   emailField = "emailAddress"
+  # MailerLite newsletter (HTML embed — IDs are public, not secrets)
+  [params.newsletter]
+    enabled = true
+    accountId = "2459287"
+    formId = "190870271382520893"
+    embedId = "42852034"
 
 [languages]
   [languages.zh-hant]
