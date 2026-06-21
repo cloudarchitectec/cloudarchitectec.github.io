@@ -2,11 +2,11 @@
 title: "零基礎轉職澳洲工程師: 2020.03.08 First Mentoring Experience"
 date: 2020-03-08
 slug: "2020-03-08-first-mentoring-experience"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
+
 ---
 
 2020-03-07 (Sat)

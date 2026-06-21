@@ -2,18 +2,21 @@
 title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.19 — Day 5 Lifou (New Caledonia)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-5"
-image: "images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpg"
+cover:
+  image: "images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpg"
+  alt: "郵輪房務創意毛巾兔子"
+  caption: "今天的毛巾動物是什麼呢? (下文有答案)"
 images: ['images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpg', 'images/medium-1*--9Pw_aiyqSGzhUf2ZieUQ.jpg', 'images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpg', 'images/medium-1*7PgD26vI-d-yONvrGR-qEw.jpg', 'images/medium-1*KbwckbPHton3dvodP2-OQg.jpg', 'images/medium-1*pFEUKRkQrGBUcK7CPCSwxA.jpg', 'images/medium-1*PL5k02W0pByIHUcKRJ7ffw.jpg', 'images/medium-1*mW5U1eIHTAk5xFCjC0CE-g.jpg', 'images/medium-1*sj7OZg5di7AAyxWxN0KN1Q.jpg', 'images/medium-1*Kl99scnbT80o6Vyh5HnuGg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "新喀里多尼亞", "郵輪"]
+
 ---
+
 ---
 
 ### Carnival Splendor 澳洲南太平洋郵輪 2023.05.19 — Day 5 Lifou (New Caledonia)
 
-![郵輪房務創意毛巾兔子](images/medium-1*_py8lpX0RHKA53ZMEMP2bw.jpg)
 
-*今天的毛巾動物是什麼呢? (下文有答案)*
 
 * * *
 

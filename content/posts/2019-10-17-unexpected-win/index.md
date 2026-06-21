@@ -2,10 +2,10 @@
 title: "零基礎轉職澳洲工程師: 2019.10.17 漸入佳境"
 date: 2019-10-17
 slug: "2019-10-17-unexpected-win"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+
 ---
 
 ### 2019-10-15 & 16

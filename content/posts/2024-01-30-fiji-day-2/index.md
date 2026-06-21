@@ -2,13 +2,18 @@
 title: "斐濟自助旅遊 2022.10.11 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-2"
-image: "images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpg"
+cover:
+  image: "images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpg"
+  alt: "斐濟自助旅遊 2022.10.11 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
+  credit:
+    photographer: "Giorgia Doglioni"
+    photographer_url: "https://unsplash.com/@gio_aroundtheworld"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpg', 'images/medium-1*lQQDZ9d75S-w1F47tWt-Zw.jpg', 'images/medium-1*pR_hCUL162C3Qx7wGHTGFw.jpg', 'images/medium-1*OaA-O_K5Enslu7bk6qFmvw.jpg', 'images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpg', 'images/medium-1*68-6whc9cjMou1308Lj0JQ.jpg', 'images/medium-1*maKJl591iSb1XH8bd3q3Aw.jpg', 'images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpg', 'images/medium-1*4Ar0XAYW7or1rjElNGF78g.jpg', 'images/medium-1*ME6HFCkpu4PTV4WcvrjqqA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "斐濟"]
----
 
-![斐濟Nadi市區街景與建築](images/medium-0*jIl7H3ZOzOzoPv9T.jpg)Photo by [Giorgia Doglioni](https://unsplash.com/@gio_aroundtheworld?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 ### 前言
 
@@ -34,7 +39,6 @@ tags: ["旅遊", "斐濟"]
 
 ![斐濟美食街炸雞薯條](images/medium-1*OaA-O_K5Enslu7bk6qFmvw.jpg)
 
-![斐濟當地珍珠奶茶](images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpg)
 
 *炸雞與珍奶*
 

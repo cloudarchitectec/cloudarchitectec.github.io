@@ -2,17 +2,23 @@
 title: "倖存者日記：2023 澳洲微軟裁員後續，裁員風暴仍在持續"
 date: 2023-04-06
 slug: "2023-04-06-2023-layoff"
-image: "images/medium-0*w_X54NDVy89HyHn-.jpg"
+cover:
+  image: "images/medium-0*w_X54NDVy89HyHn-.jpg"
+  alt: "newspaper titled layoff"
+  credit:
+    photographer: "James Yarema"
+    photographer_url: "https://unsplash.com/@jamesyarema"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*w_X54NDVy89HyHn-.jpg']
 categories: ["海外職場"]
 tags: ["裁員"]
+
 ---
 
 * * *
 
 ### **倖存者日記：2023 澳洲微軟裁員後續，裁員風暴仍在持續**
 
-![newspaper titled layoff](images/medium-0*w_X54NDVy89HyHn-.jpg) Photo by [James Yarema](https://unsplash.com/@jamesyarema?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 

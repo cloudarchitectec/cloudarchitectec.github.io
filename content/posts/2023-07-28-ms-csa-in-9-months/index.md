@@ -2,17 +2,23 @@
 title: "微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思：那些職務想像與現實的差距"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-in-9-months"
-image: "images/medium-0*2Yvaws4V393iGDiT.jpg"
+cover:
+  image: "images/medium-0*2Yvaws4V393iGDiT.jpg"
+  alt: "雲端解決方案架構師職涯成長"
+  credit:
+    photographer: "Yeshi Kangrang"
+    photographer_url: "https://unsplash.com/@omgitsyeshi"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*2Yvaws4V393iGDiT.jpg']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
+
 ---
 
 * * *
 
 ### 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思：那些職務想像與現實的差距
 
-![雲端解決方案架構師職涯成長](images/medium-0*2Yvaws4V393iGDiT.jpg)Photo by [Yeshi Kangrang](https://unsplash.com/@omgitsyeshi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 > 這是我在 2023 年寫的文章，寫完這篇後不久我就毅然決然從微軟離職了XD 現在我決定免費公開這篇文章，算是跟大家分享一下我當時的心路轉折～
 

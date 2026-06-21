@@ -2,17 +2,19 @@
 title: "從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽到另一朵雲？"
 date: 2022-12-03
 slug: "2022-12-03-aws-to-ms"
-image: "images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpg"
+cover:
+  image: "images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpg"
+  alt: "微軟辦公室工作環境"
 images: ['images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpg', 'images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpg', 'images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpg']
 categories: ["海外職場"]
 tags: ["AWS"]
+
 ---
 
 * * *
 
 ### 從 AWS (Amazon Web Services) 到微軟 Azure：為什麼我決定跳槽到另一朵雲？
 
-![微軟辦公室工作環境](images/medium-1*xdCYgIn0hY9jJPCYPy8Hmg.jpg)
 
 ### At Amazon, it’s always Day 1!
 

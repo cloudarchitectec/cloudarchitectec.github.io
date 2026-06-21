@@ -2,19 +2,22 @@
 title: "文組轉職澳洲科技大廠工程師—我的科技業職涯的反思"
 date: 2024-04-12
 slug: "2024-04-12-reflection-on-my-tech-career"
+cover:
+  image: "images/0*VPTnrBLCs211J6nV.jpg"
+  alt: "Photo by Christopher Sardegna on Unsplash"
+  credit:
+    photographer: "Christopher Sardegna"
+    photographer_url: "https://unsplash.com/@css"
+    photo_url: "https://unsplash.com"
 categories: ["海外職場"]
 tags: ["職涯","科技業","轉職工程師","AWS","微軟"]
-image: "images/0*VPTnrBLCs211J6nV.jpg"
 images:
   - "images/0*VPTnrBLCs211J6nV.jpg"
   - "images/0*2Yvaws4V393iGDiT.jpg" 
   - "images/0*sB1VtMiyTXKqNZ3E.jpg"
   - "images/0*s0H-Uir4l9_Oukde.jpg"
+
 ---
-
-![Photo by Christopher Sardegna on Unsplash](images/0*VPTnrBLCs211J6nV.jpg)*Photo by [Christopher Sardegna](https://unsplash.com/@css?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)*
-
-*分享我從文組轉職科技業工程師後，在科技大廠 Amazon、微軟，以及大型石油公司 Shell 三個不同技術職位的任職經驗中獲得的技能與經驗分享。進一步分析我認為要轉職成功需要具備哪些要素。*
 
 ## 前言
 

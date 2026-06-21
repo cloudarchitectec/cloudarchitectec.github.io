@@ -2,10 +2,17 @@
 title: "好想要退休！錢財乃身外之物，生不帶來，死不帶去，但你知道在澳洲要怎麼立遺屬嗎？"
 date: 2024-12-16
 slug: "2024-12-16-will"
-image: "images/medium-0*E__KYju_lVrQDjj6.jpg"
+cover:
+  image: "images/medium-0*E__KYju_lVrQDjj6.jpg"
+  alt: "澳洲法律遺囑文件指南"
+  credit:
+    photographer: "Giacomo Folli"
+    photographer_url: "https://unsplash.com/@giacomofolli"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*E__KYju_lVrQDjj6.jpg', 'images/medium-1*sAkqF--a_kKj6Od1HW-Lyg.png', 'images/medium-1*V7gvWqb2-VbwTCRswWCzbQ.png', 'images/medium-1*FOBkY0d_lhvkB8xMehVwRA.png']
 categories: ["投資理財"]
 tags: ["好想要退休","FIRE","退休規劃"]
+
 ---
 
 ### 正文開始之前的閒聊
@@ -31,7 +38,6 @@ EC 最近真心是忙到翻天，前一陣子還在粉絲頁分享了一下我�
 
 ### 正文開始
 
-![澳洲法律遺囑文件指南](images/medium-0*E__KYju_lVrQDjj6.jpg)Photo by [Giacomo Folli](https://unsplash.com/@giacomofolli?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 身為一個總是超前部署的人，EC 最近不止計算了退休年限，還研究了一下要怎麼寫遺囑XDDD 在大家在想我是不是想太多之前，先讓我細細道來：
 

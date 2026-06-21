@@ -2,15 +2,21 @@
 title: "微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更會考證照考試？順利更新 Azure Solutions Architect Expert 證照！"
 date: 2023-11-04
 slug: "2023-11-04-azure-vs-aws-certs-ft-chatgpt"
-image: "images/medium-0*IHdurgjhEtnGcDd7.jpg"
+cover:
+  image: "images/medium-0*IHdurgjhEtnGcDd7.jpg"
+  alt: "Azure與AWS雲端證照更新比較"
+  credit:
+    photographer: "Tim Mossholder"
+    photographer_url: "https://unsplash.com/@timmossholder"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*IHdurgjhEtnGcDd7.jpg', 'images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png', 'images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png', 'images/medium-1*gi-BinpRY4mO2kvLs90O_g.png', 'images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png', 'images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png', 'images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png', 'images/medium-1*C4EmZWOgy7LR-yxBI346eA.png', 'images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png', 'images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png', 'images/medium-1*gnswMcSZJJI9ja13c66TtQ.png']
 categories: ["海外職場"]
 tags: ["AWS"]
+
 ---
 
 ### 微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更會考證照考試？順利更新 Azure Solutions Architect Expert 證照！
 
-![Azure與AWS雲端證照更新比較](images/medium-0*IHdurgjhEtnGcDd7.jpg)Photo by [Tim Mossholder](https://unsplash.com/@timmossholder?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

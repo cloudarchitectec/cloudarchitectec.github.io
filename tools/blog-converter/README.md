@@ -6,7 +6,7 @@ A EC CLI tool to automate blog post creation with Unsplash images.
 
 1. **Install dependencies:**
    ```bash
-   cd python/script
+   cd tools/blog-converter
    pip3 install -r requirements.txt
    ```
 
@@ -17,13 +17,13 @@ A EC CLI tool to automate blog post creation with Unsplash images.
 
 ## How to Use
 
-1. **Put your blog content in:** `python/input/source.md` 
+1. **Put your blog content in:** `tools/blog-converter/input/source.md` 
    - Just plain text with markdown
    - Make sure there's a heading (# or ## or ###) for the title
 
 2. **Run the script:**
    ```bash
-   python3 python/script/automated_blog_converter.py {file_name}.md
+   python3 tools/blog-converter/automated_blog_converter.py {file_name}.md
    ```
 
 3. **Answer the prompts:**
@@ -41,7 +41,7 @@ A EC CLI tool to automate blog post creation with Unsplash images.
      - Example: `https://unsplash.com/photos/laptop-coffee-7bUF0Wf27dY`
      - Or press Enter to skip adding an image
 
-4. **Check output:** `python/output/2025-10-12-your-slug/`
+4. **Check output:** `tools/blog-converter/output/2025-10-12-your-slug/`
    - `index.md` - Your complete blog post (ready to publish)
    - `images/PHOTO_ID.jpg` - Downloaded image
 
@@ -52,7 +52,7 @@ A EC CLI tool to automate blog post creation with Unsplash images.
 
 ```bash
 # Auto-copy to Hugo content folder (saves manual copying)
-cd python/script
+cd tools/blog-converter
 
 # Both together
 python3 automated_blog_converter.py 2025-nz-trip-snowboarding.md -c 
@@ -79,13 +79,12 @@ def create_meaningful_filename(search_keywords):
 ## Folder Structure
 
 ```
-python/
+tools/blog-converter/
 ├── README.md        # This file
+├── automated_blog_converter.py    # Main CLI script
+├── requirements.txt     # Dependencies
 ├── input/           # Put your .md files here
 │   └── source.md    # Default input file
-├── script/          
-│   ├── automated_blog_converter.py    # Main CLI script
-│   └── requirements.txt     # Dependencies
 └── output/          # Generated posts appear here
     └── 2025-10-12-slug/
         ├── index.md

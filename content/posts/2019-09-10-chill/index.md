@@ -2,10 +2,17 @@
 title: "零基礎轉職澳洲工程師: 2019.09.09-10 終於迎來了短暫放鬆"
 date: 2019-09-10
 slug: "2019-09-10-chill"
-image: ""
-images: ['']
+cover:
+  image: "images/HS5CLnQbCOc-unsplash.jpg"
+  alt: "坐在長椅上眺望山景的女子"
+  credit:
+    photographer: "Sage Friedman"
+    photographer_url: "https://unsplash.com/@sagefriedman"
+    photo_url: "https://unsplash.com/photos/woman-sitting-on-bench-over-viewing-mountain-HS5CLnQbCOc"
+images: ["images/HS5CLnQbCOc-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+
 ---
 ### 2019-09-09
 繼上週結束了 Ruby，今天我們開始教HTML，全班感覺都很 chill XD (感覺之前學過 HTML & CSS的人不少，可能有超過一半以上，但我旁邊的馬克小哥倒是沒學過XD)

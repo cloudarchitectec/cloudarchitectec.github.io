@@ -2,13 +2,18 @@
 title: 澳洲面試心得：跨國能源公司 DevOps 工程師 II：行為面試
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-2"
-image: "images/medium-0*-cJX5ON0RTaomZNr.jpg"
+cover:
+  image: "images/medium-0*-cJX5ON0RTaomZNr.jpg"
+  alt: "Post cover image"
+  credit:
+    photographer: "Amy Hirschi"
+    photographer_url: "https://unsplash.com/@amyhirschi"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*-cJX5ON0RTaomZNr.jpg']
 categories: ["海外職場"]
 tags: ["DevOps 工程師","澳洲面試心得"]
----
 
-![](images/medium-0*-cJX5ON0RTaomZNr.jpg)Photo by [Amy Hirschi](https://unsplash.com/@amyhirschi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 Round 2: Culture Interview with the GM of Engineering & Architecture and the Head of Portfolio
 

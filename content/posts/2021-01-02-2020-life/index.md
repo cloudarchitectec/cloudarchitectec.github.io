@@ -2,13 +2,18 @@
 title: "2020 年澳洲生活回顧"
 date: 2021-01-02
 slug: "2021-01-02-2020-life"
-image: "images/medium-0*TVKl6P-hMe-3aHY7.jpg"
+cover:
+  image: "images/medium-0*TVKl6P-hMe-3aHY7.jpg"
+  alt: "2020"
+  credit:
+    photographer: "Jamie Street"
+    photographer_url: "https://unsplash.com/@jamie452"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*TVKl6P-hMe-3aHY7.jpg']
 categories: ["澳洲生活"]
 tags: ["年度回顧"]
----
 
-![2020](images/medium-0*TVKl6P-hMe-3aHY7.jpg)Photo by [Jamie Street](https://unsplash.com/@jamie452?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 看到很多人寫了關於 2020 的回顧，其實我本來是不想寫的(因為我其實也想不出自己去年到底都做了什麼)，
 

@@ -2,17 +2,23 @@
 title: "不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考"
 date: 2023-01-06
 slug: "2023-01-06-keys-to-transistion"
-image: "images/medium-0*6cafic7Bz6rcovjW.jpg"
+cover:
+  image: "images/medium-0*6cafic7Bz6rcovjW.jpg"
+  alt: "Pom wearing glasses and staring at laptop"
+  credit:
+    photographer: "Cookie the Pom"
+    photographer_url: "https://unsplash.com/@cookiethepom"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*6cafic7Bz6rcovjW.jpg']
 categories: ["海外職場"]
 tags: ["轉職工程師"]
+
 ---
 
 * * *
 
 ### 不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考
 
-![Pom wearing glasses and staring at laptop](images/medium-0*6cafic7Bz6rcovjW.jpg)Photo by [Cookie the Pom](https://unsplash.com/@cookiethepom?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 近幾年來，轉職 IT 工程師蔚為一股風潮，你也曾經考慮過這條路嗎? 你為什麼對於網頁工程或軟體工程感興趣呢? 是因為相關新聞報導嗎？還是因為身邊有人成功轉職而決定加入這條路呢？
 

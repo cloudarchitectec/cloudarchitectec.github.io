@@ -2,17 +2,19 @@
 title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程"
 date: 2024-09-01
 slug: "2024-09-01-nz-day5"
-image: "images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpg"
+cover:
+  image: "images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpg"
+  alt: "Taupo 湖畔早餐美景"
 images: ['images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpg', 'images/medium-1*TzNByHydsdUIifAgZOzl9A.jpg', 'images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg', 'images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg', 'images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpg', 'images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpg', 'images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg', 'images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg', 'images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg', 'images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpg', 'images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpg', 'images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg', 'images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpg', 'images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpg', 'images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpg', 'images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpg', 'images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpg', 'images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpg', 'images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpg', 'images/medium-1*VaESvSGforp84FHtAq6GRQ.jpg', 'images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpg', 'images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","自駕","滑雪","紐西蘭"]
+
 ---
 
 * * *
 
 ### 兩個女生的紐西蘭自駕滑雪行: 2024.09.05–09.06 滑完雪就是要泡湯！療癒的 Rotorua 行程
 
-![Taupo 湖畔早餐美景](images/medium-1*u9oE8dQScymqWlP6fNj2Dw.jpg)
 
 離開 Taupo 之前，我們特地來這個紐西蘭北島第一大湖的湖畔吃早餐，一補昨天抵達時下雨的遺憾。天晴時還可以遠眺雪山喔🏔️～非常美
 

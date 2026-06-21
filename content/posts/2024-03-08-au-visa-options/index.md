@@ -2,13 +2,18 @@
 title: "澳洲簽證種類分析：台灣人想要登入澳洲有哪些選項？"
 date: 2024-03-08
 slug: "2024-03-08-au-visa-options"
-image: "images/medium-0*w2i9_BUm90zNlp3e.jpg"
+cover:
+  image: "images/medium-0*w2i9_BUm90zNlp3e.jpg"
+  alt: "澳洲簽證移民選項分析指南"
+  credit:
+    photographer: "mana5280"
+    photographer_url: "https://unsplash.com/@mana5280"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*w2i9_BUm90zNlp3e.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲移民","澳洲簽證"]
----
 
-![澳洲簽證移民選項分析指南](images/medium-0*w2i9_BUm90zNlp3e.jpg)Photo by [mana5280](https://unsplash.com/@mana5280?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 由於最近 EC 收到不少關於移民澳洲跟澳洲簽證相關的諮詢，於是決定寫一篇文章來快速跟大家分享一些關於澳洲簽證的基本資訊，跟我對各類簽證的看法。
 

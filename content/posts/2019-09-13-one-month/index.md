@@ -2,10 +2,17 @@
 title: "零基礎轉職澳洲工程師: 2019.09.13 居然已經一個月了！"
 date: 2019-09-13
 slug: "2019-09-13-one-month"
-image: ""
-images: ['']
+cover:
+  image: "images/uIf6H1or1nE-unsplash.jpg"
+  alt: "滿月攝影"
+  credit:
+    photographer: "Mike Petrucci"
+    photographer_url: "https://unsplash.com/@mikepetrucci"
+    photo_url: "https://unsplash.com/photos/full-moon-photography-uIf6H1or1nE"
+images: ["images/uIf6H1or1nE-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+
 ---
 
 ### 2019-09-12

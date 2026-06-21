@@ -1,0 +1,4 @@
+{{- $cols := .Get "cols" | default (len (.Inner | findRE `<figure`)) -}}
+<div class="post-gallery post-gallery--{{ $cols }}">
+{{ .Inner }}
+</div>

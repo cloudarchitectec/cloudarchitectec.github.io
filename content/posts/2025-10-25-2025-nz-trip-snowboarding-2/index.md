@@ -2,14 +2,14 @@
 title: "紐西蘭北島滑雪之旅(下集)：2025.08.10-08.15 滑雪心得之單板新手我上纜車了！"
 date: 2025-10-25
 slug: "2025-10-25-2025-nz-trip-snowboarding-2"
-image: "images/rainbow-over-snow.jpeg"
+cover:
+  image: "images/rainbow-over-snow.jpeg"
+  alt: "彩虹雪景"
 images: ["images/rainbow-over-snow.jpeg","images/snowy-mountains.jpeg","images/snowboard.jpeg"]
 categories: ["旅行紀錄"]
 tags: ["旅遊", "自駕", "滑雪", "紐西蘭"]
+
 ---
-
-
-
 
 上一篇聊完了滑雪之外的心得，這篇終於要來聊聊旅程的真正主角——單板滑雪 (Snowboard) 啦！有了 2024 年的經驗值，今年的滑雪行程又更上一層樓。
 
@@ -17,7 +17,6 @@ tags: ["旅遊", "自駕", "滑雪", "紐西蘭"]
 
 ## 幸運值點滿：完美的天氣與教練
 
-![彩虹雪景](images/rainbow-over-snow.jpeg)
 
 今年的人品大爆發！我們抵達前的週末剛好降下大雪，所以我們在雪場的三天，雪況都超棒。
 

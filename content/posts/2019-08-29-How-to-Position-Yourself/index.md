@@ -2,10 +2,17 @@
 title: "零基礎轉職澳洲工程師: 2019.08.29 找到適合自己的位置"
 date: 2019-08-29
 slug: "2019-08-29-how-to-position-yourself"
-image: ""
-images: ['']
+cover:
+  image: "images/JQ0YVavMKLo-unsplash.jpg"
+  alt: "穿運動服戴 VR 頭盔的男子站在網球場上"
+  credit:
+    photographer: "Martin Sanchez"
+    photographer_url: "https://unsplash.com/@zekedrone"
+    photo_url: "https://unsplash.com/photos/man-in-track-suit-wearing-vr-headset-standing-on-tennis-court-JQ0YVavMKLo"
+images: ["images/JQ0YVavMKLo-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+
 ---
 
 ### 2019-08-29

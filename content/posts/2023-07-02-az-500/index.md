@@ -2,17 +2,23 @@
 title: "微軟 Azure 雲端證照: AZ-500 Azure Security Engineer Associate 資訊安全工程師八小時速成攻略"
 date: 2023-07-02
 slug: "2023-07-02-az-500"
-image: "images/medium-0*L92NknyMUKwSh39M.jpg"
+cover:
+  image: "images/medium-0*L92NknyMUKwSh39M.jpg"
+  alt: "Azure資訊安全證照考試準備"
+  credit:
+    photographer: "Nick Morrison"
+    photographer_url: "https://unsplash.com/@nickmorrison"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*L92NknyMUKwSh39M.jpg']
 categories: ["海外職場"]
 tags: ["雲端證照"]
+
 ---
 
 * * *
 
 ### 微軟 Azure 雲端證照: 八小時速成攻略通過微軟 AZ-500 Azure Security Engineer Associate 資訊安全工程師認證
 
-![Azure資訊安全證照考試準備](images/medium-0*L92NknyMUKwSh39M.jpg)Photo by [Nick Morrison](https://unsplash.com/@nickmorrison?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 > 💡 適合：非資安專業背景、全職準備考試、希望用最少時間搞懂 AZ-500 考試重點的人！（以下為我 2023 年準備考試的經驗，僅供參考！）
 

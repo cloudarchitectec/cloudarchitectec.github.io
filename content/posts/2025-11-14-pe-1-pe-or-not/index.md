@@ -2,15 +2,18 @@
 title: "[我要升官加薪] 第一集：天上掉下來的... Principal Engineer 職位?"
 date: 2025-11-14
 slug: "2025-11-14-pe-1-pe-or-not"
-image: "images/christoph-theisinger-B4mV8nB8pGA-unsplash.jpg"
+cover:
+  image: "images/christoph-theisinger-B4mV8nB8pGA-unsplash.jpg"
+  alt: "road"
+  credit:
+    photographer: "Christoph Theisinger"
+    photographer_url: "https://unsplash.com/@christoph-theisinger"
+    photo_url: "https://unsplash.com/photos/brown-sand-near-brown-mountain-during-daytime-B4mV8nB8pGA"
 images: []
 categories: ["海外職場"]
 tags: [ "科技業", "Diversity", "DevOps 工程師", "職涯"]
+
 ---
-
-![road](images/christoph-theisinger-B4mV8nB8pGA-unsplash.jpg)Photo by [Christoph Theisinger](https://unsplash.com/photos/brown-sand-near-brown-mountain-during-daytime-B4mV8nB8pGA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-
 
 **2025.10.09 | 布里斯本**
 

@@ -2,19 +2,21 @@
 title: "一個女生的歐洲獨旅: 2024.04.30 德國 紐倫堡 (Nuremberg) Day 1 — 第一個讓我想移居的德國城市"
 date: 2024-06-14
 slug: "2024-06-14-nuremberg-day-1"
-image: "images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpg"
+cover:
+  image: "images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpg"
+  alt: "紐倫堡地鐵站現代化設計"
+  caption: "紐倫堡地鐵站"
 images: ['images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpg', 'images/medium-1*cEf2YgS2isLvWN_SxTaeiA.jpg', 'images/medium-1*z76YqWPPyIezu93i43T3VQ.jpg', 'images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpg', 'images/medium-1*T1_b9XnnBlV1YMe3VU3wXw.jpg', 'images/medium-1*h4mvEITaKjkC0ryYdUvo8Q.jpg', 'images/medium-1*xzQs9md4GWKRHqltU3S5ww.jpg', 'images/medium-1*WRbOi_9nExtfYxyBRNBVKw.jpg', 'images/medium-1*ig6JggBYl-YWUZapayNv6w.jpg', 'images/medium-1*aMb7J9Cke4-wH2o9NCaY6g.jpg', 'images/medium-1*fT-2EQohU3kBIoQ_43jH7Q.jpg', 'images/medium-1*TTdrSj24MhyITTLeu0ruww.jpg', 'images/medium-1*zxmTKdj-LCTFIwdVjjtP-A.jpg', 'images/medium-1*QwnD2FI9fKNRJEBzzmUq8w.jpg', 'images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpg', 'images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpg', 'images/medium-1*w3v2ZrjBh5MV70OGUFrjMg.jpg', 'images/medium-1*YdcpokwKtAYaZY4f-rYp-A.jpg', 'images/medium-1*p5ZoJIDZ-NOLHXShPUmcng.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "德國"]
+
 ---
 
 * * *
 
 ### **一個女生的歐洲獨旅:** 2024.04.30 德國 紐倫堡 (Nuremberg) Day 1 — 第一個讓我想移居的德國城市
 
-![紐倫堡地鐵站現代化設計](images/medium-1*zpoNAu8kyO4alGJokQcSAQ.jpg)
 
-*紐倫堡地鐵站*
 
 住在法蘭克福的這兩個晚上我真的是很喜歡透過大窗戶觀察外面的行人XD
 

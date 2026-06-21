@@ -2,10 +2,17 @@
 title: "零基礎轉職澳洲工程師: 2019.08.30 下課後跟同學們一起喝一杯～"
 date: 2019-08-30
 slug: "2019-08-30-after-class-drinks"
-image: ""
-images: ['']
+cover:
+  image: "images/xBFTjrMIC0c-unsplash.jpg"
+  alt: "三杯裝著果汁的透明玻璃杯"
+  credit:
+    photographer: "Kobby Mendez"
+    photographer_url: "https://unsplash.com/@kobbymendez"
+    photo_url: "https://unsplash.com/photos/three-clear-glass-cups-with-juice-xBFTjrMIC0c"
+images: ["images/xBFTjrMIC0c-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+
 ---
 
 ### 2019-08-30

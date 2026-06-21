@@ -2,16 +2,23 @@
 title: "澳洲面試心得：微軟 Industry Solution Engineering — Software Engineer"
 date: 2023-10-13
 slug: "2023-10-13-ms-ise-interview"
-image: "images/medium-0*tVR4-5Kf3RLO75-J.jpg"
+cover:
+  image: "images/medium-0*tVR4-5Kf3RLO75-J.jpg"
+  alt: "澳洲面試心得：微軟 Industry Solution Engineering — Software Engineer"
+  credit:
+    photographer: "Jon Tyson"
+    photographer_url: "https://unsplash.com/@jontyson"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*tVR4-5Kf3RLO75-J.jpg']
 categories: ["海外職場"]
 tags: ["英文面試", "微軟"]
+
 ---
+
 ---
 
 ### 澳洲微軟 Industry Solution Engineering — Software Engineer 面試經驗分享
 
-![](images/medium-0*tVR4-5Kf3RLO75-J.jpg)Photo by [Jon Tyson](https://unsplash.com/@jontyson?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 如果有在追蹤我的朋友，看到這篇文章一定會覺得很奇怪「EC 你不是今年八月才從微軟離職嗎? 怎麼又會去微軟面試 software engineer 這個職位?」
 

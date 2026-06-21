@@ -2,16 +2,23 @@
 title: "如何評估現職是否適合你 — 工作小任務(work tasks) 評分表"
 date: 2023-04-01
 slug: "2023-04-01-work-tasks"
-image: "images/medium-0*x2HBd4-Q6KDvwc5h.jpg"
+cover:
+  image: "images/medium-0*x2HBd4-Q6KDvwc5h.jpg"
+  alt: "辦公桌工作示意圖"
+  credit:
+    photographer: "Will Francis"
+    photographer_url: "https://unsplash.com/@willfrancis"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*x2HBd4-Q6KDvwc5h.jpg', 'images/medium-1*hxEXd4_ibLJK39jtzl8gAg.png', 'images/medium-1*40SNwlids93GYrZPDVBbCg.png', 'images/medium-1*SmTbs4TV1x42FO3tN-H30w.png', 'images/medium-1*GEAC4RlKq2Zq0wozM3rB2Q.png']
 categories: ["海外職場"]
 tags: ["職涯"]
+
 ---
+
 ---
 
 ### 如何評估現職是否適合你 — 工作任務 (work tasks) 評分表
 
-![辦公桌工作示意圖](images/medium-0*x2HBd4-Q6KDvwc5h.jpg)Photo by [Will Francis](https://unsplash.com/@willfrancis?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 前言
 

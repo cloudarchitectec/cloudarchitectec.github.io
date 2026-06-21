@@ -2,13 +2,18 @@
 title: "好想要退休！我與退休之間的距離：澳洲工程師是否比台灣更容易達成財務自由 (FIRE)？"
 date: 2024-09-27
 slug: "2024-09-27-how-long-tofire"
-image: "images/medium-0*6FlTC363YDM-gs_Z.jpg"
+cover:
+  image: "images/medium-0*6FlTC363YDM-gs_Z.jpg"
+  alt: "FIRE財務自由退休規劃"
+  credit:
+    photographer: "Towfiqu barbhuiya"
+    photographer_url: "https://unsplash.com/@towfiqu999999"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*6FlTC363YDM-gs_Z.jpg', 'images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png', 'images/medium-1*tILRbx_NtxQzJL_kx31oQg.png', 'images/medium-1*0zV01KykJx7kRSEZfgZgsA.png']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
----
 
-![FIRE財務自由退休規劃](images/medium-0*6FlTC363YDM-gs_Z.jpg)Photo by [Towfiqu barbhuiya](https://unsplash.com/@towfiqu999999?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 過去幾年 EC 總是三不五時嚷嚷著要退休，有一陣子也很熱衷於吸收有關 FIRE ([Financial Independence, Retire Early](https://zh.wikipedia.org/zh-tw/FIRE%E8%BF%90%E5%8A%A8)) 運動的資訊，也投資了一些指數基金（ETFs）。
 

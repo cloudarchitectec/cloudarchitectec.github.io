@@ -2,11 +2,11 @@
 title: "零基礎轉職澳洲工程師: 2019.11.10 Marketplace Project (‘I don’t feel sorry for them’)"
 date: 2019-11-10
 slug: "2019-11-10-marketplace-project-i-dont-feel-sorry-for-them"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
+
 ---
 
 ### 2019-11-05

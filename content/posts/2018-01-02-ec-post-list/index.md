@@ -2,12 +2,17 @@
 title: "澳洲雲端架構師 EC 文章列表"
 date: 2018-01-02
 slug: "2018-01-02-ec-post-list"
-image: "images/medium-0*JM2v8QZs4ggC3_NW.jpg"
+cover:
+  image: "images/medium-0*JM2v8QZs4ggC3_NW.jpg"
+  alt: "澳洲雲端架構師 EC 文章列表"
+  credit:
+    photographer: "Patrick Tomasso"
+    photographer_url: "https://unsplash.com/@impatrickt"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*JM2v8QZs4ggC3_NW.jpg']
 categories: ["EC"]
----
 
-![](images/medium-0*JM2v8QZs4ggC3_NW.jpg)Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt) on [Unsplash](https://unsplash.com)
+---
 
 嗨～我是 EC，一位從台灣文組背景轉職成為澳洲雲端架構師的工程師。
 

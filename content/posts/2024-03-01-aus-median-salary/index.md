@@ -2,13 +2,18 @@
 title: "澳洲職場統計數據：2023 年澳洲薪資中位數、產業與地區薪資分享"
 date: 2024-03-01
 slug: "2024-03-01-aus-median-salary"
-image: "images/medium-0*0uAgsok1JRZvwi0k.jpg"
+cover:
+  image: "images/medium-0*0uAgsok1JRZvwi0k.jpg"
+  alt: "澳洲職場統計數據：2023 年澳洲薪資中位數、產業與地區薪資分享"
+  credit:
+    photographer: "Stephen Dawson"
+    photographer_url: "https://unsplash.com/@dawson2406"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*0uAgsok1JRZvwi0k.jpg', 'images/medium-1*PB46lQ5iZqbVusENJ-xxWw.png', 'images/medium-1*Ma8_iNPDVReXHTL-HWH5Zw.png', 'images/medium-1*AW9UO19oIVjHoMa2kh7sGw.png', 'images/medium-1*KOLsZLA1T-U54wIG01J1VQ.png', 'images/medium-1*OKIJEys1q2mD8KTPT3Yb3w.png']
 categories: ["海外職場"]
 tags: ["薪資","澳洲職場統計數據"]
----
 
-![](images/medium-0*0uAgsok1JRZvwi0k.jpg)Photo by [Stephen Dawson](https://unsplash.com/@dawson2406?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 近期發現我跟友人對於澳洲工程師的薪資看法居然略有出入，於是我想與其使用個人經驗來判斷一個職位的薪資是否合理，不如我們就來參考一下澳洲統計局的數據吧！
 

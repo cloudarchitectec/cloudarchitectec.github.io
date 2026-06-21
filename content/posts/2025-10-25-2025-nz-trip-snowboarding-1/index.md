@@ -2,10 +2,13 @@
 title: "紐西蘭北島滑雪之旅(上集)：2025.08.10-08.15 滑雪之外的 400 公里自駕與溫泉天堂"
 date: 2025-10-25
 slug: "2025-10-25-2025-nz-trip-snowboarding-1"
-image: "images/blue-spring.jpeg"
+cover:
+  image: "images/blue-spring.jpeg"
+  alt: "紐西蘭北島滑雪之旅(上集)：2025.08.10-08.15 滑雪之外的 400 公里自駕與溫泉天堂"
 images: ["images/blue-spring.jpeg","images/flight-macca.jpeg","images/cows.jpeg"]
 categories: ["旅行紀錄"]
 tags: ["旅遊", "自駕", "滑雪", "紐西蘭"]
+
 ---
 
 請問是誰，連續兩年都去紐西蘭北島自駕滑雪？就是 EC 我XDDD
@@ -94,7 +97,6 @@ Whitney 是一位非常講究飲食健康的旅伴，這點真是太棒了！
 
 最後一天，我們從 Rotorua 出發，先去 Blue Springs 走了一小段健行（風景超美，水清澈到不可思議）。
 
-![Blue Springs](images/blue-spring.jpeg)
 
 接著在 Hamilton 吃了一頓好吃、服務又好的生魚片午餐，然後就直奔奧克蘭機場還車，結束了這趟為期六天的紐西蘭自駕滑雪之旅。
 

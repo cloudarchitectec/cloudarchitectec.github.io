@@ -2,13 +2,18 @@
 title: "澳洲布里斯本：人生第一次露營就上手？Ivorys Rock 露營初體驗"
 date: 2023-10-20
 slug: "2023-10-20-ivorys-rock"
-image: "images/medium-0*PCoJ-Bt57jcje8VH.jpg"
+cover:
+  image: "images/medium-0*PCoJ-Bt57jcje8VH.jpg"
+  alt: "澳洲布里斯本：人生第一次露營就上手？Ivorys Rock 露營初體驗"
+  credit:
+    photographer: "Tegan Mierle"
+    photographer_url: "https://unsplash.com/@tegan"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*PCoJ-Bt57jcje8VH.jpg', 'images/medium-1*QHL554_H2WPCApfkYPymuA.jpg', 'images/medium-1*EdUTjlQcoOL7Bl5YLSQlgg.jpg', 'images/medium-1*f8gEPY6prbKaF3sZjuiFPg.jpg', 'images/medium-1*TEbFVZ6ST0uyTaPcC9S4Bw.jpg', 'images/medium-1*OzBtDbWfGdtFiPwEs6hBUg.jpg', 'images/medium-1*0iw3EDTqN4ruET_pNCZZ9g.jpg', 'images/medium-1*bqJrXdhSHXUUQLlgAdNgRQ.jpg', 'images/medium-1*XjA_rNx_FUwwK3d3fUCDYA.jpg', 'images/medium-1*1jgNUOk-pPseAm6Vk3yaTQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["澳洲旅遊","布里斯本"]
----
 
-![](images/medium-0*PCoJ-Bt57jcje8VH.jpg)Photo by [Tegan Mierle](https://unsplash.com/@tegan?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 應前微軟同事 JJ 之邀 (不是唱歌的那位，雖然他自己也是帶著個人麥克風在營地狂唱！而且身為一個中國人還會唱「愛拼才會贏」，我真心是在現場狂笑不已XDDDD)，我跟室友 C 首次嘗試了澳洲露營😆
 

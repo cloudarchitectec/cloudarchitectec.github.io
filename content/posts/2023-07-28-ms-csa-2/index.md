@@ -2,14 +2,18 @@
 title: "微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Architecting"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-2"
-image: "images/medium-0*XTejTjV9ZtCU27LU.jpg"
+cover:
+  image: "images/medium-0*XTejTjV9ZtCU27LU.jpg"
+  alt: "微軟雲端架構技術方案"
+  credit:
+    photographer: "Daniel McCullough"
+    photographer_url: "https://unsplash.com/@d_mccullough"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*XTejTjV9ZtCU27LU.jpg', 'images/medium-1*04yK12_QyvHHIdvlN2rmMw.png', 'images/medium-1*a9im277bnzrf4AP90h5p_Q.png', 'images/medium-0*S01TqTt4irw1xdCl.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
+
 ---
-
-![微軟雲端架構技術方案](images/medium-0*XTejTjV9ZtCU27LU.jpg)Photo by [Daniel McCullough](https://unsplash.com/@d_mccullough?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
-
 
 ### 前言
 

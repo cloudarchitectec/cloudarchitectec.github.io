@@ -2,11 +2,11 @@
 title: "零基礎轉職澳洲工程師: 2020.01.21 Final Project – Starting Coding (Part B)"
 date: 2020-01-21
 slug: "2020-01-21-92-final-project-starting-coding-part-b"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
+
 ---
 
 2020-01-20

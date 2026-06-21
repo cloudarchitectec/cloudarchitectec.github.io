@@ -2,17 +2,23 @@
 title: "MBTI人格理論(16型職業性格評估) －INTJ-A 分享"
 date: 2023-02-17
 slug: "2023-02-17-mbti-intj"
-image: "images/medium-0*wIdRbaxvg2N21DG4.jpg"
+cover:
+  image: "images/medium-0*wIdRbaxvg2N21DG4.jpg"
+  alt: "Two people having discussion"
+  credit:
+    photographer: "Scott Graham"
+    photographer_url: "https://unsplash.com/@homajob"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*wIdRbaxvg2N21DG4.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]
+
 ---
 
 * * *
 
 ### MBTI人格理論(16型職業性格評估) －INTJ-A 分享
 
-![Two people having discussion](images/medium-0*wIdRbaxvg2N21DG4.jpg)Photo by [Scott Graham](https://unsplash.com/@homajob?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 不知道大家聽過或做過「MBTI人格理論 (16型職業性格評估)」嗎? 感覺在兩三年前非常紅，我之前做了這個免費的線上測試:
 

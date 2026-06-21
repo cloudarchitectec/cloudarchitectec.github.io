@@ -2,14 +2,18 @@
 title: "2021 上半年坎培拉 AWS生活四個月分享"
 date: 2021-07-24
 slug: "2021-07-24-aws-cbr-life"
-image: "images/medium-0*pNETejXBiiEqjz9b.jpg"
+cover:
+  image: "images/medium-0*pNETejXBiiEqjz9b.jpg"
+  alt: "坎培拉國會大廈"
+  credit:
+    photographer: "Social Estate"
+    photographer_url: "https://unsplash.com/@socialestate"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*pNETejXBiiEqjz9b.jpg']
 categories: ["澳洲生活"]
 tags: ["年度回顧","坎培拉", "AWS"]
+
 ---
-
-
-![坎培拉國會大廈](images/medium-0*pNETejXBiiEqjz9b.jpg)Photo by [Social Estate](https://unsplash.com/@socialestate?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 前情提要: 2021年3月我結束為期六個月的 AWS Tech U Graduate Program，從雪梨搬到坎培拉，正式加入Federal Team。後來我一直在坎培拉住 2022.12月才搬去布里斯本
 

@@ -2,10 +2,17 @@
 title: "好想要退休！讓我們來談談澳洲人最愛的澳洲指數基金 ETFs 組合"
 date: 2024-10-19
 slug: "2024-10-19-etf"
-image: "images/medium-0*3cOpRFYR1oXIZ7jk.jpg"
+cover:
+  image: "images/medium-0*3cOpRFYR1oXIZ7jk.jpg"
+  alt: "投資理財概念圖"
+  credit:
+    photographer: "Tyler Prahm"
+    photographer_url: "https://unsplash.com/@tprahm"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*3cOpRFYR1oXIZ7jk.jpg', 'images/medium-1*lZtU1hwdWibQV_2JVCJHBw.png', 'images/medium-1*zvODeYJrAd2cZ2PmNxAU_Q.png', 'images/medium-1*Lt0IKGyc3hUpMyZ59-hJeA.png']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE","ETF", "退休規劃"]
+
 ---
 
 > 以下純屬我個人的研究分享，不代表任何理財建議。EC 是有個澳洲會計學位啦，但我只是個工程師，不是專業財經人士。以下分享，你們要是覺得有道理就聽一聽。要是覺得沒道理，歡迎留言跟我討論你的想法，我們互相學習，共同成長 :)
@@ -18,7 +25,6 @@ tags: ["好想要退休", "FIRE","ETF", "退休規劃"]
 
 台灣市場則大約是 0.8%。雖然台灣的經濟規模相對較小，但在全球供應鏈中特別是科技產業（如半導體）中扮演著極其重要的角色，例如台積電（TSMC）在全球技術和製造領域的影響力非常顯著。雖然台灣佔全球經濟總量的比例不大，但在高科技產業中有著極大的戰略性影響喔～
 
-![投資理財概念圖](images/medium-0*3cOpRFYR1oXIZ7jk.jpg)Photo by [Tyler Prahm](https://unsplash.com/@tprahm?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 ### 最常見的澳洲 ETF 投資組合
 

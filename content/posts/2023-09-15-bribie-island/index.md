@@ -2,15 +2,15 @@
 title: "澳洲布里斯本：開車可抵達的可愛小島 Bribie Island 一日遊"
 date: 2023-09-15
 slug: "2023-09-15-bribie-island"
-image: "images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png"
+cover:
+  image: "images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png"
+  alt: "Bribie Island 位於布里斯本北方"
+  caption: "Bribie Island on Google Maps"
 images: ['images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png', 'images/medium-1*47A-V60RsbpvtmX2uvHciA.jpg', 'images/medium-1*oqhFnWGMevH4jMuCDpN9Xw.jpg', 'images/medium-1*JmHm7EqKqO7-YyE9XoM7Bg.jpg', 'images/medium-1*eTRCuym_rwEMOoEFYJksrA.jpg', 'images/medium-1*PRfER5bu-3M8hd1XDEEhFA.jpg', 'images/medium-1*IHBDUL_0F-t_2T5fHN05xg.jpg', 'images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpg', 'images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["澳洲旅遊","布里斯本"]
+
 ---
-
-![Bribie Island 位於布里斯本北方](images/medium-1*-QohdQ1FSlpjRmPyScRFeg.png)
-
-*Bribie Island on Google Maps*
 
 ### 前言
 

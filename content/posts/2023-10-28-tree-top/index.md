@@ -2,13 +2,18 @@
 title: "澳洲布里斯本：陽光海岸高空樹頂挑戰 (Tree Top Challenge Big Pineapple) 初體驗，玩的就是心跳！"
 date: 2023-10-28
 slug: "2023-10-28-tree-top"
-image: "images/medium-0*tPI7MVQyyD5Q4TRi.jpg"
+cover:
+  image: "images/medium-0*tPI7MVQyyD5Q4TRi.jpg"
+  alt: "澳洲布里斯本：陽光海岸高空樹頂挑戰 (Tree Top Challenge Big Pineapple) 初體驗，玩的就是心跳！"
+  credit:
+    photographer: "Anastasiya Romanova"
+    photographer_url: "https://unsplash.com/@nanichkar"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*tPI7MVQyyD5Q4TRi.jpg', 'images/medium-1*pLxHtpgaA5SfaYkGJVFYFw.jpg', 'images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpg', 'images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpg', 'images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpg', 'images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpg', 'images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpg', 'images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpg', 'images/medium-1*BohbF2xE8GUpDjtqGvXCRQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["澳洲旅遊","布里斯本"]
----
 
-![](images/medium-0*tPI7MVQyyD5Q4TRi.jpg)Photo by [Anastasiya Romanova](https://unsplash.com/@nanichkar?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 ### 前言
 

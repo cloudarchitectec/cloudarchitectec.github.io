@@ -2,13 +2,18 @@
 title: "零基礎轉職澳洲工程師: 2019.08.22 澳洲人，真的好愛聊天"
 date: 2019-08-22
 slug: "2019-08-22-embracing-the-aussie-values"
-image: "images/medium-0*xMNRe1ZzQJfNdGlr.jpg"
+cover:
+  image: "images/medium-0*xMNRe1ZzQJfNdGlr.jpg"
+  alt: "澳洲職場文化價值觀"
+  credit:
+    photographer: "Toa Heftiba"
+    photographer_url: "https://unsplash.com/@heftiba"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*xMNRe1ZzQJfNdGlr.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
----
 
-![澳洲職場文化價值觀](images/medium-0*xMNRe1ZzQJfNdGlr.jpg)Photo by [Toa Heftiba](https://unsplash.com/@heftiba?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 今天是平凡無奇的上課日XD 所以連一張照片也沒有哈哈 (通篇都是瑣事LOL)
 

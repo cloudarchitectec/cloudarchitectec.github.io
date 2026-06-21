@@ -2,10 +2,14 @@
 title: "一個女生的歐洲獨旅: 2024.04.28 德國 法蘭克福 (Frankfurt) Day 1 — 最美跟最壞的風景都是人"
 date: 2024-06-06
 slug: "2024-06-06-frankfurt-day-1"
-image: "images/medium-1*18VTKHbsJVlx6ln8l3IecQ.jpg"
+cover:
+  image: "images/medium-1*18VTKHbsJVlx6ln8l3IecQ.jpg"
+  alt: "歐洲火車旅行隨身包"
+  caption: "我的隨身包是去年在台中買的俏皮 (CiaoPi) 恐龍包，我覺得很促咪XD 火車上人多到爆炸，沒訂位的我只好跟這個小哥一樣坐在車廂地板上"
 images: ['images/medium-1*18VTKHbsJVlx6ln8l3IecQ.jpg', 'images/medium-1*o8RmRCLMePhw-EvMo7rKOw.jpg', 'images/medium-1*z-fGC0otV3QJBW9fv6w0UA.jpg', 'images/medium-1*5HSWq9Dj31bIP6-dA4crMQ.jpg', 'images/medium-1*orOwmMu2x-o-pkYHdsVL6A.jpg', 'images/medium-1*gAUkdJVLu2V_Y3o5dX84lQ.jpg', 'images/medium-1*S9Btvnyj2JnPPigFZuEu-w.jpg', 'images/medium-1*-UL8R1yBEdZJvPKTVDJN9g.jpg', 'images/medium-1*VjQ5kVpYe0dLEYRiDP0Ajw.jpg', 'images/medium-1*MrvTbDRBHr-sdVnP1joIdQ.jpg', 'images/medium-1*3ZVoT9IeWZlnOIFOX0SP5g.jpg', 'images/medium-1*TP_azikIT6LICW1xpSxE8A.jpg', 'images/medium-1*zLVmZNEfw6w7uhhsGUdxpg.jpg', 'images/medium-0*nmiB7RPq0Sjb6X79.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "德國"]
+
 ---
 
 * * *
@@ -16,9 +20,8 @@ tags: ["獨旅","旅遊", "歐洲",  "德國"]
 
 久別重逢，我對荷蘭的印象其實還是很不錯的，城市感覺很安全，風景優美，唯一的缺點是天氣比墨爾本還瘋狂，真心是一下熱得要死、一下冷，然後一下出太陽、一下又下雨。
 
-![歐洲火車旅行隨身包](images/medium-1*18VTKHbsJVlx6ln8l3IecQ.jpg)![德國火車車廂人滿為患](images/medium-1*o8RmRCLMePhw-EvMo7rKOw.jpg)
+![德國火車車廂人滿為患](images/medium-1*o8RmRCLMePhw-EvMo7rKOw.jpg)
 
-*我的隨身包是去年在台中買的俏皮 (CiaoPi) 恐龍包，我覺得很促咪XD 火車上人多到爆炸，沒訂位的我只好跟這個小哥一樣坐在車廂地板上*
 ### 初見法蘭克福
 
 坐了4.5小時的火車，我終於從荷蘭海牙抵達德國法蘭克福。

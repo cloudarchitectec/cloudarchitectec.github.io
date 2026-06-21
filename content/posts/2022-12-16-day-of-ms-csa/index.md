@@ -2,15 +2,21 @@
 title: "澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天"
 date: 2022-12-16
 slug: "2022-12-16-day-of-ms-csa"
-image: "images/medium-0*FOS26PQyvkwSGy1W.jpg"
+cover:
+  image: "images/medium-0*FOS26PQyvkwSGy1W.jpg"
+  alt: "微軟雲端架構師日常工作"
+  credit:
+    photographer: "Raychel Sanner"
+    photographer_url: "https://unsplash.com/@raychelsnr"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*FOS26PQyvkwSGy1W.jpg']
 categories: ["海外職場"]
 tags: ["微軟"]
+
 ---
 
 ### 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天
 
-![微軟雲端架構師日常工作](images/medium-0*FOS26PQyvkwSGy1W.jpg)Photo by [Raychel Sanner](https://unsplash.com/@raychelsnr?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
 * * *
 

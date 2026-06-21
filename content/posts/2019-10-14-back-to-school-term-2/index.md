@@ -2,10 +2,10 @@
 title: "零基礎轉職澳洲工程師: 2019.10.14 第二學期開學!!!"
 date: 2019-10-14
 slug: "2019-10-14-back-to-school-term-2"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+
 ---
 
 ### 2019-10-14

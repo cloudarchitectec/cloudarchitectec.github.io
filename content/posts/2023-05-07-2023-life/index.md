@@ -2,13 +2,18 @@
 title: "2023 年中澳洲生活回顧"
 date: 2023-05-07
 slug: "2023-05-07-2023-life"
-image: "images/medium-0*mIiAi16mYu9BVV99.jpg"
+cover:
+  image: "images/medium-0*mIiAi16mYu9BVV99.jpg"
+  alt: "日記本與馬克杯"
+  credit:
+    photographer: "Yeshi Kangrang"
+    photographer_url: "https://unsplash.com/@omgitsyeshi"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*mIiAi16mYu9BVV99.jpg']
 categories: ["澳洲生活"]
 tags: ["澳洲生活"]
----
 
-![日記本與馬克杯](images/medium-0*mIiAi16mYu9BVV99.jpg)Photo by [Yeshi Kangrang](https://unsplash.com/@omgitsyeshi?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 不知不覺 2023 年也過一半了，我覺得必須要來好好審視一下今年的目標。翻了下我過去的文章 [2022 年回顧](/posts/2022-12-31-2022-life/)，發現我在 2022 年底時對自己期許如下:
 

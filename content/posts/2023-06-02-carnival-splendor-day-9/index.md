@@ -2,18 +2,21 @@
 title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.23 — Day 9 Sea Day 4"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-9"
-image: "images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpg"
+cover:
+  image: "images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpg"
+  alt: "郵輪房務毛巾動物展示"
+  caption: "毛巾動物曬太陽"
 images: ['images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpg', 'images/medium-1*7dA119bDuhY51ZgW59kRmQ.jpg', 'images/medium-1*I4QUA8AsXCCtciQSXrFmlw.jpg', 'images/medium-1*ej-cYzNqk3mrWA1JDOU6LQ.jpg', 'images/medium-1*1nTZai3sJ-Qvf9GDDBXRsw.jpg', 'images/medium-1*IUcbnRSL7LJNKoat0HAZIw.png', 'images/medium-1*3b_pB1QTl-KaS_9MJP_q_g.jpg', 'images/medium-1*JqT5WPUQEGVissH1C4CfOQ.jpg', 'images/medium-1*TRJNFtu780oLUNRE1zPnIg.jpg', 'images/medium-1*Izi7einASV_nJaYL51YTxw.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "郵輪"]
+
 ---
+
 ---
 
 ### Carnival Splendor 澳洲南太平洋郵輪 2023.05.23 — Day 9 Sea Day 4
 
-![郵輪房務毛巾動物展示](images/medium-1*oJxo6sSsPZK8NjYivghQwg.jpg)
 
-*毛巾動物曬太陽*
 
 * * *
 

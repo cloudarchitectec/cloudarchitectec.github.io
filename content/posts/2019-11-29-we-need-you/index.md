@@ -2,11 +2,11 @@
 title: "零基礎轉職澳洲工程師: 2019.11.29 We Need you!!!"
 date: 2019-11-29
 slug: "2019-11-29-we-need-you"
-image: ""
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
 draft: true
+
 ---
 
 2019-11-25 to 2019-11-27

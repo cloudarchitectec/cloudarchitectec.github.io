@@ -2,15 +2,18 @@
 title: "台澳 ETF 投資思維大對決！台灣人在瘋正2，澳洲人卻在算 Franking Credits？"
 date: 2026-05-31
 slug: "2026-05-31-investmend-mindset"
-image: "images/zcAgxLryKe4-unsplash.jpg"
+cover:
+  image: "images/zcAgxLryKe4-unsplash.jpg"
+  alt: "landing"
+  credit:
+    photographer: "Kelly Sikkema"
+    photographer_url: "https://unsplash.com/@kellysikkema"
+    photo_url: "https://unsplash.com/photos/a-hand-holding-two-black-cards-with-the-words-buy-and-sell-written-on-them-zcAgxLryKe4"
 images: ["images/zcAgxLryKe4-unsplash.jpg"]
 categories: ["投資理財"]
 tags: ["ETF", "FIRE"]
+
 ---
-
-![landing](/images/zcAgxLryKe4-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@kellysikkema?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kelly Sikkema</a> on <a href="https://unsplash.com/photos/a-hand-holding-two-black-cards-with-the-words-buy-and-sell-written-on-them-zcAgxLryKe4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 最近非常喜歡研究投資理財相關知識！
 

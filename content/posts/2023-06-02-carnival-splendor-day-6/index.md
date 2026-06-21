@@ -2,15 +2,15 @@
 title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.20 — Day 6 Mystery Island (Vanuatu)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-6"
-image: "images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpg"
+cover:
+  image: "images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpg"
+  alt: "郵輪房務創意毛巾螃蟹"
+  caption: "毛巾螃蟹"
 images: ['images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpg', 'images/medium-1*49dzPf3ncGQ8Rd9ILVmNYQ.jpg', 'images/medium-1*LV2Q5sXNZspZ2X7R_4ctoQ.jpg', 'images/medium-1*vYkAtRnaY9u5PW_sevx7Iw.jpg', 'images/medium-1*vmYPiXmc6lgDAyQ1cYItkw.jpg', 'images/medium-1*9IcJ4KIjbFEvdsyxyVwFAg.jpg', 'images/medium-1*g_gRl-BxQrTYKwXsnREJLw.jpg', 'images/medium-1*b2rWJ-wohW5j2M7jKemQfQ.jpg', 'images/medium-1*uqXU87fqe7SQiEMwTIyvvg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "萬那杜", "郵輪"]
+
 ---
-
-![郵輪房務創意毛巾螃蟹](images/medium-1*yItZzDJmTnYicECMi0Kc0g.jpg)
-
-*毛巾螃蟹*
 
 **第三個小島 — Mystery Island**
 

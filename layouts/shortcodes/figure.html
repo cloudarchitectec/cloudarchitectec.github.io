@@ -1,0 +1,25 @@
+{{- $src := .Get "src" | strings.TrimPrefix "/" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $resource := .Page.Resources.Get $src -}}
+{{- if not $resource }}{{ $resource = .Page.Resources.Get (printf "images/%s" (path.Base $src)) }}{{ end -}}
+{{- $imgSrc := $src -}}
+{{- $orientation := "landscape" -}}
+{{- if $resource -}}
+  {{- $imgSrc = $resource.RelPermalink -}}
+  {{- if gt $resource.Width $resource.Height -}}
+    {{- $orientation = "landscape" -}}
+  {{- else if lt $resource.Width $resource.Height -}}
+    {{- $orientation = "portrait" -}}
+  {{- else -}}
+    {{- $orientation = "square" -}}
+  {{- end -}}
+{{- end -}}
+<figure class="post-figure post-figure--{{ $orientation }}{{ with $class }} post-figure--{{ . }}{{ end }}">
+  <img src="{{ $imgSrc }}" alt="{{ $alt }}" loading="lazy" decoding="async"
+    {{- with $resource }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}>
+  {{- with $caption -}}
+  <figcaption>{{ . }}</figcaption>
+  {{- end -}}
+</figure>

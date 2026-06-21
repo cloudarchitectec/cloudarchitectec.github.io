@@ -2,13 +2,18 @@
 title: "零基礎轉職澳洲工程師: 2019.08.28 跟不上高手的腳步..."
 date: 2019-08-28
 slug: "2019-08-28-falling-behind"
-image: "images/medium-0*ATDvS5yWVyL3Z8An.jpg"
+cover:
+  image: "images/medium-0*ATDvS5yWVyL3Z8An.jpg"
+  alt: "程式學習進度落後焦慮感"
+  credit:
+    photographer: "Jorge Vitorino"
+    photographer_url: "https://unsplash.com/@jorgevitorino"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*ATDvS5yWVyL3Z8An.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
----
 
-![程式學習進度落後焦慮感](images/medium-0*ATDvS5yWVyL3Z8An.jpg)Photo by [Jorge Vitorino](https://unsplash.com/@jorgevitorino?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 沒有跟上進度的後果就是我今天的 Kahoot 輸得一蹋糊塗XDDD 真心是好多題的答案我都不知道哈哈，最後的總排名是 13/17 哭
 

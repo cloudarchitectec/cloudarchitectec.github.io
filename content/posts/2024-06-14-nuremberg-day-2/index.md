@@ -2,19 +2,21 @@
 title: "一個女生的歐洲獨旅: 2024.05.01 德國 紐倫堡 (Nuremberg) Day 2 — 近代史中的紐倫堡"
 date: 2024-06-14
 slug: "2024-06-14-nuremberg-day-2"
-image: "images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpg"
+cover:
+  image: "images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpg"
+  alt: "紐倫堡 Airbnb 澳洲書籍"
+  caption: "在紐倫堡 airbnb 房間裡發現一本關於澳洲人的書，太有趣XD"
 images: ['images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpg', 'images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpg', 'images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpg', 'images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpg', 'images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpg', 'images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpg', 'images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpg', 'images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpg', 'images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpg', 'images/medium-1*XKd20tYk57ftqXcq0TclKw.jpg', 'images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpg', 'images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpg', 'images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpg', 'images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg', 'images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "德國"]
+
 ---
 
 * * *
 
 ### **一個女生的歐洲獨旅:** 2024.05.01 德國 紐倫堡 (Nuremberg) Day 2 — 近代史中的紐倫堡
 
-![紐倫堡 Airbnb 澳洲書籍](images/medium-1*U_Bn-Dc3fyxneYDALg3KKQ.jpg)
 
-*在紐倫堡 airbnb 房間裡發現一本關於澳洲人的書，太有趣XD*
 
 5 月 1 號 是德國的勞動節，絕大多數的商店/超市都不會營業，好險幾個主要景點還是會持續開放！
 

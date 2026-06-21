@@ -2,13 +2,18 @@
 title: "澳洲求職必勝法則：Phone Screening 電話初篩策略應答分析與實戰分享"
 date: 2023-05-11
 slug: "2023-05-11-phone-screening"
-image: "images/medium-0*VtTwo_4RcFVfiCkx.jpg"
+cover:
+  image: "images/medium-0*VtTwo_4RcFVfiCkx.jpg"
+  alt: "Two people facing each other and smiling"
+  credit:
+    photographer: "Christina @ wocintechchat.com"
+    photographer_url: "https://unsplash.com/@wocintechchat"
+    photo_url: "https://unsplash.com"
 images: ['images/medium-0*VtTwo_4RcFVfiCkx.jpg']
 categories: ["海外職場"]
 tags: ["澳洲求職必勝法則","英文面試"]
----
 
-![Two people facing each other and smiling](images/medium-0*VtTwo_4RcFVfiCkx.jpg)Photo by [Christina @ wocintechchat.com](https://unsplash.com/@wocintechchat?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
+---
 
 ### 前言
 
