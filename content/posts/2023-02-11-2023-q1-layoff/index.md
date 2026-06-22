@@ -1,4 +1,5 @@
 ---
+
 title: "倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記"
 date: 2023-02-11
 slug: "2023-02-11-2023-q1-layoff"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*QlOjvTbX6Konfd3t.jpg']
 categories: ["海外職場"]
 tags: ["裁員"]
-
+episodeseries: ["倖存者日記"]
 ---
 
 * * *

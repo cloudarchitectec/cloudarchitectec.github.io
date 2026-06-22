@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.11.04 Marketplace Project (Week Two Starts)"
 date: 2019-11-04
 slug: "2019-11-04-marketplace-project-week-two-starts"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 ### 2019-11-04

@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.09.01 無處可逃"
 date: 2019-09-01
 slug: "2019-09-01-there-is-no-way-to-escape"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*Ajqd_LT2PTta4eAV.jpg', 'images/medium-0*1Ztp3n4uxJGBnuMu.jpg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 最近兩天上的課程都偏軟實力，而不是寫程式的硬實力，上週五我們學了怎麼用 git 和 GitHub，今天我們學了專案管理。

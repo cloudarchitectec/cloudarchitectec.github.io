@@ -1,4 +1,5 @@
 ---
+
 title: "好想要退休！讓我們來談談澳洲人最愛的澳洲指數基金 ETFs 組合"
 date: 2024-10-19
 slug: "2024-10-19-etf"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*3cOpRFYR1oXIZ7jk.jpg', 'images/medium-1*lZtU1hwdWibQV_2JVCJHBw.png', 'images/medium-1*zvODeYJrAd2cZ2PmNxAU_Q.png', 'images/medium-1*Lt0IKGyc3hUpMyZ59-hJeA.png']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE","ETF", "退休規劃"]
-
+episodeseries: ["好想要退休"]
 ---
 
 > 以下純屬我個人的研究分享，不代表任何理財建議。EC 是有個澳洲會計學位啦，但我只是個工程師，不是專業財經人士。以下分享，你們要是覺得有道理就聽一聽。要是覺得沒道理，歡迎留言跟我討論你的想法，我們互相學習，共同成長 :)

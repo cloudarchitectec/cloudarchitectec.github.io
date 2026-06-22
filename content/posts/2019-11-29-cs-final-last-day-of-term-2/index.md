@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.11.29 CS Final & Last Day of Term 2"
 date: 2019-11-29
 slug: "2019-11-29-cs-final-last-day-of-term-2"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 2019-11-28 to 2019-11-29

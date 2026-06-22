@@ -1,4 +1,5 @@
 ---
+
 title: "太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包"
 date: 2025-04-26
 slug: "2025-04-26-vanuatu-day-8"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*lU6MPT_D-CrjXH72Ri8mQg.jpg', 'images/medium-1*stHnWueAbTORnYhAAg04-Q.jpg', 'images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpg', 'images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpg', 'images/medium-1*LjsP2mSLIYyYlloh2n74ww.jpg', 'images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpg', 'images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpg', 'images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpg', 'images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpg', 'images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpg', 'images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpg', 'images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
-
+episodeseries: ["萬那杜旅記"]
 ---
 
 ### 我 vs 蚊子

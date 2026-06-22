@@ -1,4 +1,5 @@
 ---
+
 title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2"
 date: 2023-05-30
 slug: "2023-05-30-carnival-splendor-day-3"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*IL_XZvF4HGXLPpcqRHFOmA.jpg', 'images/medium-1*DuXkVGMAABrvBJ5TKkLgBg.jpg', 'images/medium-1*2ICrlpB91ri065acmRb-EA.jpg', 'images/medium-1*lioXG3b1t8i3YdbYAOLhgQ.jpg', 'images/medium-1*-T8XXFbxD06E9qH0SZndFQ.jpg', 'images/medium-1*4gX9KAb4Cz5rgXXCTKFZOA.jpg', 'images/medium-1*Or5hSuxDB3zYbU3lnwQfCA.jpg', 'images/medium-1*VSidh4WyOjTXU-XsEb90ew.jpg', 'images/medium-1*e_xYNq0orz_R_6_YFrbc6A.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "郵輪"]
-
+episodeseries: ["Carnival Splendor 郵輪"]
 ---
 
 ---

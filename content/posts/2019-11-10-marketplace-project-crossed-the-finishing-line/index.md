@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.11.10 Marketplace Project – Crossed the Finishing Line"
 date: 2019-11-10
 slug: "2019-11-10-marketplace-project-crossed-the-finishing-line"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 2019-11-08 (& Weekend)

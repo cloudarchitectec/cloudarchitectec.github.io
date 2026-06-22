@@ -158,7 +158,7 @@
   
   <div class="post-content-area">
     <h2 class="post-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
@@ -188,7 +188,7 @@
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
     <h2 class="entry-hint-parent">
-      <a href="{{ .Permalink }}" style="text-decoration: none; color: inherit;">{{- .Title }}</a>
+      <a href="{{ .RelPermalink }}" style="text-decoration: none; color: inherit;">{{- .Title }}</a>
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
@@ -208,7 +208,7 @@
     {{- partial "post_meta.html" . -}}
   </footer>
   {{- end }}
-  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
 </article>
 {{- end }}
 
@@ -222,8 +222,8 @@
       <!-- First and Previous buttons -->
       <div class="pagination-nav">
         {{- if $paginator.HasPrev }}
-        <a class="nav-btn first" href="{{ $paginator.First.URL | absURL }}" title="第一頁">«« 首頁</a>
-        <a class="nav-btn prev" href="{{ $paginator.Prev.URL | absURL }}" title="上一頁">‹ 上一頁</a>
+        <a class="nav-btn first" href="{{ $paginator.First.URL }}" title="第一頁">«« 首頁</a>
+        <a class="nav-btn prev" href="{{ $paginator.Prev.URL }}" title="上一頁">‹ 上一頁</a>
         {{- else }}
         <span class="nav-btn disabled">«« 首頁</span>
         <span class="nav-btn disabled">‹ 上一頁</span>
@@ -243,8 +243,8 @@
       <!-- Next and Last buttons -->
       <div class="pagination-nav">
         {{- if $paginator.HasNext }}
-        <a class="nav-btn next" href="{{ $paginator.Next.URL | absURL }}" title="下一頁">下一頁 ›</a>
-        <a class="nav-btn last" href="{{ $paginator.Last.URL | absURL }}" title="最後一頁">末頁 »»</a>
+        <a class="nav-btn next" href="{{ $paginator.Next.URL }}" title="下一頁">下一頁 ›</a>
+        <a class="nav-btn last" href="{{ $paginator.Last.URL }}" title="最後一頁">末頁 »»</a>
         {{- else }}
         <span class="nav-btn disabled">下一頁 ›</span>
         <span class="nav-btn disabled">末頁 »»</span>

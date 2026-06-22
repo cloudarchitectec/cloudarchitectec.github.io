@@ -92,6 +92,34 @@ def check_categories(fm: str) -> list[str]:
     return errors
 
 
+def get_fm_episodeseries(fm: str) -> list[str]:
+    """Parse episodeseries: [\"a\"] from front matter."""
+    for line in fm.splitlines():
+        m = re.match(r'^\s*episodeseries:\s*\[(.*)\]\s*$', line)
+        if not m:
+            continue
+        inner = m.group(1)
+        values = re.findall(r'"([^"]+)"', inner)
+        if not values:
+            values = re.findall(r"'([^']+)'", inner)
+        return values
+    return []
+
+
+def check_episodeseries(fm: str) -> list[str]:
+    """episodeseries is optional; if present it must be a non-empty array."""
+    errors: list[str] = []
+    if "episodeseries:" not in fm:
+        return errors
+    values = get_fm_episodeseries(fm)
+    if not values:
+        errors.append(
+            "episodeseries must be a non-empty array when set (omit the field for non-series posts)"
+        )
+    return errors
+
+
+
 def check(text: str, dir_name: str) -> list[str]:
     """Return front matter and body convention violations."""
     fm, body = split_post(text)
@@ -106,6 +134,7 @@ def check(text: str, dir_name: str) -> list[str]:
         errors.append(f"slug must match directory name (slug={slug!r}, dir={dir_name!r})")
 
     errors.extend(check_categories(fm))
+    errors.extend(check_episodeseries(fm))
 
     body_stripped = body.rstrip()
     if FOOTER_LEGACY.search(body_stripped):

@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.08.20 好戲登場"
 date: 2019-08-20
 slug: "2019-08-20-the-real-game-begins"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*tccay5yVUk7f1Hm7.jpg', 'images/medium-1*VNE86kjdCT4cTLI1VdM3HQ.jpg', 'images/medium-1*NyILRsUnysMY9zenjmapLg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 今天正式進入 coding bootcamp 的課程！

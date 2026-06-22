@@ -1,4 +1,5 @@
 ---
+
 title: "一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的運河屋"
 date: 2024-04-25
 slug: "2024-04-25-amsterdam"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*lPD2zP4eV-hany2F-_ZncQ.jpg', 'images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpg', 'images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpg', 'images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpg', 'images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpg', 'images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpg', 'images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpg', 'images/medium-1*3ka0SdbUaKQOl7IhtDgo_w.jpg', 'images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpg', 'images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpg', 'images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpg', 'images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpg', 'images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpg', 'images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpg', 'images/medium-1*Fhf5Bl4CkvkRXkHqeiMnIw.jpg', 'images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpg', 'images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpg', 'images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpg', 'images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpg', 'images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpg', 'images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpg', 'images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpg', 'images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpg', 'images/medium-1*NgasYZx34uIW8BacGwudNg.jpg', 'images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpg', 'images/medium-0*YugyH-UDQuUIxt2_.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
-
+episodeseries: ["一個女生的歐洲獨旅"]
 ---
 
 結束了香港轉機一日行，我整個累到爆炸！

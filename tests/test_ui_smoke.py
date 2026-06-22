@@ -13,6 +13,7 @@ PAGINATED_TAG_PAGE = "/tags/旅遊/page/2/"
 CATEGORY_PAGE = "/categories/旅行紀錄/"
 STABLE_POST = "/posts/2025-10-04-goodbye-medium/"
 RELATED_POST = "/posts/2026-06-17-retirement-plan/"
+PE_POST = "/posts/2025-11-14-pe-1-pe-or-not/"
 
 
 def visible_non_empty_text(page: Page, selector: str, limit: int = 10) -> list[str]:
@@ -64,6 +65,21 @@ class TestUiSmoke:
         expect(related).to_be_visible()
         expect(related.locator(".related-posts-heading")).to_have_text("延伸閱讀")
         assert related.locator(".related-posts-list a").count() >= 1
+
+    def test_series_nav_on_pe_post(self, page: Page):
+        page.goto(PE_POST)
+        nav = page.locator(".series-nav")
+        expect(nav).to_be_visible()
+        expect(nav.locator(".series-nav-heading")).to_have_text("我要升官加薪系列")
+        assert nav.locator(".series-nav-list li").count() == 4
+
+    def test_series_nav_recent_on_long_series(self, page: Page):
+        page.goto("/posts/2024-08-10-2025-europe-summary/")
+        nav = page.locator(".series-nav")
+        expect(nav).to_be_visible()
+        expect(nav.locator(".series-nav-heading")).to_have_text("一個女生的歐洲獨旅系列")
+        assert nav.locator(".series-nav-recent li").count() == 3
+        expect(nav.locator(".series-nav-all-link")).to_have_text("點此前往全系列 (共 17 篇)")
 
     def test_tags_index_has_links(self, page: Page):
         page.goto("/tags/")

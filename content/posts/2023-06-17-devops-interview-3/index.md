@@ -1,4 +1,5 @@
 ---
+
 title: 澳洲面試心得：跨國能源公司 DevOps 工程師 III：不好意思，我想要再加試一場！
 date: 2023-06-17
 slug: "2023-06-17-devops-interview-3"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*tXT9M2Ald1m5anwO.jpg']
 categories: ["海外職場"]
 tags: ["DevOps 工程師","澳洲面試心得"]
-
+episodeseries: ["DevOps 面試紀錄"]
 ---
 
 今天要來跟大家分享到底在第二次面試後發生什麼事，身邊的朋友聽完都覺得「EC 真的是太狂了XDD」。

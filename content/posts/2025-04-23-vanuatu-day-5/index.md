@@ -1,4 +1,5 @@
 ---
+
 title: "太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃改不上變化，變化趕不上天氣造化"
 date: 2025-04-23
 slug: "2025-04-23-vanuatu-day-5"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*1dvQ_m94wE11rwuF1utkEA.jpg', 'images/medium-1*XaBo3JQWHOiv-0XJkZLXDQ.jpg', 'images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpg', 'images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpg', 'images/medium-1*-rgP0lF28c0gicgFiv3vrQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
-
+episodeseries: ["萬那杜旅記"]
 ---
 
 (在萬那杜，跟人類一樣不可控制的還有天氣)

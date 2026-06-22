@@ -1,4 +1,5 @@
 ---
+
 title: "好想要退休！退休前的最後一堂課：比 FIRE 數字更重要的，其實是這件事"
 date: 2026-06-17
 slug: "2026-06-17-retirement-plan"
@@ -12,7 +13,7 @@ cover:
 images: ["images/cEukkv42O40-unsplash.jpg"]
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
-
+episodeseries: ["好想要退休"]
 ---
 
 說到退休，我以前覺得那是一個很遙遠的詞，好像也不需要特別規劃，等時候到了就會自然發生？

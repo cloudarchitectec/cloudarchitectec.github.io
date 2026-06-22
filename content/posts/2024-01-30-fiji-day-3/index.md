@@ -1,4 +1,5 @@
 ---
+
 title: "斐濟自助旅遊 2022.10.12 Day 3: Malamala Island"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-3"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*UYQREHkp_4KGojw-.jpg', 'images/medium-0*dT_WyPnWXajYGYcL.jpg', 'images/medium-0*R9AbkCk0zQIkb9-o.jpg', 'images/medium-0*p9yMD2FNOryFwREY.jpg', 'images/medium-0*5aNAFP6zOqe13T5_.jpg', 'images/medium-0*tx1vHrgAoRwihmAn.jpg', 'images/medium-0*iXqoP6t0sPIp1q7b.jpg', 'images/medium-0*5RrmqHw5bxvmzDi8.jpg', 'images/medium-0*B8sqPydAQ1MWoyjD.jpg', 'images/medium-0*h57D05cqAs4ZsQr-.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "斐濟"]
-
+episodeseries: ["斐濟旅記"]
 ---
 
 * * *

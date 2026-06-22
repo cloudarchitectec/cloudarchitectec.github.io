@@ -1,4 +1,5 @@
 ---
+
 title: "一個女生的歐洲獨旅: 2024.04.28 德國 法蘭克福 (Frankfurt) Day 1 — 最美跟最壞的風景都是人"
 date: 2024-06-06
 slug: "2024-06-06-frankfurt-day-1"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*18VTKHbsJVlx6ln8l3IecQ.jpg', 'images/medium-1*o8RmRCLMePhw-EvMo7rKOw.jpg', 'images/medium-1*z-fGC0otV3QJBW9fv6w0UA.jpg', 'images/medium-1*5HSWq9Dj31bIP6-dA4crMQ.jpg', 'images/medium-1*orOwmMu2x-o-pkYHdsVL6A.jpg', 'images/medium-1*gAUkdJVLu2V_Y3o5dX84lQ.jpg', 'images/medium-1*S9Btvnyj2JnPPigFZuEu-w.jpg', 'images/medium-1*-UL8R1yBEdZJvPKTVDJN9g.jpg', 'images/medium-1*VjQ5kVpYe0dLEYRiDP0Ajw.jpg', 'images/medium-1*MrvTbDRBHr-sdVnP1joIdQ.jpg', 'images/medium-1*3ZVoT9IeWZlnOIFOX0SP5g.jpg', 'images/medium-1*TP_azikIT6LICW1xpSxE8A.jpg', 'images/medium-1*zLVmZNEfw6w7uhhsGUdxpg.jpg', 'images/medium-0*nmiB7RPq0Sjb6X79.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲",  "德國"]
-
+episodeseries: ["一個女生的歐洲獨旅"]
 ---
 
 * * *

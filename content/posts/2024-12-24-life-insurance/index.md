@@ -1,4 +1,5 @@
 ---
+
 title: "好想要退休！澳洲人壽保險知識分享，在澳洲打拼的你，有足夠的保障嗎？"
 date: 2024-12-24
 slug: "2024-12-24-life-insurance"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*Za2PV_3X9oaOZ0Ci.jpg', 'images/medium-1*V-_EOb6sTEoBnFqUeZ1O1w.png', 'images/medium-1*n02Wjg6x5DVnDwajCdY7fg.png', 'images/medium-1*dDf7egiCTurnHQw2wgx1ew.png']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
-
+episodeseries: ["好想要退休"]
 ---
 
 ### **前言**

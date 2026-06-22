@@ -1,4 +1,5 @@
 ---
+
 title: "倖存者日記：沒想到 2025 Q2 年還有續集？當裁員成為澳洲科技業的新常態！"
 date: 2025-06-22
 slug: "2025-06-22-layoff"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*dVrFM_l0OZd8FyPr.jpg']
 categories: ["海外職場"]
 tags: ["裁員"]
-
+episodeseries: ["倖存者日記"]
 ---
 
 ### 前言

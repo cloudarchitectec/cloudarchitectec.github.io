@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2020.02.21 Internship – Survived the First Week"
 date: 2020-02-21
 slug: "2020-02-21-internship-survived-the-first-week"
@@ -8,8 +9,8 @@ cover:
 images: ['images/87033110_170804301040403_8636623888689659904_n.jpg', 'images/87044098_191884335365396_1040341405232267264_n.jpg', 'images/86935389_559356518012915_7477196840069234688_n.jpg', 'images/87037672_236776254002169_1176147622591725568_n.jpg', 'images/87018620_2262422097398510_4067544310910812160_n.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 **2020-02-21 Fri**

@@ -1,4 +1,5 @@
 ---
+
 title: "微軟雲端架構師 (Solution Architect) 職位解析 4：Technical Presentation/Workshops"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-4"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*6V_gkuucIp6LgEkS.jpg', 'images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png', 'images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png', 'images/medium-1*GESZpUU1YXukmjSgmnKlRw.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
-
+episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
 ### 前言

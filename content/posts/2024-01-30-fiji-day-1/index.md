@@ -1,4 +1,5 @@
 ---
+
 title: "斐濟自助旅遊 2022.10.10  Day 1: 初來乍到之這裡真的不是屏東嗎?"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-1"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-0*O5Bsg-U6NkTtsexS.jpg', 'images/medium-0*Ur3Ct6osVz0SMS2S.jpg', 'images/medium-0*xmZJL-rxSSvzti2d.jpg', 'images/medium-0*UViUUzYHR855trQG.jpg', 'images/medium-0*X1YPZ_byvFgy9vvY.jpg', 'images/medium-0*opxsp1CbN83N2ijw.jpg', 'images/medium-0*cyBcrR1JXVgt8jYA.jpg', 'images/medium-0*wHGn-BWg88cku4NP.jpg', 'images/medium-0*NCkv3nLUbqStxDQ-.jpg', 'images/medium-0*5qokt42-Vvfwjemf.jpg', 'images/medium-0*S_9Mv4N0NThC0zzU.jpg', 'images/medium-0*pDobfaSWYVpF9XWV.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "斐濟"]
-
+episodeseries: ["斐濟旅記"]
 ---
 
 * * *

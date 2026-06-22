@@ -1,4 +1,5 @@
 ---
+
 title: "太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區"
 date: 2025-04-20
 slug: "2025-04-20-vanuatu-day-2"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*8HJCnk7JyjLtGvsZ7pWOVg.jpg', 'images/medium-1*nBkAuiQCo0QWzRA2jhxGtw.jpg', 'images/medium-1*xe_ec0to0XYST_WM7wk8DQ.jpg', 'images/medium-1*oYu-2XiLel_ITQ6Q8Qoc_A.jpg', 'images/medium-1*ua_ZWPNFTjcTX4KIbvBgcw.jpg', 'images/medium-1*h0HtVaj0NgkE_UuMxE7tsQ.jpg', 'images/medium-1*i-78nDAdb3S-DEgXOlChdg.jpg', 'images/medium-1*zF4Q-uHNOViv4-rEPAa4qw.jpg', 'images/medium-1*BAWajt78KnqAnaC1M9Xu8Q.jpg', 'images/medium-1*IcQLON4WrjDLCgkuF210_A.jpg', 'images/medium-1*O1Ccz_ja6fUNB702WHRZ0w.jpg', 'images/medium-1*zwegydr3Jd1lgQzXZDnUfQ.jpg', 'images/medium-1*VTPOS3KdAoT1DplOvLzexg.jpg', 'images/medium-1*KTKZFH2n4JoDdaPySPpDqA.jpg', 'images/medium-1*hr5Zl7fjvple8fLm3qhmOw.jpg', 'images/medium-1*vX0owHmslNh8Meghoioplg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
-
+episodeseries: ["萬那杜旅記"]
 ---
 
 昨天入住時奶奶跟我說7–7:30會供應免費早餐，結果我遲遲等不到。

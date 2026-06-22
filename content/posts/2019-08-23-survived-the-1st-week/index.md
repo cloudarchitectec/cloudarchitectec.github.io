@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.08.23 成功活過第一週了"
 date: 2019-08-23
 slug: "2019-08-23-survived-the-1st-week"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*sx9_6EWCiRQfo1zL3E5ZYg.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 今天也是平凡無奇的上課日XD

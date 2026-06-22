@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.09.06 差點沒通過壓力測試"
 date: 2019-09-06
 slug: "2019-09-06-pressure-cooker-test"
@@ -8,7 +9,7 @@ cover:
 images: ['images/69692014_602334746967902_2410745854546673664_n.jpg', 'images/69920733_392338554991930_6859941603625140224_n.jpg', 'images/ec-app.JPG']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 ### 2019-09-05 & 2019-09-06

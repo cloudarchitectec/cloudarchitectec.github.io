@@ -135,6 +135,24 @@ class TestFrontmatterCheck:
         )
         assert any("exactly one" in e for e in frontmatter_check.check(text, "test-slug"))
 
+
+    def test_empty_episodeseries_rejected(self):
+        text = GOOD_POST.replace(
+            'categories: ["海外職場"]',
+            'categories: ["海外職場"]\nepisodeseries: []',
+        )
+        assert any("episodeseries" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_episodeseries_optional_when_omitted(self):
+        assert frontmatter_check.check(GOOD_POST, "test-slug") == []
+
+    def test_episodeseries_value_passes(self):
+        text = GOOD_POST.replace(
+            'categories: ["海外職場"]',
+            'categories: ["海外職場"]\nepisodeseries: ["我要升官加薪"]',
+        )
+        assert frontmatter_check.check(text, "test-slug") == []
+
     def test_allowed_categories_include_bootcamp_series(self):
         assert "零基礎轉職澳洲工程師" in frontmatter_check.ALLOWED_CATEGORIES
 

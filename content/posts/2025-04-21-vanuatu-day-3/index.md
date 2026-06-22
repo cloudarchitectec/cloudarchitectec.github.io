@@ -1,4 +1,5 @@
 ---
+
 title: "太平洋小島上的大冒險：2025.04.21 Vanuatu Day 3 地震驚魂、小島浮潛與部落文化初體驗"
 date: 2025-04-21
 slug: "2025-04-21-vanuatu-day-3"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*-zCdWVbl7VQe8KNVhL52qQ.jpg', 'images/medium-1*vcR5CoZhpGeReMWl--OU5Q.jpg', 'images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpg', 'images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpg', 'images/medium-1*ORf-z3lOtlJatbs_14kB5w.jpg', 'images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpg', 'images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpg', 'images/medium-1*hiICIdXxnAwERYT7ougJMw.jpg', 'images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
-
+episodeseries: ["萬那杜旅記"]
 ---
 
 (我也不知道為什麼我在這裡的每一天都很精彩🤣)

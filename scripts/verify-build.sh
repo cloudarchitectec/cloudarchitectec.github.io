@@ -45,6 +45,14 @@ grep -rl "related-posts" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q 
   && echo "✅ Related posts block present in built posts" \
   || (echo "❌ Related posts block missing — check layouts/partials/related_posts.html" && exit 1)
 
+grep -rl "我要升官加薪系列" "${PUBLIC_DIR}/posts/2025-11-14-pe-1-pe-or-not/index.html" | grep -q . \
+  && echo "✅ Series nav present on episodic post" \
+  || (echo "❌ Series nav missing on PE post — check layouts/partials/series_nav.html" && exit 1)
+
+EPISODE_TERM="${PUBLIC_DIR}/episodeseries/我要升官加薪/index.html"
+[ -f "$EPISODE_TERM" ] || (echo "❌ Episode series term page missing: $EPISODE_TERM" && exit 1)
+echo "✅ Episode series taxonomy term page built"
+
 TAG_LIST="${PUBLIC_DIR}/tags/devops-工程師/index.html"
 [ -f "$TAG_LIST" ] || (echo "❌ Tag list page not built: $TAG_LIST" && exit 1)
 

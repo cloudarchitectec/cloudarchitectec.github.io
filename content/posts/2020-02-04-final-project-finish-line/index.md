@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2020.02.04 Final Project – Finish Line"
 date: 2020-02-04
 slug: "2020-02-04-final-project-finish-line"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 2020-02-03 Mon & 2020-02-04 Tue

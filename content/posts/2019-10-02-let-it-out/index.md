@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.10.02 不吐不快"
 date: 2019-10-02
 slug: "2019-10-02-let-it-out"
@@ -12,6 +13,7 @@ cover:
 images: ["images/iTJ9qdICuZo-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 ### 2019-09-30

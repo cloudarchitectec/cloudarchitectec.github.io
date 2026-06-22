@@ -1,4 +1,5 @@
 ---
+
 title: "一個女生的歐洲獨旅: 2024.05.03 德國 慕尼黑 (Munich) Day 2 — 兩個城堡一次擁有：林德霍夫宮與新天鵝堡"
 date: 2024-06-21
 slug: "2024-06-21-munich-day-2"
@@ -9,7 +10,7 @@ cover:
 images: ['images/overlook.jpg', 'images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpg', 'images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpg', 'images/medium-1*SZwEaOh11Ke3Kib768magA.jpg', 'images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpg', 'images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpg', 'images/medium-1*WB02YiElLutRyeP8coe6TA.jpg', 'images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpg', 'images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpg', 'images/medium-0*uDgkbRN29kumZlPU.png']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "德國"]
-
+episodeseries: ["一個女生的歐洲獨旅"]
 ---
 
 今天我跟了 KKDay 的一日團，去參訪了林德霍夫宮跟新天鵝堡。
