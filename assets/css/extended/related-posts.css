@@ -24,7 +24,6 @@
 
 .related-posts-list li {
   margin: 0.45rem 0;
-  padding: 0;
   display: list-item;
 }
 
@@ -35,13 +34,4 @@
 .related-posts-list a {
   font-size: 15px;
   line-height: 1.5;
-  text-decoration: none;
-  color: var(--secondary);
-  border-bottom: 1px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.related-posts-list a:hover {
-  color: var(--primary);
-  border-bottom-color: var(--border);
 }

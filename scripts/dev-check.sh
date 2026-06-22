@@ -84,5 +84,5 @@ if [[ "$FULL" -eq 1 ]]; then
   "$PYTHON" -m playwright install chromium
   "$PYTHON" -m pytest tests/ -q
 else
-  "$PYTHON" -m pytest tests/test_post_validation.py tests/test_blog_converter.py tests/test_list_pages.py::TestListTemplateStructure -q
+  "$PYTHON" -m pytest tests/test_post_validation.py tests/test_blog_converter.py tests/test_episodeseries_registry.py tests/test_list_pages.py::TestListTemplateStructure -q
 fi

@@ -1,0 +1,56 @@
+/* Shared secondary link list pattern — series nav, taxonomy terms, related posts */
+
+.series-term-list,
+.series-nav-list {
+  margin: 0;
+  padding: 0 0 0 1.25rem;
+  list-style: decimal;
+}
+
+.series-term-list li,
+.series-nav-list li,
+.series-nav-recent li {
+  padding: 0;
+  line-height: 1.45;
+}
+
+.series-term-list li {
+  margin: 0.5rem 0;
+}
+
+.series-nav-list li,
+.series-nav-recent li {
+  margin: 0.35rem 0;
+}
+
+.series-nav-list li.is-current,
+.series-nav-recent li.is-current {
+  font-weight: 600;
+}
+
+.series-term-list a,
+.series-nav-list a,
+.series-nav-recent a,
+.series-nav-all-link,
+.related-posts-list a {
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.series-term-list a:hover,
+.series-nav-list a:hover,
+.series-nav-recent a:hover,
+.series-nav-all-link:hover,
+.related-posts-list a:hover {
+  color: var(--primary);
+  border-bottom-color: var(--border);
+}
+
+.series-nav-list li.is-current a,
+.series-nav-recent li.is-current a {
+  color: var(--primary);
+  pointer-events: none;
+  cursor: default;
+}

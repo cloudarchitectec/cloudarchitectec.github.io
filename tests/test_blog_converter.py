@@ -2,37 +2,14 @@
 
 from __future__ import annotations
 
-import importlib.util
 import json
 from pathlib import Path
 
 import pytest
-from click.testing import CliRunner
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-CONVERTER_PATH = REPO_ROOT / "tools" / "blog-converter" / "automated_blog_converter.py"
-REGISTRY_PATH = REPO_ROOT / "scripts" / "episodeseries_registry.py"
+from conftest import load_repo_module
 
-
-def load_converter():
-    spec = importlib.util.spec_from_file_location("blog_converter", CONVERTER_PATH)
-    if spec is None or spec.loader is None:
-        raise ImportError(f"Cannot load {CONVERTER_PATH}")
-    mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)
-    return mod
-
-
-def load_registry_module():
-    spec = importlib.util.spec_from_file_location("episodeseries_registry", REGISTRY_PATH)
-    if spec is None or spec.loader is None:
-        raise ImportError(f"Cannot load {REGISTRY_PATH}")
-    mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)
-    return mod
-
-
-converter = load_converter()
+converter = load_repo_module("tools/blog-converter/automated_blog_converter.py")
 
 
 @pytest.fixture
@@ -42,7 +19,7 @@ def registry_tmp(tmp_path: Path, monkeypatch):
         json.dumps(["我要升官加薪", "好想要退休"], ensure_ascii=False) + "\n",
         encoding="utf-8",
     )
-    reg = load_registry_module()
+    reg = load_repo_module("scripts/episodeseries_registry.py")
     monkeypatch.setattr(reg, "DEFAULT_REGISTRY_PATH", list_file)
     monkeypatch.setattr(converter, "load_episodeseries_registry", lambda: reg)
     return list_file, reg

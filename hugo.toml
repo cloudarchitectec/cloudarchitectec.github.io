@@ -158,6 +158,10 @@ disablePathToLower = true
     #   name = "職涯諮詢"
     #   url = "/posts/2018-01-03-ec-consultation"
     #   weight = 15
+    # [[languages.zh-hant.menu.main]]
+    #   name = "系列文章"
+    #   url = "/episodeseries"
+    #   weight = 35
     [[languages.zh-hant.menu.main]]
       name = "標籤"
       url = "/tags"

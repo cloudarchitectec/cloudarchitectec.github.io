@@ -1,28 +1,5 @@
 /* Episode series taxonomy term pages */
 
-.series-term-list {
-  margin: 0;
-  padding: 0 0 0 1.25rem;
-  list-style: decimal;
-}
-
-.series-term-list li {
-  margin: 0.5rem 0;
-  line-height: 1.45;
-}
-
-.series-term-list a {
-  color: var(--secondary);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.series-term-list a:hover {
-  color: var(--primary);
-  border-bottom-color: var(--border);
-}
-
 .series-term-date {
   margin-left: 0.5rem;
   font-size: 13px;

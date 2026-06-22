@@ -29,6 +29,7 @@ warnings.filterwarnings("ignore", message="urllib3 v2 only supports OpenSSL 1.1.
 # Configuration
 CATEGORIES = ["海外職場", "投資理財", "旅行紀錄", "澳洲生活"]
 SLUG_MAX_LENGTH = 75
+IMAGE_EXTENSIONS = frozenset({".jpg", ".jpeg", ".png", ".gif", ".webp"})
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
@@ -331,9 +332,6 @@ def extract_front_matter(content):
                 inner = line.split(":", 1)[1].strip().strip("[]")
                 parsed = [v.strip().strip("\"'") for v in inner.split(",") if v.strip()]
                 episode_series = parsed[0] if parsed else ""
-            elif line.startswith("episode_series:"):
-                val = line.split(":", 1)[1].strip().strip('"[] ')
-                episode_series = val
 
     return categories, tags, episode_series
 
@@ -375,11 +373,10 @@ def list_bundle_image_paths(images_dir: Path) -> list[str]:
     """Return sorted images/… paths for all files in the post bundle."""
     if not images_dir.is_dir():
         return []
-    image_extensions = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
     names = sorted(
         f.name
         for f in images_dir.iterdir()
-        if f.is_file() and f.suffix.lower() in image_extensions
+        if f.is_file() and f.suffix.lower() in IMAGE_EXTENSIONS
     )
     return [f"images/{name}" for name in names]
 
@@ -459,9 +456,8 @@ def find_existing_images(images_dir):
     if not images_dir.exists():
         return []
 
-    image_extensions = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
     return sorted(
-        f for f in images_dir.iterdir() if f.is_file() and f.suffix.lower() in image_extensions
+        f for f in images_dir.iterdir() if f.is_file() and f.suffix.lower() in IMAGE_EXTENSIONS
     )
 
 

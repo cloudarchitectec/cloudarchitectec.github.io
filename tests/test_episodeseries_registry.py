@@ -7,7 +7,9 @@ from pathlib import Path
 
 import pytest
 
-from scripts import episodeseries_registry as registry
+from conftest import load_repo_module
+
+registry = load_repo_module("scripts/episodeseries_registry.py")
 
 
 class TestEpisodeSeriesRegistry:

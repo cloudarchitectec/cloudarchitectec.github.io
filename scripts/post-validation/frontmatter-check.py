@@ -57,10 +57,11 @@ def is_draft(fm: str) -> bool:
     return val is not None and val.lower() == "true"
 
 
-def get_fm_categories(fm: str) -> list[str]:
-    """Parse categories: [\"a\", \"b\"] from front matter."""
+def get_fm_array(fm: str, key: str) -> list[str]:
+    """Parse key: [\"a\", \"b\"] from front matter."""
+    pattern = rf"^\s*{re.escape(key)}:\s*\[(.*)\]\s*$"
     for line in fm.splitlines():
-        m = re.match(r"^\s*categories:\s*\[(.*)\]\s*$", line)
+        m = re.match(pattern, line)
         if not m:
             continue
         inner = m.group(1)
@@ -69,6 +70,16 @@ def get_fm_categories(fm: str) -> list[str]:
             values = re.findall(r"'([^']+)'", inner)
         return values
     return []
+
+
+def get_fm_categories(fm: str) -> list[str]:
+    """Parse categories: [\"a\", \"b\"] from front matter."""
+    return get_fm_array(fm, "categories")
+
+
+def get_fm_episodeseries(fm: str) -> list[str]:
+    """Parse episodeseries: [\"a\"] from front matter."""
+    return get_fm_array(fm, "episodeseries")
 
 
 def check_categories(fm: str) -> list[str]:
@@ -92,20 +103,6 @@ def check_categories(fm: str) -> list[str]:
     return errors
 
 
-def get_fm_episodeseries(fm: str) -> list[str]:
-    """Parse episodeseries: [\"a\"] from front matter."""
-    for line in fm.splitlines():
-        m = re.match(r'^\s*episodeseries:\s*\[(.*)\]\s*$', line)
-        if not m:
-            continue
-        inner = m.group(1)
-        values = re.findall(r'"([^"]+)"', inner)
-        if not values:
-            values = re.findall(r"'([^']+)'", inner)
-        return values
-    return []
-
-
 def check_episodeseries(fm: str) -> list[str]:
     """episodeseries is optional; if present it must be a non-empty array."""
     errors: list[str] = []
@@ -117,7 +114,6 @@ def check_episodeseries(fm: str) -> list[str]:
             "episodeseries must be a non-empty array when set (omit the field for non-series posts)"
         )
     return errors
-
 
 
 def check(text: str, dir_name: str) -> list[str]:

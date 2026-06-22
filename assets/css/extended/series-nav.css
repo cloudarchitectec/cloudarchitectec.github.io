@@ -16,74 +16,15 @@
   color: var(--primary);
 }
 
-.series-nav-list {
-  margin: 0;
-  padding: 0 0 0 1.25rem;
-  list-style: decimal;
-}
-
-.series-nav-list li {
-  margin: 0.35rem 0;
-  padding: 0;
-  line-height: 1.45;
-}
-
-.series-nav-list li.is-current {
-  font-weight: 600;
-}
-
-.series-nav-list a {
+.series-nav-list a,
+.series-nav-recent a {
   font-size: 14px;
-  color: var(--secondary);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.series-nav-list li.is-current a {
-  color: var(--primary);
-  pointer-events: none;
-  cursor: default;
-}
-
-.series-nav-list a:hover {
-  color: var(--primary);
-  border-bottom-color: var(--border);
 }
 
 .series-nav-recent {
   margin: 0;
   padding: 0;
   list-style: none;
-}
-
-.series-nav-recent li {
-  margin: 0.35rem 0;
-  padding: 0;
-  line-height: 1.45;
-}
-
-.series-nav-recent li.is-current {
-  font-weight: 600;
-}
-
-.series-nav-recent a {
-  font-size: 14px;
-  color: var(--secondary);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.series-nav-recent li.is-current a {
-  color: var(--primary);
-  pointer-events: none;
-  cursor: default;
-}
-
-.series-nav-recent a:hover {
-  color: var(--primary);
-  border-bottom-color: var(--border);
 }
 
 .series-nav-all {
@@ -93,15 +34,6 @@
 
 .series-nav-all-link {
   font-size: 13px;
-  color: var(--secondary);
-  text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
-}
-
-.series-nav-all-link:hover {
-  color: var(--primary);
-  border-bottom-color: var(--border);
 }
 
 @media screen and (max-width: 768px) {

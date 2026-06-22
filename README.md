@@ -66,7 +66,7 @@ All notable changes to this project will be documented in this file.
 - Improved Google Analytics configurations
 - Implemented branch protection with GitHub App
 - Implemented related posts
-- Implemetned series post links
+- Implemented series post links
 
 **2026.06.20**
 - Added custom domain

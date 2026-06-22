@@ -19,6 +19,20 @@ from hugo_site import (
 
 SCRIPTS_DIR = Path(__file__).resolve().parent.parent / "scripts"
 POST_VALIDATION_DIR = SCRIPTS_DIR / "post-validation"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def load_repo_module(relative_path: str):
+    """Load any repo .py file by path relative to the repository root."""
+    path = REPO_ROOT / relative_path
+    module_name = f"repo_{path.as_posix().replace('/', '_').replace('-', '_').replace('.', '_')}"
+    spec = importlib.util.spec_from_file_location(module_name, path)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"Cannot load {path}")
+    mod = importlib.util.module_from_spec(spec)
+    sys.modules[module_name] = mod
+    spec.loader.exec_module(mod)
+    return mod
 
 
 def load_check_module(filename: str):
@@ -40,15 +54,7 @@ size_check = load_check_module("image-size-check.py")
 
 def load_script_module(script_name: str):
     """Load a top-level script from scripts/ as a module (for pytest wrappers)."""
-    path = Path(__file__).resolve().parent.parent / "scripts" / script_name
-    module_name = f"script_{path.stem.replace('-', '_')}"
-    spec = importlib.util.spec_from_file_location(module_name, path)
-    if spec is None or spec.loader is None:
-        raise ImportError(f"Cannot load {path}")
-    mod = importlib.util.module_from_spec(spec)
-    sys.modules[module_name] = mod
-    spec.loader.exec_module(mod)
-    return mod
+    return load_repo_module(f"scripts/{script_name}")
 
 
 @pytest.fixture(scope="session")
