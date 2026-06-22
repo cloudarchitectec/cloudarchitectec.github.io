@@ -239,4 +239,4 @@ def quick_analytics_update():
 
 if __name__ == "__main__":
     success = quick_analytics_update()
-    sys.exit(0)  # Always exit successfully to not break the build
+    sys.exit(0 if success else 1)

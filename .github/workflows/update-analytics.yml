@@ -1,6 +1,8 @@
 name: Update Analytics Data
 
 on:
+  schedule:
+    - cron: '0 20 * * 6'  # Sunday 06:00 AEST (Saturday 20:00 UTC)
   workflow_dispatch: # Manual trigger
     inputs:
       force_update:

@@ -24,7 +24,7 @@ disablePathToLower = true
   minifyOutput = true
 
 [params]
-  env = "production" # to enable google analytics, opengraph, twitter-cards and schema.
+  env = "development" # CI sets HUGO_ENV=production for deploy builds; enables GA4 + production meta there
   title = "Cloud Architect EC"
   description = "澳洲雲端架構師 EC 的技術部落格 - Cloud Architect EC's Tech Blog"
   keywords = ["Cloud Architecture", "AWS", "Azure", "Tech Blog", "雲端架構"]

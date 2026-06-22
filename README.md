@@ -36,7 +36,7 @@ For automated checks, use [`scripts/dev-check.sh`](scripts/dev-check.sh) — see
 
 Pre-commit runs `check-posts --staged` on `content/posts/` and list-template lint when `layouts/_default/list.html` is staged.
 
-Pull requests to `main` run the full gate on Ubuntu: strict Hugo build, `verify-build.sh`, all pytest. Locally use `./scripts/dev-check.sh` (fast) or `--full` before PR. See **[TESTING.md](TESTING.md)** for layout, performance, and coverage matrix.
+Pull requests to `main` run the full gate on Ubuntu: strict Hugo build, `verify-build.sh`, all pytest. Locally use `./scripts/dev-check.sh` (fast) or `--full` before PR. See **[TESTING.md](TESTING.md)** for layout, performance, and coverage matrix. GA4 and homepage stats: **[ANALYTICS.md](ANALYTICS.md)**.
 
 ## Test design
 
@@ -63,7 +63,8 @@ All notable changes to this project will be documented in this file.
 - Implemented MailerLite newsletter
 - Fixed hero images
 - Added post & image validation, commmit hook, PR validation
-- Implemented tests
+- Implemented local tests, ui tests, smoke tests, playwright tests, commit hooks, CI tests
+- Improved Google Analytics configurations
 
 **2026.06.20**
 - Added custom domain

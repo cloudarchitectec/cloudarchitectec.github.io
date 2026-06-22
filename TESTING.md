@@ -154,7 +154,7 @@ Workflow: [`.github/workflows/validate-posts.yml`](.github/workflows/validate-po
 
 ## Tier 4 — Deploy CI
 
-Same validation as PR, plus analytics update and GitHub Pages artifact upload.
+Same validation as PR, plus GA4 stats refresh (`data/analytics.json`), analytics failure blocks deploy, and GitHub Pages artifact upload. See [ANALYTICS.md](ANALYTICS.md).
 
 ## Tier 5 — Post-deploy smoke
 

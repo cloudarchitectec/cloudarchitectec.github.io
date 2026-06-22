@@ -57,11 +57,22 @@ jobs:
           submodules: recursive
           fetch-depth: 0
       - name: Update Analytics Data
+        id: analytics
         uses: ./.github/actions/update-analytics
         with:
           google-service-account-key: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
           google-analytics-property-id: ${{ secrets.GOOGLE_ANALYTICS_PROPERTY_ID }}
           commit-message: "📊 Quick analytics update before build"
+      - name: Analytics deploy summary
+        if: success() && steps.analytics.outcome == 'success'
+        run: |
+          {
+            echo "## Analytics (homepage stats widget)"
+            echo "✅ Refreshed from GA4 API before build"
+            if [ -f data/analytics.json ]; then
+              jq -r '"- Page views: " + .formatted.totalPageViews + " (updated " + .lastUpdated + ")"' data/analytics.json
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
       - name: Update submodules
         run: |
           echo "Initial submodule status:"
