@@ -10,10 +10,27 @@ A EC CLI tool to automate blog post creation with Unsplash images.
    pip3 install -r requirements.txt
    ```
 
-2. **No setup required!**
-   - Browse [Unsplash](https://unsplash.com) to find the perfect image
-   - Copy the photo URL (e.g., `https://unsplash.com/photos/7bUF0Wf27dY`)
-   - Script downloads and processes it automatically
+2. **Add Unsplash API key** to repo-root `.env`:
+   ```
+   UNSPLASH_ACCESS_KEY=your_key_here
+   ```
+
+3. **Browse [Unsplash](https://unsplash.com)**, copy the photo URL for the cover hero.
+
+## Post rules enforced (matches `scripts/check-posts.py`)
+
+| Rule | Converter behaviour |
+|------|---------------------|
+| `cover.image` + `cover.alt` + `cover.credit` | Generated for Unsplash heroes (`{photoId}-unsplash.jpg`) |
+| `images:` includes cover path | All bundle JPEGs/PNGs listed in `images:` |
+| Baseline JPEG | Normalized after every Unsplash download |
+| Cover size limits | Warns/errors via `image-size-check.py` after download |
+| No `{{< footer >}}` | Stripped if present; footer is layout-driven |
+| `slug` matches directory | Slug `{date}-{file-stem}` used for folder name |
+| Published posts need cover | Warns if you skip cover — use `draft: true` for bootcamp drafts |
+| Validation before copy | Runs `scripts/check-posts.py --post` automatically |
+
+See [`TESTING.md`](../../TESTING.md) for the full validation tiers.
 
 ## How to Use
 
@@ -37,9 +54,7 @@ A EC CLI tool to automate blog post creation with Unsplash images.
      4. 澳洲生活
      ```
    - **Tags:** Type whatever, comma-separated
-   - **Unsplash URL:** Browse Unsplash.com, find your image, copy the URL
-     - Example: `https://unsplash.com/photos/laptop-coffee-7bUF0Wf27dY`
-     - Or press Enter to skip adding an image
+   - **Unsplash URL:** Required for published posts (cover.image). Press `n` only for drafts — add `draft: true` manually before publishing.
 
 4. **Check output:** `tools/blog-converter/output/2025-10-12-your-slug/`
    - `index.md` - Your complete blog post (ready to publish)

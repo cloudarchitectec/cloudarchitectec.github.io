@@ -41,7 +41,15 @@
       </div>
     </div>
 
-    <script src="{{ "js/mailerlite-success.js" | absURL }}" defer></script>
+    <script>
+    (function (id) {
+      window['ml_webform_success_' + id] = function () {
+        var $ = ml_jQuery || jQuery;
+        $('.ml-subscribe-form-' + id + ' .row-success').show();
+        $('.ml-subscribe-form-' + id + ' .row-form').hide();
+      };
+    })('{{ .Site.Params.newsletter.embedId }}');
+    </script>
     <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v83147fa8ce2d95cb73ece7f28b469519" defer></script>
     {{- end }}
     <div class="post-footer-cta-coffee{{ if .Site.Params.newsletter.enabled }} post-footer-cta-coffee--divider{{ end }}">

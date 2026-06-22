@@ -252,6 +252,34 @@ def build_cover_credit(metadata: dict) -> dict[str, str]:
     }
 
 
+def list_bundle_image_paths(images_dir: Path) -> list[str]:
+    """Return sorted images/… paths for all files in the post bundle."""
+    if not images_dir.is_dir():
+        return []
+    image_extensions = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
+    names = sorted(
+        f.name
+        for f in images_dir.iterdir()
+        if f.is_file() and f.suffix.lower() in image_extensions
+    )
+    return [f"images/{name}" for name in names]
+
+
+def warn_cover_image_size(image_path: Path) -> bool:
+    """Print size-check warnings/errors for a downloaded cover. Returns False on hard errors."""
+    size_check = load_size_check_module()
+    info = size_check.read_image_info(image_path)
+    if info is None:
+        click.echo(f"⚠️  Could not read image metadata: {image_path.name}")
+        return True
+    warnings, errors = size_check.check_info(info, "cover")
+    for warning in warnings:
+        click.echo(f"⚠️  {warning}")
+    for error in errors:
+        click.echo(f"❌ {error}")
+    return not errors
+
+
 def generate_front_matter(
     title,
     slug,
@@ -259,12 +287,14 @@ def generate_front_matter(
     categories,
     tags,
     image_filename,
+    images_list,
     alt_text=None,
     credit=None,
 ):
     """Generate Hugo front matter with cover block when a hero image is set."""
     image_path = f"images/{image_filename}" if image_filename else ""
-    images_list = [image_path] if image_filename else []
+    if image_filename and image_path not in images_list:
+        images_list = [image_path, *images_list]
 
     lines = [
         "---",
@@ -421,6 +451,12 @@ def main(input_file, auto_copy, no_hugo):
     click.echo("\n🖼️  Image handling:")
     add_image = click.prompt("Add a cover image from Unsplash? (y/n)", default="y").lower() == "y"
 
+    if not add_image:
+        click.echo(
+            "⚠️  Published posts require cover.image — use draft: true for bootcamp drafts, "
+            "or add a cover before running check-posts / publishing."
+        )
+
     if add_image:
         unsplash_url = click.prompt("🔗 Paste Unsplash photo URL").strip()
 
@@ -455,6 +491,10 @@ def main(input_file, auto_copy, no_hugo):
                 break
             click.echo("❌ Alt text is required when adding a cover image.")
 
+        if not warn_cover_image_size(image_path):
+            sys.exit(1)
+
+    images_list = list_bundle_image_paths(images_dir)
     clean_content = strip_legacy_footer_shortcode(remove_front_matter(content))
     front_matter = generate_front_matter(
         extracted_title,
@@ -463,6 +503,7 @@ def main(input_file, auto_copy, no_hugo):
         selected_categories,
         tags,
         image_filename,
+        images_list,
         alt_text=alt_text,
         credit=cover_credit,
     )
@@ -508,7 +549,7 @@ def main(input_file, auto_copy, no_hugo):
         try:
             os.chdir(PROJECT_ROOT)
             subprocess.Popen(
-                ["hugo", "server", "-D"],
+                ["hugo", "server"],
                 stdout=subprocess.DEVNULL,
                 stderr=subprocess.DEVNULL,
             )

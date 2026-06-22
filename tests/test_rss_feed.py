@@ -3,38 +3,19 @@
 from __future__ import annotations
 
 import re
-import shutil
-import subprocess
 import xml.etree.ElementTree as ET
-from pathlib import Path
 
 import pytest
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-RSS_PATH = REPO_ROOT / "public" / "index.xml"
 NS = {
     "media": "http://search.yahoo.com/mrss/",
     "content": "http://purl.org/rss/1.0/modules/content/",
 }
 
 
-def hugo_available() -> bool:
-    return shutil.which("hugo") is not None
-
-
-@pytest.fixture(scope="module")
-def built_rss():
-    if not hugo_available():
-        pytest.skip("hugo not installed")
-    result = subprocess.run(
-        ["hugo", "--gc", "--minify", "--cleanDestinationDir"],
-        cwd=REPO_ROOT,
-        capture_output=True,
-        text=True,
-    )
-    if result.returncode != 0:
-        pytest.fail(f"hugo build failed:\n{result.stdout}\n{result.stderr}")
-    return RSS_PATH.read_text(encoding="utf-8")
+@pytest.fixture(scope="session")
+def built_rss(built_site):
+    return (built_site / "index.xml").read_text(encoding="utf-8")
 
 
 def item_for_slug(rss_text: str, slug: str) -> ET.Element | None:
