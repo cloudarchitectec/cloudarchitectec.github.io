@@ -96,6 +96,7 @@ class TestFrontmatterCheck:
     def test_landing_page_passes(self):
         text = wrap(
             'title: "List"\ndate: 2018-01-02\nslug: "2018-01-02-ec-post-list"\n'
+            'categories: ["EC"]\n'
             'cover:\n  image: "images/x.jpg"\n  alt: "x"\nimages: ["images/x.jpg"]',
             body=f"{{{{< categorized-posts >}}}}",
         )
@@ -103,7 +104,7 @@ class TestFrontmatterCheck:
 
     def test_draft_without_cover_passes(self):
         text = wrap(
-            'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ndraft: true',
+            'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ncategories: ["海外職場"]\ndraft: true',
             body="No cover.",
         )
         assert frontmatter_check.check(text, "draft-post") == []
@@ -118,6 +119,24 @@ class TestFrontmatterCheck:
     def test_unquoted_title_passes(self):
         text = GOOD_POST.replace('title: "Test post"', "title: 中文標題 without quotes")
         assert not any("title" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_missing_categories_rejected(self):
+        text = GOOD_POST.replace('categories: ["海外職場"]\n', "")
+        assert any("categories" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_unknown_category_rejected(self):
+        text = GOOD_POST.replace('categories: ["海外職場"]', 'categories: ["不存在"]')
+        assert any("unknown category" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_multiple_categories_rejected(self):
+        text = GOOD_POST.replace(
+            'categories: ["海外職場"]',
+            'categories: ["海外職場", "旅行紀錄"]',
+        )
+        assert any("exactly one" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_allowed_categories_include_bootcamp_series(self):
+        assert "零基礎轉職澳洲工程師" in frontmatter_check.ALLOWED_CATEGORIES
 
 
 class TestCheckPostsGitPaths:

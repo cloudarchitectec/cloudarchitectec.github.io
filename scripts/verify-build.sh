@@ -41,6 +41,10 @@ grep -rl 'dashboard.mailerlite.com/jsonp/2459287/forms/190870271382520893/subscr
   && echo "✅ MailerLite subscribe action present in posts" \
   || (echo "❌ MailerLite subscribe action not found" && exit 1)
 
+grep -rl "related-posts" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
+  && echo "✅ Related posts block present in built posts" \
+  || (echo "❌ Related posts block missing — check layouts/partials/related_posts.html" && exit 1)
+
 TAG_LIST="${PUBLIC_DIR}/tags/devops-工程師/index.html"
 [ -f "$TAG_LIST" ] || (echo "❌ Tag list page not built: $TAG_LIST" && exit 1)
 

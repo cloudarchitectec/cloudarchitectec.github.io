@@ -25,6 +25,16 @@ split_post = _cover.split_post
 
 FOOTER_LEGACY = re.compile(r"\{\{<\s*footer\s*>\}\}")
 
+# Internal taxonomy for related-post matching (not shown on post pages).
+ALLOWED_CATEGORIES = frozenset({
+    "EC",
+    "零基礎轉職澳洲工程師",
+    "海外職場",
+    "澳洲生活",
+    "投資理財",
+    "旅行紀錄",
+})
+
 
 def get_fm_scalar(fm: str, key: str) -> str | None:
     for line in fm.splitlines():
@@ -47,6 +57,41 @@ def is_draft(fm: str) -> bool:
     return val is not None and val.lower() == "true"
 
 
+def get_fm_categories(fm: str) -> list[str]:
+    """Parse categories: [\"a\", \"b\"] from front matter."""
+    for line in fm.splitlines():
+        m = re.match(r"^\s*categories:\s*\[(.*)\]\s*$", line)
+        if not m:
+            continue
+        inner = m.group(1)
+        values = re.findall(r'"([^"]+)"', inner)
+        if not values:
+            values = re.findall(r"'([^']+)'", inner)
+        return values
+    return []
+
+
+def check_categories(fm: str) -> list[str]:
+    errors: list[str] = []
+    categories = get_fm_categories(fm)
+    if not categories:
+        errors.append(
+            "required front matter missing: categories "
+            f"(allowed: {', '.join(sorted(ALLOWED_CATEGORIES))})"
+        )
+        return errors
+    if len(categories) != 1:
+        errors.append(
+            f"categories must contain exactly one value (found {len(categories)}: {categories!r})"
+        )
+        return errors
+    category = categories[0]
+    if category not in ALLOWED_CATEGORIES:
+        allowed = ", ".join(sorted(ALLOWED_CATEGORIES))
+        errors.append(f"unknown category: {category!r} (allowed: {allowed})")
+    return errors
+
+
 def check(text: str, dir_name: str) -> list[str]:
     """Return front matter and body convention violations."""
     fm, body = split_post(text)
@@ -59,6 +104,8 @@ def check(text: str, dir_name: str) -> list[str]:
     slug = (get_fm_scalar(fm, "slug") or "").strip()
     if slug and slug != dir_name:
         errors.append(f"slug must match directory name (slug={slug!r}, dir={dir_name!r})")
+
+    errors.extend(check_categories(fm))
 
     body_stripped = body.rstrip()
     if FOOTER_LEGACY.search(body_stripped):

@@ -62,9 +62,9 @@ All notable changes to this project will be documented in this file.
 **2026.06.22**
 - Implemented MailerLite newsletter
 - Fixed hero images
-- Added post & image validation, commmit hook, PR validation
-- Implemented local tests, ui tests, smoke tests, playwright tests, commit hooks, CI tests
+- Implemented post & image validation, local tests, ui tests, smoke tests, playwright tests, commit hooks, CI tests
 - Improved Google Analytics configurations
+- Implemented branch protection with GitHub App
 
 **2026.06.20**
 - Added custom domain

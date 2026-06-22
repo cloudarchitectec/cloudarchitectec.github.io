@@ -1,0 +1,18 @@
+{{- $cat := index .Params.categories 0 -}}
+{{- if $cat -}}
+  {{- $pool := where site.RegularPages "Type" "posts" -}}
+  {{- $pool = where $pool "Draft" false -}}
+  {{- $pool = where $pool "Params.categories" "intersect" (slice $cat) -}}
+  {{- $pool = where $pool "Permalink" "ne" .Permalink -}}
+  {{- $related := first 3 ($pool.ByDate.Reverse) -}}
+  {{- if gt (len $related) 0 -}}
+<nav class="related-posts" aria-label="延伸閱讀">
+  <h2 class="related-posts-heading">延伸閱讀</h2>
+  <ul class="related-posts-list">
+    {{- range $related }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{- end }}
+  </ul>
+</nav>
+  {{- end -}}
+{{- end -}}

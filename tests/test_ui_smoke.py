@@ -12,6 +12,7 @@ TAG_PAGE = "/tags/devops-工程師/"
 PAGINATED_TAG_PAGE = "/tags/旅遊/page/2/"
 CATEGORY_PAGE = "/categories/旅行紀錄/"
 STABLE_POST = "/posts/2025-10-04-goodbye-medium/"
+RELATED_POST = "/posts/2026-06-17-retirement-plan/"
 
 
 def visible_non_empty_text(page: Page, selector: str, limit: int = 10) -> list[str]:
@@ -56,6 +57,13 @@ class TestUiSmoke:
         expect(page.locator("h1.post-title")).to_be_visible()
         expect(page.locator(".post-footer-cta")).to_be_visible()
         expect(page.get_by_text("訂閱 EC 部落格")).to_be_visible()
+
+    def test_related_posts_on_investment_post(self, page: Page):
+        page.goto(RELATED_POST)
+        related = page.locator(".related-posts")
+        expect(related).to_be_visible()
+        expect(related.locator(".related-posts-heading")).to_have_text("延伸閱讀")
+        assert related.locator(".related-posts-list a").count() >= 1
 
     def test_tags_index_has_links(self, page: Page):
         page.goto("/tags/")
