@@ -22,13 +22,13 @@
     <a class="series-nav-all-link" href="{{ $seriesTerm.RelPermalink }}">點此前往全系列 (共 {{ $seriesCount }} 篇)</a>
   </p>
     {{- else -}}
-  <ol class="series-nav-list">
+  <ul class="series-nav-list">
       {{- range $seriesPosts -}}
     <li{{- if eq .Permalink $page.Permalink }} class="is-current"{{- end -}}>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </li>
       {{- end -}}
-  </ol>
+  </ul>
     {{- end -}}
 </nav>
   {{- end -}}
