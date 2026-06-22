@@ -1,4 +1,5 @@
 ---
+
 title: "兩個女生的紐西蘭自駕滑雪行: 行程與花費分享"
 date: 2024-09-02
 slug: "2024-09-02-nz-summary"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*fYVrU-_MGwq3cCGa.jpg', 'images/medium-1*l4agWJo9uDFS4v_vxzPkbQ.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpg', 'images/medium-1*RmSzmQImTeB5cfExNZd0cQ.jpg', 'images/medium-1*kuMTQe2hpKMN3xn8cLWUDg.png']
 categories: ["旅行紀錄"]
 tags: ["旅遊","自駕","滑雪","紐西蘭"]
-
+episodeseries: ["紐西蘭旅記"]
 ---
 
 應讀者要求，決定要來開展一個新系列「兩個女生的紐西蘭自駕滑雪行 🇳🇿」分享我的紐西蘭遊記～ 大家如果有其他想看的主題，記得留言給我說！只要有許願的話，願望通常都會實現喔XD

@@ -1,4 +1,5 @@
 ---
+
 title: "好想要退休！土地為王？多災多難的澳洲投資房心路歷程"
 date: 2024-10-31
 slug: "2024-10-31-investment-property"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*_0-V-suAcMoCTTFl.jpg']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE","澳洲房地產", "退休規劃"]
-
+episodeseries: ["好想要退休"]
 ---
 
 唉～ 文章一開始，EC 就想要先大嘆一口氣！最近我的投資房又發生一些令人百思不得其解的事，回頭一想，這個投資房從購入開始就一路不順 (everything could go wrong, all went wrong 😂)，難道是我命犯房地產投資？囧

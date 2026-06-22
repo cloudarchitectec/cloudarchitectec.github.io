@@ -1,0 +1,43 @@
+/* Episodic series nav — after share buttons, before article body */
+
+.series-nav {
+  margin: 1.25rem 0 1.5rem;
+  padding: 1rem 1.1rem;
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.series-nav-heading {
+  margin: 0 0 0.75rem;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--primary);
+}
+
+.series-nav-list a,
+.series-nav-recent a {
+  font-size: 14px;
+}
+
+.series-nav-recent {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.series-nav-all {
+  margin: 0.75rem 0 0;
+  padding: 0;
+}
+
+.series-nav-all-link {
+  font-size: 13px;
+}
+
+@media screen and (max-width: 768px) {
+  .series-nav {
+    padding: 0.85rem 0.9rem;
+  }
+}

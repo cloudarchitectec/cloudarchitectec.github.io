@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.10.05 結束第一學期!"
 date: 2019-10-05
 slug: "2019-10-05-here-comes-the-term-break"
@@ -12,6 +13,7 @@ cover:
 images: ["images/mJZn0eZUzh0-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 ## 2019-10-04

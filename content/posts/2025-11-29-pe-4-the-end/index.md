@@ -1,4 +1,5 @@
 ---
+
 title: "[我要升官加薪] 大結局：沒有升官加薪，但我很好"
 date: 2025-11-29
 slug: "2025-11-29-pe-4-the-end"
@@ -12,7 +13,7 @@ cover:
 images: ["images/frank-albrecht-WDVbXsVUncQ-unsplash.jpg"]
 categories: ["海外職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
-
+episodeseries: ["我要升官加薪"]
 ---
 
       

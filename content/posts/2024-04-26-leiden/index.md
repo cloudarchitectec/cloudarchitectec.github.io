@@ -1,4 +1,5 @@
 ---
+
 title: "一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城"
 date: 2024-04-26
 slug: "2024-04-26-leiden"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*IcIxYfmDj7yFquPtuetqig.jpg', 'images/medium-1*2FO_UWgti4F4nK47xxhICQ.jpg', 'images/medium-1*YwJ2207AgfuAjBouzmEa6w.jpg', 'images/medium-1*3CgVmtfBI8lh0QMUfb2D4Q.jpg', 'images/medium-1*0s3FAE_foWD-2171Szt2Gg.jpg', 'images/medium-1*fU7GqJJRGuuMe69EjziGGg.jpg', 'images/medium-1*ijbRlm1jWZvcHqxCd1kS1A.jpg', 'images/medium-1*N3kvI9lyHpGiZq7C-KY3Hw.jpg', 'images/medium-1*R3AJTFraMz0I1zi0QkzzPw.jpg', 'images/medium-1*lifX30Gy89SMk862DhxAKg.jpg', 'images/medium-1*50KNZ2p6tQvcqdwZk8h0WA.jpg', 'images/medium-1*1JKWd3vrZtydhY9Xe6obuA.jpg', 'images/medium-0*zOi-ZhUCNDH0-r1O.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "荷蘭"]
-
+episodeseries: ["一個女生的歐洲獨旅"]
 ---
 
 * * *

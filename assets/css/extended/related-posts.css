@@ -1,0 +1,37 @@
+/* Related posts — compact list above subscribe CTA */
+
+.related-posts {
+  margin: 1.75rem 0 1.5rem;
+  padding: 1.25rem 0 0;
+  border-top: 1px solid var(--border);
+}
+
+.related-posts-heading {
+  margin: 0 0 0.85rem;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.35;
+  color: var(--primary);
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.related-posts-list {
+  margin: 0;
+  padding: 0 0 0 1.1rem;
+  list-style: disc;
+}
+
+.related-posts-list li {
+  margin: 0.45rem 0;
+  display: list-item;
+}
+
+.related-posts-list li::marker {
+  color: var(--secondary);
+}
+
+.related-posts-list a {
+  font-size: 15px;
+  line-height: 1.5;
+}

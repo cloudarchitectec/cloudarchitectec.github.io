@@ -1,4 +1,5 @@
 ---
+
 title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.01 探訪魔戒拍攝景點哈比村"
 date: 2024-09-01
 slug: "2024-09-01-nz-day2"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*fYu-v4X8mAW78q0pV0KteA.jpg', 'images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpg', 'images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpg', 'images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpg', 'images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpg', 'images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpg', 'images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpg', 'images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpg', 'images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpg', 'images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpg', 'images/medium-1*87pxJDNxemsffVQgTd1gQg.jpg', 'images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpg', 'images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","自駕","滑雪","紐西蘭"]
-
+episodeseries: ["紐西蘭旅記"]
 ---
 
 今天開車前往魔戒與哈比人的拍攝景點，哈比村！

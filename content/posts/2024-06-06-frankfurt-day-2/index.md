@@ -1,4 +1,5 @@
 ---
+
 title: "一個女生的歐洲獨旅: 2024.04.29 德國 法蘭克福 (Frankfurt) Day 2 — 不來也沒關係的城市"
 date: 2024-06-06
 slug: "2024-06-06-frankfurt-day-2"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*RdunKCqJGRXfyMnfwQJ9KQ.jpg', 'images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpg', 'images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpg', 'images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpg', 'images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpg', 'images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpg', 'images/medium-1*JueQdVN97WE9XSCXPakwkA.jpg', 'images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpg', 'images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpg', 'images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpg', 'images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpg', 'images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpg', 'images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpg', 'images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpg', 'images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpg', 'images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpg', 'images/medium-1*ELy7knYb5OLxKAPt3Ie-nw.jpg', 'images/medium-1*9NMq9XZuQy2aYj41HEIjrA.jpg', 'images/medium-0*7Abpr4b15mBmDLsK.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "德國"]
-
+episodeseries: ["一個女生的歐洲獨旅"]
 ---
 
 * * *

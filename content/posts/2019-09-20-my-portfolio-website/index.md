@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.09.19-20 第二個作業：個人網站完成"
 date: 2019-09-20
 slug: "2019-09-20-my-portfolio-website"
@@ -12,6 +13,7 @@ cover:
 images: ["images/hGV2TfOh0ns-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 ## 2019-09-19

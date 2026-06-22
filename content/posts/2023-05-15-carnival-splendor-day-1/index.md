@@ -1,4 +1,5 @@
 ---
+
 title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.15 — Day 1 雪梨登船"
 date: 2023-05-15
 slug: "2023-05-15-carnival-splendor-day-1"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*_BLHxdyFQQzbm-Sg.jpg', 'images/medium-1*9VkvnBxVqpdapqOWreIMLg.png', 'images/medium-1*x6LKifrtorOnK9sxiX0h9Q.jpg', 'images/medium-1*D0Jc3uYW_mTTSjCQCjSIdA.jpg', 'images/medium-1*NGs8vDgoTxS8ea4He7OHzw.jpg', 'images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpg', 'images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpg', 'images/medium-1*Qvetd6cVsxK8xkBuGM6UmA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "萬那杜", "新喀里多尼亞", "郵輪"]
-
+episodeseries: ["Carnival Splendor 郵輪"]
 ---
 
 * * *

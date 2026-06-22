@@ -1,4 +1,5 @@
 ---
+
 title: "[我要升官加薪] 第一集：天上掉下來的... Principal Engineer 職位?"
 date: 2025-11-14
 slug: "2025-11-14-pe-1-pe-or-not"
@@ -12,7 +13,7 @@ cover:
 images: ["images/christoph-theisinger-B4mV8nB8pGA-unsplash.jpg"]
 categories: ["海外職場"]
 tags: [ "科技業", "Diversity", "DevOps 工程師", "職涯"]
-
+episodeseries: ["我要升官加薪"]
 ---
 
 **2025.10.09 | 布里斯本**

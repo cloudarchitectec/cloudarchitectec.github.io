@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.09.16-17 心態轉換成功"
 date: 2019-09-16
 slug: "2019-09-16-catch-up-with-teacher"
@@ -12,7 +13,7 @@ cover:
 images: ["images/IfG0gYY32G4-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 ### 2019-09-16

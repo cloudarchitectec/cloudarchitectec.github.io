@@ -1,4 +1,5 @@
 ---
+
 title: "太平洋小島上的大冒險：2025.04.19 Vanuatu Day 1 一個女生勇闖萬那杜"
 date: 2025-04-19
 slug: "2025-04-19-vanuatu-day-1"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*uHXDhgoOiMBC9PelmDco_w.jpg', 'images/medium-1*_64xIIvnxgdeBNT2qcldpA.jpg', 'images/medium-1*nJwNDbCmRfuUUm3255-gyg.jpg', 'images/medium-1*a-GIwdmbrmRB9i0MbQaFfQ.jpg', 'images/medium-1*6ikpMkD1BuhbP0tq66oS9g.jpg', 'images/medium-1*MEZnxmMnNWPK2AJSXXvs6g.jpg', 'images/medium-1*3OVxL86nWcZaJrK15HKuEA.jpg', 'images/medium-1*GuXfAyZ0DqpLAPJZMKFMRg.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
-
+episodeseries: ["萬那杜旅記"]
 ---
 
 ### 前言

@@ -1,4 +1,5 @@
 ---
+
 title: "一個女生的歐洲獨旅: 2024.05.06 瑞士茵特拉肯 (Interlaken) Day 2: 少女峰 (Jungfraujoch) 我來了"
 date: 2024-07-13
 slug: "2024-07-13-interlaken-day-2"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*FKFO1iIoEihVDTSUawOK7g.jpg', 'images/medium-1*4_ros_GnNM5a6f6KFkFBTA.jpg', 'images/medium-1*OUsYKhQqw4Iw0KiY1s1UcA.jpg', 'images/medium-1*YZdaYtKNuIgjeRCl1M8Oaw.jpg', 'images/medium-1*fDxKKDLF_1NncOV6OWOYEA.jpg', 'images/medium-1*wsPbfkR_gE7AqiYeF0fZjQ.jpg', 'images/medium-1*anhkWVoujSO9PUXyZhXylQ.jpg', 'images/medium-1*BqXkSsIzn7NKRdzQz4F14w.jpg', 'images/medium-1*V6yVfY5e-xc1meY5A611qA.jpg', 'images/medium-1*fTGsJSE0BOmbOzq7opfkCw.jpg', 'images/medium-1*m-SrPJ290vkMQhp8GokNtg.jpg', 'images/medium-1*0LHs1jw9rGp7t0TWAW88tg.jpg', 'images/medium-1*0gTDz3-Iz4_EYu_DZKGzLw.jpg', 'images/medium-0*oIRZcoDMy4YKZ_O8.png']
 categories: ["旅行紀錄"]
 tags: ["獨旅","旅遊", "歐洲", "瑞士"]
-
+episodeseries: ["一個女生的歐洲獨旅"]
 ---
 
 ![瑞士飯店豐盛歐陸式早餐](images/medium-1*4_ros_GnNM5a6f6KFkFBTA.jpg)

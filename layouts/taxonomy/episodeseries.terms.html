@@ -1,0 +1,14 @@
+{{- define "main" }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>系列文章</h1>
+</header>
+
+<ul class="terms-tags">
+  {{- range .Data.Terms.Alphabetical }}
+  <li>
+    <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}系列 <sup><strong>{{ .Count }}</strong></sup></a>
+  </li>
+  {{- end }}
+</ul>
+{{- end }}

@@ -1,4 +1,5 @@
 ---
+
 title: "斐濟自助旅遊 2022.10.13 Day 4 — 斐濟最棒的海上酒吧 Cloud 9"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-4"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*cpXgPyWwKhUznpXc.jpg', 'images/medium-0*vhZbyYyLxbPgLK8q.jpg', 'images/medium-0*QcchKBHhmEXEnYp_.jpg', 'images/medium-0*7WzJ_c1ClUre89qX.jpg', 'images/medium-0*MoG9skNBqOdBbm8e.jpg', 'images/medium-0*0i5Qtp7dsBw_-J9O.jpg', 'images/medium-0*DCghkyylWU5GChrP.jpg', 'images/medium-0*e9919yt2HkiYs2cK.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "斐濟"]
-
+episodeseries: ["斐濟旅記"]
 ---
 
 Cloud 9 這個酒吧在離本島搭船1小時的海上，它其實不是一個島，而是一個浮在海上的動力艇。

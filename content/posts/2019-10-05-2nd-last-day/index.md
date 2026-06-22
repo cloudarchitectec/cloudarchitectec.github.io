@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.10.01 & 03 團體作業的真諦就是：緊抱大樹好乘涼啊"
 date: 2019-10-05
 slug: "2019-10-05-2nd-last-day"
@@ -12,6 +13,7 @@ cover:
 images: ["images/Hn-51uPiyBc-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 # 2019-10-01

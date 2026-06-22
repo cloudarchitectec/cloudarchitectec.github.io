@@ -1,0 +1,63 @@
+"""RSS feed checks — standard index.xml cover.image as media:content."""
+
+from __future__ import annotations
+
+import re
+import xml.etree.ElementTree as ET
+
+import pytest
+
+NS = {
+    "media": "http://search.yahoo.com/mrss/",
+    "content": "http://purl.org/rss/1.0/modules/content/",
+}
+
+
+@pytest.fixture(scope="session")
+def built_rss(built_site):
+    return (built_site / "index.xml").read_text(encoding="utf-8")
+
+
+def item_for_slug(rss_text: str, slug: str) -> ET.Element | None:
+    root = ET.fromstring(rss_text)
+    channel = root.find("channel")
+    assert channel is not None
+    for item in channel.findall("item"):
+        link = item.findtext("link") or ""
+        if slug in link:
+            return item
+    return None
+
+
+def first_img_src(description: str) -> str | None:
+    match = re.search(r'src="([^"]+)"', description)
+    return match.group(1) if match else None
+
+
+class TestStandardRss:
+    def test_retirement_post_has_media_content_for_cover(self, built_rss):
+        """Standard feed exposes cover.image as media:content for feed readers."""
+        item = item_for_slug(built_rss, "2026-06-17-retirement-plan")
+        assert item is not None, "retirement-plan item missing from index.xml"
+        media = item.find("media:content", NS)
+        assert media is not None, "expected media:content for cover.image post"
+        url = media.get("url") or ""
+        assert "cEukkv42O40-unsplash" in url, f"unexpected cover URL: {url}"
+        assert "/posts/2026-06-17-retirement-plan/" in url, f"cover must be post bundle URL, got: {url}"
+        assert url.startswith("http"), url
+
+    def test_standard_feed_does_not_inject_cover_into_description(self, built_rss):
+        """index.xml stays clean — no hero img in excerpt."""
+        item = item_for_slug(built_rss, "2026-06-17-retirement-plan")
+        assert item is not None
+        desc = item.findtext("description") or ""
+        assert first_img_src(desc) is None
+
+    def test_posts_with_cover_have_media_content(self, built_rss):
+        for slug in ("2026-06-17-retirement-plan", "2026-05-17-sydney-mca"):
+            item = item_for_slug(built_rss, slug)
+            assert item is not None, slug
+            assert item.find("media:content", NS) is not None, slug
+
+    def test_rss_declares_media_namespace(self, built_rss):
+        assert "xmlns:media=" in built_rss or "media:content" in built_rss

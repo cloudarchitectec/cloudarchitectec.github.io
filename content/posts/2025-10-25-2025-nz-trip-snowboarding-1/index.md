@@ -1,4 +1,5 @@
 ---
+
 title: "紐西蘭北島滑雪之旅(上集)：2025.08.10-08.15 滑雪之外的 400 公里自駕與溫泉天堂"
 date: 2025-10-25
 slug: "2025-10-25-2025-nz-trip-snowboarding-1"
@@ -8,7 +9,7 @@ cover:
 images: ["images/blue-spring.jpeg","images/flight-macca.jpeg","images/cows.jpeg"]
 categories: ["旅行紀錄"]
 tags: ["旅遊", "自駕", "滑雪", "紐西蘭"]
-
+episodeseries: ["2025 紐西蘭滑雪之旅"]
 ---
 
 請問是誰，連續兩年都去紐西蘭北島自駕滑雪？就是 EC 我XDDD

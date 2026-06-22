@@ -1,4 +1,5 @@
 ---
+
 title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.24 — 返回雪梨 & 心得總結"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-10"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*4xClj01A8eWbKuXDMuIDBA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "新喀里多尼亞"]
-
+episodeseries: ["Carnival Splendor 郵輪"]
 ---
 
 * * *

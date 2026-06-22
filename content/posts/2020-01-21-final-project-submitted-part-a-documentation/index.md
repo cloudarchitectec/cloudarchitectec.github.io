@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2020.01.21 Final Project – Submitted Part A Documentation"
 date: 2020-01-21
 slug: "2020-01-21-final-project-submitted-part-a-documentation"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 ### 2020-01-17

@@ -1,4 +1,5 @@
 ---
+
 title: "好想要退休！我與退休之間的距離：澳洲工程師是否比台灣更容易達成財務自由 (FIRE)？"
 date: 2024-09-27
 slug: "2024-09-27-how-long-tofire"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*6FlTC363YDM-gs_Z.jpg', 'images/medium-1*rkIptS4JB3s25EeI8Z9KsA.png', 'images/medium-1*tILRbx_NtxQzJL_kx31oQg.png', 'images/medium-1*0zV01KykJx7kRSEZfgZgsA.png']
 categories: ["投資理財"]
 tags: ["好想要退休", "FIRE", "退休規劃"]
-
+episodeseries: ["好想要退休"]
 ---
 
 過去幾年 EC 總是三不五時嚷嚷著要退休，有一陣子也很熱衷於吸收有關 FIRE ([Financial Independence, Retire Early](https://zh.wikipedia.org/zh-tw/FIRE%E8%BF%90%E5%8A%A8)) 運動的資訊，也投資了一些指數基金（ETFs）。
@@ -42,7 +43,7 @@ Covid 後，澳洲的房貸利率一路從 2% 攀升到現在的 6.6%，EC 身�
 
   * 2024: 8天紐西蘭
 
-[《兩個女生的紐西蘭自駕滑雪行：行程與花費分享》](/posts/2024-09-02-2024-nz-summary/)
+[《兩個女生的紐西蘭自駕滑雪行：行程與花費分享》](/posts/2024-09-02-nz-summary/)
 
 ### 反思投資策略
 

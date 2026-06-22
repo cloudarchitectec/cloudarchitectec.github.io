@@ -1,0 +1,16 @@
+{{- define "main" }}
+<header class="page-header">
+  {{- partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}系列</h1>
+  <div class="post-description">共 {{ len .Pages }} 篇，依發布順序排列</div>
+</header>
+
+<ol class="series-term-list">
+  {{- range collections.Sort .Pages "Date" "asc" }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <span class="series-term-date">{{ .Date.Format "2006-01-02" }}</span>
+  </li>
+  {{- end }}
+</ol>
+{{- end }}

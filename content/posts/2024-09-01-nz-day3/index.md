@@ -1,4 +1,5 @@
 ---
+
 title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.02–09.03 Whakapapa 雪場自駕+裝備+課程體驗總整理"
 date: 2024-09-01
 slug: "2024-09-01-nz-day3"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*4NXWlJYxDtxz6NWisDdDpA.jpg', 'images/medium-1*gk5xpoyK4lLNepyubVabGw.jpg', 'images/medium-1*BeoM54StZPRhqubSf3dYkg.jpg', 'images/medium-1*oKNMisLM9lFFS9zSmmQ1qg.jpg', 'images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpg', 'images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpg', 'images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpg', 'images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpg', 'images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","自駕","滑雪","紐西蘭"]
-
+episodeseries: ["紐西蘭旅記"]
 ---
 
 終於迎來這次紐西蘭北島的重點行程：滑雪！

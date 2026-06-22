@@ -7,3 +7,9 @@ repos:
         language: system
         files: ^content/posts/
         pass_filenames: false
+      - id: list-template-lint
+        name: list template structure
+        entry: bash -c 'if [ -x .venv/bin/pytest ]; then .venv/bin/pytest tests/test_list_pages.py::TestListTemplateStructure -q; else pytest tests/test_list_pages.py::TestListTemplateStructure -q; fi'
+        language: system
+        files: ^layouts/_default/list\.html$
+        pass_filenames: false

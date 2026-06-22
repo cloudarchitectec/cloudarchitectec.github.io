@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Resize/compress post bundle images that exceed soft size limits."""
+"""Resize/compress post bundle images; optionally fix progressive JPEG covers."""
 
 from __future__ import annotations
 
@@ -38,9 +38,23 @@ def iter_posts(only: Path | None = None):
     yield from sorted(POSTS_DIR.rglob("index.md"))
 
 
+def iter_post_jpegs(post_dir: Path):
+    images_dir = post_dir / "images"
+    if not images_dir.is_dir():
+        return
+    for path in sorted(images_dir.iterdir()):
+        if path.is_file() and path.suffix.lower() in {".jpg", ".jpeg"}:
+            yield path
+
+
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Optimize oversized post bundle images")
+    parser = argparse.ArgumentParser(description="Optimize post bundle images")
     parser.add_argument("--post", metavar="SLUG", help="Single post slug or path")
+    parser.add_argument(
+        "--fix-progressive",
+        action="store_true",
+        help="Re-encode progressive JPEGs as baseline (better tool compatibility)",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Report only")
     parser.add_argument("--apply", action="store_true", help="Write optimized files")
     args = parser.parse_args()
@@ -58,6 +72,20 @@ def main() -> int:
     for md_file in iter_posts(only):
         text = md_file.read_text(encoding="utf-8", errors="replace")
         post_dir = md_file.parent
+
+        if args.fix_progressive:
+            for path in iter_post_jpegs(post_dir):
+                if not size_check.is_progressive_jpeg(path):
+                    continue
+                if args.dry_run:
+                    print(f"{post_dir.name}: would fix progressive JPEG {path.name}")
+                    changed += 1
+                else:
+                    ok, msg = size_check.normalize_jpeg_baseline(path)
+                    if ok:
+                        print(f"{post_dir.name}: {path.name} — {msg}")
+                        changed += 1
+
         for rel, role in size_check.get_referenced_image_paths(text, cover_check.extract_image_paths):
             path = post_dir / rel
             info = size_check.read_image_info(path)
@@ -75,7 +103,7 @@ def main() -> int:
                     print(f"{post_dir.name}: {rel} — {msg}")
                     changed += 1
 
-    label = "Would optimize" if args.dry_run else "Optimized"
+    label = "Would change" if args.dry_run else "Changed"
     print(f"\n{label} {changed} image(s)")
     return 0
 

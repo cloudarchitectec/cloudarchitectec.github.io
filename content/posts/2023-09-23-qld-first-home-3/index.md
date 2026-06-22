@@ -1,4 +1,5 @@
 ---
+
 title: "澳洲首次置業指南-昆士蘭篇III：2023 印花稅減免怎麼算？QLD First Home Concession 節稅懶人包"
 date: 2023-09-23
 slug: "2023-09-23-qld-first-home-3"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*-xt4stilIuFJcpXO.jpg', 'images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
-
+episodeseries: ["QLD 首購房"]
 ---
 
 這個系列要來跟大家分享在澳洲第一次買房有哪些政府福利措施可利用!

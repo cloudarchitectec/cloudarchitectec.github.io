@@ -1,0 +1,7 @@
+/* Episode series taxonomy term pages */
+
+.series-term-date {
+  margin-left: 0.5rem;
+  font-size: 13px;
+  color: var(--tertiary);
+}

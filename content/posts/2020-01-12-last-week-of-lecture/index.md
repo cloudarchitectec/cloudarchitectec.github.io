@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2020.01.12 Last Week of Lecture"
 date: 2020-01-12
 slug: "2020-01-12-last-week-of-lecture"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 ### 2020-01-07

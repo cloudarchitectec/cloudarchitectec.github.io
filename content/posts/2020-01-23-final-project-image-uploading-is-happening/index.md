@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2020.01.23 Final Project – Image Uploading Is Happening"
 date: 2020-01-23
 slug: "2020-01-23-final-project-image-uploading-is-happening"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 ### 2020-01-22

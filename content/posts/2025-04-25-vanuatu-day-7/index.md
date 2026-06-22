@@ -1,4 +1,5 @@
 ---
+
 title: "太平洋小島上的大冒險：2025.04.25 Vanuatu Day 7 導航騙我、奶奶救我：宅宅迷路日到火焰之夜"
 date: 2025-04-25
 slug: "2025-04-25-vanuatu-day-7"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*lhRSxancacuRwB_A5ZlNFw.jpg', 'images/medium-1*I3pFjSCcDgwmfgGXGGPi5Q.jpg', 'images/medium-1*0hhYOSy5FS70Rq729wegaQ.jpg', 'images/medium-1*VHN9OVLrSbv8uuJ8RbwUDw.jpg', 'images/medium-1*xG_1Q0HEgU3ByPwlXdZIxw.jpg', 'images/medium-1*F2OyrZ4d2NNVHwmnbF140Q.jpg', 'images/medium-1*-Sp5itPOK0GWT9bIqOTnXg.jpg', 'images/medium-1*EmJ1UseG69n-QxK0Iv_Ovw.jpg', 'images/medium-1*DYTggfGKwgYSao676193lw.jpg', 'images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpg', 'images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpg', 'images/medium-1*x1YnJLPQqgp-BjkNxGlbUg.jpg', 'images/medium-1*7gp9-doDFPnI5gXrkj_3Ag.jpg', 'images/medium-1*5plrVldSDXkcD0KFNEHhQA.jpg', 'images/medium-1*kMooDl696lTmXKONkmrNeQ.jpg', 'images/medium-1*OCHRIZN3ZF7F5I5fXbDDOQ.jpg', 'images/medium-1*ocw7PIv6cwfJsO7sEYxybg.jpg', 'images/medium-1*8A9yv7rX3AZ9MbT2N-W6dA.jpg', 'images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpg', 'images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
-
+episodeseries: ["萬那杜旅記"]
 ---
 
 (還是小島最棒了，大推 Hideaway Island Resort)

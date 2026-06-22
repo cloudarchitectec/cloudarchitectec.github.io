@@ -1,4 +1,5 @@
 ---
+
 title: "澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme"
 date: 2023-09-23
 slug: "2023-09-23-qld-first-home-1"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*y2wpY7FCgV16jMh5.jpg', 'images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
-
+episodeseries: ["QLD 首購房"]
 ---
 
 有鑒於我最近的個人 side project 就是在研究昆州房產，身邊也有很多沒買過房子的朋友蠢蠢欲動 (?) 想買房，但又因為不太熟悉相關的政府措施而感受到無限的問號，我決定要來寫一篇文章造福大家XD

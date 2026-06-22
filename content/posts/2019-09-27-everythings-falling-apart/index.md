@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.09.27 對課程感到失去信心"
 date: 2019-09-27
 slug: "2019-09-27-everythings-falling-apart"
@@ -12,6 +13,7 @@ cover:
 images: ["images/ZxRHtPacwUY-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 ## 2019-09-27

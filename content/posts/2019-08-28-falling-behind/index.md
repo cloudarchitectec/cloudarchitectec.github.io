@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.08.28 跟不上高手的腳步..."
 date: 2019-08-28
 slug: "2019-08-28-falling-behind"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*ATDvS5yWVyL3Z8An.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 沒有跟上進度的後果就是我今天的 Kahoot 輸得一蹋糊塗XDDD 真心是好多題的答案我都不知道哈哈，最後的總排名是 13/17 哭

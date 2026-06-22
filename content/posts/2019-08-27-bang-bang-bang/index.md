@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.08.27 Bang Bang Bang"
 date: 2019-08-27
 slug: "2019-08-27-bang-bang-bang"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*mMMqME1uea3S1W9v.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 果然經過了驚險刺激(好玩有趣?)的第一週之後，我覺得我好像已經沒什麼東西可以寫了XD

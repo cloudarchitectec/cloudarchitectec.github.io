@@ -1,4 +1,5 @@
 ---
+
 title: "澳洲首次置業指南-昆士蘭篇II：2023 首次購屋補助怎麼領？First Home Owner Grant 申請攻略"
 date: 2023-09-23
 slug: "2023-09-23-qld-first-home-2"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*geYGb8v4ImP3yYtt.jpg']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
-
+episodeseries: ["QLD 首購房"]
 ---
 
 這個系列要來跟大家分享在澳洲第一次買房有哪些政府福利措施可利用!

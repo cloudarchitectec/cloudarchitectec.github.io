@@ -1,4 +1,5 @@
 ---
+
 title: "微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-1"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*K1HNZvbky5n_Ejol.jpg', 'images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png', 'images/medium-1*U4ue47g8V7hSuywpvW0e0w.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
-
+episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
 ### 前言

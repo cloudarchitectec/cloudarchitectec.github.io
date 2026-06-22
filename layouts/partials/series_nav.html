@@ -1,0 +1,35 @@
+{{- $page := . -}}
+{{- with index ($page.GetTerms "episodeseries") 0 -}}
+  {{- $seriesTerm := . -}}
+  {{- $seriesLabel := $seriesTerm.Title -}}
+  {{- $seriesPosts := where $seriesTerm.Pages "Draft" false -}}
+  {{- $seriesPosts = collections.Sort $seriesPosts "Date" "asc" -}}
+  {{- $seriesCount := len $seriesPosts -}}
+
+  {{- if gt $seriesCount 1 -}}
+<nav class="series-nav" aria-label="系列導覽">
+  <p class="series-nav-heading">{{ $seriesLabel }}系列</p>
+    {{- if gt $seriesCount 5 -}}
+      {{- $recentPosts := collections.First 3 (collections.Sort $seriesPosts "Date" "desc") -}}
+  <ul class="series-nav-recent">
+      {{- range $recentPosts -}}
+    <li{{- if eq .Permalink $page.Permalink }} class="is-current"{{- end -}}>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+      {{- end -}}
+  </ul>
+  <p class="series-nav-all">
+    <a class="series-nav-all-link" href="{{ $seriesTerm.RelPermalink }}">點此前往全系列 (共 {{ $seriesCount }} 篇)</a>
+  </p>
+    {{- else -}}
+  <ol class="series-nav-list">
+      {{- range $seriesPosts -}}
+    <li{{- if eq .Permalink $page.Permalink }} class="is-current"{{- end -}}>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </li>
+      {{- end -}}
+  </ol>
+    {{- end -}}
+</nav>
+  {{- end -}}
+{{- end -}}

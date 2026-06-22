@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.09.25-26 公布第一次作業成績，然後我惹老師生氣了..."
 date: 2019-09-26
 slug: "2019-09-26-going-no-where"
@@ -12,6 +13,7 @@ cover:
 images: ["images/RTivRcYz1Bw-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 ### 2019-09-25
 

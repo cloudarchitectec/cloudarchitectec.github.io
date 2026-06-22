@@ -96,6 +96,7 @@ class TestFrontmatterCheck:
     def test_landing_page_passes(self):
         text = wrap(
             'title: "List"\ndate: 2018-01-02\nslug: "2018-01-02-ec-post-list"\n'
+            'categories: ["EC"]\n'
             'cover:\n  image: "images/x.jpg"\n  alt: "x"\nimages: ["images/x.jpg"]',
             body=f"{{{{< categorized-posts >}}}}",
         )
@@ -103,7 +104,7 @@ class TestFrontmatterCheck:
 
     def test_draft_without_cover_passes(self):
         text = wrap(
-            'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ndraft: true',
+            'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ncategories: ["海外職場"]\ndraft: true',
             body="No cover.",
         )
         assert frontmatter_check.check(text, "draft-post") == []
@@ -118,6 +119,42 @@ class TestFrontmatterCheck:
     def test_unquoted_title_passes(self):
         text = GOOD_POST.replace('title: "Test post"', "title: 中文標題 without quotes")
         assert not any("title" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_missing_categories_rejected(self):
+        text = GOOD_POST.replace('categories: ["海外職場"]\n', "")
+        assert any("categories" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_unknown_category_rejected(self):
+        text = GOOD_POST.replace('categories: ["海外職場"]', 'categories: ["不存在"]')
+        assert any("unknown category" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_multiple_categories_rejected(self):
+        text = GOOD_POST.replace(
+            'categories: ["海外職場"]',
+            'categories: ["海外職場", "旅行紀錄"]',
+        )
+        assert any("exactly one" in e for e in frontmatter_check.check(text, "test-slug"))
+
+
+    def test_empty_episodeseries_rejected(self):
+        text = GOOD_POST.replace(
+            'categories: ["海外職場"]',
+            'categories: ["海外職場"]\nepisodeseries: []',
+        )
+        assert any("episodeseries" in e for e in frontmatter_check.check(text, "test-slug"))
+
+    def test_episodeseries_optional_when_omitted(self):
+        assert frontmatter_check.check(GOOD_POST, "test-slug") == []
+
+    def test_episodeseries_value_passes(self):
+        text = GOOD_POST.replace(
+            'categories: ["海外職場"]',
+            'categories: ["海外職場"]\nepisodeseries: ["我要升官加薪"]',
+        )
+        assert frontmatter_check.check(text, "test-slug") == []
+
+    def test_allowed_categories_include_bootcamp_series(self):
+        assert "零基礎轉職澳洲工程師" in frontmatter_check.ALLOWED_CATEGORIES
 
 
 class TestCheckPostsGitPaths:
@@ -179,3 +216,35 @@ class TestImageSizeCheck:
         info = size_check.read_image_info(img)
         assert info is not None
         assert info.long_edge <= size_check.OPTIMIZE_INLINE_LONG_EDGE
+
+
+class TestProgressiveJpeg:
+    def test_is_progressive_jpeg_detects_encoding(self, tmp_path: Path):
+        baseline = tmp_path / "baseline.jpg"
+        progressive = tmp_path / "progressive.jpg"
+        img = Image.new("RGB", (400, 300), color="red")
+        img.save(baseline, format="JPEG", quality=85, progressive=False)
+        img.save(progressive, format="JPEG", quality=85, progressive=True)
+        assert not size_check.is_progressive_jpeg(baseline)
+        assert size_check.is_progressive_jpeg(progressive)
+
+    def test_normalize_jpeg_baseline_converts_progressive(self, tmp_path: Path):
+        path = tmp_path / "cover.jpg"
+        Image.new("RGB", (800, 600), color="blue").save(
+            path, format="JPEG", quality=85, progressive=True
+        )
+        changed, msg = size_check.normalize_jpeg_baseline(path)
+        assert changed
+        assert "baseline" in msg
+        assert not size_check.is_progressive_jpeg(path)
+
+    def test_check_info_warns_progressive_cover(self, tmp_path: Path):
+        path = tmp_path / "hero.jpg"
+        Image.new("RGB", (1400, 900), color="orange").save(
+            path, format="JPEG", quality=85, progressive=True
+        )
+        info = size_check.read_image_info(path)
+        assert info is not None
+        warnings, errors = size_check.check_info(info, "cover")
+        assert not errors
+        assert any("progressive JPEG" in w for w in warnings)

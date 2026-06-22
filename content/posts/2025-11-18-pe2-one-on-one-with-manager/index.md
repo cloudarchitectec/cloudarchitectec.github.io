@@ -1,4 +1,5 @@
 ---
+
 title: "[我要升官加薪] 第二集：跟主管聊完之後，我決定申請了"
 date: 2025-11-18
 slug: "2025-11-18-pe2-one-on-one-with-manager"
@@ -12,7 +13,7 @@ cover:
 images: ["images/brett-jordan-bf1797VxQgY-unsplash.jpg"]
 categories: ["海外職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
-
+episodeseries: ["我要升官加薪"]
 ---
 
 **2025.10.13 | 布里斯本**

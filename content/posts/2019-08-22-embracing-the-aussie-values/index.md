@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.08.22 澳洲人，真的好愛聊天"
 date: 2019-08-22
 slug: "2019-08-22-embracing-the-aussie-values"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*xMNRe1ZzQJfNdGlr.jpg']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 今天是平凡無奇的上課日XD 所以連一張照片也沒有哈哈 (通篇都是瑣事LOL)

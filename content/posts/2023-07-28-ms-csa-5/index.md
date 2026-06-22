@@ -1,4 +1,5 @@
 ---
+
 title: "微軟雲端架構師 (Solution Architect) 職位解析 5：Sales Pipeline Management"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-5"
@@ -12,7 +13,7 @@ cover:
 images: ['images/medium-0*Sre5eGm5dFF7JeEH.jpg', 'images/medium-1*VS549NIHXaMLhE-uWxMEFw.png', 'images/medium-1*8FdXsGkwfRdYB3Utx04WDQ.png', 'images/medium-1*rPJ6z5tyTlYi-Y9HOHjSjg.png', 'images/medium-1*qkTZTIDoUHmGQuEiFoHSsA.png', 'images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png']
 categories: ["海外職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
-
+episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
 ### 前言

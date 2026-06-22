@@ -1,4 +1,5 @@
 ---
+
 title: "太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜就是開心"
 date: 2025-04-24
 slug: "2025-04-24-vanuatu-day-6"
@@ -8,7 +9,7 @@ cover:
 images: ['images/medium-1*4Hogthh5jCpHjIJDqFdeqg.jpg', 'images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpg', 'images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg', 'images/medium-1*ERE6wU_iom90f3PwGeGkWg.jpg', 'images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpg', 'images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpg', 'images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg', 'images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpg', 'images/medium-1*meuPajg-ogijqOy7m4apGA.jpg', 'images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg', 'images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpg', 'images/medium-1*vj4SrvfMMdVu4u1cTFkpRA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","萬那杜","獨旅","自駕"]
-
+episodeseries: ["萬那杜旅記"]
 ---
 
 (如果你是個J人，租車是你在萬那杜最好的選擇)

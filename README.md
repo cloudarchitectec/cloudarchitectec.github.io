@@ -25,16 +25,22 @@ This repository hosts the source code for Cloud Architect EC's blog, built with 
 
 ## Local development
 
-**Post validation (required before commit):**
+**Quick start:**
 
 ```bash
 pip install pre-commit
 pre-commit install
 ```
 
-This runs `scripts/check-posts.py --staged` on any commit touching `content/posts/`. Full scan uses `git ls-files` index paths (case-sensitive, matches Linux CI on macOS): `python3 scripts/check-posts.py`. Tests: `pip install -r requirements.txt && pytest tests/`.
+For automated checks, use [`scripts/dev-check.sh`](scripts/dev-check.sh) — see **[TESTING.md](TESTING.md)** for `--quick`, `--full`, and `--post` modes.
 
-Pull requests to `main` also run post validation on Ubuntu (`.github/workflows/validate-posts.yml`) before deploy.
+Pre-commit runs `check-posts --staged` on `content/posts/` and list-template lint when `layouts/_default/list.html` is staged.
+
+Pull requests to `main` run the full gate on Ubuntu: strict Hugo build, `verify-build.sh`, all pytest. Locally use `./scripts/dev-check.sh` (fast) or `--full` before PR. See **[TESTING.md](TESTING.md)** for layout, performance, and coverage matrix. GA4 and homepage stats: **[ANALYTICS.md](ANALYTICS.md)**.
+
+## Test design
+
+See **[TESTING.md](TESTING.md)** for the validation strategy: tier overview, flow chart, what to run when, and how local checks map to pre-commit and CI.
 
 ## Features
 
@@ -52,10 +58,15 @@ Pull requests to `main` also run post validation on Ubuntu (`.github/workflows/v
 All notable changes to this project will be documented in this file.
 
 ---
-**2026.06.21**
+
+**2026.06.22**
 - Implemented MailerLite newsletter
 - Fixed hero images
-- Added post & image validation, commmit hook, PR validation
+- Implemented post & image validation, local tests, ui tests, smoke tests, playwright tests, commit hooks, CI tests
+- Improved Google Analytics configurations
+- Implemented branch protection with GitHub App
+- Implemented related posts
+- Implemented series post links
 
 **2026.06.20**
 - Added custom domain

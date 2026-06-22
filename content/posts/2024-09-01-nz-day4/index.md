@@ -1,4 +1,5 @@
 ---
+
 title: "兩個女生的紐西蘭自駕滑雪行: 2024.09.04 紐西蘭飛機麥當勞+神秘超值旅館！陶波隱藏版玩法推薦"
 date: 2024-09-01
 slug: "2024-09-01-nz-day4"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*nmg83Ua_Kr_WFKKsHUQP0g.jpg', 'images/medium-1*bEq4_vSbztPln8SCbiNrCA.jpg', 'images/medium-1*9o818ABLZslywE7xWNrykA.jpg', 'images/medium-1*GtuUDjZ1q7i85jOgMoWeSA.jpg', 'images/medium-1*xWu3OIFYeHfGWEHnIGP5TA.jpg', 'images/medium-1*pNFazp5HZOlKTTKqk5f-vw.jpg', 'images/medium-1*Fx6nRf3jGbJuEodAUl6wVg.jpg', 'images/medium-1*azJ52dYzwNkeojllK7EgZg.jpg', 'images/medium-1*PMR6bE41G7dSv6BnuKzdOA.jpg', 'images/medium-1*ieId5iT7_ikIbBmE-uhRGQ.jpg', 'images/medium-1*5MMMHj2FFyDxehyvtqjkjw.jpg', 'images/medium-1*W6XED-nyUqE58Jxoga4ODQ.jpg', 'images/medium-1*myrazD8o6mbkUmZrMMFQXw.jpg', 'images/medium-1*7bP06F_8XC_0PqIqnXwopg.jpg', 'images/medium-1*ZsEBy48L0CmZAgJSC860Qw.jpg', 'images/medium-1*GOLqRjWO1ajauko9Yh9lHA.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊","自駕","滑雪","紐西蘭"]
-
+episodeseries: ["紐西蘭旅記"]
 ---
 
 滑完雪之後，我們驅車前往陶波湖！

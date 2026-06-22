@@ -1,4 +1,5 @@
 ---
+
 title: "Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)"
 date: 2023-05-08
 slug: "2023-05-08-carnival-splendor-intro"
@@ -9,7 +10,7 @@ cover:
 images: ['images/medium-1*HavaLtcputghs8Qb_HQGIg.png', 'images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "郵輪"]
-
+episodeseries: ["Carnival Splendor 郵輪"]
 ---
 
 ### **Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發)**

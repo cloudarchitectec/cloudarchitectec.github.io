@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.12.13I Want My Money Back"
 date: 2019-12-13
 slug: "2019-12-13-i-want-my-money-back"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 ### 2019-12-09

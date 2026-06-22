@@ -1,12 +1,13 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2020.03.11 Internship - Final Week"
 date: 2020-03-11
 slug: "2020-03-11-internship-final-week"
 images: ['']
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
+episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
-
 ---
 
 **

@@ -1,4 +1,5 @@
 ---
+
 title: "零基礎轉職澳洲工程師: 2019.08.30 下課後跟同學們一起喝一杯～"
 date: 2019-08-30
 slug: "2019-08-30-after-class-drinks"
@@ -12,7 +13,7 @@ cover:
 images: ["images/xBFTjrMIC0c-unsplash.jpg"]
 categories: ["零基礎轉職澳洲工程師"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-
+episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
 ### 2019-08-30

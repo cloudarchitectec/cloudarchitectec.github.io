@@ -1,4 +1,4 @@
-{{- if and (.Site.Params.googleAnalytics) (eq .Site.Params.env "production") }}
+{{- if and .Site.Params.googleAnalytics (or hugo.IsProduction (eq .Site.Params.env "production")) }}
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.googleAnalytics }}"></script>
 <script>
