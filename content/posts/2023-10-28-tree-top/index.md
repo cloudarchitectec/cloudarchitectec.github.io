@@ -17,7 +17,7 @@ tags: ["澳洲旅遊","布里斯本"]
 
 ### 前言
 
-今天要來跟大家分享澳洲一個很有趣的戶外活動 — 高空樹頂挑戰 (Tree Top Challenge)。我跟室友 C 去的是位於陽光海岸的 [Tree Top Challenges Big Pineapple](https://www.treetopchallenge.com.au/sunshine-coast-adventure) 🍍(地址為：76 Nambour Connection Rd, Woombye QLD 4559)。
+今天要來跟大家分享澳洲一個很有趣的戶外活動 — 高空樹頂挑戰 (Tree Top Challenge)。我跟朋友去的是位於陽光海岸的 [Tree Top Challenges Big Pineapple](https://www.treetopchallenge.com.au/sunshine-coast-adventure) 🍍(地址為：76 Nambour Connection Rd, Woombye QLD 4559)。
 
 他們還有另外兩個園區，分別在黃金海岸的 [Mount Tamborine](https://www.treetopchallenge.com.au/tamborine-treetop-adventure?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHVjoxRZRjKkTi3H5mtEY8lgn6XDv5eBYbIEpBElkcbImi88GJeYegBoCQb8QAvD_BwE) 跟 [Currumbin](https://www.treetopchallenge.com.au/adventure-park/currumbin-wildlife-sanctuary?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHas9NpVJBmg8yCiY92AJW_9FqwiLIX0-L7K2PVtpciJHS1kgwLub_xoCNaUQAvD_BwE)
 
@@ -45,7 +45,7 @@ tags: ["澳洲旅遊","布里斯本"]
 
 *安全說明 ＆ 上裝備*
 
-在正式開始之前，室友 C 表示興奮期待，我表示瑟瑟發抖 （好險我本人其實不怕高，我只是孬 🤣🤣🤣）。
+在正式開始之前，朋友表示興奮期待，我表示瑟瑟發抖 （好險我本人其實不怕高，我只是孬 🤣🤣🤣）。
 
 Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠色/紫色)、intermediate (紅色)、advanced (藍色)、expert (黑色/鑽石)。建議所有參加者都循序漸進，完成 easy 程度之後再挑戰其他難度。
 
@@ -70,7 +70,7 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 *安全掛鉤*
 
-我也看到有個國中生妹妹不管怎樣就是抓不到下一塊木板，所以她就是在前一塊上面坐著。而且那是那個挑戰的第一關，所以後面的人全部等她等了30–40分鐘，都不能玩（這也是為什麼室友 C 這次也沒挑戰到黑色挑戰的原因，因為真的玩不了）。
+我也看到有個國中生妹妹不管怎樣就是抓不到下一塊木板，所以她就是在前一塊上面坐著。而且那是那個挑戰的第一關，所以後面的人全部等她等了30–40分鐘，都不能玩（這也是為什麼朋友這次也沒挑戰到黑色挑戰的原因，因為真的玩不了）。
 
 在很極端的情況下，另一個高中生妹妹也是直接坐在高空中木板上哭，因為她真的移動不了，抓不到前面的懸吊木板，也抓不到後面的，整個人就卡在上面無所適從。最後只好請工作人員爬上去救她下來（類似登山救援那樣，把妹妹的掛鉤綁在他身上，把妹妹拖回來）。
 

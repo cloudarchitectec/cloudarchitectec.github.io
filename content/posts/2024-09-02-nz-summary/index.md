@@ -52,7 +52,7 @@ EC 在 2012 年時一個人去過紐西蘭南島，我記得當年拿台灣護�
 
 這次我是持澳洲護照入境紐西蘭，也不需要申請簽證，但是入境前要記得先上網填[紐西蘭入境卡 NZTD](https://www.travellerdeclaration.govt.nz/) (我自己是用手機 app 填寫的，也很方便)。相較之下澳洲真的很落後，我們還在發紙本的入境卡😿
 
-室友 C 是持台灣護照的澳洲 PR，沒想到現在澳洲 PR 去紐西蘭觀光也要申請電子簽證 New Zealand Electronic Travel Authority (NZeTA)了。雖然說費用也不貴，只要 NZD $17 (約台幣$340)，但我完全還停留在澳洲 PR 可以隨時自由出入紐西蘭的印象 😂
+朋友是持台灣護照的澳洲 PR，沒想到現在澳洲 PR 去紐西蘭觀光也要申請電子簽證 New Zealand Electronic Travel Authority (NZeTA)了。雖然說費用也不貴，只要 NZD $17 (約台幣$340)，但我完全還停留在澳洲 PR 可以隨時自由出入紐西蘭的印象 😂
 
 澳洲人要去紐西蘭可參考澳洲政府的 smart traveller 網站：<https://www.smartraveller.gov.au/destinations/pacific/new-zealand>
 

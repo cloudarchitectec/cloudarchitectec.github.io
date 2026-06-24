@@ -27,7 +27,7 @@ tags: ["雲端架構師"]
 
 ### Solution Architect、Cloud Engineer、Software Developer比較表格
 
-(友人 C 說: 如果你花了好幾個小時在寫這個比較表格，我覺得這就是你該離職警訊XDD)
+(朋友說: 如果你花了好幾個小時在寫這個比較表格，我覺得這就是你該離職警訊XDD)
 
 (我沒想到在 Medium 上要插入表格這麼難，我還得先把 word 轉成 pdf 再截圖。如果有人知道更好的方法，請告訴我XD)
 
