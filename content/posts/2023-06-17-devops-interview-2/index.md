@@ -79,7 +79,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 面試當下我沒發現，我就直接回答了，因為這題其實是 Amazon 在員工績效評估裡的必問題，對於前 Amazon 員工來說這個概念我簡直不要太熟。
 
-但我回家後問了室友 C，她一開始根本不能理解這個問題在問什麼XD 這題主要就是問說你覺得跟別人比起來，你的優勢是什麼? 只是他們在英文用了 superpower 這個字，看起來比較高級? 
+但我後來問了朋友，她一開始根本不能理解這個問題在問什麼XD 這題主要就是問說你覺得跟別人比起來，你的優勢是什麼? 只是他們在英文用了 superpower 這個字，看起來比較高級? 
 
 我事後一想，這家公司是不是蒐集了各大軟體公司的經典面試問答題來問?哈哈哈~ Google、Microsoft、Amazon都有了XD
 

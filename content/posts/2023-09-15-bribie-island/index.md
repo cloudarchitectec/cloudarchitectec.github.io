@@ -24,12 +24,12 @@ tags: ["澳洲旅遊","布里斯本"]
 
 ### 遊記
 
-這天我跟室友 C 一起去探索了距離我們家車程 40分鐘的 Bribie Island，完全是我覺得布里斯本遠北區 (far north Brisbane) 最值得一訪的景點👍
+這天我跟朋友一起去探索了距離我們家車程 40分鐘的 Bribie Island，完全是我覺得布里斯本遠北區 (far north Brisbane) 最值得一訪的景點👍
 
 [**2023.04.15 Bribie Island**  
 youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/shorts/dZvqFVXJ_N4)
 
-去程完全由 Learner Driver 室友 C 主開，這也是她第一次開車上澳洲高速公路，請大家幫她掌聲鼓勵👏👏👏
+去程完全由 Learner Driver 朋友主開，這也是她第一次開車上澳洲高速公路，請大家幫她掌聲鼓勵👏👏👏
 
 在澳洲要拿到 full driving license，必須一路從 learner、紅P 、綠 P 開始練習，大概需要四年才能拿到正式駕照。L牌駕駛不能獨自開車，一定要在有full license 的人的陪同下才能上路，我頓時有種變成學姊的感覺😆
 
@@ -69,6 +69,6 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 而且這裡的人潮不多，有一種步調緩慢的悠閒渡假感，推薦給大家♥️
 
-![EC 與室友 C 的合照](images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpg)
+![Bribie Island 海邊一日遊](images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpg)
 
-*我與室友C*
+*Bribie Island 一日遊*

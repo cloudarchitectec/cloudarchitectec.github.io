@@ -66,7 +66,7 @@ if [[ -n "$POST" ]]; then
 fi
 
 python3 scripts/check-posts.py
-"$PYTHON" -m pip install -q -r requirements.txt 2>/dev/null || true
+"$PYTHON" -m pip install -q -r requirements.txt
 
 if [[ "$FULL" -eq 1 ]]; then
   if ! command -v hugo &>/dev/null; then

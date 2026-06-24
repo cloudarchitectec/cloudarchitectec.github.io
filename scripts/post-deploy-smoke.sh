@@ -12,7 +12,7 @@ curl_check() {
   local needle="${2:-}"
   echo "Checking ${url}"
   body="$(curl -fsSL --retry 5 --retry-delay 10 --retry-all-errors "${url}")"
-  if [ -n "$needle" ] && ! echo "$body" | grep -qF "$needle"; then
+  if [ -n "$needle" ] && [[ "$body" != *"${needle}"* ]]; then
     echo "❌ Expected content not found at ${url}: ${needle}"
     exit 1
   fi

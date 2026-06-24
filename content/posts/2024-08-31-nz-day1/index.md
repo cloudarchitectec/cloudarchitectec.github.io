@@ -90,7 +90,7 @@ episodeseries: ["紐西蘭旅記"]
 
 *![Airbnb 溫馨住宿空間](images/medium-1*MxcgNErvLKNcFxJTA3XlCA.jpg)Airbnb*
 
-最重要的是有一隻超親人超愛討摸的貓貓，真是太可愛了😆 他一個晚上完全三訪我們，最後還跟室友 C 一起睡，太可愛了😍😍😍
+最重要的是有一隻超親人超愛討摸的貓貓，真是太可愛了😆 他一個晚上完全三訪我們，最後還跟朋友一起睡，太可愛了😍😍😍
 
 ![民宿超萌親人橘貓](images/medium-1*9dSdxYR49uv4mYhrx-7uMg.jpg)
 

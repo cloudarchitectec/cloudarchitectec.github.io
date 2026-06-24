@@ -1,17 +1,23 @@
 /* Shared secondary link list pattern — series nav, taxonomy terms, related posts */
 
-.series-term-list,
-.series-nav-list {
+.series-term-list {
   margin: 0;
   padding: 0 0 0 1.25rem;
   list-style: decimal;
+}
+
+.series-nav-list,
+.series-nav-recent {
+  margin: 0;
+  padding: 0 0 0 1.1rem;
+  list-style: disc;
 }
 
 .series-term-list li,
 .series-nav-list li,
 .series-nav-recent li {
   padding: 0;
-  line-height: 1.45;
+  line-height: 1.6;
 }
 
 .series-term-list li {
@@ -21,6 +27,12 @@
 .series-nav-list li,
 .series-nav-recent li {
   margin: 0.35rem 0;
+  display: list-item;
+}
+
+.series-nav-list li::marker,
+.series-nav-recent li::marker {
+  color: var(--secondary);
 }
 
 .series-nav-list li.is-current,
