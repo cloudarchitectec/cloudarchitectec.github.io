@@ -65,7 +65,8 @@ class TestGenerateFrontMatterEpisodeSeries:
 
 
 class TestPromptEpisodeSeries:
-    def test_uses_existing_without_prompt(self, registry_tmp):
+    def test_uses_existing_without_prompt(self, registry_tmp, monkeypatch):
+        monkeypatch.setattr(publisher.click, "confirm", lambda *a, **k: True)
         assert publisher.prompt_episode_series("好想要退休", "任意標題") == "好想要退休"
 
     def test_skip_when_not_series(self, monkeypatch):
