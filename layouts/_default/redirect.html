@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url={{ .Params.redirectTo | absURL }}">
+  <link rel="canonical" href="{{ .Params.redirectTo | absURL }}">
+  <title>Redirecting…</title>
+</head>
+<body>
+  <p>Redirecting to <a href="{{ .Params.redirectTo | relLangURL }}">{{ .Params.redirectTo }}</a>…</p>
+</body>
+</html>

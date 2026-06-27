@@ -146,10 +146,14 @@ disablePathToLower = true
     weight = 1
     contentDir = "content"
 
+    # [[languages.zh-hant.menu.main]]
+    #   name = "人生故事"
+    #   url = "/posts/2018-01-01-iam-ec"
+    #   weight = 10
     [[languages.zh-hant.menu.main]]
-      name = "關於EC"
-      url = "/posts/2018-01-01-iam-ec"
-      weight = 10
+      name = "認識EC"
+      url = "/portfolio/career-zh/"
+      weight = 12
     [[languages.zh-hant.menu.main]]
       name = "文章列表"
       url = "/posts/2018-01-02-ec-post-list"
@@ -166,10 +170,10 @@ disablePathToLower = true
       name = "標籤"
       url = "/tags"
       weight = 40
-    # [[languages.zh-hant.menu.main]]
-    #   name = "分類"
-    #   url = "/categories"
-    #   weight = 50
+    [[languages.zh-hant.menu.main]]
+      name = "分類"
+      url = "/categories"
+      weight = 50
     [[languages.zh-hant.menu.main]]
       name = "搜尋"
       url = "/search"

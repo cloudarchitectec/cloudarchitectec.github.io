@@ -1,0 +1,11 @@
+{{- $pills := site.Data.portfolio.profile_pills }}
+{{- $active := .active }}
+{{- $urls := $pills.urls }}
+<nav class="ec-profile-pills" aria-label="Profile view">
+  <a href="{{ $urls.story | relLangURL }}" class="ec-pill{{- if eq $active "story" }} ec-pill--active{{- end }}"
+    {{- if eq $active "story" }} aria-current="page"{{- end }}>{{ $pills.story }}</a>
+  <a href="{{ $urls.career_zh | relLangURL }}" class="ec-pill{{- if eq $active "career-zh" }} ec-pill--active{{- end }}"
+    {{- if eq $active "career-zh" }} aria-current="page"{{- end }}>{{ $pills.career_zh }}</a>
+  <a href="{{ $urls.career_en | relLangURL }}" class="ec-pill{{- if eq $active "career-en" }} ec-pill--active{{- end }}"
+    {{- if eq $active "career-en" }} aria-current="page"{{- end }}>{{ $pills.career_en }}</a>
+</nav>

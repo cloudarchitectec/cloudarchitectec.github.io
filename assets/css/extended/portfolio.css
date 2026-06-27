@@ -1,0 +1,245 @@
+/* Portfolio page — shared shell, career sections, tag chips */
+
+.cv-page {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0.5rem 0 2rem;
+  font-size: 15px;
+  line-height: 1.55;
+}
+
+.cv-post-header {
+  margin-bottom: 0;
+}
+
+.cv-post-header .post-description {
+  margin-top: 0.5rem;
+}
+
+.cv-hero-cover {
+  margin: 1rem 0 1.25rem;
+}
+
+.cv-hero-cover .entry-cover {
+  margin: 0;
+}
+
+.cv-hero-cover .entry-cover img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+  display: block;
+}
+
+.cv-hero-cover .cover-credit {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--secondary);
+  text-align: center;
+}
+
+.cv-pills-bar {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 2px solid var(--primary);
+}
+
+.cv-pills-bar .ec-profile-pills {
+  margin-top: 0;
+}
+
+.ec-pill {
+  display: inline-block;
+  padding: 0.35rem 1rem;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--code-bg);
+  color: var(--secondary);
+  font-family: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+
+a.ec-pill:hover:not(.ec-pill--active) {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.ec-profile-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.ec-pill--active {
+  background: var(--primary);
+  color: var(--theme);
+  border-color: var(--primary);
+  cursor: default;
+  pointer-events: none;
+}
+
+.cv-story-content {
+  color: var(--content);
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+.cv-story-content h3 {
+  margin: 1.5rem 0 0.75rem;
+  font-size: 1.05rem;
+  color: var(--primary);
+}
+
+.cv-story-content p,
+.cv-story-content li {
+  margin-bottom: 0.65rem;
+}
+
+.cv-sep {
+  margin: 0 0.35rem;
+  color: var(--tertiary);
+}
+
+.cv-section {
+  margin-bottom: 1.75rem;
+}
+
+.cv-heading {
+  margin: 0 0 0.85rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--primary);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.35rem;
+}
+
+.cv-role {
+  margin-bottom: 1.35rem;
+}
+
+.cv-role:last-child {
+  margin-bottom: 0;
+}
+
+.cv-role-title {
+  margin: 0 0 0.2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.cv-role-meta,
+.cv-education-meta {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+
+.cv-company {
+  font-weight: 600;
+}
+
+.cv-bullets,
+.cv-cert-list {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.cv-bullets li,
+.cv-cert-list li {
+  margin-bottom: 0.4rem;
+  color: var(--content);
+}
+
+.cv-cert-group {
+  margin-bottom: 1rem;
+}
+
+.cv-cert-group:last-child {
+  margin-bottom: 0;
+}
+
+.cv-cert-group-title {
+  margin: 0 0 0.35rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.cv-education-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  color: var(--content);
+}
+
+.cv-education-list li {
+  margin-bottom: 0.35rem;
+}
+
+.cv-education-list li:first-child {
+  font-weight: 600;
+  color: var(--primary);
+  list-style: none;
+  margin-left: -1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.cv-education-narrative {
+  margin: 0;
+  color: var(--content);
+  line-height: 1.6;
+}
+
+/* Tag chips — match blog post footer tags, slightly compact */
+.cv-tags-section {
+  margin-top: 1.25rem;
+  padding-top: 0.5rem;
+}
+
+.cv-tags-section .post-tags {
+  gap: 8px;
+}
+
+.cv-tags-section .post-tags li span {
+  display: block;
+  padding: 0 10px;
+  color: var(--secondary);
+  font-size: 13px;
+  line-height: 28px;
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+@media print {
+  .cv-page {
+    max-width: none;
+    padding: 0;
+    font-size: 11pt;
+  }
+
+  .cv-pills-bar {
+    border-bottom-color: #000;
+  }
+
+  .ec-profile-pills,
+  .top-link,
+  .footer,
+  #menu,
+  .header {
+    display: none !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .cv-sep {
+    display: none;
+  }
+}

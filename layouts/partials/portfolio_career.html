@@ -1,0 +1,68 @@
+{{- $cv := site.Data.portfolio }}
+{{- $lang := .lang }}
+
+{{- with $cv.experience }}
+<section class="cv-section">
+  <h2 class="cv-heading">{{ if eq $lang "zh" }}{{ $cv.labels.experience.zh }}{{ else }}{{ $cv.labels.experience.en }}{{ end }}</h2>
+  {{- range . }}
+  <article class="cv-role">
+    <div class="cv-role-header">
+      <h3 class="cv-role-title">{{ .title }}</h3>
+      <p class="cv-role-meta">
+        <span class="cv-company">{{ if eq $lang "zh" }}{{ .company.zh }}{{ else }}{{ .company.en }}{{ end }}</span>
+        <span class="cv-sep" aria-hidden="true">·</span>
+        <span>{{ if eq $lang "zh" }}{{ .dates.zh }}{{ else }}{{ .dates.en }}{{ end }}</span>
+        <span class="cv-sep" aria-hidden="true">·</span>
+        <span>{{ if eq $lang "zh" }}{{ .location.zh }}{{ else }}{{ .location.en }}{{ end }}</span>
+      </p>
+    </div>
+    <ul class="cv-bullets">
+      {{- range .bullets }}
+      <li>{{ if eq $lang "zh" }}{{ .zh }}{{ else }}{{ .en }}{{ end }}</li>
+      {{- end }}
+    </ul>
+  </article>
+  {{- end }}
+</section>
+{{- end }}
+
+{{- with $cv.certifications }}
+<section class="cv-section">
+  <h2 class="cv-heading">{{ if eq $lang "zh" }}{{ $cv.labels.certifications.zh }}{{ else }}{{ $cv.labels.certifications.en }}{{ end }}</h2>
+  {{- range . }}
+  <div class="cv-cert-group">
+    <h3 class="cv-cert-group-title">{{ if eq $lang "zh" }}{{ .group.zh }}{{ else }}{{ .group.en }}{{ end }}</h3>
+    <ul class="cv-cert-list">
+      {{- range .items }}
+      <li>{{ if eq $lang "zh" }}{{ .zh }}{{ else }}{{ .en }}{{ end }}</li>
+      {{- end }}
+    </ul>
+  </div>
+  {{- end }}
+</section>
+{{- end }}
+
+{{- with $cv.education }}
+<section class="cv-section">
+  <h2 class="cv-heading">{{ if eq $lang "zh" }}{{ $cv.labels.education.zh }}{{ else }}{{ $cv.labels.education.en }}{{ end }}</h2>
+  {{- if eq $lang "zh" }}
+  <p class="cv-education-narrative">{{ .zh }}</p>
+  {{- else }}
+  <ul class="cv-education-list">
+    {{- range .en }}
+    <li>{{ . }}</li>
+    {{- end }}
+  </ul>
+  {{- end }}
+</section>
+{{- end }}
+
+{{- with $cv.tags }}
+<section class="cv-tags-section">
+  <ul class="post-tags cv-tags">
+    {{- range . }}
+    <li><span>{{ . }}</span></li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

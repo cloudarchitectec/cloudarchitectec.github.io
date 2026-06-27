@@ -199,6 +199,15 @@ Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/site
 | `/search/` | `#searchInput` visible |
 | `/posts/2025-10-04-goodbye-medium/` | Title, subscribe CTA |
 
+### Mobile viewport (375×812)
+
+| URL | Assert |
+|-----|--------|
+| `/` | `.menu-toggle` visible; menu links hidden until toggle; no horizontal overflow |
+| `/posts/2025-10-04-goodbye-medium/` | MailerLite input + buttons fit viewport; Waline wrapper visible; no horizontal overflow |
+
+A11y (`test_a11y.py`) runs the same smoke URLs at **desktop (1280×720)** and **mobile (375×812)**.
+
 Out of scope: live MailerLite submit, Waline comment post, external URL reachability (404) crawling.
 
 ## Related tooling

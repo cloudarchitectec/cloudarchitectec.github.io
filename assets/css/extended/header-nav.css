@@ -1,0 +1,103 @@
+/* Mobile main nav — hamburger toggle + vertical panel (desktop unchanged) */
+
+.menu-toggle {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    position: relative;
+    z-index: 100;
+  }
+
+  .nav {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "logo toggle"
+      "menu menu"
+      "social social";
+    align-items: center;
+  }
+
+  .logo {
+    grid-area: logo;
+    margin: auto var(--gap);
+  }
+
+  .menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-area: toggle;
+    margin: auto var(--gap) auto 0;
+    padding: 8px;
+    background: none;
+    border: none;
+    color: var(--primary);
+    cursor: pointer;
+    line-height: 1;
+  }
+
+  .menu-toggle svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  #menu {
+    grid-area: menu;
+    display: none;
+    flex-direction: column;
+    overflow-x: visible;
+    white-space: normal;
+    word-break: normal;
+    margin: 0;
+    padding: 8px var(--gap) 12px;
+    background: var(--theme);
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+
+  .nav.nav-open #menu {
+    display: flex;
+  }
+
+  #menu li + li {
+    margin-inline-start: 0;
+  }
+
+  #menu li {
+    width: 100%;
+  }
+
+  #menu a {
+    display: flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 10px 4px;
+  }
+
+  .header-social-icons {
+    grid-area: social;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @media screen and (max-width: 768px) {
+    #menu {
+      animation: nav-panel-in 0.15s ease-out;
+    }
+
+    @keyframes nav-panel-in {
+      from {
+        opacity: 0;
+        transform: translateY(-4px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  }
+}

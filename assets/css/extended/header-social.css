@@ -18,14 +18,9 @@
 
 /* Mobile responsiveness for header social icons */
 @media screen and (max-width: 768px) {
-    .nav {
-        flex-wrap: wrap;
-    }
-    
     .header-social-icons {
         margin-left: 0;
         margin-top: 8px;
-        order: 3;
         width: 100%;
         justify-content: center;
     }
