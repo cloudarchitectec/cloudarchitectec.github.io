@@ -1,108 +1,108 @@
 {
-  "lastUpdated": "2026-05-02T04:35:04.549648",
+  "lastUpdated": "2026-06-27T20:49:59.859435",
   "period": "Since 2023-01-01",
   "metrics": {
-    "totalPageViews": 12977,
-    "totalUsers": 2953,
-    "totalSessions": 4183
+    "totalPageViews": 15653,
+    "totalUsers": 3482,
+    "totalSessions": 4991
   },
   "formatted": {
-    "totalPageViews": "12,977",
-    "totalUsers": "2,953",
-    "totalSessions": "4,183"
+    "totalPageViews": "15,653",
+    "totalUsers": "3,482",
+    "totalSessions": "4,991"
   },
   "topPages": [
     {
-      "path": "/posts/2018-01-03-ec-consultation/",
-      "title": "\u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC | \u5c08\u70ba\u8f49\u8077\u8005\u91cf\u8eab\u6253\u9020\u7684\u8077\u6daf\u8aee\u8a62 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 43
+      "path": "/posts/2026-06-17-retirement-plan/",
+      "title": "\u597d\u60f3\u8981\u9000\u4f11\uff01\u9000\u4f11\u524d\u7684\u6700\u5f8c\u4e00\u5802\u8ab2\uff1a\u6bd4 FIRE \u6578\u5b57\u66f4\u91cd\u8981\u7684\uff0c\u5176\u5be6\u662f\u9019\u4ef6\u4e8b | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
+      "views": 389
+    },
+    {
+      "path": "/posts/2026-05-31-investmend-mindset/",
+      "title": "\u53f0\u6fb3 ETF \u6295\u8cc7\u601d\u7dad\u5927\u5c0d\u6c7a\uff01\u53f0\u7063\u4eba\u5728\u760b\u6b632\uff0c\u6fb3\u6d32\u4eba\u537b\u5728\u7b97 Franking Credits\uff1f | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
+      "views": 110
     },
     {
       "path": "/posts/2018-01-02-ec-post-list/",
       "title": "\u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC \u6587\u7ae0\u5217\u8868 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 20
-    },
-    {
-      "path": "/posts/2025-10-18-invest-us-stocks-in-au/",
-      "title": "\u597d\u60f3\u8981\u9000\u4f11\uff01\u5728\u6fb3\u6d32\u60f3\u6295\u8cc7\u7f8e\u80a1\u8a72\u5982\u4f55\u9032\u884c\uff1f\u76f4\u63a5\u8cb7\u7f8e\u80a1 ETF \u6703\u6bd4\u6295\u5165 ASX \u597d\u55ce\uff1f | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 16
+      "views": 83
     },
     {
       "path": "/posts/2018-01-01-iam-ec/",
       "title": "\u5927\u5bb6\u597d\uff0c\u6211\u662f EC | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 14
+      "views": 60
     },
     {
       "path": "/posts/2024-10-19-etf/",
       "title": "\u597d\u60f3\u8981\u9000\u4f11\uff01\u8b93\u6211\u5011\u4f86\u8ac7\u8ac7\u6fb3\u6d32\u4eba\u6700\u611b\u7684\u6fb3\u6d32\u6307\u6578\u57fa\u91d1 ETFs \u7d44\u5408 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 12
+      "views": 60
     },
     {
-      "path": "/posts/2023-07-28-ms-csa-1/",
-      "title": "\u5fae\u8edf\u96f2\u7aef\u67b6\u69cb\u5e2b (Solution Architect) \u8077\u4f4d\u89e3\u6790 1\uff1aOrg Chart & Solution Architecting | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 8
+      "path": "/posts/2024-09-27-how-long-tofire/",
+      "title": "\u597d\u60f3\u8981\u9000\u4f11\uff01\u6211\u8207\u9000\u4f11\u4e4b\u9593\u7684\u8ddd\u96e2\uff1a\u6fb3\u6d32\u5de5\u7a0b\u5e2b\u662f\u5426\u6bd4\u53f0\u7063\u66f4\u5bb9\u6613\u9054\u6210\u8ca1\u52d9\u81ea\u7531 (FIRE)\uff1f | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
+      "views": 37
     },
     {
-      "path": "/posts/2025-07-11-why-coding-bootcamp/",
-      "title": "\u8f49\u8077 IT \u4e0d\u8e29\u96f7\uff1a\u6587\u7d44\u8f49\u8077\u5de5\u7a0b\u5e2b\u7684 Coding Bootcamp \u6311\u9078\u6307\u5357 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 8
+      "path": "/posts/2022-11-19-azure-az-104-study/",
+      "title": "\u5fae\u8edf Azure \u96f2\u7aef\u8b49\u7167: AZ-104 Azure Administrator Associate 40 \u5c0f\u6642\u6e96\u5099\u653b\u7565 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
+      "views": 32
     },
     {
-      "path": "/posts/2023-07-02-az-500/",
-      "title": "\u5fae\u8edf Azure \u96f2\u7aef\u8b49\u7167: AZ-500 Azure Security Engineer Associate \u8cc7\u8a0a\u5b89\u5168\u5de5\u7a0b\u5e2b\u516b\u5c0f\u6642\u901f\u6210\u653b\u7565 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
-      "views": 7
+      "path": "/posts/2022-12-03-bootcamp-to-aws/",
+      "title": "\u6587\u7d44\u8f49\u8077\u6fb3\u6d32 IT \u5de5\u7a0b\u5e2b\uff0c\u6211\u9760 Coding Bootcamp \u9032\u4e86 Amazon \u7576\u5de5\u7a0b\u5e2b\uff01 | \u6fb3\u6d32\u96f2\u7aef\u67b6\u69cb\u5e2b EC",
+      "views": 32
     }
   ],
   "topCountries": [
     {
       "country": "Taiwan",
-      "users": 1718,
-      "percentage": 59.7
+      "users": 1990,
+      "percentage": 59.1
     },
     {
       "country": "Australia",
-      "users": 587,
-      "percentage": 20.4
+      "users": 662,
+      "percentage": 19.7
     },
     {
       "country": "United States",
-      "users": 322,
-      "percentage": 11.2
+      "users": 410,
+      "percentage": 12.2
     },
     {
       "country": "Hong Kong",
-      "users": 66,
-      "percentage": 2.3
+      "users": 87,
+      "percentage": 2.6
     },
     {
       "country": "Japan",
-      "users": 44,
-      "percentage": 1.5
-    },
-    {
-      "country": "Ireland",
-      "users": 30,
-      "percentage": 1.0
-    },
-    {
-      "country": "China",
-      "users": 29,
-      "percentage": 1.0
+      "users": 46,
+      "percentage": 1.4
     },
     {
       "country": "Singapore",
-      "users": 28,
+      "users": 40,
+      "percentage": 1.2
+    },
+    {
+      "country": "Ireland",
+      "users": 37,
+      "percentage": 1.1
+    },
+    {
+      "country": "China",
+      "users": 34,
       "percentage": 1.0
     },
     {
       "country": "United Kingdom",
-      "users": 28,
+      "users": 33,
       "percentage": 1.0
     },
     {
       "country": "Sweden",
-      "users": 24,
-      "percentage": 0.8
+      "users": 29,
+      "percentage": 0.9
     }
   ],
   "metadata": {
