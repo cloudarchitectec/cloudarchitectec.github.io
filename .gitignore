@@ -32,14 +32,13 @@ config.local.*
 # -----------------------
 # Local tooling
 # -----------------------
-tools/blog-converter/input/
-tools/blog-converter/output/
+tools/blog-publisher/input/
 
 # -----------------------
 # Private project docs
 # -----------------------
-.agents/skills/
 .cursor/rules/
+.cursor/skills/
 
 # -----------------------
 # -----------------------
