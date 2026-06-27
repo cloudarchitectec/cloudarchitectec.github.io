@@ -25,7 +25,7 @@ tags: ["部落格"]
 
 ![Cloud Architect EC Blog](images/ec-blog.png)
 
-🏠 **新家地址**：[https://cloudarchitectec.github.io/](https://cloudarchitectec.github.io/)
+🏠 **新家地址**：[https://cloudarchitectec.com/](https://cloudarchitectec.com/)
 
 💌 **好消息**：未來所有新文章都會在新部落格首發，而且完全免費閱讀！
 
