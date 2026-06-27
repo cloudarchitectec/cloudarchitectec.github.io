@@ -44,7 +44,7 @@ ProServ 主要的工作內容就是 technical delivery，也就是客戶想要�
 
 Senior Cloud Architect 除了要負責帶領技術團隊，常常還需要跟客戶高層開會達成策略 (strategic) 共識。一般的 Cloud Architect 除了執行(寫程式、設定雲端服務)之外，常常也需要跟客戶的 IT 部門或是 developer 部門一起開會、sprint planning、code review 等等，有時候還需要進行一些講座、workshop 來提升客戶 IT 人員的雲端知識與技術。
 
-除此之外，Cloud Architect 對客戶來說以小時計費的。所以一週 40 個小時，我們必須每週回報我們花了多少時間在客戶A身上、多少時間在客戶B身上，多少時間在內部會議跟訓練上。Timesheet 其實是我最不喜歡 ProServ 工作的一點 (這是每個 Cloud Architect 工作表現的硬指標)，因為以客為尊的工作型態，反倒壓縮到我個人學習新技術跟成長的時間。
+除此之外，Cloud Architect 對客戶來說以小時計費的。所以一週 40 個小時，我們必須每週回報我們花了多少時間在客戶 A 身上、多少時間在客戶 B 身上，多少時間在內部會議跟訓練上。Timesheet 其實是我最不喜歡 ProServ 工作的一點 (這是每個 Cloud Architect 工作表現的硬指標)，因為以客為尊的工作型態，反倒壓縮到我個人學習新技術跟成長的時間。
 
 ### **所需技能**
 

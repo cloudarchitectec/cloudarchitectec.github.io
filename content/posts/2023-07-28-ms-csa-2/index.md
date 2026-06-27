@@ -59,14 +59,14 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 ### **接著讓我們把這個概念轉換成雲端架構，這裡以 AWS 為例。**
 
-我先做個簡單的一對一圖示，請注意這裡的每一個服務，都有其他替代選項。我只是先挑一個常見的AWS雲服務作為案例，實際上企業會選擇哪一個AWS雲服務，需要靠雲端架構師了解客戶的需求，經由多次討論之後才會下決定。
+我先做個簡單的一對一圖示，請注意這裡的每一個服務，都有其他替代選項。我只是先挑一個常見的 AWS 雲服務作為案例，實際上企業會選擇哪一個 AWS 雲服務，需要靠雲端架構師了解客戶的需求，經由多次討論之後才會下決定。
 
 ![AWS三層式架構簡化版](images/medium-1*a9im277bnzrf4AP90h5p_Q.png)
 
 *圖 2: Three-Tier Web App on AWS (Super Simplified Version)*
 
-  * **Stage 1** ：我先簡單分為靜態內容跟動態內容。靜態內容，例如圖片或是簡單的html/CSS， 通常會放在 S3，也就是 AWS 的 Object Storage Service。這樣做的主要原因是就費用來說 S3 會比 EC2 便宜很多，所以靜態內容放那邊就可以了。如果是動態內容的話，可以放在 EC2 server 上。
-  * **Stage 2：** 最簡單直接的方式就是直接用 EC2 server (就 cloud migration 來說的術語叫做 lift and shift，就是把本來在實體機房的實體伺服器搬到AWS雲上變成 EC2 server)。其他的選擇有: 使用 container，此時可以選的 AWS 雲服務有 ECS 或是 EKS，選哪個就根據企業想要對於他們的 container instance 有多少控制而定。或是走 serverless 路線的話，這裡會用的AWS 雲服務就是 Lambda functions。
+  * **Stage 1** ：我先簡單分為靜態內容跟動態內容。靜態內容，例如圖片或是簡單的 html/CSS， 通常會放在 S3，也就是 AWS 的 Object Storage Service。這樣做的主要原因是就費用來說 S3 會比 EC2 便宜很多，所以靜態內容放那邊就可以了。如果是動態內容的話，可以放在 EC2 server 上。
+  * **Stage 2：** 最簡單直接的方式就是直接用 EC2 server (就 cloud migration 來說的術語叫做 lift and shift，就是把本來在實體機房的實體伺服器搬到 AWS 雲上變成 EC2 server)。其他的選擇有: 使用 container，此時可以選的 AWS 雲服務有 ECS 或是 EKS，選哪個就根據企業想要對於他們的 container instance 有多少控制而定。或是走 serverless 路線的話，這裡會用的 AWS 雲服務就是 Lambda functions。
   * **Stage 3：** 資料庫的選擇一般來說有 RDS (relational DB) 或 DynamoDB (non-relational DB)，要選哪個要根據 application 的 business logic 而定，也可以兩個都用。
 
 
@@ -85,9 +85,9 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
   4. **Shield** ：AWS 的 DDoS 服務，這個是資安相關的服務。簡單來說，就是避免駭客用假流量灌爆企業網站，使得伺服器無法運作。
   5. **VPC, Public Subnet (green), Private Subnet (blue)：** 簡單來說就是當企業從傳統的 hardware defined network (switches, routers, cables) 變成雲上的 software-defined network 時要怎麼規劃跟控制企業網絡。
   6. **Availability Zone：** 簡單來說就是在不同地點的 AWS 數據中心，通常會建議企業的雲基礎設施不要部署在單一 Availability Zone。專業術語叫做 multi-AZ deployment。
-  7. **NAT Gateway：** 管 Internet outbound traffic 的AWS 雲服務。
+  7. **NAT Gateway：** 管 Internet outbound traffic 的 AWS 雲服務。
   8. **ELB (Elastic Load Balancer)：** AWS 的 load balancer 服務，可以分為聰明版的 Layer 7 Application Load Balancer (ALB) 跟比較不聰明版本的 Layer 4 Network Load Balancer (NLB)，至於為什麼 ALB 比 NLB 聰明，你還是要讀一下 OSI model 囧
-  9. **Autoscaling Group：** AWS 的 autoscaling 服務，簡單來說就是企業可以根據使用者流量而自動增加或減少伺服器的部署數量。例如一般來說 PTT 有100台伺服器，但是八卦版因為 Me Too 事件爆了，AWS會自動幫我部署200台伺服器來 cover 流量，這樣大家就可以繼續追八卦，而不會看到「批踢踢過載中，請稍後再嘗試登入」的錯誤訊息。（單純舉例，我不知道批踢踢是否部署在AWS上，還是在台大的機房裡?XD）
+  9. **Autoscaling Group：** AWS 的 autoscaling 服務，簡單來說就是企業可以根據使用者流量而自動增加或減少伺服器的部署數量。例如一般來說 PTT 有 100 台伺服器，但是八卦版因為 Me Too 事件爆了，AWS 會自動幫我部署 200 台伺服器來 cover 流量，這樣大家就可以繼續追八卦，而不會看到「批踢踢過載中，請稍後再嘗試登入」的錯誤訊息。（單純舉例，我不知道批踢踢是否部署在 AWS 上，還是在台大的機房裡?XD）
   10. **Elasticache：** AWS 的 data caching 服務，簡單來說為了減低資料庫的負擔，企業可以把使用者常常要讀取的資料放在 Elasticache 上。
 
 
@@ -111,7 +111,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
   * 有時候你必須要跟客戶的 CEO/CTO 談上雲之後的商業效益跟長遠規劃。
   * 有時候你必須跟客戶的 Networking Team 談 south-north traffic 跟 east-west traffic 要怎麼規劃。
   * 有時候你必須跟客戶的 Project Manager 談圖 3 的架構在 AWS 上需要多少錢，如果客戶說他們沒有那麼多預算，請問你要如何簡化圖 3 的架構來省錢？同時讓客戶了解到省錢之後的後果可能是他們的 application 的安全性會降低，或是 reliablity 會降低，該如何取捨？
-  * 有時候是在同一個會議裡跟客戶的不同部門大亂鬥XD Project Manager 說圖 3 太貴了，他們不想要買 Shield Advance，Security Team 說不行我們這樣資安會有漏洞。然後 Networking Team 跳出來說，multi-region deployment 這樣網路很難規劃，但 CTO 說不行我們的一定要multi-region deployment，因為 single-region deployment 的話我們無法滿足跟客戶的 SLA (service level agreement)。
+  * 有時候是在同一個會議裡跟客戶的不同部門大亂鬥XD Project Manager 說圖 3 太貴了，他們不想要買 Shield Advance，Security Team 說不行我們這樣資安會有漏洞。然後 Networking Team 跳出來說，multi-region deployment 這樣網路很難規劃，但 CTO 說不行我們的一定要 multi-region deployment，因為 single-region deployment 的話我們無法滿足跟客戶的 SLA (service level agreement)。
 
 
 

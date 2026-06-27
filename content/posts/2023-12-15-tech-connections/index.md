@@ -49,7 +49,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 ![](images/medium-1*vNUhERllI0LNMPp4aa6hFQ.png)
 
-介紹：Ruby on Rails 開發者熱衷於開發一些最優秀、行業領先的網絡應用程程式。我們同樣熱愛我們的社群，並歡迎新成員加入我們這個擴大有趣的群體。我們在雪梨每月都會舉辦聚會，進行演講並討論有關Ruby on Rails、軟體開發的相關主題。
+介紹：Ruby on Rails 開發者熱衷於開發一些最優秀、行業領先的網絡應用程程式。我們同樣熱愛我們的社群，並歡迎新成員加入我們這個擴大有趣的群體。我們在雪梨每月都會舉辦聚會，進行演講並討論有關 Ruby on Rails、軟體開發的相關主題。
 
 心得：這應該算是我去過最多次的 meet ups，剛從 bootcamp 畢業的那段時間我每個月都會去。這個 meet up 特別的地方是在活動即將結束前，他們會開放一個時間讓正在找工作的人上台自我介紹、宣傳自己，在場的其他工程師或是獵頭如果覺得適合的話，可能就會幫忙介紹工作機會。
 
@@ -57,7 +57,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 ![](images/medium-1*sFJD3jQZURveaRmypOKonQ.png)
 
-介紹：SydCSS 是雪梨唯一專注於 CSS 相關事物的團體。如果你想要深入了解 floats 和 flexboxes，或者了解 LESS 和 Sass 的區別，這裡就是適合你的聚會地點。我們會聚在一起討論最新的技巧和技術，所以如果您和我們一樣熱愛一切與CSS有關的事物，現在就加入我們的群組吧！
+介紹：SydCSS 是雪梨唯一專注於 CSS 相關事物的團體。如果你想要深入了解 floats 和 flexboxes，或者了解 LESS 和 Sass 的區別，這裡就是適合你的聚會地點。我們會聚在一起討論最新的技巧和技術，所以如果您和我們一樣熱愛一切與 CSS 有關的事物，現在就加入我們的群組吧！
 
 其實雪梨的 tech meet ups 團體非常非常多，我覺得如果我全部寫出來會累死XD，所以我就先列舉幾個，其他的就等著大家去發掘囉～
 
@@ -81,25 +81,25 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 ![](images/medium-1*WnBcHvtXznF5SCPBr-wFrA.png) GDG (Google Developer Group)
 
-介紹：GDG Brisbane 歡迎所有對學習 Android 以及 Google 相關開發技術有興趣的人，活動主題包括 Angular、Kotlin、Java、Flutter、Firebase、機器學習、虛擬現實、Google助手、可穿戴裝置和物聯網。
+介紹：GDG Brisbane 歡迎所有對學習 Android 以及 Google 相關開發技術有興趣的人，活動主題包括 Angular、Kotlin、Java、Flutter、Firebase、機器學習、虛擬現實、Google 助手、可穿戴裝置和物聯網。
 
 **3\. Brisbane AWS User Group:**[**https://www.meetup.com/en-AU/aws-brisbane/**](https://www.meetup.com/en-AU/aws-brisbane/)
 
 ![](images/medium-1*Ts4-MJD68Kw2BzNl2z11lQ.png)
 
-介紹：歡迎加入 Brisbane AWS 用戶群組！ 我們每個月舉辦的 AWS Meetup活動將為您敞開學習雲端技術的大門。Brisbane AWS 用戶群組是一個由 IT 專業人員、商業人士、創新者和企業家組成，我們對 Amazon Web Services 抱有極大的熱情。AWS 不斷挑戰我們以不同的方式來思考我們的工作，讓我們更大膽、更靈活、更有創造力。
+介紹：歡迎加入 Brisbane AWS 用戶群組！ 我們每個月舉辦的 AWS Meetup 活動將為您敞開學習雲端技術的大門。Brisbane AWS 用戶群組是一個由 IT 專業人員、商業人士、創新者和企業家組成，我們對 Amazon Web Services 抱有極大的熱情。AWS 不斷挑戰我們以不同的方式來思考我們的工作，讓我們更大膽、更靈活、更有創造力。
 
 心得：前前東家 AWS (Amazon Web Services) 布里斯本辦的 meet up 團體。活動通常是在布里斯本 AWS 辦公室進行，主題大多都是跟 AWS 雲端技術相關。辦公室位於市中心 30 樓，風景很好。因為公司大、活動經費多，我上次去覺得食物好吃 (是廚師外燴，而不像一般活動都只是訂披薩而已)，布里斯本 AWS 辦公室還有特殊的 beer tap （中文我不會說，但請看以下示意圖）。這個是布里斯本辦公室特有的，有機會去的人一定要體驗看看XD 就當作免費去參觀 AWS 辦公室也值得XD
 
 ![](images/medium-0*TozX87zgUY3ia-IV.jpg.jpg)beer tap 是意圖，圖片來源：<https://englishlive.ef.com/zh-tw/blog/english-in-the-real-world/bar-pub/>
 
-另外因為是AWS舉辦的活動，所以去那邊可以認識很多在 AWS 工作的人，不失為一個更加了解 AWS 的方式。
+另外因為是 AWS 舉辦的活動，所以去那邊可以認識很多在 AWS 工作的人，不失為一個更加了解 AWS 的方式。
 
 **4\. Brisbane Azure User Group：**[**https://www.meetup.com/en-AU/Brisbane-Azure-User-Group/**](https://www.meetup.com/en-AU/Brisbane-Azure-User-Group/)
 
 ![](images/medium-1*owy9aRx6zJK_mHlUZiVlsA.png)
 
-介紹：此社群旨在代表昆士蘭地區迅速增長的 Azure 社群，為大家提供一個聚會、學習、討論和探索Microsoft Azure平台的場所。聚會定於每月的第二個星期三晚上（6–8pm）舉行，地點將設在微軟布里斯本辦公室。大多數聚會將包括較短的技術分享和較長的深度技術會議，使我們有機會定期深入研究 Microsoft Azure 平台。
+介紹：此社群旨在代表昆士蘭地區迅速增長的 Azure 社群，為大家提供一個聚會、學習、討論和探索 Microsoft Azure 平台的場所。聚會定於每月的第二個星期三晚上（6–8pm）舉行，地點將設在微軟布里斯本辦公室。大多數聚會將包括較短的技術分享和較長的深度技術會議，使我們有機會定期深入研究 Microsoft Azure 平台。
 
 心得：介紹完前前東家就不能不介紹一下前東家微軟的 meet up 團體，基本上跟 AWS 類似，主題圍繞在 Azure 雲端技術。舉辦的地點也大多在微軟的布里斯本辦公室，因為微軟的布里斯本辦公室規模很小，所以辦公室本身不太值得期待，食物就是一般的披薩，酒還要從鎖上辦公室儲物間廚房拿出來XDD (辦公室本身不值得參觀，比一些小公司都不如XD) 不過一樣可以遇到很多微軟的員工，也是一個 networking 的好機會。
 
@@ -109,7 +109,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 ![](images/medium-1*SF8Npxo4g2o6puU29vjyNQ.png)
 
-介紹：歡迎加入AWS坎培拉用戶組！我們致力於建立一個AWS用戶的社區，讓大家可以聚在一起，分享彼此的經驗，並從組內其他成員中學習。我們討論人們如何使用AWS，樂於聽取人們對平台喜歡和不喜歡的看法，並歡迎任何對AWS和雲計算感興趣的人加入我們！
+介紹：歡迎加入 AWS 坎培拉用戶組！我們致力於建立一個 AWS 用戶的社區，讓大家可以聚在一起，分享彼此的經驗，並從組內其他成員中學習。我們討論人們如何使用 AWS，樂於聽取人們對平台喜歡和不喜歡的看法，並歡迎任何對 AWS 和雲計算感興趣的人加入我們！
 
 心得：坎培拉的 AWS 團體，主辦人是我之前在 AWS 的 manager，請大家多多支持XD 活動多半辦在坎培拉 AWS 辦公室，但我記得他們同時也會在 twitch/YouTube 直播，所以也可以遠距參與。
 

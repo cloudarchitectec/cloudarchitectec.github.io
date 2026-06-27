@@ -26,7 +26,7 @@ episodeseries: ["DevOps 面試紀錄"]
 
 面試的節奏帶得非常好，我覺得我們好像就是兩個 IT 同行在技術上以及工作風格上進行各式討論，只是他的專長領域是 DevOps 跟團隊管理，我的專長領域是 Cloud Infrastructure 跟 Solution Architecting。
 
-雖然我沒有 DevOps 的相關經驗，但我也從過往經驗加 solution architecting 的角度回答，把 DevOps 各領域的問題都回答得非常好 (大概有 95 %的問題我都答出來了)！
+雖然我沒有 DevOps 的相關經驗，但我也從過往經驗加 solution architecting 的角度回答，把 DevOps 各領域的問題都回答得非常好 (大概有 95% 的問題我都答出來了)！
 
 回答過程中，如果是我缺乏的知識點跟不足的地方，我也會直接說：「這個東西我只懂概念上怎麼設計解決方案，但我沒有親自動手做過，這也是我為什麼想要加入這個職位的原因，因為這就是我想要學的技能、也是我未來職涯想要前往的方向！」
 
@@ -36,9 +36,9 @@ episodeseries: ["DevOps 面試紀錄"]
 
 ![DevOps面試準備過程圖表](images/medium-1*6nycs2is5wewr0ctsxJjcg.png)
 
-總之 HM 的回答也是說，沒有正式的入職訓練 QAQ
+總之 HM 的回答也是說，沒有正式的入職訓練QAQ
 
-但我緊接著就回說「我會問這個問題是因為在我過往的工作經驗中，有幾個不太好的onboarding 經驗。
+但我緊接著就回說「我會問這個問題是因為在我過往的工作經驗中，有幾個不太好的 onboarding 經驗。
 
 有些經理什麼訓練都沒有提供，就把我直接丟到客戶面前，讓我過得很辛苦。
 
@@ -73,7 +73,7 @@ episodeseries: ["DevOps 面試紀錄"]
   * **Q: What does DevOps mean to you?**
       * A: For me, DevOps is where you use relatively new technologies in different domains to help different teams (devs, ops, architects). DevOps brings them together and then work together to build the foundation for each team to work at the best towards certain goal. That’s why I like it — there’s always so much to learn.
 
-  * **Q: This role involves a bit of consulting. How would you provide info or guidance to engineers especially someone who’s less knowledgeable than you in this domain? (我之前AWS就是做technical consulting，問這題豈不是問到我的專業XDD)**
+  * **Q: This role involves a bit of consulting. How would you provide info or guidance to engineers especially someone who’s less knowledgeable than you in this domain? (我之前 AWS 就是做 technical consulting，問這題豈不是問到我的專業XDD)**
     * A: The 1st step is to build the trust relationship and identify the right people to be in the right call. In my previous experience, sometimes I spoke to an engineer for quite a while to help them identify the issues and guide them with a solution, but at the end I realised that they aren’t actually the people who can make the call on the design decision. Or sometimes they thought the issue was about networking design, but as we proceeded with the conversation, we realised that it’s actually security related so we needed the security team to be presented. That’s why the 1st step is very important.
 
     * The 2nd step is to understand the requirement/issue — why do they need this solution in the first place? What’s the end goal? What are their current challenges? These questions are very important as people might not be in the right direction or there are some other possibilities that they haven’t considered.

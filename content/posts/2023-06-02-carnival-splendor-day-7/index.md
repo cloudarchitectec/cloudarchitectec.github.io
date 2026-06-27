@@ -26,24 +26,24 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 **神奇的五分鐘 wifi**
 
-今天早上我們又回到了 Noumea港口，不知道為什麼我突發奇想在陽台上搜尋了一下，居然連上了短暫的 free wifi (那個人沒有設密碼!!!) 只可惜快樂的時光特別短暫，五分鐘之後我進去房間刷了牙，出來就沒了。再度回歸到我與網路世界隔絕的生活QAQ
+今天早上我們又回到了 Noumea 港口，不知道為什麼我突發奇想在陽台上搜尋了一下，居然連上了短暫的 free wifi (那個人沒有設密碼!!!) 只可惜快樂的時光特別短暫，五分鐘之後我進去房間刷了牙，出來就沒了。再度回歸到我與網路世界隔絕的生活QAQ
 
 **Mystery Island 游泳事故**
 
 吃完早餐後我們跑到一樓泰國情侶的房間集合，順便參觀了一下他們的海景房。基本上格局跟我們一模一樣，只是他們沒有陽台，而且窗戶也比我們小很多。
 
-此時泰國情侶跟我們分享昨天在 Mystery Island，有一個40幾歲的女性遊客溺斃的消息，讓我們大吃一驚！他們說很多遊客都在討論這件事，有人看到她被救上來之後在沙灘上被施以人工呼吸，但後來還是回天乏術。雖然據說每次郵輪都會有遊客喪生的消息，但聽到還是覺得非常可怕! 相關報導可以參考這裡，裡面沒有太多關於細節的描述，但請大家平常進行水上活動的時候一定要多加小心、注意安全：[https://7news.com.au/.../cruise-passenger-dies-while...](https://l.facebook.com/l.php?u=https%3A%2F%2F7news.com.au%2Fnews%2Fnsw%2Fcruise-passenger-dies-while-swimming-on-mystery-island--c-10741959%3Ffbclid%3DIwAR0gZi1XgWSudveBFE2zOwKqdw2BCpspOt15OsTOV3B38hfHYtamhlJ3K6E&h=AT2OG-UJHuaOojjv74IpjWitaQlaE-iNv3Z634tOQdRBWzn9WGy3LYmIltfNeO--wnUpOv3gSX9p7Naae9xGRDEEndr8-BGxoSZ7sdl8bGRd_be3P8q8lYBriLkHQ79hIA&__tn__=-UK-R&c\[0\]=AT0zhJeOQE1LaZ5PVnIu9vDNOiMWlLgS4nJ5PJzQfh3zgTLN-PxOWaJp-FYVNgmKxB_wmA_STbgHwiL-mC3nTjdE-WjE7tAKBGvUr7aZp0gcHEpMtvmkaVMWTGjhren2ukXVmc8b_iGS_8JZ7l4XmB2veMUo34Z-TB94iWhhE5tSdA9qMLn8YA)
+此時泰國情侶跟我們分享昨天在 Mystery Island，有一個 40 幾歲的女性遊客溺斃的消息，讓我們大吃一驚！他們說很多遊客都在討論這件事，有人看到她被救上來之後在沙灘上被施以人工呼吸，但後來還是回天乏術。雖然據說每次郵輪都會有遊客喪生的消息，但聽到還是覺得非常可怕! 相關報導可以參考這裡，裡面沒有太多關於細節的描述，但請大家平常進行水上活動的時候一定要多加小心、注意安全：[https://7news.com.au/.../cruise-passenger-dies-while...](https://l.facebook.com/l.php?u=https%3A%2F%2F7news.com.au%2Fnews%2Fnsw%2Fcruise-passenger-dies-while-swimming-on-mystery-island--c-10741959%3Ffbclid%3DIwAR0gZi1XgWSudveBFE2zOwKqdw2BCpspOt15OsTOV3B38hfHYtamhlJ3K6E&h=AT2OG-UJHuaOojjv74IpjWitaQlaE-iNv3Z634tOQdRBWzn9WGy3LYmIltfNeO--wnUpOv3gSX9p7Naae9xGRDEEndr8-BGxoSZ7sdl8bGRd_be3P8q8lYBriLkHQ79hIA&__tn__=-UK-R&c\[0\]=AT0zhJeOQE1LaZ5PVnIu9vDNOiMWlLgS4nJ5PJzQfh3zgTLN-PxOWaJp-FYVNgmKxB_wmA_STbgHwiL-mC3nTjdE-WjE7tAKBGvUr7aZp0gcHEpMtvmkaVMWTGjhren2ukXVmc8b_iGS_8JZ7l4XmB2veMUo34Z-TB94iWhhE5tSdA9qMLn8YA)
 
 **Signal Island**
 
 ![Signal Island碼頭登陸點](images/medium-1*pkrhyBIJ7puIz4dS-AWQ5A.jpg) Signal Island Jetty
 
-我們訂了一個人$75的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 signal island 試圖用海水冰鎮它們 (想當然爾沒用XDDD)。
+我們訂了一個人 $75 的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 signal island 試圖用海水冰鎮它們 (想當然爾沒用XDDD)。
 
 
 *沙灘啤酒*
 
-去 Signal island 的船開得超快，完全就像搭了30分鐘的speed boat，到了之後我們才發現島上滿滿的遊客 (一開始還以為能擁有我們自己的小空間)，而且好像很多當地遊客，因為我們發現很多人帶著帳篷跟露營設備去島上。而且海水超冷，所以一開始我還想說要不要乾脆放棄浮潛這個念頭，但在沙灘上曬了一下，覺得來都來了，不去浮潛也太浪費，於是我就出發了
+去 Signal island 的船開得超快，完全就像搭了 30 分鐘的 speed boat，到了之後我們才發現島上滿滿的遊客 (一開始還以為能擁有我們自己的小空間)，而且好像很多當地遊客，因為我們發現很多人帶著帳篷跟露營設備去島上。而且海水超冷，所以一開始我還想說要不要乾脆放棄浮潛這個念頭，但在沙灘上曬了一下，覺得來都來了，不去浮潛也太浪費，於是我就出發了
 
 ![Signal Island高速快艇](images/medium-1*_8qT-33mIRs1_H5FMc9BBA.jpg)
 
@@ -53,7 +53,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ![Signal Island淺海水域](images/medium-1*TogxxI52YCC_-OmRdC5TiA.jpg) 海水很淺
 
-Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始得走過10分鐘的礁岩沙灘，我的腳掌完全痛爆，腳上又多了更多割傷，真心是痛到爆炸！強烈建議大家還是先在Kmart 買好 water shoes/reef shoes 再來，我當初有去找但沒找到，現在非常後悔，因為我的腳隔了幾天都還在痛，強烈建議大家一定要帶!
+Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始得走過 10 分鐘的礁岩沙灘，我的腳掌完全痛爆，腳上又多了更多割傷，真心是痛到爆炸！強烈建議大家還是先在 Kmart 買好 water shoes/reef shoes 再來，我當初有去找但沒找到，現在非常後悔，因為我的腳隔了幾天都還在痛，強烈建議大家一定要帶!
 
 ![Signal Island野生海龜奇遇](images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpg)
 
@@ -73,4 +73,4 @@ Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始
 
 *而且還發螢光棒!*
 
-很多人也裝扮得很認真，但超多首80年代的歌我跟Ashley 都不知道，很難嗨起來 lol
+很多人也裝扮得很認真，但超多首 80 年代的歌我跟 Ashley 都不知道，很難嗨起來lol

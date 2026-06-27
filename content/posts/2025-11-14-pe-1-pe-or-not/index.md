@@ -35,7 +35,7 @@ episodeseries: ["我要升官加薪"]
 
 ## 人物背景分析
 
-- **主管 B （布里斯本）**：資深工程師出身，已在公司20年。即便新增 PE 職位，他還是會負責團隊人員管理跟向上匯報 (reporting) 。這意味著，雖然 PE 這個缺比一般 DevOps Engineer 職等高，但還是會跟一般 DevOps Engineer 一樣 report to 主管 B。
+- **主管 B （布里斯本）**：資深工程師出身，已在公司 20 年。即便新增 PE 職位，他還是會負責團隊人員管理跟向上匯報 (reporting) 。這意味著，雖然 PE 這個缺比一般 DevOps Engineer 職等高，但還是會跟一般 DevOps Engineer 一樣 report to 主管 B。
 
 - **選手 1：我本人 (DevOps Engineer - 布里斯本)**：前 FAANG 背景，目前年資兩年多。技術與溝通能力平衡，正在評估這個職涯選項適不適合我，值不值得去爭取。
 
@@ -50,7 +50,7 @@ episodeseries: ["我要升官加薪"]
 
 - **同事 AL (Senior data integration engineer - 墨爾本)**: AL 跟 D 前幾個月因為公司 re-org 的關係才被併入我們團隊，因為沒有 data integration related tasks，現在只能跟著我們 team 做 devops，兩位都有技術強度，缺點是他們都在墨爾本，而且我覺得他們的溝通能力都稍弱。
 
-- **同事 D (Senior data integration engineer - 墨爾本)**：D 在 re-org 之前是 principal engineer，但合併到我們團隊後職稱被降級為 senior engineer (??? 我個人覺得超級莫名其妙)。PE 職缺消息宣布的前一天，B 才跟我們說 D 拿到了另一個內部的團隊的 senior engineer 的 offer，我個人是真心覺得他很衰！因為他應該是一心想要重回 principal engineer，所以才申請去另一個team，比較有職涯發展空間。結果現在剛好一整個陰錯陽差錯過我們團隊的 PE 缺。朋友說：我覺得是因為 B 不想交棒給他，如果想的話，應該會提醒他不要申請其他 team 的位子XD
+- **同事 D (Senior data integration engineer - 墨爾本)**：D 在 re-org 之前是 principal engineer，但合併到我們團隊後職稱被降級為 senior engineer (??? 我個人覺得超級莫名其妙)。PE 職缺消息宣布的前一天，B 才跟我們說 D 拿到了另一個內部的團隊的 senior engineer 的 offer，我個人是真心覺得他很衰！因為他應該是一心想要重回 principal engineer，所以才申請去另一個 team，比較有職涯發展空間。結果現在剛好一整個陰錯陽差錯過我們團隊的 PE 缺。朋友說：我覺得是因為 B 不想交棒給他，如果想的話，應該會提醒他不要申請其他 team 的位子XD
 
 對我來說，如果 L 當選我會很開心。有實力的聰明人，各個方面完美，溝通協調能力強，個性幽默風趣，解決問題能力也強。他在技術跟 solution design 上給我非常多的指導。
 
@@ -65,7 +65,7 @@ episodeseries: ["我要升官加薪"]
 - **薪資增幅**：薪水增加，但不知道增幅是否值得？不管怎樣，往好處想，加薪都可以讓我離達成 FIRE 目標更近一步。
 
 **Cons (阻力)**
-- **失去工作自由度**：這是我最在意的。正在往 FIRE 目標前進的我，其實不想花過多心力在職涯上。PE 通常責任加倍、報酬未必成比例。極有可能會失去 daily autonomy 跟自由安排時間的彈性。但往好處想是，反正辛苦可能也不會辛苦太久XD (因為我預計大概再 7-10年就可以 FIRE)。
+- **失去工作自由度**：這是我最在意的。正在往 FIRE 目標前進的我，其實不想花過多心力在職涯上。PE 通常責任加倍、報酬未必成比例。極有可能會失去 daily autonomy 跟自由安排時間的彈性。但往好處想是，反正辛苦可能也不會辛苦太久XD (因為我預計大概再 7-10 年就可以 FIRE)。
 - **會議地獄**：我很討厭無意義的 Business Meetings，會不會職涯變成花很多時間在會議、做報表上面? 因為我就就近觀察到其他 team 的 PE 整天都在開會。雖然朋友安慰我：「可是你現在的經理也沒有整天在開會？而且看起來報表跟管理應該還是現在的經理做（他自己也很 technical，一般簡單直接的技術決定也不需要透過 PE，他自己就可以直接決定），PE 感覺只是分擔技術職務？」
 - **實作的快樂與成就感**：我喜歡自己掌控 task 進度，享受把東西做出來的成就感。PE 勢必得花更多時間在「溝通」與「委派任務」，這真的適合我嗎？
 

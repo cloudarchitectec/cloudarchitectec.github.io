@@ -45,7 +45,7 @@ tags: ["雲端證照"]
 #### 1\. [YouTube] AZ-500 Microsoft Azure Security Technologies Study Cram by John Savill
 
   * **連結** : <https://www.youtube.com/watch?v=6vISzj-z8k4>
-  * **時間** ：影片大約有3小時，但我通常都是以1.5倍的速度觀看考試準備影片，來節省時間XD
+  * **時間** ：影片大約有 3 小時，但我通常都是以 1.5 倍的速度觀看考試準備影片，來節省時間XD
   * **EC 的筆記** ：這個影片幫助我快速回顧了與 AZ-500 考試相關的所有 Azure 服務和概念。如果你對本地 Active Directory（on-prem AD）或 Azure Active Directory（AAD）不熟悉，我覺得 identity 相關的章節非常有用。但這個影片的其他章節內容對考試準備來說並不是非常實用（別誤會，這是一個非常好的教學影片，但我覺得更適合拿來作為學習 Azure 相關的資安知識的教材。如果你單純使用這個影片來準備 AZ-500 證照考試，我覺得你很有可能會考不過XDDD）。
 
 
@@ -53,7 +53,7 @@ tags: ["雲端證照"]
 #### 2\. [YouTube] Azure Security Technologies AZ 500 dumps by Cloud Guru Amit
 
   * **連結** : [https://www.youtube.com/watch?v=hLXL5AeDxFs&list=PLyABYqulvUwYDZ5wVM1Y7qckfb0bnYbe9](https://www.youtube.com/watch?v=hLXL5AeDxFs&list=PLyABYqulvUwYDZ5wVM1Y7qckfb0bnYbe9)
-  * **時間** ：少於1小時
+  * **時間** ：少於 1 小時
   * **EC 的筆記** ：我非常喜歡他的影片風格，非常直接。老師只講重點，不會浪費時間！我從這個系列影片中獲得了一些不錯的考試知識（系列中有一些付費內容，但我並沒有真的付費去觀看）。對於這個系列影片，我有一個小秘訣就是在每個問題後暫停影片，試著自己回答問題，然後再觀看答案。我認為這樣做絕對有助於我思考我之前的學過的資安知識，然後更好地理解考試概念。
 
 
@@ -61,12 +61,12 @@ tags: ["雲端證照"]
 #### 3\. Exam Topic — Microsoft AZ-500 Exam
 
   * **連結** : <https://www.examtopics.com/exams/microsoft/az-500/view/>
-  * **時間** ：約3小時
-  * **EC的筆記** ：對我來說，這可能是準備 AZ-500 考試的最有用的資源。記得要閱讀討論區的討論內容，因為有時候顯示的答案可能不是正確的答案。我通常會在準備雲端證照考試的最後一步使用 Exam Topic來驗證我學到知識（他們有各式雲端證照的考試題目）。有時候我在實際考試中也會看到非常相似的問題，所以這也是使用這個網站準備考試的一個加分項！
+  * **時間** ：約 3 小時
+  * **EC 的筆記** ：對我來說，這可能是準備 AZ-500 考試的最有用的資源。記得要閱讀討論區的討論內容，因為有時候顯示的答案可能不是正確的答案。我通常會在準備雲端證照考試的最後一步使用 Exam Topic 來驗證我學到知識（他們有各式雲端證照的考試題目）。有時候我在實際考試中也會看到非常相似的問題，所以這也是使用這個網站準備考試的一個加分項！
 
 
 
-### 對於 AZ-500 考試的反思 ( 2023年7月2日考取證照)
+### 對於 AZ-500 考試的反思 ( 2023 年 7 月 2 日考取證照)
 
   1. 關於如何管理資料庫安全(Database) 和 Container Security 的問題比我想像的多。
   2. 關於網路安全 (Networking Security) 和不同類型的 AD roles 的問題比我預期的少。
@@ -76,6 +76,6 @@ tags: ["雲端證照"]
 
 ### 結論
 
-雖然我很順利第一次就通過了 AZ-500，但現在想想我覺得我應該在參加 AZ-500 考試之前先參加 <<AZ-700 考試：設計和實施 Microsoft Azure 網路解決方案（Microsoft Certified: Azure Network Engineer Associate）>>。由於網路安全在 AZ-500 中佔了很大的比重（20–25%），我覺得通過 AZ-700 考試會是一個極大的優勢。（有趣的是，我計劃接下來要參加的考試就是 AZ-700哈哈）
+雖然我很順利第一次就通過了 AZ-500，但現在想想我覺得我應該在參加 AZ-500 考試之前先參加 <<AZ-700 考試：設計和實施 Microsoft Azure 網路解決方案（Microsoft Certified: Azure Network Engineer Associate）>>。由於網路安全在 AZ-500 中佔了很大的比重（20–25%），我覺得通過 AZ-700 考試會是一個極大的優勢。（有趣的是，我計劃接下來要參加的考試就是 AZ-700 哈哈）
 
 大家也考過 Azure 或 AWS 雲端證照嗎？有沒有什麼獨門準備秘技？歡迎留言與我分享～

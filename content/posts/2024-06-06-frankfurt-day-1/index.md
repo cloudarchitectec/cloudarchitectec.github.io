@@ -25,13 +25,13 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 初見法蘭克福
 
-坐了4.5小時的火車，我終於從荷蘭海牙抵達德國法蘭克福。
+坐了 4.5 小時的火車，我終於從荷蘭海牙抵達德國法蘭克福。
 
 到了法蘭克福的火車站，第一印象就是，天啊，這是什麼危險的地方！
 
 車站外面超多看起來有嗑藥跟很奇怪的人，我的警戒雷達狂響！（事後我跟當地人確認了一下，法蘭克福火車站附近真的是一個危險的地方，我非常不建議女生獨旅來這裡玩！真的要來也可以，但一定要保持警覺，我之後的影片裡也會提到我的獨旅小訣竅～）
 
-我在 booking.com 上訂了一個含簡易廚房的 studio apartment： [numa I Blau Apartments](https://www.booking.com/hotel/de/star-apart-hauptbahnhof.en-gb.html?aid=318615&label=cc1_English_Australia_EN_AU_165353993714-K6erAAUeRswzA8JmA3n8TAS700403889243%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&sid=7cf2b62dbaaceb535d33ccf422821d70&dest_id=-1771148;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;srepoch=1717498986;srpvid=00bd4da3e23f00f7;type=total;ucfs=1&)，離車站非常近（走路約3分鐘)，於是我一路保持警覺速速前往旅館 check in。這個旅館的check in 過程完全電子化，房間如果提早準備好，他們會傳WhatsApp 訊息告知，超方便！
+我在 booking.com 上訂了一個含簡易廚房的 studio apartment： [numa I Blau Apartments](https://www.booking.com/hotel/de/star-apart-hauptbahnhof.en-gb.html?aid=318615&label=cc1_English_Australia_EN_AU_165353993714-K6erAAUeRswzA8JmA3n8TAS700403889243%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg&sid=7cf2b62dbaaceb535d33ccf422821d70&dest_id=-1771148;dest_type=city;dist=0;group_adults=3;group_children=0;hapos=1;hpos=1;no_rooms=1;req_adults=3;req_children=0;room1=A%2CA%2CA;sb_price_type=total;srepoch=1717498986;srpvid=00bd4da3e23f00f7;type=total;ucfs=1&)，離車站非常近（走路約 3 分鐘)，於是我一路保持警覺速速前往旅館 check in。這個旅館的 check in 過程完全電子化，房間如果提早準備好，他們會傳 WhatsApp 訊息告知，超方便！
 
 ![法蘭克福 studio apartment](images/medium-1*z-fGC0otV3QJBW9fv6w0UA.jpg)
 
@@ -41,7 +41,7 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 第一眼進到房間覺得裡面有點沒有很乾淨，所以感覺不是太好，而且浴室裡有一股潮味 (立刻把對外窗打開通風之後就好很多)，後來發現有污漬的地方大部分都是之前房客留下來的痕跡 (是擦不掉的)，所以逐漸適應後我覺得還算不錯XD
 
-主要是因為這樣一晚才$110澳，空間非常大，廚房用品齊全，甚至有廚房紙巾跟洗碗精。浴室也是超級大，有雙蓮蓬頭，水勢強勁洗起來非常爽！有三個大窗戶觀察路人很有趣XD (但看出去真的就會看到路上有各種奇怪的人 LOL）
+主要是因為這樣一晚才 $110 澳，空間非常大，廚房用品齊全，甚至有廚房紙巾跟洗碗精。浴室也是超級大，有雙蓮蓬頭，水勢強勁洗起來非常爽！有三個大窗戶觀察路人很有趣XD (但看出去真的就會看到路上有各種奇怪的人LOL）
 
 ![法蘭克福窗外台灣餐廳](images/medium-1*orOwmMu2x-o-pkYHdsVL6A.jpg)
 
@@ -81,11 +81,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 當時，我正坐在法蘭克福的 Main River 河畔長椅上拍影片，拍一拍突然有一個男生坐在我旁邊，我還刻意調整了一下鏡頭角度，不要讓他入鏡。我眼角餘光有注意到他一直看我，但我想說他應該是看我拍片很有趣，反正我影片講中文他也不懂，我就繼續拍! 沒想到我拍完之後他就突然跟我搭訕要電話😱
 
-好的，以下是大家想要知道的八卦細節，德國小哥今年25歲，小時後就跟爸媽移民德國，但他們家其實是俄國斯裔，我覺得算是長相中上吧XD
+好的，以下是大家想要知道的八卦細節，德國小哥今年 25 歲，小時後就跟爸媽移民德國，但他們家其實是俄國斯裔，我覺得算是長相中上吧XD
 
 德國小哥表示他覺得我長得很漂亮，而且很 calm (我就問一個坐在公園長椅上的人能有多激動XDDD），然後他認真想要找個人訂下來結婚 (所以你就在河畔搭訕外國人?XD)，總之他的邏輯我不是很懂哈哈哈哈。我跟小哥聊了一下，最後交換了電話我就脫身了！(之後的影片中會有更多細節～沒錯，我就是要一直在部落格裡面埋梗，給自己製造一點上片的壓力😂)
 
-最後我要大推 [Metropol Kebap Place](https://maps.app.goo.gl/ZeVuSKURxxGSPvHv8?g_st=ic) 這家餐廳，就在法蘭克福火車站附近，我的旅館對面！這是一家中東料理kebab 餐廳，店裡客人不少，本地人跟遊客大概一半一半，而且很多一個人來用餐的人，簡直是 I 人天堂!!!
+最後我要大推 [Metropol Kebap Place](https://maps.app.goo.gl/ZeVuSKURxxGSPvHv8?g_st=ic) 這家餐廳，就在法蘭克福火車站附近，我的旅館對面！這是一家中東料理 kebab 餐廳，店裡客人不少，本地人跟遊客大概一半一半，而且很多一個人來用餐的人，簡直是 I 人天堂!!!
 
 老闆可以用簡單的英文溝通，他人超好幫我客製化餐點 (我想把薯條換成飯)。
 

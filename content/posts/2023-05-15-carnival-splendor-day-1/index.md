@@ -28,7 +28,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 住在布里斯本的我跟住在塔斯馬尼亞的友人 Ashley 決定一起進行一個為期九天的南太平洋遊輪之旅。這是我人生第一次的遊輪旅行，Ashley 則是在十年前參加過一個類似的遊輪行程。這趟遊輪之行從雪梨出發，途中會經過 Vanuatu (台灣: 萬那杜/中國: 瓦努阿圖) 的 Mystery Island 跟 New Caledonia (新喀里多尼亞)的 Noumea 小島、Lifou 小島。除去登船當天以及下船當天，我們會有四天在海上的行程以及四天在小島上的行程。
 
-我們訂的是有陽台的雙人房，一個人大概是1200澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。詳細的行程資訊請參考遊輪公司的官方網站**:**[Carnival Splendor](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)。
+我們訂的是有陽台的雙人房，一個人大概是 1200 澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。詳細的行程資訊請參考遊輪公司的官方網站**:**[Carnival Splendor](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)。
 
 ![Carnival Splendor 郵輪航線圖](images/medium-1*9VkvnBxVqpdapqOWreIMLg.png)
 
@@ -42,11 +42,11 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ### **Cruise Check-in**
 
-郵輪 Check-in 的動線還滿流暢的！記得飲料必須要隨身攜帶，不能託運 (Carnival 的新規定是一人可以帶一瓶 750ml酒 + 12 瓶 350ml 以內的無酒精飲料，但這次並沒有人特別檢查！Ashley 帶了13瓶飲料也沒人發現XD)
+郵輪 Check-in 的動線還滿流暢的！記得飲料必須要隨身攜帶，不能託運 (Carnival 的新規定是一人可以帶一瓶 750ml 酒 + 12 瓶 350ml 以內的無酒精飲料，但這次並沒有人特別檢查！Ashley 帶了 13 瓶飲料也沒人發現XD)
 
 ![25瓶飲料、2瓶酒以及泡麵](images/medium-1*D0Jc3uYW_mTTSjCQCjSIdA.jpg)
 
-*25瓶飲料、2瓶酒以及泡麵*
+*25 瓶飲料、2 瓶酒以及泡麵*
 
 上船後的第一件事就是參加安全講習 (safety briefing)，結束後就可以直接去房間了，房卡會放在房門口信箱裡，用一個信封裝著。
 
@@ -58,7 +58,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 **出發啦**
 
-4點遊輪正式出航，一路上看到了很美的夕陽與晚霞。
+4 點遊輪正式出航，一路上看到了很美的夕陽與晚霞。
 
 ![雪梨港灣大橋夕陽美景](images/medium-1*aXrb66lpvSev2Ui2ezeH8g.jpg)
 
@@ -66,13 +66,13 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 **晚餐 — Gold Pearl (Main Dining Room)**
 
-Check-in 時我們選的是 early dine-in，所以5:15 就可以入座用餐了。我們的桌號剛好就是我的生日，會不會太巧！！！
+Check-in 時我們選的是 early dine-in，所以 5:15 就可以入座用餐了。我們的桌號剛好就是我的生日，會不會太巧！！！
 
 如果沒有特別去換桌號或是去其他地方吃飯的話，每天晚上會固定坐在同一桌跟同一批人吃飯。我們跟兩對情侶一起共桌，有趣的是情侶的男生都是澳洲人，女生則有一個是泰國人、一個是歐洲人。想當然而，跟澳洲人一起坐肯定就得開始閒聊，於是我們就開始尬聊了起來XD
 
 ### **Welcome Aboard Show**
 
-吃完晚餐我們回房間休息了一下 (其實我已經累到不行了，因為我早上還上班處理了一堆事)，然後去了劇院觀賞晚上 9:30的 welcome aboard show。表演的工作人員真的都很認真努力，但這個 show 其實感覺看與不看都可以XD
+吃完晚餐我們回房間休息了一下 (其實我已經累到不行了，因為我早上還上班處理了一堆事)，然後去了劇院觀賞晚上 9:30 的 welcome aboard show。表演的工作人員真的都很認真努力，但這個 show 其實感覺看與不看都可以XD
 
 ![Carnival郵輪三樓劇場](images/medium-1*h4xdyIWGNon8w9INUAIVqA.jpg)
 

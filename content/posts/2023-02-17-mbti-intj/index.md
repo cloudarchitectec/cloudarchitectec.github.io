@@ -17,10 +17,10 @@ tags: ["澳洲生活"]
 
 * * *
 
-### MBTI人格理論(16型職業性格評估) －INTJ-A 分享
+### MBTI 人格理論(16 型職業性格評估) －INTJ-A 分享
 
 
-不知道大家聽過或做過「MBTI人格理論 (16型職業性格評估)」嗎? 感覺在兩三年前非常紅，我之前做了這個免費的線上測試:
+不知道大家聽過或做過「MBTI 人格理論 (16 型職業性格評估)」嗎? 感覺在兩三年前非常紅，我之前做了這個免費的線上測試:
 
 [https://www.16personalities.com/personality-types](https://www.16personalities.com/personality-types?fbclid=IwAR04AYJKryHftXHGTJWF0JPwRDlMCbyhGourez5Nt8Q7ZclXAG2C9TTHbNo)
 
@@ -36,4 +36,4 @@ tags: ["澳洲生活"]
 
 4\. 「只佩服/只聽比我強的人的意見」 => 叮咚叮咚(正解)! 很多人都覺得我很固執，其實我不是XD 只要你可以成功用理性論述來說服我的話，我完全可以推翻我之前深信不疑的觀念/價值，但我實在太少遇到這種人了LOL
 
-5\. 「在職場上喜歡像「孤狼」般的職位」 => 叮咚叮咚(正解)! 最好是大家都不要跟我講話，讓我自己做事就好。對我來說，能力/硬實力才是重點! 這也是我當初想轉行 IT 的其中一個原因，沒想到我後來第一份 IT 工作是顧問職(AWS Cloud Architect)，雖然硬實力很重要，但如何有效溝通、贏得客戶信任又更重要。現在的工作(Microsoft Cloud Solution Architect)完全更上一層樓，會說話遠比實力更重要，畢竟是 technical sales! 難怪我在新職位過得如此艱辛 QAQ
+5\. 「在職場上喜歡像「孤狼」般的職位」 => 叮咚叮咚(正解)! 最好是大家都不要跟我講話，讓我自己做事就好。對我來說，能力/硬實力才是重點! 這也是我當初想轉行 IT 的其中一個原因，沒想到我後來第一份 IT 工作是顧問職(AWS Cloud Architect)，雖然硬實力很重要，但如何有效溝通、贏得客戶信任又更重要。現在的工作(Microsoft Cloud Solution Architect)完全更上一層樓，會說話遠比實力更重要，畢竟是 technical sales! 難怪我在新職位過得如此艱辛QAQ
