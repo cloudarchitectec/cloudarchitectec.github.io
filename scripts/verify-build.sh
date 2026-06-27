@@ -53,6 +53,34 @@ EPISODE_TERM="${PUBLIC_DIR}/episodeseries/我要升官加薪/index.html"
 [ -f "$EPISODE_TERM" ] || (echo "❌ Episode series term page missing: $EPISODE_TERM" && exit 1)
 echo "✅ Episode series taxonomy term page built"
 
+PORTFOLIO_CAREER_ZH="${PUBLIC_DIR}/portfolio/career-zh/index.html"
+PORTFOLIO_CAREER_EN="${PUBLIC_DIR}/portfolio/career-en/index.html"
+PORTFOLIO_STORY="${PUBLIC_DIR}/portfolio/story/index.html"
+PORTFOLIO_ROOT="${PUBLIC_DIR}/portfolio/index.html"
+
+for page in "$PORTFOLIO_CAREER_ZH" "$PORTFOLIO_CAREER_EN" "$PORTFOLIO_STORY"; do
+  [ -f "$page" ] || (echo "❌ Portfolio page missing: $page" && exit 1)
+done
+grep -q 'refresh' "$PORTFOLIO_ROOT" \
+  && grep -q 'career-zh' "$PORTFOLIO_ROOT" \
+  && echo "✅ Portfolio root redirects to career-zh" \
+  || (echo "❌ Portfolio root missing redirect to career-zh" && exit 1)
+
+grep -q 'cv-page' "$PORTFOLIO_CAREER_ZH" \
+  && grep -q '大家好，我是 EC' "$PORTFOLIO_CAREER_ZH" \
+  && grep -q 'Shell Energy Australia' "$PORTFOLIO_CAREER_ZH" \
+  && grep -q 'cv-tags' "$PORTFOLIO_CAREER_ZH" \
+  && echo "✅ Portfolio career-zh page built" \
+  || (echo "❌ Portfolio career-zh missing expected content" && exit 1)
+
+grep -q '個人經歷' "$PORTFOLIO_STORY" \
+  && echo "✅ Portfolio story page built" \
+  || (echo "❌ Portfolio story missing expected content" && exit 1)
+
+grep -q '>Experience<' "$PORTFOLIO_CAREER_EN" \
+  && echo "✅ Portfolio career-en page built" \
+  || (echo "❌ Portfolio career-en missing expected content" && exit 1)
+
 TAG_LIST="${PUBLIC_DIR}/tags/devops-工程師/index.html"
 [ -f "$TAG_LIST" ] || (echo "❌ Tag list page not built: $TAG_LIST" && exit 1)
 

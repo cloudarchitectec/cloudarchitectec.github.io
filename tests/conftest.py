@@ -7,6 +7,7 @@ import sys
 from pathlib import Path
 
 import pytest
+from playwright.sync_api import Page
 
 TESTS_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(TESTS_DIR))
@@ -20,6 +21,13 @@ from hugo_site import (
 SCRIPTS_DIR = Path(__file__).resolve().parent.parent / "scripts"
 POST_VALIDATION_DIR = SCRIPTS_DIR / "post-validation"
 REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def pytest_configure(config):
+    config.addinivalue_line(
+        "markers",
+        "network: tests that require external network access (e.g. Waline CDN)",
+    )
 
 
 def load_repo_module(relative_path: str):
@@ -79,3 +87,31 @@ def static_site_url(built_site):
 @pytest.fixture(scope="session")
 def base_url(static_site_url):
     return static_site_url
+
+
+MOBILE_VIEWPORT = {"width": 375, "height": 812}
+DESKTOP_VIEWPORT = {"width": 1280, "height": 720}
+
+
+@pytest.fixture
+def mobile_page(page: Page) -> Page:
+    page.set_viewport_size(MOBILE_VIEWPORT)
+    return page
+
+
+def assert_no_horizontal_overflow(page: Page, tolerance: int = 1) -> None:
+    scroll_width = page.evaluate("document.documentElement.scrollWidth")
+    viewport_width = page.viewport_size["width"]
+    assert scroll_width <= viewport_width + tolerance, (
+        f"horizontal overflow: scrollWidth={scroll_width}, viewport={viewport_width}"
+    )
+
+
+def assert_element_fits_viewport(page: Page, selector: str) -> None:
+    box = page.locator(selector).first.bounding_box()
+    viewport_width = page.viewport_size["width"]
+    assert box is not None, f"no bounding box for {selector}"
+    assert box["x"] >= 0, f"{selector} starts off-screen left (x={box['x']})"
+    assert box["x"] + box["width"] <= viewport_width + 1, (
+        f"{selector} overflows viewport (right edge={box['x'] + box['width']}, viewport={viewport_width})"
+    )

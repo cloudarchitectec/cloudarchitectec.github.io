@@ -50,15 +50,15 @@ HR 可能想要從 small talk 展開話題，於是她問我:「目前面試的�
 
   1. 我聯繫了一個 LinkedIn 上認識的資深的 DevOps Engineer 聊天，好好了解一下這個職位在日常要負責那些工作、目前澳洲市場的 DevOps 薪資等等 (之前我約她一起去過一個 tech meetup，這次我約了她在星巴克喝咖啡，我請客)。她對 DevOps 技術的熱愛與自信，真的讓我很佩服!
   2. 我找了另一個的 System Engineer 聊天，好好深入了解了一下 DevOps vs Platform engineers 兩個職位到底在幹嘛。她還好好跟我分析了 DevOps Engineer、Platform Engiener、Site Reliablity Engineer (SRE)、Cloud Engineer 之間微妙的差異，以及在 centralised DevOps team vs distrubuted DevOps teams 工作的差別，真心讓我受益匪淺!
-  3. 我在 LinkedIn 上查了一下能源公司的現任員工，找到一個疑似在 DevOps team 裡面工作的 A，然後傳訊息問他說「我現在在面試 xx 職位，請問你目前在 oo 的 team 裡工作嗎? 如果方便的話，我們可以簡單聊聊讓我更了解你的職位跟你所在的團隊嗎?」結果A還真的就是在我面試的那個team，而且他人超好地跟我講了半個小時的電話。
-  4. 我在 LinkedIn 上聯絡了能源公司的前員工 I (他是 contracted consultant，離職原因是因為他跟他的 consulting company 辭職了，所以他就沒有辦法繼續在能源公司工作了)，他也非常好心地跟我講了半個小時的電話。電話尾聲他還說「祝你面試順利! 我對你的AWS+微軟經歷非常感興趣，如果面試沒有成功的話，請務必跟我保持聯絡，說不定我們有機會能一起工作XD」
+  3. 我在 LinkedIn 上查了一下能源公司的現任員工，找到一個疑似在 DevOps team 裡面工作的 A，然後傳訊息問他說「我現在在面試 xx 職位，請問你目前在 oo 的 team 裡工作嗎? 如果方便的話，我們可以簡單聊聊讓我更了解你的職位跟你所在的團隊嗎?」結果 A 還真的就是在我面試的那個 team，而且他人超好地跟我講了半個小時的電話。
+  4. 我在 LinkedIn 上聯絡了能源公司的前員工 I (他是 contracted consultant，離職原因是因為他跟他的 consulting company 辭職了，所以他就沒有辦法繼續在能源公司工作了)，他也非常好心地跟我講了半個小時的電話。電話尾聲他還說「祝你面試順利! 我對你的 AWS+微軟經歷非常感興趣，如果面試沒有成功的話，請務必跟我保持聯絡，說不定我們有機會能一起工作XD」
 
 
 在西方職場 LinkedIn 真的是個好東西，大家真的不要怕，有機會的話多在上面 networking，只要有禮貌，一般人都會很願意幫助你、跟你聊聊的! (我自己也幫助過其他人準備面試)
 
 ### 下週二
 
-後來 hiring manager 也答應了，我出差回來後在他們辦公室樓下聊了半小時，我問了他很多問題 (我朋友說我這完全是角色互換，完全是我在面試HM XDDD)，但我同時也跟他說如果他有什麼想要問我的問題，也歡迎他再問我，結果他只問了我兩個問題:
+後來 hiring manager 也答應了，我出差回來後在他們辦公室樓下聊了半小時，我問了他很多問題 (我朋友說我這完全是角色互換，完全是我在面試 HM XDDD)，但我同時也跟他說如果他有什麼想要問我的問題，也歡迎他再問我，結果他只問了我兩個問題:
 
   1. 「我剛剛提到我們團隊接下來要做的項目之中，有你感興趣的嗎?」
   2. 「你的理想工作型態是怎麼樣的(一週幾天進辦公室)?」
@@ -69,7 +69,7 @@ HR 可能想要從 small talk 展開話題，於是她問我:「目前面試的�
 
 在澳洲離職通常需要四週預告期，也就是說在我提離職後，新公司至少要等四週我才能去上班。我跟 hiring manager 說除了法定的四週之外，我想要再晚兩週入職，因為我想要回台灣一趟，他算了一下時間說：「我覺得這應該沒有問題，反正我們已經徵人徵這麼久了，好像也不差這兩個禮拜XD」
 
-薪水的部分則是有點尷尬，因為他們給我的薪水已經是市場上 mid-level to senior 的薪水，但大概是我現在微軟薪水的75%，於是我說了「I know it’s probably unlikely and not realistic for you to match my current package with Microsoft, but my current salary is actually much higher than the salary range HR told me over the phone. I’m just wondering if there’s any flexibility in your salary package to bring the gap closer?」(我後來有直接跟他說我的微軟薪資組成)。他說他會回去跟 HR 談談。
+薪水的部分則是有點尷尬，因為他們給我的薪水已經是市場上 mid-level to senior 的薪水，但大概是我現在微軟薪水的 75%，於是我說了「I know it’s probably unlikely and not realistic for you to match my current package with Microsoft, but my current salary is actually much higher than the salary range HR told me over the phone. I’m just wondering if there’s any flexibility in your salary package to bring the gap closer?」(我後來有直接跟他說我的微軟薪資組成)。他說他會回去跟 HR 談談。
 
 ### HR 好像不爽我?
 
@@ -91,11 +91,11 @@ HR:「那你覺得你在這個團隊可以得到你想要的職涯發展嗎?」(
 
 我:「我覺得可以！(Definitely)」(我就只回答了一個字XD)
 
-最後我說，如果 salary band 就是這麼固定，如果你們可以給我 xxx + 20 K的話，我還是願意接受的(這個數字還是比我現職少 25%)。HR 說她會回去跟 Hiring Manager 談談，可能當天或隔天給我答覆。
+最後我說，如果 salary band 就是這麼固定，如果你們可以給我 xxx + 20 K 的話，我還是願意接受的(這個數字還是比我現職少 25%)。HR 說她會回去跟 Hiring Manager 談談，可能當天或隔天給我答覆。
 
 ### 下週三
 
-沒消息 (通常HR都是隔天就會給我進一步消息)。
+沒消息 (通常 HR 都是隔天就會給我進一步消息)。
 
 ### 下週四
 
@@ -130,7 +130,7 @@ HR:「那你覺得你在這個團隊可以得到你想要的職涯發展嗎?」(
 
 ### 總結
 
-其實我過程中真的沒想太多，我只覺得我從過去的工作經驗中學到了教訓，我知道我想要在這個新職位中獲得什麼，所以我非常努力確保在面試過程中我可以盡可能收集到我想要的資訊，讓我抉擇的時刻可以考慮所有可能的compromises and concequences，畢竟我也不想隨便犧牲我在微軟的薪水以及令人羨慕的職位XDD
+其實我過程中真的沒想太多，我只覺得我從過去的工作經驗中學到了教訓，我知道我想要在這個新職位中獲得什麼，所以我非常努力確保在面試過程中我可以盡可能收集到我想要的資訊，讓我抉擇的時刻可以考慮所有可能的 compromises and concequences，畢竟我也不想隨便犧牲我在微軟的薪水以及令人羨慕的職位XDD
 
 但回頭一看，我真的也覺得我自己好猛XDD 
 

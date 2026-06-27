@@ -47,7 +47,7 @@ tags: ["AWS"]
 
 **就 AWS 證照來說，更新的方法有兩種：**
 
-第一種是直接再參加一次考試，對於考生的時間成本跟經濟成本來說都是一筆不小的支出。以 AWS Solution Architect Associate 為例，重新驗證的成本是 150 USD 的測驗費、130 分鐘的考試時間，以及你準備考證所需要的準備時間。
+第一種是直接再參加一次考試，對於考生的時間成本跟經濟成本來說都是一筆不小的支出。以 AWS Solution Architect Associate 為例，重新驗證的成本是 150 美元 的測驗費、130 分鐘的考試時間，以及你準備考證所需要的準備時間。
 
 第二種則是通過更高一級的考試。以 AWS Solution Architect Associate 為例，如果你在證照有效期內通過 AWS Solution Architect Professional，那麼你的 AWS Solution Architect Associate 也就會隨之延長。
 
@@ -64,7 +64,7 @@ tags: ["AWS"]
 
 
 
-如果你的證照是 Speciality level，例如圖中的 AWS Security Speciality，那你更新證照的唯一方式，就只有重新再考一次 lol
+如果你的證照是 Speciality level，例如圖中的 AWS Security Speciality，那你更新證照的唯一方式，就只有重新再考一次lol
 
 **更新微軟 Azure 雲端的證照方式則簡單得多：**
 
@@ -138,7 +138,7 @@ tags: ["AWS"]
 
 *Microsoft Solution Architect 證照更新考試結果*
 
-好吧，所以我覺得追根究底可能只是因為 Microsoft Azure Administrator Associate 跟Microsoft Solution Architect 的考試方向差異極大，前者專注於考一些實際操作上的細節 (說真的根本沒有人會默背那些細節，要操作時再看 documentation 就可以了)，後者則是考驗 solution design 跟 solution architecting 的概念。
+好吧，所以我覺得追根究底可能只是因為 Microsoft Azure Administrator Associate 跟 Microsoft Solution Architect 的考試方向差異極大，前者專注於考一些實際操作上的細節 (說真的根本沒有人會默背那些細節，要操作時再看 documentation 就可以了)，後者則是考驗 solution design 跟 solution architecting 的概念。
 
 如果想要參考我以前考 Microsoft Azure Administrator 的心得 (抱怨?)，歡迎閱讀這篇文章：
 

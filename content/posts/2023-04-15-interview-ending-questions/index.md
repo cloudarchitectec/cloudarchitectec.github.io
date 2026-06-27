@@ -89,13 +89,13 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 
 
-時間範圍請自行調整，台灣的試用期好像是1–3個月? 澳洲則是 6 個月。這題是用來判斷主管打算給你多少時間來上手，也可以看出主管對你的期許是否不切實際，例如入職兩週就希望你可以立刻上手，這樣的話我會說塊陶啊XD
+時間範圍請自行調整，台灣的試用期好像是 1–3 個月? 澳洲則是 6 個月。這題是用來判斷主管打算給你多少時間來上手，也可以看出主管對你的期許是否不切實際，例如入職兩週就希望你可以立刻上手，這樣的話我會說塊陶啊XD
 
   * **How do you evaluate the performance of your team members? What are the performance metrics? (請問你都如何評估員工的工作表現? 有哪些常用的工作指標嗎?)**
 
 
 
-這題可以讓你知道這個職位主管看中的 KPI 有哪些。另外也可以知道這個公司是否有一套標準，我在最近的一次面試問了面試官這個問題，結果他回我說「呃，我們並沒有一套正式的標準」(這樣的回答對我來說就是一個警訊，代表主管其實不太清楚這個職位的KPI，可能是靠著他的「感覺」評估員工的績效)
+這題可以讓你知道這個職位主管看中的 KPI 有哪些。另外也可以知道這個公司是否有一套標準，我在最近的一次面試問了面試官這個問題，結果他回我說「呃，我們並沒有一套正式的標準」(這樣的回答對我來說就是一個警訊，代表主管其實不太清楚這個職位的 KPI，可能是靠著他的「感覺」評估員工的績效)
 
   * **Are your systems complex and need consolidation? How would you help your new starters navigate through different systems and components? (如果公司的系統很負責，而且需要整合的話，請問你會如何幫助新進員工在不同系統中找到所需要的資訊?)**
 
@@ -137,7 +137,7 @@ tags: ["澳洲求職必勝法則","英文面試"]
   * **How automated is your process? (部署過程的自動化程度)**
   * **How modernised is your system? (系統的現代化程度)**
   * **Do you need to be on call? (需要 on-call 嗎?)**
-  * **How are tickets/tasks allocated? (請問在團隊中如何分配tickets/tasks)**
+  * **How are tickets/tasks allocated? (請問在團隊中如何分配 tickets/tasks)**
 
 
 

@@ -46,7 +46,7 @@ tags: ["雲端架構師"]
 
 總結來說我覺得三個職位各有優缺點：
 
-**全端工程師** 會比較了解整體的軟體開發流程，也不用靠別人 (例如後端在等前端改UI，前端在等後端把 API endpoints 架好)，工作內容比較豐富有趣。
+**全端工程師** 會比較了解整體的軟體開發流程，也不用靠別人 (例如後端在等前端改 UI，前端在等後端把 API endpoints 架好)，工作內容比較豐富有趣。
 
 **前端工程師** 寫出來的 components 會立刻出現在網頁上，互動性很高，很有成就感。
 
@@ -68,7 +68,7 @@ tags: ["雲端架構師"]
 
 ### 雲端顧問/雲端工程師 (Cloud Consultant/Cloud Engineer)
 
-就我個人的定義來說，這兩個職位的工作內容是差不多的，主要的差別在於Cloud Consultant 通常受僱於顧問公司 (consulting companies)，例如常見的四大會計顧問公司 Big 4 (EY, PwC, KPMG, Deloitte)、Accenture、印度的TCS (Tata Consulting Services) 跟 Infosys 等等。
+就我個人的定義來說，這兩個職位的工作內容是差不多的，主要的差別在於 Cloud Consultant 通常受僱於顧問公司 (consulting companies)，例如常見的四大會計顧問公司 Big 4 (EY, PwC, KPMG, Deloitte)、Accenture、印度的 TCS (Tata Consulting Services) 跟 Infosys 等等。
 
 AWS 跟微軟也有自己的 consulting department，例如我之前工作的 AWS Professional Services (裡面的 Cloud Consultant 的職稱叫做 Cloud Architect)，微軟的顧問部門一直改名，之前叫 MCS (Microsoft Consulting Services)，現在叫什麼我忘了XD
 
@@ -119,7 +119,7 @@ DevOps 工程師的技能樹有：
 
 ### 結論
 
-我個人當初想轉職時想當的是 Software Engineer (特別是 Frontend Engieer)，結果投了200個工作，最後都沒有拿到 Software Engineer 的相關 offer。我唯一拿到的 offer 就是 AWS Cloud Architect (Cloud Consultant)，從此踏上我的雲端之路。其實回頭想想也是超級幸運，因為我後來真的很喜歡 cloud engineering！(其實我在還沒踏入這個業界之前，我完全不知道 Cloud Engineer、DevOps Engineer 這兩個職位存在XDD)
+我個人當初想轉職時想當的是 Software Engineer (特別是 Frontend Engieer)，結果投了 200 個工作，最後都沒有拿到 Software Engineer 的相關 offer。我唯一拿到的 offer 就是 AWS Cloud Architect (Cloud Consultant)，從此踏上我的雲端之路。其實回頭想想也是超級幸運，因為我後來真的很喜歡 cloud engineering！(其實我在還沒踏入這個業界之前，我完全不知道 Cloud Engineer、DevOps Engineer 這兩個職位存在XDD)
 
 後來第二份工作是在微軟當 Solution Architect，我覺得這個職位其實不是很適合我。如果看過我相關文章的讀者肯定知道為什麼，這裡就不多說了XD
 

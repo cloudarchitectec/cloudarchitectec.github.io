@@ -17,9 +17,10 @@ Usage: {{< categorized-posts >}}
   {{ end }}
 {{ end }}
 
-{{/* Display posts by category (sorted alphabetically) */}}
+{{/* Display posts by category (sorted alphabetically); skip meta "EC" category */}}
 {{ range sort $allCategories }}
   {{ $category := . }}
+  {{- if eq $category "EC" }}{{ continue }}{{ end -}}
   {{ $categoryPosts := where $posts "Params.categories" "intersect" (slice $category) }}
   {{ if $categoryPosts }}
 

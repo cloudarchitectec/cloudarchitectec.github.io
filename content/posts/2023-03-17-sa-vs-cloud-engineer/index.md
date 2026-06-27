@@ -19,13 +19,13 @@ tags: ["雲端架構師"]
 
 ### 前言
 
-說實話最近在微軟過得不是很開心，因為我覺得 Solution Architect (SA) 這個職位並不適合我。跟身邊的人討論了一下，有人支持我轉換跑道，認為開心最重要。有人從現實面出發，要我好好考量，因為現職微軟給我的薪水非常高(我的科技業年資到目前為止是2.5年，沒有相關大學學歷，現在年薪大概是好幾百萬台幣，其實真的是非常幸運，但我同時也覺得每天工作真的好難熬)。
+說實話最近在微軟過得不是很開心，因為我覺得 Solution Architect (SA) 這個職位並不適合我。跟身邊的人討論了一下，有人支持我轉換跑道，認為開心最重要。有人從現實面出發，要我好好考量，因為現職微軟給我的薪水非常高(我的科技業年資到目前為止是 2.5 年，沒有相關大學學歷，現在年薪大概是好幾百萬台幣，其實真的是非常幸運，但我同時也覺得每天工作真的好難熬)。
 
 有個即將從微軟離職的 SA 同事跟我說，其實我討厭的只是微軟體系下的 SA，在其他地方當 SA 不是這樣的 (她之前是 AWS 的 SA)。但我也沒有辦法確認，難道我要再申請回去 AWS 當 SA 嗎?XD
 
-所以我花了幾個小時寫了這一個對照表，就我個人的經驗來比較 Solution Architect (現職，年資5個月)、Cloud Consultant/Cloud Engineer (AWS 年資2年)、Software Developer (實習過一個月，但我身邊很多軟體工程師朋友)，希望可以藉此釐清我的思緒。
+所以我花了幾個小時寫了這一個對照表，就我個人的經驗來比較 Solution Architect (現職，年資 5 個月)、Cloud Consultant/Cloud Engineer (AWS 年資 2 年)、Software Developer (實習過一個月，但我身邊很多軟體工程師朋友)，希望可以藉此釐清我的思緒。
 
-### Solution Architect、Cloud Engineer、Software Developer比較表格
+### Solution Architect、Cloud Engineer、Software Developer 比較表格
 
 (朋友說: 如果你花了好幾個小時在寫這個比較表格，我覺得這就是你該離職警訊XDD)
 
@@ -80,7 +80,7 @@ Solution Architect 的日常偏向「技術銷售（technical sales）」，每�
 當客戶確定要執行方案之後，可能會有三種情境發生：
 
   1. 客戶外包給雲服務商的內部顧問部門（微軟是 MCS，AWS 是 ProServ）： SA 的責任是協助監督進度、維持溝通橋樑。這個情境對 SA 通常來說最輕鬆的，因為大家都是自己人。但是這同時也是最貴的選項，所以一般來說都不會是客戶的首選。
-  2. 客戶外包給外部顧問（Azure partners）: 但 partners 的品質不一，如果有些 partners 的經驗或能力不足，那你就得跳下來、適時引入其他 Azure 的資源 (Support Engineers, FastTrack, Corp CSA, Product Team) 來幫忙解決問題。有些partners 跟客戶會開始自成小圈圈把你排除在外，這時候你就要很努力打入他們的小圈圈，確保每個一階段都有順利達成，
+  2. 客戶外包給外部顧問（Azure partners）: 但 partners 的品質不一，如果有些 partners 的經驗或能力不足，那你就得跳下來、適時引入其他 Azure 的資源 (Support Engineers, FastTrack, Corp CSA, Product Team) 來幫忙解決問題。有些 partners 跟客戶會開始自成小圈圈把你排除在外，這時候你就要很努力打入他們的小圈圈，確保每個一階段都有順利達成，
   3. 客戶選擇自行實作：遇到困難就可能頻繁求助你，但 Solution Architect 通常不做實作，只會在自己的環境建 PoC（ Proof of Concept），如果之前沒有相關的實務經驗，其實很難協助客戶企業規模等級問題 （ Enterprise-level Production Environments）
 
 
@@ -91,7 +91,7 @@ Solution Architect 的日常偏向「技術銷售（technical sales）」，每�
 
   * 研究＆寫信回答客戶問題，或是跟客戶開會釐清他們的問題，然後想辦訪幫他們解決。
   * 如果答不上來就找其他資源來回答問題。針對不同的問題類型，公司內部會有不同的官方管道，但你不一定真的找得到人。主要還是靠你的人脈，如果你有辦法認識很多人，知道他們擅長的領域，建立良好的關係，你就有辦法在適當的時機把這些人拖進你的會議幫你解決問題。如果你不是這種人，那你就會過得很辛苦(就像我XD)。
-  * 同時要判斷客戶的這個問題能不能被 qualify 成一個 opportunity，例如這個問題解決了，客戶是否會在 Azure 上 deploy，這個 deployment 可以帶來多少 Azure consumption/revenue (注意有些 Azure resources是免費的，例如 virtual networks，所以客戶 deploy 再多也不會算入你的業績）
+  * 同時要判斷客戶的這個問題能不能被 qualify 成一個 opportunity，例如這個問題解決了，客戶是否會在 Azure 上 deploy，這個 deployment 可以帶來多少 Azure consumption/revenue (注意有些 Azure resources 是免費的，例如 virtual networks，所以客戶 deploy 再多也不會算入你的業績）
   * 最後，還得花大量時間在 Sales 系統上記錄每個進度、障礙點、解法與升級流程（escalation）。
 
 

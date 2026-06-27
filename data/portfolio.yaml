@@ -1,0 +1,147 @@
+labels:
+  experience:
+    en: Experience
+    zh: 工作經歷
+  certifications:
+    en: Certifications
+    zh: 證照
+  education:
+    en: Education
+    zh: 學歷
+
+profile_pills:
+  story: 人生故事
+  career_zh: 職涯重點
+  career_en: 職涯重點 (英文版)
+  urls:
+    story: /portfolio/story/
+    career_zh: /portfolio/career-zh/
+    career_en: /portfolio/career-en/
+
+experience:
+  - title: Engineer - DevOps
+    company:
+      en: Shell Energy Australia
+      zh: Shell Energy Australia
+    dates:
+      en: Aug 2023 – Present
+      zh: 2023年8月 – 至今
+    location:
+      en: Brisbane
+      zh: 布里斯本
+    bullets:
+      - en: Led multiple Azure DevOps and GitHub migration initiatives, defining migration strategy, technical direction and implementation to ensure a seamless transition.
+        zh: 主導多項 Azure DevOps（ADO）與 GitHub 遷移專案，負責技術規劃、遷移策略與實作，確保系統順利轉移並將潛在影響降至最低。
+      - en: Designed and implemented scalable CI/CD platforms using Azure DevOps, GitHub Actions and AWS, improving delivery speed, reliability and security across engineering teams.
+        zh: 設計並建置可擴展的 CI/CD 平台（Azure DevOps、GitHub Actions、AWS），建立工程最佳實務，大幅提升交付效率、可靠性與整體安全性。
+      - en: Strengthened DevSecOps practices by integrating SonarQube, Mend, Apiiro and Dependabot into CI/CD pipelines, improving code quality and security posture.
+        zh: 將 SonarQube、Mend、Apiiro 與 Dependabot 整合至 CI/CD 流程，落實 DevSecOps 最佳實務，提升程式碼品質與整體安全性。
+      - en: Acted as a technical mentor and AI advocate, delivering knowledge-sharing sessions and promoting GitHub, AppSec tooling and AI adoption across engineering teams.
+        zh: 擔任技術導師與 AI Agentic Engineering 大使，持續分享 GitHub、AppSec 與 AI 實務經驗，協助工程團隊提升技術能力，成功推動 AI 工具的企業化應用。
+
+  - title: Cloud Solution Architect
+    company:
+      en: Microsoft
+      zh: Microsoft
+    dates:
+      en: Oct 2022 – Aug 2023
+      zh: 2022年10月 – 2023年8月
+    location:
+      en: Brisbane
+      zh: 布里斯本
+    bullets:
+      - en: Served as a trusted technical advisor to enterprise customers, designing scalable, secure and cost-optimised Azure cloud solutions.
+        zh: 擔任企業客戶信賴的技術顧問，協助設計兼具可擴展性、安全性與成本效益的 Azure 雲端架構。
+      - en: Accelerated cloud adoption through migration strategies, technical workshops, proof-of-concepts and architecture guidance based on the Microsoft Cloud Adoption Framework.
+        zh: 透過遷移策略、技術工作坊、POC 與架構規劃，協助企業加速雲端導入，並依循 Microsoft Cloud Adoption Framework 推動最佳實務。
+      - en: Collaborated across customer, engineering and advisory teams to remove technical blockers and support successful digital transformation initiatives.
+        zh: 與客戶、產品工程團隊及顧問團隊密切合作，排除技術障礙，成功落實企業數位轉型專案。
+
+  - title: Associate Cloud Architect
+    company:
+      en: Amazon Web Services (AWS)
+      zh: Amazon Web Services (AWS)
+    dates:
+      en: Sep 2020 – Oct 2022
+      zh: 2020年9月 – 2022年10月
+    location:
+      en: Canberra
+      zh: 坎培拉
+    bullets:
+      - en: Designed and automated secure cloud infrastructure using AWS CloudFormation and AWS services for Australian Government customers.
+        zh: 為澳洲政府客戶設計安全的 AWS 雲端基礎架構並實現自動化部署，運用 CloudFormation 建立標準化、可重複部署的基礎設施。
+      - en: Delivered technical workshops and documentation that enabled customer engineering teams to adopt AWS and DevSecOps best practices.
+        zh: 透過技術工作坊與完整文件，協助客戶工程團隊提升技術能力，成功推動並落實 AWS 平台最佳化架構與 DevSecOps 規範。
+      - en: Designed cloud architectures compliant with Australian Government security frameworks including IRAP and ISM.
+        zh: 設計符合澳洲政府 IRAP 與 ISM 安全規範的雲端架構，兼顧合規性、可擴展性與安全性。
+
+certifications:
+  - group:
+      en: AWS
+      zh: AWS
+    items:
+      - en: AWS Certified Security – Specialty
+        zh: AWS Certified Security – Specialty
+      - en: AWS Certified Solutions Architect – Professional
+        zh: AWS Certified Solutions Architect – Professional
+      - en: AWS Certified Solutions Architect – Associate
+        zh: AWS Certified Solutions Architect – Associate
+      - en: AWS Certified SysOps Administrator – Associate
+        zh: AWS Certified SysOps Administrator – Associate
+      - en: AWS Certified Developer – Associate
+        zh: AWS Certified Developer – Associate
+      - en: AWS Certified Cloud Practitioner
+        zh: AWS Certified Cloud Practitioner
+  - group:
+      en: Microsoft Azure
+      zh: Microsoft Azure
+    items:
+      - en: Azure Solutions Architect Expert
+        zh: Azure Solutions Architect Expert
+      - en: Azure Security Engineer Associate
+        zh: Azure Security Engineer Associate
+      - en: Azure Network Engineer Associate
+        zh: Azure Network Engineer Associate
+      - en: Azure Administrator Associate
+        zh: Azure Administrator Associate
+      - en: Azure Fundamentals
+        zh: Azure Fundamentals
+  - group:
+      en: Infrastructure & DevOps
+      zh: 基礎設施與 DevOps
+    items:
+      - en: HashiCorp Terraform Associate
+        zh: HashiCorp Terraform Associate
+      - en: GitHub Actions Certification
+        zh: GitHub Actions Certification
+  - group:
+      en: AI Training & Enablement
+      zh: AI 培訓與賦能
+    items:
+      - en: AI for Productivity at AIM (Australian Institute of Management)
+        zh: AI for Productivity at AIM（澳洲管理學院）
+      - en: AI is My CoPilot at AIM (Australian Institute of Management)
+        zh: AI is My CoPilot at AIM（澳洲管理學院）
+
+education:
+  en:
+    - Non-traditional background
+    - 2019-2020 Coding Bootcamp - Coder Academy (Full Stack Web Development)
+    - Multiple postgraduate qualifications in Translation & Interpreting, Professional Accounting and the Australian Migration Law
+    - Bachelor of English Literature
+  zh: 政大英文系，從 coding bootcamp 成功轉職澳洲科技業工程師。
+
+tags:
+  - AWS
+  - Azure
+  - Platform Engineering
+  - DevSecOps
+  - Cloud Architecture
+  - CI/CD
+  - Terraform
+  - GitHub Actions
+  - Azure DevOps
+  - Infrastructure as Code
+  - Python
+  - AI Agentic Engineering
+  

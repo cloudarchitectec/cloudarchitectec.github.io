@@ -8,7 +8,7 @@ This document describes how the blog is validated across local development, pre-
 
 | Location | Purpose | Examples |
 |----------|---------|----------|
-| [`scripts/`](scripts/) | Runnable tools — CI, pre-commit, shell, and CLI entry points | `check-posts.py`, `verify-build.sh`, `dev-check.sh`, `check-internal-links.py` |
+| [`scripts/`](scripts/) | Runnable tools — CI, pre-commit, shell, and CLI entry points | `check-posts.py`, `check-spelling.py`, `verify-build.sh`, `dev-check.sh`, `check-internal-links.py` |
 | [`scripts/post-validation/`](scripts/post-validation/) | Shared rule library imported by `check-posts.py` | `cover-check.py`, `frontmatter-check.py`, `image-size-check.py` |
 | [`tests/`](tests/) | Pytest suites only — no direct CI hooks | `test_post_validation.py`, `test_ui_smoke.py`, … |
 | [`tests/hugo_site.py`](tests/hugo_site.py) | Test helpers (Hugo build, static server) | Used by pytest fixtures, not run directly |
@@ -174,6 +174,7 @@ Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/site
 | `tests/test_seo_smoke.py` | Canonical and social meta on sample pages |
 | `tests/test_ui_smoke.py` | Playwright visible-content smoke |
 | `tests/test_a11y.py` | axe serious/critical (`color-contrast` allowlisted) |
+| `tests/test_spellcheck.py` | Post spellcheck: British EN, zh-TW spacing, emphasis hygiene |
 | `tests/hugo_site.py` | Hugo build + static server helpers |
 | `tests/conftest.py` | Shared fixtures and module loaders |
 
@@ -182,6 +183,7 @@ Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/site
 | Script | Role |
 |--------|------|
 | `scripts/check-posts.py` | Authoritative post source rules (pre-commit + CI) |
+| `scripts/check-spelling.py` | Optional post spellcheck: British EN, zh-TW typos/spacing/emphasis (`--fix`, `--post`, `--file`) |
 | `scripts/check-internal-links.py` | Internal link checker + external URL format validation (`--list-external` for inventory) |
 | `scripts/verify-build.sh` | Post-build greps on `public/` |
 | `scripts/post-deploy-smoke.sh` | Live production curl smoke |
@@ -199,10 +201,21 @@ Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/site
 | `/search/` | `#searchInput` visible |
 | `/posts/2025-10-04-goodbye-medium/` | Title, subscribe CTA |
 
+### Mobile viewport (375×812)
+
+| URL | Assert |
+|-----|--------|
+| `/` | `.menu-toggle` visible; menu links hidden until toggle; no horizontal overflow |
+| `/posts/2025-10-04-goodbye-medium/` | MailerLite input + buttons fit viewport; Waline wrapper visible; no horizontal overflow |
+
+A11y (`test_a11y.py`) runs the same smoke URLs at **desktop (1280×720)** and **mobile (375×812)**.
+
 Out of scope: live MailerLite submit, Waline comment post, external URL reachability (404) crawling.
 
 ## Related tooling
 
-New posts: [`tools/blog-converter/automated_blog_converter.py`](tools/blog-converter/automated_blog_converter.py) emits front matter matching `check-posts.py` rules and runs validation before copy. See [`tools/blog-converter/README.md`](tools/blog-converter/README.md).
+New posts: [`tools/blog-publisher/pre-publish-post.py`](tools/blog-publisher/pre-publish-post.py) emits front matter matching `check-posts.py` rules and runs validation before copy. See [`tools/blog-publisher/README.md`](tools/blog-publisher/README.md).
+
+Optional before publish: `python3 scripts/check-spelling.py --fix --post SLUG` (British English, zh-TW spacing, emphasis). Rules in [`scripts/spellcheck-references/`](scripts/spellcheck-references/).
 
 Manual `hugo server` checks remain useful for subjective layout (spacing, typography, dark mode).

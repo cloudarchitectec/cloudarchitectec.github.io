@@ -81,7 +81,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 但我後來問了朋友，她一開始根本不能理解這個問題在問什麼XD 這題主要就是問說你覺得跟別人比起來，你的優勢是什麼? 只是他們在英文用了 superpower 這個字，看起來比較高級? 
 
-我事後一想，這家公司是不是蒐集了各大軟體公司的經典面試問答題來問?哈哈哈~ Google、Microsoft、Amazon都有了XD
+我事後一想，這家公司是不是蒐集了各大軟體公司的經典面試問答題來問?哈哈哈~ Google、Microsoft、Amazon 都有了XD
 
 這題我的答案是溝通能力 (communication)! 這點其實我也是這一兩個禮拜才發現的XDD 雖然我一直以來都算是一個腦袋清晰、能言善道的人，但我最近不斷收到別人(同事、客戶、朋友、諮商師等等)在這方面的稱讚，讓我突然覺得這應該是我的強項沒錯!
 
@@ -119,7 +119,7 @@ Head of Solution Architecture 說：「這裡我就必須插嘴一下，我家�
 
 **雙方**
 
-  * 你如何描述你的公司的組織文化？你個人更加認同的公司價值觀是什麼？(How would you describe your company’s organization culture? What company values that you personally feel more aligned with?)
+  * 你如何描述你的公司的組織文化？你個人更加認同的公司價值觀是什麼？(How would you describe your company’s organisation culture? What company values that you personally feel more aligned with?)
   * 從你的角度來看，作為一名 DevOps 工程師，理想的個人特質是什麼？ (From your perspective, what are the ideal personal traits for the role as a DevOps Engineer?)
   * 請問下一步的面試流程是什麼? (What are the next steps from here?)
 
@@ -134,6 +134,6 @@ Head of Solution Architecture 說：「這裡我就必須插嘴一下，我家�
 
 ### 下集預告
 
-面試完隔天我就收到了HR的電話，我猜他們本來是已經要準備跟我談 offer 了。沒想到在這個時候，我提出了一個新的要求!!! 我的諮商師說我超猛的，她這輩子沒有看過這樣的求職者 XDD 到底後來發生了什麼事呢? 我會不會因此把即將到手的 offer 搞丟呢? 那麼就請大家繼續期待下集吧~
+面試完隔天我就收到了 HR 的電話，我猜他們本來是已經要準備跟我談 offer 了。沒想到在這個時候，我提出了一個新的要求!!! 我的諮商師說我超猛的，她這輩子沒有看過這樣的求職者XDD 到底後來發生了什麼事呢? 我會不會因此把即將到手的 offer 搞丟呢? 那麼就請大家繼續期待下集吧~
 
 下集待續：[跨國能源公司 DevOps 工程師面試心得 III：不好意思，我想要再加試一場！](2023-06-17-devops-interview-3)

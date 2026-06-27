@@ -119,6 +119,14 @@
                 {{- end }}
             </div>
         </div>
+        <button type="button" class="menu-toggle" aria-controls="menu" aria-expanded="false" aria-label="開啟選單">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+        </button>
         {{- $currentPage := . }}
         <ul id="menu">
             {{- range site.Menus.main }}
@@ -157,3 +165,34 @@
         {{- end }}
     </nav>
 </header>
+<script>
+(function () {
+    const nav = document.querySelector('.nav');
+    const toggle = document.querySelector('.menu-toggle');
+    const menu = document.getElementById('menu');
+    if (!nav || !toggle || !menu) return;
+
+    const setOpen = (open) => {
+        nav.classList.toggle('nav-open', open);
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+        toggle.setAttribute('aria-label', open ? '關閉選單' : '開啟選單');
+    };
+
+    toggle.addEventListener('click', () => {
+        setOpen(!nav.classList.contains('nav-open'));
+    });
+
+    menu.querySelectorAll('a').forEach((link) => {
+        link.addEventListener('click', () => setOpen(false));
+    });
+
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape') setOpen(false);
+    });
+
+    document.addEventListener('click', (event) => {
+        if (!nav.classList.contains('nav-open')) return;
+        if (!nav.contains(event.target)) setOpen(false);
+    });
+})();
+</script>

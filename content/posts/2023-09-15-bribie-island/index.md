@@ -24,14 +24,14 @@ tags: ["澳洲旅遊","布里斯本"]
 
 ### 遊記
 
-這天我跟朋友一起去探索了距離我們家車程 40分鐘的 Bribie Island，完全是我覺得布里斯本遠北區 (far north Brisbane) 最值得一訪的景點👍
+這天我跟朋友一起去探索了距離我們家車程 40 分鐘的 Bribie Island，完全是我覺得布里斯本遠北區 (far north Brisbane) 最值得一訪的景點👍
 
 [**2023.04.15 Bribie Island**  
 youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/shorts/dZvqFVXJ_N4)
 
 去程完全由 Learner Driver 朋友主開，這也是她第一次開車上澳洲高速公路，請大家幫她掌聲鼓勵👏👏👏
 
-在澳洲要拿到 full driving license，必須一路從 learner、紅P 、綠 P 開始練習，大概需要四年才能拿到正式駕照。L牌駕駛不能獨自開車，一定要在有full license 的人的陪同下才能上路，我頓時有種變成學姊的感覺😆
+在澳洲要拿到 full driving licence，必須一路從 learner、紅 P 、綠 P 開始練習，大概需要四年才能拿到正式駕照。L 牌駕駛不能獨自開車，一定要在有 full licence 的人的陪同下才能上路，我頓時有種變成學姊的感覺😆
 
 ### **Gather & Feast **咖啡店
 
@@ -57,7 +57,7 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 吃完午餐本來打算去吃冰淇淋的，結果我們突發奇想，突然好奇這個小島上不知道有沒有珍奶店，於是我們就到了一家開在日式旋轉壽司店裡的珍奶店，也是這個小島的唯一一家珍奶店[Cube Tea Bribie Island](https://maps.app.goo.gl/1EaasG65dQjm36us6?g_st=ic)，有夠神奇😆 (但是珍奶沒有特別好喝，建議不要來XD 我們還開車繞了超久才到這家珍奶店！)
 
-然後我們就開始模仿IG拍一些意義不明的網美照，但是真的好難喔！通常拍了十幾張也只會成功一張，常常還不成功🤣🤣🤣
+然後我們就開始模仿 IG 拍一些意義不明的網美照，但是真的好難喔！通常拍了十幾張也只會成功一張，常常還不成功🤣🤣🤣
 
 ![Bribie Island 海邊拍照](images/medium-1*5lZfjVJCpOol8oGyPCB98w.jpg)
 

@@ -1,0 +1,46 @@
+{{- define "main" }}
+{{- $storyPage := site.GetPage "/posts/2018-01-01-iam-ec" }}
+{{- $panel := .Params.panel | default "career-zh" }}
+<article class="cv-page post-single" id="cv-page">
+  {{- with $storyPage }}
+  <header class="post-header cv-post-header">
+    <div class="breadcrumbs">
+      <a href="{{ "" | relLangURL }}">{{ i18n "home" | default "Home" }}</a>
+      &nbsp;»&nbsp;
+      <a href="{{ "/posts/" | relLangURL }}">Posts</a>
+    </div>
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{- with .Description }}
+    <div class="post-description">{{ . }}</div>
+    {{- end }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . }}
+    </div>
+  </header>
+
+  <div class="cv-hero-cover">
+    {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" false) }}
+  </div>
+  {{- end }}
+
+  <div class="cv-pills-bar">
+    {{ partial "ec_profile_pills.html" (dict "active" $panel) }}
+  </div>
+
+  <div class="cv-panel" role="region" aria-label="{{ $panel }}">
+    {{- if eq $panel "story" }}
+      {{- with $storyPage }}
+      <div class="cv-story-content post-content">
+        {{ .Content }}
+      </div>
+      {{- else }}
+      <p class="cv-story-missing">Story content unavailable.</p>
+      {{- end }}
+    {{- else if eq $panel "career-en" }}
+      {{ partial "portfolio_career.html" (dict "lang" "en") }}
+    {{- else }}
+      {{ partial "portfolio_career.html" (dict "lang" "zh") }}
+    {{- end }}
+  </div>
+</article>
+{{- end }}

@@ -39,7 +39,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 以下我會以時間線作為小標題，讓大家一同來體驗雲端架構師平常是如何跟客戶開會並提供技術指導。
 
-### 週三早上: 收到客戶 CTO 來信，希望我可以跟客戶內部的 Domain Architect 聊一下DSC
+### 週三早上: 收到客戶 CTO 來信，希望我可以跟客戶內部的 Domain Architect 聊一下 DSC
 
 客戶的信大概是以下這樣的:
 
@@ -99,7 +99,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 我後來發現還有另一個解決方案，是一個獨立的 Azure Service 叫 Automanage (是不是跟 Solution 2 名字超像！但他們兩個明顯又是不一樣的服務，真心莫名其妙哈哈哈哈哈)。
 
-Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然後成功在我自己的 Azure Portal 上做了一個 demo。
+Solution 3 我也是官方文件看了幾次，YouTube 影片看了幾個，然後成功在我自己的 Azure Portal 上做了一個 demo。
 
 ![Azure自動管理服務介面演示](images/medium-1*eANgvW-Gq5RqZq_lB19xqA.png)
 
@@ -115,7 +115,7 @@ Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然�
 
 接著換他自我介紹，他說他是 Domain Architect in Data，此時我已經有了一個不祥的預感。
 
-微軟的 CSA 分為三個領域: core/infrastructure (就是我)、Application Innovation (同事D)、Data & AI (本來是A，但A上個月轉去新的部門了，我們至今還不知道新的 Data & AI CSA 是誰 XD)。既然他的職位是 Domain Architect in Data，有極大的可能他接下來要談的技術問題跟我負責的領域不相關哈哈
+微軟的 CSA 分為三個領域: core/infrastructure (就是我)、Application Innovation (同事 D)、Data & AI (本來是 A，但 A 上個月轉去新的部門了，我們至今還不知道新的 Data & AI CSA 是誰XD)。既然他的職位是 Domain Architect in Data，有極大的可能他接下來要談的技術問題跟我負責的領域不相關哈哈
 
 然後他說「不知道我們 CTO 有沒有跟你說過我們這個項目在幹嘛跟我負責做什麼？我們這個其實 SQL servers 有關。」
 
@@ -135,7 +135,7 @@ Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然�
 
 接著我就說「嗯嗯～其實我也這麼覺得！聽完你的要求，這個我覺得跟我們 Data CSA 負責的比較相關，你能不能在會議結束後寄一封簡短的 email 給我，list your SQL server specs (database engine version etc) and your specific requirements for SQL server configuration & compliance，這樣我就可以拿這個去找我們的 Data CSA 看看他們那邊有沒有適合的解決方案。(這招超級好用，尤其是當客戶的問題你只聽懂 7 成的時候，直接讓他們把要求列下來給你。但說真的，如果客戶一開始就做這件事，這個會根本不用開，或是我一開始就可以找 Data CSA 來開，但他們就偏不這樣，就是要先找一個人聊聊XD) 」
 
-然後我跟客戶說，這禮拜可能有點趕 (因為今天週四了)，但我爭取early next week 給你回覆。結果客戶說「喔～可是我這幾天都不會進辦公室，我可能要下週三才能給你資料」。我當然是直接說沒關係啊，你慢慢來～ (但內心OS 是：是誰趕著今天要開會的!?)
+然後我跟客戶說，這禮拜可能有點趕 (因為今天週四了)，但我爭取 early next week 給你回覆。結果客戶說「喔～可是我這幾天都不會進辦公室，我可能要下週三才能給你資料」。我當然是直接說沒關係啊，你慢慢來～ (但內心 OS 是：是誰趕著今天要開會的!?)
 
 ### 後續
 
@@ -155,4 +155,4 @@ Solution 3 我也是官方文件看了幾次，YouTube影片看了幾個，然�
 
 有時候客戶知道他們想要什麼，但是他們不知道怎麼學或是懶得學，於是就找我們來開會。我是不知道客戶要什麼，也不知道實際上怎麼運作，但我的工作就是快速學會這個領域在雲端上的知識與運用，然後把這些知識傳授給客戶。
 
-但說真的我常常覺得，客戶其實可以自己學一學就好。畢竟他們都是各個領域的專家，也是每天在實務上運用這些技術的人，這些技術概念我都不懂，也沒有實務經驗。我只能自己上網學習，就像我上面舉的例子，我自學了DSC 這個技術概念是什麼，我還學了兩個新的 Azure services 跟做了 demo，其實還滿有趣的。不過我終究覺得，SA這樣的技術職位 (technical role)，其實不是我想走的職涯方向 (Is SA a technical role? Probably. But it’s not in the ‘technical’ way how I want to progress my technical career)
+但說真的我常常覺得，客戶其實可以自己學一學就好。畢竟他們都是各個領域的專家，也是每天在實務上運用這些技術的人，這些技術概念我都不懂，也沒有實務經驗。我只能自己上網學習，就像我上面舉的例子，我自學了 DSC 這個技術概念是什麼，我還學了兩個新的 Azure services 跟做了 demo，其實還滿有趣的。不過我終究覺得，SA 這樣的技術職位 (technical role)，其實不是我想走的職涯方向 (Is SA a technical role? Probably. But it’s not in the ‘technical’ way how I want to progress my technical career)

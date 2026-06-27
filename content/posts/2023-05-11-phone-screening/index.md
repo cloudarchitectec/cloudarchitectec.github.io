@@ -29,9 +29,9 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
   1. **履歷篩選:** 由人資進行第一階段的履歷篩選。
   2. **電話篩選:** 通過履歷篩選後，人資通常會寄一封 email 跟你約一個時間進行 15–20 分鐘的 phone screening。下面我將會以之前申請 DevOps Engineer 的經驗作為例子來進一步分享。
-  3. **第一輪面試:** 我最近兩次的面試經驗(2022–2023年)，第一關面試都是跟 Hiring Manager。這跟我前幾年的求職經驗很不一樣，通常 Hiring Manager 不都是最後一關嗎?XD
+  3. **第一輪面試:** 我最近兩次的面試經驗(2022–2023 年)，第一關面試都是跟 Hiring Manager。這跟我前幾年的求職經驗很不一樣，通常 Hiring Manager 不都是最後一關嗎?XD
   4. **第二輪面試:** 通常會跟另一個 senior team member 或是跟你的 skip manager (也就是你未來的經理的經理)面試。
-  5. **第三輪(或更多輪面試或其他測驗):** 我 2020 年面試 AWS (Amazon Web Services) 的時候，總共經過了六輪面試，2022年面試微軟的時候則是三輪。通常規模較大的公司基本上都需要通過 3–5 輪面試才會拿到正式 offer。
+  5. **第三輪(或更多輪面試或其他測驗):** 我 2020 年面試 AWS (Amazon Web Services) 的時候，總共經過了六輪面試，2022 年面試微軟的時候則是三輪。通常規模較大的公司基本上都需要通過 3–5 輪面試才會拿到正式 offer。
 
 
 
@@ -59,7 +59,7 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 這題我通常也不會直接回答，通常我的答案會是 「Can you please tell me what the expected salary range is for this role? (可以麻煩你告訴我貴公司對於這個職位的預期薪資範圍嗎?)」就我個人目前的經驗來說，人資都會跟我說他們這個職位的大概範圍。
 
-當然，有的人資可能會持續逼問你一個數字，這時候我會試圖至少再問一個問題「What’s the expected level of this role? Mid-level? Senior? (請問這個職位是一個中階還是資深職位?)」，然後根據對方的回答我會說「Thanks! Based on my research, the salary range of a mid-level DevOps Engineer in Australia is around 130–150K per year. Does that align with your salary expectation for this role? (謝謝。根據我的研究，澳洲中階 DevOps Engineer 的年薪大概是 13–15 萬澳幣之間，請問這個數字符合貴公司對這個職位的預期嗎?)」
+當然，有的人資可能會持續逼問你一個數字，這時候我會試圖至少再問一個問題「What’s the expected level of this role? Mid-level? Senior? (請問這個職位是一個中階還是資深職位?)」，然後根據對方的回答我會說「Thanks! Based on my research, the salary range of a mid-level DevOps Engineer in Australia is around 130–150K per year. Does that align with your salary expectation for this role? (謝謝。根據我的研究，澳洲中階 DevOps Engineer 的年薪大概是 13–15萬澳幣之間，請問這個數字符合貴公司對這個職位的預期嗎?)」
 
   * **Do you have any holiday plan in the next 6 months? (請問你在接下來六個月有任何休假的計畫嗎?)**
 
@@ -79,7 +79,7 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 
 
-這題切記不要據實回答 (例如: 我討厭我的老闆或是我討厭我的工作之類的XD)。通常我回答的方式會從新職位的技能或是職涯發展方向出發，例如這題我的回答是「My current role is more about solution architecting and stakeholder management, and I really miss my hands-on keyboard time when I was a technical consultant with AWS. I’ve always been interested in cloud infrastructure and DevOps, so I want to get back to a more hands-on, technical engineering role. Therefore, the role with your company is perfect for my skills and career goals. 我目前的工作著重於提供雲端架構解決方案以及跟不同團隊之間的跨部門溝通，我很懷念以前在亞麻遜當雲端技術顧問的時間，當時我花很多時間在寫程式。我一直都對雲端基礎建設跟DevOps很有興趣，所以我打算回到一個更著重技術落實的職位，因此貴公司的這個職位非常適合我的技能以及未來的職涯發展方向。」
+這題切記不要據實回答 (例如: 我討厭我的老闆或是我討厭我的工作之類的XD)。通常我回答的方式會從新職位的技能或是職涯發展方向出發，例如這題我的回答是「My current role is more about solution architecting and stakeholder management, and I really miss my hands-on keyboard time when I was a technical consultant with AWS. I’ve always been interested in cloud infrastructure and DevOps, so I want to get back to a more hands-on, technical engineering role. Therefore, the role with your company is perfect for my skills and career goals. 我目前的工作著重於提供雲端架構解決方案以及跟不同團隊之間的跨部門溝通，我很懷念以前在亞麻遜當雲端技術顧問的時間，當時我花很多時間在寫程式。我一直都對雲端基礎建設跟 DevOps 很有興趣，所以我打算回到一個更著重技術落實的職位，因此貴公司的這個職位非常適合我的技能以及未來的職涯發展方向。」
 
   * **Where do you live and are you okay to come into the office in the city? (你現在居住的區域是? 我們辦公室在市區，通勤對你來說會是問題嗎?)**
 
