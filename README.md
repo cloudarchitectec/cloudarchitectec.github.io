@@ -59,6 +59,11 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+**2026.06.27**
+- Added portfolio tiles
+- Fixed typos
+- Added spelling, space, currency checks
+
 **2026.06.22**
 - Implemented MailerLite newsletter
 - Fixed hero images
