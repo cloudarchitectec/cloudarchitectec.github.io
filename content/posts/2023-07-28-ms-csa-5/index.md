@@ -38,7 +38,7 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 
 但在微軟，Solution Architect 就是 technical sales，也就是說我們的薪資組成裡面有 25% 是 sales commission，實際計算的公式有點複雜，但裡面佔比例最高的要素我們叫做 Azure Consumption Revenue (ACR)。
 
-假設 ABC 銀行是微軟的客戶，ABC 銀行打算把他們的核心銀行系統從 on-premises data center 搬到 Azure 上，上雲後他們一個月花在 Azure Infrastructure (例如 Azure VMs, ExpressRoute, VPN, storage accounts, SQL database etc)上的錢是 $100,000/月，這 10 萬塊就是我這個 account 的 ACR。
+假設 ABC 銀行是微軟的客戶，ABC 銀行打算把他們的核心銀行系統從 on-premises data centre 搬到 Azure 上，上雲後他們一個月花在 Azure Infrastructure (例如 Azure VMs, ExpressRoute, VPN, storage accounts, SQL database etc)上的錢是 $100,000/月，這 10 萬塊就是我這個 account 的 ACR。
 
 假設這個 migration project 的設計在三月談好了，預計七月開始部署到雲上，這個項目預計做到年底完成，所以我在 sales pipeline 上就必須要列出像下面這個表格，上面寫著客戶預計在哪個日期部署哪些服務、這些服務會花多少錢、以及每個 milestone 的進度。
 

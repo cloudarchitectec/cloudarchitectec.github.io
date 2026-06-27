@@ -119,7 +119,7 @@ Head of Solution Architecture 說：「這裡我就必須插嘴一下，我家�
 
 **雙方**
 
-  * 你如何描述你的公司的組織文化？你個人更加認同的公司價值觀是什麼？(How would you describe your company’s organization culture? What company values that you personally feel more aligned with?)
+  * 你如何描述你的公司的組織文化？你個人更加認同的公司價值觀是什麼？(How would you describe your company’s organisation culture? What company values that you personally feel more aligned with?)
   * 從你的角度來看，作為一名 DevOps 工程師，理想的個人特質是什麼？ (From your perspective, what are the ideal personal traits for the role as a DevOps Engineer?)
   * 請問下一步的面試流程是什麼? (What are the next steps from here?)
 

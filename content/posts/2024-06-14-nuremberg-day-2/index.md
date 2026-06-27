@@ -27,7 +27,7 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 不管你對於歷史有沒有興趣，如果你有機會來德國，我都會建議你參觀這幾個納粹相關的博物館，了解納粹歷史的發展跟起落以及對近代歷史的影響。
 
-### 納粹黨代會檔案中心 Documentation Center Nazi Party
+### 納粹黨代會檔案中心 Documentation Centre Nazi Party
 
 ![納粹黨代會檔案中心外觀](images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpg)
 

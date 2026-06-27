@@ -42,7 +42,7 @@ episodeseries: ["DevOps 面試紀錄"]
 
 有些經理什麼訓練都沒有提供，就把我直接丟到客戶面前，讓我過得很辛苦。
 
-我是一個剛加入團隊時，需要經理稍微手把手帶著我的人，但是一旦我熟悉工作流程、熟悉團隊、熟悉文化之後，我其實是可以為團隊貢獻很多助力的人 (Once I become comfortable with the process, with the team, with the organization culture, I’m that kind of person who has a lot to contribute)。」
+我是一個剛加入團隊時，需要經理稍微手把手帶著我的人，但是一旦我熟悉工作流程、熟悉團隊、熟悉文化之後，我其實是可以為團隊貢獻很多助力的人 (Once I become comfortable with the process, with the team, with the organisation culture, I’m that kind of person who has a lot to contribute)。」
 
 雖然沒有獲得我想要的資訊，但我至少表達了我的訴求。如果 HM 覺得這是一個他可以辦到，或是他可以認同的方式，至少他錄取我後他應該會按照我希望／需要的方式來進行入職培訓 (如果他要錄取我的話XD)。
 

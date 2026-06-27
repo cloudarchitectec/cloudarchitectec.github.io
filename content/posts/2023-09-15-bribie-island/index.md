@@ -31,7 +31,7 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 去程完全由 Learner Driver 朋友主開，這也是她第一次開車上澳洲高速公路，請大家幫她掌聲鼓勵👏👏👏
 
-在澳洲要拿到 full driving license，必須一路從 learner、紅P 、綠 P 開始練習，大概需要四年才能拿到正式駕照。L牌駕駛不能獨自開車，一定要在有full license 的人的陪同下才能上路，我頓時有種變成學姊的感覺😆
+在澳洲要拿到 full driving licence，必須一路從 learner、紅P 、綠 P 開始練習，大概需要四年才能拿到正式駕照。L牌駕駛不能獨自開車，一定要在有full licence 的人的陪同下才能上路，我頓時有種變成學姊的感覺😆
 
 ### **Gather & Feast **咖啡店
 
