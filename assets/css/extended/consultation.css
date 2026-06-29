@@ -1,0 +1,476 @@
+/* Consultation landing page — aligned with portfolio visual language */
+
+.consultation-page {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0.5rem 0 2.5rem;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.consultation-section {
+  margin-bottom: 2rem;
+}
+
+.consultation-heading {
+  margin: 0 0 1rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--primary);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.35rem;
+}
+
+.consultation-lead {
+  margin: 0 0 0.75rem;
+  color: var(--content);
+}
+
+.consultation-note {
+  margin: 1rem 0 0;
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+
+/* Hero */
+
+.consultation-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+  gap: 1.5rem;
+  align-items: center;
+  margin-bottom: 1.75rem;
+  padding: 0;
+}
+
+.consultation-hero__eyebrow {
+  margin: 0 0 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--secondary);
+}
+
+.consultation-hero__title {
+  margin: 0 0 0.65rem;
+  font-size: clamp(1.45rem, 3vw, 1.85rem);
+  line-height: 1.25;
+  color: var(--primary);
+}
+
+.consultation-hero__subtitle {
+  margin: 0 0 1rem;
+  color: var(--content);
+}
+
+.consultation-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1.1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.consultation-badge {
+  display: inline-block;
+  padding: 0.3rem 0.75rem;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.4;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--theme);
+  color: var(--secondary);
+}
+
+.consultation-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.consultation-hero__visual {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.consultation-hero__frame {
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+
+.consultation-hero__frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.consultation-hero__caption {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--tertiary);
+  text-align: center;
+  font-style: italic;
+}
+
+/* Buttons */
+
+.consultation-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.55rem 1.1rem;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.4;
+  border-radius: var(--radius);
+  border: 1px solid transparent;
+  text-decoration: none;
+  transition: opacity 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.consultation-btn--primary {
+  background: var(--primary);
+  color: var(--theme);
+  border-color: var(--primary);
+}
+
+.consultation-btn--primary:hover {
+  opacity: 0.92;
+}
+
+.consultation-btn--ghost {
+  background: transparent;
+  color: var(--secondary);
+  border-color: var(--border);
+}
+
+.consultation-btn--ghost:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+.consultation-btn--large {
+  padding: 0.7rem 1.25rem;
+  font-size: 15px;
+}
+
+.consultation-inline-cta {
+  margin-top: 1.25rem;
+}
+
+/* Stats */
+
+.consultation-stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+}
+
+.consultation-stat {
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--theme);
+  text-align: center;
+}
+
+.consultation-stat__value {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.consultation-stat__label {
+  margin: 0.2rem 0 0;
+  font-size: 0.85rem;
+  color: var(--secondary);
+}
+
+/* Service panels */
+
+.consultation-service-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.consultation-panel {
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--theme);
+}
+
+.consultation-panel--include {
+  border-top: 2px solid var(--primary);
+}
+
+.consultation-panel__title {
+  margin: 0 0 0.55rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.consultation-list {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.consultation-list li {
+  margin-bottom: 0.4rem;
+  color: var(--content);
+}
+
+.consultation-steps {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  background: var(--code-bg);
+}
+
+.consultation-steps__title {
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.consultation-steps__list {
+  margin: 0;
+  padding-left: 1.25rem;
+  color: var(--content);
+}
+
+.consultation-steps__list li {
+  margin-bottom: 0.35rem;
+}
+
+/* Audience */
+
+.consultation-audience-list {
+  margin: 0;
+  padding-left: 1.15rem;
+}
+
+.consultation-audience-list li {
+  margin-bottom: 0.45rem;
+  color: var(--content);
+}
+
+/* Testimonials */
+
+.consultation-testimonial-grid,
+.consultation-more__grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.consultation-testimonial-card {
+  margin: 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--theme);
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  min-height: 100%;
+}
+
+.consultation-testimonial-card__quote {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  color: var(--content);
+}
+
+.consultation-testimonial-card__footer {
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.consultation-testimonial-card__name {
+  font-style: normal;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+
+.consultation-testimonial-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.consultation-testimonial-card__tags li span {
+  display: inline-block;
+  padding: 0 8px;
+  font-size: 11px;
+  line-height: 22px;
+  color: var(--secondary);
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.consultation-more {
+  margin-top: 1rem;
+}
+
+.consultation-more__summary {
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--primary);
+  list-style: none;
+}
+
+.consultation-more__summary::-webkit-details-marker {
+  display: none;
+}
+
+.consultation-more__summary::before {
+  content: "▸ ";
+}
+
+.consultation-more[open] .consultation-more__summary::before {
+  content: "▾ ";
+}
+
+.consultation-more__grid {
+  margin-top: 0.85rem;
+}
+
+.consultation-testimonial-card--compact {
+  background: var(--code-bg);
+}
+
+/* About */
+
+.consultation-about__bio {
+  margin: 0 0 0.75rem;
+  color: var(--content);
+}
+
+.consultation-about__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.consultation-about__links a {
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+/* Bottom CTA */
+
+.consultation-cta {
+  margin-top: 0.5rem;
+  padding: 1.25rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--code-bg);
+  border-left: 3px solid var(--primary);
+  text-align: center;
+}
+
+.consultation-cta__heading {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+  color: var(--primary);
+}
+
+.consultation-cta__text {
+  margin: 0 0 1rem;
+  color: var(--content);
+}
+
+.consultation-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.65rem 1rem;
+  margin: 1rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.consultation-social a {
+  font-size: 0.9rem;
+  color: var(--secondary);
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+  .consultation-hero {
+    grid-template-columns: 1fr;
+    padding: 0;
+  }
+
+  .consultation-hero__visual {
+    order: -1;
+  }
+
+  .consultation-service-grid,
+  .consultation-testimonial-grid,
+  .consultation-more__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .consultation-hero__actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .consultation-btn {
+    width: 100%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 960px) {
+  .consultation-testimonial-grid,
+  .consultation-more__grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media print {
+  .consultation-page {
+    max-width: none;
+    padding: 0;
+  }
+
+  .consultation-more {
+    display: block;
+  }
+
+  .consultation-more__summary {
+    display: none;
+  }
+
+  .consultation-more__grid {
+    display: grid;
+  }
+}

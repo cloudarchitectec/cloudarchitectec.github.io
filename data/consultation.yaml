@@ -1,0 +1,74 @@
+hero:
+  title: "澳洲科技職涯策略諮詢"
+  subtitle: "以澳洲在地經驗為基礎的職涯決策對談。轉職、offer 取捨、賽道選擇——幫你把優先順序想清楚。"
+  image: "images/hero.png"
+  image_alt: "EC 職涯諮詢服務"
+  badges:
+    - "45 分鐘"
+    - "Google Meet"
+    - "A$119"
+    - "每週 1 場"
+  cta_label: "預約諮詢"
+  secondary_link:
+    label: "先看文章懶人包"
+    url: "/posts/2018-01-02-ec-post-list/"
+
+service:
+  heading: "方案內容"
+  includes_heading: "這場諮詢會做什麼"
+  includes:
+    - "針對你事先選定的 1 個核心問題深入討論（轉職節奏、方向取捨、澳洲市場與文化判斷、未來 3 個月行動優先序等）"
+    - "依你的背景給出可執行的下一步建議"
+  excludes_heading: "這場諮詢不做什麼"
+  excludes:
+    - "不含英文履歷全文修改、不含 mock interview、不含代寫"
+    - "不含長篇會後書面報告"
+    - "單次若議題超過 1 個，只處理最優先那一項"
+  visa_note: "我可以分享個人經驗與觀察，但不是註冊移民代理，不提供法律建議。具體簽證規定請洽註冊移民律師。"
+  visa_link:
+    label: "簽證整理文"
+    url: "/posts/2024-03-08-au-visa-options/"
+  steps_heading: "預約流程"
+  steps:
+    - "選擇時段並填寫預約問題"
+    - "以 Stripe 完成付款（A$119）"
+    - "收到含 Google Meet 連結的確認信"
+    - "諮詢當天線上對談"
+
+audience:
+  heading: "適合你嗎？"
+  intro: "你可能正在想："
+  items:
+    - "想轉進科技業，但不確定第一步或節奏？"
+    - "人在台灣，想了解澳洲科技業市場、文化與求職現實？"
+    - "已在澳洲，但對轉職、升遷或賽道選擇感到卡關？"
+    - "手上有兩個方向（或 offer），需要有人幫你做取捨？"
+  note: "建議你先翻過文章懶人包，若覺得我的分享對你有幫助，再來預約，我們會聊得更有效率。"
+
+testimonials:
+  featured_heading: "學員回饋"
+  more_label: "查看更多學員回饋"
+
+about:
+  heading: "為什麼找我聊？"
+  bio: "嗨，我是 EC。從文組轉戰科技業，先後在澳洲 Amazon（AWS）與 Microsoft 工作，現為資深 DevOps 工程師。在澳洲生活超過十年，經歷過打工度假、留學與自行申請移民。"
+  links:
+    - label: "認識 EC"
+      url: "/portfolio/career-zh/"
+    - label: "文組轉職進 Amazon"
+      url: "/posts/2022-12-03-bootcamp-to-aws/"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/elliettchen/"
+
+cta:
+  heading: "還在觀望？"
+  text: "若你卡在某個職涯十字路口，想聽聽在澳洲科技業實際走過一輪的人怎麼看，歡迎預約。"
+  label: "預約澳洲科技職涯策略諮詢（A$119）"
+
+social:
+  - label: "Facebook 粉專"
+    url: "https://www.facebook.com/cloudarchitectec"
+  - label: "Threads"
+    url: "https://www.threads.net/@cloud_architect_ec"
+  - label: "合作信箱"
+    url: "mailto:cloudarchitectec@gmail.com"

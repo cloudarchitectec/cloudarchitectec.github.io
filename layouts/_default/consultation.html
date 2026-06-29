@@ -1,0 +1,167 @@
+{{- define "main" }}
+{{- $page := site.Data.consultation }}
+{{- $hero := $page.hero }}
+{{- $service := $page.service }}
+{{- $audience := $page.audience }}
+{{- $about := $page.about }}
+{{- $cta := $page.cta }}
+{{- $testimonials := site.Data.consultation_testimonials.testimonials }}
+{{- $featured := where $testimonials "featured" true }}
+{{- $more := where $testimonials "featured" false }}
+<article class="consultation-page post-single" id="consultation-page">
+
+  <section class="consultation-hero" aria-labelledby="consultation-title">
+    <div class="consultation-hero__content">
+      <p class="consultation-hero__eyebrow">職涯諮詢</p>
+      <h1 class="consultation-hero__title" id="consultation-title">{{ $hero.title }}</h1>
+      <p class="consultation-hero__subtitle">{{ $hero.subtitle }}</p>
+      <ul class="consultation-badges" aria-label="方案摘要">
+        {{- range $hero.badges }}
+        <li><span class="consultation-badge">{{ . }}</span></li>
+        {{- end }}
+      </ul>
+      <div class="consultation-hero__actions">
+        <a class="consultation-btn consultation-btn--primary"
+           href="{{ site.Params.consultationBookingUrl }}"
+           target="_blank"
+           rel="noopener noreferrer">{{ $hero.cta_label }}</a>
+        {{- with $hero.secondary_link }}
+        <a class="consultation-btn consultation-btn--ghost" href="{{ .url | relLangURL }}">{{ .label }}</a>
+        {{- end }}
+      </div>
+    </div>
+    <div class="consultation-hero__visual">
+      <div class="consultation-hero__frame">
+        <img src="{{ printf "%s%s" .RelPermalink $hero.image | relURL }}"
+             alt="{{ $hero.image_alt }}"
+             width="640"
+             height="360"
+             loading="eager"
+             decoding="async">
+      </div>
+      <p class="consultation-hero__caption">Architecting Career Success Beyond the Cloud</p>
+    </div>
+  </section>
+
+  <section class="consultation-section" aria-labelledby="consultation-service-heading">
+    <h2 class="consultation-heading" id="consultation-service-heading">{{ $service.heading }}</h2>
+    <div class="consultation-service-grid">
+      <div class="consultation-panel consultation-panel--include">
+        <h3 class="consultation-panel__title">{{ $service.includes_heading }}</h3>
+        <ul class="consultation-list">
+          {{- range $service.includes }}
+          <li>{{ . }}</li>
+          {{- end }}
+        </ul>
+      </div>
+      <div class="consultation-panel consultation-panel--exclude">
+        <h3 class="consultation-panel__title">{{ $service.excludes_heading }}</h3>
+        <ul class="consultation-list">
+          {{- range $service.excludes }}
+          <li>{{ . }}</li>
+          {{- end }}
+        </ul>
+      </div>
+    </div>
+    <p class="consultation-note">
+      {{ $service.visa_note }}
+      <a href="{{ $service.visa_link.url | relLangURL }}">{{ $service.visa_link.label }}</a>
+    </p>
+    <div class="consultation-steps">
+      <h3 class="consultation-steps__title">{{ $service.steps_heading }}</h3>
+      <ol class="consultation-steps__list">
+        {{- range $service.steps }}
+        <li>{{ . }}</li>
+        {{- end }}
+      </ol>
+    </div>
+    <div class="consultation-inline-cta">
+      <a class="consultation-btn consultation-btn--primary"
+         href="{{ site.Params.consultationBookingUrl }}"
+         target="_blank"
+         rel="noopener noreferrer">{{ $hero.cta_label }}</a>
+    </div>
+  </section>
+
+  <section class="consultation-section" aria-labelledby="consultation-audience-heading">
+    <h2 class="consultation-heading" id="consultation-audience-heading">{{ $audience.heading }}</h2>
+    <p class="consultation-lead">{{ $audience.intro }}</p>
+    <ul class="consultation-audience-list">
+      {{- range $audience.items }}
+      <li>{{ . }}</li>
+      {{- end }}
+    </ul>
+    <p class="consultation-note">{{ $audience.note }}</p>
+  </section>
+
+  <section class="consultation-section" aria-labelledby="consultation-testimonials-heading">
+    <h2 class="consultation-heading" id="consultation-testimonials-heading">{{ $page.testimonials.featured_heading }}</h2>
+    <div class="consultation-testimonial-grid">
+      {{- range $featured }}
+      <blockquote class="consultation-testimonial-card">
+        <p class="consultation-testimonial-card__quote">「{{ .quote }}」</p>
+        <footer class="consultation-testimonial-card__footer">
+          <cite class="consultation-testimonial-card__name">{{ .name }}</cite>
+          {{- with .tags }}
+          <ul class="consultation-testimonial-card__tags" aria-label="主題">
+            {{- range . }}
+            <li><span>{{ . }}</span></li>
+            {{- end }}
+          </ul>
+          {{- end }}
+        </footer>
+      </blockquote>
+      {{- end }}
+    </div>
+    {{- if $more }}
+    <details class="consultation-more">
+      <summary class="consultation-more__summary">
+        {{ $page.testimonials.more_label }}（{{ len $more }} 則）
+      </summary>
+      <div class="consultation-more__grid">
+        {{- range $more }}
+        <blockquote class="consultation-testimonial-card consultation-testimonial-card--compact">
+          <p class="consultation-testimonial-card__quote">「{{ .quote }}」</p>
+          <footer class="consultation-testimonial-card__footer">
+            <cite class="consultation-testimonial-card__name">{{ .name }}</cite>
+            {{- with .tags }}
+            <ul class="consultation-testimonial-card__tags" aria-label="主題">
+              {{- range . }}
+              <li><span>{{ . }}</span></li>
+              {{- end }}
+            </ul>
+            {{- end }}
+          </footer>
+        </blockquote>
+        {{- end }}
+      </div>
+    </details>
+    {{- end }}
+  </section>
+
+  <section class="consultation-section consultation-about" aria-labelledby="consultation-about-heading">
+    <h2 class="consultation-heading" id="consultation-about-heading">{{ $about.heading }}</h2>
+    <p class="consultation-about__bio">{{ $about.bio }}</p>
+    <ul class="consultation-about__links">
+      {{- range $about.links }}
+      <li><a href="{{ .url }}">{{ .label }}</a></li>
+      {{- end }}
+    </ul>
+  </section>
+
+  <section class="consultation-cta" aria-labelledby="consultation-cta-heading">
+    <h2 class="consultation-cta__heading" id="consultation-cta-heading">{{ $cta.heading }}</h2>
+    <p class="consultation-cta__text">{{ $cta.text }}</p>
+    <a class="consultation-btn consultation-btn--primary consultation-btn--large"
+       href="{{ site.Params.consultationBookingUrl }}"
+       target="_blank"
+       rel="noopener noreferrer">{{ $cta.label }}</a>
+    <ul class="consultation-social">
+      {{- range $page.social }}
+      <li><a href="{{ .url }}">{{ .label }}</a></li>
+      {{- end }}
+    </ul>
+  </section>
+
+</article>
+{{- end }}
