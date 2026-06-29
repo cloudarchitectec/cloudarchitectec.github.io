@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@johnschno"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*56iblj35IDs0Ee1S.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["微軟"]
 
 ---

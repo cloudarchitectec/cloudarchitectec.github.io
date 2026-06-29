@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@eldarnazarov"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*nKEd05l3NF0Z26i8.jpg', 'images/medium-1*vIHpA3YYuiBirCpM9JkPLA.png', 'images/medium-1*1WzCeZQjzOzhmKVcctcttw.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["DevOps 工程師","澳洲面試心得"]
 
 ---

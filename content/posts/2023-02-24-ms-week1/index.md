@@ -7,7 +7,7 @@ cover:
   alt: "微軟坎培拉辦公室-門口"
   caption: "微軟坎培拉辦公室-門口"
 images: ['images/medium-1*yIgddoLvNS-Krhdu3SaM-g.jpg', 'images/medium-1*aZU2WYmUy-OhffJ6aaMbcg.jpg', 'images/medium-1*lHetegP84aqFpikFtTacMA.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["微軟"]
 
 ---

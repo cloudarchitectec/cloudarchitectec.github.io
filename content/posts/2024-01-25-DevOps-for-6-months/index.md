@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@johnishappysometimes"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*s0H-Uir4l9_Oukde.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["薪資"]
 
 ---

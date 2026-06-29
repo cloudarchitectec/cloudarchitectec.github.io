@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@miinrad"
     photo_url: "https://unsplash.com/photos/a-man-and-a-woman-shaking-hands-in-front-of-a-laptop-qFSQFSmfZkA"
 images: ["images/qFSQFSmfZkA-unsplash.jpg"]
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["英文面試"]
 
 ---

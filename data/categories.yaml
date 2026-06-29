@@ -1,0 +1,14 @@
+# Single source of truth for blog categories.
+#
+# order: display sequence on the ec-post-list page (categorized-posts shortcode)
+# meta: allowed in front matter but hidden from the post-list page (e.g. EC)
+
+order:
+  - 澳洲職場
+  - 投資理財
+  - 旅行紀錄
+  - 澳洲生活
+  - 零基礎轉職澳洲工程師
+
+meta:
+  - EC

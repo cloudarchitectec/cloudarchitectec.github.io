@@ -11,7 +11,7 @@ cover:
     photographer_url: "https://unsplash.com/@shotaspot"
     photo_url: "https://unsplash.com/photos/brown-wooden-dock-beside-body-of-water-at-daytime-WDVbXsVUncQ"
 images: ["images/frank-albrecht-WDVbXsVUncQ-unsplash.jpg"]
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
 episodeseries: ["我要升官加薪"]
 ---

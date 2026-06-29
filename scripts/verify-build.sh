@@ -77,6 +77,20 @@ grep -q '個人經歷' "$PORTFOLIO_STORY" \
   && echo "✅ Portfolio story page built" \
   || (echo "❌ Portfolio story missing expected content" && exit 1)
 
+CONSULTATION_PAGE="${PUBLIC_DIR}/consultation/index.html"
+[ -f "$CONSULTATION_PAGE" ] || (echo "❌ Consultation page missing: $CONSULTATION_PAGE" && exit 1)
+grep -q 'consultation-hero' "$CONSULTATION_PAGE" \
+  && grep -q 'consultation-testimonial-card' "$CONSULTATION_PAGE" \
+  && grep -q 'Alison' "$CONSULTATION_PAGE" \
+  && echo "✅ Consultation landing page built" \
+  || (echo "❌ Consultation page missing expected content" && exit 1)
+
+CONSULTATION_ALIAS="${PUBLIC_DIR}/posts/2018-01-03-ec-consultation/index.html"
+[ -f "$CONSULTATION_ALIAS" ] || (echo "❌ Consultation alias redirect missing" && exit 1)
+grep -q 'consultation' "$CONSULTATION_ALIAS" \
+  && echo "✅ Consultation alias redirect built" \
+  || (echo "❌ Consultation alias redirect missing target" && exit 1)
+
 grep -q '>Experience<' "$PORTFOLIO_CAREER_EN" \
   && echo "✅ Portfolio career-en page built" \
   || (echo "❌ Portfolio career-en missing expected content" && exit 1)

@@ -4,7 +4,7 @@ Features:
 - Reads pre-publish `.md` from `tools/blog-publisher/input/` only (filename, no absolute paths)
 - Writes directly to `content/posts/{slug}/` (`index.md` + `images/`) — no staging folder
 - Interactive prompts: date, slug, category, tags, episodeseries
-- Category picker: exactly one from `ALLOWED_CATEGORIES` (synced with frontmatter-check.py)
+- Category picker: exactly one from `data/categories.yaml` (via frontmatter-check)
 - Tag-based category hint (e.g. 投資/ETF → 投資理財)
 - Episode series: pick from registry or add new (`data/episodeseries.json`)
 - Unsplash cover: download via API (`UNSPLASH_ACCESS_KEY` in repo `.env`), baseline JPEG normalize, size check
@@ -70,7 +70,7 @@ def _load_module(name: str, path: Path):
 
 
 def allowed_categories() -> list[str]:
-    """Single source of truth: scripts/post-validation/frontmatter-check.py."""
+    """Single source of truth: data/categories.yaml."""
     fm = _load_module("frontmatter_check", FRONTMATTER_CHECK)
     return sorted(fm.ALLOWED_CATEGORIES)
 

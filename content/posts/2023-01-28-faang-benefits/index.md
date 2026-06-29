@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@jareddrice"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*TyPKjt_dMWUNDkNU.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["科技業"]
 
 ---

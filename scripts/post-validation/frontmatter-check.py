@@ -25,15 +25,19 @@ split_post = _cover.split_post
 
 FOOTER_LEGACY = re.compile(r"\{\{<\s*footer\s*>\}\}")
 
-# Internal taxonomy for related-post matching (not shown on post pages).
-ALLOWED_CATEGORIES = frozenset({
-    "EC",
-    "零基礎轉職澳洲工程師",
-    "海外職場",
-    "澳洲生活",
-    "投資理財",
-    "旅行紀錄",
-})
+
+def _load_categories_registry():
+    path = _DIR.parent / "categories_registry.py"
+    spec = importlib.util.spec_from_file_location("categories_registry", path)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"Cannot load {path}")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+_categories = _load_categories_registry()
+ALLOWED_CATEGORIES = _categories.load_allowed_categories()
 
 
 def get_fm_scalar(fm: str, key: str) -> str | None:

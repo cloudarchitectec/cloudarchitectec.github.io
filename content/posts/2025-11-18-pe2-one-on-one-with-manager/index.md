@@ -11,7 +11,7 @@ cover:
     photographer_url: "https://unsplash.com/@brett-jordan"
     photo_url: "https://unsplash.com/photos/brown-wooden-letter-blocks-on-white-surface-bf1797VxQgY"
 images: ["images/brett-jordan-bf1797VxQgY-unsplash.jpg"]
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
 episodeseries: ["我要升官加薪"]
 ---

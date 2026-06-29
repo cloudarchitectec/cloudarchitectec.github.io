@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@omgitsyeshi"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*2Yvaws4V393iGDiT.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
 
 ---

@@ -11,7 +11,7 @@ cover:
     photographer_url: "https://unsplash.com/@airfocus"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*6V_gkuucIp6LgEkS.jpg', 'images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png', 'images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png', 'images/medium-1*GESZpUU1YXukmjSgmnKlRw.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---

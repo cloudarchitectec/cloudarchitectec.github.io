@@ -11,7 +11,7 @@ cover:
     photographer_url: "https://unsplash.com/@smartworkscoworking"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*K1HNZvbky5n_Ejol.jpg', 'images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png', 'images/medium-1*U4ue47g8V7hSuywpvW0e0w.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---

@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@timmossholder"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*IHdurgjhEtnGcDd7.jpg', 'images/medium-1*ab-E0e6C6ujxJLyl5bsXxw.png', 'images/medium-1*ov3gp1nFnVb4Je8kO3NibA.png', 'images/medium-1*gi-BinpRY4mO2kvLs90O_g.png', 'images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png', 'images/medium-1*zrU3zCTWg77DjfYZMgCz_w.png', 'images/medium-1*EeFYfD0yFl2M8N5-Ue9I3w.png', 'images/medium-1*C4EmZWOgy7LR-yxBI346eA.png', 'images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png', 'images/medium-1*tB7cdH9T23yCRNJ6KFfAdQ.png', 'images/medium-1*gnswMcSZJJI9ja13c66TtQ.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["AWS"]
 
 ---

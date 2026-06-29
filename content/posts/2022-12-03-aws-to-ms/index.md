@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@karsten_wuerth"
     photo_url: "https://unsplash.com/photos/long-straight-road-with-trees-on-the-side-rafblRbne3o"
 images: ["images/rafblRbne3o-unsplash.jpg", "images/medium-1*fDf1HKJUmjR28mfykR-6fA.jpg", "images/medium-1*RZMi4d4OgM93QCOIJrLgZA.jpg"]
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["AWS"]
 
 ---

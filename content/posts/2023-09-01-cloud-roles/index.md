@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@nunchakouy"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*-brIU6Z7a6AQFe6B.jpg', 'images/medium-1*dfEZmprhjLRQ-EhGWGVL9g.png', 'images/medium-1*uvMwEGVDyxV5k7f3r11mrg.png', 'images/medium-1*S6AtYTqhXWKoe6V9YXsGJg.png', 'images/medium-1*xeIZ_bTlaYfiXqpDIWnCFw.png', 'images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["雲端架構師"]
 
 ---

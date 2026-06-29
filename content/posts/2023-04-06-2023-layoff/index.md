@@ -11,7 +11,7 @@ cover:
     photographer_url: "https://unsplash.com/@jamesyarema"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*w_X54NDVy89HyHn-.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["裁員"]
 episodeseries: ["倖存者日記"]
 ---

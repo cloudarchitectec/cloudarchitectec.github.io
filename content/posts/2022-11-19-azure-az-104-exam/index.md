@@ -6,7 +6,7 @@ cover:
   image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png"
   alt: "微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得"
 images: ['images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["雲端證照"]
 
 ---

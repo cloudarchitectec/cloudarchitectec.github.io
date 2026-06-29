@@ -38,7 +38,7 @@ title: "Test post"
 date: 2025-01-01
 slug: "test-slug"
 {UNSPLASH_FM}
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 ---
 
 Body content here.
@@ -104,7 +104,7 @@ class TestFrontmatterCheck:
 
     def test_draft_without_cover_passes(self):
         text = wrap(
-            'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ncategories: ["海外職場"]\ndraft: true',
+            'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ncategories: ["澳洲職場"]\ndraft: true',
             body="No cover.",
         )
         assert frontmatter_check.check(text, "draft-post") == []
@@ -121,25 +121,25 @@ class TestFrontmatterCheck:
         assert not any("title" in e for e in frontmatter_check.check(text, "test-slug"))
 
     def test_missing_categories_rejected(self):
-        text = GOOD_POST.replace('categories: ["海外職場"]\n', "")
+        text = GOOD_POST.replace('categories: ["澳洲職場"]\n', "")
         assert any("categories" in e for e in frontmatter_check.check(text, "test-slug"))
 
     def test_unknown_category_rejected(self):
-        text = GOOD_POST.replace('categories: ["海外職場"]', 'categories: ["不存在"]')
+        text = GOOD_POST.replace('categories: ["澳洲職場"]', 'categories: ["不存在"]')
         assert any("unknown category" in e for e in frontmatter_check.check(text, "test-slug"))
 
     def test_multiple_categories_rejected(self):
         text = GOOD_POST.replace(
-            'categories: ["海外職場"]',
-            'categories: ["海外職場", "旅行紀錄"]',
+            'categories: ["澳洲職場"]',
+            'categories: ["澳洲職場", "旅行紀錄"]',
         )
         assert any("exactly one" in e for e in frontmatter_check.check(text, "test-slug"))
 
 
     def test_empty_episodeseries_rejected(self):
         text = GOOD_POST.replace(
-            'categories: ["海外職場"]',
-            'categories: ["海外職場"]\nepisodeseries: []',
+            'categories: ["澳洲職場"]',
+            'categories: ["澳洲職場"]\nepisodeseries: []',
         )
         assert any("episodeseries" in e for e in frontmatter_check.check(text, "test-slug"))
 
@@ -148,8 +148,8 @@ class TestFrontmatterCheck:
 
     def test_episodeseries_value_passes(self):
         text = GOOD_POST.replace(
-            'categories: ["海外職場"]',
-            'categories: ["海外職場"]\nepisodeseries: ["我要升官加薪"]',
+            'categories: ["澳洲職場"]',
+            'categories: ["澳洲職場"]\nepisodeseries: ["我要升官加薪"]',
         )
         assert frontmatter_check.check(text, "test-slug") == []
 

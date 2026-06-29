@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@nickmorrison"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*L92NknyMUKwSh39M.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["雲端證照"]
 
 ---

@@ -10,8 +10,8 @@ cover:
     photographer_url: "https://unsplash.com/@glenncarstenspeters"
     photo_url: "https://unsplash.com"
 images: ['images/medium-1*2q8E82oqitgLnzzrf5VHrQ.jpg']
-categories: ["海外職場"]
-tags: ["轉職工程師", "海外職場", "科技業"]
+categories: ["澳洲職場"]
+tags: ["轉職工程師", "澳洲職場", "科技業"]
 
 ---
 

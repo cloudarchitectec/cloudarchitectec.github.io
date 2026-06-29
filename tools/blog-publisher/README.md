@@ -54,7 +54,7 @@ There is **no** staging folder — output goes straight to `content/posts/`.
 | No `{{< footer >}}` | Stripped if present; footer is layout-driven |
 | `slug` matches directory | Date-prefixed slug used for folder name |
 | Published posts need cover | Validation fails if cover is skipped |
-| Exactly one category | Picker enforces single selection from `ALLOWED_CATEGORIES` |
+| Exactly one category | Picker enforces single selection from `data/categories.yaml` |
 | Validation before finish | Runs `scripts/check-posts.py --post` on `content/posts/{slug}/` |
 
 See [`TESTING.md`](../../TESTING.md) for the full validation tiers.
@@ -75,14 +75,19 @@ Published output uses `slug: "2026-06-18-leveraged-etf-taiwan-vs-australia"` and
 
 ## Allowed categories
 
-Synced from `scripts/post-validation/frontmatter-check.py`:
+Canonical list in `data/categories.yaml` (`order` + `meta`). Validation loads via `scripts/categories_registry.py`.
 
-- EC
-- 零基礎轉職澳洲工程師
-- 海外職場
-- 澳洲生活
+Display order on the post-list page:
+
+- 澳洲職場
 - 投資理財
 - 旅行紀錄
+- 澳洲生活
+- 零基礎轉職澳洲工程師
+
+Meta only (not shown on post-list):
+
+- EC
 
 ## Command options
 

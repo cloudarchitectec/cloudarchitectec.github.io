@@ -9,7 +9,7 @@ cover:
     photographer: "Christopher Sardegna"
     photographer_url: "https://unsplash.com/@css"
     photo_url: "https://unsplash.com"
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["職涯","科技業","轉職工程師","AWS","微軟"]
 images:
   - "images/0*VPTnrBLCs211J6nV.jpg"

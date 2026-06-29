@@ -7,7 +7,7 @@ cover:
   alt: "Exam badge of AZ Solutions Architect Expert"
   caption: "Microsoft Certified Azure Solution Architect Expert"
 images: ['images/medium-1*KvQiCG--vyYalkrYgxe2Gg.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["雲端證照"]
 
 ---

@@ -11,7 +11,7 @@ cover:
     photographer_url: "https://unsplash.com/@brett_jordan"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*tXT9M2Ald1m5anwO.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["DevOps 工程師","澳洲面試心得"]
 episodeseries: ["DevOps 面試紀錄"]
 ---

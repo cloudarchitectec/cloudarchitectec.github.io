@@ -11,7 +11,7 @@ cover:
     photographer_url: "https://unsplash.com/@digitalmike"
     photo_url: "https://unsplash.com/photos/gray-microphone-in-room-ALM7RNZuDH8"
 images: ["images/michal-czyz-ALM7RNZuDH8-unsplash.jpg"]
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["科技業", "DevOps 工程師", "職涯"]
 episodeseries: ["我要升官加薪"]
 ---
