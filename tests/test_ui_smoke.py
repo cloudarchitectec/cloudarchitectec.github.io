@@ -133,7 +133,7 @@ class TestUiSmoke:
     def test_consultation_page_shows_content(self, page: Page):
         page.goto(CONSULTATION_PAGE)
         expect(page.locator("h1.consultation-hero__title")).to_have_text(
-            "澳洲科技職涯策略諮詢"
+            "澳洲職涯策略諮詢"
         )
         expect(page.locator(".consultation-testimonial-grid .consultation-testimonial-card")).to_have_count(9)
         expect(page.get_by_role("link", name="預約諮詢").first).to_be_visible()

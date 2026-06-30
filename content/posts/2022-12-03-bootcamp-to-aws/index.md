@@ -15,8 +15,6 @@ tags: ["轉職工程師", "澳洲職場", "科技業"]
 
 ---
 
-planning photo @[Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters)
-
 ### **轉職背景**
 
 當年我在台灣讀的是英文系，畢業後的第一份工作是在翻譯公司當筆譯兼翻譯專案的專案經理 (Project Manager)，後來我決定前往澳洲打工度假，成功靠著獨立技術移民拿到了澳洲綠卡/PR，2018 年宣示入籍成為澳洲公民，現在是台灣/澳洲雙重國籍。

@@ -40,7 +40,7 @@ Usage: {{< categorized-posts >}}
 
 <h3><a href="/categories/{{ $category | urlize }}/"><strong>{{ $category }}</strong></a></h3>
 <ul>
-{{ range $categoryPosts.ByTitle }}
+{{ range $categoryPosts.ByDate.Reverse }}
 <li><a href="{{ .RelPermalink }}">{{ .Title | htmlEscape }}</a></li>
 {{ end }}
 </ul>
