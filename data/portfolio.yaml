@@ -18,6 +18,12 @@ profile_pills:
     career_zh: /portfolio/career-zh/
     career_en: /portfolio/career-en/
 
+consultation_link:
+  zh:
+    text: "需要職涯導師嗎？請點擊"
+    label: "澳洲雲端架構師 EC 線上職涯諮詢"
+    url: /consultation/
+
 experience:
   - title: Engineer - DevOps
     company:

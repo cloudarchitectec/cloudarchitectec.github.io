@@ -70,10 +70,12 @@ grep -q 'cv-page' "$PORTFOLIO_CAREER_ZH" \
   && grep -q '大家好，我是 EC' "$PORTFOLIO_CAREER_ZH" \
   && grep -q 'Shell Energy Australia' "$PORTFOLIO_CAREER_ZH" \
   && grep -q 'cv-tags' "$PORTFOLIO_CAREER_ZH" \
+  && grep -q '/consultation/' "$PORTFOLIO_CAREER_ZH" \
   && echo "✅ Portfolio career-zh page built" \
   || (echo "❌ Portfolio career-zh missing expected content" && exit 1)
 
 grep -q '個人經歷' "$PORTFOLIO_STORY" \
+  && grep -q '/consultation/' "$PORTFOLIO_STORY" \
   && echo "✅ Portfolio story page built" \
   || (echo "❌ Portfolio story missing expected content" && exit 1)
 
@@ -82,6 +84,7 @@ CONSULTATION_PAGE="${PUBLIC_DIR}/consultation/index.html"
 grep -q 'consultation-hero' "$CONSULTATION_PAGE" \
   && grep -q 'consultation-testimonial-card' "$CONSULTATION_PAGE" \
   && grep -q 'Alison' "$CONSULTATION_PAGE" \
+  && grep -q 'cal.com/cloudarchitectec/career-consultation' "$CONSULTATION_PAGE" \
   && echo "✅ Consultation landing page built" \
   || (echo "❌ Consultation page missing expected content" && exit 1)
 
@@ -154,7 +157,7 @@ PY
 HTTP_HITS="$(grep -rE '(src|href)=\\?"http://' "${PUBLIC_DIR}" --include='*.html' --include='*.xml' 2>/dev/null || true)"
 if [ -n "$HTTP_HITS" ]; then
   FILTERED="$(echo "$HTTP_HITS" | grep -vE \
-    'googletagmanager\.com|google-analytics\.com|googleapis\.com|gstatic\.com|dashboard\.mailerlite\.com|donate\.stripe\.com|unpkg\.com|comments\.cloudarchitectec\.com|www\.w3\.org|schema\.org|xmlns|purl\.org|search\.yahoo\.com|creativecommons\.org|opensource\.org|gohugo\.io|github\.com/adityatelange|threads\.com|linkedin\.com|unsplash\.com|twitter\.com|facebook\.com' || true)"
+    'googletagmanager\.com|google-analytics\.com|googleapis\.com|gstatic\.com|dashboard\.mailerlite\.com|donate\.stripe\.com|buy\.stripe\.com|unpkg\.com|comments\.cloudarchitectec\.com|www\.w3\.org|schema\.org|xmlns|purl\.org|search\.yahoo\.com|creativecommons\.org|opensource\.org|gohugo\.io|github\.com/adityatelange|threads\.com|linkedin\.com|unsplash\.com|twitter\.com|facebook\.com' || true)"
   if [ -n "$FILTERED" ]; then
     echo "❌ Insecure http:// asset references in built output:"
     echo "$FILTERED" | head -20

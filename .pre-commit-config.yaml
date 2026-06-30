@@ -3,7 +3,7 @@ repos:
     hooks:
       - id: check-posts
         name: Hugo post rules
-        entry: python3 scripts/check-posts.py --staged
+        entry: bash -c '.venv/bin/python3 scripts/check-posts.py --staged'
         language: system
         files: ^content/posts/
         pass_filenames: false

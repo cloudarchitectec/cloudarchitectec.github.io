@@ -36,6 +36,7 @@ disablePathToLower = true
   author = "Cloud Architect EC"
   authorDescription = "澳洲雲端架構師，前Amazon與微軟工程師，專注於雲端架構與職涯轉換"
   authorImage = "/ec-logo.png"
+  consultationBookingUrl = "https://cal.com/cloudarchitectec/career-consultation"
   
   # Google Analytics Configuration
   googleAnalytics = "G-F5Z4F1PYEE"
@@ -147,7 +148,7 @@ disablePathToLower = true
     contentDir = "content"
 
     # [[languages.zh-hant.menu.main]]
-    #   name = "人生故事"
+    #   name = "背景故事"
     #   url = "/posts/2018-01-01-iam-ec"
     #   weight = 10
     [[languages.zh-hant.menu.main]]
@@ -158,10 +159,10 @@ disablePathToLower = true
       name = "文章列表"
       url = "/posts/2018-01-02-ec-post-list"
       weight = 25
-    # [[languages.zh-hant.menu.main]]
-    #   name = "職涯諮詢"
-    #   url = "/posts/2018-01-03-ec-consultation"
-    #   weight = 15
+    [[languages.zh-hant.menu.main]]
+      name = "職涯諮詢"
+      url = "/consultation/"
+      weight = 15
     # [[languages.zh-hant.menu.main]]
     #   name = "系列文章"
     #   url = "/episodeseries"
@@ -180,7 +181,7 @@ disablePathToLower = true
       weight = 60
     [[languages.zh-hant.menu.main]]
       name = "請EC喝咖啡 ☕️"
-      url = "https://donate.stripe.com/8wM8xU44n5Ld9Q4bIJ"
+      url = "https://buy.stripe.com/6oUcN7euk0030zj4zU4Ja00"
       weight = 70
 
 [markup]

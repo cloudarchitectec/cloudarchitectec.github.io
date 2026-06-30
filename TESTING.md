@@ -1,6 +1,6 @@
 # Testing strategy
 
-This document describes how the blog is validated across local development, pre-commit hooks, PR CI, deploy CI, and post-deploy production smoke. The implementation plan lives in [`2_blog_repo_plan.md`](2_blog_repo_plan.md).
+This document describes how the blog is validated across local development, pre-commit hooks, PR CI, deploy CI, and post-deploy production smoke.
 
 ## Repository layout — `scripts/` vs `tests/`
 

@@ -33,6 +33,7 @@
       <div class="cv-story-content post-content">
         {{ .Content }}
       </div>
+      {{ partial "portfolio_consultation_link.html" . }}
       {{- else }}
       <p class="cv-story-missing">Story content unavailable.</p>
       {{- end }}
