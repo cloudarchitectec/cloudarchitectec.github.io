@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@burntime"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*U0dfYsPiq7mCwebZ.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["AWS", "雲端架構師"]
 
 ---

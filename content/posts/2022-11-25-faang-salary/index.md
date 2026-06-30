@@ -10,8 +10,8 @@ cover:
     photographer_url: "https://unsplash.com/@sugercoatit"
     photo_url: "https://unsplash.com/photos/assorted-australian-dollar-banknotes-uXHIdfSKPiw"
 images: ["images/uXHIdfSKPiw-unsplash.jpg"]
-categories: ["海外職場"]
-tags: ["科技業", "海外職場", "薪資"]
+categories: ["澳洲職場"]
+tags: ["科技業", "澳洲職場", "薪資"]
 
 ---
 

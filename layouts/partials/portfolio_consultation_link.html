@@ -1,0 +1,7 @@
+{{- $link := site.Data.portfolio.consultation_link.zh }}
+{{- if $link }}
+<p class="cv-consultation-link">
+  {{ $link.text }}
+  <a href="{{ $link.url | relLangURL }}">{{ $link.label }}</a>
+</p>
+{{- end }}

@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@markuswinkler"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*Psml5_ESx4uZ9sFr.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["雲端證照"]
 
 ---

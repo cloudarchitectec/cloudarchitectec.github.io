@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@jontyson"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*tVR4-5Kf3RLO75-J.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["英文面試", "微軟"]
 
 ---

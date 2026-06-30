@@ -37,6 +37,7 @@ tools/blog-publisher/input/
 # -----------------------
 # Private project docs
 # -----------------------
+plan.md
 .cursor/rules/
 .cursor/skills/
 

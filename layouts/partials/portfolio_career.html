@@ -66,3 +66,7 @@
   </ul>
 </section>
 {{- end }}
+
+{{- if eq $lang "zh" }}
+{{ partial "portfolio_consultation_link.html" . }}
+{{- end }}

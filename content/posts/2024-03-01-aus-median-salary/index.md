@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@dawson2406"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*0uAgsok1JRZvwi0k.jpg', 'images/medium-1*PB46lQ5iZqbVusENJ-xxWw.png', 'images/medium-1*Ma8_iNPDVReXHTL-HWH5Zw.png', 'images/medium-1*AW9UO19oIVjHoMa2kh7sGw.png', 'images/medium-1*KOLsZLA1T-U54wIG01J1VQ.png', 'images/medium-1*OKIJEys1q2mD8KTPT3Yb3w.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["薪資","澳洲職場統計數據"]
 
 ---

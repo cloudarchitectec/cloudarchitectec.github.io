@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@wocintechchat"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*VtTwo_4RcFVfiCkx.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["澳洲求職必勝法則","英文面試"]
 
 ---

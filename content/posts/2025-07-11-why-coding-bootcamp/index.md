@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@yellowteapot"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*q2epsdGOAZx-wOF5.jpg', 'images/medium-1*GybFqB1_clJmoDVJGZdT9Q.png']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["程式訓練營"]
 
 ---
@@ -234,4 +234,4 @@ tags: ["程式訓練營"]
 
 一個適合的 bootcamp，能幫你少繞點路，幫你把基礎打好、建立成長型心態，也可能讓你認識志同道合的夥伴，讓這條路不會那麼孤單。好幾個我當年在 bootcamp 認識的朋友（一個義大利男生、一個俄羅斯女生），後來都成為我一輩子的朋友！
 
-最後，如果你對 bootcamp 的學習規劃、轉職工程師、或是海外職場求職策略有興趣，歡迎預約我的職涯諮詢服務，或留言敲碗任何你有興趣的主題！
+最後，如果你對 bootcamp 的學習規劃、轉職工程師、或是澳洲職場求職策略有興趣，歡迎預約我的職涯諮詢服務，或留言敲碗任何你有興趣的主題！

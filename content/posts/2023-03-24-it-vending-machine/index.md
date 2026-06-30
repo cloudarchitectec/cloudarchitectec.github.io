@@ -6,7 +6,7 @@ cover:
   image: "images/medium-1*js1PtztgDyYljTiVon93-w.jpg"
   alt: "IT 設備販賣機 \\(IT accessories vending machine\\)"
 images: ['images/medium-1*js1PtztgDyYljTiVon93-w.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["科技業", "AWS"]
 
 ---

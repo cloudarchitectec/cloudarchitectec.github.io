@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@roger3010"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*rqpmoMhuClAH1A3L.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["轉職工程師"]
 
 ---

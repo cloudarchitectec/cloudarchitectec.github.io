@@ -1,10 +1,10 @@
 ---
-title: "澳洲布里斯本：陽光海岸高空樹頂挑戰 (Tree Top Challenge Big Pineapple) 初體驗，玩的就是心跳！"
+title: "澳洲布里斯本：陽光海岸高空樹頂挑戰初體驗，玩的就是心跳！"
 date: 2023-10-28
 slug: "2023-10-28-tree-top"
 cover:
   image: "images/medium-0*tPI7MVQyyD5Q4TRi.jpg"
-  alt: "澳洲布里斯本：陽光海岸高空樹頂挑戰 (Tree Top Challenge Big Pineapple) 初體驗，玩的就是心跳！"
+  alt: "澳洲布里斯本：陽光海岸高空樹頂挑戰初體驗，玩的就是心跳！"
   credit:
     photographer: "Anastasiya Romanova"
     photographer_url: "https://unsplash.com/@nanichkar"

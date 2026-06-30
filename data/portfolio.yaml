@@ -10,13 +10,19 @@ labels:
     zh: 學歷
 
 profile_pills:
-  story: 人生故事
+  story: 背景故事
   career_zh: 職涯重點
   career_en: 職涯重點 (英文版)
   urls:
     story: /portfolio/story/
     career_zh: /portfolio/career-zh/
     career_en: /portfolio/career-en/
+
+consultation_link:
+  zh:
+    text: "需要職涯導師嗎？請點擊"
+    label: "澳洲雲端架構師 EC 線上職涯諮詢"
+    url: /consultation/
 
 experience:
   - title: Engineer - DevOps

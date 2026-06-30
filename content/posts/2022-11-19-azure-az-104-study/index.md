@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@craftedbygc"
     photo_url: "https://unsplash.com/s/photos/exam"
 images: ['images/medium-1*lev_HQtKaLx6v_RF-Eu0pg.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["雲端證照"]
 
 ---

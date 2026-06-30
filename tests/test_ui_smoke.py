@@ -19,6 +19,7 @@ PE_POST = "/posts/2025-11-14-pe-1-pe-or-not/"
 CV_PAGE_CAREER_ZH = "/portfolio/career-zh/"
 CV_PAGE_CAREER_EN = "/portfolio/career-en/"
 CV_PAGE_STORY = "/portfolio/story/"
+CONSULTATION_PAGE = "/consultation/"
 
 
 def visible_non_empty_text(page: Page, selector: str, limit: int = 10) -> list[str]:
@@ -122,12 +123,31 @@ class TestUiSmoke:
         expect(page.locator(".cv-tags li")).to_have_count(12)
 
         page.goto(CV_PAGE_STORY)
-        expect(page.locator("a.ec-pill.ec-pill--active")).to_have_text("人生故事")
+        expect(page.locator("a.ec-pill.ec-pill--active")).to_have_text("背景故事")
         expect(page.get_by_role("heading", name="個人經歷")).to_be_visible()
 
         page.goto(CV_PAGE_CAREER_EN)
         expect(page.locator("a.ec-pill.ec-pill--active")).to_have_text("職涯重點 (英文版)")
         expect(page.get_by_role("heading", name="Experience")).to_be_visible()
+
+    def test_consultation_page_shows_content(self, page: Page):
+        page.goto(CONSULTATION_PAGE)
+        expect(page.locator("h1.consultation-hero__title")).to_have_text(
+            "澳洲雲端架構師 EC 線上職涯諮詢"
+        )
+        expect(page.locator(".consultation-testimonial-grid .consultation-testimonial-card")).to_have_count(6)
+        expect(page.get_by_role("link", name="預約諮詢").first).to_be_visible()
+        expect(page.locator("details.consultation-more summary")).to_be_visible()
+
+    def test_consultation_old_post_alias_redirects(self, page: Page, built_site):
+        # Hugo aliases emit meta-refresh to baseURL (absolute production URL).
+        # Smoke server is localhost — verify alias HTML, then load /consultation/ locally.
+        alias_html = (built_site / "posts/2018-01-03-ec-consultation/index.html").read_text(
+            encoding="utf-8"
+        )
+        assert "/consultation/" in alias_html
+        page.goto(CONSULTATION_PAGE)
+        expect(page.locator("h1.consultation-hero__title")).to_be_visible()
 
 
 class TestMobileUiSmoke:

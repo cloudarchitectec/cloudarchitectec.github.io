@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@huntersrace"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*SeJpdD8zq08awCIa.jpg']
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: ["AWS"]
 
 ---

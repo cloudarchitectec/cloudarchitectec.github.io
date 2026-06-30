@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@epicantus"
     photo_url: "https://unsplash.com/photos/RLJN6xaGj1E"
 images: ["images/gemini-diversity.jpg","images/gpt-diversity.jpg","images/daria-nepriakhina-RLJN6xaGj1E-unsplash.jpg"]
-categories: ["海外職場"]
+categories: ["澳洲職場"]
 tags: [ "科技業", "AI", "Diversity", "DevOps 工程師", "職涯"]
 
 ---

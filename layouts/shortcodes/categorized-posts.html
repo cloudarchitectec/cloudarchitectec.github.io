@@ -17,8 +17,22 @@ Usage: {{< categorized-posts >}}
   {{ end }}
 {{ end }}
 
-{{/* Display posts by category (sorted alphabetically); skip meta "EC" category */}}
+{{/* Apply custom order from data/categories.yaml; append any extras alphabetically */}}
+{{ $ordered := slice }}
+{{ $preferred := default (slice) .Site.Data.categories.order }}
+{{ range $preferred }}
+  {{ if in $allCategories . }}
+    {{ $ordered = $ordered | append . }}
+  {{ end }}
+{{ end }}
 {{ range sort $allCategories }}
+  {{ if not (in $ordered .) }}
+    {{ $ordered = $ordered | append . }}
+  {{ end }}
+{{ end }}
+
+{{/* Display posts by category; skip meta "EC" category */}}
+{{ range $ordered }}
   {{ $category := . }}
   {{- if eq $category "EC" }}{{ continue }}{{ end -}}
   {{ $categoryPosts := where $posts "Params.categories" "intersect" (slice $category) }}
@@ -26,7 +40,7 @@ Usage: {{< categorized-posts >}}
 
 <h3><a href="/categories/{{ $category | urlize }}/"><strong>{{ $category }}</strong></a></h3>
 <ul>
-{{ range $categoryPosts.ByTitle }}
+{{ range $categoryPosts.ByDate.Reverse }}
 <li><a href="{{ .RelPermalink }}">{{ .Title | htmlEscape }}</a></li>
 {{ end }}
 </ul>
