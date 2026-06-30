@@ -139,9 +139,14 @@ class TestUiSmoke:
         expect(page.get_by_role("link", name="預約諮詢").first).to_be_visible()
         expect(page.locator("details.consultation-more summary")).to_be_visible()
 
-    def test_consultation_old_post_alias_redirects(self, page: Page):
-        page.goto("/posts/2018-01-03-ec-consultation/")
-        expect(page).to_have_url(re.compile(r"/consultation/?$"))
+    def test_consultation_old_post_alias_redirects(self, page: Page, built_site):
+        # Hugo aliases emit meta-refresh to baseURL (absolute production URL).
+        # Smoke server is localhost — verify alias HTML, then load /consultation/ locally.
+        alias_html = (built_site / "posts/2018-01-03-ec-consultation/index.html").read_text(
+            encoding="utf-8"
+        )
+        assert "/consultation/" in alias_html
+        page.goto(CONSULTATION_PAGE)
         expect(page.locator("h1.consultation-hero__title")).to_be_visible()
 
 
