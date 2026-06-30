@@ -12,11 +12,9 @@ set -euo pipefail
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO_ROOT"
 
-if [[ -x "$REPO_ROOT/.venv/bin/python3" ]]; then
-  PYTHON="$REPO_ROOT/.venv/bin/python3"
-else
-  PYTHON=python3
-fi
+# shellcheck source=ensure-venv.sh
+source "$REPO_ROOT/scripts/ensure-venv.sh"
+PYTHON="$VENV_PYTHON"
 
 usage() {
   cat <<'EOF'
@@ -61,12 +59,11 @@ while [[ $# -gt 0 ]]; do
 done
 
 if [[ -n "$POST" ]]; then
-  python3 scripts/check-posts.py --post "$POST"
+  "$PYTHON" scripts/check-posts.py --post "$POST"
   exit 0
 fi
 
-python3 scripts/check-posts.py
-"$PYTHON" -m pip install -q -r requirements.txt
+"$PYTHON" scripts/check-posts.py
 
 if [[ "$FULL" -eq 1 ]]; then
   if ! command -v hugo &>/dev/null; then
@@ -81,7 +78,7 @@ if [[ "$FULL" -eq 1 ]]; then
   fi
   ./scripts/verify-build.sh
   export HUGO_SKIP_REBUILD=1
-  "$PYTHON" -m playwright install chromium
+  ENSURE_VENV_PLAYWRIGHT=1 bash "$REPO_ROOT/scripts/ensure-venv.sh"
   "$PYTHON" -m pytest tests/ -q
 else
   "$PYTHON" -m pytest tests/test_post_validation.py tests/test_pre_publish_post.py tests/test_episodeseries_registry.py tests/test_list_pages.py::TestListTemplateStructure -q

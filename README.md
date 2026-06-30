@@ -28,9 +28,12 @@ This repository hosts the source code for Cloud Architect EC's blog, built with 
 **Quick start:**
 
 ```bash
-pip install pre-commit
+bash scripts/ensure-venv.sh    # creates .venv + installs requirements.txt
+pip install pre-commit         # use .venv/bin/pip if you prefer tools inside venv
 pre-commit install
 ```
+
+All Python checks use **`.venv/bin/python3`** via [`scripts/ensure-venv.sh`](scripts/ensure-venv.sh) (local, pre-commit, PR CI, and deploy). Shortcut: `scripts/py scripts/check-posts.py --post SLUG`.
 
 For automated checks, use [`scripts/dev-check.sh`](scripts/dev-check.sh) — see **[TESTING.md](TESTING.md)** for `--quick`, `--full`, and `--post` modes.
 
@@ -57,7 +60,9 @@ See **[TESTING.md](TESTING.md)** for the validation strategy: tier overview, flo
 
 All notable changes to this project will be documented in this file.
 
----
+--
+**2026.06.30**
+- Updated consultation page with testimonies, incorporate cal.com for automation
 
 **2026.06.27**
 - Added portfolio tiles
