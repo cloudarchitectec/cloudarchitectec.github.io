@@ -15,7 +15,7 @@ This document describes how the blog is validated across local development, pre-
 
 **Why not merge into `tests/`?**
 
-- Pre-commit and GitHub Actions call `python3 scripts/check-posts.py` and `./scripts/verify-build.sh` by path.
+- Pre-commit, CI, and deploy call `bash scripts/ensure-venv.sh` then `.venv/bin/python3 scripts/check-posts.py` and `./scripts/verify-build.sh` by path.
 - Bash wrappers (`dev-check.sh`, `verify-build.sh`, `post-deploy-smoke.sh`) belong with other operational scripts.
 - Pytest imports rule logic via `tests/conftest.py` (same modules as `check-posts.py`) — duplication is avoided at the **library** layer (`post-validation/`), not by moving CLIs into `tests/`.
 
@@ -113,10 +113,18 @@ Each check owns one concern. Overlap between HTML and Playwright is **intentiona
 **One-time setup:**
 
 ```bash
-python3 -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-playwright install chromium   # only needed for --full
+bash scripts/ensure-venv.sh
+pip install pre-commit
 pre-commit install
+```
+
+For browser smoke (`--full` / CI): `ENSURE_VENV_PLAYWRIGHT=1 bash scripts/ensure-venv.sh`
+
+**Run Python tools (always via venv):**
+
+```bash
+scripts/py scripts/check-posts.py --post SLUG
+# or: .venv/bin/python3 scripts/check-posts.py --post SLUG
 ```
 
 **Before PR (mirrors CI):**
@@ -129,7 +137,7 @@ pre-commit install
 
 | Layer | Command | Catches |
 |-------|---------|---------|
-| Post rules | `python3 scripts/check-posts.py --post SLUG` | Front matter, cover, images, slug/dir |
+| Post rules | `scripts/py scripts/check-posts.py --post SLUG` | Front matter, cover, images, slug/dir |
 | Fast unit | `./scripts/dev-check.sh` | Rule modules + list template structure |
 | Full gate | `./scripts/dev-check.sh --full` | Everything CI runs on built `public/` |
 | Visual | `hugo server` | Subjective layout, dark mode, MailerLite UX |

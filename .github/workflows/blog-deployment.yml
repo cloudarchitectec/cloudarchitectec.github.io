@@ -142,9 +142,8 @@ jobs:
           [ -f "themes/${THEME_NAME}/theme.toml" ] && echo "✅ theme.toml present" || echo "❌ theme.toml missing!"
           echo "Content directory structure:"
           ls -la content/ || echo "No content directory"
-          python3 scripts/check-posts.py
-          pip install -q -r requirements.txt
-          playwright install --with-deps chromium
+          ENSURE_VENV_PLAYWRIGHT=1 bash scripts/ensure-venv.sh
+          .venv/bin/python3 scripts/check-posts.py
           echo "=== STARTING HUGO BUILD ==="
       - name: Build with Hugo
         env:
@@ -170,7 +169,7 @@ jobs:
       - name: Run tests
         env:
           HUGO_SKIP_REBUILD: "1"
-        run: pytest tests/ -q
+        run: .venv/bin/pytest tests/ -q
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:
