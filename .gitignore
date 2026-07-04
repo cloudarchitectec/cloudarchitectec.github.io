@@ -33,13 +33,23 @@ config.local.*
 # Local tooling
 # -----------------------
 tools/blog-publisher/input/
+tools/blog-converter/input/
+tools/blog-converter/output/
+tools/medium-legacy/.medium-session.json
+tools/medium-legacy/.medium-chrome-profile/
+tools/medium-legacy/output/medium-mapping.json
+tools/medium-legacy/output/medium-archive-cache.json
+tools/medium-legacy/output/medium-update-errors.json
+tools/medium-legacy/output/medium-verify-report.*
 
 # -----------------------
 # Private project docs
 # -----------------------
-plan.md
+.agents/skills/
 .cursor/rules/
 .cursor/skills/
+.claude/
+google-search-console/
 
 # -----------------------
 # -----------------------
