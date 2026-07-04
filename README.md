@@ -59,6 +59,10 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+**2026.07.04**
+- Re-enabled consultation page + Cal.com + Google Meet + Stripe
+- Migrated legacy Medium: set canonical links, replaced bodies with excerpts, moved key posts out of the paywall (the rest requires manual effort, so skipped)
+
 **2026.06.27**
 - Added portfolio tiles
 - Fixed typos
