@@ -4,6 +4,10 @@
 
 set -euo pipefail
 
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+# shellcheck source=ensure-venv.sh
+source "$SCRIPT_DIR/ensure-venv.sh"
+
 PUBLIC_DIR="${PUBLIC_DIR:-public}"
 
 echo "=== POST-BUILD CHECKS (${PUBLIC_DIR}) ==="
@@ -131,7 +135,7 @@ grep -qi 'Sitemap:' "$ROBOTS" \
   && echo "✅ robots.txt references sitemap" \
   || (echo "❌ robots.txt missing Sitemap directive" && exit 1)
 
-PUBLIC_DIR="${PUBLIC_DIR}" python3 <<'PY'
+PUBLIC_DIR="${PUBLIC_DIR}" "$VENV_PYTHON" <<'PY'
 from pathlib import Path
 import os
 import re

@@ -42,13 +42,11 @@ jobs:
           git submodule sync --recursive
           git submodule update --init --recursive --force
 
-      - name: Validate Hugo posts
-        run: python3 scripts/check-posts.py
+      - name: Prepare Python venv
+        run: ENSURE_VENV_PLAYWRIGHT=1 bash scripts/ensure-venv.sh
 
-      - name: Install Python test dependencies
-        run: |
-          pip install -q -r requirements.txt
-          playwright install --with-deps chromium
+      - name: Validate Hugo posts
+        run: .venv/bin/python3 scripts/check-posts.py
 
       - name: Build with Hugo
         env:
@@ -69,4 +67,4 @@ jobs:
       - name: Run tests
         env:
           HUGO_SKIP_REBUILD: "1"
-        run: pytest tests/ -q
+        run: .venv/bin/pytest tests/ -q

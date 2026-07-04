@@ -33,13 +33,18 @@ config.local.*
 # Local tooling
 # -----------------------
 tools/blog-publisher/input/
+tools/blog-converter/input/
+tools/blog-converter/output/
+tools/medium-legacy/
 
 # -----------------------
 # Private project docs
 # -----------------------
-plan.md
+.agents/skills/
 .cursor/rules/
 .cursor/skills/
+.claude/
+google-search-console/
 
 # -----------------------
 # -----------------------

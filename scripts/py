@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Run any Python command with the repo .venv (creates/syncs venv first).
+# Usage: scripts/py scripts/check-posts.py [--post SLUG]
+
+set -euo pipefail
+# shellcheck source=ensure-venv.sh
+source "$(dirname "$0")/ensure-venv.sh"
+exec "$VENV_PYTHON" "$@"
