@@ -12,8 +12,6 @@ tags: ["澳洲旅遊","布里斯本"]
 
 ---
 
-### 前言
-
 感覺最近都在寫一些職場話題，我決定這週來換個趣味性比較高的旅遊閒聊話題XD
 
   * 官方網站：<https://parks.des.qld.gov.au/parks/bribie-island>

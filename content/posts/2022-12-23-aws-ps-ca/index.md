@@ -15,11 +15,6 @@ tags: ["AWS"]
 
 ---
 
-### **澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享**
-
-
-* * *
-
 今天要來談一談我的上一份工作 Cloud Architect at Amazon Web Services (AWS) Professional Services Team，這是一個很特別的領域! 說實話，在我加入 AWS 前，我從來不知道有這個部門XD 即使是同在 IT 界工作的朋友，也不是每個人都聽說過，所以今天我就來分享一下。
 
 ### 什麼是 Professional Services?

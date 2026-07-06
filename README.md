@@ -61,12 +61,14 @@ See **[TESTING.md](TESTING.md)** for the validation strategy: tier overview, flo
 All notable changes to this project will be documented in this file.
 
 --
-**2026.06.30**
-- Updated consultation page with testimonies, incorporate cal.com for automation
 
 **2026.07.04**
 - Re-enabled consultation page + Cal.com + Google Meet + Stripe
 - Migrated legacy Medium: set canonical links, replaced bodies with excerpts, moved key posts out of the paywall (the rest requires manual effort, so skipped)
+- Fixed excerpt
+
+**2026.06.30**
+- Updated consultation page with testimonies, incorporate cal.com for automation
 
 **2026.06.27**
 - Added portfolio tiles

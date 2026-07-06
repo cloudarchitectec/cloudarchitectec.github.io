@@ -15,14 +15,10 @@ tags: ["AWS"]
 
 ---
 
-### 微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更會考證照考試？順利更新 Azure Solutions Architect Expert 證照！
 
-
-* * *
 
 今天要來跟大家分享我更新微軟證照 Microsoft Azure Solutions Architect Expert 的經驗，還有我用 ChatGPT 幫我考 Microsoft Azure Administrator Associate 證照更新考試的心得 (究竟 ChatGPT 有沒有比我聰明呢? XD），以及微軟 Azure 和 AWS 雲端證照在更新證照規定上的差異。
 
-### 前言
 
 在過去三年內我考過了 5 張微軟 Azure 雲端證照以及 6 張 AWS 雲端證照。
 

@@ -175,6 +175,49 @@ def strip_legacy_footer_shortcode(content: str) -> str:
     return FOOTER_LEGACY.sub("", content).rstrip()
 
 
+INTRO_HEADINGS = {"前言", "前情提要", "序", "intro", "introduction", "背景"}
+DATE_HEADING = re.compile(r"^\d{4}[.\-/]\d{1,2}[.\-/]\d{1,2}(\s*&\s*\S.*)?$")
+
+
+def _norm_heading_text(text: str) -> str:
+    return re.sub(r"[\s.\-–—:：、!！?？,，\"'「」()（）*#]+", "", text).lower()
+
+
+def strip_leading_heading(body: str, title: str) -> str:
+    """Posts should open with an intro paragraph, not a heading (it splices into
+    list excerpts). Date headings become plain-text date lines (diary convention);
+    other headings are stripped after confirm."""
+    lines = body.splitlines(keepends=True)
+    idx = next((i for i, l in enumerate(lines) if l.strip()), None)
+    if idx is None or not lines[idx].lstrip().startswith("#"):
+        return body
+    heading = re.sub(r"^#{1,6}\s*", "", lines[idx].strip())
+    if DATE_HEADING.match(heading):
+        click.echo(f"⚠️  Post body starts with a date heading: “{heading}”")
+        if click.confirm("   Convert it to a plain-text date line?", default=True):
+            lines[idx] = f"{heading}\n"
+            click.echo("✂️  Converted to plain-text date line.")
+            return "".join(lines)
+        return body
+    normed = _norm_heading_text(heading)
+    redundant = bool(
+        normed
+        and (
+            normed in _norm_heading_text(title)
+            or _norm_heading_text(title) in normed
+            or normed in {_norm_heading_text(h) for h in INTRO_HEADINGS}
+        )
+    )
+    click.echo(f"⚠️  Post body starts with a heading: “{heading}”")
+    if not click.confirm("   Remove it so the post opens with prose?", default=redundant):
+        return body
+    del lines[idx]
+    while idx < len(lines) and not lines[idx].strip():
+        del lines[idx]
+    click.echo("✂️  Removed leading heading.")
+    return "".join(lines)
+
+
 def normalize_downloaded_jpeg(image_path: Path) -> None:
     size_check = load_size_check_module()
     changed, msg = size_check.normalize_jpeg_baseline(image_path)
@@ -753,6 +796,7 @@ def main(input_file: str, no_hugo: bool) -> None:
 
     images_list = list_bundle_image_paths(images_dir)
     clean_body = strip_legacy_footer_shortcode(body)
+    clean_body = strip_leading_heading(clean_body, title)
     front_matter = generate_front_matter(
         title,
         slug,

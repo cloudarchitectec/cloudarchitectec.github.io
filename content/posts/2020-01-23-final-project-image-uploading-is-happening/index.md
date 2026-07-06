@@ -10,7 +10,8 @@ episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
 ---
 
-### 2020-01-22
+2020-01-22
+
 妮娜的　image annotation (我們整個 project 最重要的
 feature) 進展一樣非常順利，據她說應該快完成了。相較之下，我跟羅比小弟的進度真心停滯!
 前兩天我們都是一起 pair programming (第一天是我 coding 他在旁邊看，第二天是他 coding

@@ -15,11 +15,6 @@ tags: ["微軟"]
 
 ---
 
-### 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天
-
-
-* * *
-
 Azure Cloud Solution Architect (CSA) 是我在微軟的工作職稱，這是我加入微軟的第八週。在微軟之前，我在另一個雲服務平台 AWS 工作，也就是說這些 Azure services，對我來說都是全新的知識。
 
 上週有客戶寫信問 sales 一個關於 Azure 防火牆 (Web Application Firewall) 的問題，對方的 DevOps 工程師提出了兩個可能的解決方案，但不知道哪個好，於是向微軟求救，想知道微軟的 best practices。由於是技術問題，於是 sales 就把信轉交給我負責。然而我從來沒有用過這個服務，也不是網絡 (networking) 專家，於是就開始起了我尋覓答案的旅程!

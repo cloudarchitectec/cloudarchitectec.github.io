@@ -15,11 +15,6 @@ tags: ["英文面試"]
 
 ---
 
-### 微軟雲端架構師 Microsoft Azure Cloud Solution Architect 面試心得 (同場加映 AWS 面試心得)
-
-
-* * *
-
 在分享微軟的面試心得之前，我想要先分享 AWS 的面試過程，來做個對比。
 
 ### **畢業生計畫(Graduate Program)**

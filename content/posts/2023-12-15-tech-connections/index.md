@@ -15,8 +15,6 @@ tags: ["澳洲求職必勝法則"]
 
 ---
 
-### 前言
-
 Tech meet-ups 是澳洲科技業非常盛行的活動，由主辦團體根據不同主題請講者來與大家分享任何技術、文化以及新知。你可以通過 [Meetups](https://www.meetup.com/lp/how-to-group-start?utm_medium=SEM&utm_source=google&utm_campaign=mmrk_adwords_orgacq_au_branded_ny23&utm_term=group&utm_content=lp_grp_v2&gclid=Cj0KCQiA0oagBhDHARIsAI-Bbgdp11Txnrid62gvvvBf09LPS1i95SDv497XJ2pROE7oMqmxORXPLmQaAhPdEALw_wcB) 網站來尋找自己有興趣的 meetups 聚會，他們同時也有手機 app 可以下載 — [Andriod](https://play.google.com/store/apps/details?id=com.meetup&hl=en-AU&pli=1) 及 [Iphone](https://apps.apple.com/us/app/meetup-social-events-groups/id375990038) 。如果想的話，你也可以號招志同道合的好友成立一個 meetup 團體喔～
 
 ![](images/medium-1*cUxo55MxD-zjIxzSzIHw8Q.png)
