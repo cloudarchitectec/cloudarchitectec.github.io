@@ -18,9 +18,7 @@ episodeseries: ["零基礎轉職澳洲工程師"]
 
 天啊~ 我真心是太忙太忙了! 連寫日記紓壓的時間都沒有，只好速速寫幾件趣事。
 
-**2019-09-03**
-
-**我好想當機器人**
+2019-09-03 我好想當機器人
 
 我決定先搞定我的個人 app 的程式部分，因為 coding 是我最沒信心的部分，但奈拉吉大哥決定先做 documentation 的部分 (今天奈拉吉大哥坐我旁邊，我等於被他跟馬克夾在中間XD)。
 
@@ -35,7 +33,7 @@ like to talk to human beings. And tbh I don’t like human beings at all. I’d 
 
 (雖然我想他們應該也是不得已的，畢竟我們講英文LOL) 而且現在想想可能應該全班都笑了，只是後面的人我沒有注意到LOL
 
-**不是我弄壞的喔！**
+不是我弄壞的喔！
 
 偉恩大哥寫了一個樂透號碼小程式，然後他正在跟奈拉吉大哥展示他的成果，無聊的我就湊過去說，我也要看!!! 
 
@@ -53,7 +51,7 @@ like to talk to human beings. And tbh I don’t like human beings at all. I’d 
 
 我的新稱號就決定是「小程式破壞者 EC (EC the Breaker)」了!!! 😆
 
-**2019-09-04**
+2019-09-04
 
 另外今天的大消息是，奈拉吉大哥也要轉去 part-time bootcamp 了，明天是他最後一天來(傷心!!!)。
 

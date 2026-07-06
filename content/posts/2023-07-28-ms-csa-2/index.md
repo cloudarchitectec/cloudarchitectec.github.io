@@ -16,8 +16,6 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
-### 前言
-
 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的第二集。
 
 這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
@@ -45,7 +43,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 第二集會是這個系列中最技術性的一篇，如果覺得太多技術概念看不懂，我建議可以直接等待第三集跟第四集，因為這兩集會有趣許多，請不要因此放棄這個系列XDDD
 
-### **讓我們就以經典的案例 3-tier web app migration 來說吧！**
+### 讓我們就以經典的案例 3-tier web app migration 來說吧！
 
 如果你對於 3-tier web app 沒有概念，這件事是這樣的。一般來說 web applications 的基本概念會分為三層：
 
@@ -57,7 +55,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 *圖 1: Three-Tier Web App Concept*
 
-### **接著讓我們把這個概念轉換成雲端架構，這裡以 AWS 為例。**
+### 接著讓我們把這個概念轉換成雲端架構，這裡以 AWS 為例。
 
 我先做個簡單的一對一圖示，請注意這裡的每一個服務，都有其他替代選項。我只是先挑一個常見的 AWS 雲服務作為案例，實際上企業會選擇哪一個 AWS 雲服務，需要靠雲端架構師了解客戶的需求，經由多次討論之後才會下決定。
 
@@ -66,45 +64,45 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 *圖 2: Three-Tier Web App on AWS (Super Simplified Version)*
 
   * **Stage 1** ：我先簡單分為靜態內容跟動態內容。靜態內容，例如圖片或是簡單的 html/CSS， 通常會放在 S3，也就是 AWS 的 Object Storage Service。這樣做的主要原因是就費用來說 S3 會比 EC2 便宜很多，所以靜態內容放那邊就可以了。如果是動態內容的話，可以放在 EC2 server 上。
-  * **Stage 2：** 最簡單直接的方式就是直接用 EC2 server (就 cloud migration 來說的術語叫做 lift and shift，就是把本來在實體機房的實體伺服器搬到 AWS 雲上變成 EC2 server)。其他的選擇有: 使用 container，此時可以選的 AWS 雲服務有 ECS 或是 EKS，選哪個就根據企業想要對於他們的 container instance 有多少控制而定。或是走 serverless 路線的話，這裡會用的 AWS 雲服務就是 Lambda functions。
-  * **Stage 3：** 資料庫的選擇一般來說有 RDS (relational DB) 或 DynamoDB (non-relational DB)，要選哪個要根據 application 的 business logic 而定，也可以兩個都用。
+  * Stage 2： 最簡單直接的方式就是直接用 EC2 server (就 cloud migration 來說的術語叫做 lift and shift，就是把本來在實體機房的實體伺服器搬到 AWS 雲上變成 EC2 server)。其他的選擇有: 使用 container，此時可以選的 AWS 雲服務有 ECS 或是 EKS，選哪個就根據企業想要對於他們的 container instance 有多少控制而定。或是走 serverless 路線的話，這裡會用的 AWS 雲服務就是 Lambda functions。
+  * Stage 3： 資料庫的選擇一般來說有 RDS (relational DB) 或 DynamoDB (non-relational DB)，要選哪個要根據 application 的 business logic 而定，也可以兩個都用。
 
 
 
 好的，如果我告訴你以上只是簡化的版本呢?XD
 
-### **一般來說，AWS 的 web application 架構圖 (solution design) 會長這樣：**
+### 一般來說，AWS 的 web application 架構圖 (solution design) 會長這樣：
 
 ![AWS三層式網頁應用程式架構圖](images/medium-0*S01TqTt4irw1xdCl.png) 圖 3: Three-Tier Web App on AWS (AWS simplified version)
 
 這裡添加的新元素有：
 
-  1. **Route 53:** AWS 的 DNS 服務，簡單來說就像是交警(traffic controller)，這個服務會負責幫忙指揮網路交通要往哪去。
+  1. Route 53: AWS 的 DNS 服務，簡單來說就像是交警(traffic controller)，這個服務會負責幫忙指揮網路交通要往哪去。
   2. **WAF (Web Application Firewall)** ：Layer 7 防火牆，如果你不懂這裡的 Layer 7 是什麼意思，可以讀一下 OSI model。基本上它就是一個比較聰明的防火牆，比 Layer 3/4 的防火牆聰明，至於聰明在哪裡，讀完 OSI model 應該就會懂了XD
-  3. **CloudFront (Content Delivery Network)：** AWS 的 CDN 服務，如果你不知道 CDN 是什麼概念，可以直接搜尋一下 Content Delivery Network。簡單來說， CDN 透過把網站內容 cache 在 edge points，可以大大減低使用者使用 app 時的 latency。
+  3. CloudFront (Content Delivery Network)： AWS 的 CDN 服務，如果你不知道 CDN 是什麼概念，可以直接搜尋一下 Content Delivery Network。簡單來說， CDN 透過把網站內容 cache 在 edge points，可以大大減低使用者使用 app 時的 latency。
   4. **Shield** ：AWS 的 DDoS 服務，這個是資安相關的服務。簡單來說，就是避免駭客用假流量灌爆企業網站，使得伺服器無法運作。
-  5. **VPC, Public Subnet (green), Private Subnet (blue)：** 簡單來說就是當企業從傳統的 hardware defined network (switches, routers, cables) 變成雲上的 software-defined network 時要怎麼規劃跟控制企業網絡。
-  6. **Availability Zone：** 簡單來說就是在不同地點的 AWS 數據中心，通常會建議企業的雲基礎設施不要部署在單一 Availability Zone。專業術語叫做 multi-AZ deployment。
-  7. **NAT Gateway：** 管 Internet outbound traffic 的 AWS 雲服務。
-  8. **ELB (Elastic Load Balancer)：** AWS 的 load balancer 服務，可以分為聰明版的 Layer 7 Application Load Balancer (ALB) 跟比較不聰明版本的 Layer 4 Network Load Balancer (NLB)，至於為什麼 ALB 比 NLB 聰明，你還是要讀一下 OSI model 囧
-  9. **Autoscaling Group：** AWS 的 autoscaling 服務，簡單來說就是企業可以根據使用者流量而自動增加或減少伺服器的部署數量。例如一般來說 PTT 有 100 台伺服器，但是八卦版因為 Me Too 事件爆了，AWS 會自動幫我部署 200 台伺服器來 cover 流量，這樣大家就可以繼續追八卦，而不會看到「批踢踢過載中，請稍後再嘗試登入」的錯誤訊息。（單純舉例，我不知道批踢踢是否部署在 AWS 上，還是在台大的機房裡?XD）
-  10. **Elasticache：** AWS 的 data caching 服務，簡單來說為了減低資料庫的負擔，企業可以把使用者常常要讀取的資料放在 Elasticache 上。
+  5. VPC, Public Subnet (green), Private Subnet (blue)： 簡單來說就是當企業從傳統的 hardware defined network (switches, routers, cables) 變成雲上的 software-defined network 時要怎麼規劃跟控制企業網絡。
+  6. Availability Zone： 簡單來說就是在不同地點的 AWS 數據中心，通常會建議企業的雲基礎設施不要部署在單一 Availability Zone。專業術語叫做 multi-AZ deployment。
+  7. NAT Gateway： 管 Internet outbound traffic 的 AWS 雲服務。
+  8. ELB (Elastic Load Balancer)： AWS 的 load balancer 服務，可以分為聰明版的 Layer 7 Application Load Balancer (ALB) 跟比較不聰明版本的 Layer 4 Network Load Balancer (NLB)，至於為什麼 ALB 比 NLB 聰明，你還是要讀一下 OSI model 囧
+  9. Autoscaling Group： AWS 的 autoscaling 服務，簡單來說就是企業可以根據使用者流量而自動增加或減少伺服器的部署數量。例如一般來說 PTT 有 100 台伺服器，但是八卦版因為 Me Too 事件爆了，AWS 會自動幫我部署 200 台伺服器來 cover 流量，這樣大家就可以繼續追八卦，而不會看到「批踢踢過載中，請稍後再嘗試登入」的錯誤訊息。（單純舉例，我不知道批踢踢是否部署在 AWS 上，還是在台大的機房裡?XD）
+  10. Elasticache： AWS 的 data caching 服務，簡單來說為了減低資料庫的負擔，企業可以把使用者常常要讀取的資料放在 Elasticache 上。
 
 
 
 有興趣進一步閱讀細節的人請參考：[**< <An AWS Cloud architecture for web hosting>>**](https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-aws-cloud-architecture-for-web-hosting.html)
 
-### **看到這裡還有人嗎？XDD**
+### 看到這裡還有人嗎？XDD
 
 雖然我上面講了超多次「簡單來說」，但我知道應該有讀者已經在心中吐槽無數次說「這哪裡簡單了啊啊啊啊啊啊啊啊」。
 
 但殘酷的事實是，在實務上客戶的架構圖會遠比上面的圖 3 更複雜，基本上是一頁畫不完，而且你必須要用放大鏡竟看每一層的程度LOL
 
-### **所謂的 solution architecting 到底在做什麼？**
+### 所謂的 solution architecting 到底在做什麼？
 
   1. **你必須要懂 IT infrastructure** ：networking, web application architecture (你可以不用真的會寫 React applications 沒關係，但是我上面說的那個 3-tier web application 的概念要有), storage, security, database, load balancing 等等。
   2. **你必須要懂雲服務** ：AWS 或是 Azure 對應的 networking, web application , storage, security, database, load balancing 服務是什麼。除此之外，cloud migration 常見的幾個策略你要懂 (lift & shift, refactor, rehost 等等)。雲的基本概念你要懂 (regions, availability zones, multi-region deployment)。
-  3. **除了個別雲服務跟概念之外，你要懂得規劃整體雲端架構方案：** 試著想像我告訴你圖三裡，客戶想要部署 2000 個 EC2 servers，這些伺服器必須要在兩個 regions (例如澳洲跟台灣)。那如果我的使用者在美國的時候，請問他會連到澳洲的伺服器還是台灣的伺服器? (連到哪一個對客戶比較有利？) 如果客戶跟你說，他覺得 active-active deployment 太貴了，兩個 regions 客戶打算把 primary region 在澳洲，只有在澳洲 region 掛了的時候才 fail over 到台灣，請問這裡的 DR (disaster recovery) 要如何規劃？
+  3. 「除了個別雲服務跟概念之外，你要懂得規劃整體雲端架構方案：」試著想像我告訴你圖三裡，客戶想要部署 2000 個 EC2 servers，這些伺服器必須要在兩個 regions (例如澳洲跟台灣)。那如果我的使用者在美國的時候，請問他會連到澳洲的伺服器還是台灣的伺服器? (連到哪一個對客戶比較有利？) 如果客戶跟你說，他覺得 active-active deployment 太貴了，兩個 regions 客戶打算把 primary region 在澳洲，只有在澳洲 region 掛了的時候才 fail over 到台灣，請問這裡的 DR (disaster recovery) 要如何規劃？
   4. **延續上一點，你必須要懂得跟客戶的不同部門打交道：**
 
 

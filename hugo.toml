@@ -1,6 +1,7 @@
 baseURL = "https://cloudarchitectec.com/"
 languageCode = "zh-Hant"
 defaultContentLanguage = "zh-Hant"
+hasCJKLanguage = true # count CJK chars as words: fixes auto .Summary length, .WordCount, reading time
 title = "Cloud Architect EC"
 theme = "PaperMod"
 
@@ -27,6 +28,15 @@ disablePathToLower = true
 [minify]
   disableXML = true
   minifyOutput = true
+
+# content/drafts/ holds writing-pipeline artefacts (outlines, data tables,  notes).
+# Never render them as pages, regardless of per-file front matter.
+[[cascade]]
+  [cascade.build]
+    render = "never"
+    list = "never"
+  [cascade.target]
+    path = "{/drafts,/drafts/**}"
 
 [params]
   env = "development" # CI sets HUGO_ENV=production for deploy builds; enables GA4 + production meta there

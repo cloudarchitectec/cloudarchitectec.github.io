@@ -15,11 +15,6 @@ tags: ["AWS"]
 
 ---
 
-### **澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享**
-
-
-* * *
-
 今天要來談一談我的上一份工作 Cloud Architect at Amazon Web Services (AWS) Professional Services Team，這是一個很特別的領域! 說實話，在我加入 AWS 前，我從來不知道有這個部門XD 即使是同在 IT 界工作的朋友，也不是每個人都聽說過，所以今天我就來分享一下。
 
 ### 什麼是 Professional Services?
@@ -30,7 +25,7 @@ Professional Services 簡稱 ProServ，說白了，就是 IT 顧問。想到顧�
 
 同樣的，這間網路書店也可以找四大 ProServ 來幫他們完成這件事 (而且四大其實還比較便宜XD)。不過還是有很多大型機構 (例如跨國企業、政府部門、大專院校) 會選擇 AWS ProServ，因為我們直屬於 AWS，如果中間遇到什麼問題，我們會有更多 AWS 內部資源可利用。
 
-### **工作內容**
+### 工作內容
 
 ProServ 的工作內容千奇百怪，因為我們是 by projects 的，也就是說被安排到什麼 projects，我們就要做什麼事XD
 
@@ -38,7 +33,7 @@ ProServ 的工作內容千奇百怪，因為我們是 by projects 的，也就�
 
 以上舉的例子在 IT 業界中其實是非常不同的領域，通常不會有人樣樣都專精，但 ProServ 就是必須要有這種遊走在各個不同 IT 領域之間的實力。
 
-### **工作日常**
+### 工作日常
 
 ProServ 主要的工作內容就是 technical delivery，也就是客戶想要什麼，我們就必須要了解他們的需求、幫他們規劃解決方案，並且幫他們實現。
 
@@ -46,9 +41,9 @@ Senior Cloud Architect 除了要負責帶領技術團隊，常常還需要跟客
 
 除此之外，Cloud Architect 對客戶來說以小時計費的。所以一週 40 個小時，我們必須每週回報我們花了多少時間在客戶 A 身上、多少時間在客戶 B 身上，多少時間在內部會議跟訓練上。Timesheet 其實是我最不喜歡 ProServ 工作的一點 (這是每個 Cloud Architect 工作表現的硬指標)，因為以客為尊的工作型態，反倒壓縮到我個人學習新技術跟成長的時間。
 
-### **所需技能**
+### 所需技能
 
-「Cloud Architects 需要會寫程式嗎?」 這可能是我被問過最多的問題，簡單來說寫程式不是必要，但基本上想要完全逃開的話也是不可能的。雖然現在的雲端服務都可以在 GUI console 上架設，不過難免會遇到需要用到 CLI、CDK 或是 SDK 的時候。即使是最近非常流行的 IaC (Infrastructure as Code)，你還是得必須要會寫 CloudFormation (JSON or YAML) 或 Terraform 才行。
+「Cloud Architects 需要會寫程式嗎?」這可能是我被問過最多的問題，簡單來說寫程式不是必要，但基本上想要完全逃開的話也是不可能的。雖然現在的雲端服務都可以在 GUI console 上架設，不過難免會遇到需要用到 CLI、CDK 或是 SDK 的時候。即使是最近非常流行的 IaC (Infrastructure as Code)，你還是得必須要會寫 CloudFormation (JSON or YAML) 或 Terraform 才行。
 
 更別提現在大家最喜歡用 serverless 服務 (例如 AWS Lamba)，基本上最常見的程式語言就是 Python 或 JavaScript/TypeScript。不過 Cloud Architects 面試不考 coding 也不考 algorithms XD，程式語言只要大概會寫就行 (當然如果你很會寫程式的話，工作效率會大大提升)。
 

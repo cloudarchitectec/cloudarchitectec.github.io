@@ -109,9 +109,12 @@ grep -q 'entry-header' "$TAG_LIST" \
   && echo "✅ Tag list page has entry-header (post titles)" \
   || (echo "❌ Tag list missing entry-header — check layouts/_default/list.html" && exit 1)
 
-grep -q 'post-meta-enhanced' "$TAG_LIST" && grep -qv 'entry-header' "$TAG_LIST" \
-  && (echo "❌ Tag list has orphan post-meta-enhanced without titles" && exit 1) \
-  || echo "✅ Tag list layout OK"
+if grep -q 'post-meta-enhanced' "$TAG_LIST" && ! grep -q 'entry-header' "$TAG_LIST"; then
+  echo "❌ Tag list has orphan post-meta-enhanced without titles"
+  exit 1
+else
+  echo "✅ Tag list layout OK"
+fi
 
 if grep -rE 'src=\\?"?images/' "${PUBLIC_DIR}/posts/"*/index.html; then
   echo "❌ Unresolved image src in built HTML (PaperMod could not resolve bundle resource)"

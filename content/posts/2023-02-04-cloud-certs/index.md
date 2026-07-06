@@ -35,7 +35,7 @@ tags: ["雲端證照"]
 
 
 
-### **Learning Path 規劃**
+### Learning Path 規劃
 
 **[AWS 證照](https://aws.amazon.com/certification/?fbclid=IwAR00Na8OOyFcgLu3zUiEnzPXIo7eyyyBwyZ-P1Xh49e_FavaPmmnOgMPnlc)**
 

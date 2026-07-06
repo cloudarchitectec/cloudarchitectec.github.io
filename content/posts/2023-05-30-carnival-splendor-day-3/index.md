@@ -23,7 +23,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 今天是第二天 sea day，遊輪持續前進中，我們進入了下一個時區，所以遊輪工作人員提醒我們記得要手動把時間往前調一個小時(因為海上沒訊號，所以手機不會自動調整)。
 
-**義大利麵烹飪課 $45pp**
+### 義大利麵烹飪課 $45pp
 
 ![郵輪義大利麵料理課程準備](images/medium-1*DuXkVGMAABrvBJ5TKkLgBg.jpg) 事前準備
 
@@ -39,7 +39,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 *郵輪義大利麵烹飪課午餐*
 
-**甲板**
+### 甲板
 
 吃完午餐後，今天的天氣總算好一點了，於是我們跑到甲板拍照。
 
@@ -51,7 +51,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 *九樓: 船尾甲板風景*
 
-**咖啡**
+### 咖啡
 
 回程看見咖啡廳沒人，順便買了一杯 barista coffee，結果超難喝哈哈哈哈 (雖然說 $4 這個價錢沒有很貴，但這個咖啡品質我真的不行lol 剛好把以後每天的咖啡錢都省下來了哈哈)
 
@@ -59,7 +59,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 *五樓: 咖啡廳*
 
-**Formal night**
+### Formal night
 
 今天我們終於迎來遊輪的第一個主題之夜「Formal Night」，大家都換上正式服裝，準備拍照。
 
@@ -71,7 +71,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 *其他遊客的家族照*
 
-**晚餐：舞蹈表演**
+### 晚餐：舞蹈表演
 
 今天的晚餐我們還是坐在 316 桌，今天總算船平穩了一點(前幾天因為浪太大，所以這個表演取消了)，於是有服務生站上桌子的表演，還滿嗨的。底下的服務生也會跟著一起跳~
 

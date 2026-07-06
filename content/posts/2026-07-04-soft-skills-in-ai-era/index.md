@@ -15,8 +15,6 @@ categories: ["澳洲職場"]
 tags: ["AI", "軟實力", "軟體工程師", "GitHub Copilot"]
 ---
 
-## AI Credits 用完的那一瞬間
-
 我們公司使用 Microsoft Copilot 已經一陣子了(很難用，不要問🤣)，前陣子更是全面導入企業版 GitHub Copilot。不是那種「大家體驗看看」的等級，而是真正投入正式日常工作流程。
 
 公司提供的是企業授權，可以直接使用 GPT 5.4、Claude Sonnet 4.6、Opus 4.8 等各種當前最先進的模型，AI credits 多到滿出來XD (一個人一個月大概 1000 鎂)

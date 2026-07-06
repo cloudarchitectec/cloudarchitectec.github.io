@@ -41,12 +41,12 @@ tools/medium-legacy/
 # Private project docs
 # -----------------------
 .agents/skills/
-.cursor/rules/
-.cursor/skills/
+.cursor/
 .claude/
+CLAUDE.md
+content/drafts/
 google-search-console/
 
-# -----------------------
 # -----------------------
 # Test / coverage
 # -----------------------

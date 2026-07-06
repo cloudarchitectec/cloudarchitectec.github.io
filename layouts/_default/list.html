@@ -170,7 +170,7 @@
     
     {{- if (ne (.Param "hideSummary") true) }}
     <div class="post-summary">
-      {{ .Params.description | plainify | htmlUnescape }}
+      {{ with .Description }}{{ . | plainify | htmlUnescape }}{{ else }}{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}{{ end }}
     </div>
     {{- end }}
     
@@ -200,7 +200,7 @@
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
   <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    <p>{{ with .Description }}{{ . | plainify | htmlUnescape }}{{ else }}{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}{{ end }}</p>
   </div>
   {{- end }}
   {{- if not (.Param "hideMeta") }}

@@ -16,8 +16,6 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
-### 前言
-
 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的最終章。這個系列總共有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
   1. [《微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart》](2023-07-28-ms-csa-1)
@@ -38,7 +36,7 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 
 但在微軟，Solution Architect 就是 technical sales，也就是說我們的薪資組成裡面有 25% 是 sales commission，實際計算的公式有點複雜，但裡面佔比例最高的要素我們叫做 Azure Consumption Revenue (ACR)。
 
-假設 ABC 銀行是微軟的客戶，ABC 銀行打算把他們的核心銀行系統從 on-premises data centre 搬到 Azure 上，上雲後他們一個月花在 Azure Infrastructure (例如 Azure VMs, ExpressRoute, VPN, storage accounts, SQL database etc)上的錢是 $100,000/月，這 10萬塊就是我這個 account 的 ACR。
+假設 ABC 銀行是微軟的客戶，ABC 銀行打算把他們的核心銀行系統從 on-premises data centre 搬到 Azure 上，上雲後他們一個月花在 Azure Infrastructure (例如 Azure VMs, ExpressRoute, VPN, storage accounts, SQL database etc)上的錢是 $100,000/月，這 10 萬塊就是我這個 account 的 ACR。
 
 假設這個 migration project 的設計在三月談好了，預計七月開始部署到雲上，這個項目預計做到年底完成，所以我在 sales pipeline 上就必須要列出像下面這個表格，上面寫著客戶預計在哪個日期部署哪些服務、這些服務會花多少錢、以及每個 milestone 的進度。
 
@@ -65,7 +63,7 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 
 這就是我最討厭的 SA 工作內容哈哈哈！我其實認同客戶的說法，追求 100% accuracy 對客戶來說一點幫助都沒有，也不會讓我變成一個更好的 solution architect，對我的經理也沒有任何管理上的幫助，可能只有爽到微軟高層吧？因為他們就可以拿去跟更高層說，你們看我們今年的 sales forecasting 100% 準確！但說真的，這件事根本就不合邏輯，天氣預報都不會 100% 準確，我也不知道我明天午餐要吃什麼？我 (或客戶) 怎麼可能三月的時候就預測七月到十二月的時候會發生什麼事？XD
 
-### **Cost Estimation**
+### Cost Estimation
 
 SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture design，我們還要負責幫 ABC 銀行估算上雲之後他們會在 Azure 上花多少錢。有時候算完錢之後，客戶可能就說太貴了他們不做了，或是嫌太貴了就開始想要改 solution design，改來改去就把本來一個規劃得好好的改成四不像，這裡最常見的衝突有兩種：
 
@@ -104,13 +102,13 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 - **Task 1 Presentation/Workshops & Task 2 Technical Guidance/Customer Meeting**：算是技術相關的工作內容，合起來佔 30%。但我其實也很好奇，你們覺得提供 technical guidance、creating technical demo & poc、 presentation 這樣就算是一個技術職位嗎? 還是只有 hardcode programming 才算哈哈？ 我打算之後來寫一篇 <<Software Engineer、Cloud Engineer、DevOps Engineer，你寫的 code 跟我寫的到底有什麼不同?>>，裡面會提供一些 code samples，來進一步跟大家解析這三個 engineer 職位的不同，有興趣的人請在下方加 1 XD
 
-- **Task 3 Researching and Learning new technology：** 佔 15%，算是工作上的福利，因為可以用工作時間學習新技術，這點我很喜歡。
+- Task 3 Researching and Learning new technology： 佔 15%，算是工作上的福利，因為可以用工作時間學習新技術，這點我很喜歡。
 
 - **Task 4 Sales Pipeline Management & 5：Meeting/Resources Coordination**:，合起來佔 50%，我覺得基本上是浪費生命XD 但這就是微軟領導階層唯一重視的東西，是的，他們不管你幫助客戶解決了那些技術難題或是規畫出怎樣符合他們技術要求的架構方案，他們只在乎你的 sales pipeline forecasting 是否 100% accurate XD
 
 - **Task 6 Internal Meetings/Admin** ：佔 5%，這是每個工作都逃不掉的必要之惡，我就不多提了。
 
-### **結語**
+### 結語
 
 如果你成功追完這個連載系列，我必須要幫你拍拍手！也請你們下方留言告訴我:
 

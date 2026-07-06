@@ -27,7 +27,7 @@ tags: ["程式訓練營"]
 
 如今的時空背景已經截然不同，而 coding bootcamps 本來可能也不適用於每一個人。我 2020 年畢業時，大概只有 80% 的同學成功完成學業（入學時 20 人，16 人畢業），最後也只有約 40% 的同學 (8 個人) 在畢業後的半年內找到程式設計相關的職業，有一些人即使到五年後的今天也沒有轉職成功
 
-有時候我甚至認為，轉職成功這件事可能只是**倖存者偏差**？以下文章有我的相關反思：
+有時候我甚至認為，轉職成功這件事可能只是倖存者偏差？以下文章有我的相關反思：
 
 [**轉職風險與規劃全解析：如何判斷你該換工作了？來自成功海外轉職者的建議 (台灣文組轉澳洲工程師)**](/posts/2022-12-10-career-transition-analysis/)
 
@@ -49,7 +49,7 @@ tags: ["程式訓練營"]
 
 網路上很多免費的學習資源，在你決定要踏上轉職之路前，我建議至少先自學一些簡單的程式設計課程，例如 HTML、CSS、JavaScirpt 跟 Python。
 
-如果你學一學發現自己實在**很討厭寫程式** 這件事，那這個探索之旅就可以就此結束了！
+如果你學一學發現自己實在很討厭寫程式 這件事，那這個探索之旅就可以就此結束了！
 
 這個方向不適合你，開始考慮其他選項吧 ～
 
@@ -95,9 +95,9 @@ tags: ["程式訓練營"]
 
 確定要選擇 coding bootcamp 後，2019 年的我在雪梨的選項有三個：
 
-  * **Coder Academy:** 澳洲本地的政府認可機構，提供完整的全端開發訓練與一個月實習，適合想拿學貸、尋求本地求職支援的學員。
-  * **General Assembly (GA):** 國際知名的科技教育機構，強調實戰與業界接軌，適合重視品牌與國際職涯流動性的學員。
-  * **University of Sydney (Trilogy Education):** 當年是雪梨大學跟 Trilogy 這個教育機構首度合作舉辦 coding bootcamp。現在好像已經找不到相關資料了？
+  * Coder Academy: 澳洲本地的政府認可機構，提供完整的全端開發訓練與一個月實習，適合想拿學貸、尋求本地求職支援的學員。
+  * General Assembly (GA): 國際知名的科技教育機構，強調實戰與業界接軌，適合重視品牌與國際職涯流動性的學員。
+  * University of Sydney (Trilogy Education): 當年是雪梨大學跟 Trilogy 這個教育機構首度合作舉辦 coding bootcamp。現在好像已經找不到相關資料了？
 
 
 大家可以看到 2019 年的選擇其實不多，我剛剛隨手一查，現在簡直百花齊放，選擇一堆。
@@ -108,24 +108,24 @@ tags: ["程式訓練營"]
 
 簡單來說，
 
-- **University of Sydney (Trilogy Education)** 因為是第一年舉辦，當年的他們感覺還沒準備好，甚至連師資都還在談，基本上先打了一個問號。
+- University of Sydney (Trilogy Education) 因為是第一年舉辦，當年的他們感覺還沒準備好，甚至連師資都還在談，基本上先打了一個問號。
 
-- **General Assembly** 算是澳洲辦 coding bootcamp 最源遠流長的學校，成功案例也不少，但是他們的課程只有三個月，我當時覺得有點短。
+- General Assembly 算是澳洲辦 coding bootcamp 最源遠流長的學校，成功案例也不少，但是他們的課程只有三個月，我當時覺得有點短。
 
-- **Coder Academy** 我那年好像是第二還是第三屆，他們還滿用心的，可以跟顧問約 1:1 諮詢，我當下問了很多問題（下面會分享），覺得他們的回答很實際，也有相關就業數字，所以當下的觀感就不錯。
+- Coder Academy 我那年好像是第二還是第三屆，他們還滿用心的，可以跟顧問約 1:1 諮詢，我當下問了很多問題（下面會分享），覺得他們的回答很實際，也有相關就業數字，所以當下的觀感就不錯。
 
-最主要的決定因素其實是 **Coder Academy** 是唯一一個澳洲教育部認可的組織。
+最主要的決定因素其實是 Coder Academy 是唯一一個澳洲教育部認可的組織。
 
 一般 coding bootcamp 讀完後會給你一張畢業證書（其實就是一張私人教育機構發給你的紙，沒什麼用XD）
 
-但 **Coder Academy** 的畢業證書是**澳洲教育部認可的 Diploma of Information Technolgoy** 
+但 Coder Academy 的畢業證書是「澳洲教育部認可的 Diploma of Information Technolgoy」 
 
 澳洲學制跟台灣不同，但 Diploma 大概類似於台灣的五專學歷。讀完 Diploma 後如果以後想要繼續升學讀 Bachelor，可以用此作為學歷證明，並且抵掉學分。
 
 這點有兩個好處：
 
-  1. **因為我當時已經是澳洲公民，所以可以申請澳洲公民才有的學貸。** 澳洲的學貸制度也滿有趣的，在學期間一毛錢學費都不用出。等你畢業之後，根據你找到的工作的薪水多寡，來決定你每一年要還多少錢（也就是每年賺越多就要還越多，還沒找到工作就先不用還）
-  2. **(這點好處我在入學的時候其實不知道) 但其實這是我為什麼有機會入職 Amazon 的主因。** 簡單來說，coding bootcamp 畢業後 (2020 三月)，剛好 Covid 來襲，當時所有人都不知道未來會怎麼樣，很多公司都直接凍結招聘流程，開放的職缺少的可憐。所以我在三個月內 (2020 三月到六月) 投了 200 封履歷，最後只拿到一個 offer，就是 Amazon！當年 Amazon 這個職缺的招聘對象是大學畢業生，所以你必須要是當年或去年獲得 Bachelor degree 的人才符合申請資格。我當時在 LinkedIn 上看到這個徵才廣告，想說「雖然我也不符合資格，Amazon 感覺也不會找我去面試，但反正我有一個 **Diploma of Information Technolgoy** 學位證書，感覺好像勉強擦邊，反正也不會上，不投白不投！」然後我就投了，之後就是 Amazon 邀請我去面試、我順利通過了六關面試，一路殺到最後，成功取得 offer。（如果有興趣聽這段故事的話，請留言XD）我知道我很幸運，但我前面也說過了，做了不一定會成功，但如果不去做，就真的什麼都沒有喔～ 所以積極準備，努力展現最好的自己，誰也不知道哪天就天降好運了，對吧XD
+  1. 「因為我當時已經是澳洲公民，所以可以申請澳洲公民才有的學貸。」澳洲的學貸制度也滿有趣的，在學期間一毛錢學費都不用出。等你畢業之後，根據你找到的工作的薪水多寡，來決定你每一年要還多少錢（也就是每年賺越多就要還越多，還沒找到工作就先不用還）
+  2. 「(這點好處我在入學的時候其實不知道) 但其實這是我為什麼有機會入職 Amazon 的主因。」簡單來說，coding bootcamp 畢業後 (2020 三月)，剛好 Covid 來襲，當時所有人都不知道未來會怎麼樣，很多公司都直接凍結招聘流程，開放的職缺少的可憐。所以我在三個月內 (2020 三月到六月) 投了 200 封履歷，最後只拿到一個 offer，就是 Amazon！當年 Amazon 這個職缺的招聘對象是大學畢業生，所以你必須要是當年或去年獲得 Bachelor degree 的人才符合申請資格。我當時在 LinkedIn 上看到這個徵才廣告，想說「雖然我也不符合資格，Amazon 感覺也不會找我去面試，但反正我有一個 Diploma of Information Technolgoy 學位證書，感覺好像勉強擦邊，反正也不會上，不投白不投！」然後我就投了，之後就是 Amazon 邀請我去面試、我順利通過了六關面試，一路殺到最後，成功取得 offer。（如果有興趣聽這段故事的話，請留言XD）我知道我很幸運，但我前面也說過了，做了不一定會成功，但如果不去做，就真的什麼都沒有喔～ 所以積極準備，努力展現最好的自己，誰也不知道哪天就天降好運了，對吧XD
 
 
 
@@ -181,7 +181,7 @@ tags: ["程式訓練營"]
 
 也記得要在入學前詢問學校畢業生的就業比例，提供一下問問題的技巧：
 
-「請問你們的學生在**畢業後三個月（或是六個月）** 內找到**工程師相關工作** 的比例有多少？」
+「請問你們的學生在「畢業後三個月（或是六個月）」內找到工程師相關工作 的比例有多少？」
 
 因為有些人的求職時間非常長，然後有些人會甚至找不到相關工作，而是跑去做助教、行政人員等等。
 
@@ -224,7 +224,7 @@ tags: ["程式訓練營"]
 
   * **Coder Academy** : <https://coderacademy.edu.au/courses/bootcamp>
   * **General Assembly** : <https://generalassemb.ly/students/courses/software-engineering-bootcamp/sydney>
-  * **Le Wagon**(我記得這家也算滿大的，但光看他們的網址 url 就覺得很不行XD): [https://www.lewagon.com/melbourne/web-development-course?_gl=1*10g6vin*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIT-WMD4MG6tjPjPLpy47eG3-zYI1IO6c-ozl-bQLmpGHIImJD0E55RoCa3UQAvD_BwE&gbraid=0AAAAA-Gd-TMmfyi1X5dx1ZmuqE7Ulm9Uk](https://www.lewagon.com/melbourne/web-development-course?_gl=1*10g6vin*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIT-WMD4MG6tjPjPLpy47eG3-zYI1IO6c-ozl-bQLmpGHIImJD0E55RoCa3UQAvD_BwE&gbraid=0AAAAA-Gd-TMmfyi1X5dx1ZmuqE7Ulm9Uk)
+  * Le Wagon(我記得這家也算滿大的，但光看他們的網址 url 就覺得很不行XD): [https://www.lewagon.com/melbourne/web-development-course?_gl=1*10g6vin*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIT-WMD4MG6tjPjPLpy47eG3-zYI1IO6c-ozl-bQLmpGHIImJD0E55RoCa3UQAvD_BwE&gbraid=0AAAAA-Gd-TMmfyi1X5dx1ZmuqE7Ulm9Uk](https://www.lewagon.com/melbourne/web-development-course?_gl=1*10g6vin*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw7MLDBhAuEiwAIeXGIT-WMD4MG6tjPjPLpy47eG3-zYI1IO6c-ozl-bQLmpGHIImJD0E55RoCa3UQAvD_BwE&gbraid=0AAAAA-Gd-TMmfyi1X5dx1ZmuqE7Ulm9Uk)
 
 
 

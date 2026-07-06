@@ -12,8 +12,6 @@ tags: ["澳洲旅遊","布里斯本"]
 
 ---
 
-### 前言
-
 感覺最近都在寫一些職場話題，我決定這週來換個趣味性比較高的旅遊閒聊話題XD
 
   * 官方網站：<https://parks.des.qld.gov.au/parks/bribie-island>
@@ -33,7 +31,7 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 在澳洲要拿到 full driving licence，必須一路從 learner、紅 P 、綠 P 開始練習，大概需要四年才能拿到正式駕照。L 牌駕駛不能獨自開車，一定要在有 full licence 的人的陪同下才能上路，我頓時有種變成學姊的感覺😆
 
-### **Gather & Feast **咖啡店
+### Gather & Feast 咖啡店
 
 一開始我們先到了一家位於卡布丘的咖啡店 [**Gather & Feast**](https://maps.app.goo.gl/bGFKDigfQJPu1FmcA?g_st=ic)，裝潢非常有氣氛！我們看到別桌客人的餐點份量都很巨大、擺盤也都很美，不過藉於我們剛吃完早餐才出門，所以這次就只點了咖啡，他們的咖啡非常好喝(雖然拉花有點弱)，我們已經決定會再拜訪這家店！
 

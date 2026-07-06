@@ -35,6 +35,8 @@ EC 中文正文是**口語敘事**，不是 Markdown 教學文或簡報。
 4. **Flag** — 處理後仍殘留的 `**`（需人工）
 
 **Skip:** front matter、連結、code、已 mask 區域。
+**Skip（2026-07-06）: 整行粗體** — `**…**` 佔滿一整行 = 刻意結構（Medium 偽標題或 pull
+quote），auto-fix 與 flag 皆不處理。若確為段落標題，人工升級成 `###`。
 
 ---
 

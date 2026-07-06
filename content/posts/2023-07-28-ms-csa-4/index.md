@@ -16,8 +16,6 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
-### 前言
-
 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的第四集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
   1. [《微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart》](2023-07-28-ms-csa-1)
@@ -56,13 +54,13 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 這兩個服務我都算是之前自學過，但還沒有正式應用過，所以我一開始是想說希望能有一個更有經驗的人來主導，然後我在一旁旁聽，然後下一次再讓我主導 (因為擔心客戶如果有實際應用上的問題，我沒有相關經驗可能會無法回答)。
 
-  * **Azure Arc:**[**Azure Arc overview — Azure Arc | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
+  * Azure Arc:[**Azure Arc overview — Azure Arc | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/azure-arc/overview)
 
 ![Azure Arc混合雲服務架構圖](images/medium-1*NCCF2ZCjRs_AI-ytO1MD6g.png) Azure Arc
 
 其實 Azure Arc 是我覺得微軟最酷、跟其他雲服務最不一樣的服務! Azure Arc 可以讓你把在 on-premises 環境裡的 Windows & Linux servers 或是其他雲服務平台 (AWS/GCP etc) 的伺服器，變成像是 native Azure Virtual Machines 一樣。所以在 Azure Arc 上你就可以使用 Azure native services like tagging, Azure Policy, Virtual Machine Insights 等等服務來管理你在其他地方的伺服器，超級酷!
 
-  * **Azure Update Managment Center:**[**Update management center (preview) overview | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
+  * Azure Update Managment Center:[**Update management center (preview) overview | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
 
 ![Azure更新管理中心服務界面](images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png) Azure UMC
 
@@ -70,7 +68,7 @@ Azure Update Management Center (UMC) 則是 Azure 最新的伺服器 patching �
 
 這裡又要吐槽一下微軟，Azure Update Management Center 算是這個服務的 2.0 版本。你們知道 1.0 版本叫做什麼嗎? 1.0 版本叫做 Azure Update Management，哈哈哈哈哈! 就只差了一個 centre 而已，你說夠不夠混淆?
 
-而且 2.0 版本跟 1.0 版本分別放在不同地方!!! 2.0 版本的 UMC 是一個獨立的 Azure 服務，1.0 版本的 Azure Update Managment 其實是包含在另一個 Azure 服 「Azure Automation Account」裡面的一個小功能而已。我後來發現不僅是客戶不知道這件事，我後來大概跟 10 個同事說過這件事，他們也都不知道出了 2.0 版本XDD
+而且 2.0 版本跟 1.0 版本分別放在不同地方!!! 2.0 版本的 UMC 是一個獨立的 Azure 服務，1.0 版本的 Azure Update Managment 其實是包含在另一個 Azure 服「Azure Automation Account」裡面的一個小功能而已。我後來發現不僅是客戶不知道這件事，我後來大概跟 10 個同事說過這件事，他們也都不知道出了 2.0 版本XDD
 
 總之，我立刻找 GBB (Global Black Belt) 跟 Corp CSA 幫忙，結果聯絡了一堆人，大家都在踢皮球，最後發現還是只能靠我上場。
 

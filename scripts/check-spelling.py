@@ -755,7 +755,7 @@ def apply_zh_fixes(text: str, fix: bool, changes: list[Change]) -> str:
     return text
 
 
-BOLD_SPAN_RE = re.compile(r"\*\*([^*]+)\*\*")
+BOLD_SPAN_RE = re.compile(r"\*\*([^*\n]+)\*\*")  # never span lines: stray ** would swallow paragraphs
 
 
 def _cjk_char_count(text: str) -> int:
@@ -805,6 +805,24 @@ def _emphasis_replacement(inner: str) -> tuple[str, str]:
     return s, "unwrap ** (short keyword — use plain text)"
 
 
+def _is_structural_bold(text: str, start: int, end: int) -> bool:
+    """A bold span that is an entire line, or an entire list-item label, is deliberate
+    structure (Medium pseudo-heading, pull quote, bold bullet label) — never auto-modify;
+    promote to a real heading manually if needed."""
+    line_start = text.rfind("\n", 0, start) + 1
+    line_end = text.find("\n", end)
+    if line_end == -1:
+        line_end = len(text)
+    prefix = text[line_start:start]
+    suffix = text[end:line_end]
+    if re.fullmatch(r"\s*(?:[-*+]\s+|\d+[.)]\s+)?", prefix) and re.fullmatch(r"[:：]?\s*", suffix):
+        return True
+    # bold label opening a list item, content after a colon: `* **預算多少** : …`
+    if re.fullmatch(r"\s*(?:[-*+]|\d+[.)])\s+", prefix) and re.match(r"\s*[:：]", suffix):
+        return True
+    return False
+
+
 def apply_emphasis_hygiene(
     text: str, fix: bool, changes: list[Change], flags: list[Flag]
 ) -> str:
@@ -812,6 +830,28 @@ def apply_emphasis_hygiene(
 
     def repl(m: re.Match[str]) -> str:
         orig = m.group(0)
+        if _is_structural_bold(text, m.start(), m.end()) and not _should_unwrap_bold(
+            m.group(1)
+        ):
+            return orig
+        if "「" in m.group(1) or "」" in m.group(1):
+            # converting to 「…」 would nest quotes — leave the bold alone
+            return orig
+        line_start = text.rfind("\n", 0, m.start()) + 1
+        if text[line_start:m.start()].lstrip().startswith("#"):
+            # bold inside a heading: heading already carries emphasis — just unwrap
+            new_val = m.group(1)
+            if orig != new_val:
+                changes.append(
+                    Change(
+                        line=line_number_at(text, m.start()),
+                        before=orig,
+                        after=new_val,
+                        lang="zh",
+                        applied=fix,
+                    )
+                )
+            return new_val if fix else orig
         new_val, _reason = _emphasis_replacement(m.group(1))
         if orig != new_val:
             changes.append(
@@ -832,6 +872,8 @@ def apply_emphasis_hygiene(
         text = re.sub(r"」 ([\u4e00-\u9fff])", r"」\1", text)
 
     for m in BOLD_SPAN_RE.finditer(text):
+        if _is_structural_bold(text, m.start(), m.end()):
+            continue
         flags.append(
             Flag(
                 line=line_number_at(text, m.start()),
@@ -1074,6 +1116,11 @@ def main() -> int:
         action="append",
         help="Single markdown file (repeatable); e.g. tools/blog-publisher/input/slug.md",
     )
+    parser.add_argument(
+        "--posts-only",
+        action="store_true",
+        help="content/posts/ only (skip drafts + converter input); used by dev-check.sh",
+    )
     parser.add_argument("--json", action="store_true", help="Emit JSON report")
     parser.add_argument("--report-file", metavar="PATH", help="Write Markdown report to file")
     args = parser.parse_args()
@@ -1087,13 +1134,13 @@ def main() -> int:
     else:
         files = collect_post_files(args.post)
         scope = args.post or "all posts"
-        if args.drafts or not args.post:
+        if (args.drafts or not args.post) and not args.posts_only:
             files = sorted(set(files + collect_draft_files()))
             if args.drafts and not args.post:
                 scope = "drafts"
             elif not args.post:
                 scope = "all posts + drafts"
-        if not args.post:
+        if not args.post and not args.posts_only:
             files = sorted(set(files + collect_converter_input_files()))
             if scope == "all posts + drafts":
                 scope = "all posts + drafts + converter input"

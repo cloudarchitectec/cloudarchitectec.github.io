@@ -3,25 +3,15 @@ title: "微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試�
 date: 2022-11-19
 slug: "2022-11-19-azure-az-104-exam"
 cover:
-  image: "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png"
-  alt: "微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得"
-images: ['images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png']
+  image: "images/medium-1*wsOHIUJhyLsNwTMM3VnvsA.png"
+  alt: "Microsoft AZ-104 Azure Administrator Associate 證照徽章"
+images: ["images/medium-1*wsOHIUJhyLsNwTMM3VnvsA.png", "images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png"]
 categories: ["澳洲職場"]
-tags: ["雲端證照"]
+tags: ["雲端證照", "Azure"]
 
 ---
 
-### 微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得
-
-![Microsoft AZ-104 Azure Administrator Associate 證照徽章](images/medium-1*wsOHIUJhyLsNwTMM3VnvsA.png)
-
-*AZ-104 Azure Administrator Associate Badge*
-
-* * *
-
-**考試日期：2022.11.18**
-
-今天要來分享我的第二張 Azure 證照 AZ-104 Microsoft Azure Administrator Associate 的考試心得。
+今天要來分享我的第二張 Azure 證照 AZ-104 Microsoft Azure Administrator Associate 的考試心得，考試日期：2022.11.18。
 
 ### Azure Associate Level 證照比起 AWS Associate Level 證照難度更高
 
@@ -50,5 +40,7 @@ Azure 考試結束後，考生可以針對「每一題」考試題目提出回�
   * 最難考的雲證照: AWS Solution Architect Associate, AWS Solution Architect Professional, Azure Administrator Associate
   * 最簡單的雲證照: AWS Cloud Practitioner, AWS Developer Associate, AWS System Admin Associate
 
+
+![個人雲端證照統計表：AWS 與 Azure 證照考試成績一覽](images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png)
 
 *個人雲端證照統計*

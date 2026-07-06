@@ -58,12 +58,21 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
+spellcheck_dry_run() {
+  # Report-only: never blocks. Non-zero exit just means fixable/flagged items exist.
+  if ! "$PYTHON" scripts/check-spelling.py "$@"; then
+    echo "ℹ️  Spellcheck findings above are report-only — apply with: scripts/check-spelling.py --fix"
+  fi
+}
+
 if [[ -n "$POST" ]]; then
   "$PYTHON" scripts/check-posts.py --post "$POST"
+  spellcheck_dry_run --post "$POST"
   exit 0
 fi
 
 "$PYTHON" scripts/check-posts.py
+spellcheck_dry_run --posts-only
 
 if [[ "$FULL" -eq 1 ]]; then
   if ! command -v hugo &>/dev/null; then

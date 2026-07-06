@@ -33,10 +33,10 @@ episodeseries: ["零基礎轉職澳洲工程師"]
   * 課程特色：課程結束後，學校會幫你媒合一個月的業界實習，很多學生基本上都是靠實習找到自己轉職後的第一份工作。
   
   在這六個月的課程內，我們會完成 4 個 projects，分別是：
-  1. **個人 terminal 小遊戲** ，我當年做的是算生肖
-  2. **個人 Portfolio Website** : 用純 vanilla JavaScript, CSS, HTML 刻的，當年的我們甚至不知道有 libraries 跟 frontend frameworks 可以用
-  3. **個人 e-commerce website:** 用 Ruby on Rails 寫，我當時做的是二手美妝品的網站
-  4. **團體 full-stack project:** 這個要去外面找真實的顧客，針對他們的 business problem 跟需求，做出一個 business solution。我們當年的客戶是做房地產網站的，我們幫他們做了一個可以在 floor plan 上標註標籤跟附註的 solution。
+  1. 個人 terminal 小遊戲 ，我當年做的是算生肖
+  2. 個人 Portfolio Website : 用純 vanilla JavaScript, CSS, HTML 刻的，當年的我們甚至不知道有 libraries 跟 frontend frameworks 可以用
+  3. 個人 e-commerce website: 用 Ruby on Rails 寫，我當時做的是二手美妝品的網站
+  4. 團體 full-stack project: 這個要去外面找真實的顧客，針對他們的 business problem 跟需求，做出一個 business solution。我們當年的客戶是做房地產網站的，我們幫他們做了一個可以在 floor plan 上標註標籤跟附註的 solution。
 
 
 好的，以上落落長的前沿終於結束了，那就讓我們開始進入正文吧XD

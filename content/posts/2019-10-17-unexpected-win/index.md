@@ -16,7 +16,7 @@ tags: ["程式訓練營", "Coding Bootcamp"]
 episodeseries: ["零基礎轉職澳洲工程師"]
 ---
 
-### 2019-10-15 & 16
+2019-10-15 & 16
 
 週一晚上下課後，我回家花了三個小時，終於完成了週一下午的練習!!!
 
@@ -73,7 +73,7 @@ Also well done on having actual content for your blog posts.
 
 感謝他~~~ 我事後有請他喝飲料致謝 💓
 
-### 2019-10-17
+2019-10-17
 
 #### 腦袋開光了？
 

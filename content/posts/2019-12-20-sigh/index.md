@@ -10,7 +10,8 @@ episodeseries: ["零基礎轉職澳洲工程師"]
 draft: true
 ---
 
-### 2019-12-18
+2019-12-18
+
 今天到了學校才發現我們今天一整天都要 review
 JavaScript，因為老師想要確定在我們進入 react
 之前大家都至少了解 JavaScript

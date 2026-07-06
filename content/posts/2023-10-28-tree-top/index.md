@@ -15,8 +15,6 @@ tags: ["澳洲旅遊","布里斯本"]
 
 ---
 
-### 前言
-
 今天要來跟大家分享澳洲一個很有趣的戶外活動 — 高空樹頂挑戰 (Tree Top Challenge)。我跟朋友去的是位於陽光海岸的 [Tree Top Challenges Big Pineapple](https://www.treetopchallenge.com.au/sunshine-coast-adventure) 🍍(地址為：76 Nambour Connection Rd, Woombye QLD 4559)。
 
 他們還有另外兩個園區，分別在黃金海岸的 [Mount Tamborine](https://www.treetopchallenge.com.au/tamborine-treetop-adventure?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHVjoxRZRjKkTi3H5mtEY8lgn6XDv5eBYbIEpBElkcbImi88GJeYegBoCQb8QAvD_BwE) 跟 [Currumbin](https://www.treetopchallenge.com.au/adventure-park/currumbin-wildlife-sanctuary?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHas9NpVJBmg8yCiY92AJW_9FqwiLIX0-L7K2PVtpciJHS1kgwLub_xoCNaUQAvD_BwE)
@@ -62,9 +60,9 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 ### 感想
 
-**優點：** 我覺得他們的安全機制做得滿好的，講解很仔細，也有各種不同的設施。園區滿大的，有各種難度可以讓大家根據自己的狀況挑選。
+- **優點**：我覺得他們的安全機制做得滿好的，講解很仔細，也有各種不同的設施。園區滿大的，有各種難度可以讓大家根據自己的狀況挑選。
 
-**缺點：** 一旦你決定開始一個挑戰（把勾勾掛上去），沒有完成你是不能下來的。而且也不能讓你後面的人越過你先走，所以其實壓力滿大的！像排我後面的迪迪超強，他完全被我從頭擋到尾。不過澳洲人都很好，基本上也不會有人催你，大家就是默默等待。
+- **缺點**：一旦你決定開始一個挑戰（把勾勾掛上去），沒有完成你是不能下來的。而且也不能讓你後面的人越過你先走，所以其實壓力滿大的！像排我後面的迪迪超強，他完全被我從頭擋到尾。不過澳洲人都很好，基本上也不會有人催你，大家就是默默等待。
 
 ![](images/medium-1*wMUqc18Jg9oInRmWiDat8Q.jpg)
 
@@ -74,7 +72,7 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 在很極端的情況下，另一個高中生妹妹也是直接坐在高空中木板上哭，因為她真的移動不了，抓不到前面的懸吊木板，也抓不到後面的，整個人就卡在上面無所適從。最後只好請工作人員爬上去救她下來（類似登山救援那樣，把妹妹的掛鉤綁在他身上，把妹妹拖回來）。
 
-### **總結**
+### 總結
 
   1. 雖然我覺得門票有點貴（我覺得一個人 $30–40 差不多吧？雖然我問一下身邊的人，大多都覺得這個價錢很合理，有的人甚至覺得一個人 $100 也很合理)，但我覺得是一筆我會願意花的錢，也願意再去挑戰一次（只是下次去之前體能跟臂力得先練好一點，不然狂擋別人真的是很尷尬)。因為有各式不一樣的挑戰，很有趣也很有成就感👍
   2. 建議可以選最早的時段，我們這次選了 10:30，除了第一關 easy 綠色小排隊，剩下每關都排了 20–30 分鐘不只，因為人潮滿多的，而且我們都有遇到卡在上面動彈不得的人😂
