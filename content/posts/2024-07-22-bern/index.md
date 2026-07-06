@@ -13,8 +13,6 @@ tags: ["獨旅","旅遊", "歐洲",  "瑞士"]
 episodeseries: ["一個女生的歐洲獨旅"]
 ---
 
-### 火車上結識瑞士杯杯
-
 今天要離開茵特拉肯 (Interlaken)，前往歐洲行的最後一個城市琉森 (Luzern) ！
 
 ![瑞士便利商店鮪魚三明治冰拿鐵](images/medium-1*T0vl3s1j2AsEPBL7Wicj8w.jpg)

@@ -16,8 +16,6 @@ tags: ["DevOps 工程師","澳洲面試心得"]
 episodeseries: ["DevOps 面試紀錄"]
 ---
 
-### **Round 1: Technical Interview with DevOps Manager**
-
 直接先講結論！
 
 **對我來說，這是一場接近滿分的面試體驗！滿分！！！**
