@@ -830,7 +830,9 @@ def apply_emphasis_hygiene(
 
     def repl(m: re.Match[str]) -> str:
         orig = m.group(0)
-        if _is_structural_bold(text, m.start(), m.end()):
+        if _is_structural_bold(text, m.start(), m.end()) and not _should_unwrap_bold(
+            m.group(1)
+        ):
             return orig
         if "「" in m.group(1) or "」" in m.group(1):
             # converting to 「…」 would nest quotes — leave the bold alone
