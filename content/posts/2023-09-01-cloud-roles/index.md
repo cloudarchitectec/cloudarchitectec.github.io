@@ -26,7 +26,7 @@ tags: ["雲端架構師"]
 
 所以我決定要以我個人本身的經驗，透過一些實際的 code samples 來進一步跟大家解析這三個工程師職位的不同！
 
-這集算是我的 **< 微軟雲端架構師 (Solution Architect) 職位解析>>** 系列的番外篇。如果你想要暸解我在微軟擔任「雲端解決方案架構師 (Solution Architect)」的實際工作內容，請你千萬不要錯過這個系列！
+這集算是我的「< 微軟雲端架構師 (Solution Architect) 職位解析>>」系列的番外篇。如果你想要暸解我在微軟擔任「雲端解決方案架構師 (Solution Architect)」的實際工作內容，請你千萬不要錯過這個系列！
 
 第一集的傳送門在此：
 
@@ -40,17 +40,17 @@ tags: ["雲端架構師"]
 
   * **前端工程師** ：前端工程師所寫的程式通常跟網頁介面相關，也就是使用者可以看到、也可以互動的地方。例如說網站的首頁、表格等等。基本的技能樹有：HTML、CSS、JavaScript，跟常見的前端框架例如 React、Angular、 Vue。
   * **後端工程師** ：後端工程師所寫的程式通常跟網頁邏輯以及 API 相關，也就是使用者通常看不到的地方。後端工程師通常也會需要有資料庫 (database) 相關的知識跟技能，例如說要至少要會寫一點 SQL (Structured Query Language) 之類的。基本的技能樹有：REST API、GraphQL 等等。關於資料庫管理，其實這裡還有一個專門的職位叫 DBA (Database Admin)，但這跟我們今天的主題離的比較遠，所以我就不細談了。
-  * **全端工程師** ：顧名思義，也就是前端跟後端的工作都要會做。當年我轉職的時候(2020 年)，澳洲的 IT 業界普遍有個迷思，就是**後端工程師** 跟**全端工程師** 才是真正厲害的工程師，而**前端工程師** 就只是改改 HTML/CSS 而已。但我其實不這麼認為！我認為前端跟後端各有他們專精的地方跟有趣的地方，而所謂的全端，我覺得有時候也是只是慣老闆們開不出兩個職位的薪水的藉口而已？XD
+  * **全端工程師** ：顧名思義，也就是前端跟後端的工作都要會做。當年我轉職的時候(2020 年)，澳洲的 IT 業界普遍有個迷思，就是後端工程師 跟全端工程師 才是真正厲害的工程師，而前端工程師 就只是改改 HTML/CSS 而已。但我其實不這麼認為！我認為前端跟後端各有他們專精的地方跟有趣的地方，而所謂的全端，我覺得有時候也是只是慣老闆們開不出兩個職位的薪水的藉口而已？XD
 
 
 
 總結來說我覺得三個職位各有優缺點：
 
-**全端工程師** 會比較了解整體的軟體開發流程，也不用靠別人 (例如後端在等前端改 UI，前端在等後端把 API endpoints 架好)，工作內容比較豐富有趣。
+- **全端工程師**：會比較了解整體的軟體開發流程，也不用靠別人 (例如後端在等前端改 UI，前端在等後端把 API endpoints 架好)，工作內容比較豐富有趣。
 
-**前端工程師** 寫出來的 components 會立刻出現在網頁上，互動性很高，很有成就感。
+- **前端工程師**：寫出來的 components 會立刻出現在網頁上，互動性很高，很有成就感。
 
-**後端工程師** 寫出來的程式碼就是一個網站最核心的骨架，需要邏輯性強的人。
+- **後端工程師**：寫出來的程式碼就是一個網站最核心的骨架，需要邏輯性強的人。
 
 > 題外話，如果你是相關領域的人士，請問 API 的全稱是什麼？你可以不 Google 就回答出來嗎？會問這個，是因為我之前在 AWS (Amazon Web Services) 當 Cloud Consultant 時，發現這是我同事出的面試題之一XDDD
 
@@ -74,9 +74,9 @@ AWS 跟微軟也有自己的 consulting department，例如我之前工作的 AW
 
 所謂的 Cloud Consultant 就是被派到客戶公司做 Cloud Engineer 的工作＋提供顧問服務。雲端顧問/雲端工程師基本的技能樹有：
 
-  * **cloud infrastructure:** AWS, Azure or GCP
-  * **infrastructure as code (IaC):** 如果是 AWS 平台那就是 AWS CloudFormation in Json or YAML、SDK、CDK。如果是 Azure 平台那就是 Bicep 或 Azure Resource Manager。如果是要跨平台的話，目前業界最常用的工具是 Terraform。
-  * **程式語言：** 最常見的是 TypeScripte 或 Python。
+  * cloud infrastructure: AWS, Azure or GCP
+  * infrastructure as code (IaC): 如果是 AWS 平台那就是 AWS CloudFormation in Json or YAML、SDK、CDK。如果是 Azure 平台那就是 Bicep 或 Azure Resource Manager。如果是要跨平台的話，目前業界最常用的工具是 Terraform。
+  * 程式語言： 最常見的是 TypeScripte 或 Python。
 
 
 
@@ -100,11 +100,11 @@ DevOps 工程師還有一個變體叫 SRE (Site Reliability Engineer)，我們�
 
 DevOps 工程師的技能樹有：
 
-  * **cloud infrastructure:** AWS, Azure or GCP
+  * cloud infrastructure: AWS, Azure or GCP
   * **infrastructure as code (IaC)** : 如果是 AWS 平台那就是 AWS CloudFormation in Json or YAML、SDK、CDK。如果是 Azure 平台那就是 Bicep 或 Azure Resource Manager。如果是要跨平台的話，目前業界最常用的工具是 Terraform。
   * **程式語言** ：最常見的是 TypeScripte 或 Python。
-  * **CI/CD tools:** AWS 的 CodePipeline 系列、Azure 的 Azure DevOps、第三方軟體像是 Jenkins、OptusDeploy 等等
-  * **Logging/monitoring：** AWS CloudWatch、Azure Monitor、DataDog、Splunk 等等
+  * CI/CD tools: AWS 的 CodePipeline 系列、Azure 的 Azure DevOps、第三方軟體像是 Jenkins、OptusDeploy 等等
+  * Logging/monitoring： AWS CloudWatch、Azure Monitor、DataDog、Splunk 等等
   * **Scripting** ：Bash script, PowerShell script
 
 

@@ -32,7 +32,7 @@ episodeseries: ["零基礎轉職澳洲工程師"]
 
 這個為期三天的作業，我們首先必須要先想出來自己的 app 要做什麼，接下來光是作業的評分標準就有 16 項!!! 16 項耶，我的天!!!
 
-更別提其中有 3 個我們居然完全沒教過? 而且沒教過的部分老師居然不是跟我們說可以略過不管，而是在短短 10 分鐘內帶過這些概念，然後說 「好啦，那我們現在就算教過了，你們可以開始動手了 (Alright, now you are good to go!)」 
+更別提其中有 3 個我們居然完全沒教過? 而且沒教過的部分老師居然不是跟我們說可以略過不管，而是在短短 10 分鐘內帶過這些概念，然後說「好啦，那我們現在就算教過了，你們可以開始動手了 (Alright, now you are good to go!)」 
 
 我當場真心台灣人問號!!!! 本來這個作業就已經夠讓人雲裡霧裡了好嗎???!!! 😱
 
@@ -50,17 +50,17 @@ episodeseries: ["零基礎轉職澳洲工程師"]
 
 如果你們覺得下面我整理的筆記就超煩的，那你知道我們光是作業說明就有 2050 字，然後評分標準又是另一個 3205 字的文件嗎? 再加上新概念加上模糊不清的指示，難怪大家今天下午聽到快發瘋😀🙉🙉🙉😲
 
-**Assignment breakdowns**
+Assignment breakdowns
 
   * Ideas/ features/ research
   * Coding/debugging (actual programming)
   * software development plan (in markdown)
 
-**Statement of ‘Purpose’ and ‘Scope’ (300–500 words)**
+Statement of ‘Purpose’ and ‘Scope’ (300–500 words)
 
-**Features (300 words, approx. 100 words per feature)**
+Features (300 words, approx. 100 words per feature)
 
-**User Interaction and Experience**
+User Interaction and Experience
 
   * Control Flow Diagram
   * Implementation Plan (screenshots from Trello)
@@ -69,13 +69,13 @@ episodeseries: ["零基礎轉職澳洲工程師"]
   * Test Application (outline of the testing procedure and cases)
   * Developer Operations (throughout the development of the application )
   
-**source control — git: regular commits (at least 20), push all commit to GitHub**
+source control — git: regular commits (at least 20), push all commit to GitHub
 
-**project management platform — trello**
+project management platform — trello
 
-**script — developer tools to automate the building and testing of the application**
+script — developer tools to automate the building and testing of the application
 
-**Presentation (5 mins)**
+Presentation (5 mins)
 
   * prepare ppt slides (5p?)
   * practice & timing

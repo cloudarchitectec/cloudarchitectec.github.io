@@ -18,11 +18,11 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 這是我人生第一次在澳洲坐郵輪，也是人生第一次坐郵輪，這篇文章要來跟大家簡單分享一下我目前查到的相關資訊。等我回來之後應該也會把郵輪的心得寫成部落格(從此轉職旅遊作家?XD)，請大家多多支持!
 
-**郵輪行程:**[**Carnival Splendor**](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)。這次我是跟另一個朋友一起前往，我們訂的是有陽台的雙人房，一個人大概是 1200 澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。
+- **郵輪行程**：[**Carnival Splendor**](https://www.carnival.com.au/cruise-ships/carnival-splendor?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF1B8jgTP6Wzn-B7RAF8712AR9k2fl12NQaL460P8mqYZKXyv6O8cewaArifEALw_wcB)。這次我是跟另一個朋友一起前往，我們訂的是有陽台的雙人房，一個人大概是 1200 澳幣，我覺得就一趟包吃包住的旅行來說價位還算合理。
 
-**郵輪路線** : Start Sydney > Noumea > Mystery Island > Lifou > End: Sydney (雪梨出發，雪梨結束，中間停三個小島)
+- **郵輪路線**：Start Sydney > Noumea > Mystery Island > Lifou > End: Sydney (雪梨出發，雪梨結束，中間停三個小島)
 
-### **郵輪注意事項**
+### 郵輪注意事項
 
   1. **Covid 測試**
 

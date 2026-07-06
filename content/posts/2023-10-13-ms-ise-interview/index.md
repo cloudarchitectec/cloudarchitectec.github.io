@@ -100,9 +100,9 @@ Introducing Commercial Software Engineering
 
 第三關的面試官是一個 Principal Software Engineer，基本上也就是問了我三個大問題，然後從中延伸：
 
-  * **Diverse & Inclusive:** What steps do you take to encourage culturally sensitive behaviours when working in team environments. Please provide specific examples.
-  * **Technical Excellence:** Tell me about a time when you sought out a challenging technical problem.
-  * **Adaptability:** Describe a time when you presented a proposal or provided a service that was given an unfavourable response by stakeholders.
+  * Diverse & Inclusive: What steps do you take to encourage culturally sensitive behaviours when working in team environments. Please provide specific examples.
+  * Technical Excellence: Tell me about a time when you sought out a challenging technical problem.
+  * Adaptability: Describe a time when you presented a proposal or provided a service that was given an unfavourable response by stakeholders.
 
 
 

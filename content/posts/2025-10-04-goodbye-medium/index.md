@@ -25,9 +25,9 @@ tags: ["部落格"]
 
 ![Cloud Architect EC Blog](images/ec-blog.png)
 
-🏠 **新家地址**：[https://cloudarchitectec.com/](https://cloudarchitectec.com/)
+🏠 新家地址：[https://cloudarchitectec.com/](https://cloudarchitectec.com/)
 
-💌 **好消息**：未來所有新文章都會在新部落格首發，而且完全免費閱讀！
+💌 好消息：未來所有新文章都會在新部落格首發，而且完全免費閱讀！
 
 這也是 EC 為什麼最近這麼安靜的原因，除了工作很忙之外，我很努力在架設自己的部落格（當然，中間還順便跑去紐西蘭滑雪也是原因之一XD）
 
@@ -44,13 +44,13 @@ tags: ["部落格"]
 
 以下是我主要面臨的挑戰：
 
-**1. Medium 匯出地獄** 💀  
+- 1. Medium 匯出地獄 💀
 Medium 匯出的檔案格式真的慘烈，文章和留言混在一起，每篇都獨立成一個 HTML 檔案，而且因為我的主要寫作語言是中文，所以檔案的名稱大多數是亂碼(哭)。最終我靠著與 GitHub Copilot 的共同努力，寫了好幾個小程式來判斷哪些是留言、哪些是真正的文章，然後把文章統一修改成可以閱讀的格式。
 
-**2. Hugo 主題 Debug 馬拉松** 🐛  
+- 2. Hugo 主題 Debug 馬拉松 🐛
 這個部落格是用 Hugo 建立的，Hugo 雖然強大，但主題兼容性很脆弱。一開始我換了三個主題都踩坑，最後才在 Copilot 推薦下選了第四個主題才成功運行。
 
-**3. GitHub Pages 部署設定** ⚙️  
+- 3. GitHub Pages 部署設定 ⚙️
 設定 GitHub Workflows + GitHub Pages 的部署也花了一些時間，不過成功後真的超有成就感 ✨
 
 完成之後，我終於也開始體會到為什麼很多人會選擇自自架部落格了！

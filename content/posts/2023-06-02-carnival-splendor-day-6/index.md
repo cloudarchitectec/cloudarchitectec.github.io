@@ -13,7 +13,7 @@ tags: ["旅遊", "萬那杜", "郵輪"]
 episodeseries: ["Carnival Splendor 郵輪"]
 ---
 
-**第三個小島 — Mystery Island**
+### 第三個小島 — Mystery Island
 
 今天終於到了唯一一個 Vanuatu 的小島 Mystery Island，今天也是要坐接駁小船前往。可能玩到旅程的中後段，大家已經開始累了，似乎沒有太多人想搭早上的船前往小島XD
 
@@ -41,7 +41,7 @@ Mystery Island 感覺是一個非常商業化的小島，例如一上島就看�
 
 *海水非常清澈*
 
-**Cave & Sea Turtle Tour**
+### Cave & Sea Turtle Tour
 
 浮潛完曬了一會太陽，我們就去了一個 $50 的 cave & sea turtle tour (其實他們還有一個 $45 的 lagoon & cave tour，兩者在說明板上的路線不同，但實際上我們搭了同一艘船，所以等於白白多付 $5)。
 
@@ -54,7 +54,7 @@ Mystery Island 感覺是一個非常商業化的小島，例如一上島就看�
 *Mystery Island 海龜尋找船遊*
 
 
-**Mystery Island 小提醒**
+### Mystery Island 小提醒
 
 回來之後開始等待我們預約好的按摩，這裡建議大家最好一來就先預約好按摩，因為後來就全部客滿了。島上大概有 3–4 間按摩區，只有第一間最便宜一小時 $40，其他都是一小時 $50，但相較於澳洲還是非常便宜的！
 
@@ -62,7 +62,7 @@ Mystery Island 感覺是一個非常商業化的小島，例如一上島就看�
 
 後來到了兩點半，我們本來以為可以順利去按摩，沒想到員工跟我們說因為前面的客人延長時間，所以要再等 20 分鐘才能輪到我們!!! 我們覺得他們實在太不守信用了，於是決定直接回船上吃 buffet。
 
-**餐廳加點 Seafood**
+### 餐廳加點 Seafood
 
 由於我們回到船上的時間有點晚，除了吃到了一點 buffet 的食物(午餐的 buffet 3:30 結束)，我們還加點了一個 seafood platter to share 跟我單點了一個海鮮巧達濃湯 $7。湯是現點現煮，而且海鮮料超多，所以我覺得還滿划算的。seafood platter 這樣的份量 $20 還算 okay，不過炸物吃多了還是有點膩
 

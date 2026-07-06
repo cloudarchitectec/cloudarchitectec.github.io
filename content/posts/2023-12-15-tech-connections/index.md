@@ -27,7 +27,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 ### 雪梨
 
-  1. **Ｍuses Code JS:**[**https://www.meetup.com/en-AU/MusesCodeJS/**](https://www.meetup.com/en-AU/MusesCodeJS/)
+  1. Ｍuses Code JS:[**https://www.meetup.com/en-AU/MusesCodeJS/**](https://www.meetup.com/en-AU/MusesCodeJS/)
 
 ![](images/medium-1*Mf2_XB6J4I6s3JQg-WUjRA.png)
 
@@ -35,7 +35,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 心得：算是我參加過最多次的 meetups，他們會不定期舉辦一整天的 JavaScript/Node 相關的 workshops，活動非常有趣，而且參與的人通常也滿多的。我有一次還自願成為 workshop mentor，協助 workshop 參與者解決學習寫程式上的問題，我覺得非常有意義。
 
-**2\. Women Who Code Sydney:**[**https://www.meetup.com/en-AU/Women-Who-Code-Sydney/**](https://www.meetup.com/en-AU/Women-Who-Code-Sydney/)
+2\. Women Who Code Sydney:[**https://www.meetup.com/en-AU/Women-Who-Code-Sydney/**](https://www.meetup.com/en-AU/Women-Who-Code-Sydney/)
 
 ![](images/medium-1*Tas7j8ZA1GVKhLmMkeUUKw.png) Ｗomen Who Code
 
@@ -43,7 +43,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 心得：這是一個針對女性的 coding meetup，我去的那次是一個 hands-on coding workshop，可以現場學習寫程式並且跟其他對於科技有興趣的女生交流，我覺得非常不錯！
 
-**3\. Ruby on Rails Oceania Sydney:**<https://www.meetup.com/en-AU/Ruby-On-Rails-Oceania-Sydney/>
+3\. Ruby on Rails Oceania Sydney:<https://www.meetup.com/en-AU/Ruby-On-Rails-Oceania-Sydney/>
 
 ![](images/medium-1*vNUhERllI0LNMPp4aa6hFQ.png)
 
@@ -51,7 +51,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 心得：這應該算是我去過最多次的 meet ups，剛從 bootcamp 畢業的那段時間我每個月都會去。這個 meet up 特別的地方是在活動即將結束前，他們會開放一個時間讓正在找工作的人上台自我介紹、宣傳自己，在場的其他工程師或是獵頭如果覺得適合的話，可能就會幫忙介紹工作機會。
 
-**4\. Sydney CSS:**[**https://www.meetup.com/en-AU/sydcss/**](https://www.meetup.com/en-AU/sydcss/)
+4\. Sydney CSS:[**https://www.meetup.com/en-AU/sydcss/**](https://www.meetup.com/en-AU/sydcss/)
 
 ![](images/medium-1*sFJD3jQZURveaRmypOKonQ.png)
 
@@ -59,9 +59,9 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 其實雪梨的 tech meet ups 團體非常非常多，我覺得如果我全部寫出來會累死XD，所以我就先列舉幾個，其他的就等著大家去發掘囉～
 
-### **布里斯本**
+### 布里斯本
 
-  1. **ReactJS:**[**https://www.meetup.com/en-AU/reactbris/**](https://www.meetup.com/en-AU/reactbris/)
+  1. ReactJS:[**https://www.meetup.com/en-AU/reactbris/**](https://www.meetup.com/en-AU/reactbris/)
 
 ![](images/medium-1*TYCUwHvFWpXFnzR1ett3rA.png) 
 
@@ -75,13 +75,13 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 心得：這個團體目前成員超過兩千人，就我所知算是布里斯本網頁工程師最大的 meet up 團體之一。我去過兩次他們的活動都覺得還不錯，也在活動中認識了一些新朋友。
 
-**2\. GDG Brisbane:**[**https://www.meetup.com/en-AU/gdg-brisbane/**](https://www.meetup.com/en-AU/gdg-brisbane/)
+2\. GDG Brisbane:[**https://www.meetup.com/en-AU/gdg-brisbane/**](https://www.meetup.com/en-AU/gdg-brisbane/)
 
 ![](images/medium-1*WnBcHvtXznF5SCPBr-wFrA.png) GDG (Google Developer Group)
 
 介紹：GDG Brisbane 歡迎所有對學習 Android 以及 Google 相關開發技術有興趣的人，活動主題包括 Angular、Kotlin、Java、Flutter、Firebase、機器學習、虛擬現實、Google 助手、可穿戴裝置和物聯網。
 
-**3\. Brisbane AWS User Group:**[**https://www.meetup.com/en-AU/aws-brisbane/**](https://www.meetup.com/en-AU/aws-brisbane/)
+3\. Brisbane AWS User Group:[**https://www.meetup.com/en-AU/aws-brisbane/**](https://www.meetup.com/en-AU/aws-brisbane/)
 
 ![](images/medium-1*Ts4-MJD68Kw2BzNl2z11lQ.png)
 
@@ -93,7 +93,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 另外因為是 AWS 舉辦的活動，所以去那邊可以認識很多在 AWS 工作的人，不失為一個更加了解 AWS 的方式。
 
-**4\. Brisbane Azure User Group：**[**https://www.meetup.com/en-AU/Brisbane-Azure-User-Group/**](https://www.meetup.com/en-AU/Brisbane-Azure-User-Group/)
+4\. Brisbane Azure User Group：[**https://www.meetup.com/en-AU/Brisbane-Azure-User-Group/**](https://www.meetup.com/en-AU/Brisbane-Azure-User-Group/)
 
 ![](images/medium-1*owy9aRx6zJK_mHlUZiVlsA.png)
 
@@ -101,9 +101,9 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 心得：介紹完前前東家就不能不介紹一下前東家微軟的 meet up 團體，基本上跟 AWS 類似，主題圍繞在 Azure 雲端技術。舉辦的地點也大多在微軟的布里斯本辦公室，因為微軟的布里斯本辦公室規模很小，所以辦公室本身不太值得期待，食物就是一般的披薩，酒還要從鎖上辦公室儲物間廚房拿出來XDD (辦公室本身不值得參觀，比一些小公司都不如XD) 不過一樣可以遇到很多微軟的員工，也是一個 networking 的好機會。
 
-### **坎培拉**
+### 坎培拉
 
-  1. **Canberra AWS User Group:**[**https://www.meetup.com/en-AU/awscbr/**](https://www.meetup.com/en-AU/awscbr/)
+  1. Canberra AWS User Group:[**https://www.meetup.com/en-AU/awscbr/**](https://www.meetup.com/en-AU/awscbr/)
 
 ![](images/medium-1*SF8Npxo4g2o6puU29vjyNQ.png)
 

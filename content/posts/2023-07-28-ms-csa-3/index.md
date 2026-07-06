@@ -61,7 +61,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 **Solution 1: Automation State Configuration**
 
   * **DSC 官方文件** : [Azure Automation State Configuration overview | Microsoft Learn](https://learn.microsoft.com/en-us/azure/automation/automation-dsc-overview)
-  * **DSC 官方培訓** (這裡面有提供 demo configuration file，有興趣的人可以跟著動手做做看): [AZ-400: Manage infrastructure as code using Azure and DSC — Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-manage-infrastructure-as-code-using-azure/)
+  * DSC 官方培訓 (這裡面有提供 demo configuration file，有興趣的人可以跟著動手做做看): [AZ-400: Manage infrastructure as code using Azure and DSC — Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/az-400-manage-infrastructure-as-code-using-azure/)
   * **YouTube Tutorial** : [Azure Automation Part3 — Working with the Desired State Configuration using Azure Automation — YouTube](https://www.youtube.com/watch?v=8plqKnxzDHA)
 
 
@@ -88,7 +88,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 * * *
 
-**Solution 3: Azure Automanage**
+### Solution 3: Azure Automanage
 
   * **官方文件** : [About Azure Automanage Machine Best Practices | Microsoft Learn](https://learn.microsoft.com/en-us/azure/automanage/overview-about)
   * **官方說明影片** : [Simplify Windows Server management in Azure with Automanage & Hotpatch — YouTube](https://www.youtube.com/watch?v=X7RoU5ZOnjg)

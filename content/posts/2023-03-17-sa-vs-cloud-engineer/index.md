@@ -35,7 +35,7 @@ tags: ["雲端架構師"]
 ![雲端解決方案架構師郵件](images/medium-1*MbOfcJtKI4qtU-NFFVxk0w.png)
 ![雲端工程師職位詢問](images/medium-1*yPIHVj6MrSCkuJvigRtcFA.png)
 
-### 職務日常比較 ｜**Day-to-Day life**
+### 職務日常比較 ｜Day-to-Day life
 
 **(in-house) Software Developers**
 

@@ -71,7 +71,7 @@ Round 2: Culture Interview with the GM of Engineering & Architecture and the Hea
 
 結果剛剛一查居然是微軟的面試題??? 我身為一個微軟員工，在非微軟的面試，被問到微軟的面試題，會不會太微妙?XDDD 不過微軟的問題是選擇題，我的是開放性問答題。解析請參考: [微软面试官：如果给你超能力，你选择隐身还是会飞？](https://zhuanlan.zhihu.com/p/147727296)
 
-我的答案是「如果可以的話，我希望我可以有一個超能力，見到每個人的時候，他們旁邊會浮出一個 1–10 之間的數字，代表他們現在的心情狀態。如果發現他們表現得很正常，但其實心情不好的話，我就會多關心他們。而且我不會直接問他們「最近怎麼啦，心情不好嗎?」 而且會採用間接的方式閒聊，希望可以提振他們的心情~」
+我的答案是「如果可以的話，我希望我可以有一個超能力，見到每個人的時候，他們旁邊會浮出一個 1–10 之間的數字，代表他們現在的心情狀態。如果發現他們表現得很正常，但其實心情不好的話，我就會多關心他們。而且我不會直接問他們「最近怎麼啦，心情不好嗎?」而且會採用間接的方式閒聊，希望可以提振他們的心情~」
 
 女性面試官說這是她第一次聽到的答案(我真的只是當下浮現的想法就說了XD)，然後我問說大家通常都回答什麼? 她說通常是瞬間移動或飛行。
 
@@ -110,14 +110,14 @@ Head of Solution Architecture 說：「這裡我就必須插嘴一下，我家�
   * 你對於三年後的 DevOps 團隊有什麼規劃或願景？ (How would you envision the DevOps team in 3 yrs?)
   * DevOps 團隊目前面臨的主要挑戰或障礙是什麼？ (What are the main challenges or obstacles that the DevOps team is currently facing?)
 
-**Head of Portfolio**
+### Head of Portfolio
 
   * 想要請問兩位的團隊平常如何合作？ (How do your teams work together?): 其實我問這題是想要搞懂女性面試官的團隊在做什麼，結果她答完我還是不懂LOL
   * 你或你的團隊在日常工作中遇到的最大挑戰是什麼？這些挑戰是 DevOps 團隊可以幫助你們解決的問題嗎？還是 DevOps 團隊無法幫忙的挑戰？(What are your or your team’s biggest day-to-day challenges? Are they something that the DevOps team can help you with? Or are they something else?)
 
 
 
-**雙方**
+### 雙方
 
   * 你如何描述你的公司的組織文化？你個人更加認同的公司價值觀是什麼？(How would you describe your company’s organisation culture? What company values that you personally feel more aligned with?)
   * 從你的角度來看，作為一名 DevOps 工程師，理想的個人特質是什麼？ (From your perspective, what are the ideal personal traits for the role as a DevOps Engineer?)

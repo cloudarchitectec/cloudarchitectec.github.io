@@ -17,17 +17,17 @@ tags: ["英文面試"]
 
 在分享微軟的面試心得之前，我想要先分享 AWS 的面試過程，來做個對比。
 
-### **畢業生計畫(Graduate Program)**
+### 畢業生計畫(Graduate Program)
 
 在澳洲，除了一般的工作之外，還有一個畢業生計畫 的傳統。畢業生計畫通常只開放給應屆大學畢業生或是畢業兩年之內的人申請，具體申請規定視公司而定。通常澳洲各個大型企業(例如 AWS、微軟、能源公司 Shell、電信公司 Telstra 等等)或政府機構(例如國防部、統計局等等)都會有這個計畫，會針對新鮮人制定特別的職涯規劃或訓練。
 
-### **AWS 面試經驗: Technical Phone Screen x 1 + Loops x 5**
+### AWS 面試經驗: Technical Phone Screen x 1 + Loops x 5
 
 2020.06 我面試了 AWS Tech U Graduate Program。當時的第一關是一小時的技術電話面試 (technical phone screen)。通過之後，會安排現場面試 (onsite interviews，在 AWS 內部稱之為 loops)，但因為當時澳洲疫情正嚴重，所有的 loops 都是視訊完成的。
 
 Loops 會在一天之內完成，總共有五關，一關一個小時，面試官可能是跟你同職位的人(我的職位是 Professional Services Cloud Architect )，也可能是 Professional Services team 裡面其他職位的人(例如 Engagement Manager)。前四關是 Amazon leadership principles questions，最後一關是 side project presentation。中間除了午餐休息一小時，面試之間是沒有休息時間的，面試完整個人都要虛脫了lol
 
-### **微軟 Phone Screen**
+### 微軟 Phone Screen
 
 這個微軟的職缺我是在 LinkedIn 上看到的，申請後幾天我收到了微軟 source recruiter 的電話，說他對我的履歷很感興趣，我們稍微聊了一下為什麼我想要申請的理由跟一些基本問題，接著他話鋒一轉說「我們現在來講一下這個職位的薪資內容，因為我不想要浪費你的時間，你覺得薪資符合你的預期的話，我們再開始面試流程。這個職位的 Base salary 是 $$$，有 Car Allowance $$$，Performance Bonus 是 xx %，股票(RSU)是 $$$，你覺得怎樣？」
 
@@ -35,7 +35,7 @@ Loops 會在一天之內完成，總共有五關，一關一個小時，面試�
 
 我對這個微軟的 souring recruiter 的印象非常好，首先是他很真誠也很直接，而且我問他所有關於職位/team 的問題他都可以侃侃而談，算是為我的微軟面試經驗奠定了一個非常良好的基礎。
 
-### **微軟面試第一關: Hiring Manager**(HM)
+### 微軟面試第一關: Hiring Manager(HM)
 
 微軟的第一關是跟 HM 面試一小時，我覺得這樣的安排很有趣，因為在我之前的面試經驗來說，HM 通常是最後一關，是決定要不要錄取你最後一道關卡(?) XD
 
@@ -43,7 +43,7 @@ Loops 會在一天之內完成，總共有五關，一關一個小時，面試�
 
 原定一個小時的面試，我跟 HM 後來整整聊了 1.5 小時，完全相聊甚歡! 果然隔天我就立刻接到 recruiter 的電話說，第一關面試通過了，然後他跟我講了一下第二關面試的形式跟一些面試小技巧。
 
-### **微軟面試第二關: 技術面試 (Technical Interview)**
+### 微軟面試第二關: 技術面試 (Technical Interview)
 
 在第二關面試之前我看了好幾個 YouTube 影片準備 (我覺得面試大公司就是有這個好處，YouTube 有很多相關資源，有興趣的人可以上去查查，尤其是查 Amazon interviews 上面有超多影片，相較之下微軟的面試資源反而少很多XD)。
 
@@ -61,7 +61,7 @@ Loops 會在一天之內完成，總共有五關，一關一個小時，面試�
 
 其實我覺得我第二關面試表現得一般，因為前面也說了我不是特別有信心。沒想到隔一天我就收到 recruiter 的電話說面試通過了，他跟我講了一下第三關的面試形式跟給我一些提醒 (微軟整體給我的面試感覺是非常好的，所有人都非常專業而且效率超高! 而且他們是一輪通過之後才進下一輪，我覺得壓力比 AWS 小多了XD)。
 
-### **微軟面試第三關:** Panel Interview
+### 微軟面試第三關: Panel Interview
 
 最後一關是要跟他們的 ANZ Director (也就是我的 HM 的經理)，還有另一個 team member 面試。
 
@@ -71,6 +71,6 @@ Loops 會在一天之內完成，總共有五關，一關一個小時，面試�
 
 其實我覺得他問的問題非常有趣 (但基於保密協議，我不能透露面試問題)，我回答完後還反問他，「那對你來說，這個問題的答案是什麼？」他的答案完全出乎我的意料，但我很喜歡他的答案，給了我一個新的視野！
 
-### **面試結果**
+### 面試結果
 
 一樣是面試完隔天我就收到 Recruiter 2 號 (跟之前的 sourcing recruiter 是不同人) 的 email 說希望找時間跟我聊聊 interview feedback。在與 Recruiter 2 的電話對話中，我獲得了口頭 offer。經過一番思考，我決定迎接這個全新的挑戰: 新的公司文化、新的雲服務平台、新的職位、新的城市!

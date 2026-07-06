@@ -21,7 +21,7 @@ draft: true
 **
 **
 **
-**2020-02-18 Tue**
+2020-02-18 Tue
 今天上班有兩個主要的 workshops，一個是 TypeScript
 (我們在學校學的是 JavaScript)，一個是 Angular
 (我們在學校學的是 React)。結果聽完這兩個 workshops

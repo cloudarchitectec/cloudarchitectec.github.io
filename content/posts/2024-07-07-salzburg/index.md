@@ -43,7 +43,7 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 既然來到莫札特的故鄉，就不能不參觀莫札特的相關景點！在薩爾斯堡，有兩個莫札特景點：
 
-**莫扎特出生地 Mozart Birthplace**
+### 莫扎特出生地 Mozart Birthplace
 
 ![莫札特出生地粉橘色外觀建築](images/medium-1*wqOODpN3z6MWz1lE9lVWnA.jpg)
 
@@ -61,7 +61,7 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 *莫札特雕像與壁畫*
 
-**莫扎特故居 Mozart Residence**
+### 莫扎特故居 Mozart Residence
 
 ![薩爾斯堡莫札特故居博物館外觀](images/medium-1*-nlhYdN9RnqpiGguiDihgA.jpg)
 
@@ -101,7 +101,7 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 其實吃起來很像金莎的感覺，但比金莎更有層次，因為巧克力裡面還有牛軋糖跟開心果醬！但我覺得金莎在口感上又更勝一籌，因為金莎的外皮比較酥脆。值得嚐鮮跟送禮，但我覺得沒有大量購買的必要 (我買 6 顆要 6.9 歐，網誌說一顆通常要一歐以上，這個價錢是不是可以買三顆金莎？建議大家吃金莎就可以了XDD）
 
-### **薩爾察赫河遊船 / Salzburg Stadt Schiff-Fahrt （€17)**
+### 薩爾察赫河遊船 / Salzburg Stadt Schiff-Fahrt （€17)
 
 如果使用薩爾斯堡卡的話，只能兌換 40 分鐘的 Tour 1 行程，只有下午 1–5 點每個整點才有船班，建議可以先想好自己想搭哪個時段，早上先來換票，然後登船時間再回來。
 

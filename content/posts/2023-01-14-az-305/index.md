@@ -14,7 +14,7 @@ tags: ["雲端證照"]
 
 * * *
 
-**考試日期：2023.01.02**
+### 考試日期：2023.01.02
 
 2023 年的第二天，我通過了 AZ-305 Designing Microsoft Azure Infrastructure Solutions 的考試，加上 11 月通過的 AZ-104 Azure Administrator Associate，成功獲得了 Microsoft Certified Azure Solutions Architect Expert 這張專家級證照，算是為了新的一年打下良好的基礎!
 
