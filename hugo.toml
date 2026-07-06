@@ -29,7 +29,7 @@ disablePathToLower = true
   disableXML = true
   minifyOutput = true
 
-# content/drafts/ holds writing-pipeline artefacts (outlines, data tables, AI notes).
+# content/drafts/ holds writing-pipeline artefacts (outlines, data tables,  notes).
 # Never render them as pages, regardless of per-file front matter.
 [[cascade]]
   [cascade.build]
