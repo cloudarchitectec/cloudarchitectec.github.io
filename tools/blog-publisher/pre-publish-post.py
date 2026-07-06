@@ -46,6 +46,7 @@ HUGO_DEFAULT_PORT = 1313
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent.parent
 CHECK_SCRIPT = PROJECT_ROOT / "scripts" / "check-posts.py"
+SPELLCHECK_SCRIPT = PROJECT_ROOT / "scripts" / "check-spelling.py"
 SIZE_CHECK_MODULE = PROJECT_ROOT / "scripts" / "post-validation" / "image-size-check.py"
 FRONTMATTER_CHECK = PROJECT_ROOT / "scripts" / "post-validation" / "frontmatter-check.py"
 EPISODESERIES_REGISTRY = PROJECT_ROOT / "scripts" / "episodeseries_registry.py"
@@ -216,6 +217,21 @@ def strip_leading_heading(body: str, title: str) -> str:
         del lines[idx]
     click.echo("✂️  Removed leading heading.")
     return "".join(lines)
+
+
+def run_spellcheck_fix(slug: str) -> None:
+    """Auto-fix EN (British) + zh-TW spelling on the written post; always echo the report."""
+    click.echo("\n🔤 Spellcheck (scripts/check-spelling.py --fix)…")
+    result = subprocess.run(
+        [sys.executable, str(SPELLCHECK_SCRIPT), "--fix", "--post", slug],
+        capture_output=True,
+        text=True,
+        cwd=PROJECT_ROOT,
+    )
+    report = (result.stdout + result.stderr).strip()
+    click.echo(report or "   (no findings)")
+    if result.returncode != 0:
+        click.echo("⚠️  Spellcheck flagged items needing a human decision — review the report above.")
 
 
 def normalize_downloaded_jpeg(image_path: Path) -> None:
@@ -813,6 +829,8 @@ def main(input_file: str, no_hugo: bool) -> None:
     index_path = post_dir / "index.md"
     index_path.write_text(f"{front_matter}\n\n{clean_body}".rstrip() + "\n", encoding="utf-8")
     click.echo(f"✅ Post written: {index_path}")
+
+    run_spellcheck_fix(slug)
 
     if not validate_post(post_dir):
         sys.exit(1)

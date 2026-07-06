@@ -62,10 +62,11 @@ All notable changes to this project will be documented in this file.
 
 --
 
-**2026.07.04**
+**2026.07.06**
 - Re-enabled consultation page + Cal.com + Google Meet + Stripe
 - Migrated legacy Medium: set canonical links, replaced bodies with excerpts, moved key posts out of the paywall (the rest requires manual effort, so skipped)
-- Fixed excerpt
+- Fixed excerpts
+- Added spell check script
 
 **2026.06.30**
 - Updated consultation page with testimonies, incorporate cal.com for automation

@@ -3,28 +3,19 @@ title: "微軟員工績效評估 (Microsoft Employee Performance Review)"
 date: 2023-06-03
 slug: "2023-06-03-ms-performance-review"
 cover:
-  image: "images/medium-0*56iblj35IDs0Ee1S.jpg"
+  image: "images/john-schnobrich.jpg"
   alt: "微軟員工績效評估 (Microsoft Employee Performance Review)"
   credit:
     photographer: "John Schnobrich"
     photographer_url: "https://unsplash.com/@johnschno"
     photo_url: "https://unsplash.com"
-images: ['images/medium-0*56iblj35IDs0Ee1S.jpg']
+images: ['images/john-schnobrich.jpg']
 categories: ["澳洲職場"]
 tags: ["微軟"]
 
 ---
 
-* * *
-
-### 微軟員工績效評估 (Microsoft Employee Performance Review)
-
-
-* * *
-
 今天要來跟大家分享微軟是怎麼進行員工績效評估。
-
-### 前言
 
 微軟用的內部 performance review 工具叫作 Connect，Connect 通常發生在每年 4–5 月 (細節跟時間點每年可能會有所調整，畢竟微軟的公司文化就是充滿 chnages XD)。每年到了 Connect 的季節，員工就必須要在 Connect 上根據下面幾個類別寫出自己在過去一年所產出的影響力 (impacts)，接著你的經理會就你寫的 Connect 內容跟你討論有沒有需要改動的地方。討論結束後，你的經理會再額外找時間在你寫的 Connect 下面寫出他的評論。
 
@@ -34,48 +25,44 @@ Connect 一旦提交之後就不能再做出更改，而且 Connect 會一直伴
 
 Connect 內容主要分成以下幾個部分。
 
-  1. 「Reflect on the past (回顧過去) —」要求你總結一下你過去一年的影響力，分為兩大部分。
+**1. Reflect on the past (回顧過去)**：要求你總結一下你過去一年的影響力，分為兩大部分。
 
+**1.1 核心優先事項 (Core priorities)**：就是你的 KPI，根據每個人的職位會有所不同。Cloud Solution Architect 是以下幾個部分：
 
+- **Azure 消費影響 (Consumption Impact)**：你手上的客戶總共在 Azure 上花了多少錢，你做了什麼事情幫助客戶可以在 Azure 上順利部署 (i.e. 花錢)。
+- **Azure 擴張影響 (Expansion Impact)**：你在 sales pipeline 裡面創造了多少新的 opportunties，簡單來說就是你挖掘了多少客戶可能在 Azure 上花錢的新機會。
+- **UCR (Unified Revenue Impact)**：微軟內部用語，簡單來說就是你 deliver 了多少客戶需要額外付費的微軟 workshops。(哇，又是錢哈哈哈! 大家可以知道我為什麼說這個工作跟我的個人價值觀不符了吧? 雖然說 CSA 是個技術職位，但我們的 KPI 幾乎都是用銷售數字在衡量 >”<)
+- **技能專業化與精通的增長 (Growth in Specialization & mastery across skills)**：過去在技能上的成長，我寫了我過去六個月考過了兩張 Azure 證照。
+- **對他人成功的貢獻 (Contribution to success of others)**：寫你做了什麼事幫助你同事成功。這點其實是我還滿喜歡的一點，你協助他人成功的地方也可以列為你自己的 KPI。
+- **建立在他人工作基礎上的成果 (Results that built on other’s work)**：寫你做了什麼事是建立在你的同事的工作基礎上。這點也是我還滿喜歡的一點，與其大家各做各的，如果已經有人做過類似的工作，那下一個人遇到同樣問題時，可以直接利用前人的工作成果，而不是每個人都花時間自己在從頭摸索。只可惜理想是美滿的，現實是骨感的，微軟內部的不管是同一個 team 或是 cross team 之間的溝通都不是太好XDDD 所以還是常常發生每個人各幹各的，費時又耗力，還沒有一個統一的成果或標準的結果…
 
-1.1 「核心優先事項 (Core priorities)」就是你的 KPI，根據每個人的職位會有所不同。Cloud Solution Architect 是以下幾個部分:
-
-  * **Azure 消費影響 (Consumption Impact)** : 你手上的客戶總共在 Azure 上花了多少錢，你做了什麼事情幫助客戶可以在 Azure 上順利部署 (i.e. 花錢)。
-  * **Azure 擴張影響 (Expansion Impact)** : 你在 sales pipeline 裡面創造了多少新的 opportunties，簡單來說就是你挖掘了多少客戶可能在 Azure 上花錢的新機會。
-  * UCR (Unified Revenue Impact): 微軟內部用語，簡單來說就是你 deliver 了多少客戶需要額外付費的微軟 workshops。(哇，又是錢哈哈哈! 大家可以知道我為什麼說這個工作跟我的個人價值觀不符了吧? 雖然說 CSA 是個技術職位，但我們的 KPI 幾乎都是用銷售數字在衡量 >”<)
-  * 「技能專業化與精通的增長 (Growth in Specialization & mastery across skills):」過去在技能上的成長，我寫了我過去六個月考過了兩張 Azure 證照。
-  * **對他人成功的貢獻 (Contribution to success of others)** : 寫你做了什麼事幫助你同事成功。這點其實是我還滿喜歡的一點，你協助他人成功的地方也可以列為你自己的 KPI。
-  * 「建立在他人工作基礎上的成果 (Results that built on other’s work):」寫你做了什麼事是建立在你的同事的工作基礎上。這點也是我還滿喜歡的一點，與其大家各做各的，如果已經有人做過類似的工作，那下一個人遇到同樣問題時，可以直接利用前人的工作成果，而不是每個人都花時間自己在從頭摸索。只可惜理想是美滿的，現實是骨感的，微軟內部的不管是同一個 team 或是 cross team 之間的溝通都不是太好XDDD 所以還是常常發生每個人各幹各的，費時又耗力，還沒有一個統一的成果或標準的結果…
-
-
-
-1.2 「多樣性與包容性 (Diversity & Inclusion, D&I)，」需要描述你的行動對於促進更多元且包容的微軟文化有什麼影響？
+**1.2 多樣性與包容性 (Diversity & Inclusion, D&I)**：需要描述你的行動對於促進更多元且包容的微軟文化有什麼影響？
 
 這也算是我很喜歡的一點，我在澳洲工作這麼久，第一次看到企業非常重視 D&I! 只可惜這點一樣是立意良好，執行不足，甚至流為形式。員工私下抱怨的地方其實不少，是我覺得非常可惜的地方! 我自己是寫我參加了什麼 D&I 的活動，參加後我都會在 LinkedIn 寫一篇文章分享我的心得，進一步提倡職場/科技業裡的 D&I。
 
-「1.3 Reflect on a challenge or setback (反思過去的挑戰或挫折):」我覺得這點也滿好的，但受限於時間限制我經理完全沒有跟我討論到這一點，也是很可惜的地方。
+**1.3 Reflect on a challenge or setback (反思過去的挑戰或挫折)**：我覺得這點也滿好的，但受限於時間限制我經理完全沒有跟我討論到這一點，也是很可惜的地方。
 
-**2\. Plan for the future (計劃未來)**
+**2. Plan for the future (計劃未來)**
 
-2.1 基本上就是你如何計畫達成明年的 1.1 核心優先事項 (Core priorities)，但搞笑的是新的標準要 7–8 月才出XDD 下面總結的部分會有我深入的吐槽!
+**2.1** 基本上就是你如何計畫達成明年的 1.1 核心優先事項 (Core priorities)，但搞笑的是新的標準要 7–8 月才出XDD 下面總結的部分會有我深入的吐槽!
 
-2.2 基本上就是你如何計畫達成明年的 1.2 多樣性與包容性 (Diversity & Inclusion, D&I)。
+**2.2** 基本上就是你如何計畫達成明年的 1.2 多樣性與包容性 (Diversity & Inclusion, D&I)。
 
-**3\. Identify your opportunities for growth (找出未來的成長機會)**
+**3. Identify your opportunities for growth (找出未來的成長機會)**
 
-  * What are the 1–2 actions you will take to energize your learning, growth, and development over the next period? (接下來的一段時間內，你將採取哪 1–2 項行動來協助你的學習、成長和發展？)
-  * What support do you need to fulfill these actions? (你需要什麼支援來實現這些行動？)
+- What are the 1–2 actions you will take to energize your learning, growth, and development over the next period? (接下來的一段時間內，你將採取哪 1–2 項行動來協助你的學習、成長和發展？)
+- What support do you need to fulfill these actions? (你需要什麼支援來實現這些行動？)
 
 
 
 這題我也很喜歡，但我的新經理也是草草帶過討論….. 而且因為經理的時間有限，我也很難找到時間再跟他繼續討論這個話題 :(
 
-「4\. Conversation starters (optional) (其他話題 — 選填):」可能是怕有人不知道要跟經理聊什麼，所以列了一些選填的話題來協助對話進行。
+**4. Conversation starters (optional)（其他話題 — 選填）**：可能是怕有人不知道要跟經理聊什麼，所以列了一些選填的話題來協助對話進行。
 
-  * Of my strengths, the ones I’d like to apply more in my work are: (在我的優勢中，我希望在工作中更多地應用的是：)
-  * In my work, I feel motivated or energized by: (在我的工作中，我感到有動力或充滿活力的是：)
-  * In my work, I lose motivation or energy from: (在我的工作中，我失去動力或能量的是：)
-  * I know I can’t do everything on my own. I’d like help with: (我知道我無法獨自完成一切。我希望得到以下方面的幫助：)
+- Of my strengths, the ones I’d like to apply more in my work are: (在我的優勢中，我希望在工作中更多地應用的是：)
+- In my work, I feel motivated or energized by: (在我的工作中，我感到有動力或充滿活力的是：)
+- In my work, I lose motivation or energy from: (在我的工作中，我失去動力或能量的是：)
+- I know I can’t do everything on my own. I’d like help with: (我知道我無法獨自完成一切。我希望得到以下方面的幫助：)
 
 
 
