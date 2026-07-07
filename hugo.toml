@@ -44,6 +44,7 @@ disablePathToLower = true
   description = "澳洲雲端架構師 EC 的技術部落格 - Cloud Architect EC's Tech Blog"
   keywords = ["Cloud Architecture", "AWS", "Azure", "Tech Blog", "雲端架構"]
   author = "Cloud Architect EC"
+  og_locale = "zh_TW" # Facebook-valid ll_CC locale for og:locale (languageCode zh-Hant is not a valid FB locale)
   authorDescription = "澳洲雲端架構師，前Amazon與微軟工程師，專注於雲端架構與職涯轉換"
   authorImage = "/ec-logo.png"
   consultationBookingUrl = "https://cal.com/cloudarchitectec/career-consultation"

@@ -13,7 +13,10 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ .Permalink }}">
 {{- else -}}
-<meta name="twitter:card" content="summary">
+{{- /* Cover-less, imageless pages: use the branded default banner so X/Threads
+       render a large image card instead of a bare text card. */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ "og-default.png" | absURL }}">
 {{- end -}}
 {{- end }}
 <meta name="twitter:title" content="{{ .Title }}">

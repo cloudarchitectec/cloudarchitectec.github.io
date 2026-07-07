@@ -179,6 +179,8 @@
       {{- partial "post_meta.html" . -}}
     </div>
     {{- end }}
+
+    {{- partial "share_buttons.html" . }}
   </div>
 </article>
 {{- else }}
@@ -213,6 +215,8 @@
 {{- end }}
 
 {{- end }}{{/* end range $paginator.Pages */}}
+
+{{- partial "share_buttons_assets.html" . }}
 
 {{- if gt $paginator.TotalPages 1 }}
 <footer class="page-footer">
