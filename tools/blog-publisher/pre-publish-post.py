@@ -47,6 +47,7 @@ SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent.parent
 CHECK_SCRIPT = PROJECT_ROOT / "scripts" / "check-posts.py"
 SPELLCHECK_SCRIPT = PROJECT_ROOT / "scripts" / "check-spelling.py"
+POSTS_INDEX_SCRIPT = PROJECT_ROOT / "scripts" / "gen-posts-index.py"
 SIZE_CHECK_MODULE = PROJECT_ROOT / "scripts" / "post-validation" / "image-size-check.py"
 FRONTMATTER_CHECK = PROJECT_ROOT / "scripts" / "post-validation" / "frontmatter-check.py"
 EPISODESERIES_REGISTRY = PROJECT_ROOT / "scripts" / "episodeseries_registry.py"
@@ -831,6 +832,9 @@ def main(input_file: str, no_hugo: bool) -> None:
     click.echo(f"✅ Post written: {index_path}")
 
     run_spellcheck_fix(slug)
+
+    click.echo("\n🗂️  Regenerating POSTS-INDEX.md…")
+    subprocess.run([sys.executable, str(POSTS_INDEX_SCRIPT)], cwd=PROJECT_ROOT, check=False)
 
     if not validate_post(post_dir):
         sys.exit(1)

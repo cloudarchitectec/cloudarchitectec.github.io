@@ -22,12 +22,12 @@
   "wordCount" : "{{ .WordCount }}",
   "inLanguage": {{ .Language.Lang | default "en-us" }},
   {{ if .Params.cover.image -}}
-  "image":
-    {{- if (ne .Params.cover.relative true) -}}
-    {{ .Params.cover.image | absURL }},
-    {{- else -}}
-    {{ (path.Join .RelPermalink .Params.cover.image ) | absURL }},
-    {{- end}}
+    {{- /* Overridden from theme: resolve cover.image via page-bundle resources
+           (see templates/_funcs/resolve-cover-image.html) instead of a plain
+           absURL, which produces a 404'ing site-root path for bundle covers. */ -}}
+    {{- with partial "templates/_funcs/resolve-cover-image.html" . -}}
+  "image": {{ . }},
+    {{- end }}
   {{- else }}
     {{- with index $images 0 -}}
   "image": {{ .Permalink }},

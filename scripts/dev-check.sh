@@ -65,6 +65,10 @@ spellcheck_dry_run() {
   fi
 }
 
+# Keep POSTS-INDEX.md (the post-location map for humans/AI) in sync with content.
+# Cheap; regenerate on every run so it is never stale before a commit.
+"$PYTHON" scripts/gen-posts-index.py
+
 if [[ -n "$POST" ]]; then
   "$PYTHON" scripts/check-posts.py --post "$POST"
   spellcheck_dry_run --post "$POST"

@@ -1,0 +1,33 @@
+{{- /* Overridden from theme: resolve cover.image via page-bundle resources
+       (see templates/_funcs/resolve-cover-image.html) instead of a plain
+       absURL, which produces a 404'ing site-root path for bundle covers
+       and breaks link-preview thumbnails on Threads/Facebook/X. */}}
+{{- if .Params.cover.image -}}
+<meta name="twitter:card" content="summary_large_image">
+{{- with partial "templates/_funcs/resolve-cover-image.html" . }}
+<meta name="twitter:image" content="{{ . }}">
+{{- end }}
+{{- else }}
+{{- $images := partial "templates/_funcs/get-page-images" . -}}
+{{- with index $images 0 -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ .Permalink }}">
+{{- else -}}
+<meta name="twitter:card" content="summary">
+{{- end -}}
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}">
+
+{{- $twitterSite := "" }}
+{{- with site.Params.social }}
+  {{- if reflect.IsMap . }}
+    {{- with .twitter }}
+      {{- $content := . }}
+      {{- if not (strings.HasPrefix . "@") }}
+        {{- $content = printf "@%v" . }}
+      {{- end }}
+      <meta name="twitter:site" content="{{ $content }}">
+    {{- end }}
+  {{- end }}
+{{- end }}
