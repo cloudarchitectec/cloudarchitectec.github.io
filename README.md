@@ -65,6 +65,8 @@ All notable changes to this project will be documented in this file.
 **2026.07.07**
 - Added post index
 - Fixed image og issues
+- Updated share button function
+- Created proper banner when sharing
 
 **2026.07.06**
 - Re-enabled consultation page + Cal.com + Google Meet + Stripe
