@@ -1,0 +1,34 @@
+{{- /*
+  Resolve the correct absolute URL for a page's cover.image.
+
+  Why this exists: PaperMod's own social-meta partials (opengraph.html,
+  twitter_cards.html, schema_json.html) resolve cover.image with a plain
+  `.Params.cover.image | absURL`, which treats the path as relative to the
+  SITE ROOT. That's wrong for page-bundle covers (e.g. "images/foo.jpg"
+  living inside content/posts/<slug>/), because it produces a site-root URL
+  like https://example.com/images/foo.jpg instead of the real bundle URL
+  https://example.com/posts/<slug>/images/foo.jpg — a 404, which is why
+  social platforms (Threads/Facebook/X) fail to render a thumbnail.
+
+  PaperMod's own cover.html partial (used for the on-page hero image) does
+  NOT have this bug: it looks the image up as a page-bundle / global
+  resource first and uses that resource's real Permalink. This helper
+  mirrors that same lookup so social meta tags match what's actually on
+  the page.
+*/}}
+{{- $pageBundleCover := "" }}
+{{- $globalResourcesCover := "" }}
+{{- with .Params.cover.image }}
+  {{- $pageBundleCover = ($.Resources.ByType "image").GetMatch (printf "*%s*" .) }}
+  {{- $globalResourcesCover = (resources.ByType "image").GetMatch (printf "*%s*" .) }}
+{{- end }}
+{{- $cover := (or $pageBundleCover $globalResourcesCover) }}
+{{- if $cover }}
+  {{- return $cover.Permalink }}
+{{- else if .Params.cover.image }}
+  {{- if (ne .Params.cover.relative true) }}
+    {{- return (.Params.cover.image | absURL) }}
+  {{- else }}
+    {{- return (path.Join .RelPermalink .Params.cover.image | absURL) }}
+  {{- end }}
+{{- end }}
