@@ -1,0 +1,347 @@
+/* ============================================================================
+   Homepage — two-column editorial layout (re-design v7).
+   Scoped entirely under .home-shell — does not affect tag/category/search
+   pages, which still use layouts/_default/list.html.
+   ========================================================================== */
+
+/* PaperMod's core `.main` caps every page at `--main-width` (720px) + gap padding.
+   The two-column shell needs its own, wider container, so drop that cap here only. */
+body:has(.home-shell) .main {
+  max-width: none;
+  padding: 0;
+}
+
+/* Align homepage header nav with the two-column shell */
+body:has(.home-shell) .nav {
+  max-width: var(--home-width);
+  padding: 0 40px;
+  box-sizing: border-box;
+}
+
+/* The left rail already carries the social icons on the homepage, so hide the
+   global header's copy here only (other pages keep their header social row). */
+body:has(.home-shell) .header-social-icons {
+  display: none;
+}
+
+.home-shell {
+  max-width: var(--home-width);
+  margin: 0 auto;
+  padding: 56px 40px 20px;
+  display: grid;
+  grid-template-columns: var(--rail-left) 1fr;
+  gap: var(--home-gap);
+  align-items: start;
+}
+
+.home-rail {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+/* ---- Left rail ---- */
+
+.home-nav-block {
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.home-nav-heading {
+  margin: 0 0 12px;
+  font: 600 15px var(--font-sans);
+  color: var(--accent);
+}
+
+.home-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  font: 14.5px var(--font-sans);
+  color: var(--secondary);
+}
+
+.home-nav-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: inherit;
+  text-decoration: none;
+  transition: color 150ms ease;
+}
+
+.home-nav-item:hover {
+  color: var(--accent);
+}
+
+.home-nav-icon {
+  flex: none;
+  stroke: var(--accent);
+}
+
+/* "全部文章" link — visible only on tablet/phone, hidden on desktop
+   (the left rail is always visible on desktop, so no link needed there) */
+.home-nav-all {
+  display: none;
+}
+
+.home-social {
+  display: flex;
+  gap: 14px;
+  margin-top: auto;
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+}
+
+.home-social a {
+  display: flex;
+  align-items: center;
+  color: var(--tertiary);
+  text-decoration: none;
+  transition: color 150ms ease;
+}
+
+.home-social a:hover {
+  color: var(--accent);
+}
+
+/* ---- About block ---- */
+
+.home-about-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.home-about-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--border);
+}
+
+.home-about-name {
+  font: 600 15px var(--font-sans);
+  color: var(--accent);
+}
+
+.home-about-blurb {
+  margin: 0;
+  font: 13.5px/1.8 var(--font-sans);
+  color: var(--secondary);
+}
+
+.home-about-link {
+  display: inline-block;
+  margin-top: 8px;
+  font: 600 13px var(--font-sans);
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.home-about-link:hover {
+  opacity: .8;
+}
+
+/* ---- Newsletter ---- */
+
+.home-newsletter,
+.home-stats {
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.home-newsletter-heading {
+  margin: 0 0 8px;
+  font: 600 15px var(--font-sans);
+  color: var(--accent);
+}
+
+.home-newsletter-desc {
+  margin: 0 0 12px;
+  font: 13px/1.75 var(--font-sans);
+  color: var(--secondary);
+}
+
+.home-newsletter-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.home-newsletter-input {
+  border: 1px solid rgba(0, 0, 0, .18);
+  border-radius: var(--radius);
+  padding: 9px 11px;
+  font: 13px var(--font-sans);
+  background: var(--theme);
+  color: var(--primary);
+}
+
+.dark .home-newsletter-input {
+  border-color: rgba(255, 255, 255, .2);
+}
+
+.home-newsletter-input::placeholder {
+  color: var(--tertiary);
+}
+
+.home-newsletter-submit {
+  border: none;
+  border-radius: var(--radius);
+  padding: 9px;
+  background: var(--accent);
+  color: #fff;
+  font: 600 13px var(--font-sans);
+  cursor: pointer;
+  transition: opacity 150ms ease;
+}
+
+.dark .home-newsletter-submit {
+  color: #12110f;
+}
+
+.home-newsletter-submit:hover {
+  opacity: .88;
+}
+
+/* ---- Stats ---- */
+
+.home-stats-line {
+  margin: 0;
+  font: 12.5px var(--font-sans);
+  color: var(--secondary);
+}
+
+/* ---- Middle: latest posts ---- */
+
+.home-main-heading {
+  margin: 0 0 4px;
+  font: 600 13px var(--font-mono);
+  letter-spacing: .05em;
+  color: var(--tertiary);
+}
+
+.home-post-entry {
+  padding: 22px 0 24px;
+  border-top: 1px solid var(--border);
+}
+
+.home-post-list {
+  margin-top: 14px;
+}
+
+.home-post-meta {
+  margin: 0 0 9px;
+  font: 12.5px var(--font-mono);
+  color: var(--secondary);
+}
+
+.home-post-title {
+  margin: 0;
+  font: 600 23px/1.5 var(--font-sans);
+}
+
+.home-post-title a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color 150ms ease;
+}
+
+.home-post-title a:hover {
+  color: var(--accent);
+}
+
+.home-post-summary {
+  margin: 10px 0 0;
+  max-width: 640px;
+  font: 15px/1.85 var(--font-sans);
+  color: var(--secondary);
+}
+
+.home-view-all {
+  display: inline-block;
+  margin-top: 8px;
+  padding-top: 8px;
+  font: 600 15px var(--font-sans);
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.home-view-all:hover {
+  opacity: .8;
+}
+
+/* Align the shared footer to the two-column width on the homepage only */
+body:has(.home-shell) .footer {
+  max-width: var(--home-width);
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
+/* ---- RWD: tablet (≤1023px) — collapse to single column, articles first ---- */
+@media (max-width: 1023px) {
+  body:has(.home-shell) .nav {
+    padding: 0 24px;
+  }
+
+  .home-shell {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding: 40px 24px 24px;
+  }
+
+  /* Articles appear first on narrow screens */
+  .home-main       { order: 1; }
+  .home-rail-left  { order: 2; }
+
+  /* Within the rail, category nav leads on mobile (desktop keeps 關於EC first) */
+  .home-nav-block { order: -1; }
+
+  /* Reveal the "全部文章" link that is hidden on desktop */
+  .home-nav-all {
+    display: inline-flex;
+  }
+
+  .home-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 22px;
+    row-gap: 12px;
+  }
+
+  .home-social {
+    margin-top: 0;
+  }
+}
+
+/* ---- RWD: phone (≤640px) — topic nav becomes a horizontal scroller ---- */
+@media (max-width: 640px) {
+  body:has(.home-shell) .nav {
+    padding: 0 20px;
+  }
+
+  .home-shell {
+    padding: 20px 20px 24px;
+    gap: 24px;
+  }
+
+  .home-nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding-bottom: 4px;
+  }
+
+  .home-nav-item {
+    flex: none;
+  }
+
+  .home-post-title {
+    font-size: 19px;
+  }
+}

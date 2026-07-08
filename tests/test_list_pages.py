@@ -71,11 +71,20 @@ class TestBuiltListPages:
             "tag page must not use home-only enhanced article layout"
         )
 
-    def test_home_page_uses_enhanced_list_with_titles(self, built_site):
+    def test_home_page_uses_three_column_layout_with_titles(self, built_site):
+        """Home page uses layouts/index.html (three-column redesign), not list.html."""
         html = (built_site / HOME_PAGE).read_text(encoding="utf-8")
-        assert '<article class="enhanced-post-entry"' in html or "<article class=enhanced-post-entry" in html
+        assert "home-shell" in html, "home page should render the redesigned three-column shell"
+        assert '<article class=home-post-entry' in html or '<article class="home-post-entry"' in html
         assert "post-title" in html
         assert "<a href=" in html
+        assert html.count("home-post-entry") >= 3, "home page should list multiple posts"
+
+    def test_home_page_does_not_use_legacy_enhanced_entry(self, built_site):
+        """Guards against layouts/_default/list.html's dead IsHome branch leaking back
+        onto the home page (see layouts/index.html, which now owns the home route)."""
+        html = (built_site / HOME_PAGE).read_text(encoding="utf-8")
+        assert '<article class="enhanced-post-entry"' not in html and "<article class=enhanced-post-entry" not in html
 
     def test_tag_page_has_clickable_entry_links(self, built_site):
         html = (built_site / TAG_PAGE).read_text(encoding="utf-8")
