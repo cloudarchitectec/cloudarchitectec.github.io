@@ -1,6 +1,6 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.08.29 找到適合自己的位置"
+title: "轉職工程師日記: 2019.08.29 找到適合自己的位置"
 date: 2019-08-29
 slug: "2019-08-29-how-to-position-yourself"
 cover:
@@ -11,9 +11,9 @@ cover:
     photographer_url: "https://unsplash.com/@zekedrone"
     photo_url: "https://unsplash.com/photos/man-in-track-suit-wearing-vr-headset-standing-on-tennis-court-JQ0YVavMKLo"
 images: ["images/JQ0YVavMKLo-unsplash.jpg"]
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 ---
 
 2019-08-29

@@ -1,6 +1,6 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.09.25-26 公布第一次作業成績，然後我惹老師生氣了..."
+title: "轉職工程師日記: 2019.09.25-26 公布第一次作業成績，然後我惹老師生氣了..."
 date: 2019-09-26
 slug: "2019-09-26-going-no-where"
 cover:
@@ -11,9 +11,9 @@ cover:
     photographer_url: "https://unsplash.com/@davideragusa"
     photo_url: "https://unsplash.com/photos/empty-road-RTivRcYz1Bw"
 images: ["images/RTivRcYz1Bw-unsplash.jpg"]
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 ---
 2019-09-25 戴爾小哥
 

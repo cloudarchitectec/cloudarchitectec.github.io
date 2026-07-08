@@ -1,6 +1,6 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.10.17 漸入佳境"
+title: "轉職工程師日記: 2019.10.17 漸入佳境"
 date: 2019-10-17
 slug: "2019-10-17-unexpected-win"
 cover:
@@ -11,9 +11,9 @@ cover:
     photographer_url: "https://unsplash.com/@fznsr_"
     photo_url: "https://unsplash.com/photos/person-holding-gold-trophy-AmhdN68wjPc"
 images: ["images/AmhdN68wjPc-unsplash.jpg"]
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 ---
 
 2019-10-15 & 16

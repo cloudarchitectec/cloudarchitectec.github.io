@@ -1,12 +1,12 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2020.01.29 Final Project – Second Last Week"
+title: "轉職工程師日記: 2020.01.29 Final Project – Second Last Week"
 date: 2020-01-29
 slug: "2020-01-29-final-project-second-last-week"
 images: ['']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 draft: true
 ---
 

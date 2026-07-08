@@ -450,8 +450,8 @@ def infer_episode_series(title: str) -> str:
         return bracket.group(1)
     if title.startswith("好想要退休"):
         return "好想要退休"
-    if title.startswith("零基礎轉職澳洲工程師"):
-        return "零基礎轉職澳洲工程師"
+    if title.startswith("轉職工程師日記"):
+        return "轉職工程師日記"
     if title.startswith("一個女生的歐洲獨旅"):
         return "一個女生的歐洲獨旅"
     if "倖存者日記" in title:

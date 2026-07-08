@@ -1,12 +1,12 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.11.29 We Need you!!!"
+title: "轉職工程師日記: 2019.11.29 We Need you!!!"
 date: 2019-11-29
 slug: "2019-11-29-we-need-you"
 images: ['']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 draft: true
 ---
 

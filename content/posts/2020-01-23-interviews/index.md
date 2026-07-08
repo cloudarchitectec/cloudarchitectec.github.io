@@ -1,12 +1,12 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2020.01.23 Interviews"
+title: "轉職工程師日記: 2020.01.23 Interviews"
 date: 2020-01-23
 slug: "2020-01-23-interviews"
 images: ['']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 draft: true
 ---
 

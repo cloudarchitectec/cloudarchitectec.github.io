@@ -1,12 +1,12 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.11.17 So Sad to See Him Go"
+title: "轉職工程師日記: 2019.11.17 So Sad to See Him Go"
 date: 2019-11-17
 slug: "2019-11-17-so-sad-to-see-him-go"
 images: ['']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 draft: true
 ---
 

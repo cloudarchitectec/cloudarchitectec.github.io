@@ -1,6 +1,6 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.08.19 程式訓練營開學典禮"
+title: "轉職工程師日記: 2019.08.19 程式訓練營開學典禮"
 date: 2019-08-19
 slug: "2019-08-19-coding-bootcamp-orientation"
 cover:
@@ -11,9 +11,9 @@ cover:
     photographer_url: "https://unsplash.com/@elladon"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*ywUyojRimOqTsYDU.jpg', 'images/medium-1*T33PqOmEL0pTFAPtEBik6w.jpg', 'images/medium-1*FOxr1FMZLAjVNj05LHyPQA.jpg', 'images/medium-1*IdpP0Od1KWlotDuL2WDBEw.jpg']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 ---
 
 {{< post-views >}}

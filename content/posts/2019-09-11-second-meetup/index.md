@@ -1,15 +1,15 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.09.11 一週內的第二次 Meetup"
+title: "轉職工程師日記: 2019.09.11 一週內的第二次 Meetup"
 date: 2019-09-11
 slug: "2019-09-11-second-meetup"
 cover:
   image: "images/69826294_654821908345321_356334375484260352_n.jpg"
-  alt: "零基礎轉職澳洲工程師: 2019.09.11 一週內的第二次 Meetup"
+  alt: "轉職工程師日記: 2019.09.11 一週內的第二次 Meetup"
 images: ['images/69826294_654821908345321_356334375484260352_n.jpg']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 ---
 
 2019-09-11
