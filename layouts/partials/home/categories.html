@@ -1,0 +1,22 @@
+{{- /* Shared by the homepage's mobile intro block and desktop left rail — keep in sync. */ -}}
+{{- $categoryIcons := dict
+  "澳洲職場" "M2 12 L6 8 L9 10 L13 4 M13 4 H9.5 M13 4 V7.5"
+  "投資理財" "M2 13 V6 M6 13 V3 M10 13 V8 M13.5 13 H1.5"
+  "旅行紀錄" "M2 12 L5.5 5 L8 9 L10 6 L13 12 Z"
+  "轉職工程師日記" "M5 4 L2 7.5 L5 11 M10 4 L13 7.5 L10 11"
+  "澳洲生活" "M1.5 7.5 L7.5 2 L13.5 7.5 M3.5 6 V13 H11.5 V6 M6 9 H9 V13 H6 Z"
+}}
+<div class="home-nav-block">
+  <p class="home-nav-heading">文章分類</p>
+  <nav class="home-nav" aria-label="文章分類">
+    {{- range site.Data.categories.order }}
+    {{- $cat := . }}
+    <a href="/categories/{{ $cat | urlize }}/" class="home-nav-item">
+      {{- with index $categoryIcons $cat }}
+      <svg class="home-nav-icon" width="15" height="15" viewBox="0 0 15 15" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="{{ . }}"/></svg>
+      {{- end }}
+      <span>{{ $cat }}</span>
+    </a>
+    {{- end }}
+  </nav>
+</div>

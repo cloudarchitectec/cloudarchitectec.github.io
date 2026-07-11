@@ -167,7 +167,7 @@ class TestMobileUiSmoke:
         toggle.click()
         expect(toggle).to_have_attribute("aria-expanded", "true")
         expect(mobile_page.locator("#menu").get_by_role("link", name="搜尋")).to_be_visible()
-        expect(mobile_page.locator("#menu").get_by_role("link", name="請EC喝咖啡 ☕️")).to_be_visible()
+        expect(mobile_page.locator("#menu").get_by_role("link", name="→ 請EC喝咖啡 ☕️")).to_be_visible()
 
     def test_mobile_home_no_horizontal_overflow(self, mobile_page: Page):
         mobile_page.goto("/")

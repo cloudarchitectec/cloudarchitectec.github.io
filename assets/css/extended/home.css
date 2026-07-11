@@ -34,10 +34,24 @@ body:has(.home-shell) .header-social-icons {
   align-items: start;
 }
 
+/* Compact About + newsletter for narrow screens — see the ≤1023px query below
+   for where this is revealed and the full rail versions are hidden. */
+.home-mobile-intro {
+  display: none;
+}
+
 .home-rail {
   display: flex;
   flex-direction: column;
   gap: 22px;
+}
+
+/* Keep the rail visible alongside the (much longer) post list as the reader scrolls. */
+@media (min-width: 1024px) {
+  .home-rail-left {
+    position: sticky;
+    top: 32px;
+  }
 }
 
 /* ---- Left rail ---- */
@@ -77,12 +91,6 @@ body:has(.home-shell) .header-social-icons {
 .home-nav-icon {
   flex: none;
   stroke: var(--accent);
-}
-
-/* "全部文章" link — visible only on tablet/phone, hidden on desktop
-   (the left rail is always visible on desktop, so no link needed there) */
-.home-nav-all {
-  display: none;
 }
 
 .home-social {
@@ -134,7 +142,8 @@ body:has(.home-shell) .header-social-icons {
 }
 
 .home-about-link {
-  display: inline-block;
+  display: block;
+  width: fit-content;
   margin-top: 8px;
   font: 600 13px var(--font-sans);
   color: var(--accent);
@@ -225,12 +234,39 @@ body:has(.home-shell) .header-social-icons {
 }
 
 .home-post-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
   padding: 22px 0 24px;
   border-top: 1px solid var(--border);
 }
 
 .home-post-list {
   margin-top: 14px;
+}
+
+/* ---- Thumbnail (uniform across every row — see plan.md for why this
+   replaced an earlier lead-only / no-image treatment) ---- */
+
+.home-post-thumb {
+  flex: none;
+  width: 148px;
+  aspect-ratio: 4 / 3;
+  border-radius: var(--radius);
+  overflow: hidden;
+  background: var(--border);
+}
+
+.home-post-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.home-post-body {
+  flex: 1;
+  min-width: 0;
 }
 
 .home-post-meta {
@@ -241,7 +277,7 @@ body:has(.home-shell) .header-social-icons {
 
 .home-post-title {
   margin: 0;
-  font: 600 23px/1.5 var(--font-sans);
+  font: 600 20px/1.4 var(--font-sans);
 }
 
 .home-post-title a {
@@ -291,20 +327,38 @@ body:has(.home-shell) .footer {
   .home-shell {
     display: flex;
     flex-direction: column;
+    align-items: stretch;
     gap: 32px;
     padding: 40px 24px 24px;
+  }
+
+  /* Flex items default to a content-based min-width, so the category nav's
+     non-wrapping row (below) can force items wider than the viewport instead
+     of scrolling within its own box. Pin the whole chain to the container
+     width — .home-nav-block is the actual flex item sized by that content. */
+  .home-main,
+  .home-mobile-intro,
+  .home-rail-left,
+  .home-nav-block {
+    min-width: 0;
   }
 
   /* Articles appear first on narrow screens */
   .home-main       { order: 1; }
   .home-rail-left  { order: 2; }
 
-  /* Within the rail, category nav leads on mobile (desktop keeps 關於EC first) */
-  .home-nav-block { order: -1; }
+  /* Compact About + categories surface above the post list; the rail copies
+     hide here. The newsletter is NOT in the intro — it stays in the rail
+     (below the posts), so it sits just before the stats line on mobile. */
+  .home-mobile-intro {
+    display: block;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--border);
+  }
 
-  /* Reveal the "全部文章" link that is hidden on desktop */
-  .home-nav-all {
-    display: inline-flex;
+  .home-rail-left > .home-about,
+  .home-rail-left > .home-nav-block {
+    display: none;
   }
 
   .home-nav {
@@ -330,18 +384,15 @@ body:has(.home-shell) .footer {
     gap: 24px;
   }
 
-  .home-nav {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    white-space: nowrap;
-    padding-bottom: 4px;
+  .home-post-entry {
+    gap: 14px;
   }
 
-  .home-nav-item {
-    flex: none;
+  .home-post-thumb {
+    width: 104px;
   }
 
   .home-post-title {
-    font-size: 19px;
+    font-size: 18px;
   }
 }

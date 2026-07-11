@@ -1,0 +1,12 @@
+{{- /* Shared by the homepage's mobile intro block and desktop left rail — keep in sync. */ -}}
+<div class="home-about">
+  <div class="home-about-head">
+    <img class="home-about-avatar" src="{{ "ec-logo.png" | relURL }}" alt="{{ site.Params.homeAboutName | default site.Title }}" width="40" height="40" loading="lazy">
+    <span class="home-about-name">{{ site.Params.homeAboutName }}</span>
+  </div>
+  {{- with site.Params.homeAboutBlurb }}
+  <p class="home-about-blurb">{{ . }}</p>
+  {{- end }}
+  <a class="home-about-link" href="{{ site.Params.homeAboutLink | relLangURL }}">→ 認識 EC </a>
+  <a class="home-about-link" href="https://buy.stripe.com/6oUcN7euk0030zj4zU4Ja00" target="_blank" rel="noopener noreferrer">→ 請EC喝咖啡 ☕️</a>
+</div>
