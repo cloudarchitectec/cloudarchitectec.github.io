@@ -126,8 +126,8 @@ disablePathToLower = true
 
   [params.label]
     text = "Cloud Architect EC"
-    # Cloud line-art brand mark (re-design/README.md "Assets"). Config-only —
-    # PaperMod's header.html already supports a raw iconSVG in place of a raster icon.
+    # Cloud line-art brand mark. Config-only — PaperMod's header.html already
+    # supports a raw iconSVG in place of a raster icon.
     iconSVG = '<svg width="30" height="20" viewBox="0 0 46 30" fill="none" stroke="var(--accent)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:middle;margin-right:8px"><path d="M12 25 C6 25 3 20 5 15 C6.5 11 11 10.5 14 12 C15 6.5 20.5 3.5 26 5.5 C30 7 31.5 11 30.5 14.5 C35.5 13.5 40 16.5 40 20.5 C40 23 37.5 25 34 25 Z"/></svg>'
 
   # profile-mode

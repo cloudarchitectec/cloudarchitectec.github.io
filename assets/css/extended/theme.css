@@ -26,7 +26,11 @@
 
   /* ---- Type ---- */
   --font-sans: "Noto Sans TC", system-ui, -apple-system, "PingFang TC", sans-serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  /* "Noto Sans TC" sits right after the mono face on purpose: IBM Plex Mono has
+     no CJK glyphs, so Chinese in a mono context (dates, 分鐘閱讀, headings) falls
+     through to it and stays consistent with body text — only Latin/digits render
+     monospace (the intended "signature"). */
+  --font-mono: "IBM Plex Mono", "Noto Sans TC", ui-monospace, SFMono-Regular, Menlo, monospace;
 }
 
 .dark {

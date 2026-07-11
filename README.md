@@ -61,10 +61,13 @@ See **[TESTING.md](TESTING.md)** for the validation strategy: tier overview, flo
 All notable changes to this project will be documented in this file.
 
 --
+**2026.07.11**
+- Site re-design with Claude: homepage (2 columns), post page (1 column)
+- Updated PE series
 
 **2026.07.07**
 - Added post index
-- Fixed image og issues
+- Fixed image og issues: Set width/height/type/alt on og:image, set og:locale = zh-hant
 - Updated share button function
 - Created proper banner when sharing
 

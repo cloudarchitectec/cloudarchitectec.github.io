@@ -27,7 +27,7 @@
     {{- end }}
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta post-meta--single">
-      <span class="post-meta-read">{{ .ReadingTime }} 分鐘閱讀</span>
+      <span class="post-meta-read">閱讀時間：{{ .ReadingTime }} 分鐘</span>
       <a class="post-meta-link" href="{{ site.Home.RelPermalink }}">⬅️ 回到首頁</a>
       {{- if (ne (.Param "comments") false) }}
       <a class="post-meta-link" href="#comments">💬 跳到留言</a>
