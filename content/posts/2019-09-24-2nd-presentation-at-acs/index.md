@@ -1,6 +1,6 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.09.23-24 個人網站成果發表"
+title: "轉職工程師日記: 2019.09.23-24 個人網站成果發表"
 date: 2019-09-24
 slug: "2019-09-24-2nd-presentation-at-acs"
 cover:
@@ -11,9 +11,9 @@ cover:
     photographer_url: "https://unsplash.com/@xteemu"
     photo_url: "https://unsplash.com/photos/person-discussing-while-standing-in-front-of-a-large-screen-in-front-of-people-inside-dim-lighted-room-bzdhc5b3Bxs"
 images: ["images/bzdhc5b3Bxs-unsplash.jpg"]
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 ---
 
 2019-09-23

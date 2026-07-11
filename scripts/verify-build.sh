@@ -37,23 +37,23 @@ grep -rl "zh-TW" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
   && echo "✅ Waline zh-TW locale present in posts" \
   || (echo "❌ Waline zh-TW locale not found" && exit 1)
 
-grep -rl 'post-footer-cta' "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
-  && echo "✅ MailerLite post footer present in posts" \
-  || (echo "❌ Post footer CTA not found — check partials/post-footer.html" && exit 1)
+grep -rl 'post-nudge--subscribe' "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
+  && echo "✅ Subscribe nudge present in posts" \
+  || (echo "❌ Subscribe nudge not found — check partials/post-footer.html" && exit 1)
 
-grep -rl 'dashboard.mailerlite.com/jsonp/2459287/forms/190870271382520893/subscribe' "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
-  && echo "✅ MailerLite subscribe action present in posts" \
-  || (echo "❌ MailerLite subscribe action not found" && exit 1)
+grep -q 'dashboard.mailerlite.com/jsonp/2459287/forms/190870271382520893/subscribe' "${PUBLIC_DIR}/index.html" \
+  && echo "✅ MailerLite subscribe action present on homepage" \
+  || (echo "❌ MailerLite subscribe action not found — check partials/home/newsletter.html" && exit 1)
 
 grep -rl "related-posts" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
   && echo "✅ Related posts block present in built posts" \
   || (echo "❌ Related posts block missing — check layouts/partials/related_posts.html" && exit 1)
 
-grep -rl "我要升官加薪系列" "${PUBLIC_DIR}/posts/2025-11-14-pe-1-pe-or-not/index.html" | grep -q . \
+grep -rl "轉職工程師日記系列" "${PUBLIC_DIR}/posts/2019-08-29-how-to-position-yourself/index.html" | grep -q . \
   && echo "✅ Series nav present on episodic post" \
-  || (echo "❌ Series nav missing on PE post — check layouts/partials/series_nav.html" && exit 1)
+  || (echo "❌ Series nav missing on episodic post — check layouts/partials/series_nav.html" && exit 1)
 
-EPISODE_TERM="${PUBLIC_DIR}/episodeseries/我要升官加薪/index.html"
+EPISODE_TERM="${PUBLIC_DIR}/episodeseries/轉職工程師日記/index.html"
 [ -f "$EPISODE_TERM" ] || (echo "❌ Episode series term page missing: $EPISODE_TERM" && exit 1)
 echo "✅ Episode series taxonomy term page built"
 

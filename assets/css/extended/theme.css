@@ -1,0 +1,59 @@
+/* ============================================================================
+   Cloud Architect EC — site-wide redesign tokens (2026)
+   Source of truth: re-design/theme-tokens.css + re-design/README.md (#5a / #6a).
+   Overrides PaperMod's CSS variables. Light = warm white; Dark = warm charcoal.
+   ========================================================================== */
+
+:root {
+  /* ---- Palette (light / warm white) ---- */
+  --theme:      #fbfaf6;
+  --entry:      #ffffff;
+  --primary:    #1a1a1a;
+  --content:    #2a2a2a;
+  --secondary:  #5b5750;
+  --tertiary:   #8a857c;
+  --border:     #ece7db;
+
+  /* ---- Brand accent (single accent — teal/green) ---- */
+  --accent:      #1c6e63;
+  --accent-weak: rgba(28, 110, 99, .10);
+
+  /* ---- Layout ---- */
+  --home-width: 1040px;
+  --rail-left:  240px;
+  --home-gap:   56px;
+  --radius:     6px;
+
+  /* ---- Type ---- */
+  --font-sans: "Noto Sans TC", system-ui, -apple-system, "PingFang TC", sans-serif;
+  /* "Noto Sans TC" sits right after the mono face on purpose: IBM Plex Mono has
+     no CJK glyphs, so Chinese in a mono context (dates, 分鐘閱讀, headings) falls
+     through to it and stays consistent with body text — only Latin/digits render
+     monospace (the intended "signature"). */
+  --font-mono: "IBM Plex Mono", "Noto Sans TC", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.dark {
+  /* ---- Palette (dark / warm charcoal) ---- */
+  --theme:      #1c1a17;
+  --entry:      #24211d;
+  --primary:    #ece7dd;
+  --content:    #d9d3c7;
+  --secondary:  #a49e91;
+  --tertiary:   #736d62;
+  --border:     #34302a;
+
+  --accent:      #5cc0ac;
+  --accent-weak: rgba(92, 192, 172, .12);
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+time,
+code,
+pre,
+.mono {
+  font-family: var(--font-mono);
+}

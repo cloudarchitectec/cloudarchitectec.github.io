@@ -90,6 +90,13 @@ def resolve_target(page: Path, public_dir: Path, raw: str) -> Path | None:
     if should_skip_internal(raw):
         return None
 
+    # Strip URL fragment / query before resolving the path — browsers resolve the
+    # document by path and apply #fragment / ?query afterwards (e.g. "/#newsletter"
+    # is the home page, not a file named "#newsletter").
+    raw = raw.split("#", 1)[0].split("?", 1)[0]
+    if not raw:
+        return None
+
     public_dir = public_dir.resolve()
     page = page.resolve()
 

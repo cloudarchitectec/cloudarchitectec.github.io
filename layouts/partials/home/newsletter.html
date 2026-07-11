@@ -1,0 +1,14 @@
+{{- /* Shared by the homepage's mobile intro block and desktop left rail — keep in sync. */ -}}
+{{- if site.Params.newsletter.enabled }}
+<div class="home-newsletter" id="newsletter">
+  <p class="home-newsletter-heading">訂閱電子報</p>
+  <p class="home-newsletter-desc">新文章與 EC 的生活觀察，直達你的信箱</p>
+  <form class="home-newsletter-form"
+        action="https://dashboard.mailerlite.com/jsonp/{{ site.Params.newsletter.accountId }}/forms/{{ site.Params.newsletter.formId }}/subscribe"
+        method="post" target="_blank">
+    <input type="email" name="fields[email]" class="home-newsletter-input" placeholder="best_of_you@email.com" autocomplete="email" aria-label="email" required>
+    <input type="hidden" name="ml-submit" value="1">
+    <button type="submit" class="home-newsletter-submit">訂閱</button>
+  </form>
+</div>
+{{- end }}

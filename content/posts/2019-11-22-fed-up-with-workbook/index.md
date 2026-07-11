@@ -1,12 +1,12 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.11.22 Fed up with Workbook"
+title: "轉職工程師日記: 2019.11.22 Fed up with Workbook"
 date: 2019-11-22
 slug: "2019-11-22-fed-up-with-workbook"
 images: ['']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 draft: true
 ---
 

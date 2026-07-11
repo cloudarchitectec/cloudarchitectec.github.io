@@ -1,67 +1,80 @@
-/* Comment section — match coffee CTA, compact (~75% height) */
+/* ============================================================================
+   Comment section (Waline) — aligned to the C25 redesign design system.
+   Soft neutral card (option B): --entry surface + hairline border + --radius,
+   same container language as the post cards. Everything is driven through the
+   theme tokens (assets/css/extended/theme.css), so light/dark flip automatically
+   — no separate dark-mode block needed.
+   ========================================================================== */
+
 .comments-section {
-  background: #fef0d4;
-  border: 2px solid #c8820a;
-  border-radius: 12px;
-  padding: 16px 27px;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px 24px;
   margin: 0 0 1.125rem;
 }
 
 .comments-hint {
-  margin: 0 0 0.75rem;
-  font-size: 17px;
-  font-weight: 500;
-  color: #4a3008;
-  line-height: 1.4;
+  margin: 0 0 0.875rem;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--primary);
+  line-height: 1.5;
 }
 
-/* Waline widget — warm cream palette, scaled down */
+/* Waline widget — map its CSS variables onto our tokens (auto theme-aware) */
 #waline {
-  --waline-font-size: 17px;
-  --waline-info-font-size: 13px;
-  --waline-theme-color: #c8820a;
-  --waline-active-color: #a66d08;
-  --waline-color: #4a3008;
-  --waline-bg-color: #fffdf8;
-  --waline-bg-color-light: #fdf6e8;
-  --waline-bg-color-hover: #fceccc;
-  --waline-border-color: #e8c88a;
-  --waline-disable-bg-color: #fdf6e8;
-  --waline-disable-color: #8a6020;
-  --waline-code-bg-color: #4a3008;
-  --waline-bq-color: #fdf6e8;
-  --waline-info-bg-color: #fdf6e8;
-  --waline-info-color: #8a6020;
-  --waline-light-grey: #8a6020;
-  --waline-dark-grey: #6b4a18;
-  --waline-avatar-size: 2.5rem;
-  --waline-border: 1px solid #e8c88a;
+  --waline-font-size: 15px;
+  --waline-info-font-size: 12.5px;
+  --waline-theme-color: var(--accent);
+  --waline-active-color: var(--accent);
+  --waline-color: var(--content);
+  --waline-bg-color: var(--theme);
+  --waline-bg-color-light: var(--entry);
+  --waline-bg-color-hover: var(--accent-weak);
+  --waline-border-color: var(--border);
+  --waline-disable-bg-color: var(--theme);
+  --waline-disable-color: var(--tertiary);
+  --waline-code-bg-color: var(--accent-weak);
+  --waline-bq-color: var(--secondary);
+  --waline-info-bg-color: var(--theme);
+  --waline-info-color: var(--tertiary);
+  --waline-light-grey: var(--tertiary);
+  --waline-dark-grey: var(--secondary);
+  --waline-avatar-size: 2.4rem;
+  --waline-border: 1px solid var(--border);
   --waline-box-shadow: none;
 }
 
 #waline .wl-panel {
-  background: #fffdf8;
-  border-color: #e8c88a;
-  border-radius: 9px;
+  background: var(--theme);
+  border-color: var(--border);
+  border-radius: var(--radius);
   margin: 0.35em;
 }
 
+#waline .wl-header {
+  border-bottom-color: var(--border);
+}
+
 #waline .wl-header label {
-  padding: 0.5em 0.35em;
-  font-size: 17px;
-  font-weight: 500;
+  padding: 0.5em 0.4em;
+  font-size: 14px;
+  color: var(--secondary);
 }
 
 #waline .wl-header input {
   padding: 0.35em;
-  font-size: 17px;
+  font-size: 14px;
+  color: var(--primary);
 }
 
 #waline .wl-editor {
-  min-height: 6.5em;
+  min-height: 6em;
   margin: 0.5em 0.4em;
-  font-size: 17px;
-  line-height: 1.4;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--primary);
 }
 
 #waline .wl-footer {
@@ -69,23 +82,28 @@
 }
 
 #waline .wl-btn {
-  padding: 0.4em 0.75em;
-  font-size: 17px;
+  padding: 0.4em 0.9em;
+  font-size: 14px;
   font-weight: 500;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 #waline .wl-btn.primary {
-  border-color: #4a3008;
-  background: #4a3008;
-  color: #fef0d4;
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fff;
+  transition: opacity 0.15s ease;
+}
+
+.dark #waline .wl-btn.primary {
+  color: #12110f;
 }
 
 #waline .wl-btn.primary:hover,
 #waline .wl-btn.primary:active {
-  border-color: #3a2406;
-  background: #3a2406;
-  color: #fef0d4;
+  border-color: var(--accent);
+  background: var(--accent);
+  opacity: 0.88;
 }
 
 #waline .wl-comment {
@@ -93,49 +111,42 @@
 }
 
 #waline .wl-count {
-  font-size: 17px;
-  font-weight: 500;
-  line-height: 1.4;
-  color: #4a3008;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--primary);
 }
 
 #waline .wl-empty {
   padding: 0.85em;
-  font-size: 17px;
+  font-size: 14px;
   font-weight: 500;
-  line-height: 1.4;
-}
-
-#waline .wl-header {
-  border-bottom-color: #e8c88a;
+  line-height: 1.5;
+  color: var(--secondary);
 }
 
 #waline .wl-meta-head {
   padding: 0.25em 0;
-}
-
-#waline .wl-meta-head,
-#waline .wl-empty {
-  color: #4a3008;
+  color: var(--secondary);
 }
 
 #waline .wl-sort li {
-  color: #4a3008;
-  font-size: 17px;
-  font-weight: 500;
-  line-height: 1.4;
+  color: var(--secondary);
+  font-size: 13px;
+  line-height: 1.5;
 }
 
 #waline .wl-sort li.active {
-  color: #4a3008;
+  color: var(--accent);
   font-weight: 500;
 }
 
 #waline .wl-info .wl-text-number {
-  font-size: 13px;
-  color: #8a6020;
+  font-size: 12.5px;
+  color: var(--tertiary);
 }
 
+/* Hide markdown-help, preview and image-upload actions */
 #waline a.wl-action[href*="mastering-markdown"] {
   display: none !important;
 }
@@ -150,35 +161,8 @@
   display: none !important;
 }
 
-/* Keep cream styling in dark mode — same as coffee CTA */
-body.dark .comments-section {
-  background: #fef0d4;
-  border-color: #c8820a;
-}
-
-body.dark .comments-hint {
-  color: #4a3008;
-}
-
-body.dark #waline {
-  --waline-theme-color: #c8820a;
-  --waline-active-color: #a66d08;
-  --waline-color: #4a3008;
-  --waline-bg-color: #fffdf8;
-  --waline-bg-color-light: #fdf6e8;
-  --waline-bg-color-hover: #fceccc;
-  --waline-border-color: #e8c88a;
-  --waline-white: #fffdf8;
-  --waline-light-grey: #8a6020;
-  --waline-dark-grey: #6b4a18;
-}
-
-body.dark #waline .wl-panel {
-  background: #fffdf8;
-}
-
 @media screen and (max-width: 768px) {
   .comments-section {
-    padding: 14px 16px;
+    padding: 16px 16px;
   }
 }

@@ -15,7 +15,10 @@ PAGINATED_TAG_PAGE = "/tags/旅遊/page/2/"
 CATEGORY_PAGE = "/categories/旅行紀錄/"
 STABLE_POST = "/posts/2025-10-04-goodbye-medium/"
 RELATED_POST = "/posts/2026-06-17-retirement-plan/"
-PE_POST = "/posts/2025-11-14-pe-1-pe-or-not/"
+# A short (≤5-post) series that renders the full series-nav list. Previously the
+# PE series; that was consolidated to 2 posts and de-serialised (2026-07-11), so this
+# points at the stable 4-part 斐濟旅記 travel series instead.
+SERIES_POST_SHORT = "/posts/2024-01-30-fiji-day-1/"
 CV_PAGE_CAREER_ZH = "/portfolio/career-zh/"
 CV_PAGE_CAREER_EN = "/portfolio/career-en/"
 CV_PAGE_STORY = "/portfolio/story/"
@@ -60,23 +63,26 @@ class TestUiSmoke:
         )
 
     def test_stable_post_footer(self, page: Page):
+        # C25 redesign: the amber MailerLite card was replaced by two quiet one-line
+        # nudges (subscribe → home #newsletter, coffee → Stripe), with comments last.
         page.goto(STABLE_POST)
         expect(page.locator("h1.post-title")).to_be_visible()
-        expect(page.locator(".post-footer-cta")).to_be_visible()
-        expect(page.get_by_text("訂閱 EC 部落格")).to_be_visible()
+        expect(page.locator(".post-nudges")).to_be_visible()
+        expect(page.get_by_role("link", name="訂閱電子報 📮")).to_be_visible()
+        expect(page.locator(".post-nudge--coffee a")).to_be_visible()
 
     def test_related_posts_on_investment_post(self, page: Page):
         page.goto(RELATED_POST)
         related = page.locator(".related-posts")
         expect(related).to_be_visible()
-        expect(related.locator(".related-posts-heading")).to_have_text("延伸閱讀")
+        expect(related.locator(".related-posts-heading")).to_have_text("你可能也喜歡")
         assert related.locator(".related-posts-list a").count() >= 1
 
-    def test_series_nav_on_pe_post(self, page: Page):
-        page.goto(PE_POST)
+    def test_series_nav_short_series_full_list(self, page: Page):
+        page.goto(SERIES_POST_SHORT)
         nav = page.locator(".series-nav")
         expect(nav).to_be_visible()
-        expect(nav.locator(".series-nav-heading")).to_have_text("我要升官加薪系列")
+        expect(nav.locator(".series-nav-heading")).to_have_text("斐濟旅記系列")
         assert nav.locator(".series-nav-list li").count() == 4
 
     def test_series_nav_recent_on_long_series(self, page: Page):
@@ -167,7 +173,10 @@ class TestMobileUiSmoke:
         toggle.click()
         expect(toggle).to_have_attribute("aria-expanded", "true")
         expect(mobile_page.locator("#menu").get_by_role("link", name="搜尋")).to_be_visible()
-        expect(mobile_page.locator("#menu").get_by_role("link", name="請EC喝咖啡 ☕️")).to_be_visible()
+        # Coffee CTA moved out of the header nav into the homepage About block (2026-07-11).
+        expect(
+            mobile_page.locator(".home-mobile-intro").get_by_role("link", name="→ 請EC喝咖啡 ☕️")
+        ).to_be_visible()
 
     def test_mobile_home_no_horizontal_overflow(self, mobile_page: Page):
         mobile_page.goto("/")
@@ -177,14 +186,13 @@ class TestMobileUiSmoke:
         mobile_page.goto(STABLE_POST)
         assert_no_horizontal_overflow(mobile_page)
 
-    def test_mobile_mailerlite_footer_fits_viewport(self, mobile_page: Page):
+    def test_mobile_post_footer_nudges_fit_viewport(self, mobile_page: Page):
+        # C25 redesign: MailerLite footer form replaced by form-less nudge links.
         mobile_page.goto(STABLE_POST)
-        expect(mobile_page.locator(".post-footer-cta-form input.form-control")).to_be_visible()
-        expect(mobile_page.locator(".post-footer-cta-form button.primary")).to_be_visible()
-        expect(mobile_page.locator(".post-footer-cta-coffee-btn")).to_be_visible()
-        assert_element_fits_viewport(mobile_page, ".post-footer-cta-form input.form-control")
-        assert_element_fits_viewport(mobile_page, ".post-footer-cta-form button.primary")
-        assert_element_fits_viewport(mobile_page, ".post-footer-cta-coffee-btn")
+        expect(mobile_page.locator(".post-nudges")).to_be_visible()
+        expect(mobile_page.locator(".post-nudge--coffee a")).to_be_visible()
+        assert_element_fits_viewport(mobile_page, ".post-nudges")
+        assert_no_horizontal_overflow(mobile_page)
 
     def test_mobile_waline_wrapper_visible(self, mobile_page: Page):
         mobile_page.goto(STABLE_POST)

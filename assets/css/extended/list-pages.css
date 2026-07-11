@@ -1,0 +1,166 @@
+/* ============================================================================
+   C25 redesign — secondary pages aligned to the home/post design language.
+   Token-alignment only; reuses existing patterns (mono meta, hairline dividers,
+   accent links, the post-footer mono tag pill). Covers:
+     · /tags/   (PaperMod terms.html → .page-header + .terms-tags)
+     · /search/ (search.html → #searchbox / #searchResults)
+     · /posts/2018-01-02-ec-post-list/ (categorized-posts shortcode → .cat-posts)
+   ========================================================================== */
+
+/* ---- Shared page header (tags, search) — match the post title, not PaperMod's 40px ---- */
+.page-header h1 {
+  font-size: 31px;
+  line-height: 1.42;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--primary);
+}
+
+/* ---- Tag index (/tags/) — reuse the post-footer mono pill ---- */
+.terms-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 0;
+  list-style: none;
+}
+
+.terms-tags li {
+  margin: 0;
+}
+
+.terms-tags a {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 5px;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--secondary);
+  background: rgba(0, 0, 0, 0.04);
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 100px;
+  padding: 6px 14px;
+  text-decoration: none;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+
+.dark .terms-tags a {
+  background: rgba(255, 255, 255, 0.05);
+  border-color: rgba(255, 255, 255, 0.14);
+}
+
+.terms-tags a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-weak);
+}
+
+.terms-tags a sup {
+  font-family: var(--font-mono);
+  color: var(--tertiary);
+  font-weight: 400;
+}
+
+/* ---- Search (/search/) ---- */
+#searchbox {
+  max-width: 640px;
+}
+
+#searchInput {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  font: 15px var(--font-sans);
+  background: var(--theme);
+  color: var(--primary);
+  transition: border-color 0.15s;
+}
+
+#searchInput::placeholder {
+  color: var(--tertiary);
+}
+
+#searchInput:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+#searchResults {
+  margin: 22px 0 0;
+  padding: 0;
+  list-style: none;
+  max-width: 640px;
+}
+
+#searchResults li {
+  border-top: 1px solid var(--border);
+}
+
+#searchResults li a {
+  display: block;
+  padding: 14px 2px;
+  color: var(--primary);
+  line-height: 1.6;
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+#searchResults li a:hover {
+  color: var(--accent);
+}
+
+/* ---- 文章列表 (categorized-posts shortcode body) — quiet editorial list ---- */
+.cat-posts {
+  max-width: 680px;
+}
+
+.cat-posts h3 {
+  margin: 0;
+  padding: 26px 0 14px;
+  border-top: 1px solid var(--border);
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.cat-posts h3:first-child {
+  border-top: none;
+  padding-top: 4px;
+}
+
+.cat-posts h3 a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.cat-posts h3 a:hover {
+  color: var(--accent);
+}
+
+.cat-posts ul {
+  margin: 0 0 8px;
+  padding: 0 0 0 1.35rem;
+  list-style: disc;
+}
+
+.cat-posts li {
+  margin: 0.3rem 0;
+  line-height: 1.9;
+  display: list-item;
+}
+
+.cat-posts li::marker {
+  color: var(--tertiary);
+}
+
+.cat-posts li a {
+  color: var(--secondary);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.cat-posts li a:hover {
+  color: var(--accent);
+}

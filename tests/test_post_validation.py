@@ -154,7 +154,7 @@ class TestFrontmatterCheck:
         assert frontmatter_check.check(text, "test-slug") == []
 
     def test_allowed_categories_include_bootcamp_series(self):
-        assert "零基礎轉職澳洲工程師" in frontmatter_check.ALLOWED_CATEGORIES
+        assert "轉職工程師日記" in frontmatter_check.ALLOWED_CATEGORIES
 
 
 class TestCheckPostsGitPaths:

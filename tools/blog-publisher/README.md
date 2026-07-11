@@ -83,7 +83,7 @@ Display order on the post-list page:
 - 投資理財
 - 旅行紀錄
 - 澳洲生活
-- 零基礎轉職澳洲工程師
+- 轉職工程師日記
 
 Meta only (not shown on post-list):
 

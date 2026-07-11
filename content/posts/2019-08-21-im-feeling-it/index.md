@@ -1,6 +1,6 @@
 ---
 
-title: "零基礎轉職澳洲工程師: 2019.08.21 好像有感覺了？"
+title: "轉職工程師日記: 2019.08.21 好像有感覺了？"
 date: 2019-08-21
 slug: "2019-08-21-im-feeling-it"
 cover:
@@ -11,9 +11,9 @@ cover:
     photographer_url: "https://unsplash.com/@ttcollect"
     photo_url: "https://unsplash.com"
 images: ['images/medium-0*BSj9yl-OTGs5uKYD.jpg', 'images/medium-1*7a1x7n2BZAQeg_gBhC4KfQ.jpg', 'images/medium-1*EK-BV5tt74fIsFBNXx8H6w.jpg', 'images/medium-1*rfFRUsSLioLKW7Je957Rvw.jpg', 'images/medium-1*_SCp5ZN1j1qxdBtGuQueoQ.jpg', 'images/medium-1*XgWjsWSwsIsIJ0IUQAYwwg.jpg', 'images/medium-1*7EQG-I-GJB0mHfammLy-7Q.jpg']
-categories: ["零基礎轉職澳洲工程師"]
+categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]
-episodeseries: ["零基礎轉職澳洲工程師"]
+episodeseries: ["轉職工程師日記"]
 ---
 
 今天真心是上課超級好玩的一天!!!!!!!!!!!!!!!!

@@ -32,6 +32,7 @@ Usage: {{< categorized-posts >}}
 {{ end }}
 
 {{/* Display posts by category; skip meta "EC" category */}}
+<div class="cat-posts">
 {{ range $ordered }}
   {{ $category := . }}
   {{- if eq $category "EC" }}{{ continue }}{{ end -}}
@@ -47,3 +48,4 @@ Usage: {{< categorized-posts >}}
 
   {{ end }}
 {{ end }}
+</div>

@@ -1,0 +1,95 @@
+/* ============================================================================
+   C25 redesign — article single page (1A, single-column editorial).
+   Structural chrome only; colours/fonts come from theme.css tokens.
+   Decisions: .claude/plans/claude-plan.md § C25.
+   ========================================================================== */
+
+/* ---- Header: eyebrow (date) → title → description → meta ---- */
+.post-single .post-eyebrow {
+  margin: 0.9rem 0 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  letter-spacing: 0.03em;
+  color: var(--secondary);
+}
+
+.post-single .post-title {
+  font-size: 31px;
+  line-height: 1.42;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--primary);
+  margin: 0 0 0.6rem;
+}
+
+.post-single .post-description {
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--secondary);
+  margin: 0 0 0.8rem;
+}
+
+.post-single .post-meta--single {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  color: var(--tertiary);
+}
+
+.post-single .post-meta--single .post-meta-link {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.post-single .post-meta--single .post-meta-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* ---- Body: gentle editorial touches (base type stays from theme) ---- */
+.post-single .post-content blockquote {
+  border-inline-start: 3px solid var(--accent);
+  color: var(--secondary);
+}
+
+/* ---- Footer: tags + centred share ---- */
+.post-single .post-share {
+  display: flex;
+  justify-content: center;
+  margin: 1.4rem 0 0;
+}
+
+/* ---- Restyle PaperMod's built-in scroll-to-top to tokens ---- */
+.top-link {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  color: var(--secondary);
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.top-link svg {
+  fill: currentColor;
+}
+
+.top-link:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ---- Mobile ---- */
+@media screen and (max-width: 768px) {
+  .post-single .post-title {
+    font-size: 25px;
+    line-height: 1.45;
+  }
+
+  .post-single .post-description {
+    font-size: 15.5px;
+  }
+}
