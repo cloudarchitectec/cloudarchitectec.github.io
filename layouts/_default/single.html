@@ -1,8 +1,15 @@
 {{- define "main" }}
 
+{{- /* C25 redesign — single-column editorial article (1A). Decisions in
+       .claude/plans/claude-plan.md § C25. No TOC, no prev/next; comments last. */ -}}
 <article class="post-single">
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
+    {{- if not .Date.IsZero }}
+    <p class="post-eyebrow">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format (default ":date_long" site.Params.DateFormat) }}</time>
+    </p>
+    {{- end }}
     <h1 class="post-title entry-hint-parent">
       {{ .Title }}
       {{- if .Draft }}
@@ -20,25 +27,17 @@
     </div>
     {{- end }}
     {{- if not (.Param "hideMeta") }}
-    <div class="post-meta">
-      {{- partial "post_meta.html" . -}}
-      {{- partial "translation_list.html" . -}}
-      {{- partial "edit_post.html" . -}}
-      {{- partial "post_canonical.html" . -}}
+    <div class="post-meta post-meta--single">
+      <span class="post-meta-read">{{ .ReadingTime }} 分鐘閱讀</span>
+      {{- if (ne (.Param "comments") false) }}
+      <a class="post-meta-jump" href="#comments">💬 跳到留言</a>
+      {{- end }}
     </div>
     {{- end }}
-    {{- if not (.Param "hideViews") }}
-    {{- partial "post_views.html" . -}}
-    {{- end }}
   </header>
+
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
-  {{- if (.Param "ShowToc") }}
-  {{- partial "toc.html" . }}
-  {{- end }}
-
-  {{- partial "share_buttons.html" . }}
-  {{- partial "share_buttons_assets.html" . }}
 
   {{- partial "series_nav.html" . }}
 
@@ -57,8 +56,14 @@
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
-    {{- if (.Param "ShowPostNavLinks") }}
-    {{- partial "post_nav_links.html" . }}
+    {{- /* Share always shown in the footer (C25); per-post opt-out via `disableShare`.
+           Not gated on site ShowShareButtons — that key is currently unreachable due to
+           the hugo.toml [params.schema] nesting bug (see plan § C25 follow-up). */ -}}
+    {{- if (ne (.Param "disableShare") true) }}
+    <div class="post-share">
+      {{- partial "share_buttons.html" . }}
+      {{- partial "share_buttons_assets.html" . }}
+    </div>
     {{- end }}
   </footer>
 
@@ -66,14 +71,10 @@
 
   {{- partial "post-footer.html" . }}
 
-  {{- partial "comments.html" . }}
-  
-  {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-  <div style="margin-top: 2rem;">
-    {{- partial "social_icons.html" . -}}
+  <div id="comments">
+    {{- partial "comments.html" . }}
   </div>
-  {{- end }}
-  
+
 </article>
 
 {{- end }}{{/* end main */}}

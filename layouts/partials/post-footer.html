@@ -1,78 +1,14 @@
-{{/* Post footer CTAs: subscribe + coffee. Included from layouts/_default/single.html (after tags). */}}
-<section class="post-footer-cta">
-  <div class="post-footer-cta-card">
-    {{- if .Site.Params.newsletter.enabled }}
-    <div id="mlb2-{{ .Site.Params.newsletter.embedId }}"
-         class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-{{ .Site.Params.newsletter.embedId }}">
-      <div class="ml-form-embedWrapper embedForm">
-        <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-          <div class="ml-form-embedContent post-footer-cta-heading">
-            <h4>訂閱 EC 部落格</h4>
-            <p>隨時收到最新文章通知～</p>
-          </div>
-          <form class="ml-block-form post-footer-cta-form"
-                action="https://dashboard.mailerlite.com/jsonp/{{ .Site.Params.newsletter.accountId }}/forms/{{ .Site.Params.newsletter.formId }}/subscribe"
-                method="post" target="_blank">
-            <div class="ml-form-formContent">
-              <div class="ml-form-fieldRow ml-last-item">
-                <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
-                  <input aria-label="email" aria-required="true" type="email" class="form-control"
-                         name="fields[email]" placeholder="請輸入 Email..." autocomplete="email" required>
-                </div>
-              </div>
-            </div>
-            <input type="hidden" name="ml-submit" value="1">
-            <div class="ml-form-embedSubmit">
-              <button type="submit" class="primary">免費訂閱</button>
-              <button disabled style="display: none;" type="button" class="loading">
-                <div class="ml-form-embedSubmitLoad"></div>
-                <span class="sr-only">Loading...</span>
-              </button>
-            </div>
-            <input type="hidden" name="anticsrf" value="true">
-          </form>
-        </div>
-        <div class="ml-form-successBody row-success" style="display: none">
-          <div class="ml-form-successContent post-footer-cta-success">
-            <h4>訂閱成功！</h4>
-            <p>感謝訂閱，期待在你的信箱見面 😊</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <script>
-    (function (id) {
-      window['ml_webform_success_' + id] = function () {
-        var $ = ml_jQuery || jQuery;
-        $('.ml-subscribe-form-' + id + ' .row-success').show();
-        $('.ml-subscribe-form-' + id + ' .row-form').hide();
-      };
-    })('{{ .Site.Params.newsletter.embedId }}');
-    </script>
-    <script src="https://groot.mailerlite.com/js/w/webforms.min.js?v83147fa8ce2d95cb73ece7f28b469519" defer></script>
-    {{- end }}
-    <div class="post-footer-cta-coffee{{ if .Site.Params.newsletter.enabled }} post-footer-cta-coffee--divider{{ end }}">
-      <a class="post-footer-cta-coffee-btn" href="https://buy.stripe.com/6oUcN7euk0030zj4zU4Ja00" target="_blank" rel="noopener noreferrer">
-        如果這篇文章對你有幫助，請 EC 喝杯咖啡吧 ☕
-      </a>
-    </div>
-  </div>
-</section>
-
-
-<!-- <div> Legacy Code: keep for reference. Do not remove.
-  {{ partial "share_buttons.html" .Page }}
-  <hr style="border: none; margin: 2rem 0;">
-<p>👉 <strong>需要職涯導師嗎？澳洲雲端架構師 EC 提供轉職工程師、澳洲求職、移民生活等全方位諮詢服務。想進一步了解諮詢細節，請點擊</strong> <a href="/consultation/"><strong>&lt;&lt;澳洲雲端架構師 EC 線上職涯諮詢&gt;&gt;</strong></a><strong>，開啟你的職涯新篇章!</strong></p>
-
-<p><strong>📱 想追蹤更多？</strong></p>
-
-<ul>
-  <li>📘 Facebook 粉專：<a href="https://www.facebook.com/cloudarchitectec">澳洲雲端架構師 EC</a></li>
-  <li>🧵 Threads：<a href="https://www.threads.com/@cloud_architect_ec">Cloud Architect EC</a></li>
-  <li>☕️ 想要進一步支持 EC，贊助 EC <a href="https://buy.stripe.com/6oUcN7euk0030zj4zU4Ja00">一杯咖啡吧！</a></li>
-  <li>📩 合作信箱：<a href="mailto:cloudarchitectec@gmail.com">cloudarchitectec@gmail.com</a></li>
-  <li>🚀 想第一時間閱讀 EC 的最新文章？只要留下 Email，就能收到最新通知～</li>
-</ul> -->
-<!-- </div> -->
+{{/* C25 redesign — quiet post-footer nudges (subscribe + coffee), no card.
+     Homepage owns the full newsletter form; articles get comments instead, so
+     subscribe survives here only as a one-line, form-less link. Order in
+     single.html: tags → share → 你可能也喜歡 → these nudges → comments. */}}
+<div class="post-nudges">
+  {{- if .Site.Params.newsletter.enabled }}
+  <p class="post-nudge post-nudge--subscribe">
+    喜歡這篇？<a href="{{ "/" | relLangURL }}#newsletter">訂閱電子報 →</a>
+  </p>
+  {{- end }}
+  <p class="post-nudge post-nudge--coffee">
+    <a href="https://buy.stripe.com/6oUcN7euk0030zj4zU4Ja00" target="_blank" rel="noopener noreferrer">☕ 覺得有幫助？請 EC 喝杯咖啡 →</a>
+  </p>
+</div>

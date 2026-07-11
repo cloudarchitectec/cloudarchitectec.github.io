@@ -6,8 +6,8 @@
   {{- $pool = where $pool "Permalink" "ne" .Permalink -}}
   {{- $related := first 3 ($pool.ByDate.Reverse) -}}
   {{- if gt (len $related) 0 -}}
-<nav class="related-posts" aria-label="延伸閱讀">
-  <h2 class="related-posts-heading">延伸閱讀</h2>
+<nav class="related-posts" aria-label="你可能也喜歡">
+  <h2 class="related-posts-heading">你可能也喜歡</h2>
   <ul class="related-posts-list">
     {{- range $related }}
     <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
