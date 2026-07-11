@@ -68,7 +68,7 @@ class TestUiSmoke:
         page.goto(STABLE_POST)
         expect(page.locator("h1.post-title")).to_be_visible()
         expect(page.locator(".post-nudges")).to_be_visible()
-        expect(page.get_by_role("link", name="訂閱電子報 →")).to_be_visible()
+        expect(page.get_by_role("link", name="訂閱電子報 📮")).to_be_visible()
         expect(page.locator(".post-nudge--coffee a")).to_be_visible()
 
     def test_related_posts_on_investment_post(self, page: Page):

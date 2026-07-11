@@ -1,3 +1,11 @@
+/* Main nav links styled to match the homepage About name — accent, semibold,
+   16px (EC request). Applies on desktop and inside the mobile panel. */
+#menu a {
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 16px;
+}
+
 /* Mobile main nav — hamburger toggle + vertical panel (desktop unchanged) */
 
 .menu-toggle {

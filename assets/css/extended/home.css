@@ -277,10 +277,13 @@ body:has(.home-shell) .header-social-icons {
 
 .home-post-title {
   margin: 0;
-  font: 600 20px/1.4 var(--font-sans);
+  font: 600 22px/1.4 var(--font-sans);
 }
 
 .home-post-title a {
+  /* The title is <a class="post-title">, which otherwise inherits PaperMod core
+     `.post-title{font-size:40px}` — pin it to the wrapper's size instead. */
+  font-size: inherit;
   color: var(--primary);
   text-decoration: none;
   transition: color 150ms ease;

@@ -51,7 +51,7 @@ disablePathToLower = true
 
   # Homepage redesign copy (layouts/index.html) — edit here, not in templates
   homeAboutName = "澳洲雲端架構師 EC"
-  homeAboutBlurb = "曾任 Amazon 與微軟雲端架構師，現為資深 DevOps 工程師。分享轉職工程師、澳洲職場與 FIRE 理財的實戰經驗。"
+  homeAboutBlurb = "曾任 Amazon 與微軟雲端架構師，現為資深 DevOps 工程師。分享轉職工程師、澳洲職場與 FIRE 理財規劃的系統性攻略。"
   homeAboutLink = "/portfolio/career-zh/"
   homePostListUrl = "/posts/2018-01-02-ec-post-list"
   homePostCount = 6
@@ -197,7 +197,7 @@ disablePathToLower = true
       url = "/search"
       weight = 60
     # "→ 請EC喝咖啡 ☕️" moved out of the header (2026-07-11): now a CTA under the
-    # homepage About block (→ 認識 EC  / 請EC喝咖啡), see partials/home/about.html.
+    # homepage About block (→ 認識 EC ☁️  / 請EC喝咖啡), see partials/home/about.html.
 
 [markup]
   [markup.highlight]

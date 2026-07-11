@@ -4,7 +4,6 @@
        .claude/plans/claude-plan.md § C25. No TOC, no prev/next; comments last. */ -}}
 <article class="post-single">
   <header class="post-header">
-    {{ partial "breadcrumbs.html" . }}
     {{- if not .Date.IsZero }}
     <p class="post-eyebrow">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format (default ":date_long" site.Params.DateFormat) }}</time>
@@ -29,8 +28,9 @@
     {{- if not (.Param "hideMeta") }}
     <div class="post-meta post-meta--single">
       <span class="post-meta-read">{{ .ReadingTime }} 分鐘閱讀</span>
+      <a class="post-meta-link" href="{{ site.Home.RelPermalink }}">⬅️ 回到首頁</a>
       {{- if (ne (.Param "comments") false) }}
-      <a class="post-meta-jump" href="#comments">💬 跳到留言</a>
+      <a class="post-meta-link" href="#comments">💬 跳到留言</a>
       {{- end }}
     </div>
     {{- end }}

@@ -33,11 +33,3 @@
 .post-nudge a:hover {
   text-decoration: underline;
 }
-
-.post-nudge--coffee a {
-  color: var(--secondary);
-}
-
-.post-nudge--coffee a:hover {
-  color: var(--accent);
-}

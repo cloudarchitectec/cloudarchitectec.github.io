@@ -39,12 +39,12 @@
   color: var(--tertiary);
 }
 
-.post-single .post-meta--single .post-meta-jump {
+.post-single .post-meta--single .post-meta-link {
   color: var(--accent);
   text-decoration: none;
 }
 
-.post-single .post-meta--single .post-meta-jump:hover {
+.post-single .post-meta--single .post-meta-link:hover {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
