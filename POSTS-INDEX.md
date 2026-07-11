@@ -4,10 +4,11 @@
 >
 > Purpose: locate a post by title / section / tags / summary from this one file instead of scanning `content/posts/`. Open the folder in the last column to read or edit the post.
 
-**162 published posts** (newest first).
+**163 published posts** (newest first).
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-11 | 布里斯本生活成本全解析（2026）：一個從沒上榜過的澳洲宜居城市？ | 旅行紀錄 | 布里斯本, 澳洲, 生活成本 | 身為一個生活在澳洲超過十年的台灣人，這幾年我最常被問的問題之一，不是「你在 AWS 做什麼」，也不是「轉去 DevOps… | content/posts/2026-07-11-brisbane-living-cost-2026 |
 | 2026-07-04 | AI 沒有取代工程師，但正在重新定義什麼叫做「好的工程師」 | 澳洲職場 | AI, 軟實力, 軟體工程師, GitHub Copilot | 我們公司使用 Microsoft Copilot 已經一陣子了(很難用，不要問🤣)，前陣子更是全面導入企業版 GitHu… | content/posts/2026-07-04-soft-skills-in-ai-era |
 | 2026-06-27 | 澳洲的中產階級，到底還買不買得起房？ | 投資理財 | 澳洲生活, 理財, 房地產 | 最近因為澳洲 CGT（Capital Gains Tax，資產增值稅）大改革，房價漲勢終於開始趨於平緩（之前布里斯本真的… | content/posts/2026-06-27-australia-housing-affordability |
 | 2026-06-17 | 好想要退休！退休前的最後一堂課：比 FIRE 數字更重要的，其實是這件事 | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 退休規劃 | 說到退休，我以前覺得那是一個很遙遠的詞，好像也不需要特別規劃，等時候到了就會自然發生？ | content/posts/2026-06-17-retirement-plan |
