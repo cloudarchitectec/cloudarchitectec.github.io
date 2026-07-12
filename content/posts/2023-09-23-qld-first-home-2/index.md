@@ -18,10 +18,7 @@ episodeseries: ["QLD 首購房"]
 
 這個系列要來跟大家分享在澳洲第一次買房有哪些政府福利措施可利用!
 
-如果你想要利用「置業擔保計劃 (Home Guarantee Scheme)」讓澳洲政府擔任你的房貸擔保人，使用房價 2% 或 5% 的頭期款買下你在澳洲的第一套自住房，請參考第一集:
-
-[**澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme**  
- _這篇文章是我整理 2023 澳洲首次置業擔保計畫（Home Guarantee Scheme）的實用懶人包，帶你一次搞懂申請資格、房價門檻、自備款比例等重點。只要準備 2% 或 5%…](/posts/2023-09-23-qld-first-home-1/)[](/posts/2023-09-23-qld-first-home-1/)
+如果你想要利用「置業擔保計劃 (Home Guarantee Scheme)」讓澳洲政府擔任你的房貸擔保人，使用房價 2% 或 5% 的頭期款買下你在澳洲的第一套自住房，請參考第一集:[**澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme**](/posts/2023-09-23-qld-first-home-1/)
 
 按照慣例，在文章開始前必須來個免責聲明XD
 
@@ -97,11 +94,12 @@ episodeseries: ["QLD 首購房"]
 ### 居住規定
 
   * 房子過戶後的一年內申請人必須要入住你的自住房，並且在裡面連續居住至少六個月。
-  * 在這六個月當中，你可以把你家的其中一間房或是多間房出租。但是這樣做的話，雖然不至於影響你的昆州首次置業補助金 (First Home Owner Grant)，但有可能會影響你獲得「首套住房印花税減免 (」[**first home concession**](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)) 或 [first home vacant land concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home-vacant-land/) 的權利。(這個系列的第三集我們會來講首套住房印花税減免)。所以如果你想要利用首次購房的機會，一次把政府的相關福利措施拿好拿滿的話，需要注意一下這點。
+  * 在這六個月當中，你可以把你家的其中一間房或是多間房出租。但是這樣做的話，雖然不至於影響你的昆州首次置業補助金 (First Home Owner Grant)，但有可能會影響你獲得「首套住房印花税減免 (」[**first home concession**](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)) 或 [first home vacant land concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home-vacant-land/) 的權利。
+  * 這個系列的第三集我們會來講首套住房印花税減免。所以如果你想要利用首次購房的機會，一次把政府的相關福利措施拿好拿滿的話，不要錯過這篇：[**澳洲首次置業指南-昆士蘭篇III：印花稅減免怎麼算？QLD First Home Concession 節稅懶人包**](/posts/2023-09-23-qld-first-home-3/)
 
 
 
-[**澳洲首次置業指南-昆士蘭篇III：印花稅減免怎麼算？QLD First Home Concession 節稅懶人包**](/posts/2023-09-23-qld-first-home-3/)
+
 
 ### 結語
 

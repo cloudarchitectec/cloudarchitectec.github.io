@@ -41,9 +41,6 @@ episodeseries: ["斐濟旅記"]
 
 出發前我看了很多斐濟遊記，大家都說下了飛機後會有人唱歌迎接你，結果居然是真的！！！不過我抵達的時候，杯杯們唱了 20 秒之後就結束了，感覺非常想下班XD
 
-[**2022.10.10 Welcome Song at Nadi Airpot, Fiji**  
- _Edit description_ youtube.com](https://youtube.com/shorts/yZrkjGdhYps?feature=share)[](https://youtube.com/shorts/yZrkjGdhYps?feature=share)
-
 出了 Nadi 機場之後，就看到外面有一些工作人員跟接駁車 (機場其實不大，很迷你)。
 
 ![斐濟機場穿著時髦制服的警察](images/medium-0*xmZJL-rxSSvzti2d.jpg)
@@ -62,9 +59,6 @@ episodeseries: ["斐濟旅記"]
 
 在斐濟本島的住宿，我不小心訂了一個可以住四個人的 one bedroom villa lol  
 我不知道訂房當下我在想什麼……這樣一晚要 $300，而且 villa 感覺好舊，好像我屏東阿嬤家XDD
-
-[** _2022.10.10 One-bedroom Villa at Tokatoka Hotel, Nadi, Fiji_**  
-2022.10.10 One-bedroom Villa at Tokatoka Hotel, Nadi, Fijiwww.youtube.com](https://www.youtube.com/shorts/LgX_9y2XPCc)[](https://www.youtube.com/shorts/LgX_9y2XPCc)
 
 ### 巧遇斐濟國慶日
 
