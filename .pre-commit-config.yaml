@@ -7,6 +7,14 @@ repos:
         language: system
         files: ^content/posts/
         pass_filenames: false
+      - id: posts-index-fresh
+        name: POSTS-INDEX.md is current
+        entry: bash -c 'source scripts/ensure-venv.sh && "$VENV_PYTHON" scripts/gen-posts-index.py --check'
+        language: system
+        # always_run (not files:) so a delete-only post commit is also caught —
+        # pre-commit skips hooks whose files: matches nothing on pure deletions.
+        always_run: true
+        pass_filenames: false
       - id: list-template-lint
         name: list template structure
         entry: bash -c 'source scripts/ensure-venv.sh && "$VENV_PYTHON" -m pytest tests/test_list_pages.py::TestListTemplateStructure -q'

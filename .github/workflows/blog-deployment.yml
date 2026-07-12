@@ -144,6 +144,7 @@ jobs:
           ls -la content/ || echo "No content directory"
           ENSURE_VENV_PLAYWRIGHT=1 bash scripts/ensure-venv.sh
           .venv/bin/python3 scripts/check-posts.py
+          .venv/bin/python3 scripts/gen-posts-index.py --check
           echo "=== STARTING HUGO BUILD ==="
       - name: Build with Hugo
         env:

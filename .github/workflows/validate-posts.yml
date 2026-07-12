@@ -48,6 +48,9 @@ jobs:
       - name: Validate Hugo posts
         run: .venv/bin/python3 scripts/check-posts.py
 
+      - name: POSTS-INDEX.md is current
+        run: .venv/bin/python3 scripts/gen-posts-index.py --check
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
