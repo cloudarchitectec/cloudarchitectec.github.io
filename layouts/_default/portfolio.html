@@ -4,18 +4,10 @@
 <article class="cv-page post-single" id="cv-page">
   {{- with $storyPage }}
   <header class="post-header cv-post-header">
-    <div class="breadcrumbs">
-      <a href="{{ "" | relLangURL }}">{{ i18n "home" | default "Home" }}</a>
-      &nbsp;»&nbsp;
-      <a href="{{ "/posts/" | relLangURL }}">Posts</a>
-    </div>
     <h1 class="post-title">{{ .Title }}</h1>
     {{- with .Description }}
     <div class="post-description">{{ . }}</div>
     {{- end }}
-    <div class="post-meta">
-      {{- partial "post_meta.html" . }}
-    </div>
   </header>
 
   <div class="cv-hero-cover">
