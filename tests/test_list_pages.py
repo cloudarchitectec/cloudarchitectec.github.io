@@ -22,7 +22,7 @@ CATEGORY_PAGE = Path("categories") / "旅行紀錄" / "index.html"
 SEARCH_PAGE = Path("search") / "index.html"
 HOME_PAGE = Path("index.html")
 
-SAMPLE_TAG_POST_TITLE = "大結局：沒有升官加薪，但我很好"
+SAMPLE_TAG_POST_TITLE = "下集：沒有升官加薪，但我很好"
 SAMPLE_SECTION_POST_TITLE = "好想要退休！退休前的最後一堂課：比 FIRE 數字更重要的，其實是這件事"
 
 

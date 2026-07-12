@@ -10,7 +10,7 @@ cover:
     photographer_url: "https://unsplash.com/@bpatelnz"
     photo_url: "https://unsplash.com/photos/city-skyline-under-blue-sky-and-white-clouds-during-daytime-_T2PLeqMoGU"
 images: ["images/_T2PLeqMoGU-unsplash.jpg"]
-categories: ["旅行紀錄"]
+categories: ["澳洲生活"]
 tags: ["布里斯本", "澳洲", "生活成本"]
 ---
 

@@ -17,7 +17,7 @@ tags: ["AI", "軟實力", "軟體工程師", "GitHub Copilot"]
 
 我們公司使用 Microsoft Copilot 已經一陣子了(很難用，不要問🤣)，前陣子更是全面導入企業版 GitHub Copilot。不是那種「大家體驗看看」的等級，而是真正投入正式日常工作流程。
 
-公司提供的是企業授權，可以直接使用 GPT 5.4、Claude Sonnet 4.6、Opus 4.8 等各種當前最先進的模型，AI credits 多到滿出來XD (一個人一個月大概 1000 鎂)
+公司提供的是企業授權，可以直接使用 GPT 5.4、Claude Sonnet 4.6、Opus 4.8 等各種當前最先進的模型，AI credits 多到滿出來XD (每個人的額度都相當可觀)
 
 我們團隊也開始大量探索 AI Agent 的工作模式，像是 MCP、Agent Skills、GitHub Agentic Workflows 等，希望把 AI 真正整合進軟體開發流程，而不是只是拿來寫幾段程式碼。
 
@@ -29,7 +29,7 @@ tags: ["AI", "軟實力", "軟體工程師", "GitHub Copilot"]
 
 > 「我的 GitHub Copilot credits 用完了。」
 
-原本大家只是笑笑，想說再跟公司申請更多 AI credits 就好。不過因為我們公司規模太大，申請過程沒有想像中快速。
+原本大家只是笑笑，想說再跟公司申請更多 AI credits 就好。不過因為是大型企業，申請流程沒有想像中快速。
 
 接下來的幾天我發現，那個同事幾乎沒有什麼進度。
 

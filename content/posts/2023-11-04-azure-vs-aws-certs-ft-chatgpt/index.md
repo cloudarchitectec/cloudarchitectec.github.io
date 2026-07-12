@@ -32,10 +32,7 @@ tags: ["AWS"]
 
 我在離開微軟前，利用微軟的資源預約了其他三場考試，分別為 [HashiCorp Certified: Terraform Associate (003)](https://www.hashicorp.com/certification/terraform-associate)、[Microsoft Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)、 [Microsoft DevOps Engineer Expert (AZ-400)](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/)，我至今還沒有去考。這幾場考試時間一路被我從八月延到十二月，我現在甚至不排除把他們一路延到明年XDDD
 
-如果想要了解我對雲端證照的看法，以及兩個證照系統的比較，歡迎參考我的這篇文章：
-
-[**雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析**  
- _擁有11張雲端證照的我想要來分享我對 AWS & Microsoft Azure 兩種證照體系的比較，最後則會分享我對雲端證照的看法。](/posts/2023-02-04-cloud-certs/)[](/posts/2023-02-04-cloud-certs/)
+如果想要了解我對雲端證照的看法，以及兩個證照系統的比較，歡迎參考我的這篇文章：[**雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析**](/posts/2023-02-04-cloud-certs/)
 
 ### 如何更新微軟 Azure 和 AWS 雲端證照
 
@@ -136,10 +133,7 @@ tags: ["AWS"]
 
 好吧，所以我覺得追根究底可能只是因為 Microsoft Azure Administrator Associate 跟 Microsoft Solution Architect 的考試方向差異極大，前者專注於考一些實際操作上的細節 (說真的根本沒有人會默背那些細節，要操作時再看 documentation 就可以了)，後者則是考驗 solution design 跟 solution architecting 的概念。
 
-如果想要參考我以前考 Microsoft Azure Administrator 的心得 (抱怨?)，歡迎閱讀這篇文章：
-
-[**微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得**  
- _跟大家分享我的第二張 Azure 證照 AZ-104 Microsoft Azure Administrator Associate 的考試心得，並分析我覺得 Azure Associate Level 證照比起 AWS…](/posts/2022-11-19-azure-az-104-exam/)[](/posts/2022-11-19-azure-az-104-exam/)
+如果想要參考我以前考 Microsoft Azure Administrator 的心得 (抱怨?)，歡迎閱讀這篇文章：[**微軟 Azure 雲端證照: AZ-104 Azure Administrator Associate 考試心得**](/posts/2022-11-19-azure-az-104-exam/)
 
 ### 結語
 

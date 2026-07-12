@@ -8,13 +8,13 @@
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-11 | 布里斯本生活成本全解析（2026）：一個從沒上榜過的澳洲宜居城市？ | 旅行紀錄 | 布里斯本, 澳洲, 生活成本 | 身為一個生活在澳洲超過十年的台灣人，這幾年我最常被問的問題之一，不是「你在 AWS 做什麼」，也不是「轉去 DevOps… | content/posts/2026-07-11-brisbane-living-cost-2026 |
+| 2026-07-11 | 布里斯本生活成本全解析（2026）：一個從沒上榜過的澳洲宜居城市？ | 澳洲生活 | 布里斯本, 澳洲, 生活成本 | 身為一個生活在澳洲超過十年的台灣人，這幾年我最常被問的問題之一，不是「你在 AWS 做什麼」，也不是「轉去 DevOps… | content/posts/2026-07-11-brisbane-living-cost-2026 |
 | 2026-07-04 | AI 沒有取代工程師，但正在重新定義什麼叫做「好的工程師」 | 澳洲職場 | AI, 軟實力, 軟體工程師, GitHub Copilot | 我們公司使用 Microsoft Copilot 已經一陣子了(很難用，不要問🤣)，前陣子更是全面導入企業版 GitHu… | content/posts/2026-07-04-soft-skills-in-ai-era |
 | 2026-06-27 | 澳洲的中產階級，到底還買不買得起房？ | 投資理財 | 澳洲生活, 理財, 房地產 | 最近因為澳洲 CGT（Capital Gains Tax，資產增值稅）大改革，房價漲勢終於開始趨於平緩（之前布里斯本真的… | content/posts/2026-06-27-australia-housing-affordability |
 | 2026-06-17 | 好想要退休！退休前的最後一堂課：比 FIRE 數字更重要的，其實是這件事 | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 退休規劃 | 說到退休，我以前覺得那是一個很遙遠的詞，好像也不需要特別規劃，等時候到了就會自然發生？ | content/posts/2026-06-17-retirement-plan |
 | 2026-05-31 | 台澳 ETF 投資思維大對決！台灣人在瘋正2，澳洲人卻在算 Franking Credits？ | 投資理財 | ETF, FIRE | 最近非常喜歡研究投資理財相關知識！ | content/posts/2026-05-31-investmend-mindset |
 | 2026-05-17 | 雪梨景點：當代藝術博物館 (Museum of Contemporary Art) | 旅行紀錄 | 雪梨 | 今天要來介紹"當代藝術博物館(MCA，Museum of Contemporary Art)"，位於雪梨的岩石區，也就是… | content/posts/2026-05-17-sydney-mca |
-| 2025-11-29 | [我要升官加薪] 大結局：沒有升官加薪，但我很好 | 澳洲職場 | 科技業, DevOps 工程師, 職涯 | 2025.11.04 / 布里斯本 | content/posts/2025-11-29-pe-2-the-end |
+| 2025-11-29 | [我要升官加薪] 下集：沒有升官加薪，但我很好 | 澳洲職場 | 科技業, DevOps 工程師, 職涯 | 2025.11.04 / 布里斯本 | content/posts/2025-11-29-pe-2-the-end |
 | 2025-11-14 | [我要升官加薪] 上集：天上掉下來的Principal Engineer 職缺，我該爭取嗎？ | 澳洲職場 | 科技業, Diversity, DevOps 工程師, 職涯 | 2025.10.09 / 布里斯本 | content/posts/2025-11-14-pe-1-pe-or-not |
 | 2025-10-31 | Gemini vs ChatGPT 人設大不同！科技業職場觀察：AI 如何解讀多元包容、性別意識跟政治正確 | 澳洲職場 | 科技業, AI, Diversity, DevOps 工程師, 職涯 | 我是一個重度 AI 使用者! | content/posts/2025-10-31-ai-on-diverity |
 | 2025-10-25 | 紐西蘭北島滑雪之旅(上集)：2025.08.10-08.15 滑雪之外的 400 公里自駕與溫泉天堂 | 旅行紀錄 · 系列:2025 紐西蘭滑雪之旅 | 旅遊, 自駕, 滑雪, 紐西蘭 | 請問是誰，連續兩年都去紐西蘭北島自駕滑雪？就是 EC 我XDDD | content/posts/2025-10-25-2025-nz-trip-snowboarding-1 |
@@ -23,7 +23,7 @@
 | 2025-10-04 18:45:34+10:00 | 掰掰 Medium！我搬家啦～自架部落格澳洲雲端架構師 EC 正式啟用 | EC | 部落格 | 嗨大家！ | content/posts/2025-10-04-goodbye-medium |
 | 2025-07-23 | 澳洲首次置業指南：Refinance 是什麼，可以吃嗎？手把手幫你釐清房貸轉貸考量與思路！ | 投資理財 | 澳洲首次置業指南, 澳洲房地產, 昆士蘭 | 哇喔～房貸是個大議題，這篇我就不延伸了，不然要寫出一篇萬言書來XD | content/posts/2025-07-23-refinance |
 | 2025-07-11 | 轉職 IT 不踩雷：文組轉職工程師的 Coding Bootcamp 挑選指南 | 澳洲職場 | 程式訓練營 | 上週在 Threads 上分享了我當年靠著讀完 coding bootcamp 成功從文組轉職工程師入職澳洲 Amazo… | content/posts/2025-07-11-why-coding-bootcamp |
-| 2025-06-22 | 倖存者日記：沒想到 2025 Q2 年還有續集？當裁員成為澳洲科技業的新常態！ | 澳洲職場 · 系列:倖存者日記 | 裁員 | 好久不見！繼萬那杜與紐西蘭遊記連載結束後，EC 終於又要回歸職場系列 — 而且一開場就是壞消息（哭）。 是的，又是裁員。 | content/posts/2025-06-22-layoff |
+| 2025-06-22 | 倖存者日記：2025 Q2 沒想到還有續集？當裁員成為澳洲科技業的新常態！ | 澳洲職場 · 系列:倖存者日記 | 裁員 | 好久不見！繼萬那杜與紐西蘭遊記連載結束後，EC 終於又要回歸職場系列 — 而且一開場就是壞消息（哭）。 是的，又是裁員。 | content/posts/2025-06-22-layoff |
 | 2025-04-28 | 太平洋小島上的大冒險：萬那杜花費分析以及心得總結 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | 這趟九天八夜的萬那杜獨旅，我大概花了 $2500 澳，約五萬二台幣。 | content/posts/2025-04-28-vanuatu-summary |
 | 2025-04-27 | 太平洋小島上的大冒險：2025.04.27 Vanuatu Day 9 挑戰完成！一個女生成功闖蕩萬那杜！ | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (I’m flying home today 🇦🇺❤️) | content/posts/2025-04-27-vanuatu-day-9 |
 | 2025-04-26 | 太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (簡直要被蚊子吃了🤣) | content/posts/2025-04-26-vanuatu-day-8 |
@@ -94,7 +94,7 @@
 | 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 3：Technical Guidance/Customer Meetings | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析 系列的第三集。這個系列預計會有五篇文… | content/posts/2023-07-28-ms-csa-3 |
 | 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 4：Technical Presentation/Workshops | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析 系列的第四集。這個系列預計會有五篇文… | content/posts/2023-07-28-ms-csa-4 |
 | 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 5：Sales Pipeline Management | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析 系列的最終章。這個系列總共有五篇文章… | content/posts/2023-07-28-ms-csa-5 |
-| 2023-07-28 | 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思：那些職務想像與現實的差距 | 澳洲職場 | 微軟, Solution Architect, 雲端架構師 | 這是我在 2023 年寫的文章，寫完這篇後不久我就毅然決然從微軟離職了XD 現在我決定免費公開這篇文章，算是跟大家分享一… | content/posts/2023-07-28-ms-csa-in-9-months |
+| 2023-07-28 | 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思：那些職務想像與現實的差距 | 澳洲職場 | 微軟, Solution Architect, 雲端架構師 | 每一個選擇，背後都有它的犧牲以及需要承擔的後果 (comprises and consequences)。這段時間我不斷… | content/posts/2023-07-28-ms-csa-in-9-months |
 | 2023-07-20 | 澳洲求職必勝法則：外國人身份也能成功找到澳洲科技業正職工作 — 旅澳台灣工程師的實戰秘笈公開！ | 澳洲職場 | 澳洲求職必勝法則, 轉職工程師, 英文面試 | 「外國人如果想嘗試在澳洲找到軟體工程師職缺，有辦法在去澳洲前就找到嗎?」 | content/posts/2023-07-20-how-to-land-jobs-in-au |
 | 2023-07-02 | 微軟 Azure 雲端證照: AZ-500 Azure Security Engineer Associate 資訊安全工程師八小時速成攻略 | 澳洲職場 | 雲端證照 | 💡 適合：非資安專業背景、全職準備考試、希望用最少時間搞懂 AZ-500 考試重點的人！（以下為我 2023 年準備考試… | content/posts/2023-07-02-az-500 |
 | 2023-06-17 | 澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試 | 澳洲職場 · 系列:DevOps 面試紀錄 | DevOps 工程師, 澳洲面試心得 | 直接先講結論！ | content/posts/2023-06-17-devops-interview-1 |
@@ -117,8 +117,8 @@
 | 2023-05-08 | Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 這週六我要飛往雪梨，在雪梨度過一個週末(曾經在雪梨住過七年的我，這次安排了跟許多朋友見面的行程，總共排了週六午餐、週六晚… | content/posts/2023-05-08-carnival-splendor-intro |
 | 2023-05-07 | 2023 年中澳洲生活回顧 | 澳洲生活 | 澳洲生活 | 不知不覺 2023 年也過一半了，我覺得必須要來好好審視一下今年的目標。翻了下我過去的文章 2022 年回顧(/post… | content/posts/2023-05-07-2023-life |
 | 2023-04-15 | 澳洲求職必勝法則：英文面試結尾別說沒問題！這樣反問面試官才加分 | 澳洲職場 | 澳洲求職必勝法則, 英文面試 | 之前在澳洲求職必勝法則：前 Amazon & 微軟架構師的英文面試準備策略 提到一個好的面試官在面試過程中絕對都會留下一… | content/posts/2023-04-15-interview-ending-questions |
-| 2023-04-06 | 倖存者日記：2023 澳洲微軟裁員後續，裁員風暴仍在持續 | 澳洲職場 · 系列:倖存者日記 | 裁員 | 在 2023 年二月中，我發表了倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記(/posts/20… | content/posts/2023-04-06-2023-layoff |
-| 2023-04-01 | 如何評估現職是否適合你 — 工作小任務(work tasks) 評分表 | 澳洲職場 | 職涯 | 這個方法是我最近在 podcast 大人的 Small Talk EP121 不再憑直覺換工作！轉職也有系統化做法？(h… | content/posts/2023-04-01-work-tasks |
+| 2023-04-06 | 倖存者日記：2023 Q2 澳洲微軟裁員後續，裁員風暴仍在持續 | 澳洲職場 · 系列:倖存者日記 | 裁員 | 在 2023 年二月中，我發表了倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記(/posts/20… | content/posts/2023-04-06-2023-layoff |
+| 2023-04-01 | 如何評估現職是否適合你 — 工作小任務(work tasks) 評分表 | 澳洲職場 | 職涯 | 這個方法是我最近在 podcast 大人的 Small Talk P121 不再憑直覺換工作！轉職也有系統化做法？(ht… | content/posts/2023-04-01-work-tasks |
 | 2023-03-24 | Amazon：你不知道的亞馬遜辦公室 — IT 設備販賣機 | 澳洲職場 | 科技業, AWS | 之前我在 AWS 工作的時候，最喜歡的就是拜訪各地的辦公室。澳洲來說，我去過坎培拉、雪梨、墨爾本、伯斯，海外的話則是去過… | content/posts/2023-03-24-it-vending-machine |
 | 2023-03-17 | 那些沒人告訴你的雲端職位真相：Solution Architect 與 Cloud Engineer 職場日常大揭密！ | 澳洲職場 | 雲端架構師 | 雖然標題只寫了 Solution Architect 與 Cloud Engineer，但我認為 Software En… | content/posts/2023-03-17-sa-vs-cloud-engineer |
 | 2023-03-03 | 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder | 澳洲職場 | AWS, 雲端架構師 | Awesome Builder (簡稱 AB) 是 AWS Professional Services Team 新進員… | content/posts/2023-03-03-awesome-builder |

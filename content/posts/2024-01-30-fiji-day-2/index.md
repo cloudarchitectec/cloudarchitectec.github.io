@@ -59,9 +59,6 @@ episodeseries: ["斐濟旅記"]
 
 我對斐濟市區的印象就是，其實還滿像 50 年前的台灣的 (感覺啦，我其實也不知道 50 年前的台灣長怎樣XD)，有一種很鄉下的都市感，不過因為觀光盛行的緣故，招牌大多都是寫英文，有一些在澳洲常見的銀行跟手機行在這邊也有開分店，所以有時候真的會覺得沒有出國感。
 
-[** _2022.10.11 斐濟街景 (Fiji Street View)_**  
-2022.10.11 斐濟街景 (Fiji Street View)youtube.com](https://youtube.com/shorts/avbGXYRAoYw?feature=share)[](https://youtube.com/shorts/avbGXYRAoYw?feature=share)
-
 而且我覺得斐濟的物價感覺也沒有特別便宜，大概就是澳洲物價的 7 折吧，所以如果大家想要去一個便宜的海島國家度假，我可能會比較推薦泰國XD
 
 ![斐濟FJD7元橄欖球紀念紙鈔](images/medium-1*68-6whc9cjMou1308Lj0JQ.jpg)

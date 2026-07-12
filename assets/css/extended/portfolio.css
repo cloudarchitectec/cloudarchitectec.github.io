@@ -41,7 +41,7 @@
 .cv-pills-bar {
   margin-bottom: 1.5rem;
   padding-bottom: 1.25rem;
-  border-bottom: 2px solid var(--primary);
+  border-bottom: 1px solid var(--border);
 }
 
 .cv-pills-bar .ec-profile-pills {
@@ -65,8 +65,9 @@
 }
 
 a.ec-pill:hover:not(.ec-pill--active) {
-  border-color: var(--primary);
-  color: var(--primary);
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-weak);
 }
 
 .ec-profile-pills {
@@ -76,9 +77,9 @@ a.ec-pill:hover:not(.ec-pill--active) {
 }
 
 .ec-pill--active {
-  background: var(--primary);
+  background: var(--accent);
   color: var(--theme);
-  border-color: var(--primary);
+  border-color: var(--accent);
   cursor: default;
   pointer-events: none;
 }

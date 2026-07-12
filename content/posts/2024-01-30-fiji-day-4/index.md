@@ -34,13 +34,6 @@ Bar 裡面有很多有趣的標語XD
 
 Travis 人完全好到爆表，我們只是隨口閒聊到說我想要去「跳海」（從酒吧二樓跳進水裡，真的是跳海)，但我又沒有信心（底下真的就是海底)，他立刻說他可以游過去下面等我。
 
-跳海大概長這樣：
-
-[** _2022.10.13 Fiji Cloud 9 Bar - 1_**  
-2022.10.13 Fiji Cloud 9 Bar - 1youtube.com](https://youtube.com/shorts/J33ff7368ZQ?feature=share)[](https://youtube.com/shorts/J33ff7368ZQ?feature=share)
-
-還有集體跳水版
-
 我跳下去之後全船鼓掌ＸＤ
 
 然後 Travis 帶著救生衣讓我當浮板，最後我也沒有自己游回來，是他推我回來的哈哈哈！我要請他喝酒他也不要！除了我之外，他還教了其他幾個遊客游泳跟浮潛。有人溺水，他也第一個跑過去救（是真的有人穿救生衣溺水，how did that happen? lol)
