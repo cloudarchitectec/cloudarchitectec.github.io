@@ -109,3 +109,4 @@ firebase-adminsdk*.json
 # -----------------------
 *.log
 logs/
+CHANGELOG.md
