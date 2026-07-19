@@ -4,10 +4,11 @@
 >
 > Purpose: locate a post by title / section / tags / summary from this one file instead of scanning `content/posts/`. Open the folder in the last column to read or edit the post.
 
-**163 published posts** (newest first).
+**164 published posts** (newest first).
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
+| 2026-07-19 | 你以為你會用 AI？從跟 ChatGPT 聊天到 AI Agent 的五個階段，你在哪一階？ | 澳洲職場 | AI, Claude, Gemini, ChatGPT, Copilot, 軟體工程師 | 最近常跟朋友、同事聊 AI，才發現大家講的「ChatGPT」、「Claude」、「Gemini」、「Copilot」，其… | content/posts/2026-07-19-ai-interface-evolution |
 | 2026-07-11 | 布里斯本生活成本全解析（2026）：一個從沒上榜過的澳洲宜居城市？ | 澳洲生活 | 布里斯本, 澳洲, 生活成本 | 身為一個生活在澳洲超過十年的台灣人，這幾年我最常被問的問題之一，不是「你在 AWS 做什麼」，也不是「轉去 DevOps… | content/posts/2026-07-11-brisbane-living-cost-2026 |
 | 2026-07-04 | AI 沒有取代工程師，但正在重新定義什麼叫做「好的工程師」 | 澳洲職場 | AI, 軟實力, 軟體工程師, GitHub Copilot | 我們公司使用 Microsoft Copilot 已經一陣子了(很難用，不要問🤣)，前陣子更是全面導入企業版 GitHu… | content/posts/2026-07-04-soft-skills-in-ai-era |
 | 2026-06-27 | 澳洲的中產階級，到底還買不買得起房？ | 投資理財 | 澳洲生活, 理財, 房地產 | 最近因為澳洲 CGT（Capital Gains Tax，資產增值稅）大改革，房價漲勢終於開始趨於平緩（之前布里斯本真的… | content/posts/2026-06-27-australia-housing-affordability |
@@ -15,7 +16,7 @@
 | 2026-05-31 | 台澳 ETF 投資思維大對決！台灣人在瘋正2，澳洲人卻在算 Franking Credits？ | 投資理財 | ETF, FIRE | 最近非常喜歡研究投資理財相關知識！ | content/posts/2026-05-31-investmend-mindset |
 | 2026-05-17 | 雪梨景點：當代藝術博物館 (Museum of Contemporary Art) | 旅行紀錄 | 雪梨 | 今天要來介紹"當代藝術博物館(MCA，Museum of Contemporary Art)"，位於雪梨的岩石區，也就是… | content/posts/2026-05-17-sydney-mca |
 | 2025-11-29 | [我要升官加薪] 下集：沒有升官加薪，但我很好 | 澳洲職場 | 科技業, DevOps 工程師, 職涯 | 2025.11.04 / 布里斯本 | content/posts/2025-11-29-pe-2-the-end |
-| 2025-11-14 | [我要升官加薪] 上集：天上掉下來的Principal Engineer 職缺，我該爭取嗎？ | 澳洲職場 | 科技業, Diversity, DevOps 工程師, 職涯 | 2025.10.09 / 布里斯本 | content/posts/2025-11-14-pe-1-pe-or-not |
+| 2025-11-14 | [我要升官加薪] 上集：天上掉下來的 Principal Engineer 職缺，我該爭取嗎？ | 澳洲職場 | 科技業, Diversity, DevOps 工程師, 職涯 | 2025.10.09 / 布里斯本 | content/posts/2025-11-14-pe-1-pe-or-not |
 | 2025-10-31 | Gemini vs ChatGPT 人設大不同！科技業職場觀察：AI 如何解讀多元包容、性別意識跟政治正確 | 澳洲職場 | 科技業, AI, Diversity, DevOps 工程師, 職涯 | 我是一個重度 AI 使用者! | content/posts/2025-10-31-ai-on-diverity |
 | 2025-10-25 | 紐西蘭北島滑雪之旅(上集)：2025.08.10-08.15 滑雪之外的 400 公里自駕與溫泉天堂 | 旅行紀錄 · 系列:2025 紐西蘭滑雪之旅 | 旅遊, 自駕, 滑雪, 紐西蘭 | 請問是誰，連續兩年都去紐西蘭北島自駕滑雪？就是 EC 我XDDD | content/posts/2025-10-25-2025-nz-trip-snowboarding-1 |
 | 2025-10-25 | 紐西蘭北島滑雪之旅(下集)：2025.08.10-08.15 滑雪心得之單板新手我上纜車了！ | 旅行紀錄 · 系列:2025 紐西蘭滑雪之旅 | 旅遊, 自駕, 滑雪, 紐西蘭 | 上一篇聊完了滑雪之外的心得，這篇終於要來聊聊旅程的真正主角——單板滑雪 (Snowboard) 啦！有了 2024 年的… | content/posts/2025-10-25-2025-nz-trip-snowboarding-2 |

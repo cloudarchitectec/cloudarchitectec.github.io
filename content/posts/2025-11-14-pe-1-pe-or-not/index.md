@@ -1,5 +1,5 @@
 ---
-title: "[我要升官加薪] 上集：天上掉下來的Principal Engineer 職缺，我該爭取嗎？"
+title: "[我要升官加薪] 上集：天上掉下來的 Principal Engineer 職缺，我該爭取嗎？"
 date: 2025-11-14
 slug: "2025-11-14-pe-1-pe-or-not"
 cover:
