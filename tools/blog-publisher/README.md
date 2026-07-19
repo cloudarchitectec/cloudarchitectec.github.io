@@ -24,9 +24,10 @@ CLI tool to publish blog posts from pre-publish markdown with Unsplash cover ima
    - Body: markdown (`##` sections, horizontal rules OK)
    - Do **not** add `{{< footer >}}` — footer is layout-driven
 
-2. **Run the publisher** from repo root:
+2. **Run the publisher**:
    ```bash
-   python3 pre-publish-post.py 2026-06-24-australia-housing-affordability.md
+   cd tools/blog-publisher
+   python3 pre-publish-post.py 2026-07-09-ai-interface-evolution.md
    ```
 
 3. **Answer prompts:**
