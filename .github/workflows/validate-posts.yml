@@ -51,6 +51,15 @@ jobs:
       - name: POSTS-INDEX.md is current
         run: .venv/bin/python3 scripts/gen-posts-index.py --check
 
+      - name: Cache Hugo processed images
+        # resources/_gen holds resized/WebP image variants; without this cache every
+        # PR build reprocesses all post images from scratch
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen
+          key: hugo-images-${{ hashFiles('content/posts/**/images/**') }}
+          restore-keys: |
+            hugo-images-
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production

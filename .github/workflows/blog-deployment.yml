@@ -146,6 +146,15 @@ jobs:
           .venv/bin/python3 scripts/check-posts.py
           .venv/bin/python3 scripts/gen-posts-index.py --check
           echo "=== STARTING HUGO BUILD ==="
+      - name: Cache Hugo processed images
+        # resources/_gen holds resized/WebP image variants; without this cache every
+        # deploy reprocesses all post images from scratch (--gc prunes stale entries)
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen
+          key: hugo-images-${{ hashFiles('content/posts/**/images/**') }}
+          restore-keys: |
+            hugo-images-
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules

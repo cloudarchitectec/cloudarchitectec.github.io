@@ -132,6 +132,7 @@ function initializeEnhancedSearch() {
             item.title || '',
             item.content || '',
             item.summary || '',
+            (item.tags || []).join(' '),
             convertToSimplified(item.title || ''),
             convertToSimplified(item.content || ''),
             convertToSimplified(item.summary || ''),
