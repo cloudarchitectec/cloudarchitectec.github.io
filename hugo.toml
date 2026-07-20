@@ -61,7 +61,12 @@ disablePathToLower = true
 
   # Enable Waline comments
   comments = true
-  
+
+  # Deliberately placed BEFORE the [params.analytics]/[params.schema] sub-tables so it binds
+  # to [params] directly — the Show* flags after those sub-tables silently bind to
+  # [params.schema] and are dead (see claude-plan.md C25 notes). Carved out on purpose.
+  ShowCodeCopyButtons = true
+
   # SEO and Analytics enhancements
   [params.analytics]
     googleSiteVerification = "FlPzC5GcakpWZTQrkkoi896cyAcijcZ40EPSJ45Gvi8"  # Google Search Console verification
@@ -82,7 +87,6 @@ disablePathToLower = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
