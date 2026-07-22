@@ -129,8 +129,8 @@
 | 2023-02-04 | 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析 | 澳洲職場 | 雲端證照 | 大家好我是 EC，擁有 6 張 AWS 證照以及 5 張 Azure 證照，今天想要來分享我對兩種證照體系的比較，最後則… | content/posts/2023-02-04-cloud-certs |
 | 2023-01-28 | 澳洲 FAANG — 微軟員工福利大公開 | 澳洲職場 | 科技業 | 今天想要來分享身為微軟員工有什麼樣的員工福利! | content/posts/2023-01-28-faang-benefits |
 | 2023-01-21 | 澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略 | 澳洲職場 | 英文面試, 澳洲求職必勝法則 | 今天想要簡單分享一下，在澳洲超過十年的我，收到面試通知時，會如何準備英文職場面試。 | content/posts/2023-01-21-eng-interview |
-| 2023-01-14 | 微軟 Azure 雲端證照: AZ-305 Azure Solutions Architect Expert  證照考試心得 | 澳洲職場 | 雲端證照 | 2023 年的第二天，我通過了 AZ-305 Designing Microsoft Azure Infrastruct… | content/posts/2023-01-14-az-305 |
-| 2023-01-06 | 不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考 | 澳洲職場 | 轉職工程師 | 近幾年來，轉職 IT 工程師蔚為一股風潮，你也曾經考慮過這條路嗎? 你為什麼對於網頁工程或軟體工程感興趣呢? 是因為相關… | content/posts/2023-01-06-keys-to-transistion |
+| 2023-01-14 | 微軟 Azure 雲端證照: AZ-305 Azure Solutions Architect Expert 證照考試心得 | 澳洲職場 | 雲端證照 | 2023 年的第二天，我通過了 AZ-305 Designing Microsoft Azure Infrastruct… | content/posts/2023-01-14-az-305 |
+| 2023-01-06 | 不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考 | 澳洲職場 | 轉職工程師 | 近幾年來，轉職 IT 工程師蔚為一股風潮，你也曾經考慮過這條路嗎? 你為什麼對於網頁工程或軟體工程感興趣呢? 是因為相關… | content/posts/2023-01-06-keys-to-transition |
 | 2022-12-31 | 2022 年澳洲生活回顧 | 澳洲生活 | 年度回顧 | 今天是 2022 年的最後一天，看到朋友的分享，覺得我應該也要來回顧一下我的 2022! | content/posts/2022-12-31-2022-life |
 | 2022-12-23 | 澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享 | 澳洲職場 | AWS | 今天要來談一談我的上一份工作 Cloud Architect at Amazon Web Services (AWS)… | content/posts/2022-12-23-aws-ps-ca |
 | 2022-12-16 | 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天 | 澳洲職場 | 微軟 | Azure Cloud Solution Architect (CSA) 是我在微軟的工作職稱，這是我加入微軟的第八週。… | content/posts/2022-12-16-day-of-ms-csa |

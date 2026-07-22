@@ -25,7 +25,7 @@ tags: ["雲端證照", "Azure"]
 
 3\. 有部分考試題型，回答完之後是不能回去檢查答案的，例如多重情境題跟單重情境題，所以你一按下一題或是下一大題，之後就沒有辦法再回到上一頁改答案。
 
-4\. 情境題的設計極差，題目敘述總共有三個頁面，每一個題目頁面都落落長，然後 5–6 個問題又分別在他們各自的問題頁面，我光回答一題就要 4 個 tabs 在那邊反覆看來看去，真心覺得莫名其妙! (這點我已經在考試 feedback 上提出，希望之後 Azure 或改進這點)。而且一開始進入考試就是這個情境題，寫完這題我完全已經心如死灰XDD
+4\. 情境題的設計極差，題目敘述總共有三個頁面，每一個題目頁面都落落長，然後 5–6 個問題又分別在他們各自的問題頁面，我光回答一題就要 4 個 tabs 在那邊反覆看來看去，真心覺得莫名其妙! (這點我已經在考試 feedback 上提出，希望之後 Azure 會改進這點)。而且一開始進入考試就是這個情境題，寫完這題我完全已經心如死灰XDD
 
 ### 測驗結束後的考生意見調查
 
@@ -35,10 +35,10 @@ Azure 考試結束後，考生可以針對「每一題」考試題目提出回�
 
 ### 個人雲端證照的分析
 
-考完之後我覺得這個考試也太難了，於是調出我的雲端證照統計表研究了一下，在我考過的八個雲證照中，根據我個人的考試成績(完全不客觀的統計分析XD)，我有以下的心得：
+考完之後我覺得這個考試也太難了，於是調出我的雲端證照統計表研究了一下，在我考過的八個雲端證照中，根據我個人的考試成績(完全不客觀的統計分析XD)，我有以下的心得：
 
-  * 最難考的雲證照: AWS Solution Architect Associate, AWS Solution Architect Professional, Azure Administrator Associate
-  * 最簡單的雲證照: AWS Cloud Practitioner, AWS Developer Associate, AWS System Admin Associate
+  * 最難考的雲端證照: AWS Solution Architect Associate, AWS Solution Architect Professional, Azure Administrator Associate
+  * 最簡單的雲端證照: AWS Cloud Practitioner, AWS Developer Associate, AWS System Admin Associate
 
 
 ![個人雲端證照統計表：AWS 與 Azure 證照考試成績一覽](images/medium-1*A2uKRZuW4PDBBubQs5kTtQ.png)
