@@ -65,25 +65,25 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 再說一次，這裡不是澳洲嗎?XDD 我以為澳洲人不會問這個問題，不過我 2022 年面試微軟的時候也有這個問題，我猜有些公司就是會在意這件事吧?
 
-  * **What’s your notification period? (請問你的離職預告時間是多長?)**
+  * **What’s your notice period? (請問你的離職預告時間是多長?)**
 
 
 
 澳洲通常是四週，但如果你個人不想要兩份工作之間銜接得太緊湊的話，也可以視個人情況給出長一點的時間，例如六週 (這樣除了合約上規定的四週預告期，中間還有兩個禮拜可以稍微休息一下)。
 
-  * **What do you want to apply to our company? (請問你為什麼要申請我們公司?)**
-  * **What do you want to apply to this role? (請問你為什麼要申請這個職位?)**
-  * **What do you want to leave your current role? (請問你為什麼想要離開你現在的職位?)**
+  * **Why do you want to apply to our company? (請問你為什麼要申請我們公司?)**
+  * **Why do you want to apply for this role? (請問你為什麼要申請這個職位?)**
+  * **Why do you want to leave your current role? (請問你為什麼想要離開你現在的職位?)**
 
 
 
-這題切記不要據實回答 (例如: 我討厭我的老闆或是我討厭我的工作之類的XD)。通常我回答的方式會從新職位的技能或是職涯發展方向出發，例如這題我的回答是「My current role is more about solution architecting and stakeholder management, and I really miss my hands-on keyboard time when I was a technical consultant with AWS. I’ve always been interested in cloud infrastructure and DevOps, so I want to get back to a more hands-on, technical engineering role. Therefore, the role with your company is perfect for my skills and career goals. 我目前的工作著重於提供雲端架構解決方案以及跟不同團隊之間的跨部門溝通，我很懷念以前在亞麻遜當雲端技術顧問的時間，當時我花很多時間在寫程式。我一直都對雲端基礎建設跟 DevOps 很有興趣，所以我打算回到一個更著重技術落實的職位，因此貴公司的這個職位非常適合我的技能以及未來的職涯發展方向。」
+這題切記不要據實回答 (例如: 我討厭我的老闆或是我討厭我的工作之類的XD)。通常我回答的方式會從新職位的技能或是職涯發展方向出發，例如這題我的回答是「My current role is more about solution architecting and stakeholder management, and I really miss my hands-on keyboard time when I was a technical consultant with AWS. I’ve always been interested in cloud infrastructure and DevOps, so I want to get back to a more hands-on, technical engineering role. Therefore, the role with your company is perfect for my skills and career goals. 我目前的工作著重於提供雲端架構解決方案以及跟不同團隊之間的跨部門溝通，我很懷念以前在亞馬遜當雲端技術顧問的時間，當時我花很多時間在寫程式。我一直都對雲端基礎建設跟 DevOps 很有興趣，所以我打算回到一個更著重技術落實的職位，因此貴公司的這個職位非常適合我的技能以及未來的職涯發展方向。」
 
   * **Where do you live and are you okay to come into the office in the city? (你現在居住的區域是? 我們辦公室在市區，通勤對你來說會是問題嗎?)**
 
 
 
-我猜她會問的原因是因為我住的地方離市區有段距離，通勤時間大概是單程一小時。但我覺得這個問題非常有趣，因為她甚至沒有先告訴我一週要去公司幾天XDDD 澳洲公司目前都以 hybrid 的工作模式居多，也就是一個禮拜有幾天進辦公室、有幾天在家公司。
+我猜她會問的原因是因為我住的地方離市區有段距離，通勤時間大概是單程一小時。但我覺得這個問題非常有趣，因為她甚至沒有先告訴我一週要去公司幾天XDDD 澳洲公司目前都以 hybrid 的工作模式居多，也就是一個禮拜有幾天進辦公室、有幾天在家工作。
 
 所以我先問了她「Is your company implementing hybrid working arrangement at the moment? How many days do I need to go into the office? (請問貴公司目前一週需要進幾天辦公室呢?)」人資的回答是三天進辦公室，我覺得還算是我可以接受的範圍。如果五天都要進辦公室的話，我可能無法或是需要考慮搬家。
 

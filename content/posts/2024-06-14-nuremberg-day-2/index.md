@@ -95,7 +95,7 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 至於 red beer，很可惜我個人也沒有太喜歡（還是之前喝的 brown beer 比較好喝)
 
-我這幾天在德國餐廳吃飯的感想就是，這些道地德式料理都沒有特別好吃，價位還不低(我真心覺得雪梨 The rocks 的德國豬腳餐廳 [Munich Brauhaus Sydney](https://search.app.goo.gl/JT3DEHH) 還比較好吃XDD)。除了體驗道地德國食物之外，我會建議大家不如吃 kebab 餐廳/餐車/小店，或是火車站裏面的麵包店跟餐廳，都更便宜且美味 (而且其實土耳其食物 doner 已經成為德國人生活的一部分了)。
+我這幾天在德國餐廳吃飯的感想就是，這些道地德式料理都沒有特別好吃，價位還不低(我真心覺得雪梨 The rocks 的德國豬腳餐廳 [Munich Brauhaus Sydney](https://search.app.goo.gl/JT3DEHH) 還比較好吃XDD)。除了體驗道地德國食物之外，我會建議大家不如吃 kebab 餐廳/餐車/小店，或是火車站裡面的麵包店跟餐廳，都更便宜且美味 (而且其實土耳其食物 doner 已經成為德國人生活的一部分了)。
 
 ![德國麵包店精緻烘焙](images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg)
 

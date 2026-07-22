@@ -15,7 +15,7 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 ---
 
-之前在[澳洲求職必勝法則：前 Amazon & 微軟架構師的英文面試準備策略] 提到一個好的面試官在面試過程中絕對都會留下一點時間給申請人問問題。這時候如果申請人提出了一些好問題，不僅可以幫助你更加了解即將加入的公司與團隊文化，更可以在面試官心中留下一個好印象，大大提高錄取機率。
+之前在 [澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略](/posts/2023-01-21-eng-interview/) 提到一個好的面試官在面試過程中絕對都會留下一點時間給申請人問問題。這時候如果申請人提出了一些好問題，不僅可以幫助你更加了解即將加入的公司與團隊文化，更可以在面試官心中留下一個好印象，大大提高錄取機率。
 
 在這篇文章中我會將我自己常用的英文面試雇主問題集分為五大類，並列出中英文問題以及問這些問題背後的原理，希望可以為大家的英文面試帶來一些幫助。
 
@@ -59,7 +59,7 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 如果是科技業的話，我還會特別注意一下團隊的多元性以及包容性 (diversity and inclusion)，很多技術團隊成員基本上全部都是白人男性，女生非常少。當然這點不是決定性因素，但還是可以稍微參考一下。
 
-  * **What’s a typical day/week for this role? Can you give me an example of a recently challenging work? (請你分享一下這個職位的日常工作，例如每周通常需要處理那些工作事項。可以舉一個這個職位最近在工作上遇到的挑戰嗎?)**
+  * **What’s a typical day/week for this role? Can you give me an example of a recently challenging work? (請你分享一下這個職位的日常工作，例如每週通常需要處理哪些工作事項。可以舉一個這個職位最近在工作上遇到的挑戰嗎?)**
 
 
 
@@ -77,7 +77,7 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 
 
-這裡我想要知道的是主管的管理風格跟我合不合? 例如有些主管是放羊吃草型，只要員工績效有達成，並不會在意員工的工作時間或是工作怎麼完成的。有些主管是微觀管理 (micro-management) 型，所有的文件跟 emails 都要親自看過才放行。找到跟自己的工作方式合得來的主管很重要!
+這裡我想要知道的是主管的管理風格跟我合不合? 例如有些主管是放牛吃草型，只要員工績效有達成，並不會在意員工的工作時間或是工作怎麼完成的。有些主管是微觀管理 (micro-management) 型，所有的文件跟 emails 都要親自看過才放行。找到跟自己的工作方式合得來的主管很重要!
 
   * **What kind of mentoring and support do you provide to new starters? (對於新進員工，請問你會提供什麼樣的員工訓練與支援呢?)**
 
@@ -97,13 +97,13 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 這題可以讓你知道這個職位主管看中的 KPI 有哪些。另外也可以知道這個公司是否有一套標準，我在最近的一次面試問了面試官這個問題，結果他回我說「呃，我們並沒有一套正式的標準」(這樣的回答對我來說就是一個警訊，代表主管其實不太清楚這個職位的 KPI，可能是靠著他的「感覺」評估員工的績效)
 
-  * **Are your systems complex and need consolidation? How would you help your new starters navigate through different systems and components? (如果公司的系統很負責，而且需要整合的話，請問你會如何幫助新進員工在不同系統中找到所需要的資訊?)**
+  * **Are your systems complex and need consolidation? How would you help your new starters navigate through different systems and components? (如果公司的系統很複雜，而且需要整合的話，請問你會如何幫助新進員工在不同系統中找到所需要的資訊?)**
 
 
 
 這題一樣是更用實際一點的例子來試探主管打算怎樣帶新人。
 
-  * **What kind of tasks are you expecting me to work on after I join? (在我加入團隊後，請問你打算安排我從那些工作事項開始入手呢?)**
+  * **What kind of tasks are you expecting me to work on after I join? (在我加入團隊後，請問你打算安排我從哪些工作事項開始入手呢?)**
 
 
 
@@ -133,7 +133,7 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 看看他們是還在一開始的 migration 階段，此時可能還會有很多 on-prem workload，或是已經非常成熟地使用雲服務平台。
 
-  * **Are most of the work deployed by IaC (infrastructure) or are you still doing manual deployment? (現在還是手動部署嗎? 還是已經使用 IaC 了呢)**
+  * **Is most of your infrastructure deployed by IaC (Infrastructure as Code) or are you still doing manual deployment? (現在還是手動部署嗎? 還是已經使用 IaC 了呢)**
   * **How automated is your process? (部署過程的自動化程度)**
   * **How modernised is your system? (系統的現代化程度)**
   * **Do you need to be on call? (需要 on-call 嗎?)**

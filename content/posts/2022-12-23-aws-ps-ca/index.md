@@ -55,7 +55,7 @@ Senior Cloud Architect 除了要負責帶領技術團隊，常常還需要跟客
 
   1. Learning ability: 你有辦法快速學會一個新的技術/雲服務，然後現學現賣把技術傳授給客戶、引導他們跟你一起執行嗎?
   2. Consulting skills: 說到底，Cloud Architect 還是一個技術顧問，你有辦法傾聽客戶的需求、根據他們的要求規劃出解決方案、帶領客戶一起解決疑難雜症、贏得客戶的信任嗎?
-  3. Can you be an Amazonian: 亞麻遜一向都以自己獨特的公司文化而自豪，當我們在聘用新員工時，我們也很在乎他們是否跟我們的公司文化契合。有興趣的話，以後也可以專門寫一篇分享 Amazon Leadership Principles interviews。
+  3. Can you be an Amazonian: 亞馬遜一向都以自己獨特的公司文化而自豪，當我們在聘用新員工時，我們也很在乎他們是否跟我們的公司文化契合。有興趣的話，以後也可以專門寫一篇分享 Amazon Leadership Principles interviews。
 
 
 
