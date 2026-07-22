@@ -12,10 +12,7 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-  # No cron: every deploy re-fetches GA4 anyway, and data/analytics.json holds
-  # cumulative totals since 2023-01-01 — a few weeks of drift is invisible.
-  # Run this workflow manually if the homepage stats ever look stale.
-
+  
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read

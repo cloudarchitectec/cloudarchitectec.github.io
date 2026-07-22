@@ -1,5 +1,5 @@
 name: 'Update Analytics Data'
-description: 'Refreshes data/analytics.json from the GA4 Data API into the build working tree (fetch-only, never commits)'
+description: 'Refreshes data/analytics.json from the GA4 Data API'
 inputs:
   google-service-account-key:
     description: 'Google Service Account Key JSON'
