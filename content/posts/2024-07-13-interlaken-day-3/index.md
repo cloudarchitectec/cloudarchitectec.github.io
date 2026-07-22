@@ -29,7 +29,7 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 首先是我的第一道瑞士餐點，巨無霸薯餅 Rosti (是說我之前一直看成印度的那個 Roti 😂)！這個傳統瑞士料理是用刨絲的馬鈴薯做成的大薯餅，上面再加上其他食材。我點的這個上面放了培根跟起司。我只能說⋯⋯瑞士人吃很鹹捏😂
 
-Rosti 是由馬鈴薯刨絲之後浸泡過鹽水再拿去煎（薯餅已經有鹹了），再配上培根（本身也有鹹味），再配上起司（本身也是鹹的），我覺得天天吃這個可能很快就會需要洗腎XDD 好奇的人，可以參考 rosti 的食譜：[https://shise.com.tw/rosti/](https://l.facebook.com/l.php?u=https%3A%2F%2Fshise.com.tw%2Frosti%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3KNbOEjqy0bbUT8194zbEG_OLFZeposF4w6ehxQX5nwQbvVwcdtpnyAY8_aem_AZJJbud3oMPvME6dXHy6m1uUQYS7ufkIH-xybW9gP1-m5T0dDrjGvbwpuxJRMRcpGhds2FF5eqNcidJht4w-r19f&h=AT3pw7kb75sInuIVOQ73mws-CpTw8tYRRCwoAO6V1gTQ72I0UGmgi51YWTt4TRFHh7Dr9WNcsQo7kJdEhUEdR6KKawK_3qNjWQwhxdnMeeUsUyx0RFQZBIgfy3IgRF3DDH3JW-M&__tn__=-UK-R&c\[0\]=AT0AVXKvomYNfgMqwnYNOGyrVWeXJAvB6dYYsIjrUoT_lHwN0BfdlvX3tb223pyQZkthDfoFYG5XS8OFDK-3b0RwlzLA0_82Rk5XmZFwqV9LX7MFJkmQ5wlqeTuPNCr0Go96DrFDdEi7oupKcOS9cP3ydQvwdKOfrzSxD8yT-DmY_zpWTo5z0g)
+Rosti 是由馬鈴薯刨絲之後浸泡過鹽水再拿去煎（薯餅已經有鹹了），再配上培根（本身也有鹹味），再配上起司（本身也是鹹的），我覺得天天吃這個可能很快就會需要洗腎XDD 好奇的人，可以參考 rosti 的食譜：[https://shise.com.tw/rosti/](https://shise.com.tw/rosti/)
 
 接著我去逛了超市，看到這個壽司附的「大魚」醬油，每一隻都是澳洲小魚醬油的三倍大，超可愛！(但我後來跟沒來過澳洲的朋友們分享這件事，他們完全不懂我的點在哪，看來壽司的小魚醬油真的是澳洲特色XD)
 

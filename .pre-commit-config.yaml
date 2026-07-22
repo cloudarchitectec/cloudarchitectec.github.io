@@ -8,7 +8,7 @@ repos:
         files: ^content/posts/
         pass_filenames: false
       - id: posts-index-fresh
-        name: POSTS-INDEX.md is current
+        name: docs/POSTS-INDEX.md is current
         entry: bash -c 'source scripts/ensure-venv.sh && "$VENV_PYTHON" scripts/gen-posts-index.py --check'
         language: system
         # always_run (not files:) so a delete-only post commit is also caught —

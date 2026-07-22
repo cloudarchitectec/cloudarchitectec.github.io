@@ -1,4 +1,4 @@
-"""POSTS-INDEX.md must stay in sync with content/posts/.
+"""docs/POSTS-INDEX.md must stay in sync with content/posts/.
 
 The index is a generated map (scripts/gen-posts-index.py) that lets humans and
 AI locate a post without scanning every bundle. If a post is added or edited
@@ -14,15 +14,15 @@ gen = load_repo_module("scripts/gen-posts-index.py")
 
 class TestPostsIndex:
     def test_index_file_exists(self):
-        assert (REPO_ROOT / "POSTS-INDEX.md").exists(), (
-            "POSTS-INDEX.md missing — run: python3 scripts/gen-posts-index.py"
+        assert (REPO_ROOT / "docs" / "POSTS-INDEX.md").exists(), (
+            "docs/POSTS-INDEX.md missing — run: python3 scripts/gen-posts-index.py"
         )
 
     def test_index_is_up_to_date(self):
         expected = gen.render(gen.collect_posts())
-        actual = (REPO_ROOT / "POSTS-INDEX.md").read_text(encoding="utf-8")
+        actual = (REPO_ROOT / "docs" / "POSTS-INDEX.md").read_text(encoding="utf-8")
         assert actual == expected, (
-            "POSTS-INDEX.md is stale — run: python3 scripts/gen-posts-index.py"
+            "docs/POSTS-INDEX.md is stale — run: python3 scripts/gen-posts-index.py"
         )
 
     def test_every_published_post_indexed(self):

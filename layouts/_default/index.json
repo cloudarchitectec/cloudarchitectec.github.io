@@ -1,0 +1,15 @@
+{{- /* Search index (overrides PaperMod). Full .Plain made this ~4.6 MB — downloaded
+     on every /search visit before search works. Cap content at a 500-rune prefix
+     (a few opening paragraphs) and expose tags; title/summary stay complete. */ -}}
+{{- $index := slice -}}
+{{- range site.RegularPages -}}
+    {{- if and (not .Params.searchHidden) (ne .Layout `archives`) (ne .Layout `search`) }}
+        {{- $index = $index | append (dict
+            "title" .Title
+            "permalink" .Permalink
+            "summary" .Summary
+            "content" (.Plain | truncate 500 "")
+            "tags" (.Params.tags | default slice)) -}}
+    {{- end }}
+{{- end -}}
+{{- $index | jsonify -}}

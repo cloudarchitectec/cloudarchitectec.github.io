@@ -121,4 +121,16 @@ class TestBuiltListPages:
     def test_search_page_has_input_and_script(self, built_site):
         html = (built_site / SEARCH_PAGE).read_text(encoding="utf-8")
         assert 'id="searchInput"' in html or "id=searchInput" in html
-        assert "chinese-search" in html
+        # Search is PaperMod's fastsearch.js + fuse, tuned via [params.fuseOpts] (C26).
+        # The old chinese-search.js layer was deleted in C32 — it never ran.
+        # PaperMod concatenates fuse.js + fastsearch.js into one hashed bundle.
+        assert "/assets/js/search." in html, "PaperMod search bundle missing from /search"
+        assert 'id="searchResults"' in html or "id=searchResults" in html
+
+    def test_search_index_is_slim(self, built_site):
+        """C26: index.json is capped at 500 runes of content per post. Guard the regression
+        back to the 4.6 MB full-content index."""
+        index = built_site / "index.json"
+        assert index.is_file(), "search index not built"
+        size_kb = index.stat().st_size / 1024
+        assert size_kb < 800, f"search index ballooned to {size_kb:.0f} KB (expected ~360 KB)"

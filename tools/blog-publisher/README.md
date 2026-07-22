@@ -58,7 +58,7 @@ There is **no** staging folder — output goes straight to `content/posts/`.
 | Exactly one category | Picker enforces single selection from `data/categories.yaml` |
 | Validation before finish | Runs `scripts/check-posts.py --post` on `content/posts/{slug}/` |
 
-See [`TESTING.md`](../../TESTING.md) for the full validation tiers.
+See [`docs/TESTING.md`](../../docs/TESTING.md) for the full validation tiers.
 
 ## Input front matter example
 

@@ -35,8 +35,43 @@
     {{- $figureClass = printf "%s post-figure--wide" $figureClass -}}
   {{- end -}}
 {{- end -}}
+{{- /* Prod-only WebP variants (480/680/1000/1360w, capped at original width) in a
+       <picture> <source>; the untouched original stays as the <img> fallback.
+       `sizes` follows the rendered width: 680px article column, 420px portrait cap
+       (post-images.css). hugo server skips processing and serves originals. */ -}}
+{{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) -}}
+{{- $webpSrcset := "" -}}
+{{- /* Width 0 = undecodable file (misnamed format) — skip WebP, keep plain <img> */ -}}
+{{- if and $resource $prod (in (slice "jpeg" "png") $resource.MediaType.SubType) (gt $resource.Width 0) -}}
+  {{- $variants := slice -}}
+  {{- range $w := (slice 480 680 1000 1360) -}}
+    {{- if gt $resource.Width $w -}}
+      {{- $variants = $variants | append (printf "%s %dw" (($resource.Resize (printf "%dx webp q85" $w)).RelPermalink) $w) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* Full-width WebP only when it actually beats the original — re-encoding an
+         already-compressed small image often comes out larger */ -}}
+  {{- $full := $resource.Resize (printf "%dx webp q85" $resource.Width) -}}
+  {{- if lt (len $full.Content) (len $resource.Content) -}}
+    {{- $variants = $variants | append (printf "%s %dw" $full.RelPermalink $resource.Width) -}}
+  {{- end -}}
+  {{- with $variants -}}{{- $webpSrcset = delimit . ", " -}}{{- end -}}
+{{- end -}}
+{{- $sizesAttr := cond (eq $orientation "portrait") "(min-width: 768px) 420px, 100vw" "(min-width: 768px) 680px, 100vw" -}}
 <figure class="{{ $figureClass }}">
+{{- if $webpSrcset }}
+<picture>
+<source type="image/webp" srcset="{{ $webpSrcset }}" sizes="{{ $sizesAttr }}">
+{{- end }}
 <img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async"
   {{- with $resource }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}
   {{- if eq $modifier "center" }} style="margin-inline:auto;display:block"{{ end }}>
+{{- if $webpSrcset }}
+</picture>
+{{- end }}
+{{- /* Caption comes from the markdown image title: ![alt](src "caption").
+       Styled by `.post-figure figcaption` in post-images.css. */ -}}
+{{- with .Title }}
+<figcaption>{{ . }}</figcaption>
+{{- end }}
 </figure>

@@ -32,17 +32,44 @@
 
     {{- if $cover -}}
         {{- if (and (in $processableFormats $cover.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
-            <img loading="{{ $loading }}"
-                srcset='{{- range $size := $sizes -}}
-                            {{- if (ge $cover.Width $size) }}
-                                {{- printf "%s %s" (($cover.Resize (printf "%sx" $size)).Permalink) (printf "%sw," $size) }}
+            {{- /* WebP <source> + original-format <img> fallback; og:image/RSS keep the
+                   untouched original via templates/opengraph.html / rss.xml. Full-width
+                   WebP only when it beats the original (small covers can re-encode larger);
+                   no worthwhile WebP variant -> plain <img>, no <picture>. */}}
+            {{- $webpVariants := slice }}
+            {{- /* Width 0 = Hugo couldn't decode the file (e.g. misnamed format) — skip
+                   WebP entirely rather than crash the build on Resize */}}
+            {{- if gt $cover.Width 0 }}
+            {{- range $size := $sizes }}
+                {{- if gt $cover.Width (int $size) }}
+                    {{- $webpVariants = $webpVariants | append (printf "%s %sw" (($cover.Resize (printf "%sx webp q85" $size)).Permalink) $size) }}
+                {{- end }}
+            {{- end }}
+            {{- $fullWebp := $cover.Resize (printf "%dx webp q85" $cover.Width) }}
+            {{- if lt (len $fullWebp.Content) (len $cover.Content) }}
+                {{- $webpVariants = $webpVariants | append (printf "%s %dw" $fullWebp.Permalink $cover.Width) }}
+            {{- end }}
+            {{- end }}
+            {{- if $webpVariants }}
+            <picture>
+                <source type="image/webp"
+                    srcset='{{ delimit $webpVariants ", " }}'
+                    sizes="(min-width: 768px) 720px, 100vw">
+            {{- end }}
+                <img loading="{{ $loading }}"
+                    srcset='{{- range $size := $sizes -}}
+                                {{- if (ge $cover.Width $size) }}
+                                    {{- printf "%s %s" (($cover.Resize (printf "%sx" $size)).Permalink) (printf "%sw," $size) }}
+                                {{- end }}
                             {{- end }}
-                        {{- end }}
-                        {{- printf "%s %dw" ($cover.Permalink) ($cover.Width) }}'
-                src="{{ $cover.Permalink }}"
-                sizes="(min-width: 768px) 720px, 100vw"
-                width="{{ $cover.Width }}" height="{{ $cover.Height }}"
-                alt="{{ $alt }}">
+                            {{- printf "%s %dw" ($cover.Permalink) ($cover.Width) }}'
+                    src="{{ $cover.Permalink }}"
+                    sizes="(min-width: 768px) 720px, 100vw"
+                    width="{{ $cover.Width }}" height="{{ $cover.Height }}"
+                    alt="{{ $alt }}">
+            {{- if $webpVariants }}
+            </picture>
+            {{- end }}
         {{- else }}
             <img loading="{{ $loading }}" src="{{ $imgdl }}" alt="{{ $alt }}"
                 {{- with $cover }} width="{{ .Width }}" height="{{ .Height }}"{{ end }}>

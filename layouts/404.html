@@ -1,0 +1,13 @@
+{{- define "main" }}
+<div class="not-found-page">
+  <p class="not-found-code">404 — Page Not Found</p>
+  <h1 class="not-found-title">找不到該頁</h1>
+  <p class="not-found-blurb">你尋找的頁面可能已搬家、改了網址，或從未存在。<br>
+    試試從下面的入口重新尋找文章：</p>
+  <nav class="not-found-links" aria-label="常用連結">
+    <a href="/">→ 回到首頁</a>
+    <a href="{{ site.Params.homePostListUrl | default "/posts/" }}">→ 文章列表</a>
+    <a href="/search/">→ 搜尋文章</a>
+  </nav>
+</div>
+{{- end }}{{/* end main */}}

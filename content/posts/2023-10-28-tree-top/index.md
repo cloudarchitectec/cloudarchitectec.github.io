@@ -17,7 +17,7 @@ tags: ["澳洲旅遊","布里斯本"]
 
 今天要來跟大家分享澳洲一個很有趣的戶外活動 — 高空樹頂挑戰 (Tree Top Challenge)。我跟朋友去的是位於陽光海岸的 [Tree Top Challenges Big Pineapple](https://www.treetopchallenge.com.au/sunshine-coast-adventure) 🍍(地址為：76 Nambour Connection Rd, Woombye QLD 4559)。
 
-他們還有另外兩個園區，分別在黃金海岸的 [Mount Tamborine](https://www.treetopchallenge.com.au/tamborine-treetop-adventure?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHVjoxRZRjKkTi3H5mtEY8lgn6XDv5eBYbIEpBElkcbImi88GJeYegBoCQb8QAvD_BwE) 跟 [Currumbin](https://www.treetopchallenge.com.au/adventure-park/currumbin-wildlife-sanctuary?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHas9NpVJBmg8yCiY92AJW_9FqwiLIX0-L7K2PVtpciJHS1kgwLub_xoCNaUQAvD_BwE)
+他們還有另外兩個園區，分別在黃金海岸的 [Mount Tamborine](https://www.treetopchallenge.com.au/tamborine-mtn-adventure) 跟 [Currumbin](https://www.treetopchallenge.com.au/adventure-park/currumbin-wildlife-sanctuary?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHas9NpVJBmg8yCiY92AJW_9FqwiLIX0-L7K2PVtpciJHS1kgwLub_xoCNaUQAvD_BwE)
 
 每個時段都有限定的入場人數，大家出發前記得要先上官網選時段購票 (成人 $65 澳幣)，網站上說大概需要三小時完成挑戰，但其實入場後並沒有時間限制，如果你想待更久也可以。
 

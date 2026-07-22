@@ -8,10 +8,10 @@ This document describes how the blog is validated across local development, pre-
 
 | Location | Purpose | Examples |
 |----------|---------|----------|
-| [`scripts/`](scripts/) | Runnable tools — CI, pre-commit, shell, and CLI entry points | `check-posts.py`, `check-spelling.py`, `verify-build.sh`, `dev-check.sh`, `check-internal-links.py` |
-| [`scripts/post-validation/`](scripts/post-validation/) | Shared rule library imported by `check-posts.py` | `cover-check.py`, `frontmatter-check.py`, `image-size-check.py` |
-| [`tests/`](tests/) | Pytest suites only — no direct CI hooks | `test_post_validation.py`, `test_ui_smoke.py`, … |
-| [`tests/hugo_site.py`](tests/hugo_site.py) | Test helpers (Hugo build, static server) | Used by pytest fixtures, not run directly |
+| [`scripts/`](../scripts/) | Runnable tools — CI, pre-commit, shell, and CLI entry points | `check-posts.py`, `check-spelling.py`, `verify-build.sh`, `dev-check.sh`, `check-internal-links.py` |
+| [`scripts/post-validation/`](../scripts/post-validation/) | Shared rule library imported by `check-posts.py` | `cover-check.py`, `frontmatter-check.py`, `image-size-check.py` |
+| [`tests/`](../tests/) | Pytest suites only — no direct CI hooks | `test_post_validation.py`, `test_ui_smoke.py`, … |
+| [`tests/hugo_site.py`](../tests/hugo_site.py) | Test helpers (Hugo build, static server) | Used by pytest fixtures, not run directly |
 
 **Why not merge into `tests/`?**
 
@@ -153,7 +153,7 @@ No Hugo build, no `public/` greps — stays fast.
 
 ## Tier 3 — PR CI
 
-Workflow: [`.github/workflows/validate-posts.yml`](.github/workflows/validate-posts.yml)
+Workflow: [`.github/workflows/validate-posts.yml`](../.github/workflows/validate-posts.yml)
 
 1. `scripts/check-posts.py`
 2. Strict Hugo build (`--printPathWarnings --logLevel warn`)
@@ -166,7 +166,7 @@ Same validation as PR, plus GA4 stats refresh (`data/analytics.json`), analytics
 
 ## Tier 5 — Post-deploy smoke
 
-Script: [`scripts/post-deploy-smoke.sh`](scripts/post-deploy-smoke.sh)
+Script: [`scripts/post-deploy-smoke.sh`](../scripts/post-deploy-smoke.sh)
 
 Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/sitemap.xml`, `/robots.txt`, stable post, `/search/`.
 
@@ -181,6 +181,7 @@ Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/site
 | `tests/test_site_integrity.py` | Sitemap depth, production domain, future-post leak |
 | `tests/test_seo_smoke.py` | Canonical and social meta on sample pages |
 | `tests/test_ui_smoke.py` | Playwright visible-content smoke |
+| `tests/test_search.py` | Playwright `/search` — zh/en queries, tag-only match, dead-link guard. **CJK needs a trailing real keypress**: Playwright types 雲端 via `Input.insertText`, which fires `input` but not `keyup`, and fastsearch binds `onkeyup` → silent false zeros. See the module docstring before editing |
 | `tests/test_a11y.py` | axe serious/critical (`color-contrast` allowlisted) |
 | `tests/test_spellcheck.py` | Post spellcheck: British EN, zh-TW spacing, emphasis hygiene |
 | `tests/hugo_site.py` | Hugo build + static server helpers |
@@ -222,8 +223,8 @@ Out of scope: live MailerLite submit, Waline comment post, external URL reachabi
 
 ## Related tooling
 
-New posts: [`tools/blog-publisher/pre-publish-post.py`](tools/blog-publisher/pre-publish-post.py) emits front matter matching `check-posts.py` rules and runs validation before copy. See [`tools/blog-publisher/README.md`](tools/blog-publisher/README.md).
+New posts: [`tools/blog-publisher/pre-publish-post.py`](../tools/blog-publisher/pre-publish-post.py) emits front matter matching `check-posts.py` rules and runs validation before copy. See [`tools/blog-publisher/README.md`](../tools/blog-publisher/README.md).
 
-Optional before publish: `python3 scripts/check-spelling.py --fix --post SLUG` (British English, zh-TW spacing, emphasis). Rules in [`scripts/spellcheck-references/`](scripts/spellcheck-references/).
+Optional before publish: `python3 scripts/check-spelling.py --fix --post SLUG` (British English, zh-TW spacing, emphasis). Rules in [`scripts/spellcheck-references/`](../scripts/spellcheck-references/).
 
 Manual `hugo server` checks remain useful for subjective layout (spacing, typography, dark mode).

@@ -5,7 +5,9 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-MD_IMG = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
+# Group 1 is the bundle path; CommonMark's optional title — ![alt](src "caption"),
+# rendered as <figcaption> by render-image.html — is matched but deliberately excluded.
+MD_IMG = re.compile(r"""!\[[^\]]*\]\(\s*([^)\s]+)(?:\s+(?:"[^"]*"|'[^']*'|\([^)]*\)))?\s*\)""")
 DOUBLE_EXT_SUFFIXES = (".jpeg.jpg", ".png.jpg")
 DOUBLE_EXT_REF = re.compile(r"\.(?:jpeg\.jpg|png\.jpg)")
 UNSPLASH_INLINE = re.compile(r"^\s*Photo by ", re.IGNORECASE)

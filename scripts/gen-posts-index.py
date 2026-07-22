@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate POSTS-INDEX.md — a one-file map of every post.
+"""Generate docs/POSTS-INDEX.md — a one-file map of every post.
 
 Purpose: let humans and AI assistants locate a post by title / category /
 tags / summary WITHOUT grepping or globbing all 200+ post bundles. Read the
@@ -8,7 +8,7 @@ index, then open the one file you need.
 Source of truth is always the posts themselves; this file is derived. Regenerate
 after adding or editing posts:
 
-    python3 scripts/gen-posts-index.py            # rewrite POSTS-INDEX.md
+    python3 scripts/gen-posts-index.py            # rewrite docs/POSTS-INDEX.md
     python3 scripts/gen-posts-index.py --check    # exit 1 if stale (CI/pre-commit)
 
 Wired into scripts/dev-check.sh and tools/blog-publisher/pre-publish-post.py.
@@ -24,7 +24,7 @@ import yaml
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 POSTS_DIR = REPO_ROOT / "content" / "posts"
-OUTPUT = REPO_ROOT / "POSTS-INDEX.md"
+OUTPUT = REPO_ROOT / "docs" / "POSTS-INDEX.md"
 
 SUMMARY_MAX = 60  # chars (CJK-heavy, so keep short)
 
@@ -136,7 +136,7 @@ def main() -> int:
     parser.add_argument(
         "--check",
         action="store_true",
-        help="Exit 1 if POSTS-INDEX.md is out of date (do not write).",
+        help="Exit 1 if docs/POSTS-INDEX.md is out of date (do not write).",
     )
     args = parser.parse_args()
 
@@ -147,13 +147,14 @@ def main() -> int:
         current = OUTPUT.read_text(encoding="utf-8") if OUTPUT.exists() else ""
         if current != content:
             print(
-                "POSTS-INDEX.md is stale — run: python3 scripts/gen-posts-index.py",
+                "docs/POSTS-INDEX.md is stale — run: python3 scripts/gen-posts-index.py",
                 file=sys.stderr,
             )
             return 1
-        print("POSTS-INDEX.md is up to date.")
+        print("docs/POSTS-INDEX.md is up to date.")
         return 0
 
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(content, encoding="utf-8")
     print(f"✅ Wrote {OUTPUT.relative_to(REPO_ROOT)} ({len(posts)} posts)")
     return 0

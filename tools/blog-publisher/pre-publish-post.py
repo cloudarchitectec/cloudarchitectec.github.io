@@ -833,7 +833,7 @@ def main(input_file: str, no_hugo: bool) -> None:
 
     run_spellcheck_fix(slug)
 
-    click.echo("\n🗂️  Regenerating POSTS-INDEX.md…")
+    click.echo("\n🗂️  Regenerating docs/POSTS-INDEX.md…")
     subprocess.run([sys.executable, str(POSTS_INDEX_SCRIPT)], cwd=PROJECT_ROOT, check=False)
 
     if not validate_post(post_dir):

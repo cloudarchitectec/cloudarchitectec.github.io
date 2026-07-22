@@ -58,8 +58,24 @@
       <article class="home-post-entry">
         {{- with $post.Params.cover.image }}
         <div class="home-post-thumb">
+          {{- /* Thumbs render at 148px (104px mobile) in a 4:3 crop — Fill a 2x variant
+                 instead of shipping the full-size original. Falls back to the raw file
+                 when the resource is missing/undecodable or in dev builds. */}}
+          {{- $thumb := $post.Resources.Get (strings.TrimPrefix "/" .) }}
+          {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+          {{- if and $thumb $prod (in (slice "jpeg" "png" "webp") $thumb.MediaType.SubType) (gt $thumb.Width 0) }}
+          {{- $thumbWebp := $thumb.Fill "296x222 webp q85" }}
+          {{- $thumbFallback := $thumb.Fill "296x222 q85" }}
+          <picture>
+            <source type="image/webp" srcset="{{ $thumbWebp.RelPermalink }}">
+            <img src="{{ $thumbFallback.RelPermalink }}" alt="{{ $post.Params.cover.alt | default $post.Title }}"
+              width="296" height="222"
+              {{- if eq $index 0 }} loading="eager" fetchpriority="high"{{ else }} loading="lazy"{{ end }}>
+          </picture>
+          {{- else }}
           <img src="{{ $post.RelPermalink }}{{ . }}" alt="{{ $post.Params.cover.alt | default $post.Title }}"
             {{- if eq $index 0 }} loading="eager" fetchpriority="high"{{ else }} loading="lazy"{{ end }}>
+          {{- end }}
         </div>
         {{- end }}
         <div class="home-post-body">
@@ -71,10 +87,18 @@
           {{- if (ne ($post.Param "hideSummary") true) }}
           <p class="home-post-summary">{{ with $post.Description }}{{ . | plainify | htmlUnescape }}{{ else }}{{ $post.Summary | plainify | htmlUnescape }}{{ if $post.Truncated }}…{{ end }}{{ end }}</p>
           {{- end }}
+          {{- if (ne ($post.Param "disableShare") true) }}
+          <div class="home-post-share">
+            {{- partial "share_buttons.html" $post }}
+          </div>
+          {{- end }}
         </div>
       </article>
       {{- end }}
     </div>
+
+    {{- /* Shared share-button JS/CSS — included once for every button on this page. */}}
+    {{- partial "share_buttons_assets.html" . }}
 
     <a class="home-view-all" href="{{ site.Params.homePostListUrl | relLangURL }}">查看全部文章 →</a>
   </div>

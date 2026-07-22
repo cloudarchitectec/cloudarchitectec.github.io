@@ -15,7 +15,7 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.146.0
+      HUGO_VERSION: 0.150.1
     steps:
       - name: Install Hugo CLI
         run: |
@@ -48,9 +48,18 @@ jobs:
       - name: Validate Hugo posts
         run: .venv/bin/python3 scripts/check-posts.py
 
-      - name: POSTS-INDEX.md is current
+      - name: docs/POSTS-INDEX.md is current
         run: .venv/bin/python3 scripts/gen-posts-index.py --check
 
+      - name: Cache Hugo processed images
+        # resources/_gen holds resized/WebP image variants; without this cache every
+        # PR build reprocesses all post images from scratch
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen
+          key: hugo-images-${{ hashFiles('content/posts/**/images/**') }}
+          restore-keys: |
+            hugo-images-
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production

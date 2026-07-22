@@ -61,7 +61,12 @@ disablePathToLower = true
 
   # Enable Waline comments
   comments = true
-  
+
+  # Deliberately placed BEFORE the [params.analytics]/[params.schema] sub-tables so it binds
+  # to [params] directly — the Show* flags after those sub-tables silently bind to
+  # [params.schema] and are dead (see claude-plan.md C25 notes). Carved out on purpose.
+  ShowCodeCopyButtons = true
+
   # SEO and Analytics enhancements
   [params.analytics]
     googleSiteVerification = "FlPzC5GcakpWZTQrkkoi896cyAcijcZ40EPSJ45Gvi8"  # Google Search Console verification
@@ -82,7 +87,6 @@ disablePathToLower = true
   ShowShareButtons = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
   ShowWordCount = true
   ShowRssButtonInSectionTermList = true
   UseHugoToc = true
@@ -110,7 +114,7 @@ disablePathToLower = true
     minMatchCharLength = 1  # Chinese characters are meaningful individually
     shouldSort = true
     findAllMatches = true   # Find all matches for better Chinese search
-    keys = ["title", "permalink", "summary", "content"]
+    keys = ["title", "permalink", "summary", "content", "tags"]
     location = 0
     threshold = 0.2  # More strict for Chinese to avoid too many false matches
     distance = 50    # Reduce distance for more precise matching
@@ -203,7 +207,9 @@ disablePathToLower = true
   [markup.highlight]
     noClasses = false
     codeFences = true
-    guessSyntax = true
+    # Unlabelled code fences render as neutral plain text instead of Chroma's guess —
+    # guessing mis-colours plain output/log blocks. Tag the fence (```bash) for highlighting.
+    guessSyntax = false
     lineNos = true
     style = "github"
 
