@@ -48,7 +48,7 @@ jobs:
       - name: Validate Hugo posts
         run: .venv/bin/python3 scripts/check-posts.py
 
-      - name: POSTS-INDEX.md is current
+      - name: docs/POSTS-INDEX.md is current
         run: .venv/bin/python3 scripts/gen-posts-index.py --check
 
       - name: Cache Hugo processed images

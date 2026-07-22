@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Local validation wrapper — see TESTING.md for tier overview.
+# Local validation wrapper — see docs/TESTING.md for tier overview.
 #
 # Usage:
 #   ./scripts/dev-check.sh              # check-posts + fast unit tests (~5s)
@@ -65,7 +65,7 @@ spellcheck_dry_run() {
   fi
 }
 
-# Keep POSTS-INDEX.md (the post-location map for humans/AI) in sync with content.
+# Keep docs/POSTS-INDEX.md (the post-location map for humans/AI) in sync with content.
 # Cheap; regenerate on every run so it is never stale before a commit.
 "$PYTHON" scripts/gen-posts-index.py
 

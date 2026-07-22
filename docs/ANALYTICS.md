@@ -50,7 +50,7 @@ If the workflow fails, check secrets and service account permissions above.
 
 | Workflow | Role |
 |----------|------|
-| [`.github/workflows/blog-deployment.yml`](.github/workflows/blog-deployment.yml) | Sole analytics refresher: fetches GA4 before the Hugo build (push to `main`, weekly cron, manual). Failure blocks deploy |
-| [`.github/actions/update-analytics`](.github/actions/update-analytics/action.yml) | Composite action doing the fetch. **Fetch-only** — the old commit step was removed so analytics never lands on `main` |
+| [`.github/workflows/blog-deployment.yml`](../.github/workflows/blog-deployment.yml) | Sole analytics refresher: fetches GA4 before the Hugo build (push to `main`, weekly cron, manual). Failure blocks deploy |
+| [`.github/actions/update-analytics`](../.github/actions/update-analytics/action.yml) | Composite action doing the fetch. **Fetch-only** — the old commit step was removed so analytics never lands on `main` |
 
 See also [TESTING.md](TESTING.md) for validation tiers.
