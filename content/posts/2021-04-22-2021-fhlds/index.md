@@ -38,7 +38,7 @@ tags: ["澳洲首次置業指南","澳洲房地產","坎培拉"]
 
 ### FHLDS 申請資格
 
-申請 FHLDS 的規定年年在變，最新規定可以參考這裡: <https://www.nhfic.gov.au/support-buy-home/first-home-guarantee>
+申請 FHLDS 的規定年年在變，最新規定可以參考這裡: <https://www.housingaustralia.gov.au/support-buy-home>
 
 2021 年的申請資格為：
 
