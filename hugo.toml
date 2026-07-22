@@ -207,7 +207,9 @@ disablePathToLower = true
   [markup.highlight]
     noClasses = false
     codeFences = true
-    guessSyntax = true
+    # Unlabelled code fences render as neutral plain text instead of Chroma's guess —
+    # guessing mis-colours plain output/log blocks. Tag the fence (```bash) for highlighting.
+    guessSyntax = false
     lineNos = true
     style = "github"
 

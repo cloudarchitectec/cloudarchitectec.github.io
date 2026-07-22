@@ -41,7 +41,7 @@ tags: ["年度回顧","坎培拉", "AWS"]
 
 為了這個 AoD 我寫了一個小資安挑戰(其實也就是一個超級簡單的 Lambda function 跟一個 CloudFormation stack 而已)。
 
-沒想到居然被人注意到了，他們打算要把這個挑戰放到今年八月 AWS 在美國休士頓舉辦的 re:inforce conference 上使用：[https://reinforce.awsevents.com/](https://l.facebook.com/l.php?u=https%3A%2F%2Freinforce.awsevents.com%2F%3Ffbclid%3DIwAR3f3dVzBGEDyOjrJWn9zF0_64S9X-VTyZE0StlEoB59A6hIgnviKY56Bpg&h=AT3dworzgH2zB7-tH3kJ9aEZ7aLAH08ZE76yAvRxiY_A11Z2ZKusNZDdQHHht4ti96A3zkfqC1J7Sc4yQWI8n9dHoHli0UqER4gmFlTppFNuUuRW26GWJgXhQ5cjVP0FOA&__tn__=-UK-R&c\[0\]=AT2Vfg0G04NAetq0IppfY35EQDDg9VUtzP_LjDshnh_o1MTo6BBYCIYlF0nhKFEjU9vVU7qVMmaT_UenIpbFW9OSb8r0TVebc5UkXqmH023P4CP-ebAtn-8UZS0K4gfTW9oC90IQWzOTjTKI8gaexAPlfq0)
+沒想到居然被人注意到了，他們打算要把這個挑戰放到今年八月 AWS 在美國休士頓舉辦的 re:inforce conference 上使用：[https://reinforce.awsevents.com/](https://reinforce.awsevents.com/)
 
 負責的部門甚至還邀請我去休士頓現場參加會議跟協助挑戰的進行。
 

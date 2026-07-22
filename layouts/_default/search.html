@@ -26,8 +26,8 @@
     <ul id="searchResults" aria-label="search results"></ul>
 </div>
 
-<!-- Enhanced Chinese Search -->
-{{- $chineseSearch := resources.Get "js/chinese-search.js" | resources.Minify }}
-<script src="{{ $chineseSearch.RelPermalink }}"></script>
+{{/* Search is served entirely by PaperMod's fastsearch.js, tuned via [params.fuseOpts]
+     in hugo.toml (C26). The old assets/js/chinese-search.js "enhanced" layer was deleted —
+     it polled for window.fuse, which fastsearch.js never exposes, so it never ran. */}}
 
 {{- end }}{{/* end main */}}

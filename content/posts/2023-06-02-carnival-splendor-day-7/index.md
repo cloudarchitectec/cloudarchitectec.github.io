@@ -32,7 +32,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 吃完早餐後我們跑到一樓泰國情侶的房間集合，順便參觀了一下他們的海景房。基本上格局跟我們一模一樣，只是他們沒有陽台，而且窗戶也比我們小很多。
 
-此時泰國情侶跟我們分享昨天在 Mystery Island，有一個 40 幾歲的女性遊客溺斃的消息，讓我們大吃一驚！他們說很多遊客都在討論這件事，有人看到她被救上來之後在沙灘上被施以人工呼吸，但後來還是回天乏術。雖然據說每次郵輪都會有遊客喪生的消息，但聽到還是覺得非常可怕! 相關報導可以參考這裡，裡面沒有太多關於細節的描述，但請大家平常進行水上活動的時候一定要多加小心、注意安全：[https://7news.com.au/.../cruise-passenger-dies-while...](https://l.facebook.com/l.php?u=https%3A%2F%2F7news.com.au%2Fnews%2Fnsw%2Fcruise-passenger-dies-while-swimming-on-mystery-island--c-10741959%3Ffbclid%3DIwAR0gZi1XgWSudveBFE2zOwKqdw2BCpspOt15OsTOV3B38hfHYtamhlJ3K6E&h=AT2OG-UJHuaOojjv74IpjWitaQlaE-iNv3Z634tOQdRBWzn9WGy3LYmIltfNeO--wnUpOv3gSX9p7Naae9xGRDEEndr8-BGxoSZ7sdl8bGRd_be3P8q8lYBriLkHQ79hIA&__tn__=-UK-R&c\[0\]=AT0zhJeOQE1LaZ5PVnIu9vDNOiMWlLgS4nJ5PJzQfh3zgTLN-PxOWaJp-FYVNgmKxB_wmA_STbgHwiL-mC3nTjdE-WjE7tAKBGvUr7aZp0gcHEpMtvmkaVMWTGjhren2ukXVmc8b_iGS_8JZ7l4XmB2veMUo34Z-TB94iWhhE5tSdA9qMLn8YA)
+此時泰國情侶跟我們分享昨天在 Mystery Island，有一個 40 幾歲的女性遊客溺斃的消息，讓我們大吃一驚！他們說很多遊客都在討論這件事，有人看到她被救上來之後在沙灘上被施以人工呼吸，但後來還是回天乏術。雖然據說每次郵輪都會有遊客喪生的消息，但聽到還是覺得非常可怕! 相關報導可以參考這裡，裡面沒有太多關於細節的描述，但請大家平常進行水上活動的時候一定要多加小心、注意安全：[https://7news.com.au/news/nsw/cruise-passenger-dies-while-swimming-on-mystery-island--c-10741959](https://7news.com.au/news/nsw/cruise-passenger-dies-while-swimming-on-mystery-island--c-10741959)
 
 ### Signal Island
 

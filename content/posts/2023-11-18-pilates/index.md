@@ -67,7 +67,7 @@ categories: ["澳洲生活"]
 
 上面說過我一開始加入的是 [Studio Pilates](https://www.studiopilates.com/studios/nundah-village/?gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r2CUujP-StmP20NLy3Y8zWhSgelTR_ALCcpyb5EZADsGpHz51LXtq8aAjT8EALw_wcB)。他們有不同的收費方式，但簡單來說就是一次購買的堂數越多，每堂的價格就更便宜，我當初買的是 10 堂澳幣 $260 的課程，也就是一堂 $26 澳幣 (537 台幣)。Pilates Studio 的上課方式是每堂課都會有老師帶著同學一起做動作，如果動作做得不對，老師會從旁幫你調整。除此之外，每個人旁邊會有一台電視，所以聽不懂指示的話，也可以照著影片上的人依樣畫葫蘆。
 
-微軟的補助經費用完之後，我覺得我真的還滿喜歡皮拉提茲這個運動的，但是一堂要 $26 澳幣真的好貴，於是我決定加入了第二間皮拉提茲教室 [Pronto Pilates](https://www.prontopilates.com.au/qld/northlakes/?utm_source=v_adwords&utm_medium=search&utm_campaign=brand_north_lakes&gad_source=1&gclid=Cj0KCQiA3uGqBhDdARIsAFeJ5r3_X28ZUGbAJ8Wf_mZzMzmqV-eJTheQMPH26BXe6CF_6K09RxRG4JgaAhY7EALw_wcB)，他們雖然也是會員制，但是不需要入會費，也隨時可以解約，無需罰款，我選的是一個月 11 堂課 $77 的課程，也就是說一堂課只要 $7 澳幣 (144 台幣)，真的是非常便宜！
+微軟的補助經費用完之後，我覺得我真的還滿喜歡皮拉提茲這個運動的，但是一堂要 $26 澳幣真的好貴，於是我決定加入了第二間皮拉提茲教室 [Pronto Pilates](https://www.prontopilates.com.au/qld/north-lakes/)，他們雖然也是會員制，但是不需要入會費，也隨時可以解約，無需罰款，我選的是一個月 11 堂課 $77 的課程，也就是說一堂課只要 $7 澳幣 (144 台幣)，真的是非常便宜！
 
 但便宜是有原因的，Pronto Pilates 的課程是沒有老師指導的，也就是說你只能看著電視影片上的指示來做動作，也不會有人幫你調整動作。但自動化的好處是，Pronto Pilates 的課程時間非常多，一天可以有 23 個上課時段可以選擇，非常方便。
 

@@ -27,8 +27,9 @@ GA4 Admin → **Data streams** → web stream → ID must be `G-F5Z4F1PYEE`.
 |------|--------|
 | Source | GA4 Data API via `.github/workflows/scripts/update_analytics.py` |
 | Display | `layouts/shortcodes/analytics-stats.html` on home page |
-| Refresh | Deploy CI, manual **Update Analytics Data** workflow, weekly cron (Sunday 06:00 AEST) |
+| Refresh | Deploy CI only — every push to `main`, plus manual **Deploy Blog** runs. Fetched into the build tree, **never committed**. No cron: the figures are cumulative since 2023-01-01, so drift between deploys is invisible |
 | Failure | Analytics step failure **blocks deploy** (no silent stale stats) |
+| Committed copy | `data/analytics.json` in git is a snapshot for local `hugo server`; it goes stale between edits. Refresh locally with `python3 .github/workflows/scripts/update_analytics.py` (needs the two env vars below) |
 
 ### GitHub secrets (CI only)
 
@@ -41,7 +42,7 @@ Service account needs **Viewer** on the GA4 property. Enable **Google Analytics 
 
 ### Manual refresh
 
-Actions → **Update Analytics Data** → Run workflow (optional: `force_update: true`).
+Actions → **Deploy Blog** → Run workflow. That re-fetches GA4 and redeploys with fresh stats.
 
 If the workflow fails, check secrets and service account permissions above.
 
@@ -49,7 +50,7 @@ If the workflow fails, check secrets and service account permissions above.
 
 | Workflow | Role |
 |----------|------|
-| [`.github/workflows/blog-deployment.yml`](.github/workflows/blog-deployment.yml) | Refresh analytics before Hugo build; failure blocks deploy |
-| [`.github/workflows/update-analytics.yml`](.github/workflows/update-analytics.yml) | Standalone refresh + commit to `main` (triggers deploy if JSON changed) |
+| [`.github/workflows/blog-deployment.yml`](.github/workflows/blog-deployment.yml) | Sole analytics refresher: fetches GA4 before the Hugo build (push to `main`, weekly cron, manual). Failure blocks deploy |
+| [`.github/actions/update-analytics`](.github/actions/update-analytics/action.yml) | Composite action doing the fetch. **Fetch-only** — the old commit step was removed so analytics never lands on `main` |
 
 See also [TESTING.md](TESTING.md) for validation tiers.

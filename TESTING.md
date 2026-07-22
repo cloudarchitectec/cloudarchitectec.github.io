@@ -181,6 +181,7 @@ Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/site
 | `tests/test_site_integrity.py` | Sitemap depth, production domain, future-post leak |
 | `tests/test_seo_smoke.py` | Canonical and social meta on sample pages |
 | `tests/test_ui_smoke.py` | Playwright visible-content smoke |
+| `tests/test_search.py` | Playwright `/search` — zh/en queries, tag-only match, dead-link guard. **CJK needs a trailing real keypress**: Playwright types 雲端 via `Input.insertText`, which fires `input` but not `keyup`, and fastsearch binds `onkeyup` → silent false zeros. See the module docstring before editing |
 | `tests/test_a11y.py` | axe serious/critical (`color-contrast` allowlisted) |
 | `tests/test_spellcheck.py` | Post spellcheck: British EN, zh-TW spacing, emphasis hygiene |
 | `tests/hugo_site.py` | Hugo build + static server helpers |
