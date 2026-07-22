@@ -16,7 +16,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
-這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的第四集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第四集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
   1. [《微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart》](2023-07-28-ms-csa-1)
   2. [《微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Architecting》](/posts/2023-07-28-ms-csa-2/)
@@ -34,7 +34,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 **當然，總是要先放一下免責聲明XD**
 
-這個系列完全是以我個人在澳洲微軟工作的親身經歷作為出發點，所以是我個人的主觀感受。雖然我敘述時會盡可能客觀呈現，讓各位讀者自行判斷。如果你在不同國家的微軟工作，甚至是你在不同的微軟團隊，你對於這個職位的感受可能會跟我略有出入或完全不同。這次依然會以時間軸的推進作為小標，讓大家身入其境地體驗微軟架構師的生活XD
+這個系列完全是以我個人在澳洲微軟工作的親身經歷作為出發點，所以是我個人的主觀感受。雖然我敘述時會盡可能客觀呈現，讓各位讀者自行判斷。如果你在不同國家的微軟工作，甚至是你在不同的微軟團隊，你對於這個職位的感受可能會跟我略有出入或完全不同。這次依然會以時間軸的推進作為小標，讓大家身歷其境地體驗微軟架構師的生活XD
 
 * * *
 
@@ -66,9 +66,9 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 Azure Update Management Center (UMC) 則是 Azure 最新的伺服器 patching 服務。
 
-這裡又要吐槽一下微軟，Azure Update Management Center 算是這個服務的 2.0 版本。你們知道 1.0 版本叫做什麼嗎? 1.0 版本叫做 Azure Update Management，哈哈哈哈哈! 就只差了一個 centre 而已，你說夠不夠混淆?
+這裡又要吐槽一下微軟，Azure Update Management Center 算是這個服務的 2.0 版本。你們知道 1.0 版本叫做什麼嗎? 1.0 版本叫做 Azure Update Management，哈哈哈哈哈! 就只差了一個 center 而已，你說夠不夠混淆?
 
-而且 2.0 版本跟 1.0 版本分別放在不同地方!!! 2.0 版本的 UMC 是一個獨立的 Azure 服務，1.0 版本的 Azure Update Management 其實是包含在另一個 Azure 服「Azure Automation Account」裡面的一個小功能而已。我後來發現不僅是客戶不知道這件事，我後來大概跟 10 個同事說過這件事，他們也都不知道出了 2.0 版本XDD
+而且 2.0 版本跟 1.0 版本分別放在不同地方!!! 2.0 版本的 UMC 是一個獨立的 Azure 服務，1.0 版本的 Azure Update Management 其實是包含在另一個 Azure 服務「Azure Automation Account」裡面的一個小功能而已。我後來發現不僅是客戶不知道這件事，我後來大概跟 10 個同事說過這件事，他們也都不知道出了 2.0 版本XDD
 
 總之，我立刻找 GBB (Global Black Belt) 跟 Corp CSA 幫忙，結果聯絡了一堆人，大家都在踢皮球，最後發現還是只能靠我上場。
 
@@ -80,7 +80,7 @@ Azure Update Management Center (UMC) 則是 Azure 最新的伺服器 patching �
 
 ### Workshop 倒數 3 天
 
-今天意外有一個 Corp CSA 聯絡我，我一開始還以為他可以幫忙來講 workshop，結果他只是提供我一些 slides and demo 資源而已。不過後來我沒有用他的 demo 資源，而是用我自己另外找到的，因為他給的 demo 資源太複雜了，這個 workshop 根本不用展現的那麼深入，而且他給我的 Azure UMC slides 還是 1.0 版本，所以其實也不能用哈哈哈
+今天意外有一個 Corp CSA 聯絡我，我一開始還以為他可以幫忙來講 workshop，結果他只是提供我一些 slides and demo 資源而已。不過後來我沒有用他的 demo 資源，而是用我自己另外找到的，因為他給的 demo 資源太複雜了，這個 workshop 根本不用展現得那麼深入，而且他給我的 Azure UMC slides 還是 1.0 版本，所以其實也不能用哈哈哈
 
 ### Workshop 倒數 2 天
 

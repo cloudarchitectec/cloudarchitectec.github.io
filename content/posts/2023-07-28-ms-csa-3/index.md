@@ -16,7 +16,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
-這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的第三集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第三集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
   1. [《微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart》](2023-07-28-ms-csa-1)
   2. [《微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Architecting》](/posts/2023-07-28-ms-csa-2/)
@@ -80,11 +80,11 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 ![Azure策略客體分配配置界面](images/medium-1*3tTJxBcJwoagEJGSKzpTVQ.png)
 
-*Azure documenetation: newer version of DSC*
+*Azure documentation: newer version of DSC*
 
 但是在 DSC 的官方文件上，又寫說現在有更新版的 DSC，叫做 Azure Policy Guest Assignment，結果一點進去連結，又說 Azure Policy Guest Assignment 現在改名為 Azure Automanage machine 了。
 
-我研究了一下，大概知道這個是用 Azure Policy 來執行跟判斷 server configuration 的 compliance status，但我在 Azure Portal 上試了一下，還是不太確定要怎麼用。Azure 官方文件我看了兩三次，然後也試著在 YouTube 上搜尋，但相關資訊真的不多
+我研究了一下，大概知道這個是用 Azure Policy 來執行跟判斷 server configuration 的 compliance status，但我在 Azure Portal 上試了一下，還是不太確定要怎麼用。Azure 官方文件我看了兩三次，然後也試著在 YouTube 上搜尋，但相關資訊真的不多。
 
 * * *
 
@@ -115,7 +115,7 @@ Solution 3 我也是官方文件看了幾次，YouTube 影片看了幾個，然�
 
 微軟的 CSA 分為三個領域: core/infrastructure (就是我)、Application Innovation (同事 D)、Data & AI (本來是 A，但 A 上個月轉去新的部門了，我們至今還不知道新的 Data & AI CSA 是誰XD)。既然他的職位是 Domain Architect in Data，有極大的可能他接下來要談的技術問題跟我負責的領域不相關哈哈
 
-然後他說「不知道我們 CTO 有沒有跟你說過我們這個項目在幹嘛跟我負責做什麼？我們這個其實 SQL servers 有關。」
+然後他說「不知道我們 CTO 有沒有跟你說過我們這個項目在幹嘛跟我負責做什麼？我們這個其實跟 SQL servers 有關。」
 
 想當然爾，客戶 CTO 沒跟我說這件事！
 
@@ -123,7 +123,7 @@ Solution 3 我也是官方文件看了幾次，YouTube 影片看了幾個，然�
 
 就算我接到會議邀請後，先寫信問客戶說「你好，那請問你們的 challenges & requirements 是什麼？ Would be great if you can share these with us before the meeting so that we can make sure that we have the relevant resources ready。」基本上客戶也都不會回信，大家就是直到開會的那一刻再來談lol
 
-我覺得這種運作模式對於一個資深的 Solution Architect 可能沒有問題，因為他們可能有辦法運用自己過去的經驗來提供客戶技術建議。對於我這種，連跟 Azure 服務也還不熟的菜鳥 SA 就慘了，絕大部分的時候我是連客戶在講什麼都不知道的XD
+我覺得這種運作模式對於一個資深的 Solution Architect 可能沒有問題，因為他們可能有辦法運用自己過去的經驗來提供客戶技術建議。對於我這種，連 Azure 服務也還不熟的菜鳥 SA 就慘了，絕大部分的時候我是連客戶在講什麼都不知道的XD
 
 好，回歸主題，這個客戶一講完，我就知道完蛋了哈哈哈哈！因為我之前準備的所有東西，都是跟 Azure Virtual Machines, physical servers and Azure Arc enabled servers 相關，也就是一般的 Windows 或 Linux servers，SQL servers 完全是另一個領域喔～
 
@@ -137,13 +137,13 @@ Solution 3 我也是官方文件看了幾次，YouTube 影片看了幾個，然�
 
 ### 後續
 
-當然這件事不會這樣結束，下週二客戶的確把他的問題整理好寄給我了。但就像我之前說過的，Data CSA 同事 A 已經轉去當 TS 了 (想要重溫微軟 CSA 相關的組織架構，請參考這個系列的[<<第一集 Org Chart>>](2023-07-28-ms-csa-1))。於是我詢問了我的經理這件事要找誰，經理推薦了我們團隊的另一個 Data CSA 同事 L。我簡短地跟 L 聊了一下，發現他對於 SQL Server DSC 也不是太了解。
+當然這件事不會這樣結束，下週二客戶的確把他的問題整理好寄給我了。但就像我之前說過的，Data CSA 同事 A 已經轉去當 TS 了 (想要重溫微軟 CSA 相關的組織架構，請參考這個系列的[《第一集 Org Chart》](2023-07-28-ms-csa-1))。於是我詢問了我的經理這件事要找誰，經理推薦了我們團隊的另一個 Data CSA 同事 L。我簡短地跟 L 聊了一下，發現他對於 SQL Server DSC 也不是太了解。
 
 接著我跟我的 Specialist 同事 T 聊了一下這件事，他提醒了我「這個應該是 pre-sale 吧？ pre-sale 的話，就是 TS 負責啊，所以你還是可以去找同事 A！」真是一語驚醒夢中人耶～ 於是我又跑去找同事 A。
 
 然後同事 A 果然還是滿罩的，他跟我稍微解釋了一下 SQL Server DSC 這件事目前在微軟的 Azure 雲服務裡面沒有相關的 native services，一般來說遇到這個問題，業界都是仰賴第三方軟體。於是他建議我去找 Data GBB，然後我就去找了 Data Specialist V 同事，請他幫忙去找 Data GBB。
 
-哈哈哈哈～ 然後目前已經過了一個禮拜了！我還是沒聽到後續XD 不過至少釐清了一下這件事算是 data stream 的 pre-sale 活動，所以應該是 Data Specialist V 同事協同 Data TS A 同事跟 Data GBB 一起處理。簡而言之，不甘我的事XD
+哈哈哈哈～ 然後目前已經過了一個禮拜了！我還是沒聽到後續XD 不過至少釐清了一下這件事算是 data stream 的 pre-sale 活動，所以應該是 Data Specialist V 同事協同 Data TS A 同事跟 Data GBB 一起處理。簡而言之，不干我的事XD
 
 ### 結論
 
