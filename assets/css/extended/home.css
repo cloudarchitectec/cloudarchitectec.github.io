@@ -300,6 +300,29 @@ body:has(.home-shell) .header-social-icons {
   color: var(--secondary);
 }
 
+/* ---- Per-row share button: smaller + accent-green to match the list style ---- */
+
+.home-post-share {
+  margin-top: 8px;
+}
+
+.home-post-share .share-toggle-button {
+  width: 28px;
+  height: 28px;
+  padding: 5px;
+  color: var(--accent);
+}
+
+.home-post-share .share-toggle-button svg {
+  width: 18px;
+  height: 18px;
+}
+
+.home-post-share .share-toggle-button:hover {
+  background-color: var(--accent-weak);
+  color: var(--accent);
+}
+
 .home-view-all {
   display: inline-block;
   margin-top: 8px;

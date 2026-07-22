@@ -87,10 +87,18 @@
           {{- if (ne ($post.Param "hideSummary") true) }}
           <p class="home-post-summary">{{ with $post.Description }}{{ . | plainify | htmlUnescape }}{{ else }}{{ $post.Summary | plainify | htmlUnescape }}{{ if $post.Truncated }}…{{ end }}{{ end }}</p>
           {{- end }}
+          {{- if (ne ($post.Param "disableShare") true) }}
+          <div class="home-post-share">
+            {{- partial "share_buttons.html" $post }}
+          </div>
+          {{- end }}
         </div>
       </article>
       {{- end }}
     </div>
+
+    {{- /* Shared share-button JS/CSS — included once for every button on this page. */}}
+    {{- partial "share_buttons_assets.html" . }}
 
     <a class="home-view-all" href="{{ site.Params.homePostListUrl | relLangURL }}">查看全部文章 →</a>
   </div>

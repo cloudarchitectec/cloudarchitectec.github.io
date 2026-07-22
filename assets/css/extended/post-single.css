@@ -61,6 +61,25 @@
   margin: 1.4rem 0 0;
 }
 
+/* ---- Share buttons (hero + footer): smaller + accent-green, matching the
+   homepage list style. Alignment is left to each block's own rule above. ---- */
+.post-single .post-share .share-toggle-button {
+  width: 28px;
+  height: 28px;
+  padding: 5px;
+  color: var(--accent);
+}
+
+.post-single .post-share .share-toggle-button svg {
+  width: 18px;
+  height: 18px;
+}
+
+.post-single .post-share .share-toggle-button:hover {
+  background-color: var(--accent-weak);
+  color: var(--accent);
+}
+
 /* ---- Restyle PaperMod's built-in scroll-to-top to tokens ---- */
 .top-link {
   background: var(--entry);

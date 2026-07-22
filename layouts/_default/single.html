@@ -39,6 +39,13 @@
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
 
+  {{- /* Share also shown right under the hero (assets partial is loaded once in the footer). */ -}}
+  {{- if (ne (.Param "disableShare") true) }}
+  <div class="post-share post-share-hero">
+    {{- partial "share_buttons.html" . }}
+  </div>
+  {{- end }}
+
   {{- partial "series_nav.html" . }}
 
   {{- if .Content }}
