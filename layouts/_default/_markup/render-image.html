@@ -69,4 +69,9 @@
 {{- if $webpSrcset }}
 </picture>
 {{- end }}
+{{- /* Caption comes from the markdown image title: ![alt](src "caption").
+       Styled by `.post-figure figcaption` in post-images.css. */ -}}
+{{- with .Title }}
+<figcaption>{{ . }}</figcaption>
+{{- end }}
 </figure>

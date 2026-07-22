@@ -4,13 +4,13 @@ title: "澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃�
 date: 2023-09-23
 slug: "2023-09-23-qld-first-home-1"
 cover:
-  image: "images/medium-0*y2wpY7FCgV16jMh5.jpg"
-  alt: "澳洲首次置業房地產"
+  image: "images/rgJ1J8SDEAY-unsplash.jpg"
+  alt: "木桌上的紅白色房屋模型與一串鑰匙"
   credit:
     photographer: "Tierra Mallorca"
     photographer_url: "https://unsplash.com/@tierramallorca"
-    photo_url: "https://unsplash.com"
-images: ['images/medium-0*y2wpY7FCgV16jMh5.jpg', 'images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png']
+    photo_url: "https://unsplash.com/photos/white-and-red-wooden-house-miniature-on-brown-table-rgJ1J8SDEAY"
+images: ['images/rgJ1J8SDEAY-unsplash.jpg', 'images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
 episodeseries: ["QLD 首購房"]
@@ -92,7 +92,7 @@ episodeseries: ["QLD 首購房"]
 
 如果你不確定自己想要買房的區域位於哪一個類別，你也可以使用 [Postcode search tool ](https://www.nhfic.gov.au/support-buy-home/property-price-caps)輸入你想買房的那區的郵遞區號，即可得知你的房價限制。
 
-![澳洲首次置業房價限制查詢](images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png)
+![各州房價上限表（澳幣，首府與區域中心／其他地區）：NSW 90 萬／75 萬，VIC 80 萬／65 萬，QLD 70 萬／55 萬，WA、SA、TAS 皆為 60 萬／45 萬；ACT 75 萬，NT 其他地區 60 萬](images/medium-1*wh4Po5nGc7B1UG8mCEuP2Q.png "各州及領地的房價上限")
 
 ### 申請辦法
 

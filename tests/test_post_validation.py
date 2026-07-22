@@ -77,6 +77,12 @@ class TestCoverCheck:
         )
         assert any("images:" in e for e in cover_check.check(wrap(fm)))
 
+    def test_image_path_extracted_without_caption_title(self):
+        """![alt](src "caption") — the title renders as <figcaption>, so the
+        extracted bundle path must exclude it (else it reads as a missing image)."""
+        text = wrap("title: x", '![alt](images/a.png "說明文字")\n\n![b](images/b.png)')
+        assert cover_check.extract_image_paths(text) == ["images/a.png", "images/b.png"]
+
 
 class TestFrontmatterCheck:
     def test_good_post_passes(self):

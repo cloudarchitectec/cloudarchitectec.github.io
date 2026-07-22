@@ -4,13 +4,13 @@ title: "澳洲首次置業指南-昆士蘭篇III：2023 印花稅減免怎麼算
 date: 2023-09-23
 slug: "2023-09-23-qld-first-home-3"
 cover:
-  image: "images/medium-0*-xt4stilIuFJcpXO.jpg"
-  alt: "澳洲昆州印花稅優惠"
+  image: "images/hHz4yrvxwlA-unsplash.jpg"
+  alt: "白色與棕色現代雙層住宅及泳池"
   credit:
-    photographer: "Frames For Your Heart"
-    photographer_url: "https://unsplash.com/@framesforyourheart"
-    photo_url: "https://unsplash.com"
-images: ['images/medium-0*-xt4stilIuFJcpXO.jpg', 'images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png']
+    photographer: "Avi Werde"
+    photographer_url: "https://unsplash.com/@aviwerde"
+    photo_url: "https://unsplash.com/photos/white-and-brown-concrete-building-hHz4yrvxwlA"
+images: ['images/hHz4yrvxwlA-unsplash.jpg', 'images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
 episodeseries: ["QLD 首購房"]
@@ -67,9 +67,9 @@ episodeseries: ["QLD 首購房"]
   * 例子 2 — 房價為 53 萬澳幣，結果為需要付澳幣 6,300 印花稅：首先因為 home concession，53 萬的自住房需要支付澳幣 9,800 印花稅。接下來因為申請人符合昆士蘭首次置業印花稅減免，所以印花稅可以再進一步減少澳幣 3,500，最後需要支付澳幣 6,300 印花稅。
   * 例子 3 — 房價為 60 萬澳幣，結果為需要付澳幣 12,850 印花稅：首先因為 home concession， 60 萬的自住房需要支付澳幣 12,850 印花稅。再來因為 60 萬超過昆士蘭首次置業印花稅減免的房產資格，所以這裡申請人沒辦法再進一步獲得其他印花稅減免。
 
-![昆州印花稅計算工具](images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png)昆州印花稅試算
+![昆州政府印花稅試算表格，列出三種房價的計算範例](images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png "昆州印花稅試算")
 
-印花稅的計算方式相較於其他政府補助來說更加複雜，除了跟房價有關係，也跟申請人的資格有關係(例如一對夫妻一起申請，他們各自符合的減免可能不同)。如果你不確定自己可以獲得多少「昆士蘭首次置業印花稅減免」 ，可以使用昆州政府提供的小工具：[transfer duty calculator](http://amun.osr.qld.gov.au/sap/osrqld/wd_tfr_calc_com?WDDISABLEUSERPERSONALIZATION=X)
+印花稅的計算方式相較於其他政府補助來說更加複雜，除了跟房價有關係，也跟申請人的資格有關係(例如一對夫妻一起申請，他們各自符合的減免可能不同)。如果你不確定自己可以獲得多少「昆士蘭首次置業印花稅減免」 ，可以使用昆州政府提供的小工具：[transfer duty calculator](https://amun.osr.qld.gov.au/sap/osrqld/wd_tfr_calc_com?WDDISABLEUSERPERSONALIZATION=X)
 
 ### 申請時間
 

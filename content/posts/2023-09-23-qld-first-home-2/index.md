@@ -4,13 +4,13 @@ title: "澳洲首次置業指南-昆士蘭篇II：2023 首次購屋補助怎麼�
 date: 2023-09-23
 slug: "2023-09-23-qld-first-home-2"
 cover:
-  image: "images/medium-0*geYGb8v4ImP3yYtt.jpg"
-  alt: "澳洲昆州首次置業指南"
+  image: "images/g39p1kDjvSY-unsplash.jpg"
+  alt: "白色雙層住宅的泳池側，設有木造陽台與棕櫚樹庭院"
   credit:
-    photographer: "Scott Webb"
-    photographer_url: "https://unsplash.com/@scottwebb"
-    photo_url: "https://unsplash.com"
-images: ['images/medium-0*geYGb8v4ImP3yYtt.jpg']
+    photographer: "Wes Fischer"
+    photographer_url: "https://unsplash.com/@ntwrk_img"
+    photo_url: "https://unsplash.com/photos/white-concrete-building-g39p1kDjvSY"
+images: ['images/g39p1kDjvSY-unsplash.jpg']
 categories: ["投資理財"]
 tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
 episodeseries: ["QLD 首購房"]
