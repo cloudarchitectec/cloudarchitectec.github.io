@@ -68,7 +68,7 @@ Solution Architect 這個職位在不同公司或是不同地方(例如 service 
 SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture design，我們還要負責幫 ABC 銀行估算上雲之後他們會在 Azure 上花多少錢。有時候算完錢之後，客戶可能就說太貴了他們不做了，或是嫌太貴了就開始想要改 solution design，改來改去就把本來一個規劃得好好的改成四不像，這裡最常見的衝突有兩種：
 
   1. **項目預算跟 solution design 完善度上的衝突** ：對於我個人來說，我其實不在乎客戶在 Azure 雲上花多少錢，只是有一些客戶會因為項目預算而把設計改得亂七八糟，然後事後再來跟我們抱怨說 Azure 雲很難用啊、達不到他們本來的目的啊、早知道就不要 migrate 到雲上了之類的。我心想，啊你們就把 solution 改得歪七扭八，當然難用啊XD
-  2. **項目預算跟 Security/compliance requirements 的衝突** ：solution design 最怕什麼？最怕技術談完了、費用也談完了，客戶內部資源跟外部資源都協調好了，客戶高層也準備要 sign off 了，這個時候有人突然想到「咦！我們好像還沒找 Security Team 來加入討論」，然後 Security Team 一加入討論，這個項目就從此不用進行下去了XD 因爲 Security Team 可能會說，因為要符合 security controls/compliance controls，所以 design 要改成怎樣怎樣，然後預算就加倍了。或是 Security Team 説每一個用到的 Azure services 跟 third-party services 都需要通過一定的 compliance review，然後一個 service 他們要 review 1–2 個月，那假設我們的 solution design 有 10 services，那等他們全部 review 完之後，我們 20 個月後再來 implement? XDD 到時候客戶的環境都不知道變成怎樣了，於是又要重新 discovery 跟 solution design 一次XD
+  2. **項目預算跟 Security/compliance requirements 的衝突** ：solution design 最怕什麼？最怕技術談完了、費用也談完了，客戶內部資源跟外部資源都協調好了，客戶高層也準備要 sign off 了，這個時候有人突然想到「咦！我們好像還沒找 Security Team 來加入討論」，然後 Security Team 一加入討論，這個項目就從此不用進行下去了XD 因為 Security Team 可能會說，因為要符合 security controls/compliance controls，所以 design 要改成怎樣怎樣，然後預算就加倍了。或是 Security Team 説每一個用到的 Azure services 跟 third-party services 都需要通過一定的 compliance review，然後一個 service 他們要 review 1–2 個月，那假設我們的 solution design 有 10 services，那等他們全部 review 完之後，我們 20 個月後再來 implement? XDD 到時候客戶的環境都不知道變成怎樣了，於是又要重新 discovery 跟 solution design 一次XD
 
 
 
