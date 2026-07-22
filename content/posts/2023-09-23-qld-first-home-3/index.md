@@ -41,11 +41,11 @@ episodeseries: ["QLD 首購房"]
 
 > 我只是一個近期致力於研究昆州房產的電腦工程師（並非房產相關專業人士），以下言論不能作為任何法律或是房產投資的建議。如需任何專業建議，請大家自行諮詢律師、過戶師、銀行、貸款經理人等等專業人士。
 
-> 本篇文章所有的資訊都來自政府的官方網站 [Queensland Revenue Office — First Home Consession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)，我只是幫大家翻譯跟分析而已。這裡要提醒大家網路上有很多資料 (這篇文章也是XD)，但我希望大家行有餘力的話，還是要看第一手官方資料，避免因為他人的錯誤解讀，而讓自己的權利受損 (by 自己搞定澳洲移民跟澳洲買房的 EC XD)
+> 本篇文章所有的資訊都來自政府的官方網站 [Queensland Revenue Office — First Home Concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)，我只是幫大家翻譯跟分析而已。這裡要提醒大家網路上有很多資料 (這篇文章也是XD)，但我希望大家行有餘力的話，還是要看第一手官方資料，避免因為他人的錯誤解讀，而讓自己的權利受損 (by 自己搞定澳洲移民跟澳洲買房的 EC XD)
 
 ### 昆士蘭首次置業印花稅減免 (QLD First Home Concession)
 
-  * 完整政府規定請參考：[**Queensland Revenue Office — First Home Consession**](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)
+  * 完整政府規定請參考：[**Queensland Revenue Office — First Home Concession**](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)
 
 
 

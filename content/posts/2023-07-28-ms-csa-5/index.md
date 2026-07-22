@@ -94,7 +94,7 @@ SA 的工作除了要幫 ABC 銀行規劃他們在 Azure 雲上的 architecture 
 
 ### 工作時間分配
 
-如果讓我換一個圓餅圖來表示 SA 的工作時間分配，其實是長這樣子的（前提：這是以微軟的 SA 工作為例，聽說 AWS 的 SA 不需要花這麼多時間在 Sales Pipeline Managment）
+如果讓我換一個圓餅圖來表示 SA 的工作時間分配，其實是長這樣子的（前提：這是以微軟的 SA 工作為例，聽說 AWS 的 SA 不需要花這麼多時間在 Sales Pipeline Management）
 
 ![微軟雲端架構師工作內容分布圖](images/medium-1*nFCwCRcRBsnWHyPQkg8YhQ.png)
 
