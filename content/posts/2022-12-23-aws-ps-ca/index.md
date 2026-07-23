@@ -19,7 +19,7 @@ tags: ["AWS"]
 
 ### 什麼是 Professional Services?
 
-Professional Services 簡稱 ProServ，說白了，就是 IT 顧問。想到顧問業，大家心中可能立刻就會浮現「四大」: 勤業眾信 Delottie、安侯建業 KPMG、資誠 PwC、安永 EY，他們除了是四大會計/審計事務所，也是顧問業的龍頭。
+Professional Services 簡稱 ProServ，說白了，就是 IT 顧問。想到顧問業，大家心中可能立刻就會浮現「四大」: 勤業眾信 Deloitte、安侯建業 KPMG、資誠 PwC、安永 EY，他們除了是四大會計/審計事務所，也是顧問業的龍頭。
 
 那麼 ProServ 平常到底在做什麼呢? 簡單來說，假設今天有一個網路書店，他們本來的 IT 基礎建設都在他們實體的數據中心 (data centre)，例如 on-premises servers and load balancer 等等，但因為網路書店最近業務量漸長，實體的基礎設施已經無法滿足要求。與其添購更多新的硬體，他們想要改往雲端發展 (PS: 其實這就是 Amazon 為什麼後來成立 Amazon Web Services 的真實故事XD)，聽說 AWS 是個很棒的雲端服務平台，然而公司內部的 IT 人員並沒有足夠的雲端技術與知識， 於是他們決定請專業人士來幫他們完成這個從實體伺服器到雲端伺服器的 migration 過程，此時 AWS ProServ 就出場了。
 
@@ -29,7 +29,7 @@ Professional Services 簡稱 ProServ，說白了，就是 IT 顧問。想到顧�
 
 ProServ 的工作內容千奇百怪，因為我們是 by projects 的，也就是說被安排到什麼 projects，我們就要做什麼事XD
 
-舉例來說，我個人曾經幫澳洲某所大學 (澳洲八大之一) 規劃過他們的網路架構跟防火牆規則，也幫澳洲某個科研機構做過內部的資安評估報告 (security assessment)。在我離開 AWS 之前，我參與了澳洲統計局針內部的大數據平台 (data lake) 規劃以及內部工具的更新，協助他們從老舊的企業統計分析軟體轉換成內部網頁工具(web application)，也做過 data engineering & data visualisation。
+舉例來說，我個人曾經幫澳洲某所大學 (澳洲八大之一) 規劃過他們的網路架構跟防火牆規則，也幫澳洲某個科研機構做過內部的資安評估報告 (security assessment)。在我離開 AWS 之前，我參與了澳洲統計局內部的大數據平台 (data lake) 規劃以及內部工具的更新，協助他們從老舊的企業統計分析軟體轉換成內部網頁工具(web application)，也做過 data engineering & data visualisation。
 
 以上舉的例子在 IT 業界中其實是非常不同的領域，通常不會有人樣樣都專精，但 ProServ 就是必須要有這種遊走在各個不同 IT 領域之間的實力。
 
@@ -39,13 +39,13 @@ ProServ 主要的工作內容就是 technical delivery，也就是客戶想要�
 
 Senior Cloud Architect 除了要負責帶領技術團隊，常常還需要跟客戶高層開會達成策略 (strategic) 共識。一般的 Cloud Architect 除了執行(寫程式、設定雲端服務)之外，常常也需要跟客戶的 IT 部門或是 developer 部門一起開會、sprint planning、code review 等等，有時候還需要進行一些講座、workshop 來提升客戶 IT 人員的雲端知識與技術。
 
-除此之外，Cloud Architect 對客戶來說以小時計費的。所以一週 40 個小時，我們必須每週回報我們花了多少時間在客戶 A 身上、多少時間在客戶 B 身上，多少時間在內部會議跟訓練上。Timesheet 其實是我最不喜歡 ProServ 工作的一點 (這是每個 Cloud Architect 工作表現的硬指標)，因為以客為尊的工作型態，反倒壓縮到我個人學習新技術跟成長的時間。
+除此之外，Cloud Architect 對客戶來說是以小時計費的。所以一週 40 個小時，我們必須每週回報我們花了多少時間在客戶 A 身上、多少時間在客戶 B 身上，多少時間在內部會議跟訓練上。Timesheet 其實是我最不喜歡 ProServ 工作的一點 (這是每個 Cloud Architect 工作表現的硬指標)，因為以客為尊的工作型態，反倒壓縮到我個人學習新技術跟成長的時間。
 
 ### 所需技能
 
-「Cloud Architects 需要會寫程式嗎?」這可能是我被問過最多的問題，簡單來說寫程式不是必要，但基本上想要完全逃開的話也是不可能的。雖然現在的雲端服務都可以在 GUI console 上架設，不過難免會遇到需要用到 CLI、CDK 或是 SDK 的時候。即使是最近非常流行的 IaC (Infrastructure as Code)，你還是得必須要會寫 CloudFormation (JSON or YAML) 或 Terraform 才行。
+「Cloud Architects 需要會寫程式嗎?」這可能是我被問過最多的問題，簡單來說寫程式不是必要，但基本上想要完全逃開的話也是不可能的。雖然現在的雲端服務都可以在 GUI console 上架設，不過難免會遇到需要用到 CLI、CDK 或是 SDK 的時候。即使是最近非常流行的 IaC (Infrastructure as Code)，你還是必須要會寫 CloudFormation (JSON or YAML) 或 Terraform 才行。
 
-更別提現在大家最喜歡用 serverless 服務 (例如 AWS Lamba)，基本上最常見的程式語言就是 Python 或 JavaScript/TypeScript。不過 Cloud Architects 面試不考 coding 也不考 algorithms XD，程式語言只要大概會寫就行 (當然如果你很會寫程式的話，工作效率會大大提升)。
+更別提現在大家最喜歡用 serverless 服務 (例如 AWS Lambda)，基本上最常見的程式語言就是 Python 或 JavaScript/TypeScript。不過 Cloud Architects 面試不考 coding 也不考 algorithms XD，程式語言只要大概會寫就行 (當然如果你很會寫程式的話，工作效率會大大提升)。
 
 另一個常見的問題則是「我沒有用過 AWS 或 Azure 之類的雲端平台，沒有相關經驗，可以嗎?」答案是完全可以! 當然你有相關經驗是最好，但完全沒有也是沒關係，因為一切都可以進來再學! 面試時我們只會考你 IT 基本知識，例如 networking、database、encryption、application development、security 等等，如果有人有興趣的話，以後可以詳細分享一篇。
 
@@ -55,7 +55,7 @@ Senior Cloud Architect 除了要負責帶領技術團隊，常常還需要跟客
 
   1. Learning ability: 你有辦法快速學會一個新的技術/雲服務，然後現學現賣把技術傳授給客戶、引導他們跟你一起執行嗎?
   2. Consulting skills: 說到底，Cloud Architect 還是一個技術顧問，你有辦法傾聽客戶的需求、根據他們的要求規劃出解決方案、帶領客戶一起解決疑難雜症、贏得客戶的信任嗎?
-  3. Can you be an Amazonian: 亞麻遜一向都以自己獨特的公司文化而自豪，當我們在聘用新員工時，我們也很在乎他們是否跟我們的公司文化契合。有興趣的話，以後也可以專門寫一篇分享 Amazon Leadership Principles interviews。
+  3. Can you be an Amazonian: 亞馬遜一向都以自己獨特的公司文化而自豪，當我們在聘用新員工時，我們也很在乎他們是否跟我們的公司文化契合。有興趣的話，以後也可以專門寫一篇分享 Amazon Leadership Principles interviews。
 
 
 

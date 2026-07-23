@@ -16,7 +16,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
-這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的第四集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
+這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第四集。這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
   1. [《微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart》](2023-07-28-ms-csa-1)
   2. [《微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Architecting》](/posts/2023-07-28-ms-csa-2/)
@@ -34,7 +34,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 **當然，總是要先放一下免責聲明XD**
 
-這個系列完全是以我個人在澳洲微軟工作的親身經歷作為出發點，所以是我個人的主觀感受。雖然我敘述時會盡可能客觀呈現，讓各位讀者自行判斷。如果你在不同國家的微軟工作，甚至是你在不同的微軟團隊，你對於這個職位的感受可能會跟我略有出入或完全不同。這次依然會以時間軸的推進作為小標，讓大家身入其境地體驗微軟架構師的生活XD
+這個系列完全是以我個人在澳洲微軟工作的親身經歷作為出發點，所以是我個人的主觀感受。雖然我敘述時會盡可能客觀呈現，讓各位讀者自行判斷。如果你在不同國家的微軟工作，甚至是你在不同的微軟團隊，你對於這個職位的感受可能會跟我略有出入或完全不同。這次依然會以時間軸的推進作為小標，讓大家身歷其境地體驗微軟架構師的生活XD
 
 * * *
 
@@ -60,15 +60,15 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 其實 Azure Arc 是我覺得微軟最酷、跟其他雲服務最不一樣的服務! Azure Arc 可以讓你把在 on-premises 環境裡的 Windows & Linux servers 或是其他雲服務平台 (AWS/GCP etc) 的伺服器，變成像是 native Azure Virtual Machines 一樣。所以在 Azure Arc 上你就可以使用 Azure native services like tagging, Azure Policy, Virtual Machine Insights 等等服務來管理你在其他地方的伺服器，超級酷!
 
-  * Azure Update Managment Center:[**Update management center (preview) overview | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
+  * Azure Update Management Center:[**Update management center (preview) overview | Microsoft Learn**](https://learn.microsoft.com/en-us/azure/update-center/overview?tabs=azure-vms)
 
 ![Azure更新管理中心服務界面](images/medium-1*m7HTbvFawlbPttKD4Naf_Q.png) Azure UMC
 
 Azure Update Management Center (UMC) 則是 Azure 最新的伺服器 patching 服務。
 
-這裡又要吐槽一下微軟，Azure Update Management Center 算是這個服務的 2.0 版本。你們知道 1.0 版本叫做什麼嗎? 1.0 版本叫做 Azure Update Management，哈哈哈哈哈! 就只差了一個 centre 而已，你說夠不夠混淆?
+這裡又要吐槽一下微軟，Azure Update Management Center 算是這個服務的 2.0 版本。你們知道 1.0 版本叫做什麼嗎? 1.0 版本叫做 Azure Update Management，哈哈哈哈哈! 就只差了一個 center 而已，你說夠不夠混淆?
 
-而且 2.0 版本跟 1.0 版本分別放在不同地方!!! 2.0 版本的 UMC 是一個獨立的 Azure 服務，1.0 版本的 Azure Update Managment 其實是包含在另一個 Azure 服「Azure Automation Account」裡面的一個小功能而已。我後來發現不僅是客戶不知道這件事，我後來大概跟 10 個同事說過這件事，他們也都不知道出了 2.0 版本XDD
+而且 2.0 版本跟 1.0 版本分別放在不同地方!!! 2.0 版本的 UMC 是一個獨立的 Azure 服務，1.0 版本的 Azure Update Management 其實是包含在另一個 Azure 服務「Azure Automation Account」裡面的一個小功能而已。我後來發現不僅是客戶不知道這件事，我後來大概跟 10 個同事說過這件事，他們也都不知道出了 2.0 版本XDD
 
 總之，我立刻找 GBB (Global Black Belt) 跟 Corp CSA 幫忙，結果聯絡了一堆人，大家都在踢皮球，最後發現還是只能靠我上場。
 
@@ -80,7 +80,7 @@ Azure Update Management Center (UMC) 則是 Azure 最新的伺服器 patching �
 
 ### Workshop 倒數 3 天
 
-今天意外有一個 Corp CSA 聯絡我，我一開始還以為他可以幫忙來講 workshop，結果他只是提供我一些 slides and demo 資源而已。不過後來我沒有用他的 demo 資源，而是用我自己另外找到的，因為他給的 demo 資源太複雜了，這個 workshop 根本不用展現的那麼深入，而且他給我的 Azure UMC slides 還是 1.0 版本，所以其實也不能用哈哈哈
+今天意外有一個 Corp CSA 聯絡我，我一開始還以為他可以幫忙來講 workshop，結果他只是提供我一些 slides and demo 資源而已。不過後來我沒有用他的 demo 資源，而是用我自己另外找到的，因為他給的 demo 資源太複雜了，這個 workshop 根本不用展現得那麼深入，而且他給我的 Azure UMC slides 還是 1.0 版本，所以其實也不能用哈哈哈
 
 ### Workshop 倒數 2 天
 
@@ -108,7 +108,7 @@ ATS 突然傳訊息問我有什麼需要幫忙的嗎？我心想，少在那邊�
 
 ATS 私訊我說看來會延遲一下，我問說那還是按照計劃 12 點結束嗎？結果他說可以延到 12:15。我心想好吧，我本來還想說那我可以少講一點哈哈。
 
-開場結束後，下一個環節是客戶講他們的 organisation security strategy。沒想到客戶來一記回馬槍，預計講 30 分 鐘的環節，他們只講了 5 分鐘，於是我的環節又立刻回到 75 分鐘。
+開場結束後，下一個環節是客戶講他們的 organisation security strategy。沒想到客戶來一記回馬槍，預計講 30 分鐘的環節，他們只講了 5 分鐘，於是我的環節又立刻回到 75 分鐘。
 
 接著就該我上場了，我先用 20 分鐘講完我準備的 11 頁投影片，然後用 55 分鐘做了 demo 跟 Q&A，我覺得自己表現得很不錯，而且時間掌控很完美，然後我就下台一鞠躬了。
 

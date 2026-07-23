@@ -27,7 +27,7 @@ tags: ["雲端架構師"]
 
 ### Solution Architect、Cloud Engineer、Software Developer 比較表格
 
-(朋友說: 如果你花了好幾個小時在寫這個比較表格，我覺得這就是你該離職警訊XDD)
+(朋友說: 如果你花了好幾個小時在寫這個比較表格，我覺得這就是你該離職的警訊XDD)
 
 (我沒想到在 Medium 上要插入表格這麼難，我還得先把 word 轉成 pdf 再截圖。如果有人知道更好的方法，請告訴我XD)
 
@@ -37,9 +37,7 @@ tags: ["雲端架構師"]
 
 ### 職務日常比較 ｜Day-to-Day life
 
-**(in-house) Software Developers**
-
-**🧑‍💻 軟體工程師（Software Developer）**
+#### 🧑‍💻 軟體工程師（in-house Software Developer）
 
 簡單來說，開發流程會從 Sprint Meeting 開始分配任務，接著就進入任務執行階段：
 
@@ -79,9 +77,9 @@ Solution Architect 的日常偏向「技術銷售（technical sales）」，每�
 
 當客戶確定要執行方案之後，可能會有三種情境發生：
 
-  1. 客戶外包給雲服務商的內部顧問部門（微軟是 MCS，AWS 是 ProServ）： SA 的責任是協助監督進度、維持溝通橋樑。這個情境對 SA 通常來說最輕鬆的，因為大家都是自己人。但是這同時也是最貴的選項，所以一般來說都不會是客戶的首選。
-  2. 客戶外包給外部顧問（Azure partners）: 但 partners 的品質不一，如果有些 partners 的經驗或能力不足，那你就得跳下來、適時引入其他 Azure 的資源 (Support Engineers, FastTrack, Corp CSA, Product Team) 來幫忙解決問題。有些 partners 跟客戶會開始自成小圈圈把你排除在外，這時候你就要很努力打入他們的小圈圈，確保每個一階段都有順利達成，
-  3. 客戶選擇自行實作：遇到困難就可能頻繁求助你，但 Solution Architect 通常不做實作，只會在自己的環境建 PoC（ Proof of Concept），如果之前沒有相關的實務經驗，其實很難協助客戶企業規模等級問題 （ Enterprise-level Production Environments）
+  1. 客戶外包給雲服務商的內部顧問部門（微軟是 MCS，AWS 是 ProServ）： SA 的責任是協助監督進度、維持溝通橋樑。這個情境對 SA 通常來說是最輕鬆的，因為大家都是自己人。但是這同時也是最貴的選項，所以一般來說都不會是客戶的首選。
+  2. 客戶外包給外部顧問（Azure partners）: 但 partners 的品質不一，如果有些 partners 的經驗或能力不足，那你就得跳下來、適時引入其他 Azure 的資源 (Support Engineers, FastTrack, Corp CSA, Product Team) 來幫忙解決問題。有些 partners 跟客戶會開始自成小圈圈把你排除在外，這時候你就要很努力打入他們的小圈圈，確保每一個階段都有順利達成。
+  3. 客戶選擇自行實作：遇到困難就可能頻繁求助你，但 Solution Architect 通常不做實作，只會在自己的環境建 PoC（Proof of Concept），如果之前沒有相關的實務經驗，其實很難協助客戶解決企業規模等級的問題（Enterprise-level Production Environments）
 
 
 
@@ -89,9 +87,9 @@ Solution Architect 的日常偏向「技術銷售（technical sales）」，每�
 
 除了會議與專案之外，還要處理客戶寄信/訊息發問的技術問題：
 
-  * 研究＆寫信回答客戶問題，或是跟客戶開會釐清他們的問題，然後想辦訪幫他們解決。
+  * 研究＆寫信回答客戶問題，或是跟客戶開會釐清他們的問題，然後想辦法幫他們解決。
   * 如果答不上來就找其他資源來回答問題。針對不同的問題類型，公司內部會有不同的官方管道，但你不一定真的找得到人。主要還是靠你的人脈，如果你有辦法認識很多人，知道他們擅長的領域，建立良好的關係，你就有辦法在適當的時機把這些人拖進你的會議幫你解決問題。如果你不是這種人，那你就會過得很辛苦(就像我XD)。
-  * 同時要判斷客戶的這個問題能不能被 qualify 成一個 opportunity，例如這個問題解決了，客戶是否會在 Azure 上 deploy，這個 deployment 可以帶來多少 Azure consumption/revenue (注意有些 Azure resources 是免費的，例如 virtual networks，所以客戶 deploy 再多也不會算入你的業績）
+  * 同時要判斷客戶的這個問題能不能被 qualify 成一個 opportunity，例如這個問題解決了，客戶是否會在 Azure 上 deploy，這個 deployment 可以帶來多少 Azure consumption/revenue (注意有些 Azure resources 是免費的，例如 virtual networks，所以客戶 deploy 再多也不會算入你的業績)
   * 最後，還得花大量時間在 Sales 系統上記錄每個進度、障礙點、解法與升級流程（escalation）。
 
 

@@ -28,7 +28,7 @@ episodeseries: ["斐濟旅記"]
 
 *登船出海*
 
-途中必須再度炫耀一下我的美甲！Malamala 就是這個一個很圓的小島
+途中必須再度炫耀一下我的美甲！Malamala 就是這麼一個很圓的小島
 
 ![斐濟旅遊精緻美甲造型](images/medium-0*p9yMD2FNOryFwREY.jpg)
 
@@ -38,7 +38,7 @@ episodeseries: ["斐濟旅記"]
 
 我超級推薦這個小島的！因為這裡水超清澈無雜質，站在 jetty 上就可以看到底下的各種魚！
 
-島上還有無邊際游泳池，跟各種免費的水上活動裝備租借，包含浮淺、獨木舟跟 SUP (stand up paddling)！我除了喝雞尾酒、按摩、玩水之外就是在各個角落睡午覺，太爽了！
+島上還有無邊際游泳池，跟各種免費的水上活動裝備租借，包含浮潛、獨木舟跟 SUP (stand up paddling)！我除了喝雞尾酒、按摩、玩水之外就是在各個角落睡午覺，太爽了！
 
 ![Malamala島水上活動設備](images/medium-0*tx1vHrgAoRwihmAn.jpg)
 

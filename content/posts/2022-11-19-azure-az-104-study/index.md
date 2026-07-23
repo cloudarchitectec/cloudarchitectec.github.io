@@ -15,7 +15,7 @@ tags: ["雲端證照"]
 
 ---
 
-我曾在 AWS 雲 (Amazon Web Services) 工作過兩年，但對 Azure 的實務經驗幾乎為零。今年三月時考過 AZ-900 Microsoft Azure Fundementals，但理論知識現在幾乎都忘得都差多了。由於我人在澳洲，所以是用英文應試，考試的準備資源也都是全英文。
+我曾在 AWS 雲 (Amazon Web Services) 工作過兩年，但對 Azure 的實務經驗幾乎為零。今年三月時考過 AZ-900 Microsoft Azure Fundamentals，但理論知識現在幾乎都忘得差不多了。由於我人在澳洲，所以是用英文應試，考試的準備資源也都是全英文。
 
 ### 準備時間
 
@@ -34,7 +34,7 @@ tags: ["雲端證照"]
 
 其實網路上關於 AZ-104 的學習資源很多，光是 YouTube 跟 FreeCodeCamp 都有很多免費的學習資源，我會用 ACG 是因為 AWS 員工可以免費用 ACG 哈哈哈
 
-題外話，微軟跟所有知名的雲證照學習平台，例如 A Cloud Guru、Udemy、PluralSight、WhizLabs 都沒有合作，這點我已經跟我的經理反映了，我覺得這點真的是為微軟員工長期學習與發展帶來不小的阻礙XD
+題外話，微軟跟所有知名的雲端證照學習平台，例如 A Cloud Guru、Udemy、Pluralsight、Whizlabs 都沒有合作，這點我已經跟我的經理反映了，我覺得這點真的是為微軟員工長期學習與發展帶來不小的阻礙XD
 
 不過，微軟的員工每一個月會有一個週五是學習日，這一天你可以把會議排開、專心學習，我覺得非常不錯。這個考試我就是利用微軟學習日那天在上班時間考的。
 
@@ -44,15 +44,15 @@ tags: ["雲端證照"]
 
 **EC 評價: 免費的話可以用一用，但我之後考 AZ-305 的時候應該會找一找有沒有其他更有效的資源。**
 
-  * Tutorial Dojo 的練習題[**AZ-104 MICROSOFT AZURE ADMINISTRATOR PRACTICE EXAMS**](https://tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/)(11.99 美元 ，使用折扣碼 TutorialDojo 只要 8.99 美元)
+  * Tutorial Dojo 的練習題[**AZ-104 MICROSOFT AZURE ADMINISTRATOR PRACTICE EXAMS**](https://tutorialsdojo.com/courses/az-104-microsoft-azure-administrator-practice-exams/)(11.99 美元，使用折扣碼 TutorialDojo 只要 8.99 美元)
 
 
 
-學完 ACG 之後，我買了這個 Tutorial Dojo 的考試練習題，不貴，才 11.99 美元，而且結帳時我隨手打了 "TutorialDojo" 進 coupon 欄，沒想到居然居然是一個有效的折扣碼 (天啊，我會不會太厲害XDDDD) 使用這個折扣碼可以折 3 美元，不無小補 (非商業合作，我只是隨手試到正確答案)。
+學完 ACG 之後，我買了這個 Tutorial Dojo 的考試練習題，不貴，才 11.99 美元，而且結帳時我隨手打了 "TutorialDojo" 進 coupon 欄，沒想到居然是一個有效的折扣碼 (天啊，我會不會太厲害XDDDD) 使用這個折扣碼可以折 3 美元，不無小補 (非商業合作，我只是隨手試到正確答案)。
 
 雖然這個練習題的題目不多，只有 3 個 practice tests，一套題目 60 題。但是他們的答案解析做得不錯，非常有條理，而且會附上 Microsoft Azure 的官方文件的連結。另外我非常喜歡它的 review mode，可以讓你寫完每一題就立刻看答案。我覺得這是做練習題最有效的方式，寫完立刻看答案檢討，加深記憶力!
 
-**EC 評價: review mode 我很喜歡，如果 8.99 美元 對你來說不會造成負擔的話，推薦購買!**
+**EC 評價: review mode 我很喜歡，如果 8.99 美元對你來說不會造成負擔的話，推薦購買!**
 
   * Udemy 的練習題[**AZ-104: Microsoft Azure Administrator Practice Tests 2022**](https://www.udemy.com/course/az-104-microsoft-azure-administrator-exam-practice-tests/)(26.99 澳幣)
 
@@ -72,6 +72,6 @@ tags: ["雲端證照"]
 
 考試時間我約了週五早上 11:45，於是早上起來我想說來查一下有沒有其他好用的免費資源，結果就發現了這個影片。雖然講者是印度人，有些許印度口音，但我覺得完全不影響理解，而且我大大推薦這個資源!!!
 
-在這個影片中他帶著大家一起做每一題練習題，該題為什麼要選擇某一個答案也解釋的很棒，重點是居然其中有兩題居然真的出現在我的考題裡面(雖然英文版的 AZ-104 考題在 2022.10 月更新過，這個影片不是最新的)，這個影片我大概看了一個小時就去考試了，如果全部看完我說不定可以再多考幾十分哈哈哈
+在這個影片中他帶著大家一起做每一題練習題，該題為什麼要選擇某一個答案也解釋得很棒，重點是其中有兩題居然真的出現在我的考題裡面(雖然英文版的 AZ-104 考題在 2022.10 月更新過，這個影片不是最新的)，這個影片我大概看了一個小時就去考試了，如果全部看完我說不定可以再多考幾十分哈哈哈
 
 **EC 評價: 大力推薦!!!! 不僅免費，裡面還有考試真題跟正確答案，請你們務必使用!**

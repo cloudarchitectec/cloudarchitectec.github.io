@@ -4,7 +4,7 @@
 >
 > Purpose: locate a post by title / section / tags / summary from this one file instead of scanning `content/posts/`. Open the folder in the last column to read or edit the post.
 
-**164 published posts** (newest first).
+**163 published posts** (newest first).
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
@@ -13,7 +13,7 @@
 | 2026-07-04 | AI 沒有取代工程師，但正在重新定義什麼叫做「好的工程師」 | 澳洲職場 | AI, 軟實力, 軟體工程師, GitHub Copilot | 我們公司使用 Microsoft Copilot 已經一陣子了(很難用，不要問🤣)，前陣子更是全面導入企業版 GitHu… | content/posts/2026-07-04-soft-skills-in-ai-era |
 | 2026-06-27 | 澳洲的中產階級，到底還買不買得起房？ | 投資理財 | 澳洲生活, 理財, 房地產 | 最近因為澳洲 CGT（Capital Gains Tax，資產增值稅）大改革，房價漲勢終於開始趨於平緩（之前布里斯本真的… | content/posts/2026-06-27-australia-housing-affordability |
 | 2026-06-17 | 好想要退休！退休前的最後一堂課：比 FIRE 數字更重要的，其實是這件事 | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 退休規劃 | 說到退休，我以前覺得那是一個很遙遠的詞，好像也不需要特別規劃，等時候到了就會自然發生？ | content/posts/2026-06-17-retirement-plan |
-| 2026-05-31 | 台澳 ETF 投資思維大對決！台灣人在瘋正2，澳洲人卻在算 Franking Credits？ | 投資理財 | ETF, FIRE | 最近非常喜歡研究投資理財相關知識！ | content/posts/2026-05-31-investmend-mindset |
+| 2026-05-31 | 台澳 ETF 投資思維大對決！台灣人在瘋正2，澳洲人卻在算 Franking Credits？ | 投資理財 | ETF, FIRE | 最近非常喜歡研究投資理財相關知識！ | content/posts/2026-05-31-investment-mindset |
 | 2026-05-17 | 雪梨景點：當代藝術博物館 (Museum of Contemporary Art) | 旅行紀錄 | 雪梨 | 今天要來介紹"當代藝術博物館(MCA，Museum of Contemporary Art)"，位於雪梨的岩石區，也就是… | content/posts/2026-05-17-sydney-mca |
 | 2025-11-29 | [我要升官加薪] 下集：沒有升官加薪，但我很好 | 澳洲職場 | 科技業, DevOps 工程師, 職涯 | 2025.11.04 / 布里斯本 | content/posts/2025-11-29-pe-2-the-end |
 | 2025-11-14 | [我要升官加薪] 上集：天上掉下來的 Principal Engineer 職缺，我該爭取嗎？ | 澳洲職場 | 科技業, Diversity, DevOps 工程師, 職涯 | 2025.10.09 / 布里斯本 | content/posts/2025-11-14-pe-1-pe-or-not |
@@ -30,7 +30,7 @@
 | 2025-04-26 | 太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (簡直要被蚊子吃了🤣) | content/posts/2025-04-26-vanuatu-day-8 |
 | 2025-04-25 | 太平洋小島上的大冒險：2025.04.25 Vanuatu Day 7 導航騙我、奶奶救我：宅宅迷路日到火焰之夜 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (還是小島最棒了，大推 Hideaway Island Resort) | content/posts/2025-04-25-vanuatu-day-7 |
 | 2025-04-24 | 太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜就是開心 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (如果你是個 J 人，租車是你在萬那杜最好的選擇) | content/posts/2025-04-24-vanuatu-day-6 |
-| 2025-04-23 | 太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃改不上變化，變化趕不上天氣造化 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (在萬那杜，跟人類一樣不可控制的還有天氣) | content/posts/2025-04-23-vanuatu-day-5 |
+| 2025-04-23 | 太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃趕不上變化，變化趕不上天氣造化 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (在萬那杜，跟人類一樣不可控制的還有天氣) | content/posts/2025-04-23-vanuatu-day-5 |
 | 2025-04-22 | 太平洋小島上的大冒險：2025.04.22 Vanuatu Day 4 接送烏龍、浮潛驚魂，什麼時候才能沒有驚喜？ | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | 有生之年我能不能在 Vanuatu 洗到熱水澡？🤣 | content/posts/2025-04-22-vanuatu-day-4 |
 | 2025-04-21 | 太平洋小島上的大冒險：2025.04.21 Vanuatu Day 3 地震驚魂、小島浮潛與部落文化初體驗 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (我也不知道為什麼我在這裡的每一天都很精彩🤣) | content/posts/2025-04-21-vanuatu-day-3 |
 | 2025-04-20 | 太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | 昨天入住時奶奶跟我說 7–7:30 會供應免費早餐，結果我遲遲等不到。 | content/posts/2025-04-20-vanuatu-day-2 |
@@ -38,7 +38,7 @@
 | 2025-02-07 | 2025 墨爾本澳網行 (下)：免費公關票真香！居然能在一週內再訪澳網球場，也太幸運！ | 旅行紀錄 · 系列:2025 墨爾本澳網行 | 墨爾本, 旅遊, 澳網 | 1/21 Tue | content/posts/2025-02-07-2025-mel-trip-2 |
 | 2025-01-26 | 2025 墨爾本澳網行 (上)：好久不見墨爾本！與舊友重聚，第一次看澳網真的好嗨！ | 旅行紀錄 · 系列:2025 墨爾本澳網行 | 墨爾本, 旅遊, 澳網 | 旅程的起因是去年台灣朋友 Jen 去墨爾本看完澳網後，跑來昆州找我玩，她說就算平常不看網球的人，也很值得參與這場盛事！並… | content/posts/2025-01-26-2025-mel-trip-1 |
 | 2024-12-24 | 好想要退休！澳洲人壽保險知識分享，在澳洲打拼的你，有足夠的保障嗎？ | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 退休規劃 | Q: 什麼時候才覺得自己真的是個大人了？ | content/posts/2024-12-24-life-insurance |
-| 2024-12-16 | 好想要退休！錢財乃身外之物，生不帶來，死不帶去，但你知道在澳洲要怎麼立遺屬嗎？ | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 退休規劃 | 哈囉，大家好久不見～ | content/posts/2024-12-16-will |
+| 2024-12-16 | 好想要退休！錢財乃身外之物，生不帶來，死不帶去，但你知道在澳洲要怎麼立遺囑嗎？ | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 退休規劃 | 哈囉，大家好久不見～ | content/posts/2024-12-16-will |
 | 2024-10-31 | 好想要退休！土地為王？多災多難的澳洲投資房心路歷程 | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 澳洲房地產, 退休規劃 | 唉～ 文章一開始，EC 就想要先大嘆一口氣！最近我的投資房又發生一些令人百思不得其解的事，回頭一想，這個投資房從購入開始… | content/posts/2024-10-31-investment-property |
 | 2024-10-19 | 好想要退休！讓我們來談談澳洲人最愛的澳洲指數基金 ETFs 組合 | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, ETF, 退休規劃 | 以下純屬我個人的研究分享，不代表任何理財建議。EC 是有個澳洲會計學位啦，但我只是個工程師，不是專業財經人士。以下分享，… | content/posts/2024-10-19-etf |
 | 2024-10-12 | 好想要退休！案例分析：33 歲宅男實現財務自由 (FIRE) 成功提早退休，難道退休比我想的簡單？ | 投資理財 · 系列:好想要退休 | 好想要退休, FIRE, 退休規劃 | 這裡的宅其實沒有貶義，作者本人在批踢踢上的連載標題就是「宅男的退休生活閒聊」，而且 EC 其實也很宅XD | content/posts/2024-10-12-fire |
@@ -67,7 +67,6 @@
 | 2024-04-26 | 一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城 | 旅行紀錄 · 系列:一個女生的歐洲獨旅 | 獨旅, 旅遊, 歐洲, 荷蘭 | 萊登風車 | content/posts/2024-04-26-leiden |
 | 2024-04-25 | 一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的運河屋 | 旅行紀錄 · 系列:一個女生的歐洲獨旅 | 獨旅, 旅遊, 歐洲, 荷蘭 | 結束了香港轉機一日行，我整個累到爆炸！ | content/posts/2024-04-25-amsterdam |
 | 2024-04-24 | 一個女生的歐洲獨旅: 2024.04.24 香港轉機之昂坪纜車/大佛/市集一日遊 | 旅行紀錄 · 系列:一個女生的歐洲獨旅 | 獨旅, 旅遊, 歐洲, 香港 | 這次 17 天的歐洲行我搭的是國泰，去程從布里斯本飛荷蘭阿姆斯特丹，中間在香港轉機 15.5 小時(第一段飛機 00:5… | content/posts/2024-04-24-hongkong-stopover |
-| 2024-04-12 | 文組轉職澳洲科技大廠工程師—我的科技業職涯的反思 | 澳洲職場 | 職涯, 科技業, 轉職工程師, AWS, 微軟 | 作為一名從文組背景轉職到科技業的工程師，我在過去幾年中有幸在三個不同規模和性質的公司工作：科技大廠 Amazon、微軟… | content/posts/2024-04-12-reflection-on-my-tech-career |
 | 2024-03-08 | 澳洲簽證種類分析：台灣人想要登入澳洲有哪些選項？ | 澳洲生活 | 澳洲移民, 澳洲簽證 | 由於最近 EC 收到不少關於移民澳洲跟澳洲簽證相關的諮詢，於是決定寫一篇文章來快速跟大家分享一些關於澳洲簽證的基本資訊，… | content/posts/2024-03-08-au-visa-options |
 | 2024-03-01 | 澳洲職場統計數據：2023 年澳洲薪資中位數、產業與地區薪資分享 | 澳洲職場 | 薪資, 澳洲職場統計數據 | 近期發現我跟友人對於澳洲工程師的薪資看法居然略有出入，於是我想與其使用個人經驗來判斷一個職位的薪資是否合理，不如我們就來… | content/posts/2024-03-01-aus-median-salary |
 | 2024-02-19 | 澳洲職場統計數據：2024 澳洲 DevOps 工程師薪資大揭秘 | 澳洲職場 | 薪資, 澳洲職場統計數據 | 閒來無事研究了一下澳洲 DevOps Engineers 的薪水(中文可翻為「開發維運工程師」，但其實 DevOps 這… | content/posts/2024-02-19-devops-2023-2024-salary |
@@ -78,7 +77,7 @@
 | 2024-01-25 | 轉職 DevOps 工程師的第六個月：從焦慮到找到穩定節奏 | 澳洲職場 | 薪資 | 大學學歷：政大英文系 | content/posts/2024-01-25-DevOps-for-6-months |
 | 2023-12-15 | 澳洲求職必勝法則：利用 Tech Meet-ups 增加工作人脈、經營職場品牌，提高錄取機率! | 澳洲職場 | 澳洲求職必勝法則 | Tech meet-ups 是澳洲科技業非常盛行的活動，由主辦團體根據不同主題請講者來與大家分享任何技術、文化以及新知。… | content/posts/2023-12-15-tech-connections |
 | 2023-11-25 | 經營 Medium 一年，我到底賺了多少錢？ | 澳洲生活 | 澳洲生活 | 2022.11.19 是我發表第一篇 Medium 文章的日子！當時我幫自己設定了一個小小的目標，也就是我希望自己能每一… | content/posts/2023-11-25-medium-earning |
-| 2023-11-18 | 我在澳洲練皮拉提茲：Studio Pilates vs Pronto Pilates 課程比較 | 澳洲生活 |  | 其實我這個人一向沒什麼運動習慣XD (雖是這樣說，我是個很目的導向的人。之前想要嘗試跑步，然後我就跑去跑了兩次半馬，一次… | content/posts/2023-11-18-pilates |
+| 2023-11-18 | 我在澳洲練皮拉提斯：Studio Pilates vs Pronto Pilates 課程比較 | 澳洲生活 |  | 其實我這個人一向沒什麼運動習慣XD (雖是這樣說，我是個很目的導向的人。之前想要嘗試跑步，然後我就跑去跑了兩次半馬，一次… | content/posts/2023-11-18-pilates |
 | 2023-11-10 | 從非移民專業到澳洲PR：我如何靠研究政府法規，創造專屬自己的技術移民機會！ | 澳洲生活 | 澳洲移民, 澳洲簽證 | 今天要來分享我 2016 年是如何另闢蹊徑，透過自己閱讀澳洲政府網站的移民規定，在不可能中發現可能，最後成功幫助自己以及… | content/posts/2023-11-10-how-i-become-pr |
 | 2023-11-04 | 微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更會考證照考試？順利更新 Azure Solutions Architect Expert 證照！ | 澳洲職場 | AWS | 今天要來跟大家分享我更新微軟證照 Microsoft Azure Solutions Architect Expert… | content/posts/2023-11-04-azure-vs-aws-certs-ft-chatgpt |
 | 2023-10-28 | 澳洲布里斯本：陽光海岸高空樹頂挑戰初體驗，玩的就是心跳！ | 旅行紀錄 | 澳洲旅遊, 布里斯本 | 今天要來跟大家分享澳洲一個很有趣的戶外活動 — 高空樹頂挑戰 (Tree Top Challenge)。我跟朋友去的是位… | content/posts/2023-10-28-tree-top |
@@ -91,11 +90,11 @@
 | 2023-09-08 | 轉職成功了，然後呢？從文組到澳洲 FAANG 工程師，我作為「倖存者」的掙扎與反思 | 澳洲職場 | 轉職工程師 | 上週我在 LinkedIn 上發表了一篇文章，跟大家分享我的新工作，還有我轉職的心路歷程，談我一路怎麼從英文系、移民澳洲… | content/posts/2023-09-08-reflection-on-transition |
 | 2023-09-01 | Software Engineer、Cloud Engineer、DevOps Engineer 熱門職位技能樹大公開：都是工程師，我們寫的程式居然不一樣？ | 澳洲職場 | 雲端架構師 | 除了 Solution Architect 這個職位之外，很多人也都會問我「EC，所謂的 Cloud Architect… | content/posts/2023-09-01-cloud-roles |
 | 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是… | content/posts/2023-07-28-ms-csa-1 |
-| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Architecting | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析 系列的第二集。 | content/posts/2023-07-28-ms-csa-2 |
-| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 3：Technical Guidance/Customer Meetings | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析 系列的第三集。這個系列預計會有五篇文… | content/posts/2023-07-28-ms-csa-3 |
-| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 4：Technical Presentation/Workshops | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析 系列的第四集。這個系列預計會有五篇文… | content/posts/2023-07-28-ms-csa-4 |
-| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 5：Sales Pipeline Management | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析 系列的最終章。這個系列總共有五篇文章… | content/posts/2023-07-28-ms-csa-5 |
-| 2023-07-28 | 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思：那些職務想像與現實的差距 | 澳洲職場 | 微軟, Solution Architect, 雲端架構師 | 每一個選擇，背後都有它的犧牲以及需要承擔的後果 (comprises and consequences)。這段時間我不斷… | content/posts/2023-07-28-ms-csa-in-9-months |
+| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Architecting | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第二集。 | content/posts/2023-07-28-ms-csa-2 |
+| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 3：Technical Guidance/Customer Meetings | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第三集。這個系列預計會有五篇文章，… | content/posts/2023-07-28-ms-csa-3 |
+| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 4：Technical Presentation/Workshops | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第四集。這個系列預計會有五篇文章，… | content/posts/2023-07-28-ms-csa-4 |
+| 2023-07-28 | 微軟雲端架構師 (Solution Architect) 職位解析 5：Sales Pipeline Management | 澳洲職場 · 系列:微軟雲端架構師 (Solution Architect) 職位解析 | 微軟, Solution Architect, 雲端架構師 | 這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的最終章。這個系列總共有五篇文章，以… | content/posts/2023-07-28-ms-csa-5 |
+| 2023-07-28 | 微軟雲端架構師 (Azure Cloud Solution Architect) 入職九個月的反思：那些職務想像與現實的差距 | 澳洲職場 | 微軟, Solution Architect, 雲端架構師 | 每一個選擇，背後都有它的犧牲以及需要承擔的後果 (compromises and consequences)。這段時間我… | content/posts/2023-07-28-ms-csa-in-9-months |
 | 2023-07-20 | 澳洲求職必勝法則：外國人身份也能成功找到澳洲科技業正職工作 — 旅澳台灣工程師的實戰秘笈公開！ | 澳洲職場 | 澳洲求職必勝法則, 轉職工程師, 英文面試 | 「外國人如果想嘗試在澳洲找到軟體工程師職缺，有辦法在去澳洲前就找到嗎?」 | content/posts/2023-07-20-how-to-land-jobs-in-au |
 | 2023-07-02 | 微軟 Azure 雲端證照: AZ-500 Azure Security Engineer Associate 資訊安全工程師八小時速成攻略 | 澳洲職場 | 雲端證照 | 💡 適合：非資安專業背景、全職準備考試、希望用最少時間搞懂 AZ-500 考試重點的人！（以下為我 2023 年準備考試… | content/posts/2023-07-02-az-500 |
 | 2023-06-17 | 澳洲面試心得：跨國能源公司 DevOps 工程師 I：技術面試 | 澳洲職場 · 系列:DevOps 面試紀錄 | DevOps 工程師, 澳洲面試心得 | 直接先講結論！ | content/posts/2023-06-17-devops-interview-1 |
@@ -108,29 +107,29 @@
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.18 — Day 4 Noumea (New Caledonia) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 新喀里多尼亞, 郵輪 | 終於到達了第一個島 Noumea！從陽台望出去非常 city vibe (或是更精確的說，港口工業區 vibe)。吃完早… | content/posts/2023-06-02-carnival-splendor-day-4 |
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.19 — Day 5 Lifou (New Caledonia) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 新喀里多尼亞, 郵輪 | 這個小島沒有足夠深的港口，所以船只能停在海上，透過接駁小船把遊客送到島上。為了避開人潮，我們 6:30 就起床了，7 點… | content/posts/2023-06-02-carnival-splendor-day-5 |
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.20 — Day 6 Mystery Island (Vanuatu) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 萬那杜, 郵輪 | 今天終於到了唯一一個 Vanuatu 的小島 Mystery Island，今天也是要坐接駁小船前往。可能玩到旅程的中後… | content/posts/2023-06-02-carnival-splendor-day-6 |
-| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Sea Day 3 (final sea day) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 毛巾猩猩(?) | content/posts/2023-06-02-carnival-splendor-day-7 |
-| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.22 — Day 8 下船日 (Sydney) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天我們完全大睡特睡到 10 點。稍微整理了一下，我出門去參加 10:30 的折毛巾教學。 | content/posts/2023-06-02-carnival-splendor-day-8 |
+| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Signal Island (New Caledonia) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 毛巾猩猩(?) | content/posts/2023-06-02-carnival-splendor-day-7 |
+| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.22 — Day 8 Sea Day 3 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天我們完全大睡特睡到 10 點。稍微整理了一下，我出門去參加 10:30 的折毛巾教學。 | content/posts/2023-06-02-carnival-splendor-day-8 |
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.23 — Day 9 Sea Day 4 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 吃完早餐後我們立刻去聽了下船說明會，然後拍了一張全體工作人員代表的合照。 | content/posts/2023-06-02-carnival-splendor-day-9 |
-| 2023-05-30 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天是第二天 sea day，遊輪持續前進中，我們進入了下一個時區，所以遊輪工作人員提醒我們記得要手動把時間往前調一個小… | content/posts/2023-05-30-carnival-splendor-day-3 |
-| 2023-05-28 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.16 — Day 2 Sea Day 1 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 首先，應讀者 Huli 大大的要求，先來分享一下遊輪房間的內部照片。說真的，遊輪房間比我想像中大很多XD (本來還以為會… | content/posts/2023-05-28-carnival-splendor-day-2 |
-| 2023-05-15 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.15 — Day 1 雪梨登船 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 萬那杜, 新喀里多尼亞, 郵輪 | 住在布里斯本的我跟住在塔斯馬尼亞的友人 Ashley 決定一起進行一個為期九天的南太平洋遊輪之旅。這是我人生第一次的遊輪… | content/posts/2023-05-15-carnival-splendor-day-1 |
+| 2023-05-30 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天是第二天 sea day，郵輪持續前進中，我們進入了下一個時區，所以郵輪工作人員提醒我們記得要手動把時間往前調一個小… | content/posts/2023-05-30-carnival-splendor-day-3 |
+| 2023-05-28 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.16 — Day 2 Sea Day 1 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 首先，應讀者 Huli 大大的要求，先來分享一下郵輪房間的內部照片。說真的，郵輪房間比我想像中大很多XD (本來還以為會… | content/posts/2023-05-28-carnival-splendor-day-2 |
+| 2023-05-15 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.15 — Day 1 雪梨登船 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 萬那杜, 新喀里多尼亞, 郵輪 | 住在布里斯本的我跟住在塔斯馬尼亞的友人 Ashley 決定一起進行一個為期九天的南太平洋郵輪之旅。這是我人生第一次的郵輪… | content/posts/2023-05-15-carnival-splendor-day-1 |
 | 2023-05-11 | 澳洲求職必勝法則：Phone Screening 電話初篩策略應答分析與實戰分享 | 澳洲職場 | 澳洲求職必勝法則, 英文面試 | 今天想要跟大家來分享在澳洲求職過程中電話篩選 (phone screening) 的相關經驗。首先，phone scre… | content/posts/2023-05-11-phone-screening |
 | 2023-05-08 | Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 這週六我要飛往雪梨，在雪梨度過一個週末(曾經在雪梨住過七年的我，這次安排了跟許多朋友見面的行程，總共排了週六午餐、週六晚… | content/posts/2023-05-08-carnival-splendor-intro |
 | 2023-05-07 | 2023 年中澳洲生活回顧 | 澳洲生活 | 澳洲生活 | 不知不覺 2023 年也過一半了，我覺得必須要來好好審視一下今年的目標。翻了下我過去的文章 2022 年回顧(/post… | content/posts/2023-05-07-2023-life |
-| 2023-04-15 | 澳洲求職必勝法則：英文面試結尾別說沒問題！這樣反問面試官才加分 | 澳洲職場 | 澳洲求職必勝法則, 英文面試 | 之前在澳洲求職必勝法則：前 Amazon & 微軟架構師的英文面試準備策略 提到一個好的面試官在面試過程中絕對都會留下一… | content/posts/2023-04-15-interview-ending-questions |
+| 2023-04-15 | 澳洲求職必勝法則：英文面試結尾別說沒問題！這樣反問面試官才加分 | 澳洲職場 | 澳洲求職必勝法則, 英文面試 | 之前在 澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略(/posts/2023-01-21-eng-interview… | content/posts/2023-04-15-interview-ending-questions |
 | 2023-04-06 | 倖存者日記：2023 Q2 澳洲微軟裁員後續，裁員風暴仍在持續 | 澳洲職場 · 系列:倖存者日記 | 裁員 | 在 2023 年二月中，我發表了倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記(/posts/20… | content/posts/2023-04-06-2023-layoff |
 | 2023-04-01 | 如何評估現職是否適合你 — 工作小任務(work tasks) 評分表 | 澳洲職場 | 職涯 | 這個方法是我最近在 podcast 大人的 Small Talk P121 不再憑直覺換工作！轉職也有系統化做法？(ht… | content/posts/2023-04-01-work-tasks |
 | 2023-03-24 | Amazon：你不知道的亞馬遜辦公室 — IT 設備販賣機 | 澳洲職場 | 科技業, AWS | 之前我在 AWS 工作的時候，最喜歡的就是拜訪各地的辦公室。澳洲來說，我去過坎培拉、雪梨、墨爾本、伯斯，海外的話則是去過… | content/posts/2023-03-24-it-vending-machine |
 | 2023-03-17 | 那些沒人告訴你的雲端職位真相：Solution Architect 與 Cloud Engineer 職場日常大揭密！ | 澳洲職場 | 雲端架構師 | 雖然標題只寫了 Solution Architect 與 Cloud Engineer，但我認為 Software En… | content/posts/2023-03-17-sa-vs-cloud-engineer |
 | 2023-03-03 | 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder | 澳洲職場 | AWS, 雲端架構師 | Awesome Builder (簡稱 AB) 是 AWS Professional Services Team 新進員… | content/posts/2023-03-03-awesome-builder |
-| 2023-02-24 | 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享 | 澳洲職場 | 微軟 | (這篇是原來是我 2022.10.28 寫的文章，現在轉發到 Medium 上面跟大家分享XD) | content/posts/2023-02-24-ms-week1 |
+| 2023-02-24 | 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享 | 澳洲職場 | 微軟 | (這篇原來是我 2022.10.28 寫的文章，現在轉發到 Medium 上面跟大家分享XD) | content/posts/2023-02-24-ms-week1 |
 | 2023-02-17 | MBTI人格理論(16型職業性格評估) －INTJ-A 分享 | 澳洲生活 | 澳洲生活 | 不知道大家聽過或做過「MBTI 人格理論 (16 型職業性格評估)」嗎? 感覺在兩三年前非常紅，我之前做了這個免費的線上… | content/posts/2023-02-17-mbti-intj |
 | 2023-02-11 | 倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記 | 澳洲職場 · 系列:倖存者日記 | 裁員 | 相信大家最近多多少少都有看到各家科技大廠裁員的消息，今天就來分享我身為微軟員工的心情。 | content/posts/2023-02-11-2023-q1-layoff |
 | 2023-02-04 | 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析 | 澳洲職場 | 雲端證照 | 大家好我是 EC，擁有 6 張 AWS 證照以及 5 張 Azure 證照，今天想要來分享我對兩種證照體系的比較，最後則… | content/posts/2023-02-04-cloud-certs |
 | 2023-01-28 | 澳洲 FAANG — 微軟員工福利大公開 | 澳洲職場 | 科技業 | 今天想要來分享身為微軟員工有什麼樣的員工福利! | content/posts/2023-01-28-faang-benefits |
 | 2023-01-21 | 澳洲求職必勝法則：前微軟雲端架構師的英文面試攻略 | 澳洲職場 | 英文面試, 澳洲求職必勝法則 | 今天想要簡單分享一下，在澳洲超過十年的我，收到面試通知時，會如何準備英文職場面試。 | content/posts/2023-01-21-eng-interview |
-| 2023-01-14 | 微軟 Azure 雲端證照: AZ-305 Azure Solutions Architect Expert  證照考試心得 | 澳洲職場 | 雲端證照 | 2023 年的第二天，我通過了 AZ-305 Designing Microsoft Azure Infrastruct… | content/posts/2023-01-14-az-305 |
-| 2023-01-06 | 不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考 | 澳洲職場 | 轉職工程師 | 近幾年來，轉職 IT 工程師蔚為一股風潮，你也曾經考慮過這條路嗎? 你為什麼對於網頁工程或軟體工程感興趣呢? 是因為相關… | content/posts/2023-01-06-keys-to-transistion |
+| 2023-01-14 | 微軟 Azure 雲端證照: AZ-305 Azure Solutions Architect Expert 證照考試心得 | 澳洲職場 | 雲端證照 | 2023 年的第二天，我通過了 AZ-305 Designing Microsoft Azure Infrastruct… | content/posts/2023-01-14-az-305 |
+| 2023-01-06 | 不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考 | 澳洲職場 | 轉職工程師 | 近幾年來，轉職 IT 工程師蔚為一股風潮，你也曾經考慮過這條路嗎? 你為什麼對於網頁工程或軟體工程感興趣呢? 是因為相關… | content/posts/2023-01-06-keys-to-transition |
 | 2022-12-31 | 2022 年澳洲生活回顧 | 澳洲生活 | 年度回顧 | 今天是 2022 年的最後一天，看到朋友的分享，覺得我應該也要來回顧一下我的 2022! | content/posts/2022-12-31-2022-life |
 | 2022-12-23 | 澳洲亞馬遜 AWS Professional Services Cloud Architect 工作內容分享 | 澳洲職場 | AWS | 今天要來談一談我的上一份工作 Cloud Architect at Amazon Web Services (AWS)… | content/posts/2022-12-23-aws-ps-ca |
 | 2022-12-16 | 澳洲微軟菜鳥 Azure Cloud Solution Architect 的一天 | 澳洲職場 | 微軟 | Azure Cloud Solution Architect (CSA) 是我在微軟的工作職稱，這是我加入微軟的第八週。… | content/posts/2022-12-16-day-of-ms-csa |
@@ -163,7 +162,7 @@
 | 2019-09-01 | 轉職工程師日記: 2019.09.01 無處可逃 | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 最近兩天上的課程都偏軟實力，而不是寫程式的硬實力，上週五我們學了怎麼用 git 和 GitHub，今天我們學了專案管理。 | content/posts/2019-09-01-there-is-no-way-to-escape |
 | 2019-08-30 | 轉職工程師日記: 2019.08.30 下課後跟同學們一起喝一杯～ | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 2019-08-30 | content/posts/2019-08-30-after-class-drinks |
 | 2019-08-29 | 轉職工程師日記: 2019.08.29 找到適合自己的位置 | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 2019-08-29 | content/posts/2019-08-29-how-to-position-yourself |
-| 2019-08-28 | 轉職工程師日記: 2019.08.28 跟不上高手的腳步... | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 沒有跟上進度的後果就是我今天的 Kahoot 輸得一蹋糊塗XDDD 真心是好多題的答案我都不知道哈哈，最後的總排名是 1… | content/posts/2019-08-28-falling-behind |
+| 2019-08-28 | 轉職工程師日記: 2019.08.28 跟不上高手的腳步... | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 沒有跟上進度的後果就是我今天的 Kahoot 輸得一塌糊塗XDDD 真心是好多題的答案我都不知道哈哈，最後的總排名是 1… | content/posts/2019-08-28-falling-behind |
 | 2019-08-27 | 轉職工程師日記: 2019.08.27 Bang Bang Bang | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 果然經過了驚險刺激(好玩有趣?)的第一週之後，我覺得我好像已經沒什麼東西可以寫了XD | content/posts/2019-08-27-bang-bang-bang |
 | 2019-08-23 | 轉職工程師日記: 2019.08.23 成功活過第一週了 | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 今天也是平凡無奇的上課日XD | content/posts/2019-08-23-survived-the-1st-week |
 | 2019-08-22 | 轉職工程師日記: 2019.08.22 澳洲人，真的好愛聊天 | 轉職工程師日記 · 系列:轉職工程師日記 | 程式訓練營, Coding Bootcamp | 今天是平凡無奇的上課日XD 所以連一張照片也沒有哈哈 (通篇都是瑣事LOL) | content/posts/2019-08-22-embracing-the-aussie-values |

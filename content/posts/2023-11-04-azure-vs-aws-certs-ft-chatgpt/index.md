@@ -17,7 +17,7 @@ tags: ["AWS"]
 
 
 
-今天要來跟大家分享我更新微軟證照 Microsoft Azure Solutions Architect Expert 的經驗，還有我用 ChatGPT 幫我考 Microsoft Azure Administrator Associate 證照更新考試的心得 (究竟 ChatGPT 有沒有比我聰明呢? XD），以及微軟 Azure 和 AWS 雲端證照在更新證照規定上的差異。
+今天要來跟大家分享我更新微軟證照 Microsoft Azure Solutions Architect Expert 的經驗，還有我用 ChatGPT 幫我考 Microsoft Azure Administrator Associate 證照更新考試的心得 (究竟 ChatGPT 有沒有比我聰明呢? XD)，以及微軟 Azure 和 AWS 雲端證照在更新證照規定上的差異。
 
 
 在過去三年內我考過了 5 張微軟 Azure 雲端證照以及 6 張 AWS 雲端證照。
@@ -36,7 +36,7 @@ tags: ["AWS"]
 
 ### 如何更新微軟 Azure 和 AWS 雲端證照
 
-有一點在那篇文章裡沒有提到的微軟 Azure 和 AWS 雲端證照差異，是拿到證照後，在這兩個系統理我們要如何更新證照呢？
+有一點在那篇文章裡沒有提到的微軟 Azure 和 AWS 雲端證照差異，是拿到證照後，在這兩個系統裡我們要如何更新證照呢？
 
 **就 AWS 證照來說，更新的方法有兩種：**
 
@@ -44,7 +44,7 @@ tags: ["AWS"]
 
 第二種則是通過更高一級的考試。以 AWS Solution Architect Associate 為例，如果你在證照有效期內通過 AWS Solution Architect Professional，那麼你的 AWS Solution Architect Associate 也就會隨之延長。
 
-例如下圖我在 2022.02.19 通過 AWS Solution Architect Professional (該證照的有限期限為三年，到 2025.02.19)，你們可以看到我的 AWS Cloud Practitioner 跟 AWS Solution Architect Associate 有限期限也就隨之被延長到 2025.02.19。
+例如下圖我在 2022.02.19 通過 AWS Solution Architect Professional (該證照的有效期限為三年，到 2025.02.19)，你們可以看到我的 AWS Cloud Practitioner 跟 AWS Solution Architect Associate 有效期限也就隨之被延長到 2025.02.19。
 
 ![AWS雲端證照管理面板展示](images/medium-1*gi-BinpRY4mO2kvLs90O_g.png)
 
@@ -57,7 +57,7 @@ tags: ["AWS"]
 
 
 
-如果你的證照是 Speciality level，例如圖中的 AWS Security Speciality，那你更新證照的唯一方式，就只有重新再考一次lol
+如果你的證照是 Specialty level，例如圖中的 AWS Security Specialty，那你更新證照的唯一方式，就只有重新再考一次lol
 
 **更新微軟 Azure 雲端的證照方式則簡單得多：**
 
@@ -73,7 +73,7 @@ tags: ["AWS"]
 
 微軟證照的更新方式聽起來如此簡單，於是今天我就趁著假日來體驗一下。
 
-就 Microsoft Azure Administrator Associate 證照更新考試來說，題目是 26 提選擇題(單選)。但是我真的太久沒有碰 Azure 了，考試前也完全沒準備，考試中也沒有認真查資料，所以我獲得了一個這樣的下場：
+就 Microsoft Azure Administrator Associate 證照更新考試來說，題目是 26 題選擇題(單選)。但是我真的太久沒有碰 Azure 了，考試前也完全沒準備，考試中也沒有認真查資料，所以我獲得了一個這樣的下場：
 
 ![Azure證照更新考試第一次成績](images/medium-1*xwY7-mOBLFBuG_2VRcytmw.png)
 
@@ -93,7 +93,7 @@ tags: ["AWS"]
 
 事實證明 ChatGPT 考得比我還差XDDD (果然有沒有連網還是有差哈哈！)
 
-於是我現在只能在等 24 小時再考一次了，不過既然是開卷考，最後要通過應該是不難啦，所以我也沒有太擔心。
+於是我現在只能再等 24 小時考一次了，不過既然是開卷考，最後要通過應該是不難啦，所以我也沒有太擔心。
 
 **接下來我要來分享一下我用 ChatGPT 作答的心得：**
 
@@ -113,7 +113,7 @@ tags: ["AWS"]
 
 3\. ChatGPT 有自己的看法，例如我明明給了它四個選項，它卻告訴我此題無解XD
 
-雖然我也覺得這題題目沒有出得很好，而且 ChatGPT 應該是對的，因為 banned password Contoso 很明顯應該是禁不了選項Ａ(裡面用 0 取代了英文字母Ｏ)。但如果真心硬要選一個答案的話，我覺得 D 應該還是一個比較有可能的選項。這也是 ChatGPT 跟人類不一樣的地方，像我們明知道考題出錯了，但為了避免失分，我們還是會硬選一個，而不是直接不作答。
+雖然我也覺得這題題目沒有出得很好，而且 ChatGPT 應該是對的，因為 banned password Contoso 很明顯應該是禁不了選項 A (裡面用 0 取代了英文字母 O)。但如果真心硬要選一個答案的話，我覺得 D 應該還是一個比較有可能的選項。這也是 ChatGPT 跟人類不一樣的地方，像我們明知道考題出錯了，但為了避免失分，我們還是會硬選一個，而不是直接不作答。
 
 ![ChatGPT對考題的獨立見解](images/medium-1*9xpuxyT1cTKIwJC9fhLdQg.png)
 
@@ -139,7 +139,7 @@ tags: ["AWS"]
 
 以上就是兩個雲端證照系統的證照更新比較、使用 ChatGPT 來幫我考試的心得，以及最後兩個微軟證照考試的成功與失敗的心得。這裡想要來跟大家探討幾個問題：
 
-  1. 你們對於 AWS 跟微軟 Azure 證照更新的系統有什麼想法呢？我覺得 AWS 的方式雖然勞民傷財，但似乎是一個比較有效的驗證方式，畢竟你要麻重考一次要麻通過更高等級的考試。微軟 Azure 證照更新超級簡單省力，但如果你只是隨便查查網路資訊就可以每年更新的話，維持這個證照的有效期限似乎也不太有意義？
+  1. 你們對於 AWS 跟微軟 Azure 證照更新的系統有什麼想法呢？我覺得 AWS 的方式雖然勞民傷財，但似乎是一個比較有效的驗證方式，畢竟你要嘛重考一次，要嘛通過更高等級的考試。微軟 Azure 證照更新超級簡單省力，但如果你只是隨便查查網路資訊就可以每年更新的話，維持這個證照的有效期限似乎也不太有意義？
   2. 大家覺得 ChatGPT 的表現如何呢？這還是我第一次用它來考試，就結果論來說沒有太成功。但我很喜歡用 ChatGPT 來寫 email 或是給同事的 feedback。
 
 

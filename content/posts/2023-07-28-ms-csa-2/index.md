@@ -16,7 +16,7 @@ tags: ["微軟", "Solution Architect","雲端架構師"]
 episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 ---
 
-這篇文章是 <<微軟雲端架構師 (Solution Architect) 職位解析>> 系列的第二集。
+這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第二集。
 
 這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
@@ -39,7 +39,7 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
 
 * * *
 
-其實我發現寫這篇之前應該要來寫一篇解釋「到底什麼是雲」文章，但我最近真心忙到昏天黑地哈哈哈！所以繼續列入待寫清單，這個清單目前已經越來越長囧
+其實我發現寫這篇之前應該要來寫一篇解釋「到底什麼是雲」的文章，但我最近真心忙到昏天黑地哈哈哈！所以繼續列入待寫清單，這個清單目前已經越來越長囧
 
 第二集會是這個系列中最技術性的一篇，如果覺得太多技術概念看不懂，我建議可以直接等待第三集跟第四集，因為這兩集會有趣許多，請不要因此放棄這個系列XDDD
 
@@ -80,36 +80,36 @@ episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
   1. Route 53: AWS 的 DNS 服務，簡單來說就像是交警(traffic controller)，這個服務會負責幫忙指揮網路交通要往哪去。
   2. **WAF (Web Application Firewall)** ：Layer 7 防火牆，如果你不懂這裡的 Layer 7 是什麼意思，可以讀一下 OSI model。基本上它就是一個比較聰明的防火牆，比 Layer 3/4 的防火牆聰明，至於聰明在哪裡，讀完 OSI model 應該就會懂了XD
   3. CloudFront (Content Delivery Network)： AWS 的 CDN 服務，如果你不知道 CDN 是什麼概念，可以直接搜尋一下 Content Delivery Network。簡單來說， CDN 透過把網站內容 cache 在 edge points，可以大大減低使用者使用 app 時的 latency。
-  4. **Shield** ：AWS 的 DDoS 服務，這個是資安相關的服務。簡單來說，就是避免駭客用假流量灌爆企業網站，使得伺服器無法運作。
+  4. **Shield** ：AWS 的 DDoS 防護服務，這個是資安相關的服務。簡單來說，就是避免駭客用假流量灌爆企業網站，使得伺服器無法運作。
   5. VPC, Public Subnet (green), Private Subnet (blue)： 簡單來說就是當企業從傳統的 hardware defined network (switches, routers, cables) 變成雲上的 software-defined network 時要怎麼規劃跟控制企業網絡。
   6. Availability Zone： 簡單來說就是在不同地點的 AWS 數據中心，通常會建議企業的雲基礎設施不要部署在單一 Availability Zone。專業術語叫做 multi-AZ deployment。
   7. NAT Gateway： 管 Internet outbound traffic 的 AWS 雲服務。
   8. ELB (Elastic Load Balancer)： AWS 的 load balancer 服務，可以分為聰明版的 Layer 7 Application Load Balancer (ALB) 跟比較不聰明版本的 Layer 4 Network Load Balancer (NLB)，至於為什麼 ALB 比 NLB 聰明，你還是要讀一下 OSI model 囧
   9. Autoscaling Group： AWS 的 autoscaling 服務，簡單來說就是企業可以根據使用者流量而自動增加或減少伺服器的部署數量。例如一般來說 PTT 有 100 台伺服器，但是八卦版因為 Me Too 事件爆了，AWS 會自動幫我部署 200 台伺服器來 cover 流量，這樣大家就可以繼續追八卦，而不會看到「批踢踢過載中，請稍後再嘗試登入」的錯誤訊息。（單純舉例，我不知道批踢踢是否部署在 AWS 上，還是在台大的機房裡?XD）
-  10. Elasticache： AWS 的 data caching 服務，簡單來說為了減低資料庫的負擔，企業可以把使用者常常要讀取的資料放在 Elasticache 上。
+  10. ElastiCache： AWS 的 data caching 服務，簡單來說為了減低資料庫的負擔，企業可以把使用者常常要讀取的資料放在 ElastiCache 上。
 
 
 
-有興趣進一步閱讀細節的人請參考：[**< <An AWS Cloud architecture for web hosting>>**](https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-aws-cloud-architecture-for-web-hosting.html)
+有興趣進一步閱讀細節的人請參考：[**《An AWS Cloud architecture for web hosting》**](https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-practices/an-aws-cloud-architecture-for-web-hosting.html)
 
 ### 看到這裡還有人嗎？XDD
 
 雖然我上面講了超多次「簡單來說」，但我知道應該有讀者已經在心中吐槽無數次說「這哪裡簡單了啊啊啊啊啊啊啊啊」。
 
-但殘酷的事實是，在實務上客戶的架構圖會遠比上面的圖 3 更複雜，基本上是一頁畫不完，而且你必須要用放大鏡竟看每一層的程度LOL
+但殘酷的事實是，在實務上客戶的架構圖會遠比上面的圖 3 更複雜，基本上是一頁畫不完，而且你必須要用放大鏡看每一層的程度LOL
 
 ### 所謂的 solution architecting 到底在做什麼？
 
   1. **你必須要懂 IT infrastructure** ：networking, web application architecture (你可以不用真的會寫 React applications 沒關係，但是我上面說的那個 3-tier web application 的概念要有), storage, security, database, load balancing 等等。
-  2. **你必須要懂雲服務** ：AWS 或是 Azure 對應的 networking, web application , storage, security, database, load balancing 服務是什麼。除此之外，cloud migration 常見的幾個策略你要懂 (lift & shift, refactor, rehost 等等)。雲的基本概念你要懂 (regions, availability zones, multi-region deployment)。
-  3. 「除了個別雲服務跟概念之外，你要懂得規劃整體雲端架構方案：」試著想像我告訴你圖三裡，客戶想要部署 2000 個 EC2 servers，這些伺服器必須要在兩個 regions (例如澳洲跟台灣)。那如果我的使用者在美國的時候，請問他會連到澳洲的伺服器還是台灣的伺服器? (連到哪一個對客戶比較有利？) 如果客戶跟你說，他覺得 active-active deployment 太貴了，兩個 regions 客戶打算把 primary region 在澳洲，只有在澳洲 region 掛了的時候才 fail over 到台灣，請問這裡的 DR (disaster recovery) 要如何規劃？
+  2. **你必須要懂雲服務** ：AWS 或是 Azure 對應的 networking, web application, storage, security, database, load balancing 服務是什麼。除此之外，cloud migration 常見的幾個策略你要懂 (lift & shift, refactor, rehost 等等)。雲的基本概念你要懂 (regions, availability zones, multi-region deployment)。
+  3. 「除了個別雲服務跟概念之外，你要懂得規劃整體雲端架構方案：」試著想像我告訴你圖三裡，客戶想要部署 2000 個 EC2 servers，這些伺服器必須要在兩個 regions (例如澳洲跟台灣)。那如果我的使用者在美國的時候，請問他會連到澳洲的伺服器還是台灣的伺服器? (連到哪一個對客戶比較有利？) 如果客戶跟你說，他覺得 active-active deployment 太貴了，兩個 regions 客戶打算把 primary region 設在澳洲，只有在澳洲 region 掛了的時候才 fail over 到台灣，請問這裡的 DR (disaster recovery) 要如何規劃？
   4. **延續上一點，你必須要懂得跟客戶的不同部門打交道：**
 
 
   * 有時候你必須要跟客戶的 CEO/CTO 談上雲之後的商業效益跟長遠規劃。
   * 有時候你必須跟客戶的 Networking Team 談 south-north traffic 跟 east-west traffic 要怎麼規劃。
-  * 有時候你必須跟客戶的 Project Manager 談圖 3 的架構在 AWS 上需要多少錢，如果客戶說他們沒有那麼多預算，請問你要如何簡化圖 3 的架構來省錢？同時讓客戶了解到省錢之後的後果可能是他們的 application 的安全性會降低，或是 reliablity 會降低，該如何取捨？
-  * 有時候是在同一個會議裡跟客戶的不同部門大亂鬥XD Project Manager 說圖 3 太貴了，他們不想要買 Shield Advance，Security Team 說不行我們這樣資安會有漏洞。然後 Networking Team 跳出來說，multi-region deployment 這樣網路很難規劃，但 CTO 說不行我們的一定要 multi-region deployment，因為 single-region deployment 的話我們無法滿足跟客戶的 SLA (service level agreement)。
+  * 有時候你必須跟客戶的 Project Manager 談圖 3 的架構在 AWS 上需要多少錢，如果客戶說他們沒有那麼多預算，請問你要如何簡化圖 3 的架構來省錢？同時讓客戶了解到省錢之後的後果可能是他們的 application 的安全性會降低，或是 reliability 會降低，該如何取捨？
+  * 有時候是在同一個會議裡跟客戶的不同部門大亂鬥XD Project Manager 說圖 3 太貴了，他們不想要買 Shield Advanced，Security Team 說不行我們這樣資安會有漏洞。然後 Networking Team 跳出來說，multi-region deployment 這樣網路很難規劃，但 CTO 說不行我們一定要 multi-region deployment，因為 single-region deployment 的話我們無法滿足跟客戶的 SLA (service level agreement)。
 
 
 

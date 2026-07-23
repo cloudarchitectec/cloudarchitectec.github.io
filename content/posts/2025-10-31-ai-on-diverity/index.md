@@ -34,7 +34,7 @@ tags: [ "科技業", "AI", "Diversity", "DevOps 工程師", "職涯"]
 是這樣的，我們團隊的組織本來非常扁平：
 - **一個主管**：負責 delivery lead, tech lead, people manager, business analyst。
 - **DevOps Engineers x5**：大家的職級基本相同，我跟Ｌ、A 是同一時間入職的（年資約兩年多）。E 是最資淺的，入職 10 個月。AL 本來是 senior data integration engineer，但他們整個 data integration 被裁，所以他被併入我們 DevOps team 後改做 DevOps Engineer 的工作。
-- **Sendior Testing Engineering/Test Lead**: 基本上自己主導 testing strategies 跟相關 testing 工作，獨立於其他 DevOps Engineers 之外。
+- **Senior Testing Engineer/Test Lead**: 基本上自己主導 testing strategies 跟相關 testing 工作，獨立於其他 DevOps Engineers 之外。
 
 突然有一天，主管宣布我們團隊要新增一個 Principal Engineer (PE)。
 
@@ -86,7 +86,7 @@ tags: [ "科技業", "AI", "Diversity", "DevOps 工程師", "職涯"]
 
 回到主題，我個人有點猶豫要不要申請這個 PE 職位，於是就跑去跟 AI 討論各種選項。
 
-我的原話大概是：「我跟同事 L 關係不錯，如果他拿到 PE 這個職位我不意外。但我不確定如果相反的話會怎樣... 講個政治不正確的論點，如果我們同時申請，公司選我，「會不會是因為我是女生」？畢竟公司雖然 D&I 做得不錯，但在『female in technical leadership』這塊，簡單來說，近乎於零。如果我進去，會是第一個 female princial engineer XD」
+我的原話大概是：「我跟同事 L 關係不錯，如果他拿到 PE 這個職位我不意外。但我不確定如果相反的話會怎樣... 講個政治不正確的論點，如果我們同時申請，公司選我，「會不會是因為我是女生」？畢竟公司雖然 D&I 做得不錯，但在『female in technical leadership』這塊，簡單來說，近乎於零。如果我進去，會是第一個 female principal engineer XD」
 
 下面是 AI 對於這個議題的反應，非常有趣！
 
@@ -100,7 +100,7 @@ Gemini 的第一個反應是: 「妳的思維有誤，讓我們來『重新建�
 
 它接著開始上課，條列了三大點：1. 樹立典範 (Role Model)、2. 吸引人才、3. 決策優化。
 
-相較於 ChatGPT 擅長給於正面情緒價值，我覺得相較下 Gemini 是更有自己的中心思想的。
+相較於 ChatGPT 擅長給予正面情緒價值，我覺得相較下 Gemini 是更有自己的中心思想的。
 
 
 ### AI 選手二號：ChatGPT (循循善誘的資深 Mentor，請你相信自己的價值)
@@ -125,9 +125,9 @@ ChatGPT 認為：
 
 老實說，兩個 AI 都點出了「女性技術領導力」的商業價值。但它們的人設/切入角度實在差太多了！
 
-* **ChatGPT 像是一個嚴厲的職場導師**： 它直接「糾正」你的思想誤區、幫你建立正確的文化價值觀，用非常宏觀、非常正確的商業術語，告訴妳「妳應該怎麼想」才對公司最有利。
+* **Gemini 像是一個嚴厲的職場導師**： 它直接「糾正」你的思想誤區、幫你建立正確的文化價值觀，用非常宏觀、非常正確的商業術語，告訴妳「妳應該怎麼想」才對公司最有利。
 
-* **Gemini 像是一個跟你站在同一陣線的資深 Mentor 或職涯教練**： 它先同理妳的處境（「這很現實」），然後給妳策略和工具（「這是策略聯盟」、「妳可以這樣說...」），幫妳把這個「標籤」轉化為妳的「武器」，並請你相信自己的價值所在。
+* **ChatGPT 像是一個跟你站在同一陣線的資深 Mentor 或職涯教練**： 它先同理妳的處境（「這很現實」），然後給妳策略和工具（「這是策略聯盟」、「妳可以這樣說...」），幫妳把這個「標籤」轉化為妳的「武器」，並請你相信自己的價值所在。
 
 我個人是被 Gemini 的回答給驚艷到，因為有一種當頭棒喝的感覺！
 

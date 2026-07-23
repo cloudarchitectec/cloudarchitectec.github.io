@@ -46,7 +46,7 @@ tags: ["AI", "Claude", "Gemini", "ChatGPT", "Copilot", "軟體工程師"]
 
 * ChatGPT Chat
 * Gemini Chat
-* Glaude Chat
+* Claude Chat
 
 我想跟 ChatGPT 聊天應該是大多數人跟 AI 相處的起點XD
 
@@ -106,7 +106,7 @@ Microsoft Copilot Web chat 的回答也是常常差強人意
 
 這時候 AI 不再只是聊天，而是：
 
-* 程式碼編輯: code generation, code refactoring, debut, test generation
+* 程式碼編輯: code generation, code refactoring, debug, test generation
 * 畫各式流程圖、data flow charts、wireframes
 * 專案架構與設計
 
@@ -146,7 +146,7 @@ Microsoft Copilot Web chat 的回答也是常常差強人意
 
 這個階段跟 IDE 最大差別是「Agent 感」開始出現了。
 
-AI 的效能開始成倍數成長，使用起來已經不像是我在跟一位工程師一起工作，而是我一個人就在指揮一群 AI 大軍(軟體工程師、測試工程師、UX/UI設計師、Business Analyst 等等)，跟我一起衝鋒陷陣，我負責指揮，他們負責完成。
+AI 的效能開始成倍數成長，使用起來已經不像是我在跟一位工程師一起工作，而是我一個人就在指揮一群 AI 大軍(軟體工程師、測試工程師、UX/UI 設計師、Business Analyst 等等)，跟我一起衝鋒陷陣，我負責指揮，他們負責完成。
 
 很多時候，比較簡單的任務，AI agents 甚至可以直接跑完整段流程 (end to end workflow)，完全不需要我給過多指示。
 
@@ -154,7 +154,7 @@ AI 的效能開始成倍數成長，使用起來已經不像是我在跟一位�
 
 ---
 
-## Level 5：自己打造 AI Agnets/Harness
+## Level 5：自己打造 AI Agents/Harness
 
 然後就是我那些很誇張的同事，他們已經不是在使用 AI，而是自己做 AI。
 

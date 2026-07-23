@@ -26,7 +26,7 @@ tags: ["雲端架構師"]
 
 所以我決定要以我個人本身的經驗，透過一些實際的 code samples 來進一步跟大家解析這三個工程師職位的不同！
 
-這集算是我的「< 微軟雲端架構師 (Solution Architect) 職位解析>>」系列的番外篇。如果你想要暸解我在微軟擔任「雲端解決方案架構師 (Solution Architect)」的實際工作內容，請你千萬不要錯過這個系列！
+這集算是我的《微軟雲端架構師 (Solution Architect) 職位解析》系列的番外篇。如果你想要暸解我在微軟擔任「雲端解決方案架構師 (Solution Architect)」的實際工作內容，請你千萬不要錯過這個系列！
 
 第一集的傳送門在此：
 
@@ -39,8 +39,8 @@ tags: ["雲端架構師"]
 其實這個分類裡又可以分成寫系統軟體跟寫網頁軟體的工程師。近年來掀起一陣轉職風潮的工程師職位主要屬於網頁軟體的類別，因為入門門檻比較低，其中又可以再細分成：前端工程師 (Frontend Engineer)、後端工程師(Backend Engineer)、全端工程師 (Full-Stack Engineer)。
 
   * **前端工程師** ：前端工程師所寫的程式通常跟網頁介面相關，也就是使用者可以看到、也可以互動的地方。例如說網站的首頁、表格等等。基本的技能樹有：HTML、CSS、JavaScript，跟常見的前端框架例如 React、Angular、 Vue。
-  * **後端工程師** ：後端工程師所寫的程式通常跟網頁邏輯以及 API 相關，也就是使用者通常看不到的地方。後端工程師通常也會需要有資料庫 (database) 相關的知識跟技能，例如說要至少要會寫一點 SQL (Structured Query Language) 之類的。基本的技能樹有：REST API、GraphQL 等等。關於資料庫管理，其實這裡還有一個專門的職位叫 DBA (Database Admin)，但這跟我們今天的主題離的比較遠，所以我就不細談了。
-  * **全端工程師** ：顧名思義，也就是前端跟後端的工作都要會做。當年我轉職的時候(2020 年)，澳洲的 IT 業界普遍有個迷思，就是後端工程師 跟全端工程師 才是真正厲害的工程師，而前端工程師 就只是改改 HTML/CSS 而已。但我其實不這麼認為！我認為前端跟後端各有他們專精的地方跟有趣的地方，而所謂的全端，我覺得有時候也是只是慣老闆們開不出兩個職位的薪水的藉口而已？XD
+  * **後端工程師** ：後端工程師所寫的程式通常跟網頁邏輯以及 API 相關，也就是使用者通常看不到的地方。後端工程師通常也會需要有資料庫 (database) 相關的知識跟技能，例如至少要會寫一點 SQL (Structured Query Language) 之類的。基本的技能樹有：REST API、GraphQL 等等。關於資料庫管理，其實這裡還有一個專門的職位叫 DBA (Database Admin)，但這跟我們今天的主題離得比較遠，所以我就不細談了。
+  * **全端工程師** ：顧名思義，也就是前端跟後端的工作都要會做。當年我轉職的時候(2020 年)，澳洲的 IT 業界普遍有個迷思，就是後端工程師 跟全端工程師 才是真正厲害的工程師，而前端工程師 就只是改改 HTML/CSS 而已。但我其實不這麼認為！我認為前端跟後端各有他們專精的地方跟有趣的地方，而所謂的全端，我覺得有時候也只是慣老闆們開不出兩個職位的薪水的藉口而已？XD
 
 
 
@@ -64,7 +64,7 @@ tags: ["雲端架構師"]
 
 *JavaScript Code from W3School*
 
-複雜一點的例子可以用 React 這個奠基於 JavaScript 的 frontend framework (目前的業界標準應該是用 TypeScript 寫居多) 來寫一個圈圈叉叉的遊戲 。下面的程式碼是個 React functional component ，左手邊的這幾行程式，會變成右手邊那一個圈圈叉叉的遊戲。(題外話：圈圈叉叉這個遊戲的英文叫做 Tic-Tac-Toe，很有趣吧)。如果看完整的程式碼或是想要自己玩玩看，這個程式碼來自 [React 的官方部落格](https://react.dev/blog/2023/03/16/introducing-react-dev)。
+複雜一點的例子可以用 React 這個奠基於 JavaScript 的 frontend framework (目前的業界標準應該是用 TypeScript 寫居多) 來寫一個圈圈叉叉的遊戲 。下面的程式碼是個 React functional component ，左手邊的這幾行程式，會變成右手邊那一個圈圈叉叉的遊戲。(題外話：圈圈叉叉這個遊戲的英文叫做 Tic-Tac-Toe，很有趣吧)。如果想看完整的程式碼或是想要自己玩玩看，這個程式碼來自 [React 的官方部落格](https://react.dev/blog/2023/03/16/introducing-react-dev)。
 
 ### 雲端顧問/雲端工程師 (Cloud Consultant/Cloud Engineer)
 
@@ -76,7 +76,7 @@ AWS 跟微軟也有自己的 consulting department，例如我之前工作的 AW
 
   * cloud infrastructure: AWS, Azure or GCP
   * infrastructure as code (IaC): 如果是 AWS 平台那就是 AWS CloudFormation in Json or YAML、SDK、CDK。如果是 Azure 平台那就是 Bicep 或 Azure Resource Manager。如果是要跨平台的話，目前業界最常用的工具是 Terraform。
-  * 程式語言： 最常見的是 TypeScripte 或 Python。
+  * 程式語言： 最常見的是 TypeScript 或 Python。
 
 
 
@@ -94,7 +94,7 @@ AWS 跟微軟也有自己的 consulting department，例如我之前工作的 AW
 
 ### DevOps 工程師 (DevOps Engineer)
 
-DevOps 工程師的工作內容包山包海，包括 cloud infrastructure, platform managment, CI/CD (continuous integration and continuous delivery/continuous deployment), pipelien automation, logging/monitoring, system administration, DevOps tools managment, scripting。算是一個在軟體工程師跟雲端工程師之間，但又偏向雲端工程師的職位。
+DevOps 工程師的工作內容包山包海，包括 cloud infrastructure, platform management, CI/CD (continuous integration and continuous delivery/continuous deployment), pipeline automation, logging/monitoring, system administration, DevOps tools management, scripting。算是一個在軟體工程師跟雲端工程師之間，但又偏向雲端工程師的職位。
 
 DevOps 工程師還有一個變體叫 SRE (Site Reliability Engineer)，我們在此也先不討論。
 
@@ -102,7 +102,7 @@ DevOps 工程師的技能樹有：
 
   * cloud infrastructure: AWS, Azure or GCP
   * **infrastructure as code (IaC)** : 如果是 AWS 平台那就是 AWS CloudFormation in Json or YAML、SDK、CDK。如果是 Azure 平台那就是 Bicep 或 Azure Resource Manager。如果是要跨平台的話，目前業界最常用的工具是 Terraform。
-  * **程式語言** ：最常見的是 TypeScripte 或 Python。
+  * **程式語言** ：最常見的是 TypeScript 或 Python。
   * CI/CD tools: AWS 的 CodePipeline 系列、Azure 的 Azure DevOps、第三方軟體像是 Jenkins、OptusDeploy 等等
   * Logging/monitoring： AWS CloudWatch、Azure Monitor、DataDog、Splunk 等等
   * **Scripting** ：Bash script, PowerShell script
@@ -113,17 +113,17 @@ DevOps 工程師的技能樹有：
 
 ![](images/medium-1*rJfwKwq1-XkI3sCHPvHKVQ.png)
 
-*Azure DevOps Pipeline tempalte from Microsoft*
+*Azure DevOps Pipeline template from Microsoft*
 
 就 DevOps 工程師的日常來說，雖然寫程式是日常，但很大部分的重點其實是在 tooling 跟 automation 上面。
 
 ### 結論
 
-我個人當初想轉職時想當的是 Software Engineer (特別是 Frontend Engieer)，結果投了 200 個工作，最後都沒有拿到 Software Engineer 的相關 offer。我唯一拿到的 offer 就是 AWS Cloud Architect (Cloud Consultant)，從此踏上我的雲端之路。其實回頭想想也是超級幸運，因為我後來真的很喜歡 cloud engineering！(其實我在還沒踏入這個業界之前，我完全不知道 Cloud Engineer、DevOps Engineer 這兩個職位存在XDD)
+我個人當初想轉職時想當的是 Software Engineer (特別是 Frontend Engineer)，結果投了 200 個工作，最後都沒有拿到 Software Engineer 的相關 offer。我唯一拿到的 offer 就是 AWS Cloud Architect (Cloud Consultant)，從此踏上我的雲端之路。其實回頭想想也是超級幸運，因為我後來真的很喜歡 cloud engineering！(其實我在還沒踏入這個業界之前，我完全不知道 Cloud Engineer、DevOps Engineer 這兩個職位存在XDD)
 
 後來第二份工作是在微軟當 Solution Architect，我覺得這個職位其實不是很適合我。如果看過我相關文章的讀者肯定知道為什麼，這裡就不多說了XD
 
-最近開始在能源公司開始當 DevOps Engineer，目前做了三個禮拜我天天都超級開心！因為我目前的技能樹只點在雲端技術跟雲端平台上(喔～還有軟體開發，我當年 coding bootcamp 學的是 JavaScript、React、MongoDB、 Express)，所以很多 DevOps 概念、技術跟工具對我來說都是新的，每天都在學習新東西！例如我最近在寫 PowerShell scripting 來改善我們的 deployment pipeline (我從來沒寫過 PowerShell，但是我當年學習的程式概念還在，所以邊學邊寫也是非常有趣)，我的第一個 PR 已經進 production 了，非常有成就感!!! 還收到來自 developer 的感謝XD
+最近開始在能源公司當 DevOps Engineer，目前做了三個禮拜我天天都超級開心！因為我目前的技能樹只點在雲端技術跟雲端平台上(喔～還有軟體開發，我當年 coding bootcamp 學的是 JavaScript、React、MongoDB、 Express)，所以很多 DevOps 概念、技術跟工具對我來說都是新的，每天都在學習新東西！例如我最近在寫 PowerShell scripting 來改善我們的 deployment pipeline (我從來沒寫過 PowerShell，但是我當年學習的程式概念還在，所以邊學邊寫也是非常有趣)，我的第一個 PR 已經進 production 了，非常有成就感!!! 還收到來自 developer 的感謝XD
 
 希望我可以繼續順利在 DevOps Engineer 的路上走下去～
 

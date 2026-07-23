@@ -2,6 +2,8 @@
 
 title: "澳洲首次置業指南-昆士蘭篇III：2023 印花稅減免怎麼算？QLD First Home Concession 節稅懶人包"
 date: 2023-09-23
+lastmod: 2026-07-22
+description: "昆士蘭首次置業印花稅減免（First Home Concession）的資格、計算方式，以及如何同時符合三項首購補助。本文為 2023 年版本，印花稅制度已大幅修改。"
 slug: "2023-09-23-qld-first-home-3"
 cover:
   image: "images/hHz4yrvxwlA-unsplash.jpg"
@@ -16,6 +18,19 @@ tags: ["澳洲首次置業指南","澳洲房地產","昆士蘭"]
 episodeseries: ["QLD 首購房"]
 ---
 
+{{< outdated written="2023 年 9 月" reviewed="2026-07" >}}
+昆州的印花稅制度已大幅修改，本文的門檻、金額與試算例子皆已作廢。截至 2026 年 7 月的主要變化：
+
+- 自 2024 年 6 月 9 日起：first home concession 的全額減免門檻由 55 萬提高至 70 萬澳幣（70 萬以下印花稅為零）；70 萬到 80 萬之間仍可獲得部分減免，房價超過 80 萬才完全不適用
+- 自 2025 年 5 月 1 日起：首購族購買新建房、樓花或自建土地的印花稅全額免徵，且無房價上限（官方名稱：First home (new home) concession）
+- 購屋後不得分租的限制已放寬
+- 本文的 $15,925 減免上限、55 萬門檻、三個試算例子與印花稅試算表圖片，全部不再適用
+
+最新規定請以官方頁面為準：[QRO — First home concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/) ／ [QRO — First home (new home) concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home-new-home/)
+
+如果你正在研究昆州首購，歡迎在下方留言交流。
+{{< /outdated >}}
+
 這個系列要來跟大家分享在澳洲第一次買房有哪些政府福利措施可利用!
 
 如果你想要利用「置業擔保計劃 (Home Guarantee Scheme)」讓澳洲政府擔任你的房貸擔保人，使用房價 2% 或 5% 的頭期款買下你在澳洲的第一套自住房，請參考第一集:[**澳洲首次置業指南-昆士蘭篇I：2023 首次置業擔保計劃全解析｜Home Guarantee Scheme**](/posts/2023-09-23-qld-first-home-1/)
@@ -26,17 +41,17 @@ episodeseries: ["QLD 首購房"]
 
 > 我只是一個近期致力於研究昆州房產的電腦工程師（並非房產相關專業人士），以下言論不能作為任何法律或是房產投資的建議。如需任何專業建議，請大家自行諮詢律師、過戶師、銀行、貸款經理人等等專業人士。
 
-> 本篇文章所有的資訊都來自政府的官方網站 [Queensland Revenue Office — First Home Consession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)，我只是幫大家翻譯跟分析而已。這裡要提醒大家網路上有很多資料 (這篇文章也是XD)，但我希望大家行有餘力的話，還是要看第一手官方資料，避免因為他人的錯誤解讀，而讓自己的權利受損 (by 自己搞定澳洲移民跟澳洲買房的 EC XD)
+> 本篇文章所有的資訊都來自政府的官方網站 [Queensland Revenue Office — First Home Concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)，我只是幫大家翻譯跟分析而已。這裡要提醒大家網路上有很多資料 (這篇文章也是XD)，但我希望大家行有餘力的話，還是要看第一手官方資料，避免因為他人的錯誤解讀，而讓自己的權利受損 (by 自己搞定澳洲移民跟澳洲買房的 EC XD)
 
 ### 昆士蘭首次置業印花稅減免 (QLD First Home Concession)
 
-  * 完整政府規定請參考：[**Queensland Revenue Office — First Home Consession**](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)
+  * 完整政府規定請參考：[**Queensland Revenue Office — First Home Concession**](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home/)
 
 
 
 ### 金額
 
-  * 符合資格的申請人如果購買澳幣 55 萬以下的自住房，可以獲得高達 $15,925 澳幣的印花稅減免 。如果購入的房產價值高於澳幣 55 萬，那申請人還是可能透過 [home concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/home-concession/) 獲得相當程度的印花稅減免，只是幅度不會像昆士蘭首次置業印花稅減免 (QLD First Home Concession) 一樣高。
+  * 符合資格的申請人如果購買澳幣 55 萬以下的自住房，可以獲得高達 $15,925 澳幣的印花稅減免 。⚠️（門檻已於 2024/6/9 提高至 70 萬；購買新建房或樓花更已於 2025/5/1 起全額免徵印花稅）如果購入的房產價值高於澳幣 55 萬，那申請人還是可能透過 [home concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/home-concession/) 獲得相當程度的印花稅減免，只是幅度不會像昆士蘭首次置業印花稅減免 (QLD First Home Concession) 一樣高。
 
 
 
@@ -63,11 +78,13 @@ episodeseries: ["QLD 首購房"]
 
 以下使用昆州政府提供的表格來簡單解釋一個印花稅的計算有多複雜XD
 
+⚠️ 以下三個試算例子與表格為 2023 年制度，門檻與稅額均已變動，請勿據此計算。
+
   * 例子 1 — 房價為 45 萬澳幣，結果為不需要付任何印花稅：因為房價 50 萬澳幣以下的房子不需要支付印花稅。
   * 例子 2 — 房價為 53 萬澳幣，結果為需要付澳幣 6,300 印花稅：首先因為 home concession，53 萬的自住房需要支付澳幣 9,800 印花稅。接下來因為申請人符合昆士蘭首次置業印花稅減免，所以印花稅可以再進一步減少澳幣 3,500，最後需要支付澳幣 6,300 印花稅。
   * 例子 3 — 房價為 60 萬澳幣，結果為需要付澳幣 12,850 印花稅：首先因為 home concession， 60 萬的自住房需要支付澳幣 12,850 印花稅。再來因為 60 萬超過昆士蘭首次置業印花稅減免的房產資格，所以這裡申請人沒辦法再進一步獲得其他印花稅減免。
 
-![昆州政府印花稅試算表格，列出三種房價的計算範例](images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png "昆州印花稅試算")
+![昆州政府印花稅試算表格，列出三種房價的計算範例](images/medium-1*U_aWTB3yxU3FMn3MDKqeqQ.png "昆州印花稅試算（2023 年，已作廢）")
 
 印花稅的計算方式相較於其他政府補助來說更加複雜，除了跟房價有關係，也跟申請人的資格有關係(例如一對夫妻一起申請，他們各自符合的減免可能不同)。如果你不確定自己可以獲得多少「昆士蘭首次置業印花稅減免」 ，可以使用昆州政府提供的小工具：[transfer duty calculator](https://amun.osr.qld.gov.au/sap/osrqld/wd_tfr_calc_com?WDDISABLEUSERPERSONALIZATION=X)
 
@@ -91,7 +108,7 @@ episodeseries: ["QLD 首購房"]
 
   * 年滿十八歲的澳洲公民或澳洲 PR (規定來源：首次置業者擔保 &昆士蘭首次置業補助金)
   * 最少擁有房價 5% 的自備款 (規定來源：首次置業者擔保)
-  * 單身的年收入不超過 $125,000 澳幣，聯合申請人雙方的年收入總和不超過 $200,000 澳幣 (規定來源：首次置業者擔保)
+  * 單身的年收入不超過 $125,000 澳幣，聯合申請人雙方的年收入總和不超過 $200,000 澳幣 (規定來源：首次置業者擔保) ⚠️（收入上限已於 2025/10/1 取消）
   * 申請人以及申請人的配偶之前沒有在澳洲其他州/領地 或是海外 擁有過房產 (規定來源：昆士蘭首次置業補助金)
   * 申請人以及申請人的配偶之前沒有在「澳洲其他州/領地領取過該州/領地的首次置業補助金」 (規定來源：昆士蘭首次置業補助金)
   * 申請人沒有申請過 [first home vacant land concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/first-home-vacant-land/) (規定來源：昆士蘭首次置業印花稅減免)
@@ -101,7 +118,7 @@ episodeseries: ["QLD 首購房"]
 **你可以購買的房產的條件為：**
 
   * 購入的房子只能作為自住房 (規定來源：首次置業者擔保、昆士蘭首次置業補助金、昆士蘭首次置業印花稅減免)
-  * 如果要獲得最大化的印花稅減免的話，購入的昆州房產房價須為 55 萬以下(規定來源：昆士蘭首次置業印花稅減免)。如果房價超出這個範圍，那申請人還是可能透過 [home concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/home-concession/) 獲得相當程度的印花稅減免。
+  * 如果要獲得最大化的印花稅減免的話，購入的昆州房產房價須為 55 萬以下(規定來源：昆士蘭首次置業印花稅減免) ⚠️（門檻已提高至 70 萬，新建房更已全額免徵）。如果房價超出這個範圍，那申請人還是可能透過 [home concession](https://qro.qld.gov.au/duties/transfer-duty/concessions/homes/home-concession/) 獲得相當程度的印花稅減免。
   * 該房產必須是新房 ，新房的定義為從未以被銷售過 (意即申請人必須為第一手屋主) 且從來沒被人居住過 (意即在申請人入住之前沒有其他人入住過) 的房產。 (規定來源：昆士蘭首次置業補助金)
 
 

@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.22 — Day 8 下船日 (Sydney)"
+title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.22 — Day 8 Sea Day 3"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-8"
 cover:
@@ -35,7 +35,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ### 藍色圓球休息區
 
-接著去吃了早餐，然後借了兩條海灘巾，找了一個藍色圓球準備在那邊悠閒得讀書休息，可是風好大又好冷，一點都沒有享受的感覺
+接著去吃了早餐，然後借了兩條海灘巾，找了一個藍色圓球準備在那邊悠閒地讀書休息，可是風好大又好冷，一點都沒有享受的感覺
 
 ![郵輪甲板藍色圓球休息艙](images/medium-1*exhtrGEZ2WIMBURU1Olzlg.jpg)
 
@@ -63,7 +63,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ### Piano Bar
 
-今晚第一次體驗了 piano bar，其實氣氛還是不錯的，跟泰國情侶聊的很開心！鋼琴酒吧的觀眾可以自由點歌，但觀眾要求彈的歌都太老了，我幾乎都沒聽過！而且駐唱歌手感覺特別喜歡唱一些逗趣的歌，我個人沒有太喜歡這種風格，不過觀眾非常嗨就是了。
+今晚第一次體驗了 piano bar，其實氣氛還是不錯的，跟泰國情侶聊得很開心！鋼琴酒吧的觀眾可以自由點歌，但觀眾要求彈的歌都太老了，我幾乎都沒聽過！而且駐唱歌手感覺特別喜歡唱一些逗趣的歌，我個人沒有太喜歡這種風格，不過觀眾非常嗨就是了。
 
 ### Alchemy Bar
 
@@ -75,7 +75,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ### 郵輪夜店 Red Carpet
 
-最後去了遊輪上的夜店 red carpet，嗯音樂真的不怎麼樣哈哈哈哈。倒是播了幾首夜店經典歌
+最後去了郵輪上的夜店 red carpet，嗯，音樂真的不怎麼樣哈哈哈哈。倒是播了幾首夜店經典歌
 
 ![郵輪Red Carpet夜店酒吧](images/medium-1*UebhifGmE_EM5D5YmAxK7Q.jpg)
 

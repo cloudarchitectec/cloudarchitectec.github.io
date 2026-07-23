@@ -54,7 +54,7 @@ Introducing Commercial Software Engineering
 
 
 
-其實第一關我覺得我表現得不太好，主要是第二題的 technical difficulty 我回答完之後面試官直接說「我覺得你剛剛描述的困難比較像是 business 或是 proecess 上的困難，而不是真的 technical complexity」。
+其實第一關我覺得我表現得不太好，主要是第二題的 technical difficulty 我回答完之後面試官直接說「我覺得你剛剛描述的困難比較像是 business 或是 process 上的困難，而不是真的 technical complexity」。
 
 這點我其實滿認同的，因為就我過去三年的職涯來說，我的確是沒有解過比較困難的/比較複雜的 engineering problems。在 AWS 時，因為我只是個 associate cloud architect，有前輩罩，所以這些比較困難的技術問題都是前輩負責 design，我只要執行就好。之前在微軟當 CSA 時，我的職位基本上只要用嘴寫 code，根本不用動手，所以也沒有真的遇到過 complex engineering problems。
 
@@ -116,7 +116,7 @@ Introducing Commercial Software Engineering
 
 因為每次在自我介紹，提到我上一份工作是在微軟做 CSA，他們都覺得超級驚訝！還會追問我什麼時候離職的？聽到「八月」之後臉上都有種微妙的表情。
 
-再來是我覺得 ISE 這個部門基本上就承襲了微軟一樣的文化，大家對於自己的職責範圍，都有不一樣的解讀，而且對於這個部門的 KPI 似乎沒有一個衡量的標準，例如其中一個面試官告訴我 ISE 主要的 KPI 有兩個：一個是 generating intellectual property for interal use (這個我覺得合理，而且好衡量)。但另一個是 promoting Azure consumption，但又說他們不是用 azure consumption revenue 來衡量 (他最後直接跟我說：「其實我們沒有真的在 measure 啦」)。再再都讓我回想起 CSA 部門那種一片混亂，連 leadership 都搞不清楚自己真的想要達到什麼的組織文化。
+再來是我覺得 ISE 這個部門基本上就承襲了微軟一樣的文化，大家對於自己的職責範圍，都有不一樣的解讀，而且對於這個部門的 KPI 似乎沒有一個衡量的標準，例如其中一個面試官告訴我 ISE 主要的 KPI 有兩個：一個是 generating intellectual property for internal use (這個我覺得合理，而且好衡量)。但另一個是 promoting Azure consumption，但又說他們不是用 azure consumption revenue 來衡量 (他最後直接跟我說：「其實我們沒有真的在 measure 啦」)。再再都讓我回想起 CSA 部門那種一片混亂，連 leadership 都搞不清楚自己真的想要達到什麼的組織文化。
 
 總之我覺得這三輪還算是一個有趣的體驗，但我還是維持我對於微軟的觀感，這果然是一家不管怎樣我都不想要在那邊工作的公司XDDD
 

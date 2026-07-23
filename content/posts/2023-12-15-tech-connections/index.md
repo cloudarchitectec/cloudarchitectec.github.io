@@ -15,7 +15,7 @@ tags: ["澳洲求職必勝法則"]
 
 ---
 
-Tech meet-ups 是澳洲科技業非常盛行的活動，由主辦團體根據不同主題請講者來與大家分享任何技術、文化以及新知。你可以通過 [Meetups](https://www.meetup.com/lp/how-to-group-start?utm_medium=SEM&utm_source=google&utm_campaign=mmrk_adwords_orgacq_au_branded_ny23&utm_term=group&utm_content=lp_grp_v2&gclid=Cj0KCQiA0oagBhDHARIsAI-Bbgdp11Txnrid62gvvvBf09LPS1i95SDv497XJ2pROE7oMqmxORXPLmQaAhPdEALw_wcB) 網站來尋找自己有興趣的 meetups 聚會，他們同時也有手機 app 可以下載 — [Andriod](https://play.google.com/store/apps/details?id=com.meetup&hl=en-AU&pli=1) 及 [Iphone](https://apps.apple.com/us/app/meetup-social-events-groups/id375990038) 。如果想的話，你也可以號招志同道合的好友成立一個 meetup 團體喔～
+Tech meet-ups 是澳洲科技業非常盛行的活動，由主辦團體根據不同主題請講者來與大家分享任何技術、文化以及新知。你可以通過 [Meetups](https://www.meetup.com/lp/how-to-group-start?utm_medium=SEM&utm_source=google&utm_campaign=mmrk_adwords_orgacq_au_branded_ny23&utm_term=group&utm_content=lp_grp_v2&gclid=Cj0KCQiA0oagBhDHARIsAI-Bbgdp11Txnrid62gvvvBf09LPS1i95SDv497XJ2pROE7oMqmxORXPLmQaAhPdEALw_wcB) 網站來尋找自己有興趣的 meetups 聚會，他們同時也有手機 app 可以下載 — [Android](https://play.google.com/store/apps/details?id=com.meetup&hl=en-AU&pli=1) 及 [iPhone](https://apps.apple.com/us/app/meetup-social-events-groups/id375990038)。如果想的話，你也可以號召志同道合的好友成立一個 meetup 團體喔～
 
 ![](images/medium-1*cUxo55MxD-zjIxzSzIHw8Q.png)
 
@@ -49,7 +49,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 ![](images/medium-1*vNUhERllI0LNMPp4aa6hFQ.png)
 
-介紹：Ruby on Rails 開發者熱衷於開發一些最優秀、行業領先的網絡應用程程式。我們同樣熱愛我們的社群，並歡迎新成員加入我們這個擴大有趣的群體。我們在雪梨每月都會舉辦聚會，進行演講並討論有關 Ruby on Rails、軟體開發的相關主題。
+介紹：Ruby on Rails 開發者熱衷於開發一些最優秀、業界領先的網路應用程式。我們同樣熱愛我們的社群，並歡迎新成員加入我們這個不斷擴大的有趣群體。我們在雪梨每月都會舉辦聚會，進行演講並討論有關 Ruby on Rails、軟體開發的相關主題。
 
 心得：這應該算是我去過最多次的 meet ups，剛從 bootcamp 畢業的那段時間我每個月都會去。這個 meet up 特別的地方是在活動即將結束前，他們會開放一個時間讓正在找工作的人上台自我介紹、宣傳自己，在場的其他工程師或是獵頭如果覺得適合的話，可能就會幫忙介紹工作機會。
 
@@ -83,13 +83,13 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 *GDG (Google Developer Group)*
 
-介紹：GDG Brisbane 歡迎所有對學習 Android 以及 Google 相關開發技術有興趣的人，活動主題包括 Angular、Kotlin、Java、Flutter、Firebase、機器學習、虛擬現實、Google 助手、可穿戴裝置和物聯網。
+介紹：GDG Brisbane 歡迎所有對學習 Android 以及 Google 相關開發技術有興趣的人，活動主題包括 Angular、Kotlin、Java、Flutter、Firebase、機器學習、虛擬實境、Google 助理、穿戴式裝置和物聯網。
 
 **3. Brisbane AWS User Group**：<https://www.meetup.com/en-AU/aws-brisbane/>
 
 ![](images/medium-1*Ts4-MJD68Kw2BzNl2z11lQ.png)
 
-介紹：歡迎加入 Brisbane AWS 用戶群組！ 我們每個月舉辦的 AWS Meetup 活動將為您敞開學習雲端技術的大門。Brisbane AWS 用戶群組是一個由 IT 專業人員、商業人士、創新者和企業家組成，我們對 Amazon Web Services 抱有極大的熱情。AWS 不斷挑戰我們以不同的方式來思考我們的工作，讓我們更大膽、更靈活、更有創造力。
+介紹：歡迎加入 Brisbane AWS 用戶群組！ 我們每個月舉辦的 AWS Meetup 活動將為您敞開學習雲端技術的大門。Brisbane AWS 用戶群組是一個由 IT 專業人員、商業人士、創新者和企業家組成的社群，我們對 Amazon Web Services 抱有極大的熱情。AWS 不斷挑戰我們以不同的方式來思考我們的工作，讓我們更大膽、更靈活、更有創造力。
 
 心得：前前東家 AWS (Amazon Web Services) 布里斯本辦的 meet up 團體。活動通常是在布里斯本 AWS 辦公室進行，主題大多都是跟 AWS 雲端技術相關。辦公室位於市中心 30 樓，風景很好。因為公司大、活動經費多，我上次去覺得食物好吃 (是廚師外燴，而不像一般活動都只是訂披薩而已)，布里斯本 AWS 辦公室還有特殊的 beer tap （中文我不會說，但請看以下示意圖）。這個是布里斯本辦公室特有的，有機會去的人一定要體驗看看XD 就當作免費去參觀 AWS 辦公室也值得XD
 
@@ -113,7 +113,7 @@ Meetup 通常會提供食物 (大多是披薩) 以及酒水 (啤酒汽水等等)
 
 ![](images/medium-1*SF8Npxo4g2o6puU29vjyNQ.png)
 
-介紹：歡迎加入 AWS 坎培拉用戶組！我們致力於建立一個 AWS 用戶的社區，讓大家可以聚在一起，分享彼此的經驗，並從組內其他成員中學習。我們討論人們如何使用 AWS，樂於聽取人們對平台喜歡和不喜歡的看法，並歡迎任何對 AWS 和雲計算感興趣的人加入我們！
+介紹：歡迎加入 AWS 坎培拉用戶組！我們致力於建立一個 AWS 用戶的社區，讓大家可以聚在一起，分享彼此的經驗，並從組內其他成員中學習。我們討論人們如何使用 AWS，樂於聽取人們對平台喜歡和不喜歡的看法，並歡迎任何對 AWS 和雲端運算感興趣的人加入我們！
 
 心得：坎培拉的 AWS 團體，主辦人是我之前在 AWS 的 manager，請大家多多支持XD 活動多半辦在坎培拉 AWS 辦公室，但我記得他們同時也會在 twitch/YouTube 直播，所以也可以遠距參與。
 

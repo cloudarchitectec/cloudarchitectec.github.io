@@ -28,7 +28,7 @@ episodeseries: ["DevOps 面試紀錄"]
 
 回答過程中，如果是我缺乏的知識點跟不足的地方，我也會直接說：「這個東西我只懂概念上怎麼設計解決方案，但我沒有親自動手做過，這也是我為什麼想要加入這個職位的原因，因為這就是我想要學的技能、也是我未來職涯想要前往的方向！」
 
-在我提問的環節，我也是直接把訴求表明出來，例如我問了我最近面試最熱愛的問題「What kind of onboarding support will you provided to new starters? (你們將為新進員工提供什麼樣的新進員工訓練？)」可惜這場面試是在 [Huli](https://medium.com/u/f1fb3e40dc37) 大大的指點之前，不然我肯定會更具體的問法來表達!!! 
+在我提問的環節，我也是直接把訴求表明出來，例如我問了我最近面試最熱愛的問題「What kind of onboarding support will you provided to new starters? (你們將為新進員工提供什麼樣的新進員工訓練？)」可惜這場面試是在 [Huli](https://medium.com/u/f1fb3e40dc37) 大大的指點之前，不然我肯定會用更具體的問法來表達!!! 
 
 關於 Huli 大大的建議，請看這裡:
 
@@ -79,7 +79,7 @@ episodeseries: ["DevOps 面試紀錄"]
     * Lastly, it’s also very important that you listen to their concerns and put yourself in their shoes.
 
   * **Q: What’s your experience with DevOps pipeline?**
-    * A: Use Jenkins and Optus Deploy before, but wasn’t the one who designed and implemented them. Why I want to achieve in this role. I don’t have implementation experience and that’s what I want => HM: That’s good. I don’t expect people to know everything. As long as you know what you want, and what you want to learn
+    * A: Use Jenkins and Octopus Deploy before, but wasn’t the one who designed and implemented them. Why I want to achieve in this role. I don’t have implementation experience and that’s what I want => HM: That’s good. I don’t expect people to know everything. As long as you know what you want, and what you want to learn
   
   * **Q: Have you done much with code quality and security checks? Imaging you are building a pipeline. What kind of things could you put in place to make sure the code you are shipping is of good quality and secure?**
     * A: 1). Installing linting formatting tools will give you some warnings & info regarding code compliance. 2). Enabling logging for debugging and troubleshooting. 3). Also use static code analysis tool. 4.) There are also some security tools and packages to help you run vulnerability check.

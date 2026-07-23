@@ -42,6 +42,12 @@ _SKIP_LINE = re.compile(
 )
 _MD_NOISE = re.compile(r"[*_`#>\[\]]")  # inline markdown to strip from summary
 
+# Paired shortcodes ({{< outdated >}} … {{< /outdated >}}) wrap editorial notes,
+# not the post's own opening — skip their inner lines too, or the summary becomes
+# the notice instead of the article.
+_SC_OPEN = re.compile(r"^\s*\{\{[<%]\s*(\w+)")
+_SC_CLOSE = re.compile(r"^\s*\{\{[<%]\s*/\s*(\w+)")
+
 
 def split_frontmatter(text: str) -> tuple[dict, str]:
     """Return (frontmatter_dict, body). Tolerates a blank line before '---'."""
@@ -59,8 +65,21 @@ def split_frontmatter(text: str) -> tuple[dict, str]:
 
 
 def extract_summary(body: str) -> str:
+    # Only names that are actually closed somewhere open a block; a self-closing
+    # shortcode ({{< figure >}}) must not swallow the rest of the post.
+    paired = {m.group(1) for m in map(_SC_CLOSE.match, body.splitlines()) if m}
+    open_shortcode: str | None = None
     for raw in body.splitlines():
         line = raw.strip()
+        if open_shortcode:
+            closing = _SC_CLOSE.match(line)
+            if closing and closing.group(1) == open_shortcode:
+                open_shortcode = None
+            continue
+        opening = _SC_OPEN.match(line)
+        if opening and not _SC_CLOSE.match(line) and opening.group(1) in paired:
+            open_shortcode = opening.group(1)
+            continue
         if not line or _SKIP_LINE.match(line):
             continue
         clean = _MD_NOISE.sub("", line).strip()

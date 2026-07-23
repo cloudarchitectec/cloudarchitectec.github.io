@@ -25,7 +25,7 @@ episodeseries: ["紐西蘭旅記"]
 
 ![Craters of the Moon 冷煙地表](images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg)
 
-![地熋公園火山口奇觀](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg)
+![地熱公園火山口奇觀](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg)
 
 第一站是火山口地熱公園，我把它稱為紐西蘭的月世界。看到一片綠油油卻冒煙的地表真的好妙😆
 
@@ -41,7 +41,7 @@ episodeseries: ["紐西蘭旅記"]
 
 ![Rotorua 夜市亞洲街頭小吃](images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg)
 
-![紛西蘇蘭夜市美食攙位](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg)
+![紐西蘭夜市美食攤位](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg)
 
 ![夜市多元文化美食](images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg)
 
@@ -55,7 +55,7 @@ episodeseries: ["紐西蘭旅記"]
 
 ![Rotorua 大湖壯麗景色](images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg)
 
-*Rotorua 也有一個會大的湖～*
+*Rotorua 也有一個很大的湖～*
 
 ### Ciabatta Bakery
 
@@ -85,7 +85,7 @@ episodeseries: ["紐西蘭旅記"]
 
 *![](images/medium-1*VaESvSGforp84FHtAq6GRQ.jpg)Redwood*
 
-結束 Skyline 的行程，我們前往 Redwood 紅木森林健行。真的是滿漂亮的，但路線設計有點莫名奇妙，感覺就是為了達到想要達到的長度，所以左邊繞一圈，右邊讓一圈🤣
+結束 Skyline 的行程，我們前往 Redwood 紅木森林健行。真的是滿漂亮的，但路線設計有點莫名奇妙，感覺就是為了達到想要達到的長度，所以左邊繞一圈，右邊繞一圈🤣
 
 行程結束後，我們特地去逛了紀念品店跟超市，但是真的找不到什麼想買的東西，因為紐西蘭跟澳洲真的太像了🤣
 

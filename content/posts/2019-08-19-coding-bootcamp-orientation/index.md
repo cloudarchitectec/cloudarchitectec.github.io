@@ -33,13 +33,13 @@ episodeseries: ["轉職工程師日記"]
   * 課程特色：課程結束後，學校會幫你媒合一個月的業界實習，很多學生基本上都是靠實習找到自己轉職後的第一份工作。
   
   在這六個月的課程內，我們會完成 4 個 projects，分別是：
-  1. 個人 terminal 小遊戲 ，我當年做的是算生肖
+  1. 個人 terminal 小遊戲，我當年做的是算生肖
   2. 個人 Portfolio Website : 用純 vanilla JavaScript, CSS, HTML 刻的，當年的我們甚至不知道有 libraries 跟 frontend frameworks 可以用
   3. 個人 e-commerce website: 用 Ruby on Rails 寫，我當時做的是二手美妝品的網站
   4. 團體 full-stack project: 這個要去外面找真實的顧客，針對他們的 business problem 跟需求，做出一個 business solution。我們當年的客戶是做房地產網站的，我們幫他們做了一個可以在 floor plan 上標註標籤跟附註的 solution。
 
 
-好的，以上落落長的前沿終於結束了，那就讓我們開始進入正文吧XD
+好的，以上落落長的前言終於結束了，那就讓我們開始進入正文吧XD
 
 * * *
 
@@ -47,7 +47,7 @@ episodeseries: ["轉職工程師日記"]
 
 今天是 coding bootcamp 開始的第一天，跟我想像中完全不一樣XDD
 
-一到學校就先被引導到廚房公共區，開始與同學交流 (small talks)，我人生真心最討厭 small talks 😭。好險我一眼就看到上週一起去參加 NSW governmetn hack 的緬甸女孩「蘇」，I 人我立刻覺得安心了不少XD
+一到學校就先被引導到廚房公共區，開始與同學交流 (small talks)，我人生真心最討厭 small talks 😭。好險我一眼就看到上週一起去參加 NSW government hack 的緬甸女孩「蘇」，I 人我立刻覺得安心了不少XD
 
 大家聊了一下，時間一到就進教室，蘇示意我她有特別想坐的位子，我才發現她居然帶了一個 20 幾吋的外接螢幕來學校！！！這真的不會太威嗎XDD (蘇是個頭嬌小，講話很秀氣的女生。)
 

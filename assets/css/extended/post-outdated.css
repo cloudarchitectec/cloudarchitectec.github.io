@@ -1,0 +1,70 @@
+/* Stale-content notice ({{< outdated >}}) — sits at the top of posts whose
+   facts have aged out. Quiet by design: it should read as an editorial note,
+   not an error banner. Amber carries the signal; text stays on theme tokens
+   so contrast holds in both themes. */
+
+.post-outdated {
+  --outdated-rule: #b4791f;
+  --outdated-wash: rgba(180, 121, 31, 0.06);
+
+  margin: 0 0 2rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--outdated-rule);
+  border-radius: var(--radius);
+  background: var(--outdated-wash);
+}
+
+.dark .post-outdated {
+  --outdated-rule: #d9a441;
+  --outdated-wash: rgba(217, 164, 65, 0.08);
+}
+
+.post-outdated__title {
+  margin: 0 0 0.6rem;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.5;
+  color: var(--primary);
+}
+
+.post-outdated__icon {
+  margin-right: 0.4rem;
+}
+
+.post-outdated__meta {
+  margin-left: 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--tertiary);
+  white-space: nowrap;
+}
+
+.post-outdated__body {
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--secondary);
+}
+
+.post-outdated__body > :first-child {
+  margin-top: 0;
+}
+
+.post-outdated__body > :last-child {
+  margin-bottom: 0;
+}
+
+.post-outdated__body ul {
+  margin: 0.4rem 0;
+  padding-left: 1.2rem;
+}
+
+.post-outdated__body li {
+  margin: 0.25rem 0;
+}
+
+.post-outdated__body a {
+  color: var(--accent);
+  text-underline-offset: 3px;
+}

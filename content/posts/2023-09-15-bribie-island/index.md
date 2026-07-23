@@ -65,7 +65,7 @@ youtube.com](https://youtube.com/shorts/dZvqFVXJ_N4)[](https://youtube.com/short
 
 覺得這一天真心太完美，咖啡好喝、午餐好吃，珍奶略嫌不足，但也還可以，重點是風景真是太美了！
 
-而且這裡的人潮不多，有一種步調緩慢的悠閒渡假感，推薦給大家♥️
+而且這裡的人潮不多，有一種步調緩慢的悠閒度假感，推薦給大家♥️
 
 ![Bribie Island 海邊一日遊](images/medium-1*cc9yWuQ7ING2-M_-gc9vrQ.jpg)
 

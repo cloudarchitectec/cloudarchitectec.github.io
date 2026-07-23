@@ -1,7 +1,8 @@
 ---
 title: "不是理工人也能寫程式：我從英文系轉職澳洲 Amazon 雲端架構師的 4 個關鍵思考"
 date: 2023-01-06
-slug: "2023-01-06-keys-to-transistion"
+slug: "2023-01-06-keys-to-transition"
+aliases: ["/posts/2023-01-06-keys-to-transistion/"]
 cover:
   image: "images/medium-0*6cafic7Bz6rcovjW.jpg"
   alt: "Pom wearing glasses and staring at laptop"

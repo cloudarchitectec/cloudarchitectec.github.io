@@ -14,7 +14,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 ---
 
 
-這週六我要飛往雪梨，在雪梨度過一個週末(曾經在雪梨住過七年的我，這次安排了跟許多朋友見面的行程，總共排了週六午餐、週六晚餐、週日午餐、週日晚餐共四場，真的好忙喔XD)，接著下週一開始為期九天的遊輪之行!
+這週六我要飛往雪梨，在雪梨度過一個週末(曾經在雪梨住過七年的我，這次安排了跟許多朋友見面的行程，總共排了週六午餐、週六晚餐、週日午餐、週日晚餐共四場，真的好忙喔XD)，接著下週一開始為期九天的郵輪之行!
 
 這是我人生第一次在澳洲坐郵輪，也是人生第一次坐郵輪，這篇文章要來跟大家簡單分享一下我目前查到的相關資訊。等我回來之後應該也會把郵輪的心得寫成部落格(從此轉職旅遊作家?XD)，請大家多多支持!
 
@@ -33,7 +33,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 **2\. 保險(澳洲出發的南太平洋郵輪)**
 
-  * 保險: 其他郵輪航線的保險好像可以自行決定是否購買，但是 Splender 這個航線會經過 Vanuatu (台灣: 萬那杜/中國: 瓦努阿圖) 跟 New Caledonia (新喀里多尼亞)，就 2023.5 月來說還是強制購買海外 Covid 旅遊險。
+  * 保險: 其他郵輪航線的保險好像可以自行決定是否購買，但是 Splendor 這個航線會經過 Vanuatu (台灣: 萬那杜/中國: 瓦努阿圖) 跟 New Caledonia (新喀里多尼亞)，就 2023.5 月來說還是強制購買海外 Covid 旅遊險。
   * 注意這裡的海外旅遊保險有其相關規定: 澳洲醫保卡(medicare)或是信用卡公司附的保險，都是不符合規定的! 一定要買特定的郵輪旅遊險，包含以下關鍵字 ‘multi-night cruise’ 跟 ‘Covid’ 才可以，大概一個人的保險費會在 $150–200 澳幣之間(視年紀跟健康狀況保費會略有不同)。
   * 我個人買的是網友推薦的[ Qantas 的 South Pacific 保險](https://insurance.qantas.com/travel-insurance?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF11YPIV4aCyM_0p5EbnWG6QNxEE13DjY4vIBzXedN8qPvC1Morl8T4aAl6vEALw_wcB&gclsrc=aw.ds)，而且買保險的時候記得要把 Vanuatu 跟 New Caledonia 這兩個國家加進去(如下圖黃色標誌)。我 2023.4 月買的保費是一人 $103，算是比較便宜，但是保險範圍比較廣的郵輪保險。
 
@@ -51,7 +51,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 **4\. 主題之夜**
 
-  * 每家遊輪公司根據航線長短會有不同的主題之夜，我這次進行的為期九天的 Carnival Splendor 的主題夜分為: 白色之夜(White Night)、80 年代搖滾螢光之夜(80’s Rock’n’Glow )、甲板趴(Mega Deck Party，其實看描述就是之前的島嶼趴)。派段細節請參考[這裡](https://help.carnival.com/app/answers/detail/a_id/3895/~/deck-parties#:~:text=The%20Mega%20Deck%20Party%20is,low%20can%20you%20go%3F%22.)。
+  * 每家郵輪公司根據航線長短會有不同的主題之夜，我這次進行的為期九天的 Carnival Splendor 的主題夜分為: 白色之夜(White Night)、80 年代搖滾螢光之夜(80’s Rock’n’Glow )、甲板趴(Mega Deck Party，其實看描述就是之前的島嶼趴)。派對細節請參考[這裡](https://help.carnival.com/app/answers/detail/a_id/3895/~/deck-parties#:~:text=The%20Mega%20Deck%20Party%20is,low%20can%20you%20go%3F%22.)。
   * 根據網友的分享，會針對主題夜打扮的遊客大概是一半一半，所以有興趣的人可以針對郵輪主題稍微準備一下，沒有興趣參與的人就穿自己舒適的衣服即可
 
 

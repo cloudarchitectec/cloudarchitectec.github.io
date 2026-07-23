@@ -24,7 +24,7 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 ![韓式烤肉與配菜](images/medium-1*MS5DfHl9duhnSSWRTK_lxQ.jpg)
 
-![韓式火锅湯品](images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpg)
+![韓式火鍋湯品](images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpg)
 
 *墨爾本的韓餐～ 我們完全點太多XD*
 
@@ -72,7 +72,7 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 ![澳網 Rod Laver Arena 入場券](images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg)
 
-![澳網現場氛圈](images/medium-1*aeUKQKl8_KQYsrfFADEOzg.jpg)
+![澳網現場氛圍](images/medium-1*aeUKQKl8_KQYsrfFADEOzg.jpg)
 
 ![澳網主球場外觀](images/medium-1*3Lkq6QkiZzZ7ktP9u4BPrA.jpg)
 
@@ -96,7 +96,7 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 ![澳網比賽精彩瞬間](images/medium-1*52lTIc0Nks_O2eGuYIe_MQ.jpg)
 
-![澳網球場觀民席](images/medium-1*f23v8giYXBTxuc7XSc5iig.jpg)
+![澳網球場觀眾席](images/medium-1*f23v8giYXBTxuc7XSc5iig.jpg)
 
 我還跑去看了謝淑薇練球，但淑薇臉臭到爆炸哈哈哈哈。我是第一個到的，但我完全不敢跟她講話。後來還來了另外兩個台灣球迷，但我們都不敢跟她搭話，然後我就默默走了～
 
