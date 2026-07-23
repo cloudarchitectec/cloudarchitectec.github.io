@@ -4,7 +4,7 @@
 >
 > Purpose: locate a post by title / section / tags / summary from this one file instead of scanning `content/posts/`. Open the folder in the last column to read or edit the post.
 
-**164 published posts** (newest first).
+**163 published posts** (newest first).
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
@@ -67,7 +67,6 @@
 | 2024-04-26 | 一個女生的歐洲獨旅: 2024.04.26 荷蘭 萊登 (Leiden) 荷蘭最古老的大學城 | 旅行紀錄 · 系列:一個女生的歐洲獨旅 | 獨旅, 旅遊, 歐洲, 荷蘭 | 萊登風車 | content/posts/2024-04-26-leiden |
 | 2024-04-25 | 一個女生的歐洲獨旅: 2024.04.25 荷蘭 阿姆斯特丹 (Amsterdam) 回憶中的運河屋 | 旅行紀錄 · 系列:一個女生的歐洲獨旅 | 獨旅, 旅遊, 歐洲, 荷蘭 | 結束了香港轉機一日行，我整個累到爆炸！ | content/posts/2024-04-25-amsterdam |
 | 2024-04-24 | 一個女生的歐洲獨旅: 2024.04.24 香港轉機之昂坪纜車/大佛/市集一日遊 | 旅行紀錄 · 系列:一個女生的歐洲獨旅 | 獨旅, 旅遊, 歐洲, 香港 | 這次 17 天的歐洲行我搭的是國泰，去程從布里斯本飛荷蘭阿姆斯特丹，中間在香港轉機 15.5 小時(第一段飛機 00:5… | content/posts/2024-04-24-hongkong-stopover |
-| 2024-04-12 | 文組轉職澳洲科技大廠工程師—我的科技業職涯的反思 | 澳洲職場 | 職涯, 科技業, 轉職工程師, AWS, 微軟 | 作為一名從文組背景轉職到科技業的工程師，我在過去幾年中有幸在三個不同規模和性質的公司工作：科技大廠 Amazon、微軟… | content/posts/2024-04-12-reflection-on-my-tech-career |
 | 2024-03-08 | 澳洲簽證種類分析：台灣人想要登入澳洲有哪些選項？ | 澳洲生活 | 澳洲移民, 澳洲簽證 | 由於最近 EC 收到不少關於移民澳洲跟澳洲簽證相關的諮詢，於是決定寫一篇文章來快速跟大家分享一些關於澳洲簽證的基本資訊，… | content/posts/2024-03-08-au-visa-options |
 | 2024-03-01 | 澳洲職場統計數據：2023 年澳洲薪資中位數、產業與地區薪資分享 | 澳洲職場 | 薪資, 澳洲職場統計數據 | 近期發現我跟友人對於澳洲工程師的薪資看法居然略有出入，於是我想與其使用個人經驗來判斷一個職位的薪資是否合理，不如我們就來… | content/posts/2024-03-01-aus-median-salary |
 | 2024-02-19 | 澳洲職場統計數據：2024 澳洲 DevOps 工程師薪資大揭秘 | 澳洲職場 | 薪資, 澳洲職場統計數據 | 閒來無事研究了一下澳洲 DevOps Engineers 的薪水(中文可翻為「開發維運工程師」，但其實 DevOps 這… | content/posts/2024-02-19-devops-2023-2024-salary |
@@ -78,7 +77,7 @@
 | 2024-01-25 | 轉職 DevOps 工程師的第六個月：從焦慮到找到穩定節奏 | 澳洲職場 | 薪資 | 大學學歷：政大英文系 | content/posts/2024-01-25-DevOps-for-6-months |
 | 2023-12-15 | 澳洲求職必勝法則：利用 Tech Meet-ups 增加工作人脈、經營職場品牌，提高錄取機率! | 澳洲職場 | 澳洲求職必勝法則 | Tech meet-ups 是澳洲科技業非常盛行的活動，由主辦團體根據不同主題請講者來與大家分享任何技術、文化以及新知。… | content/posts/2023-12-15-tech-connections |
 | 2023-11-25 | 經營 Medium 一年，我到底賺了多少錢？ | 澳洲生活 | 澳洲生活 | 2022.11.19 是我發表第一篇 Medium 文章的日子！當時我幫自己設定了一個小小的目標，也就是我希望自己能每一… | content/posts/2023-11-25-medium-earning |
-| 2023-11-18 | 我在澳洲練皮拉提茲：Studio Pilates vs Pronto Pilates 課程比較 | 澳洲生活 |  | 其實我這個人一向沒什麼運動習慣XD (雖是這樣說，我是個很目的導向的人。之前想要嘗試跑步，然後我就跑去跑了兩次半馬，一次… | content/posts/2023-11-18-pilates |
+| 2023-11-18 | 我在澳洲練皮拉提斯：Studio Pilates vs Pronto Pilates 課程比較 | 澳洲生活 |  | 其實我這個人一向沒什麼運動習慣XD (雖是這樣說，我是個很目的導向的人。之前想要嘗試跑步，然後我就跑去跑了兩次半馬，一次… | content/posts/2023-11-18-pilates |
 | 2023-11-10 | 從非移民專業到澳洲PR：我如何靠研究政府法規，創造專屬自己的技術移民機會！ | 澳洲生活 | 澳洲移民, 澳洲簽證 | 今天要來分享我 2016 年是如何另闢蹊徑，透過自己閱讀澳洲政府網站的移民規定，在不可能中發現可能，最後成功幫助自己以及… | content/posts/2023-11-10-how-i-become-pr |
 | 2023-11-04 | 微軟 Azure 和 AWS 證照更新規定比較 — ChatGPT 比我更會考證照考試？順利更新 Azure Solutions Architect Expert 證照！ | 澳洲職場 | AWS | 今天要來跟大家分享我更新微軟證照 Microsoft Azure Solutions Architect Expert… | content/posts/2023-11-04-azure-vs-aws-certs-ft-chatgpt |
 | 2023-10-28 | 澳洲布里斯本：陽光海岸高空樹頂挑戰初體驗，玩的就是心跳！ | 旅行紀錄 | 澳洲旅遊, 布里斯本 | 今天要來跟大家分享澳洲一個很有趣的戶外活動 — 高空樹頂挑戰 (Tree Top Challenge)。我跟朋友去的是位… | content/posts/2023-10-28-tree-top |
