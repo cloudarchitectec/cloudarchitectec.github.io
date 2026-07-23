@@ -24,7 +24,7 @@ tags: ["澳洲生活"]
 
 [https://www.16personalities.com/personality-types](https://www.16personalities.com/personality-types?fbclid=IwAR04AYJKryHftXHGTJWF0JPwRDlMCbyhGourez5Nt8Q7ZclXAG2C9TTHbNo)
 
-覺得也太準了吧XDDD 身為一個無藥可救的懷疑論者，我基本上什麼都不太相信XD ，但做完之後只覺得⋯⋯難怪這個東西那麼紅！ 好奇它的運作原理是不是跟星座/心理測驗/算命一樣? (我覺得這類東西基本上都來自邏輯推理跟統計。舉例來說，我不覺得算命師是真的會算命。他們只是運用一些話術，然後再從你的回答中推理出你想要聽的答案而已? 哈哈)
+覺得也太準了吧XDDD 身為一個無藥可救的懷疑論者，我基本上什麼都不太相信XD，但做完之後只覺得⋯⋯難怪這個東西那麼紅！ 好奇它的運作原理是不是跟星座/心理測驗/算命一樣? (我覺得這類東西基本上都來自邏輯推理跟統計。舉例來說，我不覺得算命師是真的會算命。他們只是運用一些話術，然後再從你的回答中推理出你想要聽的答案而已? 哈哈)
 
 我的結果是 The Architect (INTJ-A: Imaginative and strategic thinkers, with a plan for everything)，跟你們分享一下裡面很準或很好笑的幾點XD
 

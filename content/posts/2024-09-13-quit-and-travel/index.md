@@ -40,7 +40,7 @@ categories: ["澳洲生活"]
 
 離開 Amazon 後我進入了微軟，雖然在另一個世界級的軟體公司工作是一件很幸運的事，但不得不說那可能是我在職場最不開心的一段時間XD 所以我只待了短短八個月，就毅然覺得我必須要再來轉職一次！
 
-這是我挑戰的是 DevOps Engineering，其實我根本沒有 DevOps 背景 (我的背景是 web development + cloud computing)，也不能真的算是一個 software engineer (之前認真寫 code 都是在 coding bootcamp 的學習時期，在 Amazon 我也只寫了 CloudFormation，在微軟八個月一行 code 都沒有寫)，沒想到還是幸運拿到了 DevOps Engineer 的工作，我之前也分享過我成為 DevOps 工程師半年的心得：
+這次我挑戰的是 DevOps Engineering，其實我根本沒有 DevOps 背景 (我的背景是 web development + cloud computing)，也不能真的算是一個 software engineer (之前認真寫 code 都是在 coding bootcamp 的學習時期，在 Amazon 我也只寫了 CloudFormation，在微軟八個月一行 code 都沒有寫)，沒想到還是幸運拿到了 DevOps Engineer 的工作，我之前也分享過我成為 DevOps 工程師半年的心得：
 
 [**轉職 DevOps 工程師的第六個月：從焦慮到找到穩定節奏**](/posts/2024-01-25-devops-for-6-months/):
 

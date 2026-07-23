@@ -61,8 +61,6 @@ like to talk to human beings. And tbh I don’t like human beings at all. I’d 
 
 然後我也開始覺得是不是我帶賽?XD 
 
-我在 bootcamp 的第一個好朋友蘇轉 part-time 了，在她走後我最好的朋友應該就是奈拉吉大哥了(我們聊了超多內心話)! 現
-
-在奈拉吉大哥也要離開了囧 
+我在 bootcamp 的第一個好朋友蘇轉 part-time 了，在她走後我最好的朋友應該就是奈拉吉大哥了(我們聊了超多內心話)! 現在奈拉吉大哥也要離開了囧 
 
 偉恩大哥應該也滿難過的，因為他跟奈拉吉大哥是超好的朋友😭😭😭
