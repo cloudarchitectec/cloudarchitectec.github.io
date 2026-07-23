@@ -37,13 +37,13 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 ![聖基爾達海灘沙灘美景](images/medium-1*FXalAHkrCLZVNdcUc8SayQ.jpg)
 
-![聖基爾達海灘遅客悠闊](images/medium-1*T1JRodpGaceALuPHQPm6aw.jpg)
+![聖基爾達海灘遊客悠閒](images/medium-1*T1JRodpGaceALuPHQPm6aw.jpg)
 
-![聖基爾達海灘汷岸線](images/medium-1*MR9BNPjuKLLNCXU0r8mCoQ.jpg)
+![聖基爾達海灘海岸線](images/medium-1*MR9BNPjuKLLNCXU0r8mCoQ.jpg)
 
 *St Kilda Beach*
 
-今天我很早就出門了，跑去 St Kilda beach 重溫了一下回憶。今天墨爾本她氣溫終於恢復正常，立刻驟降 10 幾度，在加上海風狂吹，真是冷爆我！！！
+今天我很早就出門了，跑去 St Kilda beach 重溫了一下回憶。今天墨爾本的氣溫終於恢復正常，立刻驟降 10 幾度，再加上海風狂吹，真是冷爆我！！！
 
 接著我就回市區去參觀了一下墨爾本的 Shell 辦公室，甚至還參加了一場 stand up (我人在布里斯本的經理在連線畫面中看到我人在墨爾本辦公室簡直傻眼🤣），然後跟墨爾本同事一起吃午餐，這是我們開始工作 18 個月後第一次真人見面，太有趣了😆
 
@@ -63,6 +63,6 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 公關票也是主場球場 RLA 的坐票，而且位子有夠近，大概場邊第五排，有夠誇張😍 只可惜因為要搭飛機的原因，我只來得及看到女單的尾聲以及男單的第一盤，但還是一次非常特別又有趣的體驗！而且我們拍了很多可愛的照片❤️❤️❤️
 
-接著我就一路趕回旅館拿寄放的行李，回 Southern cross station 去搭 skybus，然後捷星果不期然的大誤點（前後加起來可能有一個多小時)😂
+接著我就一路趕回旅館拿寄放的行李，回 Southern cross station 去搭 skybus，然後捷星果不其然的大誤點（前後加起來可能有一個多小時)😂
 
 接著回到布里斯本搭上倒數第二班 airtrain，然後我在火車上打這兩篇，打完剛好到家😆

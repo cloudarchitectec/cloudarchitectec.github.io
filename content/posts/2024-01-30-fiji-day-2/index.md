@@ -49,7 +49,7 @@ episodeseries: ["斐濟旅記"]
 
 ### 差點遭遇詐騙(?)
 
-然後我也的確差點遇到詐騙(?)，好險我早上出門前剛好看到了這篇遊記<<[斐濟市區 Nadi 讓我好怕怕](https://flower32077.pixnet.net/blog/post/343213709?fbclid=IwAR249IxAKtUDcdOWbYHaEAYQSs4m9OlMEeVQvTKSc4LyitjCK0w3fPeLt2g)>> ，完全增加了我的警覺心！（這趟說走就走的旅行，我出發前真的沒有做太多功課XD）
+然後我也的確差點遇到詐騙(?)，好險我早上出門前剛好看到了這篇遊記《[斐濟市區 Nadi 讓我好怕怕](https://flower32077.pixnet.net/blog/post/343213709?fbclid=IwAR249IxAKtUDcdOWbYHaEAYQSs4m9OlMEeVQvTKSc4LyitjCK0w3fPeLt2g)》，完全增加了我的警覺心！（這趟說走就走的旅行，我出發前真的沒有做太多功課XD）
 
 事情是這樣的，我一個人走在路上到處走走，然後突然有一個人跟我打招呼並跟我說「來斐濟就是要逛當地的市集」(以下對話都是英文)，我說「喔喔好好謝謝」完全想要立刻結束對話XD
 

@@ -1,11 +1,11 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Sea Day 3 (final sea day)"
+title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Signal Island (New Caledonia)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-7"
 cover:
   image: "images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpg"
-  alt: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Sea Day 3 (final sea day)"
+  alt: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Signal Island (New Caledonia)"
 images: ['images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpg', 'images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpg', 'images/medium-1*XU3yT7_raobC99qC2ioKiA.jpg', 'images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpg', 'images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "郵輪"]
@@ -38,7 +38,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ![Signal Island碼頭登陸點](images/medium-1*pkrhyBIJ7puIz4dS-AWQ5A.jpg) Signal Island Jetty
 
-我們訂了一個人 $75 的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 signal island 試圖用海水冰鎮它們 (想當然爾沒用XDDD)。
+我們訂了一個人 $75 的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 Signal Island 試圖用海水冰鎮它們 (想當然耳沒用XDDD)。
 
 
 *沙灘啤酒*
@@ -47,7 +47,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ![Signal Island高速快艇](images/medium-1*_8qT-33mIRs1_H5FMc9BBA.jpg)
 
-*就是這搜小船開出噴射汽艇的氣魄!!!*
+*就是這艘小船開出噴射汽艇的氣魄!!!*
 
 ### 與野生海龜一起游泳
 

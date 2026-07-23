@@ -30,7 +30,7 @@
 | 2025-04-26 | 太平洋小島上的大冒險：2025.04.26 Vanuatu Day 8 高級度假村午餐、高級住宿、高級蚊子包 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (簡直要被蚊子吃了🤣) | content/posts/2025-04-26-vanuatu-day-8 |
 | 2025-04-25 | 太平洋小島上的大冒險：2025.04.25 Vanuatu Day 7 導航騙我、奶奶救我：宅宅迷路日到火焰之夜 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (還是小島最棒了，大推 Hideaway Island Resort) | content/posts/2025-04-25-vanuatu-day-7 |
 | 2025-04-24 | 太平洋小島上的大冒險：2025.04.24 Vanuatu Day 6 自駕萬那杜就是開心 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (如果你是個 J 人，租車是你在萬那杜最好的選擇) | content/posts/2025-04-24-vanuatu-day-6 |
-| 2025-04-23 | 太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃改不上變化，變化趕不上天氣造化 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (在萬那杜，跟人類一樣不可控制的還有天氣) | content/posts/2025-04-23-vanuatu-day-5 |
+| 2025-04-23 | 太平洋小島上的大冒險：2025.04.23 Vanuatu Day 5 計劃趕不上變化，變化趕不上天氣造化 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (在萬那杜，跟人類一樣不可控制的還有天氣) | content/posts/2025-04-23-vanuatu-day-5 |
 | 2025-04-22 | 太平洋小島上的大冒險：2025.04.22 Vanuatu Day 4 接送烏龍、浮潛驚魂，什麼時候才能沒有驚喜？ | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | 有生之年我能不能在 Vanuatu 洗到熱水澡？🤣 | content/posts/2025-04-22-vanuatu-day-4 |
 | 2025-04-21 | 太平洋小島上的大冒險：2025.04.21 Vanuatu Day 3 地震驚魂、小島浮潛與部落文化初體驗 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | (我也不知道為什麼我在這裡的每一天都很精彩🤣) | content/posts/2025-04-21-vanuatu-day-3 |
 | 2025-04-20 | 太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區 | 旅行紀錄 · 系列:萬那杜旅記 | 旅遊, 萬那杜, 獨旅, 自駕 | 昨天入住時奶奶跟我說 7–7:30 會供應免費早餐，結果我遲遲等不到。 | content/posts/2025-04-20-vanuatu-day-2 |
@@ -108,12 +108,12 @@
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.18 — Day 4 Noumea (New Caledonia) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 新喀里多尼亞, 郵輪 | 終於到達了第一個島 Noumea！從陽台望出去非常 city vibe (或是更精確的說，港口工業區 vibe)。吃完早… | content/posts/2023-06-02-carnival-splendor-day-4 |
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.19 — Day 5 Lifou (New Caledonia) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 新喀里多尼亞, 郵輪 | 這個小島沒有足夠深的港口，所以船只能停在海上，透過接駁小船把遊客送到島上。為了避開人潮，我們 6:30 就起床了，7 點… | content/posts/2023-06-02-carnival-splendor-day-5 |
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.20 — Day 6 Mystery Island (Vanuatu) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 萬那杜, 郵輪 | 今天終於到了唯一一個 Vanuatu 的小島 Mystery Island，今天也是要坐接駁小船前往。可能玩到旅程的中後… | content/posts/2023-06-02-carnival-splendor-day-6 |
-| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Sea Day 3 (final sea day) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 毛巾猩猩(?) | content/posts/2023-06-02-carnival-splendor-day-7 |
-| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.22 — Day 8 下船日 (Sydney) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天我們完全大睡特睡到 10 點。稍微整理了一下，我出門去參加 10:30 的折毛巾教學。 | content/posts/2023-06-02-carnival-splendor-day-8 |
+| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Signal Island (New Caledonia) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 毛巾猩猩(?) | content/posts/2023-06-02-carnival-splendor-day-7 |
+| 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.22 — Day 8 Sea Day 3 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天我們完全大睡特睡到 10 點。稍微整理了一下，我出門去參加 10:30 的折毛巾教學。 | content/posts/2023-06-02-carnival-splendor-day-8 |
 | 2023-06-02 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.23 — Day 9 Sea Day 4 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 吃完早餐後我們立刻去聽了下船說明會，然後拍了一張全體工作人員代表的合照。 | content/posts/2023-06-02-carnival-splendor-day-9 |
-| 2023-05-30 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天是第二天 sea day，遊輪持續前進中，我們進入了下一個時區，所以遊輪工作人員提醒我們記得要手動把時間往前調一個小… | content/posts/2023-05-30-carnival-splendor-day-3 |
-| 2023-05-28 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.16 — Day 2 Sea Day 1 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 首先，應讀者 Huli 大大的要求，先來分享一下遊輪房間的內部照片。說真的，遊輪房間比我想像中大很多XD (本來還以為會… | content/posts/2023-05-28-carnival-splendor-day-2 |
-| 2023-05-15 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.15 — Day 1 雪梨登船 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 萬那杜, 新喀里多尼亞, 郵輪 | 住在布里斯本的我跟住在塔斯馬尼亞的友人 Ashley 決定一起進行一個為期九天的南太平洋遊輪之旅。這是我人生第一次的遊輪… | content/posts/2023-05-15-carnival-splendor-day-1 |
+| 2023-05-30 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 今天是第二天 sea day，郵輪持續前進中，我們進入了下一個時區，所以郵輪工作人員提醒我們記得要手動把時間往前調一個小… | content/posts/2023-05-30-carnival-splendor-day-3 |
+| 2023-05-28 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.16 — Day 2 Sea Day 1 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 首先，應讀者 Huli 大大的要求，先來分享一下郵輪房間的內部照片。說真的，郵輪房間比我想像中大很多XD (本來還以為會… | content/posts/2023-05-28-carnival-splendor-day-2 |
+| 2023-05-15 | Carnival Splendor 澳洲南太平洋郵輪 2023.05.15 — Day 1 雪梨登船 | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 萬那杜, 新喀里多尼亞, 郵輪 | 住在布里斯本的我跟住在塔斯馬尼亞的友人 Ashley 決定一起進行一個為期九天的南太平洋郵輪之旅。這是我人生第一次的郵輪… | content/posts/2023-05-15-carnival-splendor-day-1 |
 | 2023-05-11 | 澳洲求職必勝法則：Phone Screening 電話初篩策略應答分析與實戰分享 | 澳洲職場 | 澳洲求職必勝法則, 英文面試 | 今天想要跟大家來分享在澳洲求職過程中電話篩選 (phone screening) 的相關經驗。首先，phone scre… | content/posts/2023-05-11-phone-screening |
 | 2023-05-08 | Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知 (2023.05出發) | 旅行紀錄 · 系列:Carnival Splendor 郵輪 | 旅遊, 郵輪 | 這週六我要飛往雪梨，在雪梨度過一個週末(曾經在雪梨住過七年的我，這次安排了跟許多朋友見面的行程，總共排了週六午餐、週六晚… | content/posts/2023-05-08-carnival-splendor-intro |
 | 2023-05-07 | 2023 年中澳洲生活回顧 | 澳洲生活 | 澳洲生活 | 不知不覺 2023 年也過一半了，我覺得必須要來好好審視一下今年的目標。翻了下我過去的文章 2022 年回顧(/post… | content/posts/2023-05-07-2023-life |
