@@ -17,7 +17,7 @@ tags: ["微軟"]
 
 今天要來跟大家分享微軟是怎麼進行員工績效評估。
 
-微軟用的內部 performance review 工具叫作 Connect，Connect 通常發生在每年 4–5 月 (細節跟時間點每年可能會有所調整，畢竟微軟的公司文化就是充滿 chnages XD)。每年到了 Connect 的季節，員工就必須要在 Connect 上根據下面幾個類別寫出自己在過去一年所產出的影響力 (impacts)，接著你的經理會就你寫的 Connect 內容跟你討論有沒有需要改動的地方。討論結束後，你的經理會再額外找時間在你寫的 Connect 下面寫出他的評論。
+微軟用的內部 performance review 工具叫作 Connect，Connect 通常發生在每年 4–5 月 (細節跟時間點每年可能會有所調整，畢竟微軟的公司文化就是充滿 changes XD)。每年到了 Connect 的季節，員工就必須要在 Connect 上根據下面幾個類別寫出自己在過去一年所產出的影響力 (impacts)，接著你的經理會就你寫的 Connect 內容跟你討論有沒有需要改動的地方。討論結束後，你的經理會再額外找時間在你寫的 Connect 下面寫出他的評論。
 
 Connect 一旦提交之後就不能再做出更改，而且 Connect 會一直伴隨著你在微軟的職涯，不管你之後換了部門或是換了經理，他們都有辦法看到你過去的 Connect 紀錄。
 
@@ -30,7 +30,7 @@ Connect 內容主要分成以下幾個部分。
 **1.1 核心優先事項 (Core priorities)**：就是你的 KPI，根據每個人的職位會有所不同。Cloud Solution Architect 是以下幾個部分：
 
 - **Azure 消費影響 (Consumption Impact)**：你手上的客戶總共在 Azure 上花了多少錢，你做了什麼事情幫助客戶可以在 Azure 上順利部署 (i.e. 花錢)。
-- **Azure 擴張影響 (Expansion Impact)**：你在 sales pipeline 裡面創造了多少新的 opportunties，簡單來說就是你挖掘了多少客戶可能在 Azure 上花錢的新機會。
+- **Azure 擴張影響 (Expansion Impact)**：你在 sales pipeline 裡面創造了多少新的 opportunities，簡單來說就是你挖掘了多少客戶可能在 Azure 上花錢的新機會。
 - **UCR (Unified Revenue Impact)**：微軟內部用語，簡單來說就是你 deliver 了多少客戶需要額外付費的微軟 workshops。(哇，又是錢哈哈哈! 大家可以知道我為什麼說這個工作跟我的個人價值觀不符了吧? 雖然說 CSA 是個技術職位，但我們的 KPI 幾乎都是用銷售數字在衡量 >”<)
 - **技能專業化與精通的增長 (Growth in Specialization & mastery across skills)**：過去在技能上的成長，我寫了我過去六個月考過了兩張 Azure 證照。
 - **對他人成功的貢獻 (Contribution to success of others)**：寫你做了什麼事幫助你同事成功。這點其實是我還滿喜歡的一點，你協助他人成功的地方也可以列為你自己的 KPI。
@@ -78,7 +78,7 @@ Connect 內容主要分成以下幾個部分。
 
 於是 Reflect on the past (回顧過去) 的部分，新經理請了我的 Director (skip manager) 來評估，但想當然耳，Director 在他那個等級也根本不可能知道我過去六個月做了什麼。於是 Director 一上來就請我描述我過去的 impacts，但好險我講完之後 Director 表示他很滿意。他覺得我達成了遠超乎他對一個剛進公司六個月的新人的預期，覺得我已經非常上手了，也都有達到每個 KPI 的要求 (我覺得可能是因為我知道他們想要看的是什麼，所以我寫的時候自然有努力朝他們想看的方向貼近，然後我的表達能力又不錯，所以自然他就覺得我做得不錯)。
 
-接著是我的經理跟我討論 Plan for the future (計劃未來) 的部分。但基本上藤討論的地方也不多，因為新的 role guidelines 要 7–8 月才會出來，現在只能討論去年的標準，說不定新的 role guidelines 出來一切都不一樣了哈哈哈
+接著是我的經理跟我討論 Plan for the future (計劃未來) 的部分。但基本上能討論的地方也不多，因為新的 role guidelines 要 7–8 月才會出來，現在只能討論去年的標準，說不定新的 role guidelines 出來一切都不一樣了哈哈哈
 
 各位讀者，你們發現盲點了嗎? 既然新的規定要 7–8 月才會出來，規定五月底之前就要交 Connect 到底是一個什麼樣的道理XDDD 而且微軟也不是第一次做員工績效評估了吧，都沒有人想過這個 timeline 上的問題嗎，然後做出改善嗎? 哈哈
 
@@ -90,7 +90,7 @@ Connect 內容主要分成以下幾個部分。
 
 一定會有人好奇我怎麼發現的，其實主要是以下這句話: 「I commend you for the achievements during the review period and look forward to your continued contributions in the future.」
 
-command 在英文字典裡的解釋是「to present or mention as worthy of confidence, attention, kindness, etc.; recommend: to commend one friend to another.」這句話本身文法沒有問題，問題在於沒有一個現在幾乎沒有人會寫出 I commmend xxxx 這樣的句子，而這樣的句子，我之前用 chatGPT 時看過一模一樣的XD
+commend 在英文字典裡的解釋是「to present or mention as worthy of confidence, attention, kindness, etc.; recommend: to commend one friend to another.」這句話本身文法沒有問題，問題在於現在幾乎沒有人會寫出 I commend xxxx 這樣的句子，而這樣的句子，我之前用 chatGPT 時看過一模一樣的XD
 
 我經理給我的 Connect feedback，全部就是用 chatGPT 再把我寫的東西總結一次而已，完全沒有提供我任何可以改進或是未來發展的方向 (是說經理你把我寫的東西再總結一次幹嘛，這些事都是我寫的，你真的不需要把我寫過的事換句話說再寫一次哈哈哈)。我事後跟另一個同事確認過，她說經理給她的 feedback 也就是把她寫的東西再總結一次。當然我沒有跟同事提說除此之外，我還發現是機器人寫的呢XDD
 

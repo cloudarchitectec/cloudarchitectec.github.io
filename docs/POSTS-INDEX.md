@@ -123,7 +123,7 @@
 | 2023-03-24 | Amazon：你不知道的亞馬遜辦公室 — IT 設備販賣機 | 澳洲職場 | 科技業, AWS | 之前我在 AWS 工作的時候，最喜歡的就是拜訪各地的辦公室。澳洲來說，我去過坎培拉、雪梨、墨爾本、伯斯，海外的話則是去過… | content/posts/2023-03-24-it-vending-machine |
 | 2023-03-17 | 那些沒人告訴你的雲端職位真相：Solution Architect 與 Cloud Engineer 職場日常大揭密！ | 澳洲職場 | 雲端架構師 | 雖然標題只寫了 Solution Architect 與 Cloud Engineer，但我認為 Software En… | content/posts/2023-03-17-sa-vs-cloud-engineer |
 | 2023-03-03 | 澳洲亞馬遜 AWS Professional Services 員工的必經關卡 — Awesome Builder | 澳洲職場 | AWS, 雲端架構師 | Awesome Builder (簡稱 AB) 是 AWS Professional Services Team 新進員… | content/posts/2023-03-03-awesome-builder |
-| 2023-02-24 | 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享 | 澳洲職場 | 微軟 | (這篇是原來是我 2022.10.28 寫的文章，現在轉發到 Medium 上面跟大家分享XD) | content/posts/2023-02-24-ms-week1 |
+| 2023-02-24 | 澳洲微軟新進員工第一週的心得+坎培拉微軟辦公室分享 | 澳洲職場 | 微軟 | (這篇原來是我 2022.10.28 寫的文章，現在轉發到 Medium 上面跟大家分享XD) | content/posts/2023-02-24-ms-week1 |
 | 2023-02-17 | MBTI人格理論(16型職業性格評估) －INTJ-A 分享 | 澳洲生活 | 澳洲生活 | 不知道大家聽過或做過「MBTI 人格理論 (16 型職業性格評估)」嗎? 感覺在兩三年前非常紅，我之前做了這個免費的線上… | content/posts/2023-02-17-mbti-intj |
 | 2023-02-11 | 倖存者日記：2023 Q1 科技大廠裁員潮 — 澳洲微軟員工觀察日記 | 澳洲職場 · 系列:倖存者日記 | 裁員 | 相信大家最近多多少少都有看到各家科技大廠裁員的消息，今天就來分享我身為微軟員工的心情。 | content/posts/2023-02-11-2023-q1-layoff |
 | 2023-02-04 | 雲端證照真的會帶領你走向夢想中的工作嗎? AWS 與 Azure 證照的解析 | 澳洲職場 | 雲端證照 | 大家好我是 EC，擁有 6 張 AWS 證照以及 5 張 Azure 證照，今天想要來分享我對兩種證照體系的比較，最後則… | content/posts/2023-02-04-cloud-certs |
