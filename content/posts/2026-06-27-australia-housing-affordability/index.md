@@ -4,7 +4,7 @@ date: 2026-06-27
 slug: "2026-06-27-australia-housing-affordability"
 cover:
   image: "images/178j8tJrNlc-unsplash.jpg"
-  alt: "big-house-with-yard"
+  alt: "帶白色圍欄門廊與大片草坪的獨棟房屋"
   credit:
     photographer: "todd kent"
     photographer_url: "https://unsplash.com/@churchoftodd"

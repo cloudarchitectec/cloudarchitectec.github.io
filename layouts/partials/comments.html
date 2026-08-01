@@ -3,9 +3,13 @@
   <p class="comments-hint">快來分享你的想法吧～</p>
   <div id="waline"></div>
 </div>
-<link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+{{- /* Pinned. A floating tag re-resolves on every page load, so an upstream
+       release reaches readers within minutes with no deploy and no way to roll back.
+       Props also rename across versions and fail open. Bump both URLs together
+       and re-check the widget afterwards. */ -}}
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@3.15.2/dist/waline.css" />
 <script type="module">
-  import { init } from "https://unpkg.com/@waline/client@v3/dist/waline.js";
+  import { init } from "https://unpkg.com/@waline/client@3.15.2/dist/waline.js";
 
   init({
     el: "#waline",
@@ -27,8 +31,8 @@
     requiredMeta: ["nick"],
     login: "disable",
     search: false,
-    copyright: false,
-    pageview: false,
+    noCopyright: true,
+    noRss: true,
   });
 </script>
 {{- end }}

@@ -4,7 +4,7 @@ date: 2026-07-11
 slug: "2026-07-11-brisbane-living-cost-2026"
 cover:
   image: "images/_T2PLeqMoGU-unsplash.jpg"
-  alt: "brisbane-story-bridge-view"
+  alt: "夕陽下的布里斯本故事橋與市區天際線"
   credit:
     photographer: "Bhavesh Patel"
     photographer_url: "https://unsplash.com/@bpatelnz"

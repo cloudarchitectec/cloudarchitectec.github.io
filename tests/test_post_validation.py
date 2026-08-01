@@ -83,6 +83,110 @@ class TestCoverCheck:
         text = wrap("title: x", '![alt](images/a.png "說明文字")\n\n![b](images/b.png)')
         assert cover_check.extract_image_paths(text) == ["images/a.png", "images/b.png"]
 
+    def test_image_path_extracted_without_layout_fragment(self):
+        """![alt](src#portrait) — render-image.html reads #portrait/#wide/#center
+        as layout modifiers, so the fragment is not part of the bundle path."""
+        text = wrap(
+            "title: x",
+            "![a](images/a.jpeg#portrait)\n\n![b](images/b.png#wide)\n\n![c](images/c.png)",
+        )
+        assert cover_check.extract_image_paths(text) == [
+            "images/a.jpeg",
+            "images/b.png",
+            "images/c.png",
+        ]
+
+    def test_layout_fragments_extracted_per_path(self):
+        text = wrap(
+            "title: x",
+            "![a](images/a.jpeg#portrait)\n\n![c](images/c.png)",
+        )
+        assert cover_check.extract_image_modifiers(text) == {"images/a.jpeg": {"portrait"}}
+
+
+class TestAltTextCheck:
+    def test_sluglike_cover_alt_warns(self):
+        text = wrap('cover:\n  image: "images/a.jpg"\n  alt: "fire-between-woman-and-boy"')
+        assert any("cover alt" in w for w in cover_check.check_alt_text(text))
+
+    def test_descriptive_cover_alt_passes(self):
+        for alt in ("營火旁的女人與男孩", "A woman by the fire", "fire"):
+            text = wrap(f'cover:\n  image: "images/a.jpg"\n  alt: "{alt}"')
+            assert cover_check.check_alt_text(text) == [], alt
+
+    def test_sluglike_body_alt_warns(self):
+        text = wrap("title: x", "![spider_man](images/a.jpg)")
+        assert any("image alt" in w for w in cover_check.check_alt_text(text))
+
+    def test_descriptive_body_alt_passes(self):
+        text = wrap("title: x", "![活動現場照片](images/a.jpg)")
+        assert cover_check.check_alt_text(text) == []
+
+
+class TestInlineUpscaleWarning:
+    def _info(self, w: int, h: int) -> size_check.ImageInfo:
+        return size_check.ImageInfo(Path("images/x.jpg"), w, h, 100 * 1024)
+
+    def test_small_landscape_inline_warns_with_portrait_hint(self):
+        warnings, errors = size_check.check_info(self._info(480, 360), "inline")
+        assert errors == []
+        assert any("upscaled" in w and "#portrait" in w for w in warnings)
+
+    def test_small_landscape_with_portrait_modifier_passes(self):
+        warnings, _ = size_check.check_info(self._info(480, 360), "inline", {"portrait"})
+        assert not any("upscaled" in w for w in warnings)
+
+    def test_narrow_portrait_inline_warns(self):
+        warnings, _ = size_check.check_info(self._info(380, 500), "inline")
+        assert any("upscaled" in w for w in warnings)
+
+    def test_column_width_landscape_passes(self):
+        warnings, _ = size_check.check_info(self._info(800, 600), "inline")
+        assert not any("upscaled" in w for w in warnings)
+
+    def test_cover_role_not_flagged_for_upscale(self):
+        warnings, _ = size_check.check_info(self._info(480, 360), "cover")
+        assert not any("upscaled" in w for w in warnings)
+
+
+class TestOrphanImages:
+    def test_unreferenced_bundle_image_reported(self, tmp_path: Path):
+        images = tmp_path / "images"
+        images.mkdir()
+        for name in ("a.jpg", "b.jpg", "c.jpg"):
+            (images / name).write_bytes(b"x")
+        (images / "notes.txt").write_text("not an image")
+        md = tmp_path / "index.md"
+        md.write_text(
+            wrap('title: x\nimages: ["images/a.jpg"]', "![b](images/b.jpg#portrait)"),
+            encoding="utf-8",
+        )
+        assert cover_check.find_orphan_images(md) == ["images/c.jpg"]
+
+    def test_no_images_dir_is_fine(self, tmp_path: Path):
+        md = tmp_path / "index.md"
+        md.write_text(wrap("title: x"), encoding="utf-8")
+        assert cover_check.find_orphan_images(md) == []
+
+
+class TestWarningBaseline:
+    def test_loader_skips_comments_and_blanks(self, tmp_path: Path, monkeypatch):
+        check_posts = load_check_posts()
+        baseline = tmp_path / "warning-baseline.txt"
+        baseline.write_text(
+            "# comment\n\nslug-a: cover may look soft on desktop: x.jpg — 800x533\n",
+            encoding="utf-8",
+        )
+        monkeypatch.setattr(check_posts, "WARNING_BASELINE", baseline)
+        assert check_posts.load_warning_baseline() == {
+            "slug-a: cover may look soft on desktop: x.jpg — 800x533"
+        }
+
+    def test_missing_baseline_is_empty(self, tmp_path: Path, monkeypatch):
+        check_posts = load_check_posts()
+        monkeypatch.setattr(check_posts, "WARNING_BASELINE", tmp_path / "nope.txt")
+        assert check_posts.load_warning_baseline() == set()
+
 
 class TestFrontmatterCheck:
     def test_good_post_passes(self):
