@@ -253,6 +253,21 @@ def clean_url(url: str) -> str:
     return url.strip().split("?")[0].split("#")[0]
 
 
+def derive_alt_from_page_url(page_url: str, photo_id: str) -> str:
+    """Humanize the descriptive slug in an Unsplash page URL.
+
+    https://unsplash.com/photos/fire-between-woman-and-boy-XI7lwAWzhZQ
+    -> "fire between woman and boy". Empty string if the URL has no slug
+    beyond the photo id.
+    """
+    slug = clean_url(page_url).rstrip("/").rsplit("/", 1)[-1]
+    if slug == photo_id:
+        return ""
+    if slug.endswith(f"-{photo_id}"):
+        slug = slug[: -(len(photo_id) + 1)]
+    return slug.replace("-", " ").strip()
+
+
 COVER_DOWNLOAD_MAX_ATTEMPTS = 2
 
 
@@ -350,11 +365,16 @@ def download_unsplash_image(
         links = data.get("links", {})
         page_url = clean_url(links.get("html") or photo_url or f"https://unsplash.com/photos/{photo_id}")
 
+        alt_suggestion = (data.get("alt_description") or data.get("description") or "").strip()
+        if not alt_suggestion:
+            alt_suggestion = derive_alt_from_page_url(photo_url or page_url, photo_id)
+
         metadata = {
             "username": username,
             "name": name,
             "profile_url": f"https://unsplash.com/@{username}",
             "photo_url": page_url,
+            "alt_suggestion": alt_suggestion,
         }
         return True, metadata, ""
 
@@ -802,8 +822,13 @@ def main(input_file: str, no_hugo: bool) -> None:
         click.echo(f"   Profile: {cover_credit['photographer_url']}")
         click.echo(f"   Photo: {cover_credit['photo_url']}")
 
+        suggested_alt = (metadata.get("alt_suggestion") or "").strip()
+        if suggested_alt:
+            click.echo("💡 Alt text suggested from Unsplash — Enter to accept, or type your own.")
         while True:
-            alt_text = click.prompt("🖼️  Alt text for cover image (required)", default="").strip()
+            alt_text = click.prompt(
+                "🖼️  Alt text for cover image (required)", default=suggested_alt
+            ).strip()
             if alt_text:
                 break
             click.echo("❌ Alt text is required when adding a cover image.")

@@ -109,6 +109,28 @@ class TestPromptEpisodeSeries:
         assert "全新系列" in reg.load_series_list(list_file)
 
 
+class TestDeriveAltFromPageUrl:
+    def test_humanizes_slug_and_strips_photo_id(self):
+        alt = publisher.derive_alt_from_page_url(
+            "https://unsplash.com/photos/fire-between-woman-and-boy-XI7lwAWzhZQ",
+            "XI7lwAWzhZQ",
+        )
+        assert alt == "fire between woman and boy"
+
+    def test_bare_photo_id_url_gives_empty(self):
+        alt = publisher.derive_alt_from_page_url(
+            "https://unsplash.com/photos/XI7lwAWzhZQ", "XI7lwAWzhZQ"
+        )
+        assert alt == ""
+
+    def test_ignores_query_string(self):
+        alt = publisher.derive_alt_from_page_url(
+            "https://unsplash.com/photos/red-apple-XI7lwAWzhZQ?utm_source=x",
+            "XI7lwAWzhZQ",
+        )
+        assert alt == "red apple"
+
+
 class TestUnsplashErrors:
     def test_missing_api_key_message(self, monkeypatch, tmp_path: Path):
         monkeypatch.delenv("UNSPLASH_ACCESS_KEY", raising=False)

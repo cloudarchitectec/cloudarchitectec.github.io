@@ -84,7 +84,9 @@ def extract_image_paths(text: str) -> list[str]:
 
         if not in_fm:
             for match in MD_IMG.finditer(line):
-                paths.append(match.group(1).strip())
+                # Hugo's render-image.html treats #fragment as a layout modifier
+                # (#portrait / #wide / #center), not part of the file path.
+                paths.append(match.group(1).strip().split("#")[0])
             continue
 
         if re.match(r"^\s*cover:\s*$", line):

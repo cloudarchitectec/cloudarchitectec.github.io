@@ -27,7 +27,7 @@ CLI tool to publish blog posts from pre-publish markdown with Unsplash cover ima
 2. **Run the publisher**:
    ```bash
    cd tools/blog-publisher
-   python3 pre-publish-post.py 2026-07-09-ai-interface-evolution.md
+   python3 pre-publish-post.py volunteer-leave.md
    ```
 
 3. **Answer prompts:**
@@ -36,7 +36,7 @@ CLI tool to publish blog posts from pre-publish markdown with Unsplash cover ima
    - **Category** — pick one from allowed list (draft category pre-selected; Enter to accept)
    - **Tags** — confirm or edit (input tags shown as default)
    - **Series** — confirm input series or pick from registry
-   - **Unsplash URL** + alt text — paste URL when prompted; one retry if download fails (`n` to skip)
+   - **Unsplash URL** + alt text — paste URL when prompted; alt text is pre-filled from the photo's Unsplash description (or the URL slug) — Enter to accept, or type your own; one retry if download fails (`n` to skip)
 
 4. **Output** is written directly to `content/posts/{slug}/`:
    - `index.md` — Hugo front matter + body (never `draft: true`)

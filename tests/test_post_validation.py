@@ -83,6 +83,19 @@ class TestCoverCheck:
         text = wrap("title: x", '![alt](images/a.png "說明文字")\n\n![b](images/b.png)')
         assert cover_check.extract_image_paths(text) == ["images/a.png", "images/b.png"]
 
+    def test_image_path_extracted_without_layout_fragment(self):
+        """![alt](src#portrait) — render-image.html reads #portrait/#wide/#center
+        as layout modifiers, so the fragment is not part of the bundle path."""
+        text = wrap(
+            "title: x",
+            "![a](images/a.jpeg#portrait)\n\n![b](images/b.png#wide)\n\n![c](images/c.png)",
+        )
+        assert cover_check.extract_image_paths(text) == [
+            "images/a.jpeg",
+            "images/b.png",
+            "images/c.png",
+        ]
+
 
 class TestFrontmatterCheck:
     def test_good_post_passes(self):

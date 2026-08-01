@@ -4,10 +4,11 @@
 >
 > Purpose: locate a post by title / section / tags / summary from this one file instead of scanning `content/posts/`. Open the folder in the last column to read or edit the post.
 
-**163 published posts** (newest first).
+**164 published posts** (newest first).
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
+| 2026-08-01 | 帶薪做公益？澳洲的義工假 Volunteer Leaves 一日體驗 | 澳洲職場 | 公益, 義工, 能源 | 現職澳洲能源公司的員工福利之一，是每年有兩天義工假（Volunteer Leaves），可以請假去做公益，薪水照領。 | content/posts/2026-08-01-volunteer-leaves |
 | 2026-07-19 | 你以為你會用 AI？從跟 ChatGPT 聊天到 AI Agent 的五個階段，你在哪一階？ | 澳洲職場 | AI, Claude, Gemini, ChatGPT, Copilot, 軟體工程師 | 最近常跟朋友、同事聊 AI，才發現大家講的「ChatGPT」、「Claude」、「Gemini」、「Copilot」，其… | content/posts/2026-07-19-ai-interface-evolution |
 | 2026-07-11 | 布里斯本生活成本全解析（2026）：一個從沒上榜過的澳洲宜居城市？ | 澳洲生活 | 布里斯本, 澳洲, 生活成本 | 身為一個生活在澳洲超過十年的台灣人，這幾年我最常被問的問題之一，不是「你在 AWS 做什麼」，也不是「轉去 DevOps… | content/posts/2026-07-11-brisbane-living-cost-2026 |
 | 2026-07-04 | AI 沒有取代工程師，但正在重新定義什麼叫做「好的工程師」 | 澳洲職場 | AI, 軟實力, 軟體工程師, GitHub Copilot | 我們公司使用 Microsoft Copilot 已經一陣子了(很難用，不要問🤣)，前陣子更是全面導入企業版 GitHu… | content/posts/2026-07-04-soft-skills-in-ai-era |
