@@ -87,6 +87,7 @@ Each check owns one concern. Overlap between HTML and Playwright is **intentiona
 | Concern | Owner | Also tested elsewhere? |
 |---------|-------|------------------------|
 | Post front matter / cover / images (source) | `scripts/check-posts.py` | Unit tests in `test_post_validation.py` (same rules, in-memory) |
+| Image warnings: slug-like alt, inline upscale (fragment-aware), orphan bundle images | `check-posts.py` — legacy corpus grandfathered in `scripts/post-validation/warning-baseline.txt`; delete a line after fixing its image | `test_post_validation.py` |
 | Git index slug paths | `check-posts.py` (CI) | `test_post_validation.py::TestCheckPostsGitPaths` |
 | List template structure | pre-commit + `test_list_pages.py::TestListTemplateStructure` | Same test class — pre-commit calls one method only |
 | Built HTML list titles | `test_list_pages.py` | Playwright checks visibility on subset — **different layer** |

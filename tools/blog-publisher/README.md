@@ -26,8 +26,7 @@ CLI tool to publish blog posts from pre-publish markdown with Unsplash cover ima
 
 2. **Run the publisher**:
    ```bash
-   cd tools/blog-publisher
-   python3 pre-publish-post.py volunteer-leave.md
+   python3 tools/blog-publisher/pre-publish-post.py xxx.md
    ```
 
 3. **Answer prompts:**

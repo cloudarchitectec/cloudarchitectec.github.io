@@ -5,7 +5,7 @@ date: 2025-10-18
 slug: "2025-10-18-invest-us-stocks-in-au"
 cover:
   image: "images/black-flat-computer-monitor.jpg"
-  alt: "black-flat-screen-computer-monitor"
+  alt: "螢幕上的比特幣兌美元K線走勢圖"
   credit:
     photographer: "Nick Chong"
     photographer_url: "https://unsplash.com/@nickchong"

@@ -5,7 +5,7 @@ date: 2026-07-04
 slug: "2026-07-04-soft-skills-in-ai-era"
 cover:
   image: "images/zwd435-ewb4-unsplash.jpg"
-  alt: "ai-bot-with-laptop"
+  alt: "坐在長椅上看著筆電的人形機器人"
   credit:
     photographer: "Andrea De Santis"
     photographer_url: "https://unsplash.com/@santesson89"

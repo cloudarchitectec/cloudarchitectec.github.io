@@ -25,15 +25,15 @@ tags: ["雪梨"]
 
 第二個藝術品的標題是"無名 (untitled)"。這個雕像真的超妙!!! 而且我覺得蜘蛛人的屁股好翹XDD 好啦，這個雕像描述的是大眾文化核心中的衝突與慾望，藝術家覺得蜘蛛人代表了我們集體想像中的超級英雄，雖然有超能力，但基本上還是"人"的形象，而這個長得像條蟲的光頭就是我們內心中扭曲的慾望。
 
-![spider_man](images/spider_man.jpg)
+![蜘蛛人雕塑面對牆上的人臉裝置藝術](images/spider_man.jpg)
 
 第三個藝術品...其實是英文詞彙測驗??? 哈哈，其實這是表示從以歐洲文化為中心的觀點來看待澳洲原住民，藝術家想表達的是語言的力量，以及語言如何塑造文化和身分認同。
 
-![english_words](images/english_words.jpg)
+![六幅以D開頭英文單字為題的殖民歷史版畫](images/english_words.jpg)
 
 最後要介紹的就是神祕景點啦~ 博物館的頂樓是個開放的咖啡廳，可以遠眺雪梨歌劇院和港灣大橋!!! 這麼美又不用錢，又可以點杯咖啡或開瓶啤酒與三五好友一起談天賞景的地方哪裡找啊!!! 真是美呆了~
 如果大家下次有機會來雪梨，請千萬不要錯過! 如果已經錯過的人...那就再來一次吧XDD
 
-![rooftop_cafe](images/rooftop_cafe.jpg)
-![opera_house](images/opera_house.jpg)
-![harbour_bridge](images/harbour_bridge.jpg)
+![MCA頂樓咖啡廳同時眺望雪梨歌劇院與港灣大橋](images/rooftop_cafe.jpg)
+![從MCA頂樓遠眺雪梨歌劇院](images/opera_house.jpg)
+![雪梨港灣大橋與環形碼頭郵輪航站](images/harbour_bridge.jpg)

@@ -8,6 +8,14 @@ from pathlib import Path
 # Group 1 is the bundle path; CommonMark's optional title — ![alt](src "caption"),
 # rendered as <figcaption> by render-image.html — is matched but deliberately excluded.
 MD_IMG = re.compile(r"""!\[[^\]]*\]\(\s*([^)\s]+)(?:\s+(?:"[^"]*"|'[^']*'|\([^)]*\)))?\s*\)""")
+# Same match with the alt captured (group 1) ahead of the path (group 2).
+MD_IMG_WITH_ALT = re.compile(
+    r"""!\[([^\]]*)\]\(\s*([^)\s]+)(?:\s+(?:"[^"]*"|'[^']*'|\([^)]*\)))?\s*\)"""
+)
+# ASCII words joined only by - or _ with no spaces: a filename/slug pasted as alt
+# ("fire-between-woman-and-boy"), not a descriptive phrase.
+SLUGLIKE_ALT = re.compile(r"^[A-Za-z0-9]+(?:[-_][A-Za-z0-9]+)+$")
+BUNDLE_IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif"}
 DOUBLE_EXT_SUFFIXES = (".jpeg.jpg", ".png.jpg")
 DOUBLE_EXT_REF = re.compile(r"\.(?:jpeg\.jpg|png\.jpg)")
 UNSPLASH_INLINE = re.compile(r"^\s*Photo by ", re.IGNORECASE)
@@ -70,25 +78,13 @@ def parse_images_list(fm: str) -> list[str]:
 
 
 def extract_image_paths(text: str) -> list[str]:
+    # split_post keeps body `---` horizontal rules out of front-matter parsing.
+    fm, body = split_post(text)
     paths: list[str] = []
-    in_fm = False
     fm_key: str | None = None
     in_cover = False
 
-    for line in text.splitlines():
-        if line.strip() == "---":
-            in_fm = not in_fm
-            fm_key = None
-            in_cover = False
-            continue
-
-        if not in_fm:
-            for match in MD_IMG.finditer(line):
-                # Hugo's render-image.html treats #fragment as a layout modifier
-                # (#portrait / #wide / #center), not part of the file path.
-                paths.append(match.group(1).strip().split("#")[0])
-            continue
-
+    for line in fm.splitlines():
         if re.match(r"^\s*cover:\s*$", line):
             in_cover = True
             continue
@@ -113,6 +109,11 @@ def extract_image_paths(text: str) -> list[str]:
             val = line.strip()[1:].strip().strip('"').strip("'")
             if val:
                 paths.append(val)
+
+    for match in MD_IMG.finditer(body):
+        # Hugo's render-image.html treats #fragment as a layout modifier
+        # (#portrait / #wide / #center), not part of the file path.
+        paths.append(match.group(1).strip().split("#")[0])
 
     return paths
 
@@ -249,3 +250,59 @@ def check_bundle_images(md_file: Path) -> list[str]:
             missing.append(rel)
 
     return missing
+
+
+def extract_image_modifiers(text: str) -> dict[str, set[str]]:
+    """Map bundle path -> layout fragments used on it in the body (#portrait/#wide/#center)."""
+    _, body = split_post(text)
+    modifiers: dict[str, set[str]] = {}
+    for match in MD_IMG.finditer(body):
+        raw = match.group(1).strip()
+        if "#" not in raw:
+            continue
+        path, frag = raw.split("#", 1)
+        if frag:
+            modifiers.setdefault(path, set()).add(frag)
+    return modifiers
+
+
+def check_alt_text(text: str) -> list[str]:
+    """Warn when an alt reads as a filename/slug instead of a descriptive phrase."""
+    warnings: list[str] = []
+    fm, body = split_post(text)
+
+    cover_alt = (get_fm_nested(fm, "alt") or "").strip()
+    if SLUGLIKE_ALT.match(cover_alt):
+        warnings.append(
+            f'cover alt looks like a filename/slug: "{cover_alt}" — use a descriptive phrase'
+        )
+
+    for match in MD_IMG_WITH_ALT.finditer(body):
+        alt = match.group(1).strip()
+        if SLUGLIKE_ALT.match(alt):
+            warnings.append(
+                f'image alt looks like a filename/slug: "{alt}" — use a descriptive phrase'
+            )
+
+    return warnings
+
+
+def find_orphan_images(md_file: Path) -> list[str]:
+    """Bundle image files referenced nowhere (not cover, not body, not images: list)."""
+    images_dir = md_file.parent / "images"
+    if not images_dir.is_dir():
+        return []
+
+    text = md_file.read_text(encoding="utf-8", errors="replace")
+    fm, _ = split_post(text)
+    # extract_image_paths skips the inline `images: [...]` form — parse it too.
+    raw_refs = extract_image_paths(text) + parse_images_list(fm)
+    referenced = {rel for raw in raw_refs if (rel := normalize_path(raw))}
+
+    orphans: list[str] = []
+    for path in sorted(images_dir.iterdir()):
+        if not path.is_file() or path.suffix.lower() not in BUNDLE_IMAGE_EXTS:
+            continue
+        if f"images/{path.name}" not in referenced:
+            orphans.append(f"images/{path.name}")
+    return orphans

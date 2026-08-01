@@ -39,6 +39,20 @@ cover_check = load_check_module("cover-check.py")
 frontmatter_check = load_check_module("frontmatter-check.py")
 size_check = load_check_module("image-size-check.py")
 
+WARNING_BASELINE = POST_VALIDATION_DIR / "warning-baseline.txt"
+
+
+def load_warning_baseline() -> set[str]:
+    """Known legacy warnings ("slug: message" lines) suppressed from output.
+
+    Keeps the signal clean: only warnings not in the baseline are shown, so a
+    new warning is always worth reading. Remove a line after fixing its image.
+    """
+    if not WARNING_BASELINE.is_file():
+        return set()
+    lines = WARNING_BASELINE.read_text(encoding="utf-8").splitlines()
+    return {ln.strip() for ln in lines if ln.strip() and not ln.startswith("#")}
+
 
 def git_dir_name(path: str) -> str | None:
     parts = Path(path).parts
@@ -133,9 +147,10 @@ def validate_post(md_file: Path, dir_name: str) -> tuple[list[str], list[str], b
 
     errors.extend(frontmatter_check.check(text, dir_name))
     errors.extend(cover_check.check(text))
+    warnings.extend(cover_check.check_alt_text(text))
 
     size_warnings, size_errors = size_check.check_post_images(
-        md_file, text, cover_check.extract_image_paths
+        md_file, text, cover_check.extract_image_paths, cover_check.extract_image_modifiers
     )
     warnings.extend(size_warnings)
     errors.extend(size_errors)
@@ -144,6 +159,8 @@ def validate_post(md_file: Path, dir_name: str) -> tuple[list[str], list[str], b
     if has_refs:
         for path in cover_check.check_bundle_images(md_file):
             errors.append(f"missing bundle image: {path}")
+        for path in cover_check.find_orphan_images(md_file):
+            warnings.append(f"unreferenced bundle image: {path} (not in images: list or body)")
 
     return errors, warnings, has_refs
 
@@ -164,12 +181,17 @@ def run_checks(
             print(f"  {err}")
         return 1
 
+    baseline = load_warning_baseline()
+    suppressed = 0
     for md_file, dir_name in entries:
         errors, warnings, has_refs = validate_post(md_file, dir_name)
         if has_refs:
             checked_with_images += 1
         for w in warnings:
-            warn_items.append((dir_name, w))
+            if f"{dir_name}: {w}" in baseline:
+                suppressed += 1
+            else:
+                warn_items.append((dir_name, w))
         if errors:
             format_failures.append((dir_name, errors))
 
@@ -180,8 +202,13 @@ def run_checks(
     else:
         print(f"Checked {len(entries)} posts ({checked_with_images} with image refs)")
 
+    if suppressed:
+        print(
+            f"ℹ️  {suppressed} known legacy warning(s) suppressed "
+            f"(scripts/post-validation/warning-baseline.txt)"
+        )
     if warn_items:
-        print(f"⚠️  {len(warn_items)} image size warning(s):")
+        print(f"⚠️  {len(warn_items)} warning(s):")
         for slug, msg in warn_items:
             print(f"  {slug}: {msg}")
 
@@ -194,7 +221,7 @@ def run_checks(
         return 1
 
     if warn_items:
-        print("✅ All post validation checks passed (with size warnings above)")
+        print("✅ All post validation checks passed (with warnings above)")
     else:
         print("✅ All post validation checks passed")
     return 0
