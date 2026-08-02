@@ -21,10 +21,16 @@
   color: var(--secondary);
 }
 
+/* Sans, at the sentence's own size (EC, 2026-08-02 — these used to be mono 14px).
+   The site's mono signature only reads as a signature where there are Latin
+   glyphs to set: IBM Plex Mono has no CJK, so a mostly-Chinese link falls
+   through to Noto Sans TC while an embedded "EC" stays monospaced — 請EC喝杯咖啡
+   rendered its EC differently from the 喜歡 EC 的文章嗎？right beside it. Weight
+   and colour carry the link instead. */
 .post-nudge a {
-  font-family: var(--font-mono);
-  font-size: 14px;
-  font-weight: 500;
+  font-family: var(--font-sans);
+  font-size: inherit;
+  font-weight: 600;
   color: var(--accent);
   text-decoration: none;
   text-underline-offset: 3px;
@@ -33,3 +39,7 @@
 .post-nudge a:hover {
   text-decoration: underline;
 }
+
+/* Career-post CTA — deliberately the same one-line shape as the other nudges
+   (EC, 2026-08-02: a button here reads as an ad). It leads on relevance and on
+   sitting first, not on styling, so it needs no rules of its own. */

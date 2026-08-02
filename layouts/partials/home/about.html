@@ -7,6 +7,15 @@
   {{- with site.Params.homeAboutBlurb }}
   <p class="home-about-blurb">{{ . }}</p>
   {{- end }}
+  {{- /* 職涯諮詢 reads as the next sentence of the intro rather than a fourth
+         link or a button — same face, size and colour as the blurb above it, so
+         nothing new is introduced into the block (EC's call, 2026-08-02, after
+         a pill and a hairline section were both rejected as 突兀). Matches the
+         career-post footer nudge. On mobile this block sits above the post
+         list, so the consultation no longer needs the hamburger menu. */}}
+  {{- with site.Data.portfolio.consultation_link.zh }}
+  <p class="home-about-blurb">正在尋找職涯導師嗎？歡迎預約 <a href="{{ .url | relLangURL }}">雲端架構師 EC 線上職涯諮詢</a></p>
+  {{- end }}
   <a class="home-about-link" href="{{ site.Params.homeAboutLink | relLangURL }}">→ 認識 EC ☁️ </a>
   <a class="home-about-link" href="https://buy.stripe.com/6oUcN7euk0030zj4zU4Ja00" target="_blank" rel="noopener noreferrer">→ 請EC喝咖啡 ☕️</a>
 </div>

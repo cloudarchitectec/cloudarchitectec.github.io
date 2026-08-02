@@ -154,6 +154,23 @@ body:has(.home-shell) .header-social-icons {
   opacity: .8;
 }
 
+/* The 職涯諮詢 sentence is a second .home-about-blurb — no styling of its own
+   beyond the paragraph gap and the inline link, so it reads as more intro copy
+   rather than as a CTA bolted onto the block. */
+.home-about-blurb + .home-about-blurb {
+  margin-top: 10px;
+}
+
+.home-about-blurb a {
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.home-about-blurb a:hover {
+  opacity: .8;
+}
+
 /* ---- Newsletter ---- */
 
 .home-newsletter,
