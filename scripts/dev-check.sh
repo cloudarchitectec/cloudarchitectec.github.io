@@ -65,7 +65,7 @@ spellcheck_dry_run() {
   fi
 }
 
-# Keep docs/POSTS-INDEX.md (the post-location map for humans/AI) in sync with content.
+# Keep docs/POSTS-INDEX.md in sync with content.
 # Cheap; regenerate on every run so it is never stale before a commit.
 "$PYTHON" scripts/gen-posts-index.py
 
