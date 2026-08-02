@@ -1,5 +1,3 @@
-/* Custom 404 (layouts/404.html) — quiet editorial, colours/fonts from theme.css tokens.
-   Link treatment mirrors the post-footer nudges (mono, accent, arrow prefix). */
 
 .not-found-page {
   max-width: 680px;

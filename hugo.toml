@@ -49,7 +49,7 @@ disablePathToLower = true
   authorImage = "/ec-logo.png"
   consultationBookingUrl = "https://cal.com/cloudarchitectec/career-consultation"
 
-  # Homepage redesign copy (layouts/index.html) — edit here, not in templates
+  # Homepage copy (layouts/index.html) — edit here, not in templates
   homeAboutName = "澳洲雲端架構師 EC"
   homeAboutBlurb = "曾任 Amazon 與微軟雲端架構師，現為資深 DevOps 工程師。分享轉職工程師、澳洲職場與 FIRE 理財規劃的系統性攻略。"
   homeAboutLink = "/portfolio/career-zh/"
@@ -62,9 +62,9 @@ disablePathToLower = true
   # Enable Waline comments
   comments = true
 
-  # Deliberately placed BEFORE the [params.analytics]/[params.schema] sub-tables so it binds
-  # to [params] directly — the Show* flags after those sub-tables silently bind to
-  # [params.schema] and are dead (see claude-plan.md C25 notes). Carved out on purpose.
+  # Must stay BEFORE the [params.analytics]/[params.schema] sub-tables so it binds to
+  # [params] directly — any Show* flag placed after them binds to [params.schema] instead
+  # and is silently dead.
   ShowCodeCopyButtons = true
 
   # SEO and Analytics enhancements
@@ -174,8 +174,7 @@ disablePathToLower = true
     #   name = "背景故事"
     #   url = "/posts/2018-01-01-iam-ec"
     #   weight = 10
-    # "認識EC" removed from global menu (2026-07-08): duplicated the homepage
-    # 關於EC / 認識我 CTA; homepage redesign wireframe dropped it from the header.
+    # "認識EC" is not in the global menu — the homepage About block links to it.
     [[languages.zh-hant.menu.main]]
       name = "文章列表"
       url = "/posts/2018-01-02-ec-post-list"
@@ -200,8 +199,7 @@ disablePathToLower = true
       name = "搜尋"
       url = "/search"
       weight = 60
-    # "→ 請EC喝咖啡 ☕️" moved out of the header (2026-07-11): now a CTA under the
-    # homepage About block (→ 認識 EC ☁️  / 請EC喝咖啡), see partials/home/about.html.
+    # "請EC喝咖啡" is not in the header — it lives in partials/home/about.html.
 
 [markup]
   [markup.highlight]

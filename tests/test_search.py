@@ -8,7 +8,7 @@ Two things make naive automation lie here, so don't "simplify" this file:
    zero-result miss.
 2. ``press_sequentially`` is not enough **for CJK**. Playwright has no key mapping
    for 雲/端/…, so it falls back to CDP ``Input.insertText``, which fires ``input``
-   only — no keydown/keyup. Verified 2026-07-22: typing 雲端 that way yields
+   only — no keydown/keyup. Typing 雲端 that way yields
    ``events=['input','input']`` and 0 results; one real ``press("End")`` afterwards
    yields 28. ASCII queries are unaffected, which is why an English-only test
    would happily pass while Chinese looked broken. Real users are fine — IME
@@ -16,8 +16,8 @@ Two things make naive automation lie here, so don't "simplify" this file:
 3. The index is fetched inside a ``window.onload`` handler, i.e. *after* the load
    event. Typing before that resolves silently no-ops (``if (fuse)`` guard).
 
-Covers the C26 slim-index work (500-rune content cap + tags key) and guards the
-C32 removal of the dead chinese-search.js layer.
+Covers the slim search index (500-rune content cap + tags key) and guards against
+re-adding a wrapper layer around fastsearch.js.
 """
 
 from __future__ import annotations
@@ -37,7 +37,7 @@ CHINESE_QUERIES = [
 ENGLISH_QUERIES = ["AWS", "DevOps"]
 
 # Present only in a post's `tags`, never in its title/summary/content. Proves the
-# `tags` key added to fuseOpts in C26 is actually being searched.
+# `tags` key in fuseOpts is actually being searched.
 TAG_ONLY_QUERY = "軟體工程師"
 
 
@@ -75,7 +75,7 @@ class TestSearch:
         assert results.count() > 0, f"no results for English query {query!r}"
 
     def test_tag_only_query_matches(self, page: Page):
-        """C26 added `tags` to fuseOpts.keys — a tag-only term must still match."""
+        """`tags` is in fuseOpts.keys — a tag-only term must still match."""
         open_search(page)
         results = search_for(page, TAG_ONLY_QUERY)
         expect(results.first).to_be_visible(timeout=10_000)
@@ -100,8 +100,8 @@ class TestSearch:
         assert results.count() == 0, "nonsense query should return no results"
 
     def test_no_dead_search_layer(self, page: Page):
-        """C32: chinese-search.js was deleted. It also injected CSS that
-        out-specified PaperMod's overlay anchor rule — make sure neither returns."""
+        """No custom search layer on top of fastsearch.js. An earlier one also injected
+        CSS that out-specified PaperMod's overlay anchor rule — guard both."""
         open_search(page)
         html = page.content()
         assert "chinese-search" not in html

@@ -1,6 +1,6 @@
 # Site language is zh-Hant, which does not match the theme's i18n/zh-tw.yaml, so theme
 # strings fall back to English. Define only the keys we actually want translated —
-# adding more would silently change text on un-redesigned surfaces.
+# adding more would silently change text on surfaces this site does not style.
 - id: code_copy
   translation: "複製"
 

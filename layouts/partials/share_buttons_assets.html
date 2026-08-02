@@ -1,7 +1,4 @@
-{{/* Shared JS + CSS for the Medium-style share button. Include ONCE per page.
-     The script binds to every .share-toggle-button on the page, so a single
-     include covers both the single-post button and all post-list buttons.
-     Markup lives in partials/share_buttons.html. */}}
+{{/* Include ONCE per page — one script binds every .share-toggle-button on it. */}}
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   let isTransitioning = false;

@@ -72,9 +72,9 @@ class TestBuiltListPages:
         )
 
     def test_home_page_uses_three_column_layout_with_titles(self, built_site):
-        """Home page uses layouts/index.html (three-column redesign), not list.html."""
+        """Home page uses layouts/index.html, not list.html."""
         html = (built_site / HOME_PAGE).read_text(encoding="utf-8")
-        assert "home-shell" in html, "home page should render the redesigned three-column shell"
+        assert "home-shell" in html, "home page should render the two-column home shell"
         assert '<article class=home-post-entry' in html or '<article class="home-post-entry"' in html
         assert "post-title" in html
         assert "<a href=" in html
@@ -121,15 +121,14 @@ class TestBuiltListPages:
     def test_search_page_has_input_and_script(self, built_site):
         html = (built_site / SEARCH_PAGE).read_text(encoding="utf-8")
         assert 'id="searchInput"' in html or "id=searchInput" in html
-        # Search is PaperMod's fastsearch.js + fuse, tuned via [params.fuseOpts] (C26).
-        # The old chinese-search.js layer was deleted in C32 — it never ran.
+        # Search is PaperMod's fastsearch.js + fuse, tuned via [params.fuseOpts];
         # PaperMod concatenates fuse.js + fastsearch.js into one hashed bundle.
         assert "/assets/js/search." in html, "PaperMod search bundle missing from /search"
         assert 'id="searchResults"' in html or "id=searchResults" in html
 
     def test_search_index_is_slim(self, built_site):
-        """C26: index.json is capped at 500 runes of content per post. Guard the regression
-        back to the 4.6 MB full-content index."""
+        """index.json is capped at 500 runes of content per post — guard against
+        regressing to a multi-megabyte full-content index."""
         index = built_site / "index.json"
         assert index.is_file(), "search index not built"
         size_kb = index.stat().st_size / 1024

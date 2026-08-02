@@ -32,10 +32,8 @@
 
     {{- if $cover -}}
         {{- if (and (in $processableFormats $cover.MediaType.SubType) ($responsiveImages) (eq $prod true)) }}
-            {{- /* WebP <source> + original-format <img> fallback; og:image/RSS keep the
-                   untouched original via templates/opengraph.html / rss.xml. Full-width
-                   WebP only when it beats the original (small covers can re-encode larger);
-                   no worthwhile WebP variant -> plain <img>, no <picture>. */}}
+{{- /* og:image and RSS must keep the untouched original — see templates/opengraph.html
+       and rss.xml. WebP only when it beats the original; small covers can re-encode larger. */}}
             {{- $webpVariants := slice }}
             {{- /* Width 0 = Hugo couldn't decode the file (e.g. misnamed format) — skip
                    WebP entirely rather than crash the build on Resize */}}

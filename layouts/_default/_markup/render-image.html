@@ -35,10 +35,8 @@
     {{- $figureClass = printf "%s post-figure--wide" $figureClass -}}
   {{- end -}}
 {{- end -}}
-{{- /* Prod-only WebP variants (480/680/1000/1360w, capped at original width) in a
-       <picture> <source>; the untouched original stays as the <img> fallback.
-       `sizes` follows the rendered width: 680px article column, 420px portrait cap
-       (post-images.css). hugo server skips processing and serves originals. */ -}}
+{{- /* `sizes` must track the rendered widths in post-images.css (680px article
+       column, 420px portrait cap). hugo server serves originals, unprocessed. */ -}}
 {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) -}}
 {{- $webpSrcset := "" -}}
 {{- /* Width 0 = undecodable file (misnamed format) — skip WebP, keep plain <img> */ -}}
@@ -69,8 +67,6 @@
 {{- if $webpSrcset }}
 </picture>
 {{- end }}
-{{- /* Caption comes from the markdown image title: ![alt](src "caption").
-       Styled by `.post-figure figcaption` in post-images.css. */ -}}
 {{- with .Title }}
 <figcaption>{{ . }}</figcaption>
 {{- end }}

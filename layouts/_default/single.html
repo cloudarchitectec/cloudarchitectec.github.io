@@ -1,7 +1,5 @@
 {{- define "main" }}
 
-{{- /* C25 redesign — single-column editorial article (1A).
-       No TOC, no prev/next; comments last. */ -}}
 <article class="post-single">
   <header class="post-header">
     {{- if not .Date.IsZero }}
@@ -39,7 +37,6 @@
   {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
   {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
 
-  {{- /* Share also shown right under the hero (assets partial is loaded once in the footer). */ -}}
   {{- if (ne (.Param "disableShare") true) }}
   <div class="post-share post-share-hero">
     {{- partial "share_buttons.html" . }}
@@ -63,9 +60,9 @@
       <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
-    {{- /* Share always shown in the footer (C25); per-post opt-out via `disableShare`.
-           Not gated on site ShowShareButtons — that key is currently unreachable due to
-           the hugo.toml [params.schema] nesting bug (see plan § C25 follow-up). */ -}}
+    {{- /* Share always shown; per-post opt-out via `disableShare`. Not gated on site
+           ShowShareButtons — that key is unreachable while it sits below the
+           [params.schema] table in hugo.toml. */ -}}
     {{- if (ne (.Param "disableShare") true) }}
     <div class="post-share">
       {{- partial "share_buttons.html" . }}

@@ -1,7 +1,4 @@
-{{- /* Overridden from theme: resolve cover.image via page-bundle resources
-       (see templates/_funcs/resolve-cover-image.html) instead of a plain
-       absURL, which produces a 404'ing site-root path for bundle covers
-       and breaks link-preview thumbnails on Threads/Facebook/X. */}}
+{{- /* Theme override — a plain absURL 404s for page-bundle covers. */}}
 {{- if .Params.cover.image -}}
 <meta name="twitter:card" content="summary_large_image">
 {{- with partial "templates/_funcs/resolve-cover-image.html" . }}
@@ -13,8 +10,6 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ .Permalink }}">
 {{- else -}}
-{{- /* Cover-less, imageless pages: use the branded default banner so X/Threads
-       render a large image card instead of a bare text card. */}}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ "og-default.png" | absURL }}">
 {{- end -}}

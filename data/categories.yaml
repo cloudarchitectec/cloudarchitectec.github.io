@@ -2,8 +2,8 @@
 #
 # order: display sequence on the ec-post-list page (categorized-posts shortcode)
 # meta: allowed in front matter but hidden from the post-list page (e.g. EC)
-# consultation_cta: categories whose post footer swaps the coffee nudge for the
-#   職涯諮詢 CTA — readers of career posts are the ones the consultation is for.
+# consultation_cta: categories whose post footer shows the 職涯諮詢 nudge
+#   instead of the coffee one
 
 order:
   - 澳洲職場

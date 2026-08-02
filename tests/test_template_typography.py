@@ -2,19 +2,17 @@
 
 Full-width punctuation carries its own left sidebearing, so a space in front of
 it is always wrong in zh-TW — 「歡迎預約 ：」 renders with a visible gap. These
-slip in through repo-wide find-and-replace: editing one phrase in a post also
-rewrites the same phrase in `data/`, where nothing was proofreading it (that is
-exactly how `portfolio.yaml` picked one up on 2026-08-02).
+arrive via repo-wide find-and-replace, which reaches data files that no other
+check proofreads.
 
-Deliberately NOT a `check-spelling.py` rule. That script only scans posts and
-drafts, so it would have missed the data-file case entirely; and over the post
-corpus the same pattern fires ~146 times, ~two thirds of them EC's habitual
-`* **項目** ：說明` list style rather than typos. Prose needs a judgement call
-and a baseline file. Templates and data don't: they are short strings with no
-markdown, so any hit here is a genuine accident.
+Posts are out of scope, and this is not a `check-spelling.py` rule: that script
+never scans `data/`, and over the post corpus the pattern fires ~146 times with
+roughly two thirds being the `* **項目** ：說明` list style rather than typos.
+Prose would need a baseline file; templates and data are short strings with no
+markdown, so a hit here is always an accident.
 
-Opening marks (（「『【) are excluded on purpose — in markdown a space before
-them is usually required syntax (`### 「大學」`, `* 「A Cloud Guru」`).
+Opening marks (（「『【) are excluded — in markdown a space before them is
+usually required syntax (`### 「大學」`, `* 「A Cloud Guru」`).
 """
 
 from __future__ import annotations

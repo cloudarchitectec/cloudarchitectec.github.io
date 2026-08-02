@@ -1,14 +1,3 @@
-{{/* C25 redesign — quiet post-footer nudges (subscribe + coffee), no card.
-     Homepage owns the full newsletter form; articles get comments instead, so
-     subscribe survives here only as a one-line, form-less link. Order in
-     single.html: tags → share → 你可能也喜歡 → these nudges → comments.
-
-     Career posts (data/categories.yaml § consultation_cta) swap the coffee
-     nudge for the 職涯諮詢 CTA — the ask that fits what they just read. Same
-     one-line shape as the other two nudges (EC, 2026-08-02: no button here);
-     it leads on relevance and position, not on styling. Subscribe stays put so
-     the readers who aren't ready to book still leave something behind. Two
-     lines either way, so the footer stays as light as it is today. */}}
 {{- $careerCats := site.Data.categories.consultation_cta | default slice }}
 {{- $isCareer := false }}
 {{- range .Params.categories }}

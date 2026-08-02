@@ -1,7 +1,3 @@
-/* Stale-content notice ({{< outdated >}}) — sits at the top of posts whose
-   facts have aged out. Quiet by design: it should read as an editorial note,
-   not an error banner. Amber carries the signal; text stays on theme tokens
-   so contrast holds in both themes. */
 
 .post-outdated {
   --outdated-rule: #b4791f;

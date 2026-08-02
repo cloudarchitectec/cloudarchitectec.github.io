@@ -1,4 +1,3 @@
-{{- /* Shared by the homepage's mobile intro block and desktop left rail — keep in sync. */ -}}
 <div class="home-about">
   <div class="home-about-head">
     <img class="home-about-avatar" src="{{ "ec-logo.png" | relURL }}" alt="{{ site.Params.homeAboutName | default site.Title }}" width="40" height="40" loading="lazy">
@@ -7,12 +6,6 @@
   {{- with site.Params.homeAboutBlurb }}
   <p class="home-about-blurb">{{ . }}</p>
   {{- end }}
-  {{- /* 職涯諮詢 reads as the next sentence of the intro rather than a fourth
-         link or a button — same face, size and colour as the blurb above it, so
-         nothing new is introduced into the block (EC's call, 2026-08-02, after
-         a pill and a hairline section were both rejected as 突兀). Matches the
-         career-post footer nudge. On mobile this block sits above the post
-         list, so the consultation no longer needs the hamburger menu. */}}
   {{- with site.Data.portfolio.consultation_link.zh }}
   <p class="home-about-blurb">正在尋找職涯導師嗎？歡迎預約 <a href="{{ .url | relLangURL }}">雲端架構師 EC 線上職涯諮詢</a></p>
   {{- end }}

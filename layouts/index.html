@@ -1,16 +1,7 @@
-{{- /*
-  Homepage — two-column editorial layout (re-design v7).
-  Home-only template: Hugo picks this over layouts/_default/list.html for
-  the home page, so tag/category/section lists are untouched.
-*/ -}}
 {{- define "main" }}
 
 <div class="home-shell">
 
-  {{- /* Compact About + categories shown above the post list on narrow screens
-         only (≤1023px); their rail copies hide there at the same breakpoint.
-         The newsletter is NOT duplicated here — on mobile it stays in the rail
-         below the posts (before the stats line). See home.css. */}}
   <div class="home-mobile-intro">
     {{- partial "home/about.html" . }}
     {{- partial "home/categories.html" . }}
@@ -58,9 +49,7 @@
       <article class="home-post-entry">
         {{- with $post.Params.cover.image }}
         <div class="home-post-thumb">
-          {{- /* Thumbs render at 148px (104px mobile) in a 4:3 crop — Fill a 2x variant
-                 instead of shipping the full-size original. Falls back to the raw file
-                 when the resource is missing/undecodable or in dev builds. */}}
+          {{- /* 296x222 = 2x the 148px rendered thumb. */}}
           {{- $thumb := $post.Resources.Get (strings.TrimPrefix "/" .) }}
           {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
           {{- if and $thumb $prod (in (slice "jpeg" "png" "webp") $thumb.MediaType.SubType) (gt $thumb.Width 0) }}
@@ -97,7 +86,6 @@
       {{- end }}
     </div>
 
-    {{- /* Shared share-button JS/CSS — included once for every button on this page. */}}
     {{- partial "share_buttons_assets.html" . }}
 
     <a class="home-view-all" href="{{ site.Params.homePostListUrl | relLangURL }}">查看全部文章 →</a>

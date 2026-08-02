@@ -1,13 +1,7 @@
-{{/*
-Shortcode to display posts grouped by categories
-Usage: {{< categorized-posts >}}
-*/}}
 
-{{/* Get all regular pages (posts) that are not drafts */}}
 {{ $posts := where .Site.RegularPages "Type" "posts" }}
 {{ $posts = where $posts "Draft" false }}
 
-{{/* Auto-discover all categories used in posts */}}
 {{ $allCategories := slice }}
 {{ range $posts }}
   {{ range .Params.categories }}
@@ -17,7 +11,6 @@ Usage: {{< categorized-posts >}}
   {{ end }}
 {{ end }}
 
-{{/* Apply custom order from data/categories.yaml; append any extras alphabetically */}}
 {{ $ordered := slice }}
 {{ $preferred := default (slice) .Site.Data.categories.order }}
 {{ range $preferred }}
@@ -31,7 +24,6 @@ Usage: {{< categorized-posts >}}
   {{ end }}
 {{ end }}
 
-{{/* Display posts by category; skip meta "EC" category */}}
 <div class="cat-posts">
 {{ range $ordered }}
   {{ $category := . }}

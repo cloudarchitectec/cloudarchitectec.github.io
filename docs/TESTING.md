@@ -227,6 +227,6 @@ Out of scope: live MailerLite submit, Waline comment post, external URL reachabi
 
 New posts: [`tools/blog-publisher/pre-publish-post.py`](../tools/blog-publisher/pre-publish-post.py) emits front matter matching `check-posts.py` rules and runs validation before copy. See [`tools/blog-publisher/README.md`](../tools/blog-publisher/README.md).
 
-Optional before publish: `python3 scripts/check-spelling.py --fix --post SLUG` (British English, zh-TW spacing, emphasis). Rules in [`scripts/spellcheck-references/`](../scripts/spellcheck-references/).
+Optional before publish: `python3 scripts/check-spelling.py --fix --post SLUG` (British English, zh-TW spacing, emphasis).
 
 Manual `hugo server` checks remain useful for subjective layout (spacing, typography, dark mode).
