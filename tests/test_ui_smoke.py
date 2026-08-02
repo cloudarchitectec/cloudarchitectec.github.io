@@ -15,9 +15,8 @@ PAGINATED_TAG_PAGE = "/tags/旅遊/page/2/"
 CATEGORY_PAGE = "/categories/旅行紀錄/"
 STABLE_POST = "/posts/2025-10-04-goodbye-medium/"
 RELATED_POST = "/posts/2026-06-17-retirement-plan/"
-# A short (≤5-post) series that renders the full series-nav list. Previously the
-# PE series; that was consolidated to 2 posts and de-serialised (2026-07-11), so this
-# points at the stable 4-part 斐濟旅記 travel series instead.
+# A short (≤5-post) series that renders the full series-nav list — the stable
+# 4-part 斐濟旅記 travel series.
 SERIES_POST_SHORT = "/posts/2024-01-30-fiji-day-1/"
 CV_PAGE_CAREER_ZH = "/portfolio/career-zh/"
 CV_PAGE_CAREER_EN = "/portfolio/career-en/"
@@ -63,8 +62,8 @@ class TestUiSmoke:
         )
 
     def test_stable_post_footer(self, page: Page):
-        # C25 redesign: the amber MailerLite card was replaced by two quiet one-line
-        # nudges (subscribe → home #newsletter, coffee → Stripe), with comments last.
+        # Two one-line nudges (subscribe → home #newsletter, coffee → Stripe),
+        # then comments.
         page.goto(STABLE_POST)
         expect(page.locator("h1.post-title")).to_be_visible()
         expect(page.locator(".post-nudges")).to_be_visible()
@@ -173,7 +172,7 @@ class TestMobileUiSmoke:
         toggle.click()
         expect(toggle).to_have_attribute("aria-expanded", "true")
         expect(mobile_page.locator("#menu").get_by_role("link", name="搜尋")).to_be_visible()
-        # Coffee CTA moved out of the header nav into the homepage About block (2026-07-11).
+        # The coffee CTA lives in the homepage About block, not the header nav.
         expect(
             mobile_page.locator(".home-mobile-intro").get_by_role("link", name="→ 請EC喝咖啡 ☕️")
         ).to_be_visible()
@@ -187,7 +186,7 @@ class TestMobileUiSmoke:
         assert_no_horizontal_overflow(mobile_page)
 
     def test_mobile_post_footer_nudges_fit_viewport(self, mobile_page: Page):
-        # C25 redesign: MailerLite footer form replaced by form-less nudge links.
+        # The post footer carries form-less nudge links, not a newsletter form.
         mobile_page.goto(STABLE_POST)
         expect(mobile_page.locator(".post-nudges")).to_be_visible()
         expect(mobile_page.locator(".post-nudge--coffee a")).to_be_visible()

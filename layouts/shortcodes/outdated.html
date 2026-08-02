@@ -1,14 +1,3 @@
-{{- /* Notice for posts whose facts have aged out (policy, pricing, tax rules).
-
-  Keeps the post — and its URL — in place while being honest that the numbers
-  have moved. Inner content is markdown: list what changed and point at the
-  authoritative source.
-
-    {{< outdated written="2023 年 9 月" reviewed="2026-07" >}}
-    - 補助金已由 $15,000 調高至 $30,000
-    最新規定請以 [官方頁面](https://example.gov.au/) 為準。
-    {{< /outdated >}}
-*/ -}}
 {{- $written := .Get "written" -}}
 {{- $reviewed := .Get "reviewed" -}}
 {{- $title := .Get "title" | default (cond (ne $written "") (printf "本文寫於 %s，資訊已過時" $written) "本文資訊已過時") -}}

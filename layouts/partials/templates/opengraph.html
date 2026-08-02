@@ -12,10 +12,8 @@
   <meta property="og:description" content="{{ . }}">
 {{- end }}
 
-{{- /* og:locale must be Facebook's ll_CC form (e.g. zh_TW), NOT the site's
-       BCP-47 languageCode (zh-Hant), which FB reports as an invalid locale.
-       Prefer a page override, then site.Params.og_locale, then fall back to
-       the theme's languageCode for anyone who hasn't set og_locale. */}}
+{{- /* og:locale must be Facebook's ll_CC form (zh_TW); the site's BCP-47 languageCode
+       (zh-Hant) is rejected as invalid. */}}
 {{- with or .Params.locale site.Params.og_locale site.Language.LanguageCode site.Language.Lang }}
   <meta property="og:locale" content="{{ . }}">
 {{- end }}
@@ -39,19 +37,13 @@
   <meta property="og:type" content="website">
 {{- end }}
 
-{{- /* Overridden from theme: resolve cover.image via page-bundle resources
-       (see templates/_funcs/resolve-cover-image.html) instead of a plain
-       absURL, which produces a 404'ing site-root path for bundle covers
-       and breaks link-preview thumbnails on Threads/Facebook/X. */}}
+{{- /* Theme override — a plain absURL 404s for page-bundle covers. */}}
 {{- if .Params.cover.image -}}
   {{- with partial "templates/_funcs/resolve-cover-image.html" . }}
     <meta property="og:image" content="{{ . }}">
   {{- end }}
-  {{- /* Emit og:image:width/height/type so Facebook can lay out the card on
-         the FIRST scrape instead of showing a blank preview until re-scrape.
-         Re-run the same bundle/global resource lookup resolve-cover-image.html
-         uses; only emit dimensions when the cover resolves to a real resource
-         (a plain-URL fallback cover has no measurable Width/Height). */}}
+{{- /* Dimensions let Facebook lay out the card on the first scrape instead of showing
+       a blank preview until re-scrape. Only a real resource has measurable Width/Height. */}}
   {{- $coverRes := "" }}
   {{- with .Params.cover.image }}
     {{- $coverRes = or (($.Resources.ByType "image").GetMatch (printf "*%s*" .)) ((resources.ByType "image").GetMatch (printf "*%s*" .)) }}
@@ -70,9 +62,6 @@
       <meta property="og:image" content="{{ .Permalink }}">
     {{- end }}
   {{- else }}
-    {{- /* Cover-less, imageless pages (homepage, tag/list pages): fall back to
-           the branded default banner (static/og-default.png) so shares still
-           render a card instead of a text-only preview. */}}
     <meta property="og:image" content="{{ "og-default.png" | absURL }}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">

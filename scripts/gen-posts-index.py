@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 """Generate docs/POSTS-INDEX.md — a one-file map of every post.
 
-Purpose: let humans and AI assistants locate a post by title / category /
-tags / summary WITHOUT grepping or globbing all 200+ post bundles. Read the
-index, then open the one file you need.
-
-Source of truth is always the posts themselves; this file is derived. Regenerate
-after adding or editing posts:
+Locate a post by title / category / tags / summary from the index instead of
+globbing 200+ post bundles. The posts are the source of truth; this file is
+derived. Regenerate after adding or editing posts:
 
     python3 scripts/gen-posts-index.py            # rewrite docs/POSTS-INDEX.md
     python3 scripts/gen-posts-index.py --check    # exit 1 if stale (CI/pre-commit)

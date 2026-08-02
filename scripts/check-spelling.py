@@ -10,7 +10,6 @@ Usage:
   python3 scripts/check-spelling.py --file tools/blog-publisher/input/slug.md
   python3 scripts/check-spelling.py --json --report-file report.md
 
-Rules reference: scripts/spellcheck-references/
 """
 
 from __future__ import annotations
@@ -30,7 +29,7 @@ POSTS_DIR = REPO_ROOT / "content" / "posts"
 DRAFTS_DIR = REPO_ROOT / "content" / "drafts"
 PUBLISHER_INPUT_DIR = REPO_ROOT / "tools" / "blog-publisher" / "input"
 
-DRAFT_GLOBS = ("index.md", "outline-cursor.md", "data-table.md")
+DRAFT_GLOBS = ("index.md", "outline.md", "data-table.md")
 
 AE_BE_PAIRS: list[tuple[str, str]] = [
     ("organizations", "organisations"),
@@ -826,7 +825,7 @@ def _is_structural_bold(text: str, start: int, end: int) -> bool:
 def apply_emphasis_hygiene(
     text: str, fix: bool, changes: list[Change], flags: list[Flag]
 ) -> str:
-    """Normalise markdown bold in Chinese prose. See references/emphasis-rules.md."""
+    """Normalise markdown bold in Chinese prose."""
 
     def repl(m: re.Match[str]) -> str:
         orig = m.group(0)

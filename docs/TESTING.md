@@ -185,6 +185,7 @@ Runs after deploy on `main` only. Retries curl against `/`, `/index.xml`, `/site
 | `tests/test_search.py` | Playwright `/search` — zh/en queries, tag-only match, dead-link guard. **CJK needs a trailing real keypress**: Playwright types 雲端 via `Input.insertText`, which fires `input` but not `keyup`, and fastsearch binds `onkeyup` → silent false zeros. See the module docstring before editing |
 | `tests/test_a11y.py` | axe serious/critical (`color-contrast` allowlisted) |
 | `tests/test_spellcheck.py` | Post spellcheck: British EN, zh-TW spacing, emphasis hygiene |
+| `tests/test_template_typography.py` | No space before full-width punctuation in `data/`, `i18n/`, `layouts/`, `hugo.toml` — catches repo-wide find-and-replace collateral. Posts are out of scope on purpose (see the module docstring) |
 | `tests/hugo_site.py` | Hugo build + static server helpers |
 | `tests/conftest.py` | Shared fixtures and module loaders |
 
@@ -226,6 +227,6 @@ Out of scope: live MailerLite submit, Waline comment post, external URL reachabi
 
 New posts: [`tools/blog-publisher/pre-publish-post.py`](../tools/blog-publisher/pre-publish-post.py) emits front matter matching `check-posts.py` rules and runs validation before copy. See [`tools/blog-publisher/README.md`](../tools/blog-publisher/README.md).
 
-Optional before publish: `python3 scripts/check-spelling.py --fix --post SLUG` (British English, zh-TW spacing, emphasis). Rules in [`scripts/spellcheck-references/`](../scripts/spellcheck-references/).
+Optional before publish: `python3 scripts/check-spelling.py --fix --post SLUG` (British English, zh-TW spacing, emphasis).
 
 Manual `hugo server` checks remain useful for subjective layout (spacing, typography, dark mode).

@@ -1,7 +1,3 @@
-/* C25 redesign — quiet post-footer nudges (subscribe + coffee).
-   Replaces the old amber MailerLite card. Sits between 你可能也喜歡 and comments.
-   Homepage owns the full newsletter form; here subscribe is a one-line link only. */
-
 .post-single .post-footer {
   margin-top: 2rem;
   margin-bottom: 0;
@@ -22,9 +18,9 @@
 }
 
 .post-nudge a {
-  font-family: var(--font-mono);
-  font-size: 14px;
-  font-weight: 500;
+  font-family: var(--font-sans);
+  font-size: inherit;
+  font-weight: 600;
   color: var(--accent);
   text-decoration: none;
   text-underline-offset: 3px;

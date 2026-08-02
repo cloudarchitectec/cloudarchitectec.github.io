@@ -22,9 +22,7 @@
   "wordCount" : "{{ .WordCount }}",
   "inLanguage": {{ .Language.Lang | default "en-us" }},
   {{ if .Params.cover.image -}}
-    {{- /* Overridden from theme: resolve cover.image via page-bundle resources
-           (see templates/_funcs/resolve-cover-image.html) instead of a plain
-           absURL, which produces a 404'ing site-root path for bundle covers. */ -}}
+{{- /* Theme override — a plain absURL 404s for page-bundle covers. */ -}}
     {{- with partial "templates/_funcs/resolve-cover-image.html" . -}}
   "image": {{ . }},
     {{- end }}

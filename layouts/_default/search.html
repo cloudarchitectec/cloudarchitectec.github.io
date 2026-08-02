@@ -27,7 +27,7 @@
 </div>
 
 {{/* Search is served entirely by PaperMod's fastsearch.js, tuned via [params.fuseOpts]
-     in hugo.toml (C26). The old assets/js/chinese-search.js "enhanced" layer was deleted —
-     it polled for window.fuse, which fastsearch.js never exposes, so it never ran. */}}
+     in hugo.toml. Don't add a wrapper layer around window.fuse — fastsearch.js
+     never exposes it. */}}
 
 {{- end }}{{/* end main */}}

@@ -1,9 +1,3 @@
-{{/*
-Shared blog-stats rendering used by:
-  - shortcodes/analytics-stats.html ({{< analytics-stats >}} inside markdown content)
-  - layouts/index.html (homepage right rail)
-Kept as one partial so the two call sites never drift.
-*/}}
 {{- $analytics := site.Data.analytics -}}
 
 {{- if $analytics -}}

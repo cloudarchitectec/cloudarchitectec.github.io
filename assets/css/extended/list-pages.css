@@ -1,12 +1,3 @@
-/* ============================================================================
-   C25 redesign — secondary pages aligned to the home/post design language.
-   Token-alignment only; reuses existing patterns (mono meta, hairline dividers,
-   accent links, the post-footer mono tag pill). Covers:
-     · /tags/   (PaperMod terms.html → .page-header + .terms-tags)
-     · /search/ (search.html → #searchbox / #searchResults)
-     · /posts/2018-01-02-ec-post-list/ (categorized-posts shortcode → .cat-posts)
-   ========================================================================== */
-
 /* ---- Shared page header (tags, search) — match the post title, not PaperMod's 40px ---- */
 .page-header h1 {
   font-size: 31px;

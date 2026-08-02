@@ -1,14 +1,24 @@
-{{/* C25 redesign — quiet post-footer nudges (subscribe + coffee), no card.
-     Homepage owns the full newsletter form; articles get comments instead, so
-     subscribe survives here only as a one-line, form-less link. Order in
-     single.html: tags → share → 你可能也喜歡 → these nudges → comments. */}}
+{{- $careerCats := site.Data.categories.consultation_cta | default slice }}
+{{- $isCareer := false }}
+{{- range .Params.categories }}
+{{- if in $careerCats . }}{{ $isCareer = true }}{{ end }}
+{{- end }}
 <div class="post-nudges">
+  {{- if $isCareer }}
+  {{- with site.Data.portfolio.consultation_link.zh }}
+  <p class="post-nudge post-nudge--cta">
+    正在尋找職涯導師嗎？歡迎預約 <a href="{{ .url | relLangURL }}">雲端架構師 EC 線上職涯諮詢 ☁️</a>
+  </p>
+  {{- end }}
+  {{- end }}
   {{- if .Site.Params.newsletter.enabled }}
   <p class="post-nudge post-nudge--subscribe">
     喜歡這篇？<a href="{{ "/" | relLangURL }}#newsletter">訂閱電子報 📮</a>
   </p>
   {{- end }}
+  {{- if not $isCareer }}
   <p class="post-nudge post-nudge--coffee">
     喜歡 EC 的文章嗎？<a href="https://buy.stripe.com/6oUcN7euk0030zj4zU4Ja00" target="_blank" rel="noopener noreferrer">請EC喝杯咖啡吧☕️</a>
   </p>
+  {{- end }}
 </div>

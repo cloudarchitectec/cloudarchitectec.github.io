@@ -1,8 +1,3 @@
-/* ============================================================================
-   C25 redesign — article single page (1A, single-column editorial).
-   Structural chrome only; colours/fonts come from theme.css tokens.
-   ========================================================================== */
-
 /* ---- Header: eyebrow (date) → title → description → meta ---- */
 .post-single .post-eyebrow {
   margin: 0.9rem 0 0.5rem;
