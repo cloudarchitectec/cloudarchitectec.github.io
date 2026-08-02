@@ -40,10 +40,6 @@ tools/medium-legacy/
 # -----------------------
 # Private project docs
 # -----------------------
-.agents/skills/
-.cursor/
-.claude/
-CLAUDE.md
 content/drafts/
 google-search-console/
 

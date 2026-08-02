@@ -29,7 +29,7 @@ POSTS_DIR = REPO_ROOT / "content" / "posts"
 DRAFTS_DIR = REPO_ROOT / "content" / "drafts"
 PUBLISHER_INPUT_DIR = REPO_ROOT / "tools" / "blog-publisher" / "input"
 
-DRAFT_GLOBS = ("index.md", "outline-cursor.md", "data-table.md")
+DRAFT_GLOBS = ("index.md", "outline.md", "data-table.md")
 
 AE_BE_PAIRS: list[tuple[str, str]] = [
     ("organizations", "organisations"),
