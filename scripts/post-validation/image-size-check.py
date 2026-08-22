@@ -11,9 +11,10 @@ from dataclasses import dataclass
 from pathlib import Path
 
 try:
-    from PIL import Image
+    from PIL import Image, ImageOps
 except ImportError:  # pragma: no cover
     Image = None  # type: ignore
+    ImageOps = None  # type: ignore
 
 IMAGE_SUFFIXES = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".tif", ".tiff", ".bmp"}
 
@@ -283,7 +284,11 @@ def optimize_image(path: Path, role: str) -> tuple[bool, str]:
 
     with Image.open(path) as img:
         img.load()
-        working = img
+        # iPhone photos commonly store the camera orientation in EXIF rather
+        # than rotating the pixel data. We remove EXIF when optimising, so bake
+        # that orientation into the pixels first; otherwise the published JPEG
+        # appears sideways or upside down.
+        working = ImageOps.exif_transpose(img)
         if not as_png and working.mode not in ("RGB", "L"):
             working = working.convert("RGB")
         elif as_png and working.mode not in ("RGB", "RGBA", "P", "L"):
