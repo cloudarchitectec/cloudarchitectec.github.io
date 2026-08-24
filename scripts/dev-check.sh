@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Local validation wrapper — see docs/TESTING.md for tier overview.
+# Local validation wrapper.
 #
 # Usage:
 #   ./scripts/dev-check.sh              # check-posts + fast unit tests (~5s)
