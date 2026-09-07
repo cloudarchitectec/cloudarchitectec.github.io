@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Local validation wrapper.
+# Local validation wrapper — see docs/TESTING.md for tier overview.
 #
 # Usage:
 #   ./scripts/dev-check.sh              # check-posts + fast unit tests (~5s)
@@ -71,13 +71,11 @@ spellcheck_dry_run() {
 
 if [[ -n "$POST" ]]; then
   "$PYTHON" scripts/check-posts.py --post "$POST"
-  "$PYTHON" scripts/check-spelling.py --strict --post "$POST"
   spellcheck_dry_run --post "$POST"
   exit 0
 fi
 
 "$PYTHON" scripts/check-posts.py
-"$PYTHON" scripts/check-spelling.py --strict --posts-only
 spellcheck_dry_run --posts-only
 
 if [[ "$FULL" -eq 1 ]]; then

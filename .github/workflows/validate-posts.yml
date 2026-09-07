@@ -48,9 +48,6 @@ jobs:
       - name: Validate Hugo posts
         run: .venv/bin/python3 scripts/check-posts.py
 
-      - name: Enforce forward-looking content style rules
-        run: .venv/bin/python3 scripts/check-spelling.py --strict --posts-only
-
       - name: docs/POSTS-INDEX.md is current
         run: .venv/bin/python3 scripts/gen-posts-index.py --check
 

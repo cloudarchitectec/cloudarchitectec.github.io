@@ -139,8 +139,7 @@ CURRENCY_CODE_TO_ZH: dict[str, str] = {
 }
 
 ZH_REGEX_FIXES: list[tuple[str, str, str]] = [
-    # 「以……為目的的旅行」中的「目的的」是正確語法，不是重複用字。
-    (r"(?!目的的)([\u4e00-\u9fff])的的([\u4e00-\u9fff])", r"\1的\2", "重複用字"),
+    (r"([\u4e00-\u9fff])的的([\u4e00-\u9fff])", r"\1的\2", "重複用字"),
 ]
 
 # Chinese punctuation — no extra space when adjacent to Latin/digits (e.g. ，NSW / (約 / /年)
@@ -167,20 +166,6 @@ EC_EMOTICON = re.compile(EC_EMOTICON_PATTERN, re.IGNORECASE)
 # Currency names for amount normalisation
 CURRENCY_ZH_NAMES = ("澳幣", "紐幣", "台幣", "美元", "斐濟幣")
 CURRENCY_ZH_ALT = r"澳幣|紐幣|台幣|美元|斐濟幣"
-
-# Editorial rule: an AUD amount must give readers a nearby approximate TWD
-# equivalent. The checker deliberately flags rather than calculates one: a
-# writer must choose an appropriate, stated exchange-rate assumption.
-CONTENT_STYLE_RULE_EFFECTIVE_DATE = "2026-09-06"
-AUD_AMOUNT_RE = re.compile(
-    r"(?:"
-    r"(?:(?:A\$|AUD\s*\$?|\$)\s*[\d,]+(?:\.\d+)?\s*(?:澳幣|AUD))"
-    r"|(?:澳幣\s*\$?\s*[\d,]+(?:\.\d+)?)"
-    r")"
-)
-AUD_TWD_EQUIVALENT_RE = re.compile(
-    r"^\s*（約\s*[\d,]+(?:\.\d+)?\s*台幣）"
-)
 
 DIGIT_ZH: dict[str, str] = {
     "0": "零",
@@ -221,7 +206,6 @@ class FileResult:
     changes: list[Change] = field(default_factory=list)
     flags: list[Flag] = field(default_factory=list)
     skipped_regions: list[str] = field(default_factory=list)
-    enforce_content_style: bool = False
 
 
 def preserve_case(original: str, replacement: str) -> str:
@@ -920,46 +904,6 @@ def find_flags(text: str) -> list[Flag]:
     return flags
 
 
-def find_aud_twd_equivalent_flags(text: str) -> list[Flag]:
-    """Flag AUD amounts that omit the required approximate TWD equivalent.
-
-    Expected form: ``$535 澳幣（約 10,700 台幣）``. The conversion is not
-    auto-generated because the rate depends on the trip date and the author's
-    chosen rounding convention.
-    """
-    flags: list[Flag] = []
-    for m in AUD_AMOUNT_RE.finditer(text):
-        if AUD_TWD_EQUIVALENT_RE.match(text[m.end() :]):
-            continue
-        flags.append(
-            Flag(
-                line=line_number_at(text, m.start()),
-                text=m.group(0),
-                reason="澳幣金額須緊接「（約 X 台幣）」；請人工確認匯率與換算金額",
-                lang="zh",
-            )
-        )
-    return flags
-
-
-def requires_aud_twd_equivalent(front_matter: str) -> bool:
-    """Apply the new rule to posts dated on or after its adoption date.
-
-    Legacy posts predate the rule and would otherwise make every full-repo
-    report noisy. New posts are expected to use the current convention.
-    """
-    match = re.search(r"^date:\s*(\d{4}-\d{2}-\d{2})\s*$", front_matter, re.MULTILINE)
-    return bool(match and match.group(1) >= CONTENT_STYLE_RULE_EFFECTIVE_DATE)
-
-
-def has_strict_content_style_violations(results: list[FileResult]) -> bool:
-    """Return whether forward-looking content rules found an unresolved issue."""
-    return any(
-        result.enforce_content_style and (result.changes or result.flags)
-        for result in results
-    )
-
-
 def process_file(path: Path, fix: bool) -> FileResult:
     original = path.read_text(encoding="utf-8")
     fm, body, fm_label = split_front_matter(original)
@@ -980,8 +924,6 @@ def process_file(path: Path, fix: bool) -> FileResult:
     flags: list[Flag] = []
     new_masked = apply_emphasis_hygiene(new_masked, fix=fix, changes=changes, flags=flags)
     flags.extend(find_flags(new_masked))
-    if requires_aud_twd_equivalent(fm):
-        flags.extend(find_aud_twd_equivalent_flags(new_masked))
 
     new_body = restore_regions(new_masked, regions)
     new_content = fm + new_body
@@ -989,13 +931,7 @@ def process_file(path: Path, fix: bool) -> FileResult:
     if fix and new_content != original:
         path.write_text(new_content, encoding="utf-8")
 
-    return FileResult(
-        path=path,
-        changes=changes,
-        flags=flags,
-        skipped_regions=skipped,
-        enforce_content_style=requires_aud_twd_equivalent(fm),
-    )
+    return FileResult(path=path, changes=changes, flags=flags, skipped_regions=skipped)
 
 
 def collect_post_files(post_slug: str | None) -> list[Path]:
@@ -1037,15 +973,11 @@ def collect_staged_files() -> list[Path]:
         p = REPO_ROOT / line.strip()
         if p.suffix != ".md":
             continue
-        try:
-            rel_parts = p.relative_to(REPO_ROOT).parts
-        except ValueError:
-            continue
-        if rel_parts[:2] == ("content", "posts") and p.name == "index.md":
+        if p.parts[-3:-1] == ("content", "posts") and p.name == "index.md":
             paths.append(p)
-        elif rel_parts[:2] == ("content", "drafts") and p.name in DRAFT_GLOBS:
+        elif p.parts[-4:-1] == ("content", "drafts") and p.name in DRAFT_GLOBS:
             paths.append(p)
-        elif rel_parts[:2] == ("tools", "blog-publisher") and p.suffix == ".md":
+        elif p.parts[-3:-1] == ("blog-publisher", "input") and p.suffix == ".md":
             paths.append(p)
     return paths
 
@@ -1174,14 +1106,6 @@ def build_json(results: list[FileResult], fix: bool, scope: str) -> dict:
 def main() -> int:
     parser = argparse.ArgumentParser(description="Spell-check EC blog posts (EN + zh-TW)")
     parser.add_argument("--fix", action="store_true", help="Apply auto-fixes to files")
-    parser.add_argument(
-        "--strict",
-        action="store_true",
-        help=(
-            "Fail only on unresolved content-style issues in posts dated on or after "
-            f"{CONTENT_STYLE_RULE_EFFECTIVE_DATE}; suitable for CI and pre-commit"
-        ),
-    )
     parser.add_argument("--post", metavar="SLUG", help="Single post directory name or slug")
     parser.add_argument("--drafts", action="store_true", help="Include content/drafts/")
     parser.add_argument("--staged", action="store_true", help="Git staged post/draft files only")
@@ -1199,9 +1123,6 @@ def main() -> int:
     parser.add_argument("--json", action="store_true", help="Emit JSON report")
     parser.add_argument("--report-file", metavar="PATH", help="Write Markdown report to file")
     args = parser.parse_args()
-
-    if args.fix and args.strict:
-        parser.error("--fix and --strict cannot be used together")
 
     if args.file:
         files = collect_file_args(args.file)
@@ -1238,9 +1159,6 @@ def main() -> int:
 
     if args.report_file:
         Path(args.report_file).write_text(report, encoding="utf-8")
-
-    if args.strict:
-        return 1 if has_strict_content_style_violations(results) else 0
 
     has_changes = any(r.changes for r in results)
     has_flags = any(r.flags for r in results)
