@@ -40,6 +40,9 @@ tools/medium-legacy/
 # -----------------------
 # Private project docs
 # -----------------------
+docs/*
+!docs/
+!docs/POSTS-INDEX.md
 content/drafts/
 google-search-console/
 

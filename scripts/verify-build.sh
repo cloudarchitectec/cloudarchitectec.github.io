@@ -116,7 +116,7 @@ else
   echo "✅ Tag list layout OK"
 fi
 
-if grep -rE 'src=\\?"?images/' "${PUBLIC_DIR}/posts/"*/index.html; then
+if grep -rE '<img[^>]*[[:space:]]src=\\?"?images/' "${PUBLIC_DIR}/posts/"*/index.html; then
   echo "❌ Unresolved image src in built HTML (PaperMod could not resolve bundle resource)"
   exit 1
 fi
