@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+from types import SimpleNamespace
+
 from conftest import load_repo_module
 
 spellcheck = load_repo_module("scripts/check-spelling.py")
@@ -38,6 +40,54 @@ class TestAmountSpacing:
     def test_colloquial_wan_stays_compact(self):
         assert "澳幣六萬五" in _zh_amount_fix("澳幣 6 萬 5")
         assert "五萬六台幣" in _zh_amount_fix("5 萬 6 台幣")
+
+    def test_preserves_grammatical_mu_di_de(self):
+        assert _zh_amount_fix("以放鬆為目的的旅行") == "以放鬆為目的的旅行"
+
+
+class TestAudTwdEquivalents:
+    def test_aud_amount_requires_twd_equivalent(self):
+        flags = spellcheck.find_aud_twd_equivalent_flags("住宿是 $535 澳幣。")
+        assert len(flags) == 1
+        assert flags[0].text == "$535 澳幣"
+
+    def test_aud_amount_with_twd_equivalent_passes(self):
+        flags = spellcheck.find_aud_twd_equivalent_flags(
+            "住宿是 $535 澳幣（約 10,700 台幣）。"
+        )
+        assert flags == []
+
+    def test_aud_prefix_form_requires_twd_equivalent(self):
+        flags = spellcheck.find_aud_twd_equivalent_flags("住宿是澳幣 $535。")
+        assert len(flags) == 1
+
+    def test_rule_applies_only_from_adoption_date(self):
+        assert not spellcheck.requires_aud_twd_equivalent("date: 2026-08-22\n")
+        assert spellcheck.requires_aud_twd_equivalent("date: 2026-09-06\n")
+
+    def test_strict_mode_ignores_legacy_but_blocks_new_style_issues(self, tmp_path):
+        change = spellcheck.Change(line=1, before="traveling", after="travelling", lang="en")
+        legacy = spellcheck.FileResult(path=tmp_path / "legacy.md", changes=[change])
+        current = spellcheck.FileResult(
+            path=tmp_path / "current.md", changes=[change], enforce_content_style=True
+        )
+        assert not spellcheck.has_strict_content_style_violations([legacy])
+        assert spellcheck.has_strict_content_style_violations([current])
+
+
+class TestStagedFileCollection:
+    def test_collects_staged_post_index(self, monkeypatch):
+        monkeypatch.setattr(
+            spellcheck.subprocess,
+            "run",
+            lambda *args, **kwargs: SimpleNamespace(
+                stdout="content/posts/2026-09-06-example/index.md\n"
+            ),
+        )
+        files = spellcheck.collect_staged_files()
+        assert files == [
+            spellcheck.REPO_ROOT / "content/posts/2026-09-06-example/index.md"
+        ]
 
 
 class TestEmphasisHygiene:

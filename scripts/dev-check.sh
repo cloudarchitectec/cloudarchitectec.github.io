@@ -71,11 +71,13 @@ spellcheck_dry_run() {
 
 if [[ -n "$POST" ]]; then
   "$PYTHON" scripts/check-posts.py --post "$POST"
+  "$PYTHON" scripts/check-spelling.py --strict --post "$POST"
   spellcheck_dry_run --post "$POST"
   exit 0
 fi
 
 "$PYTHON" scripts/check-posts.py
+"$PYTHON" scripts/check-spelling.py --strict --posts-only
 spellcheck_dry_run --posts-only
 
 if [[ "$FULL" -eq 1 ]]; then
