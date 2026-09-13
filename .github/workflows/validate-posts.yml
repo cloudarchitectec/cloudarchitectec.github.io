@@ -43,7 +43,7 @@ jobs:
           git submodule update --init --recursive --force
 
       - name: Prepare Python venv
-        run: ENSURE_VENV_PLAYWRIGHT=1 bash scripts/ensure-venv.sh
+        run: bash scripts/ensure-venv.sh
 
       - name: Validate Hugo posts
         run: .venv/bin/python3 scripts/check-posts.py
