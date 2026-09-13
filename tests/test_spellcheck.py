@@ -62,3 +62,7 @@ class TestEmphasisHygiene:
             _emphasis_fix("連 **入場券（頭期款）** 都還在存")
             == "連「入場券（頭期款）」都還在存"
         )
+
+    def test_preserves_bold_list_labels_followed_by_full_width_colon(self):
+        original = "1. **有收據不代表就會全額獲賠**：仍可能扣除折舊。"
+        assert _emphasis_fix(original) == original
