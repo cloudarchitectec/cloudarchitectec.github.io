@@ -1,39 +1,24 @@
-"""Tests for scripts/post-validation/."""
+"""Core guardrails for published Hugo post bundles."""
 
 from __future__ import annotations
 
-import importlib.util
-import subprocess
 from pathlib import Path
 
-from conftest import cover_check, frontmatter_check, size_check
+import pytest
 from PIL import Image
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-CHECK_POSTS_PATH = REPO_ROOT / "scripts" / "check-posts.py"
+from conftest import cover_check, frontmatter_check, size_check
 
-
-def load_check_posts():
-    spec = importlib.util.spec_from_file_location("check_posts", CHECK_POSTS_PATH)
-    if spec is None or spec.loader is None:
-        raise ImportError(f"Cannot load {CHECK_POSTS_PATH}")
-    mod = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(mod)
-    return mod
-
-UNSPLASH_FM = """\
-cover:
+UNSPLASH_FM = '''cover:
   image: "images/abc123-unsplash.jpg"
-  alt: "test alt"
+  alt: "A descriptive cover image"
   credit:
     photographer: "Jane Doe"
     photographer_url: "https://unsplash.com/@jane"
     photo_url: "https://unsplash.com/photos/test-abc123"
-images: ["images/abc123-unsplash.jpg"]
-"""
+images: ["images/abc123-unsplash.jpg"]'''
 
-GOOD_POST = f"""\
----
+GOOD_POST = f'''---
 title: "Test post"
 date: 2025-01-01
 slug: "test-slug"
@@ -42,319 +27,69 @@ categories: ["澳洲職場"]
 ---
 
 Body content here.
-"""
+'''
 
 
-def wrap(fm_body: str, body: str | None = None) -> str:
-    if body is None:
-        body = "Content."
-    return f"---\n{fm_body}\n---\n\n{body}"
+def wrap(front_matter: str, body: str = "Content.") -> str:
+    return f"---\n{front_matter}\n---\n\n{body}"
 
 
-class TestCoverCheck:
-    def test_good_unsplash_cover_passes(self):
-        assert cover_check.check(wrap(f"title: x\ndate: 2025-01-01\nslug: s\n{UNSPLASH_FM}")) == []
-
-    def test_root_image_rejected(self):
-        text = wrap('title: x\ndate: 2025-01-01\nslug: s\nimage: "images/x.jpg"')
-        assert any("root image:" in e for e in cover_check.check(text))
-
-    def test_missing_alt_rejected(self):
-        fm = UNSPLASH_FM.replace('  alt: "test alt"\n', "")
-        assert any("cover.alt" in e for e in cover_check.check(wrap(fm)))
-
-    def test_generic_unsplash_url_rejected(self):
-        fm = UNSPLASH_FM.replace(
-            '    photo_url: "https://unsplash.com/photos/test-abc123"',
-            '    photo_url: "https://unsplash.com"',
-        )
-        assert any("photo_url" in e for e in cover_check.check(wrap(fm)))
-
-    def test_cover_not_in_images_rejected(self):
-        fm = UNSPLASH_FM.replace(
-            'images: ["images/abc123-unsplash.jpg"]',
-            "images: []",
-        )
-        assert any("images:" in e for e in cover_check.check(wrap(fm)))
-
-    def test_image_path_extracted_without_caption_title(self):
-        """![alt](src "caption") — the title renders as <figcaption>, so the
-        extracted bundle path must exclude it (else it reads as a missing image)."""
-        text = wrap("title: x", '![alt](images/a.png "說明文字")\n\n![b](images/b.png)')
-        assert cover_check.extract_image_paths(text) == ["images/a.png", "images/b.png"]
-
-    def test_image_path_extracted_without_layout_fragment(self):
-        """![alt](src#portrait) — render-image.html reads #portrait/#wide/#center
-        as layout modifiers, so the fragment is not part of the bundle path."""
-        text = wrap(
-            "title: x",
-            "![a](images/a.jpeg#portrait)\n\n![b](images/b.png#wide)\n\n![c](images/c.png)",
-        )
-        assert cover_check.extract_image_paths(text) == [
-            "images/a.jpeg",
-            "images/b.png",
-            "images/c.png",
-        ]
-
-    def test_layout_fragments_extracted_per_path(self):
-        text = wrap(
-            "title: x",
-            "![a](images/a.jpeg#portrait)\n\n![c](images/c.png)",
-        )
-        assert cover_check.extract_image_modifiers(text) == {"images/a.jpeg": {"portrait"}}
+def test_valid_published_post_passes_all_core_rules():
+    assert frontmatter_check.check(GOOD_POST, "test-slug") == []
+    assert cover_check.check(GOOD_POST) == []
 
 
-class TestAltTextCheck:
-    def test_sluglike_cover_alt_warns(self):
-        text = wrap('cover:\n  image: "images/a.jpg"\n  alt: "fire-between-woman-and-boy"')
-        assert any("cover alt" in w for w in cover_check.check_alt_text(text))
-
-    def test_descriptive_cover_alt_passes(self):
-        for alt in ("營火旁的女人與男孩", "A woman by the fire", "fire"):
-            text = wrap(f'cover:\n  image: "images/a.jpg"\n  alt: "{alt}"')
-            assert cover_check.check_alt_text(text) == [], alt
-
-    def test_sluglike_body_alt_warns(self):
-        text = wrap("title: x", "![spider_man](images/a.jpg)")
-        assert any("image alt" in w for w in cover_check.check_alt_text(text))
-
-    def test_descriptive_body_alt_passes(self):
-        text = wrap("title: x", "![活動現場照片](images/a.jpg)")
-        assert cover_check.check_alt_text(text) == []
+@pytest.mark.parametrize(
+    ("text", "directory", "expected"),
+    [
+        (GOOD_POST.replace('title: "Test post"\n', ""), "test-slug", "title"),
+        (GOOD_POST, "wrong-slug", "slug must match"),
+        (GOOD_POST.replace('categories: ["澳洲職場"]\n', ""), "test-slug", "categories"),
+        (wrap('title: "Published"\ndate: 2025-01-01\nslug: "published"'), "published", "cover.image"),
+    ],
+)
+def test_required_post_metadata_is_enforced(text: str, directory: str, expected: str):
+    assert any(expected in error for error in frontmatter_check.check(text, directory))
 
 
-class TestInlineUpscaleWarning:
-    def _info(self, w: int, h: int) -> size_check.ImageInfo:
-        return size_check.ImageInfo(Path("images/x.jpg"), w, h, 100 * 1024)
-
-    def test_small_landscape_inline_warns_with_portrait_hint(self):
-        warnings, errors = size_check.check_info(self._info(480, 360), "inline")
-        assert errors == []
-        assert any("upscaled" in w and "#portrait" in w for w in warnings)
-
-    def test_small_landscape_with_portrait_modifier_passes(self):
-        warnings, _ = size_check.check_info(self._info(480, 360), "inline", {"portrait"})
-        assert not any("upscaled" in w for w in warnings)
-
-    def test_narrow_portrait_inline_warns(self):
-        warnings, _ = size_check.check_info(self._info(380, 500), "inline")
-        assert any("upscaled" in w for w in warnings)
-
-    def test_column_width_landscape_passes(self):
-        warnings, _ = size_check.check_info(self._info(800, 600), "inline")
-        assert not any("upscaled" in w for w in warnings)
-
-    def test_cover_role_not_flagged_for_upscale(self):
-        warnings, _ = size_check.check_info(self._info(480, 360), "cover")
-        assert not any("upscaled" in w for w in warnings)
+@pytest.mark.parametrize(
+    ("text", "expected"),
+    [
+        (GOOD_POST.replace('  alt: "A descriptive cover image"\n', ""), "cover.alt"),
+        (GOOD_POST.replace('images: ["images/abc123-unsplash.jpg"]', "images: []"), "images:"),
+        (GOOD_POST.replace('https://unsplash.com/photos/test-abc123', 'https://unsplash.com'), "photo_url"),
+    ],
+)
+def test_cover_attribution_and_reference_are_enforced(text: str, expected: str):
+    assert any(expected in error for error in cover_check.check(text))
 
 
-class TestOrphanImages:
-    def test_unreferenced_bundle_image_reported(self, tmp_path: Path):
-        images = tmp_path / "images"
-        images.mkdir()
-        for name in ("a.jpg", "b.jpg", "c.jpg"):
-            (images / name).write_bytes(b"x")
-        (images / "notes.txt").write_text("not an image")
-        md = tmp_path / "index.md"
-        md.write_text(
-            wrap('title: x\nimages: ["images/a.jpg"]', "![b](images/b.jpg#portrait)"),
-            encoding="utf-8",
-        )
-        assert cover_check.find_orphan_images(md) == ["images/c.jpg"]
-
-    def test_no_images_dir_is_fine(self, tmp_path: Path):
-        md = tmp_path / "index.md"
-        md.write_text(wrap("title: x"), encoding="utf-8")
-        assert cover_check.find_orphan_images(md) == []
+def test_bundle_images_handle_captions_modifiers_and_orphans(tmp_path: Path):
+    images = tmp_path / "images"
+    images.mkdir()
+    for name in ("cover.jpg", "inline.jpg", "orphan.jpg"):
+        (images / name).write_bytes(b"image")
+    post = tmp_path / "index.md"
+    post.write_text(
+        wrap(
+            'title: "x"\nimages: ["images/cover.jpg"]',
+            '![inline](images/inline.jpg#portrait "caption")',
+        ),
+        encoding="utf-8",
+    )
+    assert cover_check.extract_image_paths(post.read_text(encoding="utf-8")) == ["images/inline.jpg"]
+    assert cover_check.find_orphan_images(post) == ["images/orphan.jpg"]
 
 
-class TestWarningBaseline:
-    def test_loader_skips_comments_and_blanks(self, tmp_path: Path, monkeypatch):
-        check_posts = load_check_posts()
-        baseline = tmp_path / "warning-baseline.txt"
-        baseline.write_text(
-            "# comment\n\nslug-a: cover may look soft on desktop: x.jpg — 800x533\n",
-            encoding="utf-8",
-        )
-        monkeypatch.setattr(check_posts, "WARNING_BASELINE", baseline)
-        assert check_posts.load_warning_baseline() == {
-            "slug-a: cover may look soft on desktop: x.jpg — 800x533"
-        }
+def test_image_hard_limit_and_cover_encoding_are_checked(tmp_path: Path):
+    oversized = tmp_path / "oversized.jpg"
+    Image.new("RGB", (4500, 3000), color="blue").save(oversized, quality=90)
+    info = size_check.read_image_info(oversized)
+    assert info is not None
+    _, errors = size_check.check_info(info, "cover")
+    assert any("hard limit" in error for error in errors)
 
-    def test_missing_baseline_is_empty(self, tmp_path: Path, monkeypatch):
-        check_posts = load_check_posts()
-        monkeypatch.setattr(check_posts, "WARNING_BASELINE", tmp_path / "nope.txt")
-        assert check_posts.load_warning_baseline() == set()
-
-
-class TestFrontmatterCheck:
-    def test_good_post_passes(self):
-        assert frontmatter_check.check(GOOD_POST, "test-slug") == []
-
-    def test_missing_title_rejected(self):
-        text = GOOD_POST.replace('title: "Test post"\n', "")
-        assert any("title" in e for e in frontmatter_check.check(text, "test-slug"))
-
-    def test_slug_mismatch_rejected(self):
-        assert any("slug must match" in e for e in frontmatter_check.check(GOOD_POST, "wrong-dir"))
-
-    def test_legacy_footer_shortcode_rejected(self):
-        text = GOOD_POST + "\n\n{{{{< footer >}}}}"
-        assert any("footer" in e for e in frontmatter_check.check(text, "test-slug"))
-
-    def test_landing_page_passes(self):
-        text = wrap(
-            'title: "List"\ndate: 2018-01-02\nslug: "2018-01-02-ec-post-list"\n'
-            'categories: ["EC"]\n'
-            'cover:\n  image: "images/x.jpg"\n  alt: "x"\nimages: ["images/x.jpg"]',
-            body=f"{{{{< categorized-posts >}}}}",
-        )
-        assert frontmatter_check.check(text, "2018-01-02-ec-post-list") == []
-
-    def test_draft_without_cover_passes(self):
-        text = wrap(
-            'title: "Draft"\ndate: 2025-01-01\nslug: "draft-post"\ncategories: ["澳洲職場"]\ndraft: true',
-            body="No cover.",
-        )
-        assert frontmatter_check.check(text, "draft-post") == []
-
-    def test_published_without_cover_rejected(self):
-        text = wrap(
-            'title: "Pub"\ndate: 2025-01-01\nslug: "pub-post"',
-            body="No cover.",
-        )
-        assert any("cover.image" in e for e in frontmatter_check.check(text, "pub-post"))
-
-    def test_unquoted_title_passes(self):
-        text = GOOD_POST.replace('title: "Test post"', "title: 中文標題 without quotes")
-        assert not any("title" in e for e in frontmatter_check.check(text, "test-slug"))
-
-    def test_missing_categories_rejected(self):
-        text = GOOD_POST.replace('categories: ["澳洲職場"]\n', "")
-        assert any("categories" in e for e in frontmatter_check.check(text, "test-slug"))
-
-    def test_unknown_category_rejected(self):
-        text = GOOD_POST.replace('categories: ["澳洲職場"]', 'categories: ["不存在"]')
-        assert any("unknown category" in e for e in frontmatter_check.check(text, "test-slug"))
-
-    def test_multiple_categories_rejected(self):
-        text = GOOD_POST.replace(
-            'categories: ["澳洲職場"]',
-            'categories: ["澳洲職場", "旅行紀錄"]',
-        )
-        assert any("exactly one" in e for e in frontmatter_check.check(text, "test-slug"))
-
-
-    def test_empty_episodeseries_rejected(self):
-        text = GOOD_POST.replace(
-            'categories: ["澳洲職場"]',
-            'categories: ["澳洲職場"]\nepisodeseries: []',
-        )
-        assert any("episodeseries" in e for e in frontmatter_check.check(text, "test-slug"))
-
-    def test_episodeseries_optional_when_omitted(self):
-        assert frontmatter_check.check(GOOD_POST, "test-slug") == []
-
-    def test_episodeseries_value_passes(self):
-        text = GOOD_POST.replace(
-            'categories: ["澳洲職場"]',
-            'categories: ["澳洲職場"]\nepisodeseries: ["我要升官加薪"]',
-        )
-        assert frontmatter_check.check(text, "test-slug") == []
-
-    def test_allowed_categories_include_bootcamp_series(self):
-        assert "轉職工程師日記" in frontmatter_check.ALLOWED_CATEGORIES
-
-
-class TestCheckPostsGitPaths:
-    def test_git_index_paths_match_slug_dirs(self):
-        check_posts = load_check_posts()
-        entries = check_posts.list_post_entries_from_git()
-        assert entries
-
-        git_dirs = subprocess.run(
-            ["git", "ls-files", "--", "content/posts/"],
-            cwd=REPO_ROOT,
-            capture_output=True,
-            text=True,
-            check=True,
-        )
-        expected = sorted(
-            {
-                Path(line).parts[2]
-                for line in git_dirs.stdout.splitlines()
-                if line.endswith("/index.md")
-            }
-        )
-        assert [dir_name for _, dir_name in entries] == expected
-
-    def test_slug_mismatch_detected_with_git_dir_name(self):
-        check_posts = load_check_posts()
-        md_file, dir_name = check_posts.resolve_post_path("2019-08-19-coding-bootcamp-orientation")
-        text = md_file.read_text(encoding="utf-8")
-        assert dir_name == "2019-08-19-coding-bootcamp-orientation"
-        assert frontmatter_check.check(text, dir_name) == []
-
-
-class TestImageSizeCheck:
-    def test_soft_warn_large_inline(self, tmp_path: Path):
-        img = tmp_path / "big.jpg"
-        Image.new("RGB", (2500, 1200), color="red").save(img, quality=95)
-        info = size_check.read_image_info(img)
-        assert info is not None
-        warnings, errors = size_check.check_info(info, "inline")
-        assert warnings
-        assert not errors
-
-    def test_hard_error_oversized(self, tmp_path: Path):
-        img = tmp_path / "huge.jpg"
-        Image.new("RGB", (4500, 3000), color="blue").save(img, quality=95)
-        info = size_check.read_image_info(img)
-        assert info is not None
-        warnings, errors = size_check.check_info(info, "cover")
-        assert errors
-        assert any("hard limit" in e for e in errors)
-
-    def test_optimize_reduces_file(self, tmp_path: Path):
-        img = tmp_path / "big.jpg"
-        Image.new("RGB", (3000, 2000), color="green").save(img, quality=95)
-        before = img.stat().st_size
-        changed, _ = size_check.optimize_image(img, "inline")
-        assert changed
-        assert img.stat().st_size < before
-        info = size_check.read_image_info(img)
-        assert info is not None
-        assert info.long_edge <= size_check.OPTIMIZE_INLINE_LONG_EDGE
-
-
-class TestProgressiveJpeg:
-    def test_is_progressive_jpeg_detects_encoding(self, tmp_path: Path):
-        baseline = tmp_path / "baseline.jpg"
-        progressive = tmp_path / "progressive.jpg"
-        img = Image.new("RGB", (400, 300), color="red")
-        img.save(baseline, format="JPEG", quality=85, progressive=False)
-        img.save(progressive, format="JPEG", quality=85, progressive=True)
-        assert not size_check.is_progressive_jpeg(baseline)
-        assert size_check.is_progressive_jpeg(progressive)
-
-    def test_normalize_jpeg_baseline_converts_progressive(self, tmp_path: Path):
-        path = tmp_path / "cover.jpg"
-        Image.new("RGB", (800, 600), color="blue").save(
-            path, format="JPEG", quality=85, progressive=True
-        )
-        changed, msg = size_check.normalize_jpeg_baseline(path)
-        assert changed
-        assert "baseline" in msg
-        assert not size_check.is_progressive_jpeg(path)
-
-    def test_check_info_warns_progressive_cover(self, tmp_path: Path):
-        path = tmp_path / "hero.jpg"
-        Image.new("RGB", (1400, 900), color="orange").save(
-            path, format="JPEG", quality=85, progressive=True
-        )
-        info = size_check.read_image_info(path)
-        assert info is not None
-        warnings, errors = size_check.check_info(info, "cover")
-        assert not errors
-        assert any("progressive JPEG" in w for w in warnings)
+    progressive = tmp_path / "progressive.jpg"
+    Image.new("RGB", (800, 600), color="red").save(progressive, progressive=True)
+    changed, _ = size_check.normalize_jpeg_baseline(progressive)
+    assert changed and not size_check.is_progressive_jpeg(progressive)

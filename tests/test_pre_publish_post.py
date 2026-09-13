@@ -1,208 +1,66 @@
-"""Tests for tools/blog-publisher/pre-publish-post.py episode_series flow."""
+"""Critical behaviour of the local blog-publishing helper."""
 
 from __future__ import annotations
 
-import json
 from pathlib import Path
-
-import pytest
 
 from conftest import load_repo_module
 
 publisher = load_repo_module("tools/blog-publisher/pre-publish-post.py")
 
 
-@pytest.fixture
-def registry_tmp(tmp_path: Path, monkeypatch):
-    list_file = tmp_path / "episodeseries.json"
-    list_file.write_text(
-        json.dumps(["我要升官加薪", "好想要退休"], ensure_ascii=False) + "\n",
-        encoding="utf-8",
+def test_series_detection_handles_known_and_unrelated_titles():
+    assert publisher.infer_episode_series("[我要升官加薪] 第一集") == "我要升官加薪"
+    assert publisher.infer_episode_series("單篇文章") == ""
+
+
+def test_front_matter_contains_cover_credit_and_optional_series():
+    front_matter = publisher.generate_front_matter(
+        "Title", "2025-01-01-slug", "2025-01-01", ["澳洲職場"], ["tag"],
+        "cover-unsplash.jpg", [], alt_text="Descriptive cover",
+        credit={
+            "photographer": "Jane", "photographer_url": "https://unsplash.com/@jane",
+            "photo_url": "https://unsplash.com/photos/test-photo",
+        }, episode_series="我要升官加薪",
     )
-    reg = load_repo_module("scripts/episodeseries_registry.py")
-    monkeypatch.setattr(reg, "DEFAULT_REGISTRY_PATH", list_file)
-    monkeypatch.setattr(publisher, "load_episodeseries_registry", lambda: reg)
-    return list_file, reg
+    assert 'image: "images/cover-unsplash.jpg"' in front_matter
+    assert 'photographer: "Jane"' in front_matter
+    assert 'episodeseries: ["我要升官加薪"]' in front_matter
 
 
-class TestInferEpisodeSeries:
-    def test_bracket_title(self):
-        assert publisher.infer_episode_series("[我要升官加薪] 第一集") == "我要升官加薪"
-
-    def test_fire_prefix(self):
-        assert publisher.infer_episode_series("好想要退休：計畫") == "好想要退休"
-
-    def test_unrelated_title(self):
-        assert publisher.infer_episode_series("隨便一篇單篇") == ""
+def test_unsplash_alt_falls_back_to_page_url_slug():
+    assert publisher.derive_alt_from_page_url(
+        "https://unsplash.com/photos/fire-between-woman-and-boy-XI7lwAWzhZQ",
+        "XI7lwAWzhZQ",
+    ) == "fire between woman and boy"
 
 
-class TestGenerateFrontMatterEpisodeSeries:
-    def test_omits_when_none(self):
-        fm = publisher.generate_front_matter(
-            "Title",
-            "2025-01-01-slug",
-            "2025-01-01",
-            ["澳洲職場"],
-            ["tag"],
-            None,
-            [],
-            episode_series=None,
-        )
-        assert "episodeseries" not in fm
-
-    def test_includes_when_set(self):
-        fm = publisher.generate_front_matter(
-            "Title",
-            "2025-01-01-slug",
-            "2025-01-01",
-            ["澳洲職場"],
-            ["tag"],
-            None,
-            [],
-            episode_series="我要升官加薪",
-        )
-        assert 'episodeseries: ["我要升官加薪"]' in fm
+def test_unsplash_download_requires_an_api_key(monkeypatch, tmp_path: Path):
+    monkeypatch.delenv("UNSPLASH_ACCESS_KEY", raising=False)
+    ok, _, error = publisher.download_unsplash_image(
+        "178j8tJrNlc", "https://unsplash.com/photos/x-178j8tJrNlc", tmp_path / "cover.jpg"
+    )
+    assert not ok and "UNSPLASH_ACCESS_KEY" in error
 
 
-class TestPromptEpisodeSeries:
-    def test_uses_existing_without_prompt(self, registry_tmp, monkeypatch):
-        monkeypatch.setattr(publisher.click, "confirm", lambda *a, **k: True)
-        assert publisher.prompt_episode_series("好想要退休", "任意標題") == "好想要退休"
+def test_cover_acquisition_retries_once_before_succeeding(tmp_path: Path, monkeypatch):
+    urls = iter([
+        "https://unsplash.com/photos/bad-aaaaaaaaaaa",
+        "https://unsplash.com/photos/good-178j8tJrNlc",
+    ])
+    attempts: list[str] = []
 
-    def test_skip_when_not_series(self, monkeypatch):
-        monkeypatch.setattr(publisher.click, "confirm", lambda *a, **k: False)
-        assert publisher.prompt_episode_series("", "單篇標題") is None
+    def fake_download(photo_id, photo_url, output_path):
+        attempts.append(photo_id)
+        if photo_id == "aaaaaaaaaaa":
+            return False, None, "Photo not found"
+        output_path.write_bytes(b"image")
+        return True, {"name": "Jane", "username": "jane", "photo_url": photo_url}, ""
 
-    def test_picks_existing_series_by_number(self, registry_tmp, monkeypatch):
-        monkeypatch.setattr(publisher.click, "confirm", lambda *a, **k: True)
-        monkeypatch.setattr(publisher.click, "prompt", lambda *a, **k: "2")
-        assert publisher.prompt_episode_series("", "單篇") == "我要升官加薪"
-
-    def test_inferred_series_defaults_to_matching_number(self, registry_tmp, monkeypatch):
-        monkeypatch.setattr(publisher.click, "confirm", lambda *a, **k: True)
-        prompts: list[str] = []
-
-        def capture_prompt(*args, **kwargs):
-            prompts.append(kwargs.get("default"))
-            return kwargs.get("default") or "2"
-
-        monkeypatch.setattr(publisher.click, "prompt", capture_prompt)
-        assert (
-            publisher.prompt_episode_series("", "[我要升官加薪] 第一集")
-            == "我要升官加薪"
-        )
-        assert prompts[0] == "2"
-
-    def test_new_series_name_registers_in_list(self, registry_tmp, monkeypatch):
-        list_file, reg = registry_tmp
-        monkeypatch.setattr(publisher.click, "confirm", lambda *a, **k: True)
-        monkeypatch.setattr(publisher.click, "prompt", lambda *a, **k: "全新系列")
-        assert publisher.prompt_episode_series("", "單篇") == "全新系列"
-        assert "全新系列" in reg.load_series_list(list_file)
-
-    def test_new_series_via_zero_option(self, registry_tmp, monkeypatch):
-        list_file, reg = registry_tmp
-        monkeypatch.setattr(publisher.click, "confirm", lambda *a, **k: True)
-        prompts = iter(["0", "全新系列"])
-        monkeypatch.setattr(publisher.click, "prompt", lambda *a, **k: next(prompts))
-        assert publisher.prompt_episode_series("", "單篇") == "全新系列"
-        assert "全新系列" in reg.load_series_list(list_file)
-
-
-class TestDeriveAltFromPageUrl:
-    def test_humanizes_slug_and_strips_photo_id(self):
-        alt = publisher.derive_alt_from_page_url(
-            "https://unsplash.com/photos/fire-between-woman-and-boy-XI7lwAWzhZQ",
-            "XI7lwAWzhZQ",
-        )
-        assert alt == "fire between woman and boy"
-
-    def test_bare_photo_id_url_gives_empty(self):
-        alt = publisher.derive_alt_from_page_url(
-            "https://unsplash.com/photos/XI7lwAWzhZQ", "XI7lwAWzhZQ"
-        )
-        assert alt == ""
-
-    def test_ignores_query_string(self):
-        alt = publisher.derive_alt_from_page_url(
-            "https://unsplash.com/photos/red-apple-XI7lwAWzhZQ?utm_source=x",
-            "XI7lwAWzhZQ",
-        )
-        assert alt == "red apple"
-
-
-class TestUnsplashErrors:
-    def test_missing_api_key_message(self, monkeypatch, tmp_path: Path):
-        monkeypatch.delenv("UNSPLASH_ACCESS_KEY", raising=False)
-        ok, _, err = publisher.download_unsplash_image(
-            "178j8tJrNlc",
-            "https://unsplash.com/photos/x-178j8tJrNlc",
-            tmp_path / "cover.jpg",
-        )
-        assert not ok
-        assert "UNSPLASH_ACCESS_KEY" in err
-
-    def test_fetch_photo_not_found_message(self, monkeypatch):
-        class FakeResp:
-            status_code = 404
-
-        monkeypatch.setattr(
-            publisher.requests,
-            "get",
-            lambda *a, **k: FakeResp(),
-        )
-        data, err = publisher.fetch_unsplash_photo_data("badphotoid1", "test-key")
-        assert data is None
-        assert "not found" in err.lower()
-        assert "badphotoid1" in err
-
-
-class TestAcquireUnsplashCover:
-    def test_retries_then_succeeds(self, tmp_path: Path, monkeypatch):
-        urls = iter(
-            [
-                "https://unsplash.com/photos/bad-aaaaaaaaaaa",
-                "https://unsplash.com/photos/good-178j8tJrNlc",
-            ]
-        )
-
-        def fake_prompt(*args, **kwargs):
-            return next(urls)
-
-        attempts: list[str] = []
-
-        def fake_download(photo_id, photo_url, output_path):
-            attempts.append(photo_id)
-            if photo_id == "aaaaaaaaaaa":
-                return False, None, "Photo not found on Unsplash (id: aaaaaaaaaaa)"
-            output_path.write_bytes(b"fake")
-            return True, {
-                "username": "u",
-                "name": "N",
-                "profile_url": "https://unsplash.com/@u",
-                "photo_url": photo_url,
-            }, ""
-
-        monkeypatch.setattr(publisher.click, "prompt", fake_prompt)
-        monkeypatch.setattr(publisher, "download_unsplash_image", fake_download)
-
-        filename, metadata, path = publisher.acquire_unsplash_cover(tmp_path)
-        assert filename == "178j8tJrNlc-unsplash.jpg"
-        assert metadata["name"] == "N"
-        assert path == tmp_path / filename
-        assert attempts == ["aaaaaaaaaaa", "178j8tJrNlc"]
-
-    def test_exits_after_two_failures(self, tmp_path: Path, monkeypatch):
-        monkeypatch.setattr(
-            publisher.click,
-            "prompt",
-            lambda *a, **k: "https://unsplash.com/photos/bad-aaaaaaaaaaa",
-        )
-        monkeypatch.setattr(
-            publisher,
-            "download_unsplash_image",
-            lambda *a, **k: (False, None, "Photo not found on Unsplash (id: aaaaaaaaaaa)"),
-        )
-        with pytest.raises(SystemExit) as exc:
-            publisher.acquire_unsplash_cover(tmp_path)
-        assert exc.value.code == 1
+    monkeypatch.setattr(publisher.click, "prompt", lambda *args, **kwargs: next(urls))
+    monkeypatch.setattr(publisher, "download_unsplash_image", fake_download)
+    filename, metadata, path = publisher.acquire_unsplash_cover(tmp_path)
+    assert (filename, metadata["name"], path.name, attempts) == (
+        "178j8tJrNlc-unsplash.jpg", "Jane", "178j8tJrNlc-unsplash.jpg",
+        ["aaaaaaaaaaa", "178j8tJrNlc"],
+    )

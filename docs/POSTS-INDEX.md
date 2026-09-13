@@ -4,10 +4,11 @@
 >
 > Purpose: locate a post by title / section / tags / summary from this one file instead of scanning `content/posts/`. Open the folder in the last column to read or edit the post.
 
-**166 published posts** (newest first).
+**167 published posts** (newest first).
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-13 | Vueling 航空行李遺失理賠紀錄：鬼打牆的網站機器人 | 旅行紀錄 | 旅遊, 西班牙, 航空 | 上一篇文章寫了我在巴塞隆納機場遺失行李的荒謬歷程：行李從機場轉盤消失，我根據 AirTag 的追蹤定位一路追查到民宅，但… | content/posts/2026-09-13-vueling-baggage-compensation |
 | 2026-09-06 | 2026.08 黃金海岸四天三夜自駕遊：原來獨旅，也可以只是好好度假 | 旅行紀錄 | 旅遊, 澳洲, 黃金海岸, 獨旅, 自駕 | 這個人造的 super long weekend，我決定一個人開車去黃金海岸渡假。 | content/posts/2026-09-06-gold-coast-solo-road-trip |
 | 2026-08-22 | 行李在巴塞隆納機場被偷？獨旅 20 幾國後，我遇到最荒謬的旅行事件 | 旅行紀錄 | 旅遊, 西班牙 | 這幾天收到讀者來信，說想看西班牙行李遺失的故事，還分享了他自己的旅行經驗（也是相當精彩😆）。 | content/posts/2026-08-22-lost-luggage-barcelona |
 | 2026-08-01 | 帶薪做公益？澳洲的義工假 Volunteer Leaves 一日體驗 | 澳洲職場 | 公益, 義工, 能源 | 現職澳洲能源公司的員工福利之一，是每年有兩天義工假（Volunteer Leaves），可以請假去做公益，薪水照領。 | content/posts/2026-08-01-volunteer-leaves |

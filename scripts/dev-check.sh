@@ -2,10 +2,10 @@
 # Local validation wrapper — see docs/TESTING.md for tier overview.
 #
 # Usage:
-#   ./scripts/dev-check.sh              # check-posts + fast unit tests (~5s)
+#   ./scripts/dev-check.sh              # check-posts + fast unit tests
 #   ./scripts/dev-check.sh --post SLUG  # single post rules only
 #   ./scripts/dev-check.sh --quick      # same as default (explicit)
-#   ./scripts/dev-check.sh --full       # CI gate: Hugo build, verify-build, all pytest (~60s)
+#   ./scripts/dev-check.sh --full       # CI gate: Hugo build, verify-build, rendered-output tests
 
 set -euo pipefail
 
@@ -22,8 +22,8 @@ Usage: ./scripts/dev-check.sh [OPTIONS]
 
 Options:
   --post SLUG   Validate one post with check-posts.py
-  --quick       Fast checks only (no Hugo build / browser smoke)
-  --full        Full CI gate: Hugo build, verify-build.sh, all pytest
+  --quick       Fast checks only (no Hugo build)
+  --full        Full CI gate: Hugo build, verify-build.sh, rendered-output tests
   -h, --help    Show this help
 EOF
 }
@@ -91,8 +91,7 @@ if [[ "$FULL" -eq 1 ]]; then
   fi
   ./scripts/verify-build.sh
   export HUGO_SKIP_REBUILD=1
-  ENSURE_VENV_PLAYWRIGHT=1 bash "$REPO_ROOT/scripts/ensure-venv.sh"
   "$PYTHON" -m pytest tests/ -q
 else
-  "$PYTHON" -m pytest tests/test_post_validation.py tests/test_pre_publish_post.py tests/test_episodeseries_registry.py tests/test_template_typography.py tests/test_list_pages.py::TestListTemplateStructure -q
+  "$PYTHON" -m pytest tests/test_post_validation.py tests/test_pre_publish_post.py tests/test_spellcheck.py -q
 fi

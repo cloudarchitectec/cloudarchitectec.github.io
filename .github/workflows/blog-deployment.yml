@@ -141,7 +141,7 @@ jobs:
           [ -f "themes/${THEME_NAME}/theme.toml" ] && echo "✅ theme.toml present" || echo "❌ theme.toml missing!"
           echo "Content directory structure:"
           ls -la content/ || echo "No content directory"
-          ENSURE_VENV_PLAYWRIGHT=1 bash scripts/ensure-venv.sh
+          bash scripts/ensure-venv.sh
           .venv/bin/python3 scripts/check-posts.py
           .venv/bin/python3 scripts/gen-posts-index.py --check
           echo "=== STARTING HUGO BUILD ==="

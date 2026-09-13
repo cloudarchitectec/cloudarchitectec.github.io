@@ -2,8 +2,6 @@
 # Create repo .venv and install requirements.txt (idempotent).
 # Source from other scripts:  source scripts/ensure-venv.sh
 # Or run directly:            bash scripts/ensure-venv.sh
-#
-# Optional: ENSURE_VENV_PLAYWRIGHT=1 installs Chromium for pytest-playwright.
 
 set -euo pipefail
 
@@ -18,11 +16,3 @@ fi
 
 "$VENV_PYTHON" -m pip install -q --upgrade pip
 "$VENV_PYTHON" -m pip install -q -r "$REPO_ROOT/requirements.txt"
-
-if [[ "${ENSURE_VENV_PLAYWRIGHT:-0}" == "1" ]]; then
-  if [[ "${GITHUB_ACTIONS:-}" == "true" ]]; then
-    "$VENV_PYTHON" -m playwright install --with-deps chromium
-  else
-    "$VENV_PYTHON" -m playwright install chromium
-  fi
-fi
