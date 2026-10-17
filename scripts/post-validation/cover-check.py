@@ -12,6 +12,7 @@ MD_IMG = re.compile(r"""!\[[^\]]*\]\(\s*([^)\s]+)(?:\s+(?:"[^"]*"|'[^']*'|\([^)]
 MD_IMG_WITH_ALT = re.compile(
     r"""!\[([^\]]*)\]\(\s*([^)\s]+)(?:\s+(?:"[^"]*"|'[^']*'|\([^)]*\)))?\s*\)"""
 )
+HUGO_FIGURE = re.compile(r"""\{\{<\s*figure\b[^>]*?\bsrc\s*=\s*["']([^"']+)["']""")
 # ASCII words joined only by - or _ with no spaces: a filename/slug pasted as alt
 # ("fire-between-woman-and-boy"), not a descriptive phrase.
 SLUGLIKE_ALT = re.compile(r"^[A-Za-z0-9]+(?:[-_][A-Za-z0-9]+)+$")
@@ -114,6 +115,9 @@ def extract_image_paths(text: str) -> list[str]:
         # Hugo's render-image.html treats #fragment as a layout modifier
         # (#portrait / #wide / #center), not part of the file path.
         paths.append(match.group(1).strip().split("#")[0])
+
+    for match in HUGO_FIGURE.finditer(body):
+        paths.append(match.group(1).strip())
 
     return paths
 

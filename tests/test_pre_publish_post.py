@@ -28,6 +28,25 @@ def test_front_matter_contains_cover_credit_and_optional_series():
     assert 'episodeseries: ["我要升官加薪"]' in front_matter
 
 
+def test_copy_referenced_input_images_only_copies_images_used_by_draft(tmp_path: Path):
+    input_dir = tmp_path / "input"
+    images_dir = tmp_path / "post" / "images"
+    input_dir.mkdir()
+    images_dir.mkdir(parents=True)
+    (input_dir / "used.jpeg").write_bytes(b"photo")
+    (input_dir / "unused.jpeg").write_bytes(b"other photo")
+
+    copied = publisher.copy_referenced_input_images(
+        input_dir / "draft.md",
+        images_dir,
+        '{{< figure src="images/used.jpeg" alt="A photo" >}}',
+    )
+
+    assert copied == ["used.jpeg"]
+    assert (images_dir / "used.jpeg").read_bytes() == b"photo"
+    assert not (images_dir / "unused.jpeg").exists()
+
+
 def test_unsplash_alt_falls_back_to_page_url_slug():
     assert publisher.derive_alt_from_page_url(
         "https://unsplash.com/photos/fire-between-woman-and-boy-XI7lwAWzhZQ",

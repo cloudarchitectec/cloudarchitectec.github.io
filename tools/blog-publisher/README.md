@@ -44,6 +44,12 @@ Markdown. The CLI prompts for the publication date and defaults it to today.
 Any `date` in the draft front matter is ignored. The CLI constructs the default
 folder slug as `{date}-{bare-slug}`.
 
+Local photos in the same input folder are copied into the page bundle when
+their filenames are referenced in the Markdown body. Use relative bundle paths
+in Hugo shortcodes, for example `{{< figure src="images/photo.jpeg" alt="..." >}}`.
+Referenced images are added to `images:` and optimized before validation;
+unreferenced files are left out.
+
 Do not add `{{< footer >}}` to the draft. The site layout renders the post
 footer, and the publisher removes that legacy shortcode if it is present.
 
@@ -57,6 +63,8 @@ The interactive flow:
   [`data/episodeseries.json`](../../data/episodeseries.json);
 - downloads an Unsplash cover, records its credit and required alt text, and
   normalizes progressive JPEGs to baseline encoding;
+- copies referenced local photos from the input folder and optimizes referenced
+  bundle images;
 - optionally removes a redundant leading heading so list excerpts start with
   prose;
 - writes `content/posts/{slug}/index.md` and
