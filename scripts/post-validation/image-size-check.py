@@ -244,7 +244,14 @@ def _resize(img: Image.Image, max_edge: int) -> Image.Image:
     return img.resize(new_size, Image.Resampling.LANCZOS)
 
 
-def _shrink_until_soft_bytes(img: Image.Image, max_edge: int, soft_bytes: int, *, as_png: bool) -> Image.Image:
+def _shrink_until_soft_bytes(
+    img: Image.Image,
+    max_edge: int,
+    soft_bytes: int,
+    *,
+    as_png: bool,
+    as_webp: bool,
+) -> Image.Image:
     """Resize down if encoded size still exceeds soft byte limit."""
     from io import BytesIO
 
@@ -253,6 +260,8 @@ def _shrink_until_soft_bytes(img: Image.Image, max_edge: int, soft_bytes: int, *
         bio = BytesIO()
         if as_png:
             resized.save(bio, format="PNG", optimize=True)
+        elif as_webp:
+            resized.save(bio, format="WEBP", quality=JPEG_QUALITY, method=6)
         else:
             resized.save(bio, format="JPEG", quality=JPEG_QUALITY, optimize=True, progressive=False)
         if bio.tell() <= soft_bytes:
@@ -281,6 +290,7 @@ def optimize_image(path: Path, role: str) -> tuple[bool, str]:
     soft_bytes = COVER_SOFT_BYTES if role == "cover" else INLINE_SOFT_BYTES
     suffix = path.suffix.lower()
     as_png = suffix == ".png"
+    as_webp = suffix == ".webp"
 
     with Image.open(path) as img:
         img.load()
@@ -295,9 +305,13 @@ def optimize_image(path: Path, role: str) -> tuple[bool, str]:
             working = working.convert("RGBA")
 
         before = info.byte_size
-        resized = _shrink_until_soft_bytes(working, max_edge, soft_bytes, as_png=as_png)
+        resized = _shrink_until_soft_bytes(
+            working, max_edge, soft_bytes, as_png=as_png, as_webp=as_webp
+        )
         if as_png:
             resized.save(path, format="PNG", optimize=True)
+        elif as_webp:
+            resized.save(path, format="WEBP", quality=JPEG_QUALITY, method=6)
         elif suffix == ".jpeg":
             resized.save(path, format="JPEG", quality=JPEG_QUALITY, optimize=True, progressive=False)
         else:

@@ -67,17 +67,21 @@ def test_cover_attribution_and_reference_are_enforced(text: str, expected: str):
 def test_bundle_images_handle_captions_modifiers_and_orphans(tmp_path: Path):
     images = tmp_path / "images"
     images.mkdir()
-    for name in ("cover.jpg", "inline.jpg", "orphan.jpg"):
+    for name in ("cover.jpg", "inline.jpg", "gallery.jpeg", "orphan.jpg"):
         (images / name).write_bytes(b"image")
     post = tmp_path / "index.md"
     post.write_text(
         wrap(
             'title: "x"\nimages: ["images/cover.jpg"]',
-            '![inline](images/inline.jpg#portrait "caption")',
+            '![inline](images/inline.jpg#portrait "caption")\n'
+            '{{< figure src="images/gallery.jpeg" alt="Gallery photo" >}}',
         ),
         encoding="utf-8",
     )
-    assert cover_check.extract_image_paths(post.read_text(encoding="utf-8")) == ["images/inline.jpg"]
+    assert cover_check.extract_image_paths(post.read_text(encoding="utf-8")) == [
+        "images/inline.jpg",
+        "images/gallery.jpeg",
+    ]
     assert cover_check.find_orphan_images(post) == ["images/orphan.jpg"]
 
 
@@ -93,3 +97,15 @@ def test_image_hard_limit_and_cover_encoding_are_checked(tmp_path: Path):
     Image.new("RGB", (800, 600), color="red").save(progressive, progressive=True)
     changed, _ = size_check.normalize_jpeg_baseline(progressive)
     assert changed and not size_check.is_progressive_jpeg(progressive)
+
+
+def test_webp_optimization_keeps_webp_encoding(tmp_path: Path):
+    webp = tmp_path / "large.webp"
+    Image.new("RGB", (2500, 1800), color="purple").save(webp, format="WEBP")
+
+    changed, _ = size_check.optimize_image(webp, "inline")
+
+    assert changed
+    with Image.open(webp) as optimized:
+        assert optimized.format == "WEBP"
+        assert max(optimized.size) <= size_check.OPTIMIZE_INLINE_LONG_EDGE

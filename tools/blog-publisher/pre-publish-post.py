@@ -624,6 +624,30 @@ def list_bundle_image_paths(images_dir: Path) -> list[str]:
     return [f"images/{name}" for name in names]
 
 
+def copy_referenced_input_images(input_path: Path, images_dir: Path, body: str) -> list[str]:
+    copied: list[str] = []
+    for source in sorted(input_path.parent.iterdir()):
+        if (
+            source.is_symlink()
+            or not source.is_file()
+            or source.suffix.lower() not in IMAGE_EXTENSIONS
+            or source.name not in body
+        ):
+            continue
+
+        destination = images_dir / source.name
+        if destination.exists():
+            raise FileExistsError(
+                f"Input image {source.name!r} conflicts with an existing bundle image."
+            )
+        shutil.copy2(source, destination)
+        copied.append(source.name)
+
+    if copied:
+        click.echo(f"✅ Copied local images: {', '.join(copied)}")
+    return copied
+
+
 def warn_cover_image_size(image_path: Path) -> bool:
     size_check = load_size_check_module()
     info = size_check.read_image_info(image_path)
@@ -720,6 +744,23 @@ def validate_post(post_dir: Path) -> bool:
         click.echo(output.rstrip())
     if result.returncode != 0:
         click.echo("❌ Post validation failed. Fix errors above.")
+        return False
+    return True
+
+
+def optimize_post_images(post_dir: Path) -> bool:
+    optimizer = PROJECT_ROOT / "scripts" / "optimize-post-images.py"
+    result = subprocess.run(
+        [sys.executable, str(optimizer), "--post", post_dir.name, "--apply"],
+        cwd=PROJECT_ROOT,
+        capture_output=True,
+        text=True,
+    )
+    output = (result.stdout or "") + (result.stderr or "")
+    if output.strip():
+        click.echo(output.rstrip())
+    if result.returncode != 0:
+        click.echo("❌ Image optimization failed.")
         return False
     return True
 
@@ -836,6 +877,12 @@ def main(input_file: str, no_hugo: bool) -> None:
         if not warn_cover_image_size(image_path):
             sys.exit(1)
 
+    try:
+        copy_referenced_input_images(input_path, images_dir, body)
+    except OSError as exc:
+        click.echo(f"❌ Could not copy local image: {exc}")
+        sys.exit(1)
+
     images_list = list_bundle_image_paths(images_dir)
     clean_body = strip_legacy_footer_shortcode(body)
     clean_body = strip_leading_heading(clean_body, title)
@@ -855,6 +902,9 @@ def main(input_file: str, no_hugo: bool) -> None:
     index_path = post_dir / "index.md"
     index_path.write_text(f"{front_matter}\n\n{clean_body}".rstrip() + "\n", encoding="utf-8")
     click.echo(f"✅ Post written: {index_path}")
+
+    if not optimize_post_images(post_dir):
+        sys.exit(1)
 
     run_spellcheck_fix(slug)
 
