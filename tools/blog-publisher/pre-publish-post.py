@@ -671,6 +671,7 @@ def generate_front_matter(
     image_filename: str | None,
     images_list: list[str],
     *,
+    description: str | None = None,
     alt_text: str | None = None,
     credit: dict | None = None,
     episode_series: str | None = None,
@@ -685,9 +686,10 @@ def generate_front_matter(
     lines = [
         "---",
         f'title: "{title}"',
-        f"date: {post_date}",
-        f'slug: "{slug}"',
     ]
+    if description and description.strip():
+        lines.append(f"description: {json.dumps(description.strip(), ensure_ascii=False)}")
+    lines.extend([f"date: {post_date}", f'slug: "{slug}"'])
 
     if image_filename:
         lines.extend(
@@ -894,6 +896,7 @@ def main(input_file: str, no_hugo: bool) -> None:
         tags,
         image_filename,
         images_list,
+        description=fm_scalar(fm.get("description")),
         alt_text=alt_text,
         credit=cover_credit,
         episode_series=episode_series,

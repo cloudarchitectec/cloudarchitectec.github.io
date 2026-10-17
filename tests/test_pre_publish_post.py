@@ -28,6 +28,15 @@ def test_front_matter_contains_cover_credit_and_optional_series():
     assert 'episodeseries: ["我要升官加薪"]' in front_matter
 
 
+def test_front_matter_preserves_concise_description():
+    description = "這是一段用於文章列表、搜尋與社群分享的簡短文章摘要。"
+    front_matter = publisher.generate_front_matter(
+        "Title", "2025-01-01-slug", "2025-01-01", ["澳洲職場"], ["tag"],
+        "cover-unsplash.jpg", [], description=description,
+    )
+    assert f"description: {publisher.json.dumps(description, ensure_ascii=False)}" in front_matter
+
+
 def test_copy_referenced_input_images_only_copies_images_used_by_draft(tmp_path: Path):
     input_dir = tmp_path / "input"
     images_dir = tmp_path / "post" / "images"

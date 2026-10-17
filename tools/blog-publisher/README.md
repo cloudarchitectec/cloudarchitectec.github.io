@@ -39,8 +39,10 @@ tool.
    validation output.
 
 The draft may start with YAML front matter. Supported fields are `title`,
-`slug`, `categories`, `tags`, and `episodeseries`; the body remains regular
-Markdown. The CLI prompts for the publication date and defaults it to today.
+`description`, `slug`, `categories`, `tags`, and `episodeseries`; the body
+remains regular Markdown. Keep `description` concise (about 80–110 Chinese
+characters) for a consistent homepage and search/social preview. The CLI
+prompts for the publication date and defaults it to today.
 Any `date` in the draft front matter is ignored. The CLI constructs the default
 folder slug as `{date}-{bare-slug}`.
 
