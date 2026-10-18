@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+from html.parser import HTMLParser
 from pathlib import Path
 
 from conftest import load_repo_module
@@ -10,6 +11,8 @@ from conftest import load_repo_module
 check_internal_links = load_repo_module("scripts/check-internal-links.py")
 BASE_URL = "https://cloudarchitectec.com"
 COVER_POST = Path("posts/2026-06-17-retirement-plan/index.html")
+SHARE_POST_SOURCE = Path("content/posts/2026-09-26-uzbek-day-2-4/index.md")
+SHARE_POST_OUTPUT = Path("posts/2026-09-26-uzbek-day-2-4/index.html")
 
 
 def meta_content(html: str, attribute: str, value: str) -> str | None:
@@ -43,3 +46,29 @@ def test_cover_social_images_resolve_to_the_post_bundle(built_site: Path):
     assert len(set(urls)) == 1
     output_path = built_site / urls[0].removeprefix(f"{BASE_URL}/")
     assert output_path.is_file()
+
+
+def test_share_actions_include_the_post_description(built_site: Path):
+    source = SHARE_POST_SOURCE.read_text(encoding="utf-8")
+    description_match = re.search(r'^description:\s*"([^"]*)"$', source, re.MULTILINE)
+    assert description_match is not None
+    description = description_match.group(1)
+
+    class ShareActionParser(HTMLParser):
+        descriptions: list[str]
+
+        def __init__(self):
+            super().__init__()
+            self.descriptions = []
+
+        def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]):
+            attributes = dict(attrs)
+            classes = attributes.get("class", "").split()
+            if tag == "button" and "share-option" in classes and "copy-link" not in classes:
+                self.descriptions.append(attributes.get("data-description", ""))
+
+    parser = ShareActionParser()
+    parser.feed((built_site / SHARE_POST_OUTPUT).read_text(encoding="utf-8"))
+
+    assert parser.descriptions
+    assert all(value == description for value in parser.descriptions)
