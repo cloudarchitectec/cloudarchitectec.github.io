@@ -4,10 +4,11 @@
 >
 > Purpose: locate a post by title / section / tags / summary from this one file instead of scanning `content/posts/`. Open the folder in the last column to read or edit the post.
 
-**168 published posts** (newest first).
+**169 published posts** (newest first).
 
 | Date | Title | Section | Tags | Summary | Folder |
 | --- | --- | --- | --- | --- | --- |
+| 2026-09-26 | [勇闖烏茲別克]：從希瓦古城展開我多災多難的中亞之旅 | 旅行紀錄 | 烏茲別克, 中亞, 旅遊, 希瓦 | 歷經 1,000 公里的臥鋪火車長征，從昨晚 10 點摳摳摳到今天中午 12 點，我們一行人終於抵達古城希瓦～ | content/posts/2026-09-26-uzbek-day-2-4 |
 | 2026-09-25 | [勇闖烏茲別克]：我拜訪的第一個伊斯蘭沙漠文化國家 | 旅行紀錄 | 烏茲別克, 旅遊, 中亞, 韓國轉機 | 終於迎來期待已久的假期 🎉 | content/posts/2026-09-25-uzbek-day-1 |
 | 2026-09-13 | Vueling 航空行李遺失理賠紀錄：鬼打牆的網站機器人 | 旅行紀錄 | 旅遊, 西班牙, 航空 | 上一篇文章寫了我在巴塞隆納機場遺失行李的荒謬歷程：行李從機場轉盤消失，我根據 AirTag 的追蹤定位一路追查到民宅，但… | content/posts/2026-09-13-vueling-baggage-compensation |
 | 2026-09-06 | 2026.08 黃金海岸四天三夜自駕遊：原來獨旅，也可以只是好好度假 | 旅行紀錄 | 旅遊, 澳洲, 黃金海岸, 獨旅, 自駕 | 這個人造的 super long weekend，我決定一個人開車去黃金海岸渡假。 | content/posts/2026-09-06-gold-coast-solo-road-trip |
