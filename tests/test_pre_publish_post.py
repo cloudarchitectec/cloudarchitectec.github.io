@@ -4,6 +4,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
+from click.testing import CliRunner
+
 from conftest import load_repo_module
 
 publisher = load_repo_module("tools/blog-publisher/pre-publish-post.py")
@@ -54,6 +56,89 @@ def test_copy_referenced_input_images_only_copies_images_used_by_draft(tmp_path:
     assert copied == ["used.jpeg"]
     assert (images_dir / "used.jpeg").read_bytes() == b"photo"
     assert not (images_dir / "unused.jpeg").exists()
+
+
+def test_copy_referenced_input_images_includes_explicit_local_cover(tmp_path: Path):
+    input_dir = tmp_path / "input"
+    images_dir = tmp_path / "post" / "images"
+    input_dir.mkdir()
+    images_dir.mkdir(parents=True)
+    (input_dir / "cover.jpeg").write_bytes(b"cover")
+
+    copied = publisher.copy_referenced_input_images(
+        input_dir / "draft.md",
+        images_dir,
+        "Post body without an image reference.",
+        extra_filenames={"cover.jpeg"},
+    )
+
+    assert copied == ["cover.jpeg"]
+    assert (images_dir / "cover.jpeg").read_bytes() == b"cover"
+
+
+def test_resolve_local_cover_image_requires_a_local_supported_file(tmp_path: Path):
+    input_file = tmp_path / "draft.md"
+    (tmp_path / "cover.webp").write_bytes(b"image")
+
+    assert publisher.resolve_local_cover_image(input_file, "cover.webp") == tmp_path / "cover.webp"
+    for filename in ("../cover.webp", str(tmp_path / "cover.webp"), "cover.svg", "missing.jpg"):
+        try:
+            publisher.resolve_local_cover_image(input_file, filename)
+        except (ValueError, FileNotFoundError):
+            continue
+        raise AssertionError(f"Invalid local cover was accepted: {filename}")
+
+
+def test_cli_uses_selected_local_cover_without_unsplash(tmp_path: Path, monkeypatch):
+    input_dir = tmp_path / "input"
+    posts_dir = tmp_path / "posts"
+    input_dir.mkdir()
+    (input_dir / "cover.jpg").write_bytes(b"local cover")
+    (input_dir / "draft.md").write_text(
+        '---\ntitle: "Local cover post"\nslug: "local-cover-post"\n'
+        'categories: ["旅行紀錄"]\ntags: ["travel"]\n---\nPost body.\n',
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(publisher, "INPUT_DIR", input_dir)
+    monkeypatch.setattr(publisher, "HUGO_CONTENT_DIR", posts_dir)
+    monkeypatch.setattr(
+        publisher.click,
+        "prompt",
+        lambda prompt, default=None, **kwargs: (
+            "2025-01-01" if prompt.startswith("📅") else default
+        ),
+    )
+    monkeypatch.setattr(publisher, "prompt_category", lambda categories, tags: ["旅行紀錄"])
+    monkeypatch.setattr(publisher, "prompt_tags", lambda tags: tags)
+    monkeypatch.setattr(publisher, "prompt_episode_series", lambda series, title: None)
+    monkeypatch.setattr(publisher, "confirm_replace_post_dir", lambda path: True)
+    monkeypatch.setattr(
+        publisher,
+        "acquire_unsplash_cover",
+        lambda images_dir: (_ for _ in ()).throw(AssertionError("Unsplash flow should be skipped")),
+    )
+    monkeypatch.setattr(publisher, "optimize_post_images", lambda post_dir: True)
+    monkeypatch.setattr(publisher, "run_spellcheck_fix", lambda slug: None)
+    monkeypatch.setattr(publisher, "validate_post", lambda post_dir: True)
+    monkeypatch.setattr(publisher.subprocess, "run", lambda *args, **kwargs: None)
+
+    result = CliRunner().invoke(
+        publisher.main,
+        [
+            "draft.md",
+            "--no-hugo",
+            "--cover-image",
+            "cover.jpg",
+            "--cover-alt",
+            "Local image",
+        ],
+    )
+
+    assert result.exit_code == 0, result.output
+    post = posts_dir / "2025-01-01-local-cover-post" / "index.md"
+    assert 'image: "images/cover.jpg"' in post.read_text(encoding="utf-8")
+    assert 'alt: "Local image"' in post.read_text(encoding="utf-8")
+    assert (post.parent / "images" / "cover.jpg").read_bytes() == b"local cover"
 
 
 def test_unsplash_alt_falls_back_to_page_url_slug():

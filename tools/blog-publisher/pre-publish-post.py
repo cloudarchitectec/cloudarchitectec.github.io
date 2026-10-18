@@ -7,7 +7,7 @@ Features:
 - Category picker: exactly one from `data/categories.yaml` (via frontmatter-check)
 - Tag-based category hint (e.g. 投資/ETF → 投資理財)
 - Episode series: pick from registry or add new (`data/episodeseries.json`)
-- Unsplash cover: download via API (`UNSPLASH_ACCESS_KEY` in repo `.env`), baseline JPEG normalize, size check
+- Unsplash cover by default, or a selected local cover; Unsplash downloads use `UNSPLASH_ACCESS_KEY` in repo `.env`
 - Front matter: `cover.image` / `cover.alt` / `cover.credit`, `images:` list (always published — never `draft: true`)
 - Strips legacy `{{< footer >}}` (footer is layout-driven)
 - Validates output with `scripts/check-posts.py --post` before finish
@@ -624,14 +624,20 @@ def list_bundle_image_paths(images_dir: Path) -> list[str]:
     return [f"images/{name}" for name in names]
 
 
-def copy_referenced_input_images(input_path: Path, images_dir: Path, body: str) -> list[str]:
+def copy_referenced_input_images(
+    input_path: Path,
+    images_dir: Path,
+    body: str,
+    extra_filenames: set[str] | None = None,
+) -> list[str]:
+    extra_filenames = extra_filenames or set()
     copied: list[str] = []
     for source in sorted(input_path.parent.iterdir()):
         if (
             source.is_symlink()
             or not source.is_file()
             or source.suffix.lower() not in IMAGE_EXTENSIONS
-            or source.name not in body
+            or (source.name not in body and source.name not in extra_filenames)
         ):
             continue
 
@@ -646,6 +652,26 @@ def copy_referenced_input_images(input_path: Path, images_dir: Path, body: str) 
     if copied:
         click.echo(f"✅ Copied local images: {', '.join(copied)}")
     return copied
+
+
+def resolve_local_cover_image(input_path: Path, filename: str | None) -> Path | None:
+    if not filename:
+        return None
+
+    candidate = Path(filename)
+    if (
+        candidate.is_absolute()
+        or candidate.name != filename
+        or candidate.suffix.lower() not in IMAGE_EXTENSIONS
+    ):
+        raise ValueError(
+            "Local cover must be a supported image filename from the draft input folder."
+        )
+
+    image_path = input_path.parent / candidate.name
+    if image_path.is_symlink() or not image_path.is_file():
+        raise FileNotFoundError(f"Local cover image not found: {candidate.name}")
+    return image_path
 
 
 def warn_cover_image_size(image_path: Path) -> bool:
@@ -794,7 +820,12 @@ def maybe_start_hugo_server() -> None:
 @click.command()
 @click.argument("input_file", required=True)
 @click.option("--no-hugo", is_flag=True, help="Do not start Hugo dev server after publish.")
-def main(input_file: str, no_hugo: bool) -> None:
+@click.option(
+    "--cover-image",
+    help="Use this local image filename from the input folder instead of an Unsplash cover.",
+)
+@click.option("--cover-alt", help="Alt text for a local cover image.")
+def main(input_file: str, no_hugo: bool, cover_image: str | None, cover_alt: str | None) -> None:
     """Publish a Hugo post from pre-publish markdown in tools/blog-publisher/input/.
 
     INPUT_FILE: Markdown filename (e.g. leveraged-etf-taiwan-vs-australia.md)
@@ -805,6 +836,14 @@ def main(input_file: str, no_hugo: bool) -> None:
     click.echo("=" * 60)
 
     input_path = resolve_input_path(input_file)
+    try:
+        local_cover_path = resolve_local_cover_image(input_path, cover_image)
+    except (ValueError, FileNotFoundError) as exc:
+        click.echo(f"❌ {exc}")
+        sys.exit(1)
+    if cover_alt and not local_cover_path:
+        click.echo("❌ --cover-alt can only be used with --cover-image.")
+        sys.exit(1)
 
     try:
         content = input_path.read_text(encoding="utf-8")
@@ -853,9 +892,19 @@ def main(input_file: str, no_hugo: bool) -> None:
     alt_text = None
     cover_credit = None
 
-    image_filename, metadata, image_path = acquire_unsplash_cover(images_dir)
+    if local_cover_path:
+        image_filename = local_cover_path.name
+        alt_text = cover_alt
+        click.echo(f"🖼️  Using selected local cover: {image_filename}")
+        if not alt_text:
+            alt_text = click.prompt("🖼️  Alt text for cover image (required)").strip()
+            if not alt_text:
+                click.echo("❌ Alt text is required when adding a cover image.")
+                sys.exit(1)
+    else:
+        image_filename, metadata, image_path = acquire_unsplash_cover(images_dir)
 
-    if image_filename and metadata and image_path:
+    if image_filename and not local_cover_path and metadata and image_path:
         click.echo(f"✅ Image saved: {image_filename}")
         click.echo(f"✅ Photographer: {metadata['name']} (@{metadata['username']})")
 
@@ -880,7 +929,12 @@ def main(input_file: str, no_hugo: bool) -> None:
             sys.exit(1)
 
     try:
-        copy_referenced_input_images(input_path, images_dir, body)
+        copy_referenced_input_images(
+            input_path,
+            images_dir,
+            body,
+            extra_filenames={local_cover_path.name} if local_cover_path else set(),
+        )
     except OSError as exc:
         click.echo(f"❌ Could not copy local image: {exc}")
         sys.exit(1)

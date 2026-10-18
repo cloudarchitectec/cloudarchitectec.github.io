@@ -1,7 +1,7 @@
 # Hugo blog post publisher
 
 Interactive CLI for turning a Markdown draft into a validated Hugo page bundle
-with an Unsplash cover image.
+with an Unsplash cover image by default or a specifically selected local cover.
 
 ## Set up
 
@@ -11,8 +11,8 @@ Run commands from the repository root:
 bash scripts/ensure-venv.sh
 ```
 
-Add an [Unsplash API](https://unsplash.com/developers) access key to the
-repository-root `.env` file:
+For Unsplash covers, add an [Unsplash API](https://unsplash.com/developers)
+access key to the repository-root `.env` file:
 
 ```dotenv
 UNSPLASH_ACCESS_KEY=your_key_here
@@ -37,6 +37,15 @@ tool.
 
 3. Review the generated page bundle under `content/posts/{slug}/` and the
    validation output.
+
+If EC selects a local image from the input folder as the cover, pass its exact
+filename and alt text to skip the Unsplash URL prompt:
+
+```bash
+scripts/py tools/blog-publisher/pre-publish-post.py your-post.md \
+  --cover-image cover.jpg \
+  --cover-alt "希瓦古城的藍色圓頂與土色建築"
+```
 
 The draft may start with YAML front matter. Supported fields are `title`,
 `description`, `slug`, `categories`, `tags`, and `episodeseries`; the body
@@ -63,14 +72,16 @@ The interactive flow:
 - requires one category from [`data/categories.yaml`](../../data/categories.yaml);
 - confirms tags and an optional series from
   [`data/episodeseries.json`](../../data/episodeseries.json);
-- downloads an Unsplash cover, records its credit and required alt text, and
-  normalizes progressive JPEGs to baseline encoding;
+- downloads an Unsplash cover by default, records its credit and required alt
+  text, and normalizes progressive JPEGs to baseline encoding; or uses a
+  specifically selected local cover via `--cover-image FILENAME` and
+  `--cover-alt TEXT`;
 - copies referenced local photos from the input folder and optimizes referenced
   bundle images;
 - optionally removes a redundant leading heading so list excerpts start with
   prose;
-- writes `content/posts/{slug}/index.md` and
-  `content/posts/{slug}/images/{photo-id}-unsplash.jpg`;
+- writes `content/posts/{slug}/index.md` and the cover and referenced images
+  into `content/posts/{slug}/images/`;
 - runs the spelling fixer, regenerates
   [`docs/POSTS-INDEX.md`](../../docs/POSTS-INDEX.md), and validates the new post
   with `scripts/check-posts.py --post`;
