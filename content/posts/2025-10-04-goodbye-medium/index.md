@@ -1,6 +1,6 @@
 ---
 title: "掰掰 Medium！我搬家啦～自架部落格澳洲雲端架構師 EC 正式啟用"
-date: 2025-10-04T18:45:34+10:00
+date: 2025-10-04
 slug: "2025-10-04-goodbye-medium"
 cover:
   image: "images/see-you-later.png"

@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.12.20 Groups Revelation"
+title: "[轉職工程師日記]： 2019.12.20 Groups Revelation"
 date: 2019-12-20
 slug: "2019-12-20-groups-revelation"
 images: ['']

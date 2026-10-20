@@ -1,6 +1,6 @@
 ---
 
-title: "太平洋小島上的大冒險：2025.04.19 Vanuatu Day 1 一個女生勇闖萬那杜"
+title: "[太平洋小島上的大冒險]：2025.04.19 Vanuatu Day 1 一個女生勇闖萬那杜"
 date: 2025-04-19
 slug: "2025-04-19-vanuatu-day-1"
 cover:

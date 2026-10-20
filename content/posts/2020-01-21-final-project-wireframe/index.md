@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.21 Final Project - Wireframe"
+title: "[轉職工程師日記]： 2020.01.21 Final Project - Wireframe"
 date: 2020-01-21
 slug: "2020-01-21-final-project-wireframe"
 images: ['']

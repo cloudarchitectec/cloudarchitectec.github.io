@@ -1,6 +1,6 @@
 ---
 
-title: "一個女生的歐洲獨旅: 2024.05.06 瑞士茵特拉肯 (Interlaken) Day 2: 少女峰 (Jungfraujoch) 我來了"
+title: "[一個女生的歐洲獨旅]： 2024.05.06 瑞士茵特拉肯 (Interlaken) Day 2: 少女峰 (Jungfraujoch) 我來了"
 date: 2024-07-13
 slug: "2024-07-13-interlaken-day-2"
 cover:

@@ -1,6 +1,6 @@
 ---
 
-title: "微軟雲端架構師 (Solution Architect) 職位解析 2：Solution Architecting"
+title: "[微軟雲端架構師 (Solution Architect) 職位解析] 2：Solution Architecting"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-2"
 cover:
@@ -13,14 +13,14 @@ cover:
 images: ['images/medium-0*XTejTjV9ZtCU27LU.jpg', 'images/medium-1*04yK12_QyvHHIdvlN2rmMw.png', 'images/medium-1*a9im277bnzrf4AP90h5p_Q.png', 'images/medium-0*S01TqTt4irw1xdCl.png']
 categories: ["澳洲職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
-episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
+episodeseries: ["微軟雲端架構師職位解析"]
 ---
 
-這篇文章是《微軟雲端架構師 (Solution Architect) 職位解析》系列的第二集。
+這篇文章是《[微軟雲端架構師 (Solution Architect) 職位解析]》系列的第二集。
 
 這個系列預計會有五篇文章，以雲端架構師在日常工作中最主要的任務為例 :
 
-  1. [《微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart》](2023-07-28-ms-csa-1)
+  1. [《[微軟雲端架構師 (Solution Architect) 職位解析] 1：Org Chart》](2023-07-28-ms-csa-1)
   2. **Solution Architecting >> 你正在閱讀的文章**
   3. Technical Guidance/Customer Meetings
   4. Technical Presentation/Workshops

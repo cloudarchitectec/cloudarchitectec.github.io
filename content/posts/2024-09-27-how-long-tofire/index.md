@@ -1,6 +1,6 @@
 ---
 
-title: "好想要退休！我與退休之間的距離：澳洲工程師是否比台灣更容易達成財務自由 (FIRE)？"
+title: "[好想要退休]：我與退休之間的距離：澳洲工程師是否比台灣更容易達成財務自由 (FIRE)？"
 date: 2024-09-27
 slug: "2024-09-27-how-long-tofire"
 cover:
@@ -30,11 +30,11 @@ Covid 後，澳洲的房貸利率一路從 2% 攀升到現在的 6.6%，EC 身�
   * 2022: 7 天新加坡 Amazon 出差行
   * 2023: 10 天南太平洋郵輪
 
-[《Carnival Splendor 澳洲南太平洋郵輪 — 事前準備及須知》](/posts/2023-05-08-carnival-splendor-intro/)
+[《[Carnival Splendor 澳洲南太平洋郵輪] — 事前準備及須知》](/posts/2023-05-08-carnival-splendor-intro/)
 
   * 2022: 10 天斐濟
 
-[《斐濟自助旅遊 Day 1：初來乍到之這裡真的不是屏東嗎？》](/posts/2024-01-30-fiji-day-1/)
+[《[斐濟自由行]： Day 1：初來乍到之這裡真的不是屏東嗎？》](/posts/2024-01-30-fiji-day-1/)
 
   * 2022: 返台 long stay 36 天
   * 2024: 17 天歐洲行

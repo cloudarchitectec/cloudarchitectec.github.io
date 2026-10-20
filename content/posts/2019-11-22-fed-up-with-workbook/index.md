@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.22 Fed up with Workbook"
+title: "[轉職工程師日記]： 2019.11.22 Fed up with Workbook"
 date: 2019-11-22
 slug: "2019-11-22-fed-up-with-workbook"
 images: ['']

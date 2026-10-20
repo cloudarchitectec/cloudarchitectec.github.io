@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.15 Speed UP!"
+title: "[轉職工程師日記]： 2019.11.15 Speed UP!"
 date: 2019-11-15
 slug: "2019-11-15-speed-up"
 images: ['']

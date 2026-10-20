@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.12.03 Term 2 Break Review Session"
+title: "[轉職工程師日記]： 2019.12.03 Term 2 Break Review Session"
 date: 2019-12-03
 slug: "2019-12-03-term-2-break-review-session"
 images: ['']

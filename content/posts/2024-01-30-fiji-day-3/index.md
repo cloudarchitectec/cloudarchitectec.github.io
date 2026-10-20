@@ -1,6 +1,6 @@
 ---
 
-title: "斐濟自助旅遊 2022.10.12 Day 3: Malamala Island"
+title: "[斐濟自由行]： 2022.10.12 Day 3: Malamala Island"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-3"
 cover:

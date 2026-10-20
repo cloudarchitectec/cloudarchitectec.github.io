@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.12.13 Super Pissed!"
+title: "[轉職工程師日記]： 2019.12.13 Super Pissed!"
 date: 2019-12-13
 slug: "2019-12-13-super-pissed"
 images: ['']

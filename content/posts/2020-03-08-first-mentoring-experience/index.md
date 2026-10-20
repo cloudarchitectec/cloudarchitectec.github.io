@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.03.08 First Mentoring Experience"
+title: "[轉職工程師日記]： 2020.03.08 First Mentoring Experience"
 date: 2020-03-08
 slug: "2020-03-08-first-mentoring-experience"
 images: ['']

@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.15 — Day 1 雪梨登船"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.15 — Day 1 雪梨登船"
 date: 2023-05-15
 slug: "2023-05-15-carnival-splendor-day-1"
 cover:
@@ -18,7 +18,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 * * *
 
-### Carnival Splendor 澳洲南太平洋郵輪 2023.05.15 — Day 1 雪梨登船
+### [Carnival Splendor 澳洲南太平洋郵輪] 2023.05.15 — Day 1 雪梨登船
 
 
 

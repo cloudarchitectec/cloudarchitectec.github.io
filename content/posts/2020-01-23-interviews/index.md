@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.23 Interviews"
+title: "[轉職工程師日記]： 2020.01.23 Interviews"
 date: 2020-01-23
 slug: "2020-01-23-interviews"
 images: ['']

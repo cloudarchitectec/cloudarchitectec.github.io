@@ -1,6 +1,6 @@
 ---
 
-title: "太平洋小島上的大冒險：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區"
+title: "[太平洋小島上的大冒險]：2025.04.20 Vanuatu Day 2 一片死寂的災後週日市區"
 date: 2025-04-20
 slug: "2025-04-20-vanuatu-day-2"
 cover:

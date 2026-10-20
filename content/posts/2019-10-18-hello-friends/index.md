@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.10.18 Hello Friends!!!"
+title: "[轉職工程師日記]： 2019.10.18 Hello Friends!!!"
 date: 2019-10-18
 slug: "2019-10-18-hello-friends"
 images: ['']

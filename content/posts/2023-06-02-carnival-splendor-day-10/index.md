@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.24 — 返回雪梨 & 心得總結"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.24 — 返回雪梨 & 心得總結"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-10"
 cover:
@@ -15,7 +15,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 * * *
 
-### Carnival Splendor 澳洲南太平洋郵輪 2023.05.24 — 返回雪梨 & 心得總結
+### [Carnival Splendor 澳洲南太平洋郵輪] 2023.05.24 — 返回雪梨 & 心得總結
 
 
 

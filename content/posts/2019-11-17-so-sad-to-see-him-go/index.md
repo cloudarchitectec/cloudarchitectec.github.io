@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.17 So Sad to See Him Go"
+title: "[轉職工程師日記]： 2019.11.17 So Sad to See Him Go"
 date: 2019-11-17
 slug: "2019-11-17-so-sad-to-see-him-go"
 images: ['']

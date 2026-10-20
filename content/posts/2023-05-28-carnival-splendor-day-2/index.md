@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.16 — Day 2 Sea Day 1"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.16 — Day 2 Sea Day 1"
 date: 2023-05-28
 slug: "2023-05-28-carnival-splendor-day-2"
 cover:
@@ -18,7 +18,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 * * *
 
-### Carnival Splendor 澳洲南太平洋郵輪 2023.05.16 — Day 2 Sea Day 1
+### [Carnival Splendor 澳洲南太平洋郵輪] 2023.05.16 — Day 2 Sea Day 1
 
 
 * * *

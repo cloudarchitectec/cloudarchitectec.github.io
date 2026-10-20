@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.21 Hackathon"
+title: "[轉職工程師日記]： 2020.01.21 Hackathon"
 date: 2020-01-21
 slug: "2020-01-21-hackathon"
 images: ['']

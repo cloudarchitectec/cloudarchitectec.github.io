@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.25 Final Project – Dinner with classmates"
+title: "[轉職工程師日記]： 2020.01.25 Final Project – Dinner with classmates"
 date: 2020-01-25
 slug: "2020-01-25-final-project-dinner-with-classmates"
 images: ['']

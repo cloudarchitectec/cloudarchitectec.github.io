@@ -12,7 +12,7 @@ cover:
 images: ['images/medium-0*2Yvaws4V393iGDiT.jpg']
 categories: ["澳洲職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
-
+episodeseries: ["微軟雲端架構師職位解析"]
 ---
 
 * * *

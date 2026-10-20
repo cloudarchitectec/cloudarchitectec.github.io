@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.06 Finish in a Month"
+title: "[轉職工程師日記]： 2020.01.06 Finish in a Month"
 date: 2020-01-06
 slug: "2020-01-06-finish-in-a-month"
 images: ['']

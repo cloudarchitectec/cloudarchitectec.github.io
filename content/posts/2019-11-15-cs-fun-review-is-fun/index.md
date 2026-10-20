@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.15 CS Fun Review Is Fun"
+title: "[轉職工程師日記]： 2019.11.15 CS Fun Review Is Fun"
 date: 2019-11-15
 slug: "2019-11-15-cs-fun-review-is-fun"
 images: ['']

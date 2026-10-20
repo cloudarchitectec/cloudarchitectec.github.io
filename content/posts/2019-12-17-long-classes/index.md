@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.12.17 Long Classes"
+title: "[轉職工程師日記]： 2019.12.17 Long Classes"
 date: 2019-12-17
 slug: "2019-12-17-long-classes"
 images: ['']

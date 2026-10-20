@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.12 Last Week of Lecture"
+title: "[轉職工程師日記]： 2020.01.12 Last Week of Lecture"
 date: 2020-01-12
 slug: "2020-01-12-last-week-of-lecture"
 images: ['']
