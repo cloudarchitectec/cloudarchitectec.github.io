@@ -3,6 +3,7 @@ title: "旅行、投資理財與生活型態的選擇：5 年 15 國的旅行消
 description: "整理過去五年海外旅行的消費紀錄，從機票、住宿、活動與購物比例，回看歐洲長旅成本、台灣出國旅次數據，以及旅行與 ETF 投資能否兼顧的取捨與生活選擇。"
 date: 2026-10-19
 slug: "2026-10-19-travel-expense-reflection"
+draft: true
 cover:
   image: "images/cLX3P0H1TQE-unsplash.jpg"
   alt: "a couple of passports sitting on top of a bed"
