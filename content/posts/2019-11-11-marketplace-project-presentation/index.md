@@ -1,11 +1,11 @@
 ---
 
-title: "轉職工程師日記: 2019.11.11 Marketplace Project Presentation"
+title: "[轉職工程師日記]： 2019.11.11 Marketplace Project Presentation"
 date: 2019-11-11
 slug: "2019-11-11-marketplace-project-presentation"
 cover:
   image: "images/ERD.jpg"
-  alt: "轉職工程師日記: 2019.11.11 Marketplace Project Presentation"
+  alt: "[轉職工程師日記]： 2019.11.11 Marketplace Project Presentation"
 images: ['images/ERD.jpg']
 categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]

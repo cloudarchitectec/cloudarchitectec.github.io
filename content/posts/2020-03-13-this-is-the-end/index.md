@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.03.13 125 This is it! This is the End!!!"
+title: "[轉職工程師日記]： 2020.03.13 125 This is it! This is the End!!!"
 date: 2020-03-13
 slug: "2020-03-13-this-is-the-end"
 images: ['']

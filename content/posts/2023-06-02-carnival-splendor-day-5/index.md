@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.19 — Day 5 Lifou (New Caledonia)"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.19 — Day 5 Lifou (New Caledonia)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-5"
 cover:
@@ -15,7 +15,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ---
 
-### Carnival Splendor 澳洲南太平洋郵輪 2023.05.19 — Day 5 Lifou (New Caledonia)
+### [Carnival Splendor 澳洲南太平洋郵輪] 2023.05.19 — Day 5 Lifou (New Caledonia)
 
 
 

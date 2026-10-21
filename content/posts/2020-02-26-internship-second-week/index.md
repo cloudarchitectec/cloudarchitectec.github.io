@@ -1,11 +1,11 @@
 ---
 
-title: "轉職工程師日記: 2020-02-26 Internship – Second Week"
+title: "[轉職工程師日記]： 2020-02-26 Internship – Second Week"
 date: 2020-02-26
 slug: "2020-02-26-internship-second-week"
 cover:
   image: "images/89245870_135401031158136_6879449233414422528_n.jpg"
-  alt: "轉職工程師日記: 2020-02-26 Internship – Second Week"
+  alt: "[轉職工程師日記]： 2020-02-26 Internship – Second Week"
 images: ['images/89245870_135401031158136_6879449233414422528_n.jpg']
 categories: ["轉職工程師日記"]
 tags: ["程式訓練營", "Coding Bootcamp"]

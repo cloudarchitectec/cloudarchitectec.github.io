@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.09.04 開始個人作業 I"
+title: "[轉職工程師日記]： 2019.09.04 開始個人作業 I"
 date: 2019-09-04
 slug: "2019-09-04-first-personal-project"
 cover:

@@ -1,11 +1,11 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Signal Island (New Caledonia)"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.21 — Day 7 Signal Island (New Caledonia)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-7"
 cover:
   image: "images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpg"
-  alt: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Signal Island (New Caledonia)"
+  alt: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.21 — Day 7 Signal Island (New Caledonia)"
 images: ['images/medium-1*bADwH-f_cnNCVGlnV1XzkA.jpg', 'images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpg', 'images/medium-1*XU3yT7_raobC99qC2ioKiA.jpg', 'images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpg', 'images/medium-1*eLSS1RBwMshMewdIJxK7cQ.jpg']
 categories: ["旅行紀錄"]
 tags: ["旅遊", "郵輪"]
@@ -14,7 +14,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ---
 
-### Carnival Splendor 澳洲南太平洋郵輪 2023.05.21 — Day 7 Signal Island (New Caledonia)
+### [Carnival Splendor 澳洲南太平洋郵輪] 2023.05.21 — Day 7 Signal Island (New Caledonia)
 
 ![郵輪房務創意毛巾猩猩](images/medium-1*yORzMq9nnIiyo08AWv_vcQ.jpg)
 

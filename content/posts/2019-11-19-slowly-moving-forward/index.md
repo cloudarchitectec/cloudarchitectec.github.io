@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.19 Slowly Moving Forward"
+title: "[轉職工程師日記]： 2019.11.19 Slowly Moving Forward"
 date: 2019-11-19
 slug: "2019-11-19-slowly-moving-forward"
 images: ['']

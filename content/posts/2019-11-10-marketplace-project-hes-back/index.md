@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.10 Marketplace Project (‘He’s back!’)"
+title: "[轉職工程師日記]： 2019.11.10 Marketplace Project (‘He’s back!’)"
 date: 2019-11-10
 slug: "2019-11-10-marketplace-project-hes-back"
 images: ['']

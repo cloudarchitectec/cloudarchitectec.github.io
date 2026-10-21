@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.03.05 Internship – Third Week"
+title: "[轉職工程師日記]： 2020.03.05 Internship – Third Week"
 date: 2020-03-05
 slug: "2020-03-05-internship-third-week"
 images: ['']

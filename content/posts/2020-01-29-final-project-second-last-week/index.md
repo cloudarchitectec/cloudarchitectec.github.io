@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.29 Final Project – Second Last Week"
+title: "[轉職工程師日記]： 2020.01.29 Final Project – Second Last Week"
 date: 2020-01-29
 slug: "2020-01-29-final-project-second-last-week"
 images: ['']

@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.04 Marketplace Project (Week One)"
+title: "[轉職工程師日記]： 2019.11.04 Marketplace Project (Week One)"
 date: 2019-11-04
 slug: "2019-11-04-marketplace-project-week-one"
 images: ['']

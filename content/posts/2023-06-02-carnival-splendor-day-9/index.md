@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.23 — Day 9 Sea Day 4"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.23 — Day 9 Sea Day 4"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-9"
 cover:
@@ -15,7 +15,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ---
 
-### Carnival Splendor 澳洲南太平洋郵輪 2023.05.23 — Day 9 Sea Day 4
+### [Carnival Splendor 澳洲南太平洋郵輪] 2023.05.23 — Day 9 Sea Day 4
 
 
 

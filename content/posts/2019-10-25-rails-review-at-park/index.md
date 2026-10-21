@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.10.25 Rails Review at Park"
+title: "[轉職工程師日記]： 2019.10.25 Rails Review at Park"
 date: 2019-10-25
 slug: "2019-10-25-rails-review-at-park"
 images: ['']

@@ -113,20 +113,31 @@ function copyPageUrl(button) {
 
 function shareFacebook(button) {
   const url = button.getAttribute('data-url');
-  window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`);
+  const description = button.getAttribute('data-description');
+  const shareUrl = new URL('https://www.facebook.com/sharer/sharer.php');
+  shareUrl.searchParams.set('u', url);
+  shareUrl.searchParams.set('quote', description);
+  window.open(shareUrl, '_blank', 'noopener,noreferrer');
 }
 
 function shareThreads(button) {
   const url = button.getAttribute('data-url');
   const title = button.getAttribute('data-title');
+  const description = button.getAttribute('data-description');
   const prefix = button.getAttribute('data-prefix');
-  window.open(`https://threads.net/intent/post?text=${encodeURIComponent(prefix)}%0A${encodeURIComponent(title)}%20${encodeURIComponent(url)}`);
+  const text = [prefix, title, description, url].filter(Boolean).join('\n');
+  const shareUrl = new URL('https://threads.net/intent/post');
+  shareUrl.searchParams.set('text', text);
+  window.open(shareUrl, '_blank', 'noopener,noreferrer');
 }
 
 function shareEmail(button) {
   const url = button.getAttribute('data-url');
   const title = button.getAttribute('data-title');
-  window.open(`mailto:?subject=${title}&body=${title}%0A${url}`);
+  const description = button.getAttribute('data-description');
+  const body = [title, description, url].filter(Boolean).join('\n\n');
+  const mailto = new URLSearchParams({ subject: title, body });
+  window.open(`mailto:?${mailto.toString()}`);
 }
 </script>
 

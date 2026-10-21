@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.12.13 Teacher is Back!"
+title: "[轉職工程師日記]： 2019.12.13 Teacher is Back!"
 date: 2019-12-13
 slug: "2019-12-13-teacher-is-back"
 images: ['']

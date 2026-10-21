@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.10 Marketplace Project – Crossed the Finishing Line"
+title: "[轉職工程師日記]： 2019.11.10 Marketplace Project – Crossed the Finishing Line"
 date: 2019-11-10
 slug: "2019-11-10-marketplace-project-crossed-the-finishing-line"
 images: ['']

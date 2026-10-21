@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.29 We Need you!!!"
+title: "[轉職工程師日記]： 2019.11.29 We Need you!!!"
 date: 2019-11-29
 slug: "2019-11-29-we-need-you"
 images: ['']

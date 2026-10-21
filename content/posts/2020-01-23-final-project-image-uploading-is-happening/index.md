@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.23 Final Project – Image Uploading Is Happening"
+title: "[轉職工程師日記]： 2020.01.23 Final Project – Image Uploading Is Happening"
 date: 2020-01-23
 slug: "2020-01-23-final-project-image-uploading-is-happening"
 images: ['']

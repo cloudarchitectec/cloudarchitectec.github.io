@@ -12,6 +12,7 @@ cover:
 images: ["images/christoph-theisinger-B4mV8nB8pGA-unsplash.jpg"]
 categories: ["澳洲職場"]
 tags: [ "科技業", "Diversity", "DevOps 工程師", "職涯"]
+episodeseries: ["我要升官加薪"]
 
 ---
 

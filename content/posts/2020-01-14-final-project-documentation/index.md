@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2020.01.14 Final Project – Documentation"
+title: "[轉職工程師日記]： 2020.01.14 Final Project – Documentation"
 date: 2020-01-14
 slug: "2020-01-14-final-project-documentation"
 images: ['']

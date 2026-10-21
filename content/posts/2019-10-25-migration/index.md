@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.10.25 Migration"
+title: "[轉職工程師日記]： 2019.10.25 Migration"
 date: 2019-10-25
 slug: "2019-10-25-migration"
 images: ['']

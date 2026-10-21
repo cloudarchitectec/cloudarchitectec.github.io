@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.10 Marketplace Project (‘I don’t feel sorry for them’)"
+title: "[轉職工程師日記]： 2019.11.10 Marketplace Project (‘I don’t feel sorry for them’)"
 date: 2019-11-10
 slug: "2019-11-10-marketplace-project-i-dont-feel-sorry-for-them"
 images: ['']

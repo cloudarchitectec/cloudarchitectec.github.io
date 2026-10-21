@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.10.25 Unpredictable"
+title: "[轉職工程師日記]： 2019.10.25 Unpredictable"
 date: 2019-10-25
 slug: "2019-10-25-unpredictable"
 images: ['']

@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.17 — Day 3 Sea Day 2"
 date: 2023-05-30
 slug: "2023-05-30-carnival-splendor-day-3"
 cover:
@@ -15,7 +15,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ---
 
-### Carnival Splendor 澳洲南太平洋郵輪 2023.05.17 — Day 3 Sea Day 2
+### [Carnival Splendor 澳洲南太平洋郵輪] 2023.05.17 — Day 3 Sea Day 2
 
 
 

@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.12.13I Want My Money Back"
+title: "[轉職工程師日記]： 2019.12.13I Want My Money Back"
 date: 2019-12-13
 slug: "2019-12-13-i-want-my-money-back"
 images: ['']

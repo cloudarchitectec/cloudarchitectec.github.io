@@ -1,6 +1,6 @@
 ---
 
-title: "微軟雲端架構師 (Solution Architect) 職位解析 1：Org Chart"
+title: "[微軟雲端架構師 (Solution Architect) 職位解析] 1：Org Chart"
 date: 2023-07-28
 slug: "2023-07-28-ms-csa-1"
 cover:
@@ -13,7 +13,7 @@ cover:
 images: ['images/medium-0*K1HNZvbky5n_Ejol.jpg', 'images/medium-1*lyXDbo3hHfU9-jWc-dR0DA.png', 'images/medium-1*U4ue47g8V7hSuywpvW0e0w.png']
 categories: ["澳洲職場"]
 tags: ["微軟", "Solution Architect","雲端架構師"]
-episodeseries: ["微軟雲端架構師 (Solution Architect) 職位解析"]
+episodeseries: ["微軟雲端架構師職位解析"]
 ---
 
 跟讀者們或是朋友們聊天時，他們對我提出的第一個問題總是「所以雲端架構師 (Solution Architect) 到底是在做什麼?」但我每次解釋後，大家看起來還是一知半解。所以我決定用近期在工作上遇到的實際案例，來描述一下雲端架構師的日常工作內容，希望可以增進大家對於這個職位的了解。

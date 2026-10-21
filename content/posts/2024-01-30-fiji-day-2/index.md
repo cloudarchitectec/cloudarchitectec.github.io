@@ -1,11 +1,11 @@
 ---
 
-title: "斐濟自助旅遊 2022.10.11 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
+title: "[斐濟自由行]： 2022.10.11 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
 date: 2024-01-30
 slug: "2024-01-30-fiji-day-2"
 cover:
   image: "images/medium-1*oy2wFfSBokqmqWVICGWdLw.jpg"
-  alt: "斐濟自助旅遊 2022.10.11 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
+  alt: "[斐濟自由行]： 2022.10.11 Day 2: 珊瑚海岸 (Coral Coast) 一日遊"
   credit:
     photographer: "Giorgia Doglioni"
     photographer_url: "https://unsplash.com/@gio_aroundtheworld"

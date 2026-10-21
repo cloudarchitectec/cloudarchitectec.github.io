@@ -1,5 +1,6 @@
 {{- $pageurl := .Permalink }}
 {{- $title := .Title }}
+{{- $description := .Description | default .Summary | plainify | htmlUnescape }}
 {{- $threadsPrefix := .Site.Params.sharing.threadsPrefix | default "<澳洲雲端架構師 EC>" }}
 
 <div class="medium-share_buttons">
@@ -18,20 +19,20 @@
       </svg>
       <span>Copy link</span>
     </button>
-    <button class="share-option facebook" onclick="shareFacebook(this)" aria-label="Share on Facebook" data-url="{{ $pageurl }}">
+    <button class="share-option facebook" onclick="shareFacebook(this)" aria-label="Share on Facebook" data-url="{{ $pageurl }}" data-description="{{ $description }}">
       <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="24px" width="24px" fill="currentColor">
         <path d="M449.446,0c34.525,0 62.554,28.03 62.554,62.554l0,386.892c0,34.524 -28.03,62.554 -62.554,62.554l-106.468,0l0,-192.915l66.6,0l12.672,-82.621l-79.272,0l0,-53.617c0,-22.603 11.073,-44.636 46.58,-44.636l36.042,0l0,-70.34c0,0 -32.71,-5.582 -63.982,-5.582c-65.288,0 -107.96,39.569 -107.96,111.204l0,62.971l-72.573,0l0,82.621l72.573,0l0,192.915l-191.104,0c-34.524,0 -62.554,-28.03 -62.554,-62.554l0,-386.892c0,-34.524 28.029,-62.554 62.554,-62.554l386.892,0Z"/>
       </svg>
       <span>Share on Facebook</span>
     </button>
-    <button class="share-option threads" onclick="shareThreads(this)" aria-label="Share on Threads" data-url="{{ $pageurl }}" data-title="{{ $title }}" data-prefix="{{ $threadsPrefix }}">
+    <button class="share-option threads" onclick="shareThreads(this)" aria-label="Share on Threads" data-url="{{ $pageurl }}" data-title="{{ $title }}" data-description="{{ $description }}" data-prefix="{{ $threadsPrefix }}">
       <svg version="1.1" viewBox="0 0 512 512" xml:space="preserve" height="24px" width="24px" fill="currentColor">
         <rect width="512" height="512" rx="62.554" fill="currentColor"/>
         <text x="256" y="320" text-anchor="middle" font-size="280" font-family="Arial, sans-serif" fill="white">@</text>
       </svg>
       <span>Share on Threads</span>
     </button>
-    <button class="share-option email" onclick="shareEmail(this)" aria-label="Share via Email" data-url="{{ $pageurl }}" data-title="{{ $title }}">
+    <button class="share-option email" onclick="shareEmail(this)" aria-label="Share via Email" data-url="{{ $pageurl }}" data-title="{{ $title }}" data-description="{{ $description }}">
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
         <polyline points="22,6 12,13 2,6"></polyline>

@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.08.27 Bang Bang Bang"
+title: "[轉職工程師日記]： 2019.08.27 Bang Bang Bang"
 date: 2019-08-27
 slug: "2019-08-27-bang-bang-bang"
 cover:

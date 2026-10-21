@@ -1,6 +1,6 @@
 ---
 
-title: "一個女生的歐洲獨旅: 2024.05.07 瑞士茵特拉肯 (Interlaken) Day 3: 好險我昨天上了少女峰"
+title: "[一個女生的歐洲獨旅]： 2024.05.07 瑞士茵特拉肯 (Interlaken) Day 3: 好險我昨天上了少女峰"
 date: 2024-07-13
 slug: "2024-07-13-interlaken-day-3"
 cover:

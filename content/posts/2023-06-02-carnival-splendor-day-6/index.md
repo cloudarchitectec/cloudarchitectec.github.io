@@ -1,6 +1,6 @@
 ---
 
-title: "Carnival Splendor 澳洲南太平洋郵輪 2023.05.20 — Day 6 Mystery Island (Vanuatu)"
+title: "[Carnival Splendor 澳洲南太平洋郵輪] 2023.05.20 — Day 6 Mystery Island (Vanuatu)"
 date: 2023-06-02
 slug: "2023-06-02-carnival-splendor-day-6"
 cover:

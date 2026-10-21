@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.10.25 CS Fun(damental) Test"
+title: "[轉職工程師日記]： 2019.10.25 CS Fun(damental) Test"
 date: 2019-10-25
 slug: "2019-10-25-cs-fundamental-test"
 images: ['']

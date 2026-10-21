@@ -1,6 +1,6 @@
 ---
 
-title: "轉職工程師日記: 2019.11.15 Here Comes JavaScript"
+title: "[轉職工程師日記]： 2019.11.15 Here Comes JavaScript"
 date: 2019-11-15
 slug: "2019-11-15-here-comes-javascript"
 images: ['']
