@@ -57,6 +57,38 @@ EPISODE_TERM="${PUBLIC_DIR}/episodeseries/轉職工程師日記/index.html"
 [ -f "$EPISODE_TERM" ] || (echo "❌ Episode series term page missing: $EPISODE_TERM" && exit 1)
 echo "✅ Episode series taxonomy term page built"
 
+CATEGORY_TERM="${PUBLIC_DIR}/categories/轉職工程師日記/index.html"
+[ -f "$CATEGORY_TERM" ] || (echo "❌ Career category term page missing: $CATEGORY_TERM" && exit 1)
+CANONICAL_EPISODE_URL="https://cloudarchitectec.com/episodeseries/%E8%BD%89%E8%81%B7%E5%B7%A5%E7%A8%8B%E5%B8%AB%E6%97%A5%E8%A8%98/"
+grep -q "rel=canonical href=${CANONICAL_EPISODE_URL}" "$CATEGORY_TERM" \
+  && grep -q "rel=canonical href=${CANONICAL_EPISODE_URL}" "$EPISODE_TERM" \
+  && echo "✅ Career category canonical points to its episode-series page" \
+  || (echo "❌ Career category and episode-series canonical URLs do not match" && exit 1)
+
+HOME_PAGINATION_REDIRECT="${PUBLIC_DIR}/page/index.html"
+HOME_URL="https://cloudarchitectec.com/"
+[ -f "$HOME_PAGINATION_REDIRECT" ] \
+  && grep -q "http-equiv=refresh content=\"0; url=${HOME_URL}\"" "$HOME_PAGINATION_REDIRECT" \
+  && grep -q "rel=canonical href=${HOME_URL}" "$HOME_PAGINATION_REDIRECT" \
+  && echo "✅ Obsolete homepage pagination URL redirects and canonicalises to the homepage" \
+  || (echo "❌ Obsolete homepage pagination redirect or canonical URL missing or incorrect" && exit 1)
+
+TAG_PAGE_REDIRECT="${PUBLIC_DIR}/tags/科技業/page/2/index.html"
+TAG_ARCHIVE_URL="https://cloudarchitectec.com/tags/%E7%A7%91%E6%8A%80%E6%A5%AD/"
+[ -f "$TAG_PAGE_REDIRECT" ] \
+  && grep -q "http-equiv=refresh content=\"0; url=${TAG_ARCHIVE_URL}\"" "$TAG_PAGE_REDIRECT" \
+  && grep -q "rel=canonical href=${TAG_ARCHIVE_URL}" "$TAG_PAGE_REDIRECT" \
+  && echo "✅ Obsolete tag pagination URL redirects and canonicalises to the tag archive" \
+  || (echo "❌ Obsolete tag pagination redirect or canonical URL missing or incorrect" && exit 1)
+
+PE_POST_REDIRECT="${PUBLIC_DIR}/posts/2025-11-18-pe2-one-on-one-with-manager/index.html"
+PE_POST_URL="https://cloudarchitectec.com/posts/2025-11-14-pe-1-pe-or-not/"
+[ -f "$PE_POST_REDIRECT" ] \
+  && grep -q "http-equiv=refresh content=\"0; url=${PE_POST_URL}\"" "$PE_POST_REDIRECT" \
+  && grep -q "rel=canonical href=${PE_POST_URL}" "$PE_POST_REDIRECT" \
+  && echo "✅ Retired PE-series URL redirects and canonicalises to its replacement article" \
+  || (echo "❌ Retired PE-series article redirect or canonical URL missing or incorrect" && exit 1)
+
 PORTFOLIO_CAREER_ZH="${PUBLIC_DIR}/portfolio/career-zh/index.html"
 PORTFOLIO_CAREER_EN="${PUBLIC_DIR}/portfolio/career-en/index.html"
 PORTFOLIO_STORY="${PUBLIC_DIR}/portfolio/story/index.html"
