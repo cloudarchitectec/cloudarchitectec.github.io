@@ -81,13 +81,10 @@ TAG_ARCHIVE_URL="https://cloudarchitectec.com/tags/%E7%A7%91%E6%8A%80%E6%A5%AD/"
   && echo "✅ Obsolete tag pagination URL redirects and canonicalises to the tag archive" \
   || (echo "❌ Obsolete tag pagination redirect or canonical URL missing or incorrect" && exit 1)
 
-PE_POST_REDIRECT="${PUBLIC_DIR}/posts/2025-11-18-pe2-one-on-one-with-manager/index.html"
-PE_POST_URL="https://cloudarchitectec.com/posts/2025-11-14-pe-1-pe-or-not/"
-[ -f "$PE_POST_REDIRECT" ] \
-  && grep -q "http-equiv=refresh content=\"0; url=${PE_POST_URL}\"" "$PE_POST_REDIRECT" \
-  && grep -q "rel=canonical href=${PE_POST_URL}" "$PE_POST_REDIRECT" \
-  && echo "✅ Retired PE-series URL redirects and canonicalises to its replacement article" \
-  || (echo "❌ Retired PE-series article redirect or canonical URL missing or incorrect" && exit 1)
+PE_POST_RETIRED="${PUBLIC_DIR}/posts/2025-11-18-pe2-one-on-one-with-manager/index.html"
+[ ! -e "$PE_POST_RETIRED" ] \
+  && echo "✅ Retired PE-series URL is not generated" \
+  || (echo "❌ Retired PE-series URL is still generated" && exit 1)
 
 PORTFOLIO_CAREER_ZH="${PUBLIC_DIR}/portfolio/career-zh/index.html"
 PORTFOLIO_CAREER_EN="${PUBLIC_DIR}/portfolio/career-en/index.html"
@@ -163,6 +160,18 @@ fi
 grep -q '2025-10-04-goodbye-medium' "$SITEMAP" \
   && echo "✅ sitemap contains stable post slug" \
   || (echo "❌ sitemap missing stable post slug" && exit 1)
+
+for URL in 'https://cloudarchitectec.com/portfolio/' 'https://cloudarchitectec.com/categories/%E6%B5%B7%E5%A4%96%E8%81%B7%E5%A0%B4/'; do
+  if grep -Fq "<loc>${URL}</loc>" "$SITEMAP"; then
+    echo "❌ sitemap contains redirect URL: $URL"
+    exit 1
+  fi
+done
+for URL in 'https://cloudarchitectec.com/portfolio/career-zh/' 'https://cloudarchitectec.com/categories/%E6%BE%B3%E6%B4%B2%E8%81%B7%E5%A0%B4/'; do
+  grep -Fq "<loc>${URL}</loc>" "$SITEMAP" \
+    || (echo "❌ sitemap missing destination URL: $URL" && exit 1)
+done
+echo "✅ sitemap contains redirect destinations, not redirect pages"
 
 ROBOTS="${PUBLIC_DIR}/robots.txt"
 [ -f "$ROBOTS" ] || (echo "❌ robots.txt missing from ${PUBLIC_DIR}/" && exit 1)
