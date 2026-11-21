@@ -16,13 +16,16 @@ tags: ["旅遊", "斐濟"]
 episodeseries: ["斐濟旅記"]
 ---
 
-1 斐濟幣 = 0.68 澳幣 = 14 TWD
+{{< exchange-note >}}
+本文斐濟幣換算以「1 斐濟幣≈0.68 澳幣、14 台幣」粗略估算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
 
 這是 Tokatoka 飯店的早餐，很普通，這樣一人還要 20 斐濟幣，也就是 280 台幣 (好險我的房間是含早餐的，不用再額外付錢)。
 
-![Tokatoka飯店豐盛歐陸式早餐](images/medium-1*lQQDZ9d75S-w1F47tWt-Zw.jpg)
-
-![斐濟熱帶水果早餐](images/medium-1*4Ar0XAYW7or1rjElNGF78g.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*lQQDZ9d75S-w1F47tWt-Zw.jpg" alt="Tokatoka飯店豐盛歐陸式早餐" >}}
+{{< figure src="images/medium-1*4Ar0XAYW7or1rjElNGF78g.jpg" alt="斐濟熱帶水果早餐" >}}
+{{< /gallery >}}
 
 我今天的行程是去 Nadi 市區閒晃，然後回飯店按摩跟玩滑水道。出發前我稍微查了一下，大家對斐濟的治安好像還是有點疑慮，大眾交通工具不是太可靠，因此我這次完全沒有調查大眾交通方式，而是選擇搭乘計程車前往。
 
@@ -41,9 +44,10 @@ episodeseries: ["斐濟旅記"]
 
 *炸雞與珍奶*
 
-![珍奶店飲料菜單](images/medium-1*maKJl591iSb1XH8bd3q3Aw.jpg)
-
-![斐濟特色手搖飲品](images/medium-1*EWueicjjVL2iUQT_V-qrJg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*maKJl591iSb1XH8bd3q3Aw.jpg" alt="珍奶店飲料菜單" >}}
+{{< figure src="images/medium-1*EWueicjjVL2iUQT_V-qrJg.jpg" alt="斐濟特色手搖飲品" >}}
+{{< /gallery >}}
 
 *事過境遷，我真的忘了我當初點什麼了，應該也沒有太好喝XD*
 
@@ -63,7 +67,7 @@ episodeseries: ["斐濟旅記"]
 
 ![斐濟FJD7元橄欖球紀念紙鈔](images/medium-1*68-6whc9cjMou1308Lj0JQ.jpg)
 
-*斐濟居然有 $7 的紙鈔，超有趣！看描述應該是斐濟橄欖球隊的紀念版*
+*斐濟居然有 $7 斐濟幣（約 98 台幣）的紙鈔，超有趣！看描述應該是斐濟橄欖球隊的紀念版*
 
 ### 再度回到計程車司機
 
@@ -81,16 +85,18 @@ episodeseries: ["斐濟旅記"]
 
 不得不說飯店的按摩小屋裝潢氣氛還不錯～
 
-![飯店私人按摩小屋外觀](images/medium-1*pR_hCUL162C3Qx7wGHTGFw.jpg)
-
-![飯店按摩小屋內部環境](images/medium-1*ME6HFCkpu4PTV4WcvrjqqA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*pR_hCUL162C3Qx7wGHTGFw.jpg" alt="飯店私人按摩小屋外觀" >}}
+{{< figure src="images/medium-1*ME6HFCkpu4PTV4WcvrjqqA.jpg" alt="飯店按摩小屋內部環境" >}}
+{{< /gallery >}}
 
 *飯店的按摩小屋*
 
 飯店的泳池還有滑水道，小朋友們玩得超級開心的！我自己也上去滑了一次體驗一下～
 
-![Tokatoka飯店戶外游泳池](images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpg)
-
-![Tokatoka飯店泳池休閒區](images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*R6vrFO3Lih5AYNxLKPGDkA.jpg" alt="Tokatoka飯店戶外游泳池" >}}
+{{< figure src="images/medium-1*erAhDxsH19rd-y0Fk6-Jpg.jpg" alt="Tokatoka飯店泳池休閒區" >}}
+{{< /gallery >}}
 
 *Tokatoka Hotel 的泳池設施*

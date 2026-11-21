@@ -9,6 +9,7 @@ cover:
 images: ["images/bukhara-1.JPG", "images/bukhara-2.JPG", "images/bukhara-3.JPG", "images/camel.JPG", "images/city-1.JPG", "images/city-2.JPG", "images/city-3.JPG", "images/cover.JPG", "images/dress.JPG", "images/light-1.JPG", "images/light-2.JPG", "images/light-3.JPG", "images/light-4.JPG", "images/market-1.JPG", "images/market-2.JPG", "images/market-3.JPG", "images/market-4.JPG", "images/s-1.JPG", "images/s-2.JPG", "images/s-3.JPG", "images/square-1.JPG", "images/square-2.JPG", "images/square-3.JPG", "images/square-4.JPG", "images/tea-1.JPG", "images/tea-2.JPG", "images/temple.JPG", "images/tomb-1.JPG", "images/tomb-2.JPG", "images/tomb-3.JPG"]
 categories: ["旅行紀錄"]
 tags: ["烏茲別克", "中亞", "旅遊", "撒馬爾罕"]
+episodeseries: ["勇闖烏茲別克"]
 ---
 
 ## 2026.10.02 Day 8｜布哈拉 → 撒馬爾罕
@@ -74,7 +75,11 @@ tags: ["烏茲別克", "中亞", "旅遊", "撒馬爾罕"]
 
 沒想到等燈光秀時，突然有一位攝影師主動上前搭訕。我原本對拍照行程沒什麼興趣，畢竟我個人其實沒有很愛拍照，但想想都來了，而且上次在韓國和媽媽一起穿傳統服飾拍照的體驗也不錯，於是決定加入朋友的行程。
 
-同行四人中只有我們兩個想拍，最後預約了隔天清晨 6:30 的行程：兩人共用一位攝影師（本來說好要一人一個攝影師，攝影師也答應了，但其實只是話術，基本上不管幾個人都是一個攝影師拍。如果想要單獨拍攝，建議跟同行友人分開去找攝影師XD），拍攝一小時，每人 55 美元。
+{{< exchange-note >}}
+本文美元換算台幣的金額以「1 美元≈32 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+同行四人中只有我們兩個想拍，最後預約了隔天清晨 6:30 的行程：兩人共用一位攝影師（本來說好要一人一個攝影師，攝影師也答應了，但其實只是話術，基本上不管幾個人都是一個攝影師拍。如果想要單獨拍攝，建議跟同行友人分開去找攝影師XD），拍攝一小時，每人 55 美元（約 1,760 台幣）。
 
 ## 2026.10.03 Day 9｜撒馬爾罕：傳統服飾拍照日
 

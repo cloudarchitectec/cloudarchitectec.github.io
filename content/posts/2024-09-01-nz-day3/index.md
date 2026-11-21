@@ -14,14 +14,21 @@ episodeseries: ["紐西蘭旅記"]
 
 終於迎來這次紐西蘭北島的重點行程：滑雪！
 
-我們入住的是 National Park Backpackers 的雙人房，有自己的衛浴，三晚約 $250 澳幣，平均一人一晚 $40 澳，超便宜！
+{{< exchange-note >}}
+本文外幣換算台幣的金額以「1 紐幣≈20 台幣」、「1 澳幣≈20 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+我們入住的是 National Park Backpackers 的雙人房，有自己的衛浴，三晚約 $250 澳幣（約 5,000 台幣），平均一人一晚 $40 澳幣（約 800 台幣），超便宜！
+
+
 
 這個背包客棧有超大的共用廚房跟室內攀岩場 (攀岩需額外付費)，算是我個人住過品質非常不錯的 backpacker，房間很乾淨而且沒有異味😆
 
 
-![紐西蘭背包客棧雙人房](images/medium-1*gk5xpoyK4lLNepyubVabGw.jpg)
-
-![背包客棧共用廚房設施](images/medium-1*BeoM54StZPRhqubSf3dYkg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*gk5xpoyK4lLNepyubVabGw.jpg" alt="紐西蘭背包客棧雙人房" >}}
+{{< figure src="images/medium-1*BeoM54StZPRhqubSf3dYkg.jpg" alt="背包客棧共用廚房設施" >}}
+{{< /gallery >}}
 
 *National Park Backpackers*
 
@@ -39,11 +46,11 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 我非常推薦整天的課程，因為六小時的課才能稍微涵蓋基本技巧。我個人只有學到後刃落葉飄 (heelside falling leaf) 有信心的地步，前刃(toeside）我不知道為什麼一直抓不到重心😂
 
-![Whakapapa 雪場滑雪課程](images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpg)
-
-![紐西蘭北島最大雪場](images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpg)
-
-![女生學習單板滑雪](images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpg" alt="Whakapapa 雪場滑雪課程" >}}
+{{< figure src="images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpg" alt="紐西蘭北島最大雪場" >}}
+{{< figure src="images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpg" alt="女生學習單板滑雪" >}}
+{{< /gallery >}}
 
 *Whakapapa 雪場*
 
@@ -55,14 +62,17 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 下午之後天氣糟到完全沒辦法繼續滑(大暴雨)，所以我們就提早下山了。但在暴雨中開車下山也是滿驚險的，視線超級差！我就一路開超慢當路隊長下山😆
 
-![滑雪場暴雨驚險下山](images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpg" alt="滑雪場暴雨驚險下山" >}}
+{{< figure src="images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpg" alt="雪場餐廳犒賞用餐" >}}
+{{< /gallery >}}
 
-*![雪場餐廳犒賞用餐](images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpg)第二天驚險下山後決定去附近餐廳吃飯犒賞自己*
+*第二天驚險下山後決定去附近餐廳吃飯犒賞自己*
 
 以下是我的滑雪裝備心得總結：
 
   * 「滑雪襪：必買(就算只滑一天也建議買，或是如果你有一雙將近膝下的長襪也可以，但我真心還是建議買)」 。因為羊毛滑雪襪不貴，而且很實穿，登山健行或是冬天很冷都可以穿😆 可以買一雙就好，羊毛材質隔天就會乾。
-  * 「滑雪手套：必買(就算只滑一天也必買)」 ，我買了一雙超便宜的防水滑雪手套 $15，但大概滑個半天就濕了，經濟許可建議上 Gore-Tex 手套。滑雪手套真的滿影響體驗的，因為手又濕又冰之後，真的很難繼續滑下去。或是建議便宜的滑雪手套買兩雙，一雙上午戴一雙下午戴，因為初學者就是手會一直觸地，可能就算是高級滑雪手套也撐不了一整天🤣
+  * 「滑雪手套：必買(就算只滑一天也必買)」 ，我買了一雙超便宜的防水滑雪手套 $15（約 300 台幣），但大概滑個半天就濕了，經濟許可建議上 Gore-Tex 手套。滑雪手套真的滿影響體驗的，因為手又濕又冰之後，真的很難繼續滑下去。或是建議便宜的滑雪手套買兩雙，一雙上午戴一雙下午戴，因為初學者就是手會一直觸地，可能就算是高級滑雪手套也撐不了一整天🤣
   * 「雪鏡：如果只滑一兩天，可買可不買。」初學者其實用太陽眼鏡就可以了。但想帥的人，必須買😆 (我們的教練也只戴太陽眼鏡)
   * 「雪衣、雪褲、安全帽：新手建議直接雪場租就好，省下搬來搬去的麻煩。」有預算的人可以考慮買安全帽，有些租借的品質不一定很好(我個人這次在紐西蘭北島 Whakapapa 租借的還可以，但安全帽畢竟比較有衛生疑慮，所以我自己戴了一個頭巾隔絕)，而且安全帽還算好攜帶。如果真的預算有限，你又有自己的防風防水外套，我覺得也可以穿自己的。不過滑完一天之後會很濕，所以你就要繼續穿著那件濕外套下山，所以我後來還是決定用租的。雪褲必租，這個有兩層設計而且可以包覆雪鞋，才能確保你的下半身真的不會濕。
   * 「雪板、雪鞋：新手建議租就好。」熟練之後可以考慮買自己的雪鞋，但雪板還是要三思。因為搭飛機的行李會很麻煩，而且一般人旅遊通常不會只有滑雪這個行程。試想你想去北海道滑雪一週加觀光一週，那第二週你得不斷扛著雪板移動，值得三思。
@@ -74,12 +84,14 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 我好奇查了一下，以澳洲最知名的雪山 Perisher 為例，一天的滑雪 pass 加裝備大概是 200 紐幣 (約 4000 台幣) 跟 500 澳幣 (約 10,000 台幣) 的差別，的確價差是滿大的😆
 
+
+
 以下是 2024 年的簡單比價供大家參考
 
-Day pass: 120 紐幣 vs 239 澳幣 (Perisher)
+Day pass: 120 紐幣（約 2,400 台幣）vs 239 澳幣（約 4,780 台幣） (Perisher)
 
 Rentals
 
-  * Snowboard + snowboots 49 紐幣 vs 112 澳幣 (Perisher)
-  * snow jacket + pants: 20 紐幣 vs 117 澳幣 (Perisher)
-  * Helmet 10 紐幣 vs 40 澳幣 (Perisher)
+  * Snowboard + snowboots 49 紐幣（約 980 台幣）vs 112 澳幣（約 2,240 台幣） (Perisher)
+  * snow jacket + pants: 20 紐幣（約 400 台幣）vs 117 澳幣（約 2,340 台幣） (Perisher)
+  * Helmet 10 紐幣（約 200 台幣）vs 40 澳幣（約 800 台幣） (Perisher)

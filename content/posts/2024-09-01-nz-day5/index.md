@@ -21,59 +21,66 @@ episodeseries: ["紐西蘭旅記"]
 
 ### 火山口地熱公園 Craters of the Moon
 
-![紐西蘭月球坑地熱公園](images/medium-1*TzNByHydsdUIifAgZOzl9A.jpg)
-
-![Craters of the Moon 冷煙地表](images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg)
-
-![地熱公園火山口奇觀](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*TzNByHydsdUIifAgZOzl9A.jpg" alt="紐西蘭月球坑地熱公園" >}}
+{{< figure src="images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg" alt="Craters of the Moon 冷煙地表" >}}
+{{< figure src="images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg" alt="地熱公園火山口奇觀" >}}
+{{< /gallery >}}
 
 第一站是火山口地熱公園，我把它稱為紐西蘭的月世界。看到一片綠油油卻冒煙的地表真的好妙😆
 
 ### Wairakei Terrace & Thermal Health Spa
 
-![Wairakei 地熱溫泉 SPA](images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*NDRuANKEhfYryRuwIm6u6A.jpg" alt="Wairakei 地熱溫泉 SPA" >}}
+{{< figure src="images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpg" alt="紐西蘭溫泉療癒體驗" >}}
+{{< /gallery >}}
 
-*![紐西蘭溫泉療癒體驗](images/medium-1*Nq0JxVvg4Zkv8x5DIQPGsQ.jpg)*
+{{< exchange-note >}}
+本文紐幣換算台幣的金額以「1 紐幣≈18 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
 
-接著我們就去泡了溫泉 spa，總共有四個池可以泡，一個人入場費才 $27 紐幣，覺得好超值！而且我們是平日去的，人潮不多，超級享受！一解前幾天滑雪的痠痛😊
+接著我們就去泡了溫泉 spa，總共有四個池可以泡，一個人入場費才 $27 紐幣（約 486 台幣），覺得好超值！而且我們是平日去的，人潮不多，超級享受！一解前幾天滑雪的痠痛😊
 
 接著我們就驅車前往下一個城市 Rotorua! 非常幸運剛好碰到他們每週四一次的夜市！吃了超多亞洲街頭小吃，非常開心😋
 
-![Rotorua 夜市亞洲街頭小吃](images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg)
-
-![紐西蘭夜市美食攤位](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg)
-
-![夜市多元文化美食](images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg" alt="Rotorua 夜市亞洲街頭小吃" >}}
+{{< figure src="images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg" alt="紐西蘭夜市美食攤位" >}}
+{{< figure src="images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg" alt="夜市多元文化美食" >}}
+{{< /gallery >}}
 
 *夜市小吃*
 
 不得不說我們這趟去紐西蘭真的覺得紐西蘭人口好少，走在路上或是商店裡都沒有人（紐西蘭國土是台灣七倍，但人口只有七百萬)。感覺經濟活動有相對蕭條，難怪很多紐西蘭人都跑來澳洲工作🤣
 
-![Rotorua 湖畔悠閒散步](images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpg)
-
-![Rotorua 湖邊公園風景](images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpg)
-
-![Rotorua 大湖壯麗景色](images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpg" alt="Rotorua 湖畔悠閒散步" >}}
+{{< figure src="images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpg" alt="Rotorua 湖邊公園風景" >}}
+{{< figure src="images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg" alt="Rotorua 大湖壯麗景色" >}}
+{{< /gallery >}}
 
 *Rotorua 也有一個很大的湖～*
 
 ### Ciabatta Bakery
 
-![Ciabatta Bakery 美味椒鹽捲餅](images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpg)
-
-*![紐西蘭早餐麵包店](images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpg)*
-
-![Rotorua 特色甜甜圈](images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpg)
-
-*![麵包店豐盛早餐](images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*RF0iNLWbiMedgewhZJhMEA.jpg" alt="Ciabatta Bakery 美味椒鹽捲餅" >}}
+{{< figure src="images/medium-1*VhRsGtySW6ZO6mRNuUotCQ.jpg" alt="紐西蘭早餐麵包店" >}}
+{{< figure src="images/medium-1*SoIn31l9HmKcdqUVk9_AsQ.jpg" alt="Rotorua 特色甜甜圈" >}}
+{{< figure src="images/medium-1*W1afWhqZJoaoESPsdUguLQ.jpg" alt="麵包店豐盛早餐" >}}
+{{< /gallery >}}
 
 隔天早上去吃了我昨天隨手一查的 Ciabatta Bakery，他家的 pretzels 簡直驚人得好吃，好吃到我們吃完之後欲罷不能，又跑去加點甜甜圈🍩，結果甜甜圈很普通🤣
 
 ### Skyline 溜溜車
 
-![Rotorua Skyline 溜溜車體驗](images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*6E1rYoWwlPgZ36zGc2dqoA.jpg" alt="Rotorua Skyline 溜溜車體驗" >}}
+{{< figure src="images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpg" alt="Skyline 溜索冒險活動" >}}
+{{< /gallery >}}
 
-*![Skyline 溜索冒險活動](images/medium-1*TZR0Ea-y_gt5TFLsLgQBGw.jpg)Skyline*
+*Skyline*
 
 接著跑去 Skyline，本來還在糾結溜溜車要玩幾次，後來心一橫想說來都來了，那就玩好玩滿，於是買了五次溜溜車加一次溜索的終極套裝行程😆
 
@@ -81,9 +88,12 @@ episodeseries: ["紐西蘭旅記"]
 
 ### Redwood 紅木森林健行
 
-![](images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*zVSFD5Igb8e0nNWKoqUm-g.jpg" alt="" >}}
+{{< figure src="images/medium-1*VaESvSGforp84FHtAq6GRQ.jpg" alt="" >}}
+{{< /gallery >}}
 
-*![](images/medium-1*VaESvSGforp84FHtAq6GRQ.jpg)Redwood*
+*Redwood*
 
 結束 Skyline 的行程，我們前往 Redwood 紅木森林健行。真的是滿漂亮的，但路線設計有點莫名奇妙，感覺就是為了達到想要達到的長度，所以左邊繞一圈，右邊繞一圈🤣
 
@@ -95,6 +105,9 @@ episodeseries: ["紐西蘭旅記"]
 
 Until next time 🏔️
 
-![紐西蘭特產巧克力](images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*id4CbaG1DZ53J4SjuslDrg.jpg" alt="紐西蘭特產巧克力" >}}
+{{< figure src="images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpg" alt="Cookie Time 餅乾" >}}
+{{< /gallery >}}
 
-*![Cookie Time 餅乾](images/medium-1*bJ57HYvOEPc2wChyxPsXpg.jpg)紐西蘭伴手禮*
+*紐西蘭伴手禮*

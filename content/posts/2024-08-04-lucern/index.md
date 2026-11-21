@@ -17,7 +17,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 因為前幾天去少女峰意外用掉了一天歐洲火車通行證，所以今天的行程只能原價買票了。
 
-沒想到我昨天晚上在用手機查票價時發現，居然還有今天的特價票！原價來回的火車票是 36.4 瑞士法郎，我買到的特價去程票只要 6.2，便宜到我懷疑自己是不是看錯票價（瑞士的火車票價很複雜，系統會默認你有火車半價卡，顯示的票價為半價價格。但如果不小心買到半價卡的票價，但沒有半價卡，在火車上也是視同逃票，會被罰款 😂）。
+{{< exchange-note >}}
+本文瑞士法郎換算台幣的金額以「1 瑞士法郎≈35 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+沒想到我昨天晚上在用手機查票價時發現，居然還有今天的特價票！原價來回的火車票是 36.4 瑞士法郎（約 1,274 台幣），我買到的特價去程票只要 6.2，便宜到我懷疑自己是不是看錯票價（瑞士的火車票價很複雜，系統會默認你有火車半價卡，顯示的票價為半價價格。但如果不小心買到半價卡的票價，但沒有半價卡，在火車上也是視同逃票，會被罰款 😂）。
 
 我再三檢查後覺得自己應該是沒買錯，也後來心驚膽顫地通過查票員的檢驗XD
 
@@ -31,11 +35,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 特呂布湖 Trubsee
 
-![特呂布湖被雪覆蓋的美景](images/medium-1*RlIQZVBBsnETpGDGj-Wrdg.jpg)
-
-![瑞士中部雪地健行體驗](images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpg)
-
-![Trubsee湖雪白湖面景色](images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*RlIQZVBBsnETpGDGj-Wrdg.jpg" alt="特呂布湖被雪覆蓋的美景" >}}
+{{< figure src="images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpg" alt="瑞士中部雪地健行體驗" >}}
+{{< figure src="images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpg" alt="Trubsee湖雪白湖面景色" >}}
+{{< /gallery >}}
 
 *特呂布湖 Trubsee 雪中健行*
 
@@ -59,29 +63,32 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 有趣的是在場的大人比小朋友多，但是每個大人都玩瘋了，非常推薦大家來鐵力士山。
 
-![鐵力士山免費雪上樂園](images/medium-1*-4MK_JtcLaR1Q4eNIji-zQ.jpg)
-
-*![多種免費雪具滑雪道](images/medium-1*AXigrD-ekbQQQ9SQ97SX9Q.jpg)*
-
-![瑞士雪山輸送帶滑雪設施](images/medium-1*ZNZnGOFtLbqFT2r7c8NovQ.jpg)
-
-*![海拔3000公尺滑雪體驗](images/medium-1*OLTm6ywUtlvCXvpbRS50zw.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*-4MK_JtcLaR1Q4eNIji-zQ.jpg" alt="鐵力士山免費雪上樂園" >}}
+{{< figure src="images/medium-1*AXigrD-ekbQQQ9SQ97SX9Q.jpg" alt="多種免費雪具滑雪道" >}}
+{{< figure src="images/medium-1*ZNZnGOFtLbqFT2r7c8NovQ.jpg" alt="瑞士雪山輸送帶滑雪設施" >}}
+{{< figure src="images/medium-1*OLTm6ywUtlvCXvpbRS50zw.jpg" alt="海拔3000公尺滑雪體驗" >}}
+{{< /gallery >}}
 
 ### 山頂站
 
 今天我終於體驗到天氣好時上雪山是怎麼樣的景緻，跟一片白茫茫的少女峰不同，晴天的鐵力士山美到發瘋，還以為自己在拍 discovery 頻道 ❤️
 
-![鐵力士山頂360度阿爾卑斯全景](images/medium-1*7GImttSmYtKaQGCB0ftWqw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*7GImttSmYtKaQGCB0ftWqw.jpg" alt="鐵力士山頂360度阿爾卑斯全景" >}}
+{{< figure src="images/medium-1*b7T8OsNdUOlRf5afm-tB2Q.jpg" alt="藍天白雪山頂壯麗景色" >}}
+{{< /gallery >}}
 
-*![藍天白雪山頂壯麗景色](images/medium-1*b7T8OsNdUOlRf5afm-tB2Q.jpg)晴天的雪山真的是太美了！！！*
+*晴天的雪山真的是太美了！！！*
 
 除了室外的設施之外，山上也有一些室內設施。
 
 首先是少女峰也有的冰河山洞。裡面同樣也冰了一隻冰原歷險記的花栗鼠在裡面，但我不得不說冰河山洞還是少女峰那邊的大勝，有趣的東西比較多，對我來說這是一個時間不夠可以略過的設施。
 
-![鐵力士山冰河山洞內部](images/medium-1*4duqw5yQ5faAQMx5vpfT-g.jpg)
-
-*![冰原歷險記花栗鼠冰雕](images/medium-1*e_74Wi1k7cNG83PxAcfvnQ.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*4duqw5yQ5faAQMx5vpfT-g.jpg" alt="鐵力士山冰河山洞內部" >}}
+{{< figure src="images/medium-1*e_74Wi1k7cNG83PxAcfvnQ.jpg" alt="冰原歷險記花栗鼠冰雕" >}}
+{{< /gallery >}}
 
 最後在高山上走了腳底下完全鏤空的冰河吊橋，真的好酷！照片我只拍了這張，具體體驗只能請大家期待我根本不知道什麼時候會上的影片XD
 
@@ -91,9 +98,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 琉森市區
 
-![琉森舊城區歷史建築](images/medium-1*Rn7bwZU28CbLlU0w_KeYWg.jpg)
-
-*![瑞士琉森市區街景](images/medium-1*6owb2WautQ33HUlrLb7VKw.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*Rn7bwZU28CbLlU0w_KeYWg.jpg" alt="琉森舊城區歷史建築" >}}
+{{< figure src="images/medium-1*6owb2WautQ33HUlrLb7VKw.jpg" alt="瑞士琉森市區街景" >}}
+{{< /gallery >}}
 
 回到琉森後，趁著還有一點時間跑完了市區的景點，明天就要準備返程了，真的有點捨不得。
 
@@ -103,9 +111,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 歐洲獨旅最後的晚餐，我買了一個巧克力店的巧克力慕斯。店員還用紙盒裝，很有儀式感！不會太甜，而且很有層次，上層的巧克力很香！好吃😋
 
-![瑞士高品質巧克力慕斯甜點](images/medium-1*_t9UBfqkAMg9rs2WpQrSMg.jpg)
-
-*![琉森巧克力店精美包裝](images/medium-1*VE-br3FuMEjqAKl-EuDjOg.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*_t9UBfqkAMg9rs2WpQrSMg.jpg" alt="瑞士高品質巧克力慕斯甜點" >}}
+{{< figure src="images/medium-1*VE-br3FuMEjqAKl-EuDjOg.jpg" alt="琉森巧克力店精美包裝" >}}
+{{< /gallery >}}
 
 ### 結語
 

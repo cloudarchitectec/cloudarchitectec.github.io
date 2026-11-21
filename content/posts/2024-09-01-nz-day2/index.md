@@ -21,9 +21,10 @@ episodeseries: ["紐西蘭旅記"]
 
 * * *
 
-![哈比村早晨導覽團體驗](images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpg)
-
-*![魔戒哈比人小屋群](images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*HuGAibp1P2iQ4vmsG66ZIg.jpg" alt="哈比村早晨導覽團體驗" >}}
+{{< figure src="images/medium-1*s4kMHYfpt1WpBnZiw9Lmpg.jpg" alt="魔戒哈比人小屋群" >}}
+{{< /gallery >}}
 
 我們為了躲開人潮，選的是最早的 8:50 中文團 (英文團最早是 9:00，每十分鐘一團）。這個決定是明智的，因為我們這一團只有 11 人，通常一團滿額是 40 人。每團會分開進兩個小屋參觀，所以我們一個小屋才 5–6 人，參觀品質算是很不錯，拍照不會滿滿都是人頭。不過參觀時間只有 15 分鐘，覺得有點太短🥲
 
@@ -33,31 +34,38 @@ episodeseries: ["紐西蘭旅記"]
 
 哈比人小屋的佈置真的很棒，超多細節，而且小屋裡面的所有裝飾都可以觸碰！
 
-![哈比村小屋內部裝飾](images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*nxvkHiFJ2iOHsd-rx2d9Eg.jpg" alt="哈比村小屋內部裝飾" >}}
+{{< figure src="images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpg" alt="魔戒拍攝道具體驗" >}}
+{{< figure src="images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpg" alt="哈比人居住空間設計" >}}
+{{< figure src="images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpg" alt="Hobbiton 小屋內部陳設" >}}
+{{< /gallery >}}
 
-*![魔戒拍攝道具體驗](images/medium-1*1JOZIO0dTZkrBAjtoFeuYg.jpg)*
-
-![哈比人居住空間設計](images/medium-1*LG5l6s_OenuP8k9-kpMjig.jpg)
-
-*![Hobbiton 小屋內部陳設](images/medium-1*_cJ3RXlNQCG-27-GU_TxBg.jpg)唯二可入內參觀的哈比人小屋*
+*唯二可入內參觀的哈比人小屋*
 
 裡面最特別的可能是其中一顆橡樹，所有的葉子都是從臺灣運送來的，並且手工擺放到樹上 (簡介中有特別標註)。
 
-![哈比村台灣運來橡樹葉](images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*sLRysrSEEg6dwFZnRXSVew.jpg" alt="哈比村台灣運來橡樹葉" >}}
+{{< figure src="images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpg" alt="魔戒拍攝特殊橡樹" >}}
+{{< /gallery >}}
 
-*![魔戒拍攝特殊橡樹](images/medium-1*KUckbp9srZcQfyH0Sw-mcg.jpg)特別的樹*
+*特別的樹*
 
 但我個人覺得，哈比村值不值得紐幣 $120 的門票(兩個小時的導覽)可能見仁見智：
+
+{{< exchange-note >}}
+本文紐幣換算台幣的金額以「1 紐幣≈20 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
 
   * 如果你是魔戒/哈比人狂粉，那你可能沒理由不來？
   * 如果你可以負擔紐幣 $120 的門票(大概台幣 $2400)，那你可以考慮來，因為 $120 其實也可以做很多其他事😆。這個景點主要就是拍照跟參觀哈比人小屋(限時 15 分鐘)，總共導覽行程是兩小時，團進團出，多待一分鐘都不可以XD 我個人是覺得可來可不來，不管來不來應該都不會後悔XD
 
 
 
-![哈比村魔戒電影場景](images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpg)
-
-*![Hobbiton 園區風景](images/medium-1*87pxJDNxemsffVQgTd1gQg.jpg)*
-
-![紐西蘭哈比村全景](images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpg)
-
-*![魔戒拍攝地導覽結束](images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*9JbNgXKwP7Ph4sbu0MonxQ.jpg" alt="哈比村魔戒電影場景" >}}
+{{< figure src="images/medium-1*87pxJDNxemsffVQgTd1gQg.jpg" alt="Hobbiton 園區風景" >}}
+{{< figure src="images/medium-1*xaXqVy8Z46zKm72TZD4EQQ.jpg" alt="紐西蘭哈比村全景" >}}
+{{< figure src="images/medium-1*qzrbT39cNRnC-_XHdg7zGw.jpg" alt="魔戒拍攝地導覽結束" >}}
+{{< /gallery >}}

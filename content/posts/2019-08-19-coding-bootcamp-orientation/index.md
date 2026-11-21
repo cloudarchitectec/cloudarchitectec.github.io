@@ -24,10 +24,14 @@ episodeseries: ["轉職工程師日記"]
 
 開始之前先來跟大家簡單介紹一下我當年讀的 coding bootcamp — [Coder Academy ](https://coderacademy.edu.au/web-development/bootcamp)(先說明一下，我是 2019 年讀的，之後的系列文分享都會以我當年的經驗為主，可能會跟現在很不一樣。我跟這個學校沒有任何利益合作關係，並且在之後的系列文中我還會時不時吐槽他們XD 如果你對於我的經驗有任何問題，都歡迎留言！)
 
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
   * 課程名稱：Full Stack Web Development Bootcamp (學 Ruby on Rails, JavaScript, HTML, CSS & MERN stack)
   * 時長：我當年讀的是六個月 full time (9am–5pm Monday-Friday) 的課程
   * 上課模式：雪梨校區現場教學 (當年還沒有 covid 這件事呢)，但是老師每堂課都會錄影放到 YouTube 上，所以如果請假或是當天上課沒聽懂，回家還可以看影片複習。
-  * 費用：好像約澳幣兩萬 (時過境遷，我真的不太記得了)
+  * 費用：好像約澳幣 2 萬（約 44 萬台幣） (時過境遷，我真的不太記得了)
   * 課程特色：課程結束後，學校會幫你媒合一個月的業界實習，很多學生基本上都是靠實習找到自己轉職後的第一份工作。
   
   在這六個月的課程內，我們會完成 4 個 projects，分別是：

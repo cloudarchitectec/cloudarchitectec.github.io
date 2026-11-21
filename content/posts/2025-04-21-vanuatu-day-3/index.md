@@ -33,13 +33,20 @@ episodeseries: ["萬那杜旅記"]
 
 好笑的是，路程中 tour guide 解釋了一下，我們這團完全要跟昨天放我鳥的人的團併成一團🤣
 
-可是我這團收 $9000vt，那個人的團收 $11000vt，我也不懂他們是怎麼運作的(後來發現我們的確待遇比較差，少了一些東西，但其實這也不一定，例如贈送的免費白酒我就剛好有喝到😆)。
+{{< exchange-note >}}
+本文瓦圖換算台幣的金額以「1,000 瓦圖≈250 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+可是我這團收 $9000vt（約 2,250 台幣），那個人的團收 $11000vt（約 2,750 台幣），我也不懂他們是怎麼運作的(後來發現我們的確待遇比較差，少了一些東西，但其實這也不一定，例如贈送的免費白酒我就剛好有喝到😆)。
+
+
 
 到了島上有個迎賓飲料椰子水，接著開船 15 分鐘帶我們出海浮潛。
 
-![Pele Island 迎賓椰子水](images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpg)
-
-![當地特色椰子飲品](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpg" alt="Pele Island 迎賓椰子水" >}}
+{{< figure src="images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpg" alt="當地特色椰子飲品" >}}
+{{< /gallery >}}
 
 *迎賓椰子水*
 
@@ -67,13 +74,12 @@ Pele island 島上有四個村莊，人口大約 40 人(官方資料寫 200 人�
 
 馬克杯杯聽到我早上超早就上車之後超傻眼（因為說真的，我住的地方其實在港口跟其他人的住宿點中間），跟我說我等一下回程要記得跟 tour guide 說請他們第一個放我下車。我後來完全忘記這件事，他還主動幫我去提醒 tour guide，所以我就成為本團最早下車的人，五點就到家了✌️
 
-![Pele Island 團體合照](images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpg)
-
-![澳洲遊客團友聚餐](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpg)
-
-![當地豐盛午餐](images/medium-1*hiICIdXxnAwERYT7ougJMw.jpg)
-
-![萬那杜滿漢全席](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpg" alt="Pele Island 團體合照" >}}
+{{< figure src="images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpg" alt="澳洲遊客團友聚餐" >}}
+{{< figure src="images/medium-1*hiICIdXxnAwERYT7ougJMw.jpg" alt="當地豐盛午餐" >}}
+{{< figure src="images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpg" alt="萬那杜滿漢全席" >}}
+{{< /gallery >}}
 
 *午餐、同行遊客*
 
@@ -93,7 +99,7 @@ Pele island 島上有四個村莊，人口大約 40 人(官方資料寫 200 人�
 
 ### 女生獨旅的不便之處
 
-明天我要移動到一個離市區開車 40 分鐘的度假村 Banana Bay Beach Resort (BBBR)，據說要轉好幾班公車才能抵達（之前說過公車沒有固定班表跟路線），想想就覺得好麻煩啊。試探性問了一下今天的 tour guide，他說要 3000vt。後來我在臉書社團發文，有個人私訊我只要 1500vt (這是之前度假村跟我說的合理價格，奇怪的是度假村也不幫我安排，還要我自己處理），請祝福我明天順利🙏
+明天我要移動到一個離市區開車 40 分鐘的度假村 Banana Bay Beach Resort (BBBR)，據說要轉好幾班公車才能抵達（之前說過公車沒有固定班表跟路線），想想就覺得好麻煩啊。試探性問了一下今天的 tour guide，他說要 3000vt（約 750 台幣）。後來我在臉書社團發文，有個人私訊我只要 1500vt（約 375 台幣） (這是之前度假村跟我說的合理價格，奇怪的是度假村也不幫我安排，還要我自己處理），請祝福我明天順利🙏
 
 我個人很享受獨旅，但我覺得作為女生還是有其不便之處，像我就有點擔心我明天的人身安全🤣 （試探性問了一下奶奶，她覺得一個女生搭車安啦，她說「有些人只是特別友善，所以你可能會覺得不習慣」)
 

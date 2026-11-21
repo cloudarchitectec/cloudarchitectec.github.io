@@ -15,9 +15,12 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 * * *
 
-![瑞鐵SBB火車頭等車廂內裝](images/medium-1*I7E1Oya3h_eOmuCjJcdw4A.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*I7E1Oya3h_eOmuCjJcdw4A.jpg" alt="瑞鐵SBB火車頭等車廂內裝" >}}
+{{< figure src="images/medium-1*sEEzejIzrrAoFyfsr8thlg.jpg" alt="瑞士國鐵現代化車廂設計" >}}
+{{< /gallery >}}
 
-*![瑞士國鐵現代化車廂設計](images/medium-1*sEEzejIzrrAoFyfsr8thlg.jpg)後來才發現這班火車使用的是瑞鐵 SBB 的車廂*
+*後來才發現這班火車使用的是瑞鐵 SBB 的車廂*
 
 今天直接從德國慕尼黑前往瑞士茵特拉肯 (Interlaken)，因為沒有直達車，所以必須要在瑞士蘇黎世轉車。前一天我還特地又確認了一次火車時刻表，沒想到我在開車前的一小時收到通知說這班火車現在不停蘇黎世了⋯⋯這麼大的站你們說不停就不停😂
 
@@ -41,64 +44,83 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 後來也順利搭上第三班車！不過我中間在車站整理行李整理得太過忘我，差點錯過這班車，好險最後在開車前兩分鐘上車，但也因此沒有辦法扛著行李箱走去我預訂的座位！於是我就誤打誤撞坐在餐車旁邊，後來看我旁邊的旅客也移進餐車，我覺得進去喝杯飲料也不錯，於是就開始了我的歐洲火車餐車初體驗！不得不說餐車的位子真的舒適很多，但進來一定要消費，不然會被請出去（我就看到不知情的旅客被請出去😂）。
 
-我點了一杯熱巧，要價 5.1 瑞士法朗，不得不說瑞士果然是一個超級貴的地方！而且這裡的熱巧克力居然是給我一杯熱牛奶跟一包沖泡巧克力粉，太妙了XDD
+{{< exchange-note >}}
+本文外幣換算台幣的金額以「1 澳幣≈22 台幣」、「1 瑞士法郎≈35 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
 
-![瑞士火車餐車舒適座椅](images/medium-1*nIAj9UUiDoOzskR0fbMwyg.jpg)
+我點了一杯熱巧，要價 5.1 瑞士法朗（約 179 台幣），不得不說瑞士果然是一個超級貴的地方！而且這裡的熱巧克力居然是給我一杯熱牛奶跟一包沖泡巧克力粉，太妙了XDD
 
-*![火車餐車熱巧克力組合](images/medium-1*1UtXOB1te4T0v3eiJDFUrg.jpg)餐車座位以及我點的熱巧克力*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*nIAj9UUiDoOzskR0fbMwyg.jpg" alt="瑞士火車餐車舒適座椅" >}}
+{{< figure src="images/medium-1*1UtXOB1te4T0v3eiJDFUrg.jpg" alt="火車餐車熱巧克力組合" >}}
+{{< /gallery >}}
+
+*餐車座位以及我點的熱巧克力*
 
 ### 愛的迫降拍攝點：布里恩茨湖 Brienzersee
 
 在火車上研究後發現，我今晚住宿點 Interlaken 附近有一個湖，湖的游船費用也包含在我今天的歐洲鐵路通行證裡面！所以我決定等一下到了之後，先把行李寄放在車站，然後搭火車去渡輪點！也就是今天除了六個小時的火車之外，還要坐個一小時的渡輪，簡直就是交通工具之旅XDD
 
-![茵特拉肯東站行李儲存服務](images/medium-1*HjRHZhNwcQnIVg4jn_SvVw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*HjRHZhNwcQnIVg4jn_SvVw.jpg" alt="茵特拉肯東站行李儲存服務" >}}
+{{< figure src="images/medium-1*F5wtoaIyLJ9C40hKen797w.jpg" alt="瑞士火車站置物櫃設施" >}}
+{{< /gallery >}}
 
-*![瑞士火車站置物櫃設施](images/medium-1*F5wtoaIyLJ9C40hKen797w.jpg)Interlaken Ost 車站寄放行李*
+*Interlaken Ost 車站寄放行李*
 
 好不容易到了 Interlaken Ost (Ost 就是東站的意思，基本上是這個小鎮的交通樞紐，所有去少女峰的交通都是由此出發)，我立刻去寄放行李！我的 23 寸行李箱加大後剛好可以塞進小的置物櫃，省了 2CHF (其實大的 10 元小的 8 元，並沒有差很多)，然後轉搭火車前往 Breinz 小鎮。有時間的話滿建議過來的，很適合拍照。
 
 布里恩茨湖 Brienzersee 就是愛的迫降的拍攝地（但我其實沒看過，好像有人說淚之女王也是在這裡拍的？但我一樣沒看就是了XD)
 
-![韓劇愛的迫降拍攝地湖光山色](images/medium-1*cuzT-LeP31Ax8lmxX97qPw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*cuzT-LeP31Ax8lmxX97qPw.jpg" alt="韓劇愛的迫降拍攝地湖光山色" >}}
+{{< figure src="images/medium-1*5U9PawSUHU3hNLZ_xRVdXg.jpg" alt="布里恩茨湖純淨阿爾卑斯山水" >}}
+{{< figure src="images/medium-1*K9cT7oonbB1O7mHeCjXg3w.jpg" alt="瑞士高山湖泊絕美景色" >}}
+{{< figure src="images/medium-1*FaBum1pCBGfzA7KV7ZlwWw.jpg" alt="布里恩茨湖清澈湖水倒影" >}}
+{{< /gallery >}}
 
-*![布里恩茨湖純淨阿爾卑斯山水](images/medium-1*5U9PawSUHU3hNLZ_xRVdXg.jpg)*
-
-![瑞士高山湖泊絕美景色](images/medium-1*K9cT7oonbB1O7mHeCjXg3w.jpg)
-
-*![布里恩茨湖清澈湖水倒影](images/medium-1*FaBum1pCBGfzA7KV7ZlwWw.jpg)布里恩茨湖真的超美！！！*
+*布里恩茨湖真的超美！！！*
 
 總之，不管你是不是韓劇迷，這裡我都很推薦來，因為真是太美啦!!!
 
 拍完照之後剛好渡輪就來了! 渡輪本身的風光很棒，但是航程很長，所以也可以看到很多觀光客中途就下船改坐火車回去。我因為把行李寄在東站，所以覺得直接搭到終點也無所謂。
 
-![布里恩茨湖觀光遊船甲板](images/medium-1*9vUF5YroGUbqFNabuHPvBg.jpg)
-
-![渡輪上360度阿爾卑斯美景](images/medium-1*UwkYbB2L6UalvkbI0zPInA.jpg)
-
-![湖上遊船觀光體驗](images/medium-1*U98n-QBq2e3aOJ1ac95aYA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*9vUF5YroGUbqFNabuHPvBg.jpg" alt="布里恩茨湖觀光遊船甲板" >}}
+{{< figure src="images/medium-1*UwkYbB2L6UalvkbI0zPInA.jpg" alt="渡輪上360度阿爾卑斯美景" >}}
+{{< figure src="images/medium-1*U98n-QBq2e3aOJ1ac95aYA.jpg" alt="湖上遊船觀光體驗" >}}
+{{< /gallery >}}
 
 *遊湖渡輪上的風景*
 
 ### 瑞士 Interlaken 住宿
 
-![茵特拉肯三星級經濟旅館](images/medium-1*ka9cMlBKbsogGn32adamDQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*ka9cMlBKbsogGn32adamDQ.jpg" alt="茵特拉肯三星級經濟旅館" >}}
+{{< figure src="images/medium-1*qgMdlg4ZWAOru3ilkX8Lng.jpg" alt="旅館單人房窗外山景" >}}
+{{< /gallery >}}
 
-*![旅館單人房窗外山景](images/medium-1*qgMdlg4ZWAOru3ilkX8Lng.jpg)三星旅館以及房間的窗景*
+*三星旅館以及房間的窗景*
 
 瑞士的旅館真心超級無敵貴！我訂了一個在西站的單人房（西站吃的東西比較多也比較繁榮)，只要入住 Interlaken 的飯店，他們好像都會送當地的交通卡，所以我覺得住哪的差別可能不是很大！
 
-超迷你只有 8 平方公尺的單人房，也沒有廚房設備，一晚要 185 澳幣，不過他們有附早餐！這裡的住宿價格真的很貴，如果不想要住 hostel 或 shared bathroom，這已經是我能挑到最便宜的選項了
+
+
+超迷你只有 8 平方公尺的單人房，也沒有廚房設備，一晚要 185 澳幣（約 4,070 台幣），不過他們有附早餐！這裡的住宿價格真的很貴，如果不想要住 hostel 或 shared bathroom，這已經是我能挑到最便宜的選項了
 
 ### 晚餐 Little Thai
 
-![瑞士Little Thai泰式餐廳](images/medium-1*dGETJcrQtBBjjDYgpAtYTw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*dGETJcrQtBBjjDYgpAtYTw.jpg" alt="瑞士Little Thai泰式餐廳" >}}
+{{< figure src="images/medium-1*AhWPQJnVEl3vD-5VPwvyFA.jpg" alt="正宗泰式tom yum酸辣湯" >}}
+{{< /gallery >}}
 
-*![正宗泰式tom yum酸辣湯](images/medium-1*AhWPQJnVEl3vD-5VPwvyFA.jpg)料超多的 tom yum soup*
+*料超多的 tom yum soup*
 
 今天坐了 7 個小時火車加 75 分鐘的渡輪，我真的很需要一晚亞洲熱湯。於是我查到一家要走路 15 分鐘的泰式餐廳（我當下其實已經累爆了，但想說瑞士外食很貴，既然錢都要花了，我一定要吃到評價高且好吃的XDD）
 
-小小一碗 tom yum 要價 $23.5 瑞士法郎（也就是 40 澳幣），超貴，但是料很豐富，而且泰國姊姊一直叫我 dear，服務態度超好！我覺得這個似乎在瑞士算是外食的正常價格範圍，所以覺得還 ok
+小小一碗 tom yum 要價 $23.5 瑞士法郎（也就是 40 澳幣（約 880 台幣）），超貴，但是料很豐富，而且泰國姊姊一直叫我 dear，服務態度超好！我覺得這個似乎在瑞士算是外食的正常價格範圍，所以覺得還 ok
 
-吃完之後真的不飽，但看了一下菜單就算是 entree 炸春捲一個也要瑞士法郎 $4 (也就是一根手指大的炸春捲大概要 $6 澳幣)，三個 $11。於是我當機立斷，查了 google maps 立刻去隔壁買了便宜又巨大的好吃 Kebab 才 $12
+吃完之後真的不飽，但看了一下菜單就算是 entree 炸春捲一個也要瑞士法郎 $4（約 140 台幣） (也就是一根手指大的炸春捲大概要 $6 澳幣（約 132 台幣）)，三個 $11（約 385 台幣）。於是我當機立斷，查了 google maps 立刻去隔壁買了便宜又巨大的好吃 Kebab 才 $12（約 420 台幣）
 
-我覺得這可能是我這一趟旅程最希望有旅伴的時刻哈哈哈～ 因為要是我們有兩個人，一個人點 tom yum soup ，另一個人點 pad thai 或是咖喱，這樣平分下來一個人還是出 $40 澳幣，但這樣我們就可以吃得心滿意足了
+我覺得這可能是我這一趟旅程最希望有旅伴的時刻哈哈哈～ 因為要是我們有兩個人，一個人點 tom yum soup ，另一個人點 pad thai 或是咖喱，這樣平分下來一個人還是出 $40 澳幣（約 880 台幣），但這樣我們就可以吃得心滿意足了

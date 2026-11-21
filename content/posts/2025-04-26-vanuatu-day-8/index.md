@@ -35,9 +35,10 @@ episodeseries: ["萬那杜旅記"]
 
 於是直接前往 M Resort & Spa，果然 20 分鐘的路程我又開了 50 分鐘，因為北邊的路真的太爛了 😂😂😂 而且我開到最後三公里 Google maps 也失去作用，完全一片空白，好險路上還有少少的指標。
 
-![M Resort & Spa 高級度假村](images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpg)
-
-![度假村海邊餐廳](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpg" alt="M Resort &amp; Spa 高級度假村" >}}
+{{< figure src="images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpg" alt="度假村海邊餐廳" >}}
+{{< /gallery >}}
 
 *M Resort & Spa*
 
@@ -53,7 +54,11 @@ episodeseries: ["萬那杜旅記"]
 
 ![萬那杜旅遊景色記錄](images/medium-1*RAd8Mb0kWPTpD-Teonn5vw.jpg)
 
-今天的住宿也是金錢的力量，一晚要澳幣 $226，但不得不說滿漂亮的，設備也很齊全，淋浴間有兩個蓮蓬頭，洗完澡去櫃檯借吹風機還借到一台 dyson!!!!! 這是我第一次用 Dyson 吹風機，我平常吹頭髮大概要 20–30 分鐘，還無法全乾，Dyson 居然只要吹五分鐘就乾了，太神了吧😆
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+今天的住宿也是金錢的力量，一晚要澳幣 $226（約 4,972 台幣），但不得不說滿漂亮的，設備也很齊全，淋浴間有兩個蓮蓬頭，洗完澡去櫃檯借吹風機還借到一台 dyson!!!!! 這是我第一次用 Dyson 吹風機，我平常吹頭髮大概要 20–30 分鐘，還無法全乾，Dyson 居然只要吹五分鐘就乾了，太神了吧😆
 
 唯一的缺點是我以為這個住宿可以直接走進海水裡，沒想到我的住宿居然是二樓😆 然後也沒有樓梯可以直接進水裡🤣
 
@@ -63,13 +68,12 @@ episodeseries: ["萬那杜旅記"]
 
 甚至還跑去使用了一下這裡的游泳池，然後我突然發現為什麼我這幾天就算旅館有泳池我也沒去（雖然主要是因為時間不夠），因為真的好無聊🤣🤣🤣 我都來到這種有真海邊的地方了，一個人在泳池真的不怎麼好玩😆
 
-![人生首次 kayaking 體驗](images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpg)
-
-![海邊划獨木舟樂趣](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpg)
-
-![Fatumaru Lodge 游泳池](images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpg)
-
-![度假村海邊設施](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpg" alt="人生首次 kayaking 體驗" >}}
+{{< figure src="images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpg" alt="海邊划獨木舟樂趣" >}}
+{{< figure src="images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpg" alt="Fatumaru Lodge 游泳池" >}}
+{{< figure src="images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpg" alt="度假村海邊設施" >}}
+{{< /gallery >}}
 
 *Fatumaru Lodge*
 
@@ -77,9 +81,10 @@ episodeseries: ["萬那杜旅記"]
 
 結果我完全太會算，一加完剛好就是我還車需要的油量+10 公里。進到超市後發現他們居然有在賣烤雞跟薯條，於是我就決定外帶回旅館，這樣剛好明天租車公司可以直接到旅館領車，我也不用再加油。
 
-![萬那杜超市烤雞](images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpg)
-
-![外帶薯條烤雞晚餐](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpg" alt="萬那杜超市烤雞" >}}
+{{< figure src="images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpg" alt="外帶薯條烤雞晚餐" >}}
+{{< /gallery >}}
 
 *超市晚餐*
 

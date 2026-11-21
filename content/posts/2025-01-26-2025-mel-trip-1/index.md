@@ -20,19 +20,22 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 第一天大約中午抵達墨爾本，下午立刻跟俄羅斯朋友 I 約見面 (這是我之前內推進 AWS 的朋友)。這是我第一次見到他太太跟兒子！必須說他太太好有氣質又好聊，兒子 Matthew 是一個超可愛的天使寶寶 (超愛笑又超 chill）
 
-![墨爾本韓式料理大餐](images/medium-1*x9MDnMbbKv9t-ruvsLHrPw.jpg)
-
-![韓式烤肉與配菜](images/medium-1*MS5DfHl9duhnSSWRTK_lxQ.jpg)
-
-![韓式火鍋湯品](images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*x9MDnMbbKv9t-ruvsLHrPw.jpg" alt="墨爾本韓式料理大餐" >}}
+{{< figure src="images/medium-1*MS5DfHl9duhnSSWRTK_lxQ.jpg" alt="韓式烤肉與配菜" >}}
+{{< figure src="images/medium-1*j9xbR4bOTLxGNJwTnPobBw.jpg" alt="韓式火鍋湯品" >}}
+{{< /gallery >}}
 
 *墨爾本的韓餐～ 我們完全點太多XD*
 
 晚上跟前 AWS 同事 J 一起吃飯，還跟他女友一起去打迷你高爾夫，是個好聊的正妹藥劑師！
 
-![墨爾本迷你高爾夫場地](images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpg" alt="墨爾本迷你高爾夫場地" >}}
+{{< figure src="images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpg" alt="迷你高爾夫不同主題場景" >}}
+{{< /gallery >}}
 
-*![迷你高爾夫不同主題場景](images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpg)迷你高爾夫～不同場景很有趣*
+*迷你高爾夫～不同場景很有趣*
 
 **1/19 Sun**
 
@@ -42,45 +45,49 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 *咖啡爆炸好喝，餐點也好吃（是亞洲咖啡店)。當初只是想找個離旅館近的咖啡廳聚會，沒想到是個意外的驚喜~*
 
-![Daybreak cafe 精緻咖啡](images/medium-1*3QGgpLYqTa8njm4QTLcVuw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*3QGgpLYqTa8njm4QTLcVuw.jpg" alt="Daybreak cafe 精緻咖啡" >}}
+{{< figure src="images/medium-1*hwomF-3ethAj2uw8sEcyIA.jpg" alt="Daybreak cafe 美味餐點" >}}
+{{< /gallery >}}
 
-*![Daybreak cafe 美味餐點](images/medium-1*hwomF-3ethAj2uw8sEcyIA.jpg)Daybreak cafe 太有水準了吧！*
+*Daybreak cafe 太有水準了吧！*
 
 接著下午跟 Jen 一起去逛了 Fitzroy market & artist market，不得不說兩者都有點失望，感覺攤位性質很重複，藝術品不是手工首飾就是手繪，Fitzroy market 還有很多賣二手衣物的攤位，但也不是我們感興趣的風格lol
 
-![Fitzroy market 手工藝品攤位](images/medium-1*7Lxy-98mmkZnd2VkmbBwag.jpg)
-
-*![Artist market 藝術品展示](images/medium-1*zChHykykpqoi-skPv7YXmQ.jpg)*
-
-![墨爾本市集街景](images/medium-1*5Jc9_-pfwIwtevhHHEs4oQ.jpg)
-
-*![墨爾本街頭藝術](images/medium-1*pzhkbFEU1b6opi-OJnDiRQ.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*7Lxy-98mmkZnd2VkmbBwag.jpg" alt="Fitzroy market 手工藝品攤位" >}}
+{{< figure src="images/medium-1*zChHykykpqoi-skPv7YXmQ.jpg" alt="Artist market 藝術品展示" >}}
+{{< figure src="images/medium-1*5Jc9_-pfwIwtevhHHEs4oQ.jpg" alt="墨爾本市集街景" >}}
+{{< figure src="images/medium-1*pzhkbFEU1b6opi-OJnDiRQ.jpg" alt="墨爾本街頭藝術" >}}
+{{< /gallery >}}
 
 剛好知名可頌店 Lune (號稱世界第一可頌) 就在附近，回程時我們發現排隊人潮消失了，所以就想說去試試。
 
 結論：可頌是好吃的，可以看到中央廚房很酷，但世界第一真的不至於（我隨隨便便可以舉出兩三家更好吃的）。然後內用的人工候位系統簡直笨到讓我生氣耶，做人/做事可不可以聰明一點 囧
 
-![Lune 可頌店中央廚房](images/medium-1*xFLzR7JH8DLfwtkpImgiXQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*xFLzR7JH8DLfwtkpImgiXQ.jpg" alt="Lune 可頌店中央廚房" >}}
+{{< figure src="images/medium-1*xfYUpPwBTT_2qPiDpEgyFw.jpg" alt="Lune 店內用餐環境" >}}
+{{< figure src="images/medium-1*fCilz9wLGtpQaqC-N7gocw.jpg" alt="Lune 招牌可頌" >}}
+{{< figure src="images/medium-1*s4u_tmZRJJzTdgVNQaOWjQ.jpg" alt="Lune 可頌切面" >}}
+{{< /gallery >}}
 
-*![Lune 店內用餐環境](images/medium-1*xfYUpPwBTT_2qPiDpEgyFw.jpg)*
-
-![Lune 招牌可頌](images/medium-1*fCilz9wLGtpQaqC-N7gocw.jpg)
-
-*![Lune 可頌切面](images/medium-1*s4u_tmZRJJzTdgVNQaOWjQ.jpg)Lune*
+*Lune*
 
 **1/20 Mon**
 
-![澳網 Rod Laver Arena 入場券](images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg)
-
-![澳網現場氛圍](images/medium-1*aeUKQKl8_KQYsrfFADEOzg.jpg)
-
-![澳網主球場外觀](images/medium-1*3Lkq6QkiZzZ7ktP9u4BPrA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg" alt="澳網 Rod Laver Arena 入場券" >}}
+{{< figure src="images/medium-1*aeUKQKl8_KQYsrfFADEOzg.jpg" alt="澳網現場氛圍" >}}
+{{< figure src="images/medium-1*3Lkq6QkiZzZ7ktP9u4BPrA.jpg" alt="澳網主球場外觀" >}}
+{{< /gallery >}}
 
 今天就是我的澳網重頭戲！我的票是很久以前買的，當初會買這天只是因為這是主球場 Rod Laver Arena 最便宜的一天，結果賽程出來之後我簡直撿了個大便宜！
 
-![澳網球場內部](images/medium-1*TjwP2FNlcUi8OjS2WmuhWQ.jpg)
-
-*![澳網比賽進行中](images/medium-1*z5SLEb-5ggAN2IotkvIVHg.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*TjwP2FNlcUi8OjS2WmuhWQ.jpg" alt="澳網球場內部" >}}
+{{< figure src="images/medium-1*z5SLEb-5ggAN2IotkvIVHg.jpg" alt="澳網比賽進行中" >}}
+{{< /gallery >}}
 
 我看到了男單世界第一 Sinner （義大利選手）跟世界第 9 Rune (丹麥選手)的比賽，真心是超級爆炸好看！兩個人都打得超好
 
@@ -90,40 +97,41 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 我還看了世界男單第三 Alcaraz (西班牙)的練習，他的暖身動作讓我超傻眼，然後暖身結束他就脫上衣了！！！我在 IG 發完影片之後他立刻就收穫好幾個新女粉，還有朋友說「澳網居然可以看到這種好東西」XDDD
 
-![Alcaraz 練習暖身動作](images/medium-1*1f6snXEPsf37byBuMZdu_w.jpg)
-
-![澳網小場館比賽場地](images/medium-1*_w7iIKrm9oXoernv2yVXCg.jpg)
-
-![澳網比賽精彩瞬間](images/medium-1*52lTIc0Nks_O2eGuYIe_MQ.jpg)
-
-![澳網球場觀眾席](images/medium-1*f23v8giYXBTxuc7XSc5iig.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*1f6snXEPsf37byBuMZdu_w.jpg" alt="Alcaraz 練習暖身動作" >}}
+{{< figure src="images/medium-1*_w7iIKrm9oXoernv2yVXCg.jpg" alt="澳網小場館比賽場地" >}}
+{{< figure src="images/medium-1*52lTIc0Nks_O2eGuYIe_MQ.jpg" alt="澳網比賽精彩瞬間" >}}
+{{< figure src="images/medium-1*f23v8giYXBTxuc7XSc5iig.jpg" alt="澳網球場觀眾席" >}}
+{{< /gallery >}}
 
 我還跑去看了謝淑薇練球，但淑薇臉臭到爆炸哈哈哈哈。我是第一個到的，但我完全不敢跟她講話。後來還來了另外兩個台灣球迷，但我們都不敢跟她搭話，然後我就默默走了～
 
 不過後來我有去小場館看淑薇的混雙比賽，這次因為球迷比較多，我就有壯膽幫她加油了！
 
-![澳網紀念品商店](images/medium-1*uQSOZ-5lcbiQvwOq7wpTeA.jpg)
-
-![澳網官方商品展示](images/medium-1*Ge2krh8kd53uKQn1YeaZwQ.jpg)
-
-![澳網限定紀念品](images/medium-1*PHS3D5IjWVQEx2cxFDzhDg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*uQSOZ-5lcbiQvwOq7wpTeA.jpg" alt="澳網紀念品商店" >}}
+{{< figure src="images/medium-1*Ge2krh8kd53uKQn1YeaZwQ.jpg" alt="澳網官方商品展示" >}}
+{{< figure src="images/medium-1*PHS3D5IjWVQEx2cxFDzhDg.jpg" alt="澳網限定紀念品" >}}
+{{< /gallery >}}
 
 最後我要說澳網的紀念品超級好買，很多東西我都很心動（雖然最後很克制只買了一頂帽子)。
 
-![澳網紀念品商店](images/medium-1*KGrjyZvoFG0HrQ6SvMTiwg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*KGrjyZvoFG0HrQ6SvMTiwg.jpg" alt="澳網紀念品商店" >}}
+{{< figure src="images/medium-1*9tJzIgltIcf-0RumED2Xng.jpg" alt="澳網特色商品展示" >}}
+{{< figure src="images/medium-1*yOPfAxHzWeByd0HAkHfG-Q.jpg" alt="澳網購買的帽子紀念品" >}}
+{{< figure src="images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpg" alt="澳網官方帽子商品" >}}
+{{< /gallery >}}
 
-*![澳網特色商品展示](images/medium-1*9tJzIgltIcf-0RumED2Xng.jpg)*
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
 
-![澳網購買的帽子紀念品](images/medium-1*yOPfAxHzWeByd0HAkHfG-Q.jpg)
+最後要說整個澳網就跟嘉年華一樣，氣氛超好，我推薦每個人都去參加！最便宜的坐票大概 $130（約 2,860 台幣） 就可以坐主場館了，如果覺得太貴，也可以買！$19（約 418 台幣） 的 ground pass 進去感受氣氛，我大推！
 
-*![澳網官方帽子商品](images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpg)*
-
-最後要說整個澳網就跟嘉年華一樣，氣氛超好，我推薦每個人都去參加！最便宜的坐票大概 $130 就可以坐主場館了，如果覺得太貴，也可以買！$19 的 ground pass 進去感受氣氛，我大推！
-
-![澳網嘉年華活動氣氛](images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg)
-
-*![澳網現場遊客人潮](images/medium-1*TZ6aqe3xbQw_hMIbkpVn_A.jpg)*
-
-![澳網園區熱鬧景象](images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpg)
-
-*![澳網場館外觀全景](images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg" alt="澳網嘉年華活動氣氛" >}}
+{{< figure src="images/medium-1*TZ6aqe3xbQw_hMIbkpVn_A.jpg" alt="澳網現場遊客人潮" >}}
+{{< figure src="images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpg" alt="澳網園區熱鬧景象" >}}
+{{< figure src="images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpg" alt="澳網場館外觀全景" >}}
+{{< /gallery >}}

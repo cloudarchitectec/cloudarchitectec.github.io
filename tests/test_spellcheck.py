@@ -38,3 +38,13 @@ def test_rhetorical_bold_becomes_chinese_quotes():
 def test_bold_list_labels_followed_by_full_width_colon_are_preserved():
     original = "1. **有收據不代表就會全額獲賠**：仍可能扣除折舊。"
     assert emphasis_fix(original) == original
+
+
+def test_exchange_rate_note_bold_survives_spellcheck_fix(tmp_path):
+    post = tmp_path / "index.md"
+    note = "{{< exchange-note >}}\n本文以 **1 澳幣≈22 台幣** 粗略換算。\n{{< /exchange-note >}}"
+    post.write_text(note + "\n\n一間 **house**。\n", encoding="utf-8")
+    spellcheck.process_file(post, fix=True)
+    content = post.read_text(encoding="utf-8")
+    assert note in content
+    assert "**house**" not in content

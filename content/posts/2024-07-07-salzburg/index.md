@@ -27,17 +27,21 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 薩爾斯堡
 
-![奧地利薩爾斯堡火車站外觀](images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpg)
-
-![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpg)
-
-![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpg" alt="奧地利薩爾斯堡火車站外觀" >}}
+{{< figure src="images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpg" alt="薩爾斯堡舊城區巴洛克式街景" >}}
+{{< figure src="images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpg" alt="薩爾斯堡歷史建築群" >}}
+{{< /gallery >}}
 
 *薩爾斯堡火車站與街景*
 
 一到薩爾斯堡，其實沒有太多跨國的感覺，因為奧地利也是講德文XD (我真的覺得這就是住在歐洲有趣的地方，感覺火車坐一坐就有可能不小心出國!)
 
-立刻去遊客中心買了 24 小時的薩爾斯堡卡，這張卡真的滿好用的，可以免費搭乘薩爾斯堡的各式交通工具、可以進多個博物館，甚至還可以搭 40 分鐘的遊船，基本上只要去三個博物館就已經物超所值了！原價 $31，出示歐洲鐵路通行證還可以再打 9 折，只要 $27.9，就連我待不到 12 小時都覺得划算 (薩爾斯堡一個博物館的門票大概 $13)！
+{{< exchange-note >}}
+本文歐元換算台幣的金額以「1 歐元≈35 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+立刻去遊客中心買了 24 小時的薩爾斯堡卡，這張卡真的滿好用的，可以免費搭乘薩爾斯堡的各式交通工具、可以進多個博物館，甚至還可以搭 40 分鐘的遊船，基本上只要去三個博物館就已經物超所值了！原價 $31（約 1,085 台幣），出示歐洲鐵路通行證還可以再打 9 折，只要 $27.9（約 976.5 台幣），就連我待不到 12 小時都覺得划算 (薩爾斯堡一個博物館的門票大概 $13（約 455 台幣）)！
 
 ### 莫札特的故鄉
 
@@ -55,9 +59,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 我覺得這個景點說真的沒有太令人驚豔，但還是可以勉強來參觀一下
 
-![莫札特Q版雕像紀念品](images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpg)
-
-![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpg" alt="莫札特Q版雕像紀念品" >}}
+{{< figure src="images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpg" alt="莫札特音樂主題壁畫" >}}
+{{< /gallery >}}
 
 *莫札特雕像與壁畫*
 
@@ -75,11 +80,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 例如莫札特他家附近有一家莫札特咖啡廳，但咖啡廳其實跟莫札特一點關係都沒有，純粹就是老闆買下咖啡廳後，改名成莫札特咖啡廳而已
 
-![薩爾斯堡莫札特主題咖啡廳](images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpg)
-
-![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpg)
-
-![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpg" alt="薩爾斯堡莫札特主題咖啡廳" >}}
+{{< figure src="images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpg" alt="奧地利莫札特蛋糕甜點" >}}
+{{< figure src="images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpg" alt="咖啡廳復古室內裝潢" >}}
+{{< /gallery >}}
 
 *莫札特咖啡廳*
 
@@ -115,13 +120,21 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### Stiegl-Brauwelt 啤酒廠
 
-![奧地利Stiegl啤酒廠葡萄柚啤酒](images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpg" alt="奧地利Stiegl啤酒廠葡萄柚啤酒" >}}
+{{< figure src="images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpg" alt="薩爾斯堡啤酒廠德式午餐" >}}
+{{< figure src="images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpg" alt="德式法蘭克福香腸與麵包" >}}
+{{< /gallery >}}
 
-*![薩爾斯堡啤酒廠德式午餐](images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpg)![德式法蘭克福香腸與麵包](images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpg)酒廠午餐*
+*酒廠午餐*
 
-![Stiegl啤酒廠檸檬果味啤酒](images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpg" alt="Stiegl啤酒廠檸檬果味啤酒" >}}
+{{< figure src="images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpg" alt="奧地利傳統風味晚餐" >}}
+{{< figure src="images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpg" alt="啤酒廠手工黃芥末醬" >}}
+{{< /gallery >}}
 
-*![奧地利傳統風味晚餐](images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpg)![啤酒廠手工黃芥末醬](images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpg)酒廠晚餐*
+*酒廠晚餐*
 
 薩爾斯堡有個奧地利本土啤酒廠 Stiegl-Brauwelt 可以參觀（門票一樣是包在薩爾斯堡卡裡)，但我因為時間來不及所以沒辦法參觀他們的啤酒博物館。不過我的午餐跟晚餐都是在這裡吃的，我的媽啊！他們葡萄柚啤酒超級驚豔，檸檬啤酒也不錯！不知道澳洲能不能買到？
 
@@ -129,9 +142,12 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 薩爾斯堡要塞&要塞纜車 Festung Hohensalzburg
 
-![薩爾斯堡要塞俯瞰城市全景](images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpg" alt="薩爾斯堡要塞俯瞰城市全景" >}}
+{{< figure src="images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpg" alt="要塞山頂眺望阿爾卑斯山景" >}}
+{{< /gallery >}}
 
-*![要塞山頂眺望阿爾卑斯山景](images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpg)薩爾斯堡要塞*
+*薩爾斯堡要塞*
 
 門票跟上下纜車票也都包在薩爾斯堡卡裡！我個人建議時間有限的人上下山都直接坐纜車，因為山上超美，可以俯瞰薩爾斯堡的美景，會花很多時間拍風景照跟自拍照。
 
@@ -139,9 +155,13 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### Mönchsberg Elevator
 
-![Mönchsberg電梯觀景台入口](images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpg" alt="Mönchsberg電梯觀景台入口" >}}
+{{< figure src="images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpg" alt="現代美術館旁的觀景電梯" >}}
+{{< figure src="images/medium-1*rb-zBQbH87RNfabxuS830Q.jpg" alt="電梯觀景台俯瞰薩爾斯堡" >}}
+{{< /gallery >}}
 
-*![現代美術館旁的觀景電梯](images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpg)![電梯觀景台俯瞰薩爾斯堡](images/medium-1*rb-zBQbH87RNfabxuS830Q.jpg)Mönchsberg Elevator*
+*Mönchsberg Elevator*
 
 最後一個景點是 Mönchsberg Elevator，這是位於現代美術館旁邊的電梯，搭上去之後有個觀景平台，我個人覺得很適合黃昏時去，如果可以待到晚上的話聽說夜景很棒！
 

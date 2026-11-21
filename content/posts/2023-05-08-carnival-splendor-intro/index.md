@@ -33,8 +33,12 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 **2\. 保險(澳洲出發的南太平洋郵輪)**
 
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
   * 保險: 其他郵輪航線的保險好像可以自行決定是否購買，但是 Splendor 這個航線會經過 Vanuatu (台灣: 萬那杜/中國: 瓦努阿圖) 跟 New Caledonia (新喀里多尼亞)，就 2023.5 月來說還是強制購買海外 Covid 旅遊險。
-  * 注意這裡的海外旅遊保險有其相關規定: 澳洲醫保卡(medicare)或是信用卡公司附的保險，都是不符合規定的! 一定要買特定的郵輪旅遊險，包含以下關鍵字 ‘multi-night cruise’ 跟 ‘Covid’ 才可以，大概一個人的保險費會在 $150–200 澳幣之間(視年紀跟健康狀況保費會略有不同)。
+  * 注意這裡的海外旅遊保險有其相關規定: 澳洲醫保卡(medicare)或是信用卡公司附的保險，都是不符合規定的! 一定要買特定的郵輪旅遊險，包含以下關鍵字 ‘multi-night cruise’ 跟 ‘Covid’ 才可以，大概一個人的保險費會在 $150–200 澳幣（約 3,300 - 4,400 台幣）之間(視年紀跟健康狀況保費會略有不同)。
   * 我個人買的是網友推薦的[ Qantas 的 South Pacific 保險](https://insurance.qantas.com/travel-insurance?gclid=Cj0KCQjwu-KiBhCsARIsAPztUF11YPIV4aCyM_0p5EbnWG6QNxEE13DjY4vIBzXedN8qPvC1Morl8T4aAl6vEALw_wcB&gclsrc=aw.ds)，而且買保險的時候記得要把 Vanuatu 跟 New Caledonia 這兩個國家加進去(如下圖黃色標誌)。我 2023.4 月買的保費是一人 $103，算是比較便宜，但是保險範圍比較廣的郵輪保險。
 
 ![澳洲郵輪旅遊保險選擇畫面](images/medium-1*vLcmxkZc8ZgU7wdpvVyz8A.png)

@@ -61,8 +61,12 @@ episodeseries: ["微軟雲端架構師職位解析"]
 
 但這還沒有結束喔~ 其實上面那張圖並不是全貌，在我身為 Azure Infra CSA 的日常生活中，其實我還要跟這些人打交道。以下這五組人馬分別屬於不同的 organisation unit，但顯然我用來畫圖的顏色已經用完了XD:
 
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈20 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
   * Corp CSA: 技術職，但也只能提供 technical advisory。基本上如果一般 CSA 搞不定時，就可以在內部系統上 lodge requests 找 Corp CSA 幫忙。這個是按 request 算的，基本上解決完一個 request 的問題他們就走了。下次要再找他們，就得要在內部系統上再提一次 request。
-  * FastTrack: 技術職，但也只能提供 technical advisory。雖然請他們的門檻其實不高，一個月在 Azure 上花一萬澳幣就可以了(一年 12 萬澳幣，約 240 萬台幣)。對於我負責的企業型客戶來說，根本小菜一碟(我的客戶一個月大概在 Azure 上花幾十萬到幾百萬澳幣都有可能)。但是 FTA 資源有限，基本上是大型的項目才有可能請到他們，FTA 算是比較長期的資源，沒有固定的時間長短。
+  * FastTrack: 技術職，但也只能提供 technical advisory。雖然請他們的門檻其實不高，一個月在 Azure 上花 1 萬澳幣（約 20 萬台幣）就可以了(一年 1 2 萬澳幣，約 240 萬台幣)。對於我負責的企業型客戶來說，根本小菜一碟(我的客戶一個月大概在 Azure 上花幾十萬澳幣到幾百萬澳幣都有可能)。但是 FTA 資源有限，基本上是大型的項目才有可能請到他們，FTA 算是比較長期的資源，沒有固定的時間長短。
   * **GBB** : 技術職，但也只能提供 technical advisory。不過 GBB 可以說是微軟內部的技術菁英，雖然他們也是 advisory 的角色，但是他們通常都有豐富的業界實務經驗，而且 GBB 跟 PG 走得很近，他們常常可以獲得 Azure services 的第一手消息。所以如果你是一個 Azure 客戶，然後你的 Specialist/CSA 可以幫你找到 GBB，那你就有福了!
   * Support: 技術職，Support 可以看到後端數據，這是上面三個組跟我本人都做不到的，所以如果客戶有 implementation 跟 troubleshooting 相關的問題，我們一律建議你直接在 Azure 平台上 raise support tickets 就可以了。你寄信給我是沒有用的，因為我沒有後台權限。而且說真的，不管是 CSA、Corp CSA、FastTrack、GBB 能給的都是 advisory guidance，實作上面你問我們真的是沒有用，我們最多也只能在自己的 Azure portal 上試圖模擬一下。但如果你是相關人士，你就知道企業客戶的 production scale deployment 豈是我在自己的 Azure portal 上能模擬的XD
   * PG: 技術職，負責真正開發 Azure services 的工程師，通常都在西雅圖。基本上除非你的 CSA 有特殊關係，不然是找不到 PG 來幫忙的。(像我就沒有特殊關係lol)

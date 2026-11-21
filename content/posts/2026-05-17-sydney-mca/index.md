@@ -34,6 +34,8 @@ tags: ["雪梨"]
 最後要介紹的就是神祕景點啦~ 博物館的頂樓是個開放的咖啡廳，可以遠眺雪梨歌劇院和港灣大橋!!! 這麼美又不用錢，又可以點杯咖啡或開瓶啤酒與三五好友一起談天賞景的地方哪裡找啊!!! 真是美呆了~
 如果大家下次有機會來雪梨，請千萬不要錯過! 如果已經錯過的人...那就再來一次吧XDD
 
-![MCA頂樓咖啡廳同時眺望雪梨歌劇院與港灣大橋](images/rooftop_cafe.jpg)
-![從MCA頂樓遠眺雪梨歌劇院](images/opera_house.jpg)
-![雪梨港灣大橋與環形碼頭郵輪航站](images/harbour_bridge.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/rooftop_cafe.jpg" alt="MCA頂樓咖啡廳同時眺望雪梨歌劇院與港灣大橋" >}}
+{{< figure src="images/opera_house.jpg" alt="從MCA頂樓遠眺雪梨歌劇院" >}}
+{{< figure src="images/harbour_bridge.jpg" alt="雪梨港灣大橋與環形碼頭郵輪航站" >}}
+{{< /gallery >}}

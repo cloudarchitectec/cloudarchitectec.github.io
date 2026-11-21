@@ -29,11 +29,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 納粹黨代會檔案中心 Documentation Centre Nazi Party
 
-![納粹黨代會檔案中心外觀](images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpg)
-
-![Documentation Center 臨時展](images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpg)
-
-![紐倫堡納粹歷史博物館](images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*QGfJFYu4Hbwur2B_tMj3bg.jpg" alt="納粹黨代會檔案中心外觀" >}}
+{{< figure src="images/medium-1*5BwNAzXcJwF_55O5qdEerw.jpg" alt="Documentation Center 臨時展" >}}
+{{< figure src="images/medium-1*sQ8FJYZ9LP1VhShWTFLQ1w.jpg" alt="紐倫堡納粹歷史博物館" >}}
+{{< /gallery >}}
 
 *納粹黨代會檔案中心*
 
@@ -49,11 +49,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 紐倫堡動物園
 
-![紐倫堡動物園超大爆米花](images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpg)
-
-![歐洲最大動物園之一](images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpg)
-
-![德國劳動節動物園體驗](images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*fqP8XjYg2aU9_O7tE1nkJQ.jpg" alt="紐倫堡動物園超大爆米花" >}}
+{{< figure src="images/medium-1*qI8Vy-ZkW_ZbWZcifsU7vw.jpg" alt="歐洲最大動物園之一" >}}
+{{< figure src="images/medium-1*F3e3DvuWIkwssmkdbVS88g.jpg" alt="德國劳動節動物園體驗" >}}
+{{< /gallery >}}
 
 *爆米花真心超大包，逛完之後還剩 3/4 包*
 
@@ -67,11 +67,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 紐倫堡審判紀念館 Memoriam Nuremberg Trials
 
-![紐倫堡審判紀念館歷史意義](images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpg)
-
-![Memoriam Nuremberg Trials](images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpg)
-
-![二戰戰犯法庭審判](images/medium-1*XKd20tYk57ftqXcq0TclKw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*b70QRz9RLpM2GgXAJ1n2wg.jpg" alt="紐倫堡審判紀念館歷史意義" >}}
+{{< figure src="images/medium-1*zPzWc96iH3Dbm5azkoQ7kw.jpg" alt="Memoriam Nuremberg Trials" >}}
+{{< figure src="images/medium-1*XKd20tYk57ftqXcq0TclKw.jpg" alt="二戰戰犯法庭審判" >}}
+{{< /gallery >}}
 
 *紐倫堡審判紀念館*
 
@@ -81,11 +81,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### Restaurant Burgwächter 晚餐
 
-![Restaurant Burgwächter 烤豬肩](images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpg)
-
-![巴伐利亞傳統紅啤酒](images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpg)
-
-![德國脆皮豬肉料理](images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*a8dJuCh_LyMY4pI8PYQS5g.jpg" alt="Restaurant Burgwächter 烤豬肩" >}}
+{{< figure src="images/medium-1*KzfA11Dgl06gFFG6pK1HtA.jpg" alt="巴伐利亞傳統紅啤酒" >}}
+{{< figure src="images/medium-1*gClUJ1A6vZXNjoWIJHkTNg.jpg" alt="德國脆皮豬肉料理" >}}
+{{< /gallery >}}
 
 *Restaurant Burgwächter 晩餐*
 
@@ -97,6 +97,9 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 我這幾天在德國餐廳吃飯的感想就是，這些道地德式料理都沒有特別好吃，價位還不低(我真心覺得雪梨 The rocks 的德國豬腳餐廳 [Munich Brauhaus Sydney](https://search.app.goo.gl/JT3DEHH) 還比較好吃XDD)。除了體驗道地德國食物之外，我會建議大家不如吃 kebab 餐廳/餐車/小店，或是火車站裡面的麵包店跟餐廳，都更便宜且美味 (而且其實土耳其食物 doner 已經成為德國人生活的一部分了)。
 
-![德國麵包店精緻烘焙](images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*Y_XMlPB_I1-OVpHJNmcF2w.jpg" alt="德國麵包店精緻烘焙" >}}
+{{< figure src="images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpg" alt="德式土耳其 Doner 料理" >}}
+{{< /gallery >}}
 
-*![德式土耳其 Doner 料理](images/medium-1*2swivAEj1AFKr1XHNIjrIQ.jpg)德國的麵包店跟土耳其食物真的很好吃*
+*德國的麵包店跟土耳其食物真的很好吃*

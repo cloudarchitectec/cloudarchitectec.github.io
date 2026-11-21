@@ -19,7 +19,11 @@ tags: ["澳洲旅遊","布里斯本"]
 
 他們還有另外兩個園區，分別在黃金海岸的 [Mount Tamborine](https://www.treetopchallenge.com.au/tamborine-mtn-adventure) 跟 [Currumbin](https://www.treetopchallenge.com.au/adventure-park/currumbin-wildlife-sanctuary?gad_source=1&gad_campaignid=12309401030&gbraid=0AAAAADtI7kR0hMmQhL7nptbtGg8td3Cpv&gclid=CjwKCAjwruXBBhArEiwACBRtHas9NpVJBmg8yCiY92AJW_9FqwiLIX0-L7K2PVtpciJHS1kgwLub_xoCNaUQAvD_BwE)
 
-每個時段都有限定的入場人數，大家出發前記得要先上官網選時段購票 (成人 $65 澳幣)，網站上說大概需要三小時完成挑戰，但其實入場後並沒有時間限制，如果你想待更久也可以。
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+每個時段都有限定的入場人數，大家出發前記得要先上官網選時段購票 (成人 $65 澳幣（約 1,430 台幣）)，網站上說大概需要三小時完成挑戰，但其實入場後並沒有時間限制，如果你想待更久也可以。
 
 對 tree top challenge 沒有概念的人，可以看這個官方介紹影片，非常刺激喔XDD
 
@@ -37,9 +41,10 @@ tags: ["澳洲旅遊","布里斯本"]
 
 進去簡單報到之後，就會先開始著裝。一開始工作人員會把裝備都先在地板上擺好，之後只要按照教練一個口令一個動作著裝即可。
 
-![](images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpg)
-
-![](images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpg" alt="" >}}
+{{< figure src="images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpg" alt="" >}}
+{{< /gallery >}}
 
 *安全說明 ＆ 上裝備*
 
@@ -49,9 +54,10 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 根據難度不同，樹的高度大概在 3–30 公尺之間，挑戰的內容包含溜索(一開始我被那種滑下去，腳底懸空的失重感嚇得要死，後來發現這個是最簡單的挑戰，因為完全不用出力😆)、爬樓梯、走繩索、走高空木板等等各式體能挑戰。每個挑戰視難度大概耗時 25–45 分鐘不等。
 
-![](images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpg)
-
-![](images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpg" alt="" >}}
+{{< figure src="images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpg" alt="" >}}
+{{< /gallery >}}
 ![](images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpg)
 
 *各式挑戰*
@@ -74,7 +80,7 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 ### 總結
 
-  1. 雖然我覺得門票有點貴（我覺得一個人 $30–40 差不多吧？雖然我問一下身邊的人，大多都覺得這個價錢很合理，有的人甚至覺得一個人 $100 也很合理)，但我覺得是一筆我會願意花的錢，也願意再去挑戰一次（只是下次去之前體能跟臂力得先練好一點，不然狂擋別人真的是很尷尬)。因為有各式不一樣的挑戰，很有趣也很有成就感👍
+  1. 雖然我覺得門票有點貴（我覺得一個人 $30–40（約 660 - 880 台幣） 差不多吧？雖然我問一下身邊的人，大多都覺得這個價錢很合理，有的人甚至覺得一個人 $100（約 2,200 台幣） 也很合理)，但我覺得是一筆我會願意花的錢，也願意再去挑戰一次（只是下次去之前體能跟臂力得先練好一點，不然狂擋別人真的是很尷尬)。因為有各式不一樣的挑戰，很有趣也很有成就感👍
   2. 建議可以選最早的時段，我們這次選了 10:30，除了第一關 easy 綠色小排隊，剩下每關都排了 20–30 分鐘不止，因為人潮滿多的，而且我們都有遇到卡在上面動彈不得的人😂
   3. 來的人也建議穿有口袋且口袋有拉鍊的褲子，這樣才能放手機(樹都很高，手機掉下去絕對沒救)。玩的過程不能帶包，也不能帶水(但後來看到工作人員身上帶了有掛勾的水壺，如果你有這類裝備請記得帶)。雖然玩的過程中也沒什麼機會拿手機拍照（因為後面所有人都在等你，只有前面有人大卡住時才能拿出來拍一點，但排隊時可以玩手機還不錯)😆
 

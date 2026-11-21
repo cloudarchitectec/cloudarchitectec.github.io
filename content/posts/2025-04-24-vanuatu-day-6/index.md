@@ -24,13 +24,12 @@ episodeseries: ["萬那杜旅記"]
 
 後來租車公司完全 11 點才到，傻眼！我中間等到太無聊/太餓，還點了一杯 smoothie 🤣
 
-![萬那杜芒果 smoothie](images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpg)
-
-![租車等待漫長時光](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpg)
-
-![萬那杜租車 SUV](images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpg)
-
-![新車低里程數](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpg" alt="萬那杜芒果 smoothie" >}}
+{{< figure src="images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpg" alt="租車等待漫長時光" >}}
+{{< figure src="images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpg" alt="萬那杜租車 SUV" >}}
+{{< figure src="images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpg" alt="新車低里程數" >}}
+{{< /gallery >}}
 
 *車子滿新的，里程數也不高！很喜歡～*
 
@@ -40,7 +39,11 @@ episodeseries: ["萬那杜旅記"]
 
 不過這邊倒是滿適合家庭來玩水的，因為岸邊的水很淺，有滿多遊客跟當地人家庭在這裡玩水。
 
-這裡的入場費應該是 vt1000，但不知道為什麼我開車進來的時候完全沒有人跟我收錢？所以我一毛錢都沒付XD (題外話是萬那杜的海灘大多要收入場費，據說是用來維護公用設施的，但絕大部分的公用設施還是滿破舊的，甚至收錢的人我也不知道是不是官方的人。)
+{{< exchange-note >}}
+本文外幣換算台幣的金額以「1 澳幣≈22 台幣」、「1,000 萬那杜瓦圖≈250 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+這裡的入場費應該是 vt1000（約 250 台幣），但不知道為什麼我開車進來的時候完全沒有人跟我收錢？所以我一毛錢都沒付XD (題外話是萬那杜的海灘大多要收入場費，據說是用來維護公用設施的，但絕大部分的公用設施還是滿破舊的，甚至收錢的人我也不知道是不是官方的人。)
 
 ### Blue lagoon
 
@@ -48,15 +51,18 @@ episodeseries: ["萬那杜旅記"]
 
 *超美的 Blue Lagoon*
 
-第二站 Blue lagoon，通常入場費是 1500vt，但度假村主人說報她名字只收 vt500。所以我就跟入口的人解釋了一番，也不知道他有沒有聽懂，反正我只付了 500😆
+
+
+第二站 Blue lagoon，通常入場費是 1500vt（約 375 台幣），但度假村主人說報她名字只收 vt500（約 125 台幣）。所以我就跟入口的人解釋了一番，也不知道他有沒有聽懂，反正我只付了 500😆
 
 我個人覺得游湖完全比游海可怕很多耶🤣 一開始我連跳下水都有點害怕，下去之後也覺得浮力有差，大概只下去五分鐘我就上來了。不過這邊還滿適合水性好、喜歡冒險的人，不僅有跳水平台、還有繩索可以玩，我看其他人跟小朋友都玩得很開心。
 
 ### Aelen Chocolate Factory/83 Distillery
 
-![83酒廠參觀外觀](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg)
-
-![83酒廠內部設施](images/medium-1*meuPajg-ogijqOy7m4apGA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg" alt="83酒廠參觀外觀" >}}
+{{< figure src="images/medium-1*meuPajg-ogijqOy7m4apGA.jpg" alt="83酒廠內部設施" >}}
+{{< /gallery >}}
 
 *83 Distillery*
 
@@ -64,9 +70,10 @@ episodeseries: ["萬那杜旅記"]
 
 之後就開車去附近的釀酒廠 83 distillery，可惜他們這邊沒有供應餐點，我一個人開車也不能參加 tasting (品酒活動)，所以上了個廁所我就走了🤣 （不然我覺得那邊充滿了蔗糖香，超好聞）
 
-![83 釀酒廠外觀建築](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg)
-
-![萬那杜蔗糖釀酒廠](images/medium-1*meuPajg-ogijqOy7m4apGA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg" alt="83 釀酒廠外觀建築" >}}
+{{< figure src="images/medium-1*meuPajg-ogijqOy7m4apGA.jpg" alt="萬那杜蔗糖釀酒廠" >}}
+{{< /gallery >}}
 
 *83 Distillery*
 
@@ -76,7 +83,7 @@ episodeseries: ["萬那杜旅記"]
 
 *超大份 steak sandwich*
 
-最後我總共花了兩個小時，才開車回到市區的咖啡廳 Nambawan Café (Number One Cafe) 吃飯。Nambawan Café 其實就在我第二天去的咖啡廳 Rossi’s 隔壁，其實我一開始完全不懂為什麼會有很多人推薦他們，因為我覺得 Rossi’s 環境更加舒適、服務好、菜色選擇多。直到我點的 steak sandwich 上菜（我一開始還想說也煮太久了吧），超級豐盛的，這樣只要澳幣 $11.6。飲料我喝了 iced tanna coffee，應該是用火山島 Tanna 產的咖啡豆，但我覺得喝起來就是很水的冰咖啡🤣
+最後我總共花了兩個小時，才開車回到市區的咖啡廳 Nambawan Café (Number One Cafe) 吃飯。Nambawan Café 其實就在我第二天去的咖啡廳 Rossi’s 隔壁，其實我一開始完全不懂為什麼會有很多人推薦他們，因為我覺得 Rossi’s 環境更加舒適、服務好、菜色選擇多。直到我點的 steak sandwich 上菜（我一開始還想說也煮太久了吧），超級豐盛的，這樣只要澳幣 $11.6（約 255.2 台幣）。飲料我喝了 iced tanna coffee，應該是用火山島 Tanna 產的咖啡豆，但我覺得喝起來就是很水的冰咖啡🤣
 
 ### 自駕感想
 
@@ -88,15 +95,17 @@ Port Vila 南邊的路比起北邊來說好很多，雖然有坑，但沒有到�
 
 ### Pacific Lagoon Apartment
 
-今晚的住宿是兩房的 garden apartment，一晚 $200 澳幣的力量果然非同凡響，剛剛試了一下，有熱水！我好興奮啊！
+
+
+今晚的住宿是兩房的 garden apartment，一晚 $200 澳幣（約 4,400 台幣）的力量果然非同凡響，剛剛試了一下，有熱水！我好興奮啊！
 
 但後來我發現我太天真了😆 雖然這裡有熱水，但完全沒有洗髮精跟沐浴乳🤣 好險我自己有帶一塊小肥皂！然後洗完澡發現，吹風機的風超級弱，電風扇都比它強😂
 
 晚餐糾結了很久要不要出去外面吃，看了一些 Google reviews，覺得出去還要開車、還要被蚊子叮，餐點看起來也一般，價錢又高，就還是決定在旅館吃泡麵了🤣
 
 
-![萬那杜住宿環境](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpg)
-
-![兩房公寓內部空間](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg)
-
-![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpg" alt="萬那杜住宿環境" >}}
+{{< figure src="images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg" alt="兩房公寓內部空間" >}}
+{{< figure src="images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg" alt="旅館房間設施" >}}
+{{< /gallery >}}

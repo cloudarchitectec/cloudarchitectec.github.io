@@ -9,6 +9,7 @@ cover:
 images: ["images/Charvak.JPG", "images/amirsoy-1.JPG", "images/amirsoy-2.JPG", "images/cover.JPG", "images/magic-city-1.JPG", "images/magic-city-2.JPG", "images/magic-city-3.JPG", "images/magic-city-4.JPG", "images/museum.JPG", "images/paper-post-card.JPG", "images/post-office.JPG", "images/restaurant-1.JPG", "images/restaurant-2.JPG", "images/subway-1.JPG", "images/subway-2.JPG", "images/subway-3.JPG", "images/subway-4.JPG", "images/tea-on-the-train.JPG"]
 categories: ["旅行紀錄"]
 tags: ["烏茲別克", "中亞", "旅遊", "塔什干"]
+episodeseries: ["勇闖烏茲別克"]
 ---
 
 ## 2026.10.05 Day 11｜撒馬爾罕 → 塔什干：莫名其妙的計程車司機
@@ -130,6 +131,10 @@ tags: ["烏茲別克", "中亞", "旅遊", "塔什干"]
 逛完地鐵站之後，我覺得這幾天古蹟也逛得差不多了，是時候來一點人文行程。所以我前一天就請 AI 幫我找了兩個博物館，想說趁最後幾天多了解一下烏茲別克的歷史與文化。朋友原本對博物館沒有什麼興趣，不過休息了一下之後，想說來都來了，最後還是決定跟我一起去。
 
 我們第一站來到了烏茲別克斯坦國家歷史博物館（State Museum of History of Uzbekistan）。門票是 100,000 UZS，大概台幣 250 元左右。
+
+{{< exchange-note >}}
+本文外幣換算台幣的金額以「1,000 烏茲別克索姆≈2.5 台幣」、「1 澳幣≈22 台幣」、「1 美元≈32 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
 
 我之前查資料的時候，AI 跟我說這個博物館有提供真人英文導覽，而且不需要事先預約，只要買票的時候跟售票員說就可以了。我當時還想說太好了！終於可以透過專人導覽，更深入了解烏茲別克的文化。
 

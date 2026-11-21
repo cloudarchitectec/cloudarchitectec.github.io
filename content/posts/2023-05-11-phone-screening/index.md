@@ -13,6 +13,7 @@ images: ['images/medium-0*VtTwo_4RcFVfiCkx.jpg']
 categories: ["澳洲職場"]
 tags: ["澳洲求職必勝法則","英文面試"]
 
+episodeseries: ["澳洲求職必勝法則"]
 ---
 
 今天想要跟大家來分享在澳洲求職過程中電話篩選 (phone screening) 的相關經驗。首先，phone screening 跟 phone interview 是兩個不同的概念。Phone screening 通常是由人資主導，主要目的是核實你的個人基本資料、履歷內容，進一步詢問申請職位跟公司相關的問題。Phone interview 就是一個正式的面試關卡，只是透過電話進行(而非傳統的面對面面試)，通常面試官會是你的主管或是團隊裡的其他同事，不會是人資。
@@ -57,7 +58,11 @@ tags: ["澳洲求職必勝法則","英文面試"]
 
 這題我通常也不會直接回答，通常我的答案會是「Can you please tell me what the expected salary range is for this role? (可以麻煩你告訴我貴公司對於這個職位的預期薪資範圍嗎?)」就我個人目前的經驗來說，人資都會跟我說他們這個職位的大概範圍。
 
-當然，有的人資可能會持續逼問你一個數字，這時候我會試圖至少再問一個問題「What’s the expected level of this role? Mid-level? Senior? (請問這個職位是一個中階還是資深職位?)」，然後根據對方的回答我會說「Thanks! Based on my research, the salary range of a mid-level DevOps Engineer in Australia is around 130–150K per year. Does that align with your salary expectation for this role? (謝謝。根據我的研究，澳洲中階 DevOps Engineer 的年薪大概是 13–15 萬澳幣之間，請問這個數字符合貴公司對這個職位的預期嗎?)」
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+當然，有的人資可能會持續逼問你一個數字，這時候我會試圖至少再問一個問題「What’s the expected level of this role? Mid-level? Senior? (請問這個職位是一個中階還是資深職位?)」，然後根據對方的回答我會說「Thanks! Based on my research, the salary range of a mid-level DevOps Engineer in Australia is around 130–150K per year. Does that align with your salary expectation for this role? (謝謝。根據我的研究，澳洲中階 DevOps Engineer 的年薪大概是 13–15 萬澳幣（約 2,860,000 - 3,300,000 台幣）之間，請問這個數字符合貴公司對這個職位的預期嗎?)」
 
   * **Do you have any holiday plan in the next 6 months? (請問你在接下來六個月有任何休假的計畫嗎?)**
 

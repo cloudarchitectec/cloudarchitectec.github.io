@@ -48,11 +48,15 @@ tags: ["雲端證照"]
 
 
 
-學完 ACG 之後，我買了這個 Tutorial Dojo 的考試練習題，不貴，才 11.99 美元，而且結帳時我隨手打了 "TutorialDojo" 進 coupon 欄，沒想到居然是一個有效的折扣碼 (天啊，我會不會太厲害XDDDD) 使用這個折扣碼可以折 3 美元，不無小補 (非商業合作，我只是隨手試到正確答案)。
+{{< exchange-note >}}
+本文美元換算台幣的金額以「1 美元≈32 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+學完 ACG 之後，我買了這個 Tutorial Dojo 的考試練習題，不貴，才 11.99 美元（約 384 台幣），而且結帳時我隨手打了 "TutorialDojo" 進 coupon 欄，沒想到居然是一個有效的折扣碼 (天啊，我會不會太厲害XDDDD) 使用這個折扣碼可以折 3 美元（約 96 台幣），不無小補 (非商業合作，我只是隨手試到正確答案)。
 
 雖然這個練習題的題目不多，只有 3 個 practice tests，一套題目 60 題。但是他們的答案解析做得不錯，非常有條理，而且會附上 Microsoft Azure 的官方文件的連結。另外我非常喜歡它的 review mode，可以讓你寫完每一題就立刻看答案。我覺得這是做練習題最有效的方式，寫完立刻看答案檢討，加深記憶力!
 
-**EC 評價: review mode 我很喜歡，如果 8.99 美元對你來說不會造成負擔的話，推薦購買!**
+**EC 評價: review mode 我很喜歡，如果 8.99 美元（約 288 台幣）對你來說不會造成負擔的話，推薦購買!**
 
   * Udemy 的練習題[**AZ-104: Microsoft Azure Administrator Practice Tests 2022**](https://www.udemy.com/course/az-104-microsoft-azure-administrator-exam-practice-tests/)(26.99 澳幣)
 

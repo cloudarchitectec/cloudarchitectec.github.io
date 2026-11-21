@@ -25,19 +25,19 @@ grep -q 'media:content' "${PUBLIC_DIR}/index.xml" \
   && echo "✅ RSS has cover media:content with post bundle URLs" \
   || (echo "❌ RSS missing media:content — check layouts/_default/rss.xml" && exit 1)
 
-grep -rl "@waline/client" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
+grep -qF "@waline/client" "${PUBLIC_DIR}/posts/"*/index.html \
   && echo "✅ Waline embed present in posts" \
   || (echo "❌ Waline embed not found — check comments = true in hugo.toml" && exit 1)
 
-grep -rl "comments.cloudarchitectec.com" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
+grep -qF "comments.cloudarchitectec.com" "${PUBLIC_DIR}/posts/"*/index.html \
   && echo "✅ Comment server URL present in posts" \
   || (echo "❌ Comment server URL not found" && exit 1)
 
-grep -rl "zh-TW" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
+grep -Eq "lang:[[:space:]]*['\"]zh-TW['\"]" "${PUBLIC_DIR}/posts/"*/index.html \
   && echo "✅ Waline zh-TW locale present in posts" \
   || (echo "❌ Waline zh-TW locale not found" && exit 1)
 
-grep -rl 'post-nudge--subscribe' "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
+grep -qF 'post-nudge--subscribe' "${PUBLIC_DIR}/posts/"*/index.html \
   && echo "✅ Subscribe nudge present in posts" \
   || (echo "❌ Subscribe nudge not found — check partials/post-footer.html" && exit 1)
 
@@ -45,11 +45,11 @@ grep -q 'dashboard.mailerlite.com/jsonp/2459287/forms/190870271382520893/subscri
   && echo "✅ MailerLite subscribe action present on homepage" \
   || (echo "❌ MailerLite subscribe action not found — check partials/home/newsletter.html" && exit 1)
 
-grep -rl "related-posts" "${PUBLIC_DIR}/posts/"*/index.html | head -1 | grep -q . \
+grep -qF "related-posts" "${PUBLIC_DIR}/posts/"*/index.html \
   && echo "✅ Related posts block present in built posts" \
   || (echo "❌ Related posts block missing — check layouts/partials/related_posts.html" && exit 1)
 
-grep -rl "轉職工程師日記系列" "${PUBLIC_DIR}/posts/2019-08-29-how-to-position-yourself/index.html" | grep -q . \
+grep -qF "轉職工程師日記系列" "${PUBLIC_DIR}/posts/2019-08-29-how-to-position-yourself/index.html" \
   && echo "✅ Series nav present on episodic post" \
   || (echo "❌ Series nav missing on episodic post — check layouts/partials/series_nav.html" && exit 1)
 

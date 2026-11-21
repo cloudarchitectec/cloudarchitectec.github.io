@@ -38,7 +38,11 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ![Signal Island碼頭登陸點](images/medium-1*pkrhyBIJ7puIz4dS-AWQ5A.jpg) Signal Island Jetty
 
-我們訂了一個人 $75 的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 Signal Island 試圖用海水冰鎮它們 (想當然耳沒用XDDD)。
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+我們訂了一個人 $75（約 1,650 台幣） 的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 Signal Island 試圖用海水冰鎮它們 (想當然耳沒用XDDD)。
 
 
 *沙灘啤酒*
@@ -65,12 +69,9 @@ Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始
 
 晚上去參加了 80 年代搖滾螢光趴，還發了螢光棒當道具很不錯!!!
 
-![郵輪80年代現場樂團表演](images/medium-1*XU3yT7_raobC99qC2ioKiA.jpg)
-
-*有 live band 真的很嗨*
-
-![郵輪80年代螢光棒派對](images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpg)
-
-*而且還發螢光棒!*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*XU3yT7_raobC99qC2ioKiA.jpg" alt="郵輪80年代現場樂團表演" caption="有 live band 真的很嗨" >}}
+{{< figure src="images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpg" alt="郵輪80年代螢光棒派對" caption="而且還發螢光棒!" >}}
+{{< /gallery >}}
 
 很多人也裝扮得很認真，但超多首 80 年代的歌我跟 Ashley 都不知道，很難嗨起來lol

@@ -23,11 +23,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 在前往琉森的火車上，我遇到一個人超好的瑞士杯杯！他不僅把景觀比較好的座位讓給我拍照，沿途幫我介紹經過的四個湖泊，杯杯還給了我他身為當地人的旅遊建議 (杯杯不建議我今天上皮拉圖斯山，因為今天的天氣看起來很糟，就算上山可能也只會看到霧茫茫的一片，但他說我可以到了旅館之後再跟旅館櫃檯確認一下情況，最喜歡這種給意見但是又不武斷的人了！）
 
-![瑞士火車沿途四個湖泊景色](images/medium-1*bgE52bqShgmt9nqamDlgYA.jpg)
-
-![阿爾卑斯山間湖泊倒影](images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpg)
-
-![火車車窗外瑞士山水風光](images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*bgE52bqShgmt9nqamDlgYA.jpg" alt="瑞士火車沿途四個湖泊景色" >}}
+{{< figure src="images/medium-1*XscuymfdVVPZox2Dh2_pUQ.jpg" alt="阿爾卑斯山間湖泊倒影" >}}
+{{< figure src="images/medium-1*Y-tA9pTgxtZZG_3tCew9bw.jpg" alt="火車車窗外瑞士山水風光" >}}
+{{< /gallery >}}
 
 *火車沿途的湖景超美*
 
@@ -39,19 +39,22 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 瑞士的首都伯恩其名稱來自德文的熊「Bär」。因為公爵 Zähringen 在 1191 年建城時，捕捉的第一隻動物就是熊。
 
-![伯恩麵包店熊造型塔甜點](images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpg" alt="伯恩麵包店熊造型塔甜點" >}}
+{{< figure src="images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpg" alt="瑞士伯恩可愛熊塔糕點" >}}
+{{< /gallery >}}
 
-*![瑞士伯恩可愛熊塔糕點](images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpg)伯恩麵包店裡面賣的熊塔，超可愛*
+*伯恩麵包店裡面賣的熊塔，超可愛*
 
 現在的瑞士政府還特地為熊建了巨大的熊公園，但裡面只住了三隻熊！
 
 因為熊會移動，而且他們住的地方有夠大，我看其他人的遊記也不一定有看到熊。結果我超幸運一抵達就看到兩隻！一隻不停走來走去覓食，一隻表情非常厭世，把頭靠在樹枝上我整個要笑死XDD
 
-![伯恩熊公園的棕熊覓食](images/medium-1*EILbqYqargPjS28k9RcgVQ.jpg)
-
-![熊公園厭世表情棘熊](images/medium-1*gggTRlie6ezAERC6U46peQ.jpg)
-
-![瑞士政府保護區內的熊](images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*EILbqYqargPjS28k9RcgVQ.jpg" alt="伯恩熊公園的棕熊覓食" >}}
+{{< figure src="images/medium-1*gggTRlie6ezAERC6U46peQ.jpg" alt="熊公園厭世表情棘熊" >}}
+{{< figure src="images/medium-1*9tiFw8EYpYtma3Ok2HoXSg.jpg" alt="瑞士政府保護區內的熊" >}}
+{{< /gallery >}}
 
 *熊公園*
 
@@ -59,15 +62,19 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 除了熊公園之外，這裡還有一個愛因斯坦相關的景點，雖然愛因斯坦是德國人，但他曾在伯恩住過七年，並在伯恩專利局工作。這段期間也是愛因斯坦在研究中取得豐碩成果的時期，著名的相對論便是在 1905 年發表的喔！
 
-![愛因斯坦伯恩故居外觀建築](images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpg)
-
-![故居改建博物館入口](images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpg)
-
-![物理學家愛因斯坦伯恩舊居](images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*XEE98DQ9HLSK_pRKkAgc6w.jpg" alt="愛因斯坦伯恩故居外觀建築" >}}
+{{< figure src="images/medium-1*Qh3miBg4fUxfB9DfpgwGJw.jpg" alt="故居改建博物館入口" >}}
+{{< figure src="images/medium-1*-H41mLl4CkZ8_LctjzaheA.jpg" alt="物理學家愛因斯坦伯恩舊居" >}}
+{{< /gallery >}}
 
 *愛因斯坦在伯恩的故居*
 
-當時愛因斯坦居住的故居，現在一樓是咖啡館、二三樓則以博物館的形式對外開放。愛因斯坦故居的參觀門票要 $7 瑞士法朗，我看了 Google 評價，毀譽參半，但因為我覺得票價也不是很貴，所以我還是入內參觀了。
+{{< exchange-note >}}
+本文外幣換算台幣的金額以「1 澳幣≈22 台幣」、「1 瑞士法郎≈35 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+當時愛因斯坦居住的故居，現在一樓是咖啡館、二三樓則以博物館的形式對外開放。愛因斯坦故居的參觀門票要 $7 瑞士法朗（約 245 台幣），我看了 Google 評價，毀譽參半，但因為我覺得票價也不是很貴，所以我還是入內參觀了。
 
 結論是，真的可以不用去XDDD
 
@@ -75,11 +82,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 但樓下的愛因斯坦咖啡店我個人覺得還不錯，是一個很舒服的環境（而且有廁所XD）。他們的招牌是愛因斯坦咖啡，特別之處在於將杏仁甜酒(Amaretto)、白蘭地與濃縮咖啡三者調和，上面再加上打發的鮮奶油，是款帶有濃濃酒味的咖啡！（總結了我這幾天在瑞士喝咖啡的經驗，我發現瑞士的咖啡特色就是上面都會有厚厚一層鮮奶油）
 
-![愛因斯坦咖啡館復古環境](images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpg)
-
-![相對論主題招牌愛因斯坦咖啡](images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpg)
-
-![杏仁甜酒白蘭地特調咖啡](images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*TeRava_Z0Mga7OZxcfZxwg.jpg" alt="愛因斯坦咖啡館復古環境" >}}
+{{< figure src="images/medium-1*axkvw5ZdF2iH3kSPCyFg4w.jpg" alt="相對論主題招牌愛因斯坦咖啡" >}}
+{{< figure src="images/medium-1*qKdQfib2G7oFK3XuvF4jBQ.jpg" alt="杏仁甜酒白蘭地特調咖啡" >}}
+{{< /gallery >}}
 
 *愛因斯坦咖啡*
 
@@ -91,13 +98,14 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 事實證明臨時改行程到伯恩是個非常正確的決定！可以看到熊好酷！而且伯恩不愧是被列為世界遺產的城市，簡直美翻天！
 
-![世界遺產伯恩古城街道](images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpg" alt="世界遺產伯恩古城街道" >}}
+{{< figure src="images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpg" alt="瑞士首都伯恩歷史建築群" >}}
+{{< figure src="images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpg" alt="伯恩鐘樓與拱廊建築" >}}
+{{< figure src="images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpg" alt="瑞士伯恩中世紀街景" >}}
+{{< /gallery >}}
 
-*![瑞士首都伯恩歷史建築群](images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpg)*
-
-![伯恩鐘樓與拱廊建築](images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpg)
-
-*![瑞士伯恩中世紀街景](images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpg)伯恩街景*
+*伯恩街景*
 
 最重要的是，我到伯恩後天氣立刻從多雲轉大晴天，完全沒下雨（證明我不是雨女 😂）。好天氣旅遊真的方便很多！
 
@@ -105,8 +113,13 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 本來回到琉森之後還有一點時間，想說還可以去幾個市區景點走走(因為春夏期間的歐洲大概晚上 8:30 才天黑)。沒想到一下火車迎接我的是滂沱大雨！我離開的時候才小雨而已XD
 
-只好瞬間放棄，去超市買了晚餐之後，回旅館休息。在琉森的住宿是一個今年才剛開始開幕的膠囊旅館，一晚約 83 澳幣(因為其他旅館至少一晚都超過 300 澳幣以上，爆炸貴，而且看起來也不是特別高級）。其實我覺得這個膠囊旅館還不錯，內部空間非常寬敞，而且可愛！但是那個昏黃的燈光真的是讓我連自己的櫃子都看不到XDDD 猜測可能是因為膠囊旅館隨時有人入住，為了讓旅客隨時有個可休息的環境，所以才把燈光調整成這樣？
 
-![琉森膠囊旅館超市晚餐](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg)
 
-*![膠囊旅館書籍交換休息區](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg)晚餐與膠囊旅館的換書區*
+只好瞬間放棄，去超市買了晚餐之後，回旅館休息。在琉森的住宿是一個今年才剛開始開幕的膠囊旅館，一晚約 83 澳幣（約 1,826 台幣）(因為其他旅館至少一晚都超過 300 澳幣（約 6,600 台幣）以上，爆炸貴，而且看起來也不是特別高級）。其實我覺得這個膠囊旅館還不錯，內部空間非常寬敞，而且可愛！但是那個昏黃的燈光真的是讓我連自己的櫃子都看不到XDDD 猜測可能是因為膠囊旅館隨時有人入住，為了讓旅客隨時有個可休息的環境，所以才把燈光調整成這樣？
+
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg" alt="琉森膠囊旅館超市晚餐" >}}
+{{< figure src="images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg" alt="膠囊旅館書籍交換休息區" >}}
+{{< /gallery >}}
+
+*晚餐與膠囊旅館的換書區*
