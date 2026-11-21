@@ -26,10 +26,11 @@ INLINE_SOFT_BYTES = 500 * 1024
 HARD_LONG_EDGE = 4000
 HARD_BYTES = 2 * 1024 * 1024
 
-# Rendered widths from post-images.css: 680px article column; portrait images
-# (by aspect ratio, or forced via #portrait) are capped at 420px.
-INLINE_DISPLAY_WIDTH = 680
-PORTRAIT_DISPLAY_WIDTH = 420
+# Maximum CSS widths; gallery images can stack at mobile widths.
+INLINE_DISPLAY_WIDTH = 420
+PORTRAIT_DISPLAY_WIDTH = 280
+SQUARE_DISPLAY_WIDTH = 340
+ARTICLE_DISPLAY_WIDTH = 680
 
 # Targets when optimizing outliers
 OPTIMIZE_COVER_LONG_EDGE = 1600
@@ -150,7 +151,8 @@ def normalize_jpeg_baseline(path: Path, quality: int = JPEG_QUALITY) -> tuple[bo
 
 
 def check_info(
-    info: ImageInfo, role: str, modifiers: set[str] | frozenset[str] = frozenset()
+    info: ImageInfo, role: str, modifiers: set[str] | frozenset[str] = frozenset(),
+    in_gallery: bool = False,
 ) -> tuple[list[str], list[str]]:
     warnings: list[str] = []
     errors: list[str] = []
@@ -182,10 +184,20 @@ def check_info(
         )
 
     if role == "inline" and info.width:
-        is_portrait = info.height >= info.width or "portrait" in modifiers
-        target = PORTRAIT_DISPLAY_WIDTH if is_portrait else INLINE_DISPLAY_WIDTH
+        is_portrait = info.height > info.width or "portrait" in modifiers
+        is_square = info.height == info.width and "portrait" not in modifiers
+        if in_gallery:
+            target = 420 if is_portrait else ARTICLE_DISPLAY_WIDTH
+        elif "screenshot" in modifiers:
+            target = ARTICLE_DISPLAY_WIDTH
+        elif is_portrait:
+            target = PORTRAIT_DISPLAY_WIDTH
+        elif is_square:
+            target = SQUARE_DISPLAY_WIDTH
+        else:
+            target = INLINE_DISPLAY_WIDTH
         if info.width < target:
-            hint = "use a larger source" if is_portrait else "add #portrait or use a larger source"
+            hint = "use a larger source"
             warnings.append(
                 f"inline image will be upscaled: {rel} — {info.width}x{info.height} "
                 f"renders at ~{target}px wide ({hint})"
@@ -210,13 +222,16 @@ def check_post_images(
     warnings: list[str] = []
     errors: list[str] = []
     modifier_map = extract_image_modifiers(text) if extract_image_modifiers else {}
+    gallery_paths = set()
+    for gallery in re.findall(r"{{<\s*gallery\b.*?{{<\s*/gallery\s*>}}", text, re.S):
+        gallery_paths.update(extract_image_paths(gallery))
 
     for rel, role in get_referenced_image_paths(text, extract_image_paths):
         path = post_dir / rel
         info = read_image_info(path)
         if info is None:
             continue
-        w, e = check_info(info, role, modifier_map.get(rel, frozenset()))
+        w, e = check_info(info, role, modifier_map.get(rel, frozenset()), rel in gallery_paths)
         warnings.extend(w)
         errors.extend(e)
 

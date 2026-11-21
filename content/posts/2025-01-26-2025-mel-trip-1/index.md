@@ -123,7 +123,11 @@ episodeseries: ["2025 墨爾本澳網行"]
 {{< figure src="images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpg" alt="澳網官方帽子商品" >}}
 {{< /gallery >}}
 
-最後要說整個澳網就跟嘉年華一樣，氣氛超好，我推薦每個人都去參加！最便宜的坐票大概 $130 就可以坐主場館了，如果覺得太貴，也可以買！$19 的 ground pass 進去感受氣氛，我大推！
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+最後要說整個澳網就跟嘉年華一樣，氣氛超好，我推薦每個人都去參加！最便宜的坐票大概 $130（約 2,860 台幣） 就可以坐主場館了，如果覺得太貴，也可以買！$19（約 418 台幣） 的 ground pass 進去感受氣氛，我大推！
 
 {{< gallery cols="2" >}}
 {{< figure src="images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg" alt="澳網嘉年華活動氣氛" >}}

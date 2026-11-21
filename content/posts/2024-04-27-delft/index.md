@@ -121,6 +121,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 我在裡面糾結了很久要不要入手，因為手工繪製的無敵貴，一個 14 公分的盤子要 $167 歐元 (澳幣 272、台幣 5800)。而且荷蘭畢竟是我旅行的起點，我覺得我真的沒有信心在之後三週的旅程帶著它，於是只好忍痛放手QAQ
 
+{{< exchange-note >}}
+本文換算台幣的金額以「1 歐元≈35 台幣」、「1 澳幣≈21 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
 {{< gallery cols="2" >}}
 {{< figure src="images/medium-1*F3ZaM5dkgW0K87Fnnj64fQ.jpg" alt="台夫特手工藍瓷畫家簽名" >}}
 {{< figure src="images/medium-1*3cku1hvnbxJhLr8KJ6UX4Q.jpg" alt="Royal Delft 藍瓷認證標誌" >}}

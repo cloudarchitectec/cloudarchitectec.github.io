@@ -38,7 +38,11 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ![Signal Island碼頭登陸點](images/medium-1*pkrhyBIJ7puIz4dS-AWQ5A.jpg) Signal Island Jetty
 
-我們訂了一個人 $75 的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 Signal Island 試圖用海水冰鎮它們 (想當然耳沒用XDDD)。
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+我們訂了一個人 $75（約 1,650 台幣） 的 signal island tour，據說島上沒有任何吃的東西，於是我們一群人決定先去超市採買。我們買了一個很像滷雞肉飯的便當(吃起來滿鹹的)，然後我還買了 Vanuatu 跟 New Caledonia 的啤酒各一。有趣的是，這裡賣的酒全部都是常溫。後來我只好帶著我的常溫啤酒去 Signal Island 試圖用海水冰鎮它們 (想當然耳沒用XDDD)。
 
 
 *沙灘啤酒*

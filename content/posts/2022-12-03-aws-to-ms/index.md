@@ -47,3 +47,7 @@ AWS 是雲端科技的龍頭，市占率大概是 1/3，遠遠超過第二名的
 *Surface headphones 2, surface mouse, surface pen and surface dock*
 
 Surface Headphones 是我這輩子唯一考慮過要買的微軟產品!!! 我的天啊! 微軟真心超大方的，光這一盒設備加起來市值就是 $900 澳幣(近台幣兩萬)。算是為新工作帶來了一個好的開頭XD
+
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}

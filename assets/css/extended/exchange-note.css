@@ -1,0 +1,14 @@
+.exchange-note {
+  margin: 1rem 0;
+  padding: 0.7rem 0.9rem;
+  border-radius: var(--radius);
+  background: #eeeDE9;
+  color: var(--secondary);
+  font-size: 0.875rem;
+  line-height: 1.65;
+}
+.dark .exchange-note {
+  background: #333238;
+}
+.exchange-note > :first-child { margin-top: 0; }
+.exchange-note > :last-child { margin-bottom: 0; }

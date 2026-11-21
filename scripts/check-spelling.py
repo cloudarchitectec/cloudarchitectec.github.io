@@ -244,6 +244,7 @@ def protect_regions(body: str) -> tuple[str, list[str], list[str]]:
     out = body
     out = mask(r"```[\s\S]*?```", "code block", out)
     out = mask(r"`[^`\n]+`", "inline code", out)
+    out = mask(r"\{\{<\s*exchange-note\s*>\}\}.*?\{\{<\s*/exchange-note\s*>\}\}", "exchange-rate note", out)
     out = mask(r"\{\{<[^>]+>\}\}", "Hugo shortcode", out)
     out = mask(r"\{\{%[\s\S]*?\%\}\}", "Hugo shortcode", out)
     out = mask(r"!\[[^\]]*\]\([^)]+\)", "image markdown", out)

@@ -32,7 +32,11 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ### Swimming Tour
 
-這次我們一樣是上了島再訂 tour，我們訂的是三小時的 swimming tour $30 (說是 tour，但就是開車半小時載你到另一個海邊，然後把你放在那游泳，兩個小時後再回來接你)。跟我們同行的泰國情侶 Nan & Pattie 說，同樣的行程在郵輪上訂的話要 $150!!!
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+這次我們一樣是上了島再訂 tour，我們訂的是三小時的 swimming tour $30（約 660 台幣） (說是 tour，但就是開車半小時載你到另一個海邊，然後把你放在那游泳，兩個小時後再回來接你)。跟我們同行的泰國情侶 Nan & Pattie 說，同樣的行程在郵輪上訂的話要 $150（約 3,300 台幣）!!!
 
 ![Lifou島當地旅遊行程告示](images/medium-1*7PgD26vI-d-yONvrGR-qEw.jpg)
 

@@ -27,7 +27,11 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ### 折毛巾教學
 
-我們先後折了小狗、大象跟恐龍，坐在我後面的杯杯人超好，不斷提供我指示(他自己沒有在折)，最後還幫我拍照，算是一個很有趣的體驗。船上也有販賣毛巾教學故事書，一本 $17，我覺得還滿有趣的。
+{{< exchange-note >}}
+本文澳幣換算台幣的金額以「1 澳幣≈22 台幣」粗略換算，方便讀者參考；實際匯率會隨時間變動，請以換匯當時的匯率為準。
+{{< /exchange-note >}}
+
+我們先後折了小狗、大象跟恐龍，坐在我後面的杯杯人超好，不斷提供我指示(他自己沒有在折)，最後還幫我拍照，算是一個很有趣的體驗。船上也有販賣毛巾教學故事書，一本 $17（約 374 台幣），我覺得還滿有趣的。
 
 ![郵輪毛巾折疊教學作品](images/medium-1*7sqjVIIUJgaJragnEAOddQ.jpg)
 
@@ -68,7 +72,7 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 ### Alchemy Bar
 
-今天還試了 alchemy bar 的調酒，我覺得雖然比其他酒吧貴個 $3–4，但是酒真的比較好喝
+今天還試了 alchemy bar 的調酒，我覺得雖然比其他酒吧貴個 $3–4（約 66 - 88 台幣），但是酒真的比較好喝
 
 ![郵輪Alchemy Bar實驗室調酒](images/medium-1*qDfQZkGXtEtjkJnxYc7How.jpg)
 
