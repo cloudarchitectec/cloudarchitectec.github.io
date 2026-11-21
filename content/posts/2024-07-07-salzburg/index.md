@@ -27,11 +27,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 薩爾斯堡
 
-![奧地利薩爾斯堡火車站外觀](images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpg)
-
-![薩爾斯堡舊城區巴洛克式街景](images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpg)
-
-![薩爾斯堡歷史建築群](images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*FhpgoBH2IQ0P9SXOSPG1lg.jpg" alt="奧地利薩爾斯堡火車站外觀" >}}
+{{< figure src="images/medium-1*ZgoOkhRaeBwej4ivC-Pqmw.jpg" alt="薩爾斯堡舊城區巴洛克式街景" >}}
+{{< figure src="images/medium-1*K9N6iSvW7Dewjrl8rIjf9g.jpg" alt="薩爾斯堡歷史建築群" >}}
+{{< /gallery >}}
 
 *薩爾斯堡火車站與街景*
 
@@ -55,9 +55,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 我覺得這個景點說真的沒有太令人驚豔，但還是可以勉強來參觀一下
 
-![莫札特Q版雕像紀念品](images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpg)
-
-![莫札特音樂主題壁畫](images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*zERT2ZauPkPd6YaKm5a2Hg.jpg" alt="莫札特Q版雕像紀念品" >}}
+{{< figure src="images/medium-1*tvwNUbd2NZw57ubTLMp-Ug.jpg" alt="莫札特音樂主題壁畫" >}}
+{{< /gallery >}}
 
 *莫札特雕像與壁畫*
 
@@ -75,11 +76,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 例如莫札特他家附近有一家莫札特咖啡廳，但咖啡廳其實跟莫札特一點關係都沒有，純粹就是老闆買下咖啡廳後，改名成莫札特咖啡廳而已
 
-![薩爾斯堡莫札特主題咖啡廳](images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpg)
-
-![奧地利莫札特蛋糕甜點](images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpg)
-
-![咖啡廳復古室內裝潢](images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*5M0BWfkMswQqorrUx6QvFA.jpg" alt="薩爾斯堡莫札特主題咖啡廳" >}}
+{{< figure src="images/medium-1*GxxdmWBXl6552QdYXjYBlw.jpg" alt="奧地利莫札特蛋糕甜點" >}}
+{{< figure src="images/medium-1*bWnE5Xo5kIXkbt6Y5Eg_LQ.jpg" alt="咖啡廳復古室內裝潢" >}}
+{{< /gallery >}}
 
 *莫札特咖啡廳*
 

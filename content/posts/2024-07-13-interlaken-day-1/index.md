@@ -71,11 +71,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 拍完照之後剛好渡輪就來了! 渡輪本身的風光很棒，但是航程很長，所以也可以看到很多觀光客中途就下船改坐火車回去。我因為把行李寄在東站，所以覺得直接搭到終點也無所謂。
 
-![布里恩茨湖觀光遊船甲板](images/medium-1*9vUF5YroGUbqFNabuHPvBg.jpg)
-
-![渡輪上360度阿爾卑斯美景](images/medium-1*UwkYbB2L6UalvkbI0zPInA.jpg)
-
-![湖上遊船觀光體驗](images/medium-1*U98n-QBq2e3aOJ1ac95aYA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*9vUF5YroGUbqFNabuHPvBg.jpg" alt="布里恩茨湖觀光遊船甲板" >}}
+{{< figure src="images/medium-1*UwkYbB2L6UalvkbI0zPInA.jpg" alt="渡輪上360度阿爾卑斯美景" >}}
+{{< figure src="images/medium-1*U98n-QBq2e3aOJ1ac95aYA.jpg" alt="湖上遊船觀光體驗" >}}
+{{< /gallery >}}
 
 *遊湖渡輪上的風景*
 

@@ -37,9 +37,10 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 接著去吃了早餐，然後借了兩條海灘巾，找了一個藍色圓球準備在那邊悠閒地讀書休息，可是風好大又好冷，一點都沒有享受的感覺
 
-![郵輪甲板藍色圓球休息艙](images/medium-1*exhtrGEZ2WIMBURU1Olzlg.jpg)
-
-![郵輪甲板戶外休憩空間](images/medium-1*g-Z47LNsC4CV53sULFleXg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*exhtrGEZ2WIMBURU1Olzlg.jpg" alt="郵輪甲板藍色圓球休息艙" >}}
+{{< figure src="images/medium-1*g-Z47LNsC4CV53sULFleXg.jpg" alt="郵輪甲板戶外休憩空間" >}}
+{{< /gallery >}}
 
 *甲板上的藍色圓球休息區*
 

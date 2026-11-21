@@ -35,10 +35,10 @@ Rosti 是由馬鈴薯刨絲之後浸泡過鹽水再拿去煎（薯餅已經有�
 
 搭配上觀光客必吃的超市 Coop 烤雞 (他們的烤雞腿還是秤重的，每隻價錢還不一樣)，是我在瑞士吃過最美味的一餐 (因為瑞士物價高，所以最省錢的方式就是去超市熟食區買食物XD)
 
-![瑞士Feldschlösschen費爾德城堡啤酒](images/medium-1*dpF3Q-Xh-VeKKJzznYZB4Q.jpg)
-
-![Coop超市現烤雞腿](images/medium-1*-YDjgc09vwAK7QLHLP-XBA.jpg)
-
-![瑞士當地人推舉紅色啤酒](images/medium-1*DIJd_kmV2lBKihwMxRjw-Q.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*dpF3Q-Xh-VeKKJzznYZB4Q.jpg" alt="瑞士Feldschlösschen費爾德城堡啤酒" >}}
+{{< figure src="images/medium-1*-YDjgc09vwAK7QLHLP-XBA.jpg" alt="Coop超市現烤雞腿" >}}
+{{< figure src="images/medium-1*DIJd_kmV2lBKihwMxRjw-Q.jpg" alt="瑞士當地人推舉紅色啤酒" >}}
+{{< /gallery >}}
 
 *瑞士超市烤雞腿與啤酒*

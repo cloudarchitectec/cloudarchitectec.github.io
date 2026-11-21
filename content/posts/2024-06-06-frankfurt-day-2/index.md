@@ -33,11 +33,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 這家咖啡廳很微妙，牆上有不少藝術品，但後面又放了很多要出售的電器（冰箱洗衣機等等），整體而言環境很舒服，是個讓人放鬆的咖啡廳，我還是滿推薦的～
 
-![WHY Coffee 文青咖啡廳](images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpg)
-
-![法蘭克福精品咖啡店](images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpg)
-
-![德國特色藝術咖啡館](images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*FgTPUdx4vVlkdqSKfsoIBw.jpg" alt="WHY Coffee 文青咖啡廳" >}}
+{{< figure src="images/medium-1*z2aevWCCs4eMBI1bLIJnoA.jpg" alt="法蘭克福精品咖啡店" >}}
+{{< figure src="images/medium-1*8gOrREvnTv5ryEK-zldrrg.jpg" alt="德國特色藝術咖啡館" >}}
+{{< /gallery >}}
 
 *WHY! Coffee*
 
@@ -47,19 +47,19 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 不得不說 18 世紀的豪宅也是真的很豪（他們家應該是中產階級），四層樓的房子，每層約 4 個房間。家裡還有廚師跟女僕。而且每個房間都有不同的顏色主題，但又不會太俗氣。果然不管在哪個年代，當有錢人住豪宅都最爽了XDDD
 
-![歌德故居 18 世紀豪宅](images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpg)
-
-![Goethe House 古典內裝](images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpg)
-
-![德國文豪歌德居住空間](images/medium-1*JueQdVN97WE9XSCXPakwkA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*f3jh2I3KEYBONZm0oTtLbA.jpg" alt="歌德故居 18 世紀豪宅" >}}
+{{< figure src="images/medium-1*QT0NU1zVt_3BZhv5bkXR6A.jpg" alt="Goethe House 古典內裝" >}}
+{{< figure src="images/medium-1*JueQdVN97WE9XSCXPakwkA.jpg" alt="德國文豪歌德居住空間" >}}
+{{< /gallery >}}
 
 *歌德故居*
 
-![歌德故居美麗花園](images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpg)
-
-![Frankfurt 歷史建築庭院](images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpg)
-
-![德國文學紀念品店](images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*1yNmDqEGRGtzejbrniNSUA.jpg" alt="歌德故居美麗花園" >}}
+{{< figure src="images/medium-1*YuwWdYIT_jSlu-g0cILApg.jpg" alt="Frankfurt 歷史建築庭院" >}}
+{{< figure src="images/medium-1*ZppOCcu5Fqp-UK58BswbTw.jpg" alt="德國文學紀念品店" >}}
+{{< /gallery >}}
 
 *花園跟紀念品店也很可愛*
 
@@ -77,11 +77,11 @@ Paulaner am Dom 餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 我真的寧願他們給我薯條、薯泥或是整顆馬鈴薯都好XDD 我後來發現這個東西是德國常見配菜，所以我下一次去餐廳就直接問服務生說我可不可以不要把這個馬鈴薯團團換成麵包
 
-![Paulaner 德國豬腳啤酒](images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpg)
-
-![法蘭克福傳統德式料理](images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpg)
-
-![德國 Knodel 馬鈴薯團](images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*72RBHeJu4quaVkQnvT2TdQ.jpg" alt="Paulaner 德國豬腳啤酒" >}}
+{{< figure src="images/medium-1*3cisGXAlv4iwSLGx9x2P8w.jpg" alt="法蘭克福傳統德式料理" >}}
+{{< figure src="images/medium-1*MD0Pm7gd_3rOYnfWVGzsJg.jpg" alt="德國 Knodel 馬鈴薯團" >}}
+{{< /gallery >}}
 
 *Paulaner am Dom*
 
@@ -89,11 +89,11 @@ Paulaner am Dom 餐廳就在教堂另一側，既可以躲避擁擠的觀光客�
 
 接著我走近這家很多人的麵包店，他們的草莓蛋糕超級好吃！因為已經喝過咖啡，所以這次我選了茶。基本上他們會倒一杯熱開水給你，然後你可以自選茶包。我本來以為就是一般的茶，沒想到居然是認真的花草茶，而且超級好喝！但我後來去超市沒看到這個茶包，不然我還滿想買一盒的。
 
-![Der Backer Eifler 德式草莓蛋糕](images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpg)
-
-![法蘭克福傳統麵包店](images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpg)
-
-![德國花草茶下午茶](images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*W2ru_ddajLgcY0dWOU3pcA.jpg" alt="Der Backer Eifler 德式草莓蛋糕" >}}
+{{< figure src="images/medium-1*rD-lwJ5qlfMJ4J4pzhiGGA.jpg" alt="法蘭克福傳統麵包店" >}}
+{{< figure src="images/medium-1*toKT07YMbS_Xda0KWpGWHw.jpg" alt="德國花草茶下午茶" >}}
+{{< /gallery >}}
 
 *Der Backer Eifler*
 

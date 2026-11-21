@@ -37,9 +37,10 @@ tags: ["澳洲旅遊","布里斯本"]
 
 進去簡單報到之後，就會先開始著裝。一開始工作人員會把裝備都先在地板上擺好，之後只要按照教練一個口令一個動作著裝即可。
 
-![](images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpg)
-
-![](images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*qa6iLPR9tk6KyjjowcLy3g.jpg" alt="" >}}
+{{< figure src="images/medium-1*6wNo-s9LEp1TuPPHR1mdNA.jpg" alt="" >}}
+{{< /gallery >}}
 
 *安全說明 ＆ 上裝備*
 
@@ -49,9 +50,10 @@ Tree top challenges 是一個體能挑戰，根據難易程度分成 easy (綠�
 
 根據難度不同，樹的高度大概在 3–30 公尺之間，挑戰的內容包含溜索(一開始我被那種滑下去，腳底懸空的失重感嚇得要死，後來發現這個是最簡單的挑戰，因為完全不用出力😆)、爬樓梯、走繩索、走高空木板等等各式體能挑戰。每個挑戰視難度大概耗時 25–45 分鐘不等。
 
-![](images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpg)
-
-![](images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*opcxmbiuj2YihwtNi4ofHg.jpg" alt="" >}}
+{{< figure src="images/medium-1*cHl3Y_kwngeophpBZSMf1A.jpg" alt="" >}}
+{{< /gallery >}}
 ![](images/medium-1*sxacT0wo49sjs-pRWzDS5w.jpg)
 
 *各式挑戰*

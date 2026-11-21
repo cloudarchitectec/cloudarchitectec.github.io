@@ -17,11 +17,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 加上國泰的 Kosher 飛機餐難吃到爆炸，所以我選擇在香港機場飽餐一頓，然後上機就直接跟空姐說晚餐不用叫我了。
 
-![香港機場轉機美食廣場](images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpg)
-
-![機場餐廳價格表](images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpg)
-
-![香港機場豐盛餐點](images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*5Rj-sitBwwrw8oJK4jqiSw.jpg" alt="香港機場轉機美食廣場" >}}
+{{< figure src="images/medium-1*1HNRR3DTsPA4dhPPOoEG4g.jpg" alt="機場餐廳價格表" >}}
+{{< figure src="images/medium-1*8uuZ422B8hxd1ZUArtEGwQ.jpg" alt="香港機場豐盛餐點" >}}
+{{< /gallery >}}
 
 雖然超好吃也吃超飽，但是這個價錢也超誇張lol
 
@@ -37,11 +37,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 於是領到行李之後我立刻換上 Kathmandu 的外套跟我為這趟歐洲行準備的夏季防水 hiking boots！事實證明這是個再正確不過的選擇，因為一出火車站，我立刻被寒冷的狂風吹得不要不要！
 
-![歐洲獨旅行李箱準備](images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpg)
-
-![荷蘭旅行裝備整理](images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpg)
-
-![Kathmandu 防水登山靴](images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*ckz9gy_OStuiSJnkdID6Jw.jpg" alt="歐洲獨旅行李箱準備" >}}
+{{< figure src="images/medium-1*KthVE_f1nz22KR-LZu1M1A.jpg" alt="荷蘭旅行裝備整理" >}}
+{{< figure src="images/medium-1*hQO43h3M1qsd7yKWpy8mvg.jpg" alt="Kathmandu 防水登山靴" >}}
+{{< /gallery >}}
 
 *本來就已經裂開的行李箱，成功從澳洲跨洋來到了歐洲XD*
 
@@ -57,11 +57,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### Dolzon cafe
 
-![Dolzon Cafe 荷蘭烘焙坊](images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpg)
-
-![阿姆斯特丹手作麵包店](images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpg)
-
-![街角傳統麵包烘焙坊](images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*khC9qsosM9BqLhsHsxWtPA.jpg" alt="Dolzon Cafe 荷蘭烘焙坊" >}}
+{{< figure src="images/medium-1*nV6WkB7EMbo40nCE0yUIVg.jpg" alt="阿姆斯特丹手作麵包店" >}}
+{{< figure src="images/medium-1*vMWyDcOdJEZUsVhNCNw5jQ.jpg" alt="街角傳統麵包烘焙坊" >}}
+{{< /gallery >}}
 
 *很可愛的麵包店*
 
@@ -71,11 +71,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 題外話，阿姆斯特丹的渡輪是完全免費的，我個人還滿推薦搭的，除了行人之外還有很多腳踏車甚至小汽車直接開上船XD（跟我在臺灣/澳洲的渡輪經驗都非常不同，我覺得值得體驗！荷蘭人跟我說渡輪最長的航線是 13 分鐘，她也非常推薦安排進市區行程裡，可以從水上欣賞阿姆斯特丹的風光，我因為時間有限，就沒有特別去找那條航線了）。
 
-![阿姆斯特丹免費通勤渡輪](images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpg)
-
-![荷蘭運河水上交通](images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpg)
-
-![市區渡輪腳踏車載運](images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*FjdQ4vyPYu9pjw07FIWEIA.jpg" alt="阿姆斯特丹免費通勤渡輪" >}}
+{{< figure src="images/medium-1*3yTxjSoLfVq5406IfA4VIA.jpg" alt="荷蘭運河水上交通" >}}
+{{< figure src="images/medium-1*zXpQAIMFG2OijXLEdUS-dA.jpg" alt="市區渡輪腳踏車載運" >}}
+{{< /gallery >}}
 
 *阿姆斯特丹免費渡輪*
 
@@ -87,9 +87,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 *最愛的荷蘭運河屋*
 
-![阿姆斯特丹運河遊船觀光](images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpg)
-
-![荷蘭運河船遊覽體驗](images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*NKa_Rt8PkbSqD3CwYJElIQ.jpg" alt="阿姆斯特丹運河遊船觀光" >}}
+{{< figure src="images/medium-1*KKJsLuOVUoxQTXWNGTPSqw.jpg" alt="荷蘭運河船遊覽體驗" >}}
+{{< /gallery >}}
 
 *運河遊船*
 
@@ -97,9 +98,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 號稱荷蘭最好吃的尿尿小童薯條
 
-![尿尿小童薯條店排隊人潮](images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpg)
-
-![荷蘭最夯薯條美食](images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*J0MG35esmSRFNU-QOc2X1A.jpg" alt="尿尿小童薯條店排隊人潮" >}}
+{{< figure src="images/medium-1*TnAkbhDaVblxtFkO2WU6ew.jpg" alt="荷蘭最夯薯條美食" >}}
+{{< /gallery >}}
 
 *尿尿小童薯條*
 
@@ -109,11 +111,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 辛格花市
 
-![阿姆斯特丹辛格水上花市](images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpg)
-
-![荷蘭鬱金香花卉市場](images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpg)
-
-![Bloemenmarkt 傳統花市](images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*Fq_UAHPHD0UxMcgjr_nz8Q.jpg" alt="阿姆斯特丹辛格水上花市" >}}
+{{< figure src="images/medium-1*Z5XO_Z-e8OocPG8mBappIg.jpg" alt="荷蘭鬱金香花卉市場" >}}
+{{< figure src="images/medium-1*sdb8-iu52vY5Q9BZmTa7gg.jpg" alt="Bloemenmarkt 傳統花市" >}}
+{{< /gallery >}}
 
 *辛格花市*
 
@@ -121,11 +123,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 住宿選擇：海牙 AirBnB
 
-![海牙 Airbnb 溫馨小陽台](images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpg)
-
-![荷蘭住宿柬埔寨貓咪](images/medium-1*NgasYZx34uIW8BacGwudNg.jpg)
-
-![Airbnb 可愛黑白貓](images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*HI17SX2pyrJVhT7m4s6TUg.jpg" alt="海牙 Airbnb 溫馨小陽台" >}}
+{{< figure src="images/medium-1*NgasYZx34uIW8BacGwudNg.jpg" alt="荷蘭住宿柬埔寨貓咪" >}}
+{{< figure src="images/medium-1*3OmuE7r4hLc99nLY03R5fg.jpg" alt="Airbnb 可愛黑白貓" >}}
+{{< /gallery >}}
 
 *AirBnB 的小陽台跟貓咪們都好可愛*
 

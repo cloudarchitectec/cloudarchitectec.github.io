@@ -35,11 +35,11 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 **1/22 Tue**
 
-![聖基爾達海灘沙灘美景](images/medium-1*FXalAHkrCLZVNdcUc8SayQ.jpg)
-
-![聖基爾達海灘遊客悠閒](images/medium-1*T1JRodpGaceALuPHQPm6aw.jpg)
-
-![聖基爾達海灘海岸線](images/medium-1*MR9BNPjuKLLNCXU0r8mCoQ.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*FXalAHkrCLZVNdcUc8SayQ.jpg" alt="聖基爾達海灘沙灘美景" >}}
+{{< figure src="images/medium-1*T1JRodpGaceALuPHQPm6aw.jpg" alt="聖基爾達海灘遊客悠閒" >}}
+{{< figure src="images/medium-1*MR9BNPjuKLLNCXU0r8mCoQ.jpg" alt="聖基爾達海灘海岸線" >}}
+{{< /gallery >}}
 
 *St Kilda Beach*
 

@@ -35,9 +35,10 @@ episodeseries: ["萬那杜旅記"]
 
 於是直接前往 M Resort & Spa，果然 20 分鐘的路程我又開了 50 分鐘，因為北邊的路真的太爛了 😂😂😂 而且我開到最後三公里 Google maps 也失去作用，完全一片空白，好險路上還有少少的指標。
 
-![M Resort & Spa 高級度假村](images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpg)
-
-![度假村海邊餐廳](images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*Vw1O8kJxeedy44zZq-k_Yw.jpg" alt="M Resort &amp; Spa 高級度假村" >}}
+{{< figure src="images/medium-1*6I4Q_R_w9K_Zp_cGQjcfpQ.jpg" alt="度假村海邊餐廳" >}}
+{{< /gallery >}}
 
 *M Resort & Spa*
 
@@ -63,13 +64,12 @@ episodeseries: ["萬那杜旅記"]
 
 甚至還跑去使用了一下這裡的游泳池，然後我突然發現為什麼我這幾天就算旅館有泳池我也沒去（雖然主要是因為時間不夠），因為真的好無聊🤣🤣🤣 我都來到這種有真海邊的地方了，一個人在泳池真的不怎麼好玩😆
 
-![人生首次 kayaking 體驗](images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpg)
-
-![海邊划獨木舟樂趣](images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpg)
-
-![Fatumaru Lodge 游泳池](images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpg)
-
-![度假村海邊設施](images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*no3tjedAvhx7VwsIz5FKUQ.jpg" alt="人生首次 kayaking 體驗" >}}
+{{< figure src="images/medium-1*7G8g-1VxNiVFUmdA9mfbSA.jpg" alt="海邊划獨木舟樂趣" >}}
+{{< figure src="images/medium-1*fflQ8QIAHr6PfptVmajPGQ.jpg" alt="Fatumaru Lodge 游泳池" >}}
+{{< figure src="images/medium-1*W7owmjCAeFlIwjdPkFGwxA.jpg" alt="度假村海邊設施" >}}
+{{< /gallery >}}
 
 *Fatumaru Lodge*
 
@@ -77,9 +77,10 @@ episodeseries: ["萬那杜旅記"]
 
 結果我完全太會算，一加完剛好就是我還車需要的油量+10 公里。進到超市後發現他們居然有在賣烤雞跟薯條，於是我就決定外帶回旅館，這樣剛好明天租車公司可以直接到旅館領車，我也不用再加油。
 
-![萬那杜超市烤雞](images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpg)
-
-![外帶薯條烤雞晚餐](images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*CrgNkmjUtuPiMfdQbw5AnA.jpg" alt="萬那杜超市烤雞" >}}
+{{< figure src="images/medium-1*VHDaTaSP_-F8d-SJng2rdA.jpg" alt="外帶薯條烤雞晚餐" >}}
+{{< /gallery >}}
 
 *超市晚餐*
 

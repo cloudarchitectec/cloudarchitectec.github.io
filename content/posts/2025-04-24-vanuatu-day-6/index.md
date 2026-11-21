@@ -24,13 +24,12 @@ episodeseries: ["萬那杜旅記"]
 
 後來租車公司完全 11 點才到，傻眼！我中間等到太無聊/太餓，還點了一杯 smoothie 🤣
 
-![萬那杜芒果 smoothie](images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpg)
-
-![租車等待漫長時光](images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpg)
-
-![萬那杜租車 SUV](images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpg)
-
-![新車低里程數](images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*ABEkYUAepFuPOepgiBJS8w.jpg" alt="萬那杜芒果 smoothie" >}}
+{{< figure src="images/medium-1*OmApi4wqhCV0tHSmgxQObA.jpg" alt="租車等待漫長時光" >}}
+{{< figure src="images/medium-1*qdUyO8e1wgJ9CYoieBNyGw.jpg" alt="萬那杜租車 SUV" >}}
+{{< figure src="images/medium-1*fisovh7p5Z7USeylQbU2kQ.jpg" alt="新車低里程數" >}}
+{{< /gallery >}}
 
 *車子滿新的，里程數也不高！很喜歡～*
 
@@ -54,9 +53,10 @@ episodeseries: ["萬那杜旅記"]
 
 ### Aelen Chocolate Factory/83 Distillery
 
-![83酒廠參觀外觀](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg)
-
-![83酒廠內部設施](images/medium-1*meuPajg-ogijqOy7m4apGA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg" alt="83酒廠參觀外觀" >}}
+{{< figure src="images/medium-1*meuPajg-ogijqOy7m4apGA.jpg" alt="83酒廠內部設施" >}}
+{{< /gallery >}}
 
 *83 Distillery*
 
@@ -64,9 +64,10 @@ episodeseries: ["萬那杜旅記"]
 
 之後就開車去附近的釀酒廠 83 distillery，可惜他們這邊沒有供應餐點，我一個人開車也不能參加 tasting (品酒活動)，所以上了個廁所我就走了🤣 （不然我覺得那邊充滿了蔗糖香，超好聞）
 
-![83 釀酒廠外觀建築](images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg)
-
-![萬那杜蔗糖釀酒廠](images/medium-1*meuPajg-ogijqOy7m4apGA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*AfHQJRSwGDTM9n_k0bNf7w.jpg" alt="83 釀酒廠外觀建築" >}}
+{{< figure src="images/medium-1*meuPajg-ogijqOy7m4apGA.jpg" alt="萬那杜蔗糖釀酒廠" >}}
+{{< /gallery >}}
 
 *83 Distillery*
 
@@ -95,8 +96,8 @@ Port Vila 南邊的路比起北邊來說好很多，雖然有坑，但沒有到�
 晚餐糾結了很久要不要出去外面吃，看了一些 Google reviews，覺得出去還要開車、還要被蚊子叮，餐點看起來也一般，價錢又高，就還是決定在旅館吃泡麵了🤣
 
 
-![萬那杜住宿環境](images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpg)
-
-![兩房公寓內部空間](images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg)
-
-![旅館房間設施](images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*RvxOJuIR6kV77lQ59ObWlg.jpg" alt="萬那杜住宿環境" >}}
+{{< figure src="images/medium-1*XCK0NW17e8emleOzlP_IpQ.jpg" alt="兩房公寓內部空間" >}}
+{{< figure src="images/medium-1*orSAC17I8LdooOcdAiUlWA.jpg" alt="旅館房間設施" >}}
+{{< /gallery >}}

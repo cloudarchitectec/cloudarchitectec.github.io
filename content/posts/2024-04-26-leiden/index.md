@@ -26,33 +26,36 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 一下火車，驚覺火車站變得超級大。但除此之外，萊登這個小鎮跟我的印象中相差無幾XD
 
-![萊登大學城火車站現代化](images/medium-1*2FO_UWgti4F4nK47xxhICQ.jpg)
-
-![Leiden 火車站擴建後](images/medium-1*YwJ2207AgfuAjBouzmEa6w.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*2FO_UWgti4F4nK47xxhICQ.jpg" alt="萊登大學城火車站現代化" >}}
+{{< figure src="images/medium-1*YwJ2207AgfuAjBouzmEa6w.jpg" alt="Leiden 火車站擴建後" >}}
+{{< /gallery >}}
 
 *萊登火車站*
 
-![萊登大學古老建築](images/medium-1*3CgVmtfBI8lh0QMUfb2D4Q.jpg)
-
-![荷蘭最古老大學城街景](images/medium-1*0s3FAE_foWD-2171Szt2Gg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*3CgVmtfBI8lh0QMUfb2D4Q.jpg" alt="萊登大學古老建築" >}}
+{{< figure src="images/medium-1*0s3FAE_foWD-2171Szt2Gg.jpg" alt="荷蘭最古老大學城街景" >}}
+{{< /gallery >}}
 
 *萊登一角*
 
 本來想買個萊登大學 T 來紀念一下，結果逛了一下他們的大學紀念品店，只有幾件零星(而且很醜的大學 T），看起來根本就是個 thrift shop，簡直太讓人失望了QAQ
 
-![萊登大學紀念品店](images/medium-1*fU7GqJJRGuuMe69EjziGGg.jpg)
-
-![Leiden 可愛帆布袋紀念品](images/medium-1*ijbRlm1jWZvcHqxCd1kS1A.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*fU7GqJJRGuuMe69EjziGGg.jpg" alt="萊登大學紀念品店" >}}
+{{< figure src="images/medium-1*ijbRlm1jWZvcHqxCd1kS1A.jpg" alt="Leiden 可愛帆布袋紀念品" >}}
+{{< /gallery >}}
 
 *右邊是路上小店賣的萊登帆布袋，超可愛！*
 
 ### 荷蘭煎餅
 
-![Oudt Leyden 荷蘭煎餅店](images/medium-1*N3kvI9lyHpGiZq7C-KY3Hw.jpg)
-
-![傳統荷蘭鹹味煎餅](images/medium-1*R3AJTFraMz0I1zi0QkzzPw.jpg)
-
-![培根起司蘑菇煎餅](images/medium-1*lifX30Gy89SMk862DhxAKg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*N3kvI9lyHpGiZq7C-KY3Hw.jpg" alt="Oudt Leyden 荷蘭煎餅店" >}}
+{{< figure src="images/medium-1*R3AJTFraMz0I1zi0QkzzPw.jpg" alt="傳統荷蘭鹹味煎餅" >}}
+{{< figure src="images/medium-1*lifX30Gy89SMk862DhxAKg.jpg" alt="培根起司蘑菇煎餅" >}}
+{{< /gallery >}}
 
 在這裡吃了有名的荷蘭煎餅 [Oudt Leyden](https://search.app.goo.gl/9YP8LNT)，超級無敵大一份哈哈哈！我點的是鹹口的培根起司蘑菇口味，一開始還想說服務生為什麼要附上糖漿跟糖粉？
 

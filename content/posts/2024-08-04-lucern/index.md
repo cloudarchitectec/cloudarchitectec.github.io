@@ -31,11 +31,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 特呂布湖 Trubsee
 
-![特呂布湖被雪覆蓋的美景](images/medium-1*RlIQZVBBsnETpGDGj-Wrdg.jpg)
-
-![瑞士中部雪地健行體驗](images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpg)
-
-![Trubsee湖雪白湖面景色](images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*RlIQZVBBsnETpGDGj-Wrdg.jpg" alt="特呂布湖被雪覆蓋的美景" >}}
+{{< figure src="images/medium-1*zwthaA0BqT7d5dRO5xRblQ.jpg" alt="瑞士中部雪地健行體驗" >}}
+{{< figure src="images/medium-1*B7TyAzOYax7Jz9hXEVuI7g.jpg" alt="Trubsee湖雪白湖面景色" >}}
+{{< /gallery >}}
 
 *特呂布湖 Trubsee 雪中健行*
 

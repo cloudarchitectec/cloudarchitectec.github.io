@@ -19,9 +19,10 @@ episodeseries: ["紐西蘭旅記"]
 這個背包客棧有超大的共用廚房跟室內攀岩場 (攀岩需額外付費)，算是我個人住過品質非常不錯的 backpacker，房間很乾淨而且沒有異味😆
 
 
-![紐西蘭背包客棧雙人房](images/medium-1*gk5xpoyK4lLNepyubVabGw.jpg)
-
-![背包客棧共用廚房設施](images/medium-1*BeoM54StZPRhqubSf3dYkg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*gk5xpoyK4lLNepyubVabGw.jpg" alt="紐西蘭背包客棧雙人房" >}}
+{{< figure src="images/medium-1*BeoM54StZPRhqubSf3dYkg.jpg" alt="背包客棧共用廚房設施" >}}
+{{< /gallery >}}
 
 *National Park Backpackers*
 
@@ -39,11 +40,11 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 我非常推薦整天的課程，因為六小時的課才能稍微涵蓋基本技巧。我個人只有學到後刃落葉飄 (heelside falling leaf) 有信心的地步，前刃(toeside）我不知道為什麼一直抓不到重心😂
 
-![Whakapapa 雪場滑雪課程](images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpg)
-
-![紐西蘭北島最大雪場](images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpg)
-
-![女生學習單板滑雪](images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*G8ZSgbFrJivp9jVludIg1g.jpg" alt="Whakapapa 雪場滑雪課程" >}}
+{{< figure src="images/medium-1*bIsOY3PCp6E-f7sbgPC-Fg.jpg" alt="紐西蘭北島最大雪場" >}}
+{{< figure src="images/medium-1*QJDG0XJOtRKw58JXU-ZiZw.jpg" alt="女生學習單板滑雪" >}}
+{{< /gallery >}}
 
 *Whakapapa 雪場*
 

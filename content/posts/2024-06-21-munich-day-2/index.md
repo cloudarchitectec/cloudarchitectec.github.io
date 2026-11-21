@@ -27,9 +27,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 我甚至還帶了我在紐倫堡買的爆米花（沒錯我還沒吃完)。
 
-![林德霍夫宮後方阿爾卑斯山雪景](images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpg)
-
-![林德霍夫宮周圍山景](images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*_Nf9bG9WsRZnmWhx5x0-Ng.jpg" alt="林德霍夫宮後方阿爾卑斯山雪景" >}}
+{{< figure src="images/medium-1*c-JLOZwfQOcAgIM_V1Silw.jpg" alt="林德霍夫宮周圍山景" >}}
+{{< /gallery >}}
 
 *林德霍夫宮的山景*
 
@@ -37,11 +38,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 林德霍夫宮 Schloss Linderhof
 
-![路德維希二世國王的林德霍夫宮外觀](images/medium-1*SZwEaOh11Ke3Kib768magA.jpg)
-
-![林德霍夫宮精緻的巴洛克式建築](images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpg)
-
-![德國林德霍夫宮全景](images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*SZwEaOh11Ke3Kib768magA.jpg" alt="路德維希二世國王的林德霍夫宮外觀" >}}
+{{< figure src="images/medium-1*BhJj-sE7lXIPl3aNgtjz8g.jpg" alt="林德霍夫宮精緻的巴洛克式建築" >}}
+{{< figure src="images/medium-1*DUCT3ogbvLT56TuYUlNnFw.jpg" alt="德國林德霍夫宮全景" >}}
+{{< /gallery >}}
 
 *林德霍夫宮*
 
@@ -73,9 +74,10 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 3\. 搭馬車，單程 8 歐: 網路上有部落客說她覺得馬很辛苦，建議大家不要去搭，我覺得這點就是見仁見智。但重點是馬走的路跟人走的路線是一樣的，要上瑪麗安橋還要再走 15–20 分鐘。我個人是覺得不如搭公車，一下車走 5 分鐘就可以到橋上了。
 
-![懸在山谷上方的瑪麗安橋遠景](images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpg)
-
-![瑪麗安橋橋面與遊客](images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*7OqqYQ30RTxqiGCYlZw4yw.jpg" alt="懸在山谷上方的瑪麗安橋遠景" >}}
+{{< figure src="images/medium-1*JEigA0W7iUQ5sI0mJ2XZXg.jpg" alt="瑪麗安橋橋面與遊客" >}}
+{{< /gallery >}}
 
 *瑪麗安橋*
 

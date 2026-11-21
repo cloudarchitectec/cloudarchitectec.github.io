@@ -34,13 +34,12 @@ episodeseries: ["萬那杜旅記"]
 
 ### Banana beach bay resort
 
-![Banana Bay 度假村海灘](images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpg)
-
-![度假村太平洋海景](images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpg)
-
-![Banana Bay 椰林泳池](images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpg)
-
-![度假村室內餐廳](images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*eTC4KWe4BwRFFdBgVNKHJg.jpg" alt="Banana Bay 度假村海灘" >}}
+{{< figure src="images/medium-1*4qbFUhJwQfDHOIsCTPL5GA.jpg" alt="度假村太平洋海景" >}}
+{{< figure src="images/medium-1*JwSQEjYurbuUjDkN3vIrEA.jpg" alt="Banana Bay 椰林泳池" >}}
+{{< figure src="images/medium-1*mT-aITJ0Fdg9Jzw7ZFewnw.jpg" alt="度假村室內餐廳" >}}
+{{< /gallery >}}
 
 *Banana Bay Beach Resort*
 
@@ -66,9 +65,10 @@ Banana beach bay resort 大家通常都是 day trip 時經過來吃午餐，但�
 
 ### 跟說好的都不一樣
 
-![度假村小屋門口風景](images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpg)
-
-![小屋屋頂裝飾花朵](images/medium-1*1conafcYlghU2c3uBYeixQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*raWtCAmku5sLMTZTPRfW9Q.jpg" alt="度假村小屋門口風景" >}}
+{{< figure src="images/medium-1*1conafcYlghU2c3uBYeixQ.jpg" alt="小屋屋頂裝飾花朵" >}}
+{{< /gallery >}}
 
 *我的小屋上有可愛小花*
 

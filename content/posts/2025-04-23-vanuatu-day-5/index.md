@@ -41,9 +41,10 @@ episodeseries: ["萬那杜旅記"]
 
 ### 下雨天，宅宅天
 
-![度假村雷雨天室外景象](images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpg)
-
-![暴雨中的太平洋海景](images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*TI58yAZwRPlx9Wx0NC67aw.jpg" alt="度假村雷雨天室外景象" >}}
+{{< figure src="images/medium-1*Tzjd4I2s4Wc1b2rFx08OxA.jpg" alt="暴雨中的太平洋海景" >}}
+{{< /gallery >}}
 
 讓我們把時間拉回現在！
 

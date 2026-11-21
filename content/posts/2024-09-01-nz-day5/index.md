@@ -21,11 +21,11 @@ episodeseries: ["紐西蘭旅記"]
 
 ### 火山口地熱公園 Craters of the Moon
 
-![紐西蘭月球坑地熱公園](images/medium-1*TzNByHydsdUIifAgZOzl9A.jpg)
-
-![Craters of the Moon 冷煙地表](images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg)
-
-![地熱公園火山口奇觀](images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*TzNByHydsdUIifAgZOzl9A.jpg" alt="紐西蘭月球坑地熱公園" >}}
+{{< figure src="images/medium-1*2xAnNqnbK_U4BmA_DJETAQ.jpg" alt="Craters of the Moon 冷煙地表" >}}
+{{< figure src="images/medium-1*qv6O2X4tQE6ixWs8C5HcwA.jpg" alt="地熱公園火山口奇觀" >}}
+{{< /gallery >}}
 
 第一站是火山口地熱公園，我把它稱為紐西蘭的月世界。看到一片綠油油卻冒煙的地表真的好妙😆
 
@@ -39,21 +39,21 @@ episodeseries: ["紐西蘭旅記"]
 
 接著我們就驅車前往下一個城市 Rotorua! 非常幸運剛好碰到他們每週四一次的夜市！吃了超多亞洲街頭小吃，非常開心😋
 
-![Rotorua 夜市亞洲街頭小吃](images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg)
-
-![紐西蘭夜市美食攤位](images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg)
-
-![夜市多元文化美食](images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*XB2f9tZXntnQiY7ejJ2fjg.jpg" alt="Rotorua 夜市亞洲街頭小吃" >}}
+{{< figure src="images/medium-1*TEJ97gg9qTVSPhf_tvJc1Q.jpg" alt="紐西蘭夜市美食攤位" >}}
+{{< figure src="images/medium-1*anIbvt1DsBaa2hUzASP0Xw.jpg" alt="夜市多元文化美食" >}}
+{{< /gallery >}}
 
 *夜市小吃*
 
 不得不說我們這趟去紐西蘭真的覺得紐西蘭人口好少，走在路上或是商店裡都沒有人（紐西蘭國土是台灣七倍，但人口只有七百萬)。感覺經濟活動有相對蕭條，難怪很多紐西蘭人都跑來澳洲工作🤣
 
-![Rotorua 湖畔悠閒散步](images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpg)
-
-![Rotorua 湖邊公園風景](images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpg)
-
-![Rotorua 大湖壯麗景色](images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*-OXBwAy0bT5NoQ8C5bhThg.jpg" alt="Rotorua 湖畔悠閒散步" >}}
+{{< figure src="images/medium-1*oWblLoaanFTCVRQCPGIpBg.jpg" alt="Rotorua 湖邊公園風景" >}}
+{{< figure src="images/medium-1*KspSuGUmUNdG6cMOn9ia7A.jpg" alt="Rotorua 大湖壯麗景色" >}}
+{{< /gallery >}}
 
 *Rotorua 也有一個很大的湖～*
 

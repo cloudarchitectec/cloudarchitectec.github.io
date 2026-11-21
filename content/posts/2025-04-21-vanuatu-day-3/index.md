@@ -37,9 +37,10 @@ episodeseries: ["萬那杜旅記"]
 
 到了島上有個迎賓飲料椰子水，接著開船 15 分鐘帶我們出海浮潛。
 
-![Pele Island 迎賓椰子水](images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpg)
-
-![當地特色椰子飲品](images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*n09j6cqxFK4UMUAFrRvX0g.jpg" alt="Pele Island 迎賓椰子水" >}}
+{{< figure src="images/medium-1*Mxge7qbdfNXbyCeW5J3bBg.jpg" alt="當地特色椰子飲品" >}}
+{{< /gallery >}}
 
 *迎賓椰子水*
 
@@ -67,13 +68,12 @@ Pele island 島上有四個村莊，人口大約 40 人(官方資料寫 200 人�
 
 馬克杯杯聽到我早上超早就上車之後超傻眼（因為說真的，我住的地方其實在港口跟其他人的住宿點中間），跟我說我等一下回程要記得跟 tour guide 說請他們第一個放我下車。我後來完全忘記這件事，他還主動幫我去提醒 tour guide，所以我就成為本團最早下車的人，五點就到家了✌️
 
-![Pele Island 團體合照](images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpg)
-
-![澳洲遊客團友聚餐](images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpg)
-
-![當地豐盛午餐](images/medium-1*hiICIdXxnAwERYT7ougJMw.jpg)
-
-![萬那杜滿漢全席](images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*G66n3VCpsxom4DjiURwQnQ.jpg" alt="Pele Island 團體合照" >}}
+{{< figure src="images/medium-1*1oy2RfX3X8kneIRHb42n8Q.jpg" alt="澳洲遊客團友聚餐" >}}
+{{< figure src="images/medium-1*hiICIdXxnAwERYT7ougJMw.jpg" alt="當地豐盛午餐" >}}
+{{< figure src="images/medium-1*MlPDYCy7dT91Eq8gKjCVUg.jpg" alt="萬那杜滿漢全席" >}}
+{{< /gallery >}}
 
 *午餐、同行遊客*
 

@@ -23,11 +23,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 覬覦了轉角那家麵包店兩天後，我在 check out 當天早上 6:35 下樓買了他們今天新鮮烤好的蝴蝶餅 (pretzel) ，外層鹹香香酥，內層有嚼勁又不會太硬！配上我的自製拿鐵，太好吃了~
 
-![德國傳統蝴蝶餅 Pretzel](images/medium-1*cEf2YgS2isLvWN_SxTaeiA.jpg)
-
-![法蘭克早餐手工麵包](images/medium-1*z76YqWPPyIezu93i43T3VQ.jpg)
-
-![歐洲旅行自製拿鐵](images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*cEf2YgS2isLvWN_SxTaeiA.jpg" alt="德國傳統蝴蝶餅 Pretzel" >}}
+{{< figure src="images/medium-1*z76YqWPPyIezu93i43T3VQ.jpg" alt="法蘭克早餐手工麵包" >}}
+{{< figure src="images/medium-1*-xGsBNUYj5WrqTdcyQsa8Q.jpg" alt="歐洲旅行自製拿鐵" >}}
+{{< /gallery >}}
 
 ### 德國火車一等車廂初體驗
 
@@ -81,11 +81,11 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 紐倫堡城堡 Imperial Castle of Nuremberg
 
-![紐倫堡城堡俯瞰市景](images/medium-1*QwnD2FI9fKNRJEBzzmUq8w.jpg)
-
-![Imperial Castle 中世紀建筑](images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpg)
-
-![Nuremberg 皇帝城堡](images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*QwnD2FI9fKNRJEBzzmUq8w.jpg" alt="紐倫堡城堡俯瞰市景" >}}
+{{< figure src="images/medium-1*GV4G5PVNDCrJMe1nJlmYEQ.jpg" alt="Imperial Castle 中世紀建筑" >}}
+{{< figure src="images/medium-1*_3GMGPqdMhCe6rOGWy1vyg.jpg" alt="Nuremberg 皇帝城堡" >}}
+{{< /gallery >}}
 
 *紐倫堡城堡*
 
