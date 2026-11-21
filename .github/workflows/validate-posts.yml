@@ -59,7 +59,7 @@ jobs:
       - name: Cache Hugo processed images
         # resources/_gen holds resized/WebP image variants; without this cache every
         # PR build reprocesses all post images from scratch
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: resources/_gen
           key: hugo-images-${{ hashFiles('content/posts/**/images/**') }}
