@@ -13,6 +13,7 @@ images: ['images/medium-0*3NXkWf7Nc8zqLlyb.jpg']
 categories: ["澳洲職場"]
 tags: ["英文面試", "澳洲求職必勝法則"]
 
+episodeseries: ["澳洲求職必勝法則"]
 ---
 
 今天想要簡單分享一下，在澳洲超過十年的我，收到面試通知時，會如何準備英文職場面試。

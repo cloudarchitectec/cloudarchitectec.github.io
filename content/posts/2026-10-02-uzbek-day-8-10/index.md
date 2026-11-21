@@ -9,6 +9,7 @@ cover:
 images: ["images/bukhara-1.JPG", "images/bukhara-2.JPG", "images/bukhara-3.JPG", "images/camel.JPG", "images/city-1.JPG", "images/city-2.JPG", "images/city-3.JPG", "images/cover.JPG", "images/dress.JPG", "images/light-1.JPG", "images/light-2.JPG", "images/light-3.JPG", "images/light-4.JPG", "images/market-1.JPG", "images/market-2.JPG", "images/market-3.JPG", "images/market-4.JPG", "images/s-1.JPG", "images/s-2.JPG", "images/s-3.JPG", "images/square-1.JPG", "images/square-2.JPG", "images/square-3.JPG", "images/square-4.JPG", "images/tea-1.JPG", "images/tea-2.JPG", "images/temple.JPG", "images/tomb-1.JPG", "images/tomb-2.JPG", "images/tomb-3.JPG"]
 categories: ["旅行紀錄"]
 tags: ["烏茲別克", "中亞", "旅遊", "撒馬爾罕"]
+episodeseries: ["勇闖烏茲別克"]
 ---
 
 ## 2026.10.02 Day 8｜布哈拉 → 撒馬爾罕

@@ -13,6 +13,7 @@ cover:
 images: ["images/JRpE5XBwlg0-unsplash.jpg", "images/error-receipt.jpeg", "images/hotel-1.jpeg", "images/hotel-2.jpeg", "images/hotel-3.jpeg", "images/jetstar.jpeg", "images/luggages.jpeg", "images/som.JPG", "images/train-1.jpeg", "images/train-2.jpeg", "images/train-3.jpeg", "images/train-4.jpeg", "images/uz-airways.jpeg", "images/uz-airways-plane.jpeg", "images/uz-meal.jpeg", "images/welcome-tea.jpeg"]
 categories: ["旅行紀錄"]
 tags: ["烏茲別克", "旅遊", "中亞","韓國轉機"]
+episodeseries: ["勇闖烏茲別克"]
 ---
 終於迎來期待已久的假期 🎉
 

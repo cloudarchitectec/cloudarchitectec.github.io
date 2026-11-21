@@ -22,17 +22,19 @@ episodeseries: ["斐濟旅記"]
 
 準備登船前往 Malamala~
 
-![準備前往Malamala島的渡船](images/medium-0*dT_WyPnWXajYGYcL.jpg)
-
-![Malamala島一日遊船隻](images/medium-0*R9AbkCk0zQIkb9-o.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-0*dT_WyPnWXajYGYcL.jpg" alt="準備前往Malamala島的渡船" >}}
+{{< figure src="images/medium-0*R9AbkCk0zQIkb9-o.jpg" alt="Malamala島一日遊船隻" >}}
+{{< /gallery >}}
 
 *登船出海*
 
 途中必須再度炫耀一下我的美甲！Malamala 就是這麼一個很圓的小島
 
-![斐濟旅遊精緻美甲造型](images/medium-0*p9yMD2FNOryFwREY.jpg)
-
-![Malamala島排隊等候的遊客](images/medium-0*5aNAFP6zOqe13T5_.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-0*p9yMD2FNOryFwREY.jpg" alt="斐濟旅遊精緻美甲造型" >}}
+{{< figure src="images/medium-0*5aNAFP6zOqe13T5_.jpg" alt="Malamala島排隊等候的遊客" >}}
+{{< /gallery >}}
 
 *美甲與排隊登島的遊客*
 
@@ -40,15 +42,17 @@ episodeseries: ["斐濟旅記"]
 
 島上還有無邊際游泳池，跟各種免費的水上活動裝備租借，包含浮潛、獨木舟跟 SUP (stand up paddling)！我除了喝雞尾酒、按摩、玩水之外就是在各個角落睡午覺，太爽了！
 
-![Malamala島水上活動設備](images/medium-0*tx1vHrgAoRwihmAn.jpg)
-
-![Malamala島無邊際泳池](images/medium-0*iXqoP6t0sPIp1q7b.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-0*tx1vHrgAoRwihmAn.jpg" alt="Malamala島水上活動設備" >}}
+{{< figure src="images/medium-0*iXqoP6t0sPIp1q7b.jpg" alt="Malamala島無邊際泳池" >}}
+{{< /gallery >}}
 
 食物無敵好吃、調酒無敵好喝！
 
-![Malamala島特色熱帶調酒](images/medium-0*5RrmqHw5bxvmzDi8.jpg)
-
-![斐濟海島風味雞尾酒](images/medium-0*B8sqPydAQ1MWoyjD.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-0*5RrmqHw5bxvmzDi8.jpg" alt="Malamala島特色熱帶調酒" >}}
+{{< figure src="images/medium-0*B8sqPydAQ1MWoyjD.jpg" alt="斐濟海島風味雞尾酒" >}}
+{{< /gallery >}}
 
 *這兩杯調酒的好喝程度都跟 Tokatoka 旅館不是同一個等級的*
 

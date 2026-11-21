@@ -70,9 +70,10 @@ episodeseries: ["斐濟旅記"]
 
 但我覺得還是值得點一杯調酒來慶祝這趟旅程的開始，於是我點了一杯 Blue Heaven，傳照片給朋友看後立刻被吐槽說「這個顏色看起來一點都不像 heaven，為什麼 heaven 上面要有紅色？」我覺得她說得真是太有道理XDD
 
-![Blue Heaven 調酒攪拌前](images/medium-0*opxsp1CbN83N2ijw.jpg)
-
-![Blue Heaven 調酒攪拌後](images/medium-0*cyBcrR1JXVgt8jYA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-0*opxsp1CbN83N2ijw.jpg" alt="Blue Heaven 調酒攪拌前" >}}
+{{< figure src="images/medium-0*cyBcrR1JXVgt8jYA.jpg" alt="Blue Heaven 調酒攪拌後" >}}
+{{< /gallery >}}
 
 *Cocktail: Blue Heaven。攪拌完之後就更黑暗，更不 heaven 了XD*
 
@@ -82,17 +83,23 @@ episodeseries: ["斐濟旅記"]
 
 *這趟旅行我特地做了美甲，手指甲為綠色跟黃色交錯。腳指甲則是淺藍色，因為我覺得這三個顏色就是我內心對於熱帶島嶼的想像XD*
 
-![Tokatoka Hotel 泳池設施](images/medium-0*NCkv3nLUbqStxDQ-.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-0*NCkv3nLUbqStxDQ-.jpg" alt="Tokatoka Hotel 泳池設施" >}}
+{{< figure src="images/medium-0*5qokt42-Vvfwjemf.jpg" alt="Tokatoka Hotel 兒童划水道" >}}
+{{< /gallery >}}
 
-![Tokatoka Hotel 兒童划水道](images/medium-0*5qokt42-Vvfwjemf.jpg)旅館泳池
+旅館泳池
 
 這是一個非常適合家庭旅遊的旅館，泳池裡還有划水道，超可愛！
 
 吃飽喝足後我在斐濟旅館外繞了一圈，頓時覺得這裡就是屏東啊！
 
-![斐濟椰子樹風景](images/medium-0*S_9Mv4N0NThC0zzU.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-0*S_9Mv4N0NThC0zzU.jpg" alt="斐濟椰子樹風景" >}}
+{{< figure src="images/medium-0*pDobfaSWYVpF9XWV.jpg" alt="Tokatoka Hotel 周邊環境" >}}
+{{< /gallery >}}
 
-![Tokatoka Hotel 周邊環境](images/medium-0*pDobfaSWYVpF9XWV.jpg)Tokatoka Hotel 周遭
+Tokatoka Hotel 周遭
 
 看看這椰子樹，難道不是屏東嗎？然後外面的道路也很像屏東鄉下，連山看起來都像是大武山哈哈哈哈
 

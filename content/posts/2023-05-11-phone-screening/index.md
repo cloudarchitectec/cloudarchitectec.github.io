@@ -13,6 +13,7 @@ images: ['images/medium-0*VtTwo_4RcFVfiCkx.jpg']
 categories: ["澳洲職場"]
 tags: ["澳洲求職必勝法則","英文面試"]
 
+episodeseries: ["澳洲求職必勝法則"]
 ---
 
 今天想要跟大家來分享在澳洲求職過程中電話篩選 (phone screening) 的相關經驗。首先，phone screening 跟 phone interview 是兩個不同的概念。Phone screening 通常是由人資主導，主要目的是核實你的個人基本資料、履歷內容，進一步詢問申請職位跟公司相關的問題。Phone interview 就是一個正式的面試關卡，只是透過電話進行(而非傳統的面對面面試)，通常面試官會是你的主管或是團隊裡的其他同事，不會是人資。

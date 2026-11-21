@@ -21,6 +21,7 @@ images:
   - "images/building-2.JPG"
 categories: ["旅行紀錄"]
 tags: ["烏茲別克", "中亞", "旅遊", "布哈拉"]
+episodeseries: ["勇闖烏茲別克"]
 ---
 
 ## 2026.09.29 Day 5 ｜ 移動日：希瓦 → 布哈拉

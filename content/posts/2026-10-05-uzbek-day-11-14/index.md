@@ -9,6 +9,7 @@ cover:
 images: ["images/Charvak.JPG", "images/amirsoy-1.JPG", "images/amirsoy-2.JPG", "images/cover.JPG", "images/magic-city-1.JPG", "images/magic-city-2.JPG", "images/magic-city-3.JPG", "images/magic-city-4.JPG", "images/museum.JPG", "images/paper-post-card.JPG", "images/post-office.JPG", "images/restaurant-1.JPG", "images/restaurant-2.JPG", "images/subway-1.JPG", "images/subway-2.JPG", "images/subway-3.JPG", "images/subway-4.JPG", "images/tea-on-the-train.JPG"]
 categories: ["旅行紀錄"]
 tags: ["烏茲別克", "中亞", "旅遊", "塔什干"]
+episodeseries: ["勇闖烏茲別克"]
 ---
 
 ## 2026.10.05 Day 11｜撒馬爾罕 → 塔什干：莫名其妙的計程車司機

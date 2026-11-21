@@ -32,6 +32,7 @@ images:
   - "images/hotdog.JPG"
 categories: ["旅行紀錄"]
 tags: ["烏茲別克", "中亞", "旅遊", "希瓦"]
+episodeseries: ["勇闖烏茲別克"]
 ---
 
 ## 2026.09.26 Day 2｜希瓦古城
