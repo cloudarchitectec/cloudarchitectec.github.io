@@ -66,16 +66,10 @@ Mystery Island 感覺是一個非常商業化的小島，例如一上島就看�
 
 由於我們回到船上的時間有點晚，除了吃到了一點 buffet 的食物(午餐的 buffet 3:30 結束)，我們還加點了一個 seafood platter to share 跟我單點了一個海鮮巧達濃湯 $7。湯是現點現煮，而且海鮮料超多，所以我覺得還滿划算的。seafood platter 這樣的份量 $20 還算 okay，不過炸物吃多了還是有點膩
 
-![郵輪額外付費海鮮拼盤](images/medium-1*g_gRl-BxQrTYKwXsnREJLw.jpg)
-
-*郵輪額外付費海鮮拼盤*
-
-![郵輪額外付費海鮮巧達濃湯](images/medium-1*b2rWJ-wohW5j2M7jKemQfQ.jpg)
-
-*郵輪額外付費海鮮巧達濃湯*
-
-![郵輪24小時霜淇淋機](images/medium-1*uqXU87fqe7SQiEMwTIyvvg.jpg)
-
-*郵輪上有 24 小時霜淇淋機!*
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*g_gRl-BxQrTYKwXsnREJLw.jpg" alt="郵輪額外付費海鮮拼盤" caption="郵輪額外付費海鮮拼盤" >}}
+{{< figure src="images/medium-1*b2rWJ-wohW5j2M7jKemQfQ.jpg" alt="郵輪額外付費海鮮巧達濃湯" caption="郵輪額外付費海鮮巧達濃湯" >}}
+{{< figure src="images/medium-1*uqXU87fqe7SQiEMwTIyvvg.jpg" alt="郵輪24小時霜淇淋機" caption="郵輪上有 24 小時霜淇淋機!" >}}
+{{< /gallery >}}
 
 吃完後本來想去泡 spa pool，但看了兩個池都人滿為患，於是我決定回房間好好洗個澡，洗完之後在陽台上發個呆。其實我覺得陽台房訂的還是滿值得的，不需要出去外面多公共空間跟別人擠，自己輕鬆洗完澡後就可以有自己的空間 :)

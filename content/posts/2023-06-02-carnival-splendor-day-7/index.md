@@ -65,12 +65,9 @@ Signal island 的沙灘野生超多礁岩，想要進去海裡浮潛，一開始
 
 晚上去參加了 80 年代搖滾螢光趴，還發了螢光棒當道具很不錯!!!
 
-![郵輪80年代現場樂團表演](images/medium-1*XU3yT7_raobC99qC2ioKiA.jpg)
-
-*有 live band 真的很嗨*
-
-![郵輪80年代螢光棒派對](images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpg)
-
-*而且還發螢光棒!*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*XU3yT7_raobC99qC2ioKiA.jpg" alt="郵輪80年代現場樂團表演" caption="有 live band 真的很嗨" >}}
+{{< figure src="images/medium-1*_eBC6rpbJ7VZ63sn1niKHQ.jpg" alt="郵輪80年代螢光棒派對" caption="而且還發螢光棒!" >}}
+{{< /gallery >}}
 
 很多人也裝扮得很認真，但超多首 80 年代的歌我跟 Ashley 都不知道，很難嗨起來lol

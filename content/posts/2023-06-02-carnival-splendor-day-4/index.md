@@ -41,13 +41,10 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 今天主要的行程就是搭觀光巴士以及在市區內亂晃。
 
-![Noumea市區綠地公園](images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpg)
-
-*Noumea 市區綠地公園*
-
-![新喀里多尼亞傳統教堂](images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpg)
-
-*新喀里多尼亞傳統教堂*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*uOFTGVGLYNru1iXFeJULpA.jpg" alt="Noumea市區綠地公園" caption="Noumea 市區綠地公園" >}}
+{{< figure src="images/medium-1*n6ba9T1jPQCgogrmhVxNsQ.jpg" alt="新喀里多尼亞傳統教堂" caption="新喀里多尼亞傳統教堂" >}}
+{{< /gallery >}}
 
 然後還有另一個特別奇怪的觀察，就是這裡的廁所都還算乾淨，但每一個馬桶都沒有馬桶蓋，why????!!!! 我跟 Ashley 百思不得其解耶
 

@@ -27,12 +27,10 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 首先，應讀者 Huli 大大的要求，先來分享一下郵輪房間的內部照片。說真的，郵輪房間比我想像中大很多XD (本來還以為會是一個很狹小、逼仄的空間，但其實兩個人住非常舒適，收納空間也不少)。
 
-![Carnival郵輪陽台房內部](images/medium-1*67HCCHz_fSzckeRLuUmWYg.jpg)
-
-*郵輪房間: 陽台房*
-
-![郵輪房間精緻衛浴設施](images/medium-1*Syk9imF-O3YSSPzPSj5Lvg.jpg)
-*郵輪房間衛浴*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*67HCCHz_fSzckeRLuUmWYg.jpg" alt="Carnival郵輪陽台房內部" caption="郵輪房間: 陽台房" >}}
+{{< figure src="images/medium-1*Syk9imF-O3YSSPzPSj5Lvg.jpg" alt="郵輪房間精緻衛浴設施" caption="郵輪房間衛浴" >}}
+{{< /gallery >}}
 
 ### 郵輪 App
 

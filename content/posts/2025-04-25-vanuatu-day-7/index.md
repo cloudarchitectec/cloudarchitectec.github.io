@@ -16,9 +16,10 @@ episodeseries: ["萬那杜旅記"]
 
 ### 導航啊導航，你為什麼要騙我
 
-![Port Vila 市區道路](images/medium-1*I3pFjSCcDgwmfgGXGGPi5Q.jpg)
-
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*I3pFjSCcDgwmfgGXGGPi5Q.jpg" alt="Port Vila 市區道路" >}}
 {{< figure src="images/medium-1*0hhYOSy5FS70Rq729wegaQ.jpg" alt="萬那杜路況狀況" caption="就連 Port Vila 市區的道路也是坑坑疤疤" >}}
+{{< /gallery >}}
 
 今天其實沒安排什麼行程，打算早上去巧克力工廠，順便換個錢，接著就開車去 Mele Beach，把車停在港口，搭小船去今天的住宿 Hideaway Island。
 
@@ -26,9 +27,12 @@ episodeseries: ["萬那杜旅記"]
 
 因為被我問路的 cafe 店員人實在很 nice，於是決定在他們店裡喝一杯抹茶星冰樂(老闆應該是中國人，所以菜單還有中文😆）。是我近期喝到最好喝的抹茶冰沙，打敗澳洲咖啡店😆
 
-![Grace Cafe 抹茶星冰樂](images/medium-1*VHN9OVLrSbv8uuJ8RbwUDw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*VHN9OVLrSbv8uuJ8RbwUDw.jpg" alt="Grace Cafe 抹茶星冰樂" >}}
+{{< figure src="images/medium-1*xG_1Q0HEgU3ByPwlXdZIxw.jpg" alt="中文菜單咖啡店" >}}
+{{< /gallery >}}
 
-*![中文菜單咖啡店](images/medium-1*xG_1Q0HEgU3ByPwlXdZIxw.jpg)Grace Cafe 成為我在 Port Vila 的新愛店*
+*Grace Cafe 成為我在 Port Vila 的新愛店*
 
 ### Hideaway Island Resort
 
@@ -52,9 +56,12 @@ episodeseries: ["萬那杜旅記"]
 
 真心推薦大家來萬那杜只需要租車來這個地方即可，是我這幾天來的 highlight 😆😆😆
 
-![萬那杜島嶼可愛貓咪](images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*bSQh1vV3Xws48Nspq3VDkg.jpg" alt="萬那杜島嶼可愛貓咪" >}}
+{{< figure src="images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpg" alt="萬那杜椰汁牛肉咖喱" >}}
+{{< /gallery >}}
 
-*![萬那杜椰汁牛肉咖喱](images/medium-1*dXJceun7Gvx8vWL5aRBfPw.jpg)島上還有可愛貓貓！這個椰汁牛肉咖喱真心爆好吃*
+*島上還有可愛貓貓！這個椰汁牛肉咖喱真心爆好吃*
 
 ### Beach Bar 火焰秀
 
@@ -64,22 +71,29 @@ episodeseries: ["萬那杜旅記"]
 
 *The Beach Bar*
 
-![Mele Beach 夕陽景色](images/medium-1*7gp9-doDFPnI5gXrkj_3Ag.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*7gp9-doDFPnI5gXrkj_3Ag.jpg" alt="Mele Beach 夕陽景色" >}}
+{{< figure src="images/medium-1*5plrVldSDXkcD0KFNEHhQA.jpg" alt="海邊夕陽美景" >}}
+{{< /gallery >}}
 
-*![海邊夕陽美景](images/medium-1*5plrVldSDXkcD0KFNEHhQA.jpg)夕陽也很美*
+*夕陽也很美*
 
 晚餐點了窯烤 pizza，才發現不是所有窯烤披薩都好吃🤣 明明起司也很多但吃起來真的很普😆
 
-![窯烤披薩製作過程](images/medium-1*kMooDl696lTmXKONkmrNeQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*kMooDl696lTmXKONkmrNeQ.jpg" alt="窯烤披薩製作過程" >}}
+{{< figure src="images/medium-1*OCHRIZN3ZF7F5I5fXbDDOQ.jpg" alt="傳統窯烤披薩" >}}
+{{< figure src="images/medium-1*ocw7PIv6cwfJsO7sEYxybg.jpg" alt="海邊餐廳用餐" >}}
+{{< figure src="images/medium-1*8A9yv7rX3AZ9MbT2N-W6dA.jpg" alt="手電筒照明披薩" >}}
+{{< /gallery >}}
 
-*![傳統窯烤披薩](images/medium-1*OCHRIZN3ZF7F5I5fXbDDOQ.jpg)*
-
-![海邊餐廳用餐](images/medium-1*ocw7PIv6cwfJsO7sEYxybg.jpg)
-
-*![手電筒照明披薩](images/medium-1*8A9yv7rX3AZ9MbT2N-W6dA.jpg)窯烤披薩因為光線不足，還需要另一個人拿手電筒打燈XD*
+*窯烤披薩因為光線不足，還需要另一個人拿手電筒打燈XD*
 
 最後火焰秀晚了半個小時才開始（餐廳規定要 5:30 前入座才能保留位子，也就是我們等了 2 個小時，等到快睡著🤣），但我覺得很值得耶，表演非常精彩！！！有西方音樂、傳統配樂，甚至還有空中瑜珈😆😆😆 而且表演是靠自由樂捐的模式，我真心覺得這麼精彩的表演值得強制收費😆
 
-![海邊火焰表演秀](images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*eKuSQNJ0lJ8lvDsv9qI29g.jpg" alt="海邊火焰表演秀" >}}
+{{< figure src="images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpg" alt="萬那杜傳統火焰舞" >}}
+{{< /gallery >}}
 
-*![萬那杜傳統火焰舞](images/medium-1*cy8SOOG_OshLu6QnWhce2g.jpg)火焰秀*
+*火焰秀*

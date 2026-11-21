@@ -45,15 +45,22 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 但我覺得這位姊姊才是一等車廂的極致直接帶酒上來喝！後來我仔細一看姊姊的手拿包是全黑的 LV，果然是低調奢華XDD
 
-![德國火車一等車廂 LV 姊姊](images/medium-1*h4mvEITaKjkC0ryYdUvo8Q.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*h4mvEITaKjkC0ryYdUvo8Q.jpg" alt="德國火車一等車廂 LV 姊姊" >}}
+{{< figure src="images/medium-1*xzQs9md4GWKRHqltU3S5ww.jpg" alt="德鐵頭等艙豪華體驗" >}}
+{{< /gallery >}}
 
-*![德鐵頭等艙豪華體驗](images/medium-1*xzQs9md4GWKRHqltU3S5ww.jpg)德國火車一等車廂初體驗*
+*德國火車一等車廂初體驗*
 
 ### 好喜歡紐倫堡
 
-![紐倫堡中央廣場小市集](images/medium-1*WRbOi_9nExtfYxyBRNBVKw.jpg)![Nuremberg 聖誕市集場地](images/medium-1*ig6JggBYl-YWUZapayNv6w.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*WRbOi_9nExtfYxyBRNBVKw.jpg" alt="紐倫堡中央廣場小市集" >}}
+{{< figure src="images/medium-1*ig6JggBYl-YWUZapayNv6w.jpg" alt="Nuremberg 聖誕市集場地" >}}
+{{< figure src="images/medium-1*aMb7J9Cke4-wH2o9NCaY6g.jpg" alt="德國傳統市集木屋攤位" >}}
+{{< /gallery >}}
 
-*![德國傳統市集木屋攤位](images/medium-1*aMb7J9Cke4-wH2o9NCaY6g.jpg)紐倫堡的聖誕市集很有名，但非聖誕節期間來也是有個小小的市集。希望以後有機會再訪紐倫堡來逛這個歐洲最大的聖誕市集*
+*紐倫堡的聖誕市集很有名，但非聖誕節期間來也是有個小小的市集。希望以後有機會再訪紐倫堡來逛這個歐洲最大的聖誕市集*
 
 我其實滿建議在紐倫堡待個 2–3 晚，因為這個小鎮 (為什麼大家一直叫它小鎮，紐倫堡明明很大哈哈)，有非常多值得參觀的地方！
 
@@ -73,9 +80,13 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 但我後來想想，沒吃飽也好啊，這樣飯後才可以吃更多小點XDDD
 
-![Bratwurst Röslein 紐倫堡香腸](images/medium-1*fT-2EQohU3kBIoQ_43jH7Q.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*fT-2EQohU3kBIoQ_43jH7Q.jpg" alt="Bratwurst Röslein 紐倫堡香腸" >}}
+{{< figure src="images/medium-1*TTdrSj24MhyITTLeu0ruww.jpg" alt="德國傳統手指香腸" >}}
+{{< figure src="images/medium-1*zxmTKdj-LCTFIwdVjjtP-A.jpg" alt="Nuremberg 特色羊腸香腸" >}}
+{{< /gallery >}}
 
-*![德國傳統手指香腸](images/medium-1*TTdrSj24MhyITTLeu0ruww.jpg)![Nuremberg 特色羊腸香腸](images/medium-1*zxmTKdj-LCTFIwdVjjtP-A.jpg)紐倫堡香腸*
+*紐倫堡香腸*
 
 至於香腸的味道，嗯，是個好吃的香腸。但這種 bratwurst 我覺得吃起來都差不多，澳洲也有很多這種香腸，我覺得沒什麼特別的 (論香腸，當然還是台灣的練煙腸最好吃XDD)
 
@@ -99,9 +110,13 @@ Bell Tower 滿好爬的，約五分鐘，但不爬也可以。因為其實城堡
 
 ### 紐倫堡市立博物館(City Museum in Fembo house)
 
-![Fembo House 市立博物館](images/medium-1*w3v2ZrjBh5MV70OGUFrjMg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*w3v2ZrjBh5MV70OGUFrjMg.jpg" alt="Fembo House 市立博物館" >}}
+{{< figure src="images/medium-1*YdcpokwKtAYaZY4f-rYp-A.jpg" alt="紐倫堡中世紀城市發展史" >}}
+{{< figure src="images/medium-1*p5ZoJIDZ-NOLHXShPUmcng.jpg" alt="神聖羅馬帝國歷史展覽" >}}
+{{< /gallery >}}
 
-*![紐倫堡中世紀城市發展史](images/medium-1*YdcpokwKtAYaZY4f-rYp-A.jpg)![神聖羅馬帝國歷史展覽](images/medium-1*p5ZoJIDZ-NOLHXShPUmcng.jpg)紐倫堡市立博物館*
+*紐倫堡市立博物館*
 
 這是我整趟歐洲行程最喜歡的博物館，英文語音導覽做得很棒！！！
 

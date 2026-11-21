@@ -116,13 +116,21 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### Stiegl-Brauwelt 啤酒廠
 
-![奧地利Stiegl啤酒廠葡萄柚啤酒](images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*n2M-kpRfBHE3-TucA3Vjfg.jpg" alt="奧地利Stiegl啤酒廠葡萄柚啤酒" >}}
+{{< figure src="images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpg" alt="薩爾斯堡啤酒廠德式午餐" >}}
+{{< figure src="images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpg" alt="德式法蘭克福香腸與麵包" >}}
+{{< /gallery >}}
 
-*![薩爾斯堡啤酒廠德式午餐](images/medium-1*w3Z2EKBNZ6aMazd5UmlrBw.jpg)![德式法蘭克福香腸與麵包](images/medium-1*oOWgPIzTRA0yYmzfLataMA.jpg)酒廠午餐*
+*酒廠午餐*
 
-![Stiegl啤酒廠檸檬果味啤酒](images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*-TYdKa5Kq5YqzYzYjcTeKg.jpg" alt="Stiegl啤酒廠檸檬果味啤酒" >}}
+{{< figure src="images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpg" alt="奧地利傳統風味晚餐" >}}
+{{< figure src="images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpg" alt="啤酒廠手工黃芥末醬" >}}
+{{< /gallery >}}
 
-*![奧地利傳統風味晚餐](images/medium-1*Xy5VDvlLglVuaqonpE6z5w.jpg)![啤酒廠手工黃芥末醬](images/medium-1*_aOzA7MX9EIVnpedv3i_4A.jpg)酒廠晚餐*
+*酒廠晚餐*
 
 薩爾斯堡有個奧地利本土啤酒廠 Stiegl-Brauwelt 可以參觀（門票一樣是包在薩爾斯堡卡裡)，但我因為時間來不及所以沒辦法參觀他們的啤酒博物館。不過我的午餐跟晚餐都是在這裡吃的，我的媽啊！他們葡萄柚啤酒超級驚豔，檸檬啤酒也不錯！不知道澳洲能不能買到？
 
@@ -130,9 +138,12 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 薩爾斯堡要塞&要塞纜車 Festung Hohensalzburg
 
-![薩爾斯堡要塞俯瞰城市全景](images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*rqq6xjmpECG8ksNVOuPrdQ.jpg" alt="薩爾斯堡要塞俯瞰城市全景" >}}
+{{< figure src="images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpg" alt="要塞山頂眺望阿爾卑斯山景" >}}
+{{< /gallery >}}
 
-*![要塞山頂眺望阿爾卑斯山景](images/medium-1*ACfPHrRu9OohYj13Oa3-gA.jpg)薩爾斯堡要塞*
+*薩爾斯堡要塞*
 
 門票跟上下纜車票也都包在薩爾斯堡卡裡！我個人建議時間有限的人上下山都直接坐纜車，因為山上超美，可以俯瞰薩爾斯堡的美景，會花很多時間拍風景照跟自拍照。
 
@@ -140,9 +151,13 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### Mönchsberg Elevator
 
-![Mönchsberg電梯觀景台入口](images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpg)
+{{< gallery cols="3" >}}
+{{< figure src="images/medium-1*B07BWxC3HGm_9NS51LYZCA.jpg" alt="Mönchsberg電梯觀景台入口" >}}
+{{< figure src="images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpg" alt="現代美術館旁的觀景電梯" >}}
+{{< figure src="images/medium-1*rb-zBQbH87RNfabxuS830Q.jpg" alt="電梯觀景台俯瞰薩爾斯堡" >}}
+{{< /gallery >}}
 
-*![現代美術館旁的觀景電梯](images/medium-1*5UwcwXEoyzf7tG9rLozSWQ.jpg)![電梯觀景台俯瞰薩爾斯堡](images/medium-1*rb-zBQbH87RNfabxuS830Q.jpg)Mönchsberg Elevator*
+*Mönchsberg Elevator*
 
 最後一個景點是 Mönchsberg Elevator，這是位於現代美術館旁邊的電梯，搭上去之後有個觀景平台，我個人覺得很適合黃昏時去，如果可以待到晚上的話聽說夜景很棒！
 

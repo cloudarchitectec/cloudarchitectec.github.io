@@ -27,9 +27,12 @@ Rosti 是由馬鈴薯刨絲之後浸泡過鹽水再拿去煎（薯餅已經有�
 
 接著我去逛了超市，看到這個壽司附的「大魚」醬油，每一隻都是澳洲小魚醬油的三倍大，超可愛！(但我後來跟沒來過澳洲的朋友們分享這件事，他們完全不懂我的點在哪，看來壽司的小魚醬油真的是澳洲特色XD)
 
-![瑞士超市壽司用特大魚形醬油](images/medium-1*khEc7eb4lgXXar6qXtfXxQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*khEc7eb4lgXXar6qXtfXxQ.jpg" alt="瑞士超市壽司用特大魚形醬油" >}}
+{{< figure src="images/medium-1*EaAvP0YQfDVZeeOS20hSkQ.jpg" alt="可愛造型魚形醬油包裝" >}}
+{{< /gallery >}}
 
-*![可愛造型魚形醬油包裝](images/medium-1*EaAvP0YQfDVZeeOS20hSkQ.jpg)瑞士超市的『大魚』醬油*
+*瑞士超市的『大魚』醬油*
 
 順便在超市買了瑞士啤酒 Feldschlösschen （費爾德城堡），大概有 4–5 種口味（我根本看不懂），剛好旁邊有個店員姐姐，我就問她黃色跟棕色是什麼意思？她說棕色是 dark beer，黃色是一般的，然後我就問她哪個好喝？姐姐說她都喝紅色，但架上沒有了，如果兩個選一個，她覺得黃色比較好。結果我晃了一圈，意外在冷藏區發現紅色！果然在地人的推薦就是棒，紅色啤酒很好喝喔～
 

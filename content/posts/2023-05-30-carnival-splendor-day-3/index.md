@@ -43,13 +43,10 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 吃完午餐後，今天的天氣總算好一點了，於是我們跑到甲板拍照。
 
-![郵輪九樓中央甲板海景](images/medium-1*-T8XXFbxD06E9qH0SZndFQ.jpg)
-
-*九樓: 中央甲板海景*
-
-![郵輪九樓船尾甲板風景](images/medium-1*4gX9KAb4Cz5rgXXCTKFZOA.jpg)
-
-*九樓: 船尾甲板風景*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*-T8XXFbxD06E9qH0SZndFQ.jpg" alt="郵輪九樓中央甲板海景" caption="九樓: 中央甲板海景" >}}
+{{< figure src="images/medium-1*4gX9KAb4Cz5rgXXCTKFZOA.jpg" alt="郵輪九樓船尾甲板風景" caption="九樓: 船尾甲板風景" >}}
+{{< /gallery >}}
 
 ### 咖啡
 

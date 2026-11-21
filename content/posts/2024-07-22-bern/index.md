@@ -39,9 +39,12 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 瑞士的首都伯恩其名稱來自德文的熊「Bär」。因為公爵 Zähringen 在 1191 年建城時，捕捉的第一隻動物就是熊。
 
-![伯恩麵包店熊造型塔甜點](images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*3YxWD7_IbOjtE3OrgvRuxA.jpg" alt="伯恩麵包店熊造型塔甜點" >}}
+{{< figure src="images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpg" alt="瑞士伯恩可愛熊塔糕點" >}}
+{{< /gallery >}}
 
-*![瑞士伯恩可愛熊塔糕點](images/medium-1*8aW7AKsPWgFwzsiKR1QYrA.jpg)伯恩麵包店裡面賣的熊塔，超可愛*
+*伯恩麵包店裡面賣的熊塔，超可愛*
 
 現在的瑞士政府還特地為熊建了巨大的熊公園，但裡面只住了三隻熊！
 
@@ -91,13 +94,14 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 事實證明臨時改行程到伯恩是個非常正確的決定！可以看到熊好酷！而且伯恩不愧是被列為世界遺產的城市，簡直美翻天！
 
-![世界遺產伯恩古城街道](images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*IE9vS_weyiwv4X-KbfZMag.jpg" alt="世界遺產伯恩古城街道" >}}
+{{< figure src="images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpg" alt="瑞士首都伯恩歷史建築群" >}}
+{{< figure src="images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpg" alt="伯恩鐘樓與拱廊建築" >}}
+{{< figure src="images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpg" alt="瑞士伯恩中世紀街景" >}}
+{{< /gallery >}}
 
-*![瑞士首都伯恩歷史建築群](images/medium-1*NfWCcP60YXEr-vPsd45TxA.jpg)*
-
-![伯恩鐘樓與拱廊建築](images/medium-1*m0Xq7L3RE7dJO7Ebat3uiQ.jpg)
-
-*![瑞士伯恩中世紀街景](images/medium-1*Tq7_hSRnTrzLlmKFBI_TXA.jpg)伯恩街景*
+*伯恩街景*
 
 最重要的是，我到伯恩後天氣立刻從多雲轉大晴天，完全沒下雨（證明我不是雨女 😂）。好天氣旅遊真的方便很多！
 
@@ -107,6 +111,9 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 只好瞬間放棄，去超市買了晚餐之後，回旅館休息。在琉森的住宿是一個今年才剛開始開幕的膠囊旅館，一晚約 83 澳幣(因為其他旅館至少一晚都超過 300 澳幣以上，爆炸貴，而且看起來也不是特別高級）。其實我覺得這個膠囊旅館還不錯，內部空間非常寬敞，而且可愛！但是那個昏黃的燈光真的是讓我連自己的櫃子都看不到XDDD 猜測可能是因為膠囊旅館隨時有人入住，為了讓旅客隨時有個可休息的環境，所以才把燈光調整成這樣？
 
-![琉森膠囊旅館超市晚餐](images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*yz-pLtYotk3SSD5lVmDvBA.jpg" alt="琉森膠囊旅館超市晚餐" >}}
+{{< figure src="images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg" alt="膠囊旅館書籍交換休息區" >}}
+{{< /gallery >}}
 
-*![膠囊旅館書籍交換休息區](images/medium-1*l9W0Um3cWuTEG5spsgX1TA.jpg)晚餐與膠囊旅館的換書區*
+*晚餐與膠囊旅館的換書區*

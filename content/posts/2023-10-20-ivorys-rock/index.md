@@ -37,17 +37,23 @@ tags: ["澳洲旅遊","布里斯本"]
 
 這是一個超級大的華人露營團，加起來大概有 20–30 個人，還有各種年紀的大小朋友(小朋友基本上都是移民二代，完全都是英文溝通)。在這趟旅程中也觀察到不同家庭的教育方式，以及體會到移民一代與二代之間微妙的家庭關係，覺得很有趣。
 
-![](images/medium-1*TEbFVZ6ST0uyTaPcC9S4Bw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*TEbFVZ6ST0uyTaPcC9S4Bw.jpg" alt="" >}}
+{{< figure src="images/medium-1*OzBtDbWfGdtFiPwEs6hBUg.jpg" alt="" >}}
+{{< /gallery >}}
 
-*![](images/medium-1*OzBtDbWfGdtFiPwEs6hBUg.jpg)同行友人的其中一個豪華帳篷，還有人開露營車來*
+*同行友人的其中一個豪華帳篷，還有人開露營車來*
 
 露營少不了營火跟烤棉花糖！
 
 我們就靠著我們的 s’more 工廠，成功成為小朋友們最愛的阿姨😆(s’more 是美國人最愛的露營點心，作法是在一片 grain cracker 上放上一片巧克力，然後把烤過的棉花糖放上去，用棉花糖的熱度來融化巧克力，最後再放上一片 grain cracker 夾起來)，超級好吃😋😋😋
 
-![](images/medium-1*0iw3EDTqN4ruET_pNCZZ9g.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*0iw3EDTqN4ruET_pNCZZ9g.jpg" alt="" >}}
+{{< figure src="images/medium-1*bqJrXdhSHXUUQLlgAdNgRQ.jpg" alt="" >}}
+{{< /gallery >}}
 
-*![](images/medium-1*bqJrXdhSHXUUQLlgAdNgRQ.jpg)營火以及受到小朋友喜愛的 s’more*
+*營火以及受到小朋友喜愛的 s’more*
 
 第二天我們還開車半小時去附近的駱駝農場（這裡的駱駝是可以買回去當寵物的喔😆），吃了駱奶冰淇淋與拿鐵，偷偷說，駱奶單喝起來是一種加了鹽的羊奶味😆 然後跟 JJ 一家人去爬山健行！真的是非常有趣又豐富的行程～
 

@@ -25,13 +25,10 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 這個小島沒有足夠深的港口，所以船只能停在海上，透過接駁小船把遊客送到島上。為了避開人潮，我們 6:30 就起床了，7 點吃了 buffet 早餐，順利搭上 8:30 的接駁小船。
 
-![Lifou島接駁小船交通](images/medium-1*--9Pw_aiyqSGzhUf2ZieUQ.jpg)
-
-*Lifou 接駁小船*
-
-![Lifou島碼頭登陸點](images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpg)
-
-*Lifou Jetty*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*--9Pw_aiyqSGzhUf2ZieUQ.jpg" alt="Lifou島接駁小船交通" caption="Lifou 接駁小船" >}}
+{{< figure src="images/medium-1*QIggv6ObbyFwbpMKfAXchA.jpg" alt="Lifou島碼頭登陸點" caption="Lifou Jetty" >}}
+{{< /gallery >}}
 
 ### Swimming Tour
 

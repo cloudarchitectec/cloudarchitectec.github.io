@@ -133,9 +133,10 @@ tags: ["旅遊", "西班牙"]
 - Type-C 充電頭 + 線
 
 你們猜猜這樣總共要多少錢？
-![日常衣物](images/cloth.jpg)
-
-![充電器](images/type-c.JPG)
+{{< gallery cols="2" >}}
+{{< figure src="images/cloth.jpg" alt="日常衣物" >}}
+{{< figure src="images/type-c.JPG" alt="充電器" >}}
+{{< /gallery >}}
 
 總共要 170 歐元，也就是 290 澳幣、台幣 $5800。巴塞隆納到底是什麼樣的鬼地方？🤣🤣🤣
 

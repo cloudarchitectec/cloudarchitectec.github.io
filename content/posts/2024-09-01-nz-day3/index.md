@@ -56,9 +56,12 @@ Whakapapa 據說是紐西蘭北島最大的雪場，我們訂了整天的滑雪�
 
 下午之後天氣糟到完全沒辦法繼續滑(大暴雨)，所以我們就提早下山了。但在暴雨中開車下山也是滿驚險的，視線超級差！我就一路開超慢當路隊長下山😆
 
-![滑雪場暴雨驚險下山](images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*pcdGJnoAuEoiXiWIyJeVmg.jpg" alt="滑雪場暴雨驚險下山" >}}
+{{< figure src="images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpg" alt="雪場餐廳犒賞用餐" >}}
+{{< /gallery >}}
 
-*![雪場餐廳犒賞用餐](images/medium-1*DJDj6y_mE_8gHDb25CxUSA.jpg)第二天驚險下山後決定去附近餐廳吃飯犒賞自己*
+*第二天驚險下山後決定去附近餐廳吃飯犒賞自己*
 
 以下是我的滑雪裝備心得總結：
 

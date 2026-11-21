@@ -25,9 +25,12 @@ episodeseries: ["Carnival Splendor 郵輪"]
 
 吃完早餐後我們立刻去聽了下船說明會，然後拍了一張全體工作人員代表的合照。
 
-![郵輪全體工作人員合照](images/medium-1*7dA119bDuhY51ZgW59kRmQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*7dA119bDuhY51ZgW59kRmQ.jpg" alt="郵輪全體工作人員合照" >}}
+{{< figure src="images/medium-1*I4QUA8AsXCCtciQSXrFmlw.jpg" alt="郵輪最後一天毛巾大象" >}}
+{{< /gallery >}}
 
-*員工代表合照![郵輪最後一天毛巾大象](images/medium-1*I4QUA8AsXCCtciQSXrFmlw.jpg)最後一天的毛巾大象加感謝小卡!*
+*員工代表合照最後一天的毛巾大象加感謝小卡!*
 
 ### 賭場刮刮樂
 

@@ -30,9 +30,12 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 晚上跟前 AWS 同事 J 一起吃飯，還跟他女友一起去打迷你高爾夫，是個好聊的正妹藥劑師！
 
-![墨爾本迷你高爾夫場地](images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*H42HxX45zZZwOl1aSJW4WQ.jpg" alt="墨爾本迷你高爾夫場地" >}}
+{{< figure src="images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpg" alt="迷你高爾夫不同主題場景" >}}
+{{< /gallery >}}
 
-*![迷你高爾夫不同主題場景](images/medium-1*O1VcNR9nLLCU6w0IfbBQkA.jpg)迷你高爾夫～不同場景很有趣*
+*迷你高爾夫～不同場景很有趣*
 
 **1/19 Sun**
 
@@ -42,31 +45,34 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 *咖啡爆炸好喝，餐點也好吃（是亞洲咖啡店)。當初只是想找個離旅館近的咖啡廳聚會，沒想到是個意外的驚喜~*
 
-![Daybreak cafe 精緻咖啡](images/medium-1*3QGgpLYqTa8njm4QTLcVuw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*3QGgpLYqTa8njm4QTLcVuw.jpg" alt="Daybreak cafe 精緻咖啡" >}}
+{{< figure src="images/medium-1*hwomF-3ethAj2uw8sEcyIA.jpg" alt="Daybreak cafe 美味餐點" >}}
+{{< /gallery >}}
 
-*![Daybreak cafe 美味餐點](images/medium-1*hwomF-3ethAj2uw8sEcyIA.jpg)Daybreak cafe 太有水準了吧！*
+*Daybreak cafe 太有水準了吧！*
 
 接著下午跟 Jen 一起去逛了 Fitzroy market & artist market，不得不說兩者都有點失望，感覺攤位性質很重複，藝術品不是手工首飾就是手繪，Fitzroy market 還有很多賣二手衣物的攤位，但也不是我們感興趣的風格lol
 
-![Fitzroy market 手工藝品攤位](images/medium-1*7Lxy-98mmkZnd2VkmbBwag.jpg)
-
-*![Artist market 藝術品展示](images/medium-1*zChHykykpqoi-skPv7YXmQ.jpg)*
-
-![墨爾本市集街景](images/medium-1*5Jc9_-pfwIwtevhHHEs4oQ.jpg)
-
-*![墨爾本街頭藝術](images/medium-1*pzhkbFEU1b6opi-OJnDiRQ.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*7Lxy-98mmkZnd2VkmbBwag.jpg" alt="Fitzroy market 手工藝品攤位" >}}
+{{< figure src="images/medium-1*zChHykykpqoi-skPv7YXmQ.jpg" alt="Artist market 藝術品展示" >}}
+{{< figure src="images/medium-1*5Jc9_-pfwIwtevhHHEs4oQ.jpg" alt="墨爾本市集街景" >}}
+{{< figure src="images/medium-1*pzhkbFEU1b6opi-OJnDiRQ.jpg" alt="墨爾本街頭藝術" >}}
+{{< /gallery >}}
 
 剛好知名可頌店 Lune (號稱世界第一可頌) 就在附近，回程時我們發現排隊人潮消失了，所以就想說去試試。
 
 結論：可頌是好吃的，可以看到中央廚房很酷，但世界第一真的不至於（我隨隨便便可以舉出兩三家更好吃的）。然後內用的人工候位系統簡直笨到讓我生氣耶，做人/做事可不可以聰明一點 囧
 
-![Lune 可頌店中央廚房](images/medium-1*xFLzR7JH8DLfwtkpImgiXQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*xFLzR7JH8DLfwtkpImgiXQ.jpg" alt="Lune 可頌店中央廚房" >}}
+{{< figure src="images/medium-1*xfYUpPwBTT_2qPiDpEgyFw.jpg" alt="Lune 店內用餐環境" >}}
+{{< figure src="images/medium-1*fCilz9wLGtpQaqC-N7gocw.jpg" alt="Lune 招牌可頌" >}}
+{{< figure src="images/medium-1*s4u_tmZRJJzTdgVNQaOWjQ.jpg" alt="Lune 可頌切面" >}}
+{{< /gallery >}}
 
-*![Lune 店內用餐環境](images/medium-1*xfYUpPwBTT_2qPiDpEgyFw.jpg)*
-
-![Lune 招牌可頌](images/medium-1*fCilz9wLGtpQaqC-N7gocw.jpg)
-
-*![Lune 可頌切面](images/medium-1*s4u_tmZRJJzTdgVNQaOWjQ.jpg)Lune*
+*Lune*
 
 **1/20 Mon**
 
@@ -78,9 +84,10 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 今天就是我的澳網重頭戲！我的票是很久以前買的，當初會買這天只是因為這是主球場 Rod Laver Arena 最便宜的一天，結果賽程出來之後我簡直撿了個大便宜！
 
-![澳網球場內部](images/medium-1*TjwP2FNlcUi8OjS2WmuhWQ.jpg)
-
-*![澳網比賽進行中](images/medium-1*z5SLEb-5ggAN2IotkvIVHg.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*TjwP2FNlcUi8OjS2WmuhWQ.jpg" alt="澳網球場內部" >}}
+{{< figure src="images/medium-1*z5SLEb-5ggAN2IotkvIVHg.jpg" alt="澳網比賽進行中" >}}
+{{< /gallery >}}
 
 我看到了男單世界第一 Sinner （義大利選手）跟世界第 9 Rune (丹麥選手)的比賽，真心是超級爆炸好看！兩個人都打得超好
 
@@ -109,20 +116,18 @@ episodeseries: ["2025 墨爾本澳網行"]
 
 最後我要說澳網的紀念品超級好買，很多東西我都很心動（雖然最後很克制只買了一頂帽子)。
 
-![澳網紀念品商店](images/medium-1*KGrjyZvoFG0HrQ6SvMTiwg.jpg)
-
-*![澳網特色商品展示](images/medium-1*9tJzIgltIcf-0RumED2Xng.jpg)*
-
-![澳網購買的帽子紀念品](images/medium-1*yOPfAxHzWeByd0HAkHfG-Q.jpg)
-
-*![澳網官方帽子商品](images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*KGrjyZvoFG0HrQ6SvMTiwg.jpg" alt="澳網紀念品商店" >}}
+{{< figure src="images/medium-1*9tJzIgltIcf-0RumED2Xng.jpg" alt="澳網特色商品展示" >}}
+{{< figure src="images/medium-1*yOPfAxHzWeByd0HAkHfG-Q.jpg" alt="澳網購買的帽子紀念品" >}}
+{{< figure src="images/medium-1*KfxsrOLUF_iPt18JgE6BfA.jpg" alt="澳網官方帽子商品" >}}
+{{< /gallery >}}
 
 最後要說整個澳網就跟嘉年華一樣，氣氛超好，我推薦每個人都去參加！最便宜的坐票大概 $130 就可以坐主場館了，如果覺得太貴，也可以買！$19 的 ground pass 進去感受氣氛，我大推！
 
-![澳網嘉年華活動氣氛](images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg)
-
-*![澳網現場遊客人潮](images/medium-1*TZ6aqe3xbQw_hMIbkpVn_A.jpg)*
-
-![澳網園區熱鬧景象](images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpg)
-
-*![澳網場館外觀全景](images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpg)*
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*Mtu0cqa3A54GaJO79A0w8Q.jpg" alt="澳網嘉年華活動氣氛" >}}
+{{< figure src="images/medium-1*TZ6aqe3xbQw_hMIbkpVn_A.jpg" alt="澳網現場遊客人潮" >}}
+{{< figure src="images/medium-1*GSYEUZxhkbnAsZYlHm5bZw.jpg" alt="澳網園區熱鬧景象" >}}
+{{< figure src="images/medium-1*LZg3UCxftlC3Zqo5o-m2BQ.jpg" alt="澳網場館外觀全景" >}}
+{{< /gallery >}}

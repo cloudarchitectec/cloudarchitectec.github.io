@@ -15,9 +15,12 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 * * *
 
-![瑞鐵SBB火車頭等車廂內裝](images/medium-1*I7E1Oya3h_eOmuCjJcdw4A.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*I7E1Oya3h_eOmuCjJcdw4A.jpg" alt="瑞鐵SBB火車頭等車廂內裝" >}}
+{{< figure src="images/medium-1*sEEzejIzrrAoFyfsr8thlg.jpg" alt="瑞士國鐵現代化車廂設計" >}}
+{{< /gallery >}}
 
-*![瑞士國鐵現代化車廂設計](images/medium-1*sEEzejIzrrAoFyfsr8thlg.jpg)後來才發現這班火車使用的是瑞鐵 SBB 的車廂*
+*後來才發現這班火車使用的是瑞鐵 SBB 的車廂*
 
 今天直接從德國慕尼黑前往瑞士茵特拉肯 (Interlaken)，因為沒有直達車，所以必須要在瑞士蘇黎世轉車。前一天我還特地又確認了一次火車時刻表，沒想到我在開車前的一小時收到通知說這班火車現在不停蘇黎世了⋯⋯這麼大的站你們說不停就不停😂
 
@@ -43,29 +46,36 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 我點了一杯熱巧，要價 5.1 瑞士法朗，不得不說瑞士果然是一個超級貴的地方！而且這裡的熱巧克力居然是給我一杯熱牛奶跟一包沖泡巧克力粉，太妙了XDD
 
-![瑞士火車餐車舒適座椅](images/medium-1*nIAj9UUiDoOzskR0fbMwyg.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*nIAj9UUiDoOzskR0fbMwyg.jpg" alt="瑞士火車餐車舒適座椅" >}}
+{{< figure src="images/medium-1*1UtXOB1te4T0v3eiJDFUrg.jpg" alt="火車餐車熱巧克力組合" >}}
+{{< /gallery >}}
 
-*![火車餐車熱巧克力組合](images/medium-1*1UtXOB1te4T0v3eiJDFUrg.jpg)餐車座位以及我點的熱巧克力*
+*餐車座位以及我點的熱巧克力*
 
 ### 愛的迫降拍攝點：布里恩茨湖 Brienzersee
 
 在火車上研究後發現，我今晚住宿點 Interlaken 附近有一個湖，湖的游船費用也包含在我今天的歐洲鐵路通行證裡面！所以我決定等一下到了之後，先把行李寄放在車站，然後搭火車去渡輪點！也就是今天除了六個小時的火車之外，還要坐個一小時的渡輪，簡直就是交通工具之旅XDD
 
-![茵特拉肯東站行李儲存服務](images/medium-1*HjRHZhNwcQnIVg4jn_SvVw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*HjRHZhNwcQnIVg4jn_SvVw.jpg" alt="茵特拉肯東站行李儲存服務" >}}
+{{< figure src="images/medium-1*F5wtoaIyLJ9C40hKen797w.jpg" alt="瑞士火車站置物櫃設施" >}}
+{{< /gallery >}}
 
-*![瑞士火車站置物櫃設施](images/medium-1*F5wtoaIyLJ9C40hKen797w.jpg)Interlaken Ost 車站寄放行李*
+*Interlaken Ost 車站寄放行李*
 
 好不容易到了 Interlaken Ost (Ost 就是東站的意思，基本上是這個小鎮的交通樞紐，所有去少女峰的交通都是由此出發)，我立刻去寄放行李！我的 23 寸行李箱加大後剛好可以塞進小的置物櫃，省了 2CHF (其實大的 10 元小的 8 元，並沒有差很多)，然後轉搭火車前往 Breinz 小鎮。有時間的話滿建議過來的，很適合拍照。
 
 布里恩茨湖 Brienzersee 就是愛的迫降的拍攝地（但我其實沒看過，好像有人說淚之女王也是在這裡拍的？但我一樣沒看就是了XD)
 
-![韓劇愛的迫降拍攝地湖光山色](images/medium-1*cuzT-LeP31Ax8lmxX97qPw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*cuzT-LeP31Ax8lmxX97qPw.jpg" alt="韓劇愛的迫降拍攝地湖光山色" >}}
+{{< figure src="images/medium-1*5U9PawSUHU3hNLZ_xRVdXg.jpg" alt="布里恩茨湖純淨阿爾卑斯山水" >}}
+{{< figure src="images/medium-1*K9cT7oonbB1O7mHeCjXg3w.jpg" alt="瑞士高山湖泊絕美景色" >}}
+{{< figure src="images/medium-1*FaBum1pCBGfzA7KV7ZlwWw.jpg" alt="布里恩茨湖清澈湖水倒影" >}}
+{{< /gallery >}}
 
-*![布里恩茨湖純淨阿爾卑斯山水](images/medium-1*5U9PawSUHU3hNLZ_xRVdXg.jpg)*
-
-![瑞士高山湖泊絕美景色](images/medium-1*K9cT7oonbB1O7mHeCjXg3w.jpg)
-
-*![布里恩茨湖清澈湖水倒影](images/medium-1*FaBum1pCBGfzA7KV7ZlwWw.jpg)布里恩茨湖真的超美！！！*
+*布里恩茨湖真的超美！！！*
 
 總之，不管你是不是韓劇迷，這裡我都很推薦來，因為真是太美啦!!!
 
@@ -81,9 +91,12 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 瑞士 Interlaken 住宿
 
-![茵特拉肯三星級經濟旅館](images/medium-1*ka9cMlBKbsogGn32adamDQ.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*ka9cMlBKbsogGn32adamDQ.jpg" alt="茵特拉肯三星級經濟旅館" >}}
+{{< figure src="images/medium-1*qgMdlg4ZWAOru3ilkX8Lng.jpg" alt="旅館單人房窗外山景" >}}
+{{< /gallery >}}
 
-*![旅館單人房窗外山景](images/medium-1*qgMdlg4ZWAOru3ilkX8Lng.jpg)三星旅館以及房間的窗景*
+*三星旅館以及房間的窗景*
 
 瑞士的旅館真心超級無敵貴！我訂了一個在西站的單人房（西站吃的東西比較多也比較繁榮)，只要入住 Interlaken 的飯店，他們好像都會送當地的交通卡，所以我覺得住哪的差別可能不是很大！
 
@@ -91,9 +104,12 @@ episodeseries: ["一個女生的歐洲獨旅"]
 
 ### 晚餐 Little Thai
 
-![瑞士Little Thai泰式餐廳](images/medium-1*dGETJcrQtBBjjDYgpAtYTw.jpg)
+{{< gallery cols="2" >}}
+{{< figure src="images/medium-1*dGETJcrQtBBjjDYgpAtYTw.jpg" alt="瑞士Little Thai泰式餐廳" >}}
+{{< figure src="images/medium-1*AhWPQJnVEl3vD-5VPwvyFA.jpg" alt="正宗泰式tom yum酸辣湯" >}}
+{{< /gallery >}}
 
-*![正宗泰式tom yum酸辣湯](images/medium-1*AhWPQJnVEl3vD-5VPwvyFA.jpg)料超多的 tom yum soup*
+*料超多的 tom yum soup*
 
 今天坐了 7 個小時火車加 75 分鐘的渡輪，我真的很需要一晚亞洲熱湯。於是我查到一家要走路 15 分鐘的泰式餐廳（我當下其實已經累爆了，但想說瑞士外食很貴，既然錢都要花了，我一定要吃到評價高且好吃的XDD）
 
